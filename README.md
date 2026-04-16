@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 252 resources | Federal, Provincial, Municipal + more
+**Quick stats:** 410 resources | Federal, Provincial, Municipal + more
 
 ---
 
@@ -26,19 +26,20 @@
 12. [Federal Veterans \& Military](#-federal-veterans--military)
 13. [Federal Education \& Labour](#-federal-education--labour)
 14. [Parks Canada — National Parks \& Historic Sites](#-parks-canada--national-parks--historic-sites)
-15. [Provincial Government (Ontario)](#-provincial-government-ontario)
-16. [Provincial Government (British Columbia)](#-provincial-government-british-columbia)
-17. [Provincial Government (Alberta)](#-provincial-government-alberta)
-18. [Provincial Government (Quebec)](#-provincial-government-quebec)
-19. [Provincial Government (Atlantic Canada)](#-provincial-government-atlantic-canada)
-20. [Provincial Government (Prairies)](#-provincial-government-prairies)
-21. [Provincial Government (Northern Territories)](#-provincial-government-northern-territories)
-22. [Municipal Government](#-municipal-government)
-23. [Conservation Authorities](#-conservation-authorities)
-24. [Transit \& Mobility](#-transit--mobility)
-25. [Crown Corporations](#-crown-corporations)
-26. [Housing \& Real Estate](#-housing--real-estate)
-27. [Elections \& Civic Participation](#-elections--civic-participation)
+15. [Utilities \& Infrastructure](#-utilities--infrastructure)
+16. [Provincial Government (Ontario)](#-provincial-government-ontario)
+17. [Provincial Government (British Columbia)](#-provincial-government-british-columbia)
+18. [Provincial Government (Alberta)](#-provincial-government-alberta)
+19. [Provincial Government (Quebec)](#-provincial-government-quebec)
+20. [Provincial Government (Atlantic Canada)](#-provincial-government-atlantic-canada)
+21. [Provincial Government (Prairies)](#-provincial-government-prairies)
+22. [Provincial Government (Northern Territories)](#-provincial-government-northern-territories)
+23. [Municipal Government](#-municipal-government)
+24. [Conservation Authorities](#-conservation-authorities)
+25. [Transit \& Mobility](#-transit--mobility)
+26. [Crown Corporations](#-crown-corporations)
+27. [Housing \& Real Estate](#-housing--real-estate)
+28. [Elections \& Civic Participation](#-elections--civic-participation)
 
 ---
 
@@ -116,6 +117,23 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 | Competition Bureau Canada — Corporate Search | Search for registered businesses, corporate histories, and merger information | Corporate search | https://www.competitionbureau.gc.ca/eng/mergers-and-acquisitions |
 | Financial Consumer Agency — Consumer Tools | Budget planner, credit card selector, bank account comparison, and financial literacy tools | Financial tools | https://www.canada.ca/en/financial-consumer-agency.html |
 | Canada Revenue Agency — My Business Account | Online business tax portal for GST/HST filing, payroll, and corporate returns | Tax portal | https://www.canada.ca/en/revenue-agency/services/e-services.html |
+| Buy and Sell Canada — Government Procurement | Federal government procurement portal for suppliers — browse tenders, submit bids, manage contracts with the Government of Canada | Procurement | https://buyandsell.gc.ca/ |
+| Competition Bureau — Let Us Know (Reporting) | Report anti-competitive behaviour, deceptive marketing, or competition concerns to the Competition Bureau of Canada | Consumer protection | https://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/00570.html |
+| Corporations Canada — Online Filing | Incorporate a federal corporation, file annual returns, search the federal corporate registry, and manage business filings online | Business registry | https://www.ic.gc.ca/ecc/ |
+| MERX — Canadian Procurement Platform | Canada's largest electronic procurement platform — access federal, provincial, and municipal tender notices across all industries | Procurement | https://www.merx.com/ |
+
+## 🟡 Federal Immigration
+
+| Name | Description | Type | URL |
+|---|---|---|---|
+| Express Entry — Comprehensive Ranking System (CRS) Criteria | Full breakdown of how points are awarded in the CRS — core human capital factors, spouse factors, skill transferability, and provincial nomination bonuses | Calculator | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html |
+| Express Entry — Create an Express Entry Profile | Submit your Express Entry profile online to be entered into the pool of candidates for Canada's primary economic immigration programs | Service | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile.html |
+| Express Entry — Eligibility Checker | Find out if you're eligible for Express Entry under the Federal Skilled Worker, Federal Skilled Trades, or Canadian Experience Class programs | Eligibility tool | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility.html |
+| Immigration, Refugees and Citizenship Canada — Come to Canada Tool | Answer two questions to get a personalized list of immigration programs you may be eligible for, with a personal reference code | Eligibility tool | https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html |
+| IRCC — Citizenship Test Resources | Official Discover Canada study guide, practice tests, and resources for the Canadian citizenship test | Education | https://www.canada.ca/en/immigration-refugees-citizenship/services/citizenship/test-study-guide.html |
+| IRCC — Find Your Nearest Visa Application Centre | Locate a Visa Application Centre (VAC) to submit biometrics, passports, and application documents for Canadian visa and permit applications | Finder | https://www.canada.ca/en/immigration-refugees-citizenship/services/find-visa-application-centre.html |
+| IRCC — Online Case Status Tracker | Check the status of your immigration application online using your UCI (unique client identifier) and personal details | Service | https://www.canada.ca/en/immigration-refugees-citizenship/services/check-status.html |
+| IRCC — Proof of Canadian Citizenship Tool | Determine if you need a citizenship certificate or search the global resume bank to prove Canadian citizenship for a deceased relative | Eligibility tool | https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-kit/proof-citizenship.html |
 
 ## 🟡 Federal Health
 
@@ -158,12 +176,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 | Name | Description | Type | URL |
 |---|---|---|---|
+| Agriculture and Agri-Food Canada — Market Information Portal | Weekly commodity prices, market reports, trade data, and price charts for Canadian agricultural products | Market data | https://agriculture.canada.ca/en/markets |
+| Agriculture and Agri-Food Canada — Weekly Canadian Food Prices | Weekly retail price tracking for major food categories — meat, dairy, produce, bakery, and more — across Canada | Price data | https://agriculture.canada.ca/en/markets/market-information-reporting/consumer-food-prices |
 | Canadian Food Inspection Agency — Food Safety Warnings | Public health warnings, recalls, and food safety alerts | Food warnings | https://inspection.canada.ca/food-recalls-and-safety-alerts/eng/1581969136197/1581969136496 |
+| Canadian Food Inspection Agency — Plant Protection Export Certification | Phytosanitary certificates and export documentation for plant and plant product shipments leaving Canada | Service | https://inspection.canada.ca/plant-health/imports/phytosanitary-certificates/eng/1324625197006/1324625197873 |
+| Canadian Dairy Commission — Dairy Producer Information | Dairy pricing information, market reports, and program details for Canadian dairy producers | Agriculture | https://cdc.ca/en/ |
 | Canadian Dairy Commission — Milk Prices and Reports | Information on milk pricing, dairy policy, and market reports | Dairy info | https://cdc.ccg-gcc.ca/ |
+| Canadian Pari-Mutuel Agency — Betting Information | Federal regulatory body for pari-mutuel betting on horse racing — licensing, betting rules, and industry information | Regulation | https://cpma-cpam.gc.ca/ |
 | Canadian Wine Authority — VQA Wine Info | Ontario's Vintners Quality Alliance wine standards, producer listings, and wine info | Wine info | https://www.vqaontario.ca/ |
-| Foodland Ontario — Seasonal Availability | What's in season across Ontario farms and markets | Seasonal guide | https://www.ontario.ca/foodland/ |
-| Buy Ontario Food — Find Local | Search Ontario producers, farmers' markets, and local food sources | Local food finder | https://www.ontario.ca/topic/buy-local-food |
-| Ontario Farm Products Marketing Commission | Farm product grading, pricing, and marketing information | Agriculture info | https://www.ofmag.gov.on.ca/ |
+| Canada Grain Commission — Seed Lab Testing | Official seed testing, grading, and certification services for Canadian grain producers and the grain industry | Service | https://grainscanada.gc.ca/en/seed.html |
 
 ## 🔶 Federal Transportation
 
@@ -232,6 +253,22 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 | Writing-on-Stone National Historic Site | Sacred Blackfoot landscape, Alberta, petroglyphs and pictographs | Historic site | https://parks.canada.ca/writing-on-stone |
 | Parks Canada — Reservations | Book camping, roofed accommodations, and permits across all national parks | Booking portal | https://parks.canada.ca/voyage-travel/reserve |
 
+## ⚡ Utilities & Infrastructure
+
+| Name | Description | Type | URL |
+|---|---|---|---|
+| ATCO — Gas Outage Map and Emergency | ATCO's gas and electric outage information — view current outages and report gas emergencies in Alberta | Outage map | https://www.atco.com/en-ca/for-home/outages.html |
+| Calgary Electric Utility — ENMAX Outages | ENMAX's power outage information and map for Calgary — view current outages and report service issues | Outage map | https://www.enmax.com/outages |
+| Edmonton Electric Utility — EPCOR Outages | EPCOR's electric outage map for Edmonton — current power outages, outage causes, and restoration times | Outage map | https://www.epcor.com/outages |
+| FortisBC — Gas Outage Map | Map of current gas service interruptions in FortisBC's service territory across British Columbia | Outage map | https://www.fortisbc.com/outages |
+| Hydro-Québec — Energy Consumption Tools | Track and analyze your electricity consumption, compare your usage to similar households, and get personalized tips to reduce bills | Calculator | https://www.hydroquebec.com/residential/customer-space/account-and-billing/understanding-your-bill/consumption.html |
+| Hydro-Québec — Power Outage Map | Interactive map of current and recent power outages across Quebec — view affected areas, cause, and estimated restoration times | Outage map | https://www.hydroquebec.com/poweroutages/index.html |
+| Hydro-Québec — Report an Outage and Mobile App | Report a power outage to Hydro-Québec, check real-time status by address, and access the Hydro-Québec mobile app for notifications | Service | https://www.hydroquebec.com/mobile-app.html |
+| Ontario Power Generation — Dam Safety and Water Management | OPG's dam safety monitoring, water level data, and water management information for Ontario's hydroelectric facilities | Water management | https://www.opg.com/safety/dams/ |
+| Ontario Power Generation — Nuclear Monitoring Dashboard | Nuclear generation data, environmental monitoring results, and safety performance information from OPG's Pickering and Darlington stations | Dashboard | https://www.opg.com/generating-power/nuclear/nuclear-performance/ |
+| Toronto Hydro — Outage Map | Toronto Hydro's power outage map — view current outages in Toronto's electricity distribution area | Outage map | https://www.torontohydro.com/outages |
+| Toronto Water — Water Quality Reports | Annual drinking water quality reports, water monitoring data, and watershed protection information for Toronto | Water quality | https://www.toronto.ca/community-people/home-neighbourhood/water-toronto-water/drinking-water-quality/ |
+
 ## 🟧 Provincial Government (Ontario)
 
 | Name | Description | Type | URL |
@@ -240,7 +277,23 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 | Ontario Government Data landing page | Entry point for open data, GeoHub, source code, and data guidance | Open government hub | http://ontario.ca/open |
 | Ontario GeoHub | Ontario's geographic data and interactive map hub | GIS / map portal | https://geohub.lio.gov.on.ca/ |
 | 511 Ontario | Real-time highway conditions, incidents, closures, and cameras | Road conditions map | https://511on.ca/ |
+| Ontario 511 — Planned Roadwork Map | View planned and scheduled road construction and maintenance on Ontario's provincial highways via the 511 system | Road conditions | https://511on.ca/ |
+| Ontario Beef — Beef Farmers of Ontario | Resources, market data, and programs for Ontario's beef farmers — including the Ontario Corn Fed Beef program | Agriculture | https://www.bfo.org/ |
+| Ontario Business Registry | Register a business, search existing business names, file business name registrations, and manage Ontario business accounts | Business registry | https://www.ontario.ca/page/onbid |
+| Ontario Farm Markets — Find a Farm Market | Search for on-farm markets, u-pick operations, and farm retail locations across Ontario | Finder | https://www.ontario.ca/foodland/farm-markets |
+| Ontario Farm Products — Provincial and National Marketing | Ontario's regulated marketing system for farm products — grading, pricing, commission, and quota information across commodity boards | Agriculture | https://www.ontario.ca/farmproducts |
+| Foodland Ontario — What's In Season | Seasonal availability guide for Ontario-grown fruits and vegetables — know what's fresh from Ontario farms right now | Finder | https://www.ontario.ca/foodland/page/whats-season |
+| Ontario Land Registry (Teranet) | Search property ownership records, view titles, historical documents, and property maps through the Ontario Land Registry | Land registry | https://www.teranet.ca/ |
+| Ontario Land Transfer Tax Calculator | Calculate the provincial land transfer tax you owe when purchasing property in Ontario | Calculator | https://www.ontario.ca/page/land-transfer-tax |
+| Ontario One Call — Locate Services Before Digging | Free service to locate buried pipes and cables before digging — Ontario law requires a locate request before any excavation | Safety | https://www.onecallontario.com/ |
+| Ontario Photo Card | Apply for an Ontario Photo Card — government-issued photo ID for residents who don't have a driver's licence | ID service | https://www.ontario.ca/page/ontario-photo-card |
+| Ontario Property Assessment — MPAC | Municipal Property Assessment Corporation — look up your property's assessed value, class, and assessment details | Property | https://www.mpac.ca/ |
 | Ontario Parks | Park discovery, camping, maps, and trip planning | Park finder / booking | https://www.ontarioparks.ca/ |
+| Ontario — Report a Problem with a Business | Report problems with Ontario businesses — consumer protection, contract disputes, and deceptive practices to the Ministry of Public and Business Service Delivery | Consumer protection | https://www.ontario.ca/page/report-problem-business-or-consumer |
+| ServiceOntario — Driver's Licence Renewal | Renew or replace your Ontario driver's licence online, update address, and manage photo card records | Service | https://www.ontario.ca/page/services-related-drivers-licences |
+| ServiceOntario — Health Card (OHIP) | Apply for, renew, or replace an Ontario health card (OHIP) — eligibility check and online application support | Service | https://www.ontario.ca/page/apply-ohip-card |
+| ServiceOntario — Vital Statistics | Order certified copies of birth, marriage, and death certificates, plus search historical vital statistics records | Service | https://www.ontario.ca/page/vital-statistics |
+| ServiceOntario — Vehicle Registration Renewal | Renew Ontario vehicle registration, transfer ownership, and order licence plate stickers online | Service | https://www.ontario.ca/page/renew-or-replace-drivers-licence |
 
 ## 🟩 Provincial Government (British Columbia)
 
@@ -248,9 +301,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 |---|---|---|---|
 | DataBC | Major open data and geospatial hub for BC | Open data portal | https://www2.gov.bc.ca/gov/content/data |
 | Recreation Sites and Trails B.C. | Great search and filterable map for trails, recreation sites, alerts, and closures | Outdoor map / finder | https://gov.bc.ca/gov/content/sports-culture/recreation/camping-hiking/sites-trails |
+| BC Assessment — Property Search | Look up assessed property values, property class, sales data, and ownership information for any property in BC | Property | https://www.bcassessment.ca/ |
+| BC Business Registry — Corporate Online | Search BC corporate records, register a new business, and file annual reports through BC Corporate Online | Business registry | https://www.corporateonline.gov.bc.ca/ |
+| BC Hydro — Planned Outages and Outage List | Browse list of current, planned, and recently restored power outages across BC Hydro's service territory | Outage info | https://www.bchydro.com/power-outages |
+| BC Hydro — Power Outage Map | Interactive map showing current and recent power outages across BC — view affected areas, estimated restoration times, and outage cause | Outage map | https://app.bchydro.com/power-outages/app/outage-map.html |
+| BC Hydro — Report an Outage | Report a power outage to BC Hydro online or check the outage map for your area | Service | https://www.bchydro.com/outages/orsmapview.jsp |
 | BC Parks | Clean park search experience with advisories and planning info | Park finder | https://bcparks.ca/ |
 | BC Parks Find a Park | Filterable park explorer by activity, facilities, and area | Finder | https://bcparks.ca/find-a-park/ |
 | BC Parks Maps | Rich park map with overlays like closures, weather, cell coverage, and earthquakes | Interactive maps | https://bcparks.ca/plan-your-trip/maps |
+| BC Property Transfer Tax Calculator | Calculate the provincial property transfer tax due when buying property or acquiring land in British Columbia | Calculator | https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax |
+| BC Tenant Resource Centre — Rights and Resources | Free province-wide service helping BC tenants understand their rights, find housing, and resolve disputes with landlords | Tenant tool | https://tenantresourcecentre.ca/ |
 | DriveBC | Cameras, closures, incidents, and route conditions | Road conditions map | https://www.drivebc.ca/ |
 
 ## 🟪 Provincial Government (Alberta)
@@ -262,6 +322,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 | Public Land Recreation Maps | Downloadable and georeferenced recreation maps for public land | Recreation map hub | https://alberta.ca/public-land-recreation-maps |
 | Alberta Parks | Park discovery, activities, reservations, and maps | Park finder | https://www.albertaparks.ca/ |
 | 511 Alberta | Official highway events, road conditions, and cameras | Road conditions map | https://511.alberta.ca/ |
+| Alberta Corporate Registry | Search and register Alberta businesses, partnerships, and corporations through the Alberta Corporate Registry | Business registry | https://www.alberta.ca/corporate-registry |
+| Alberta Land Surveyor — Tricked or Tracked | Identify unauthorized work in the right-of-way — report construction encroachment on Alberta utility and survey corridors | Safety | https://trickedortracked.com/ |
+| Alberta Property Rights — Land Titles | Alberta land titles search — property ownership records, title documents, and land ownership history | Land registry | https://alta.registries.gov.ab.ca/ |
+| Alberta Utilities Commission — Consumer Services | Alberta Utilities Commission consumer services — complaints, dispute resolution, and utility rate information for Alberta energy consumers | Consumer protection | https://www.auc.ab.ca/ |
+| ATCO Electric — Outage Map | ATCO Electric's outage map showing current power outages across rural and urban Alberta communities served by ATCO | Outage map | https://www.atco.com/en-ca/outages.html |
+| Utilities Consumer Advocate Alberta | Free advocacy for Alberta energy consumers — compare electricity and gas rates, understand your options, and get help with disputes | Advocacy | https://ucahelps.alberta.ca/ |
 
 ## 🟦 Provincial Government (Quebec)
 
@@ -270,6 +336,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 | Données Québec | Strong open data portal with datasets, apps, and interactive map components | Open data portal | https://www.donneesquebec.ca/ |
 | Sépaq | Huge outdoor destination network with parks, lodging, and activity discovery | Outdoor network portal | https://www.sepaq.com/index.dot?language_id=1 |
 | Quebec 511 | Provincial road conditions, incidents, and closures | Road conditions map | https://www.quebec511.info/en/ |
+| Quebec 811 — Health Info Line | Dial 811 for non-urgent health advice, to find a family doctor, or access health and social services in Quebec | Health service | https://www.quebec.ca/en/health/health-system-and-services/quebec-health-system-overview/811 |
+| Quebec's Land Portfolio — SÉIA | Public consultation platform for Quebec's Statement of Site Potential — view and comment on land use planning for vacant lots | Land map | https://seia.amq.quebec/ |
 | Données Québec interactive map and apps | Useful discovery layer for apps built from Quebec open data | Map/app showcase | https://www.donneesquebec.ca/ |
 
 ## 🩵 Provincial Government (Atlantic Canada)
@@ -279,19 +347,25 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 | New Brunswick Open Data | Socrata-powered open data portal for New Brunswick datasets | Open data portal | https://gnb.socrata.ca/ |
 | New Brunswick Parks — Parks NB | Provincial parks discovery, camping reservations, and trip planning | Park finder | https://www2.gnb.ca/content/gnb/en/departments/50.html |
 | New Brunswick 511 | Road conditions, construction, cameras, and travel advisories for NB | Road conditions map | https://511.gnb.ca/ |
+| New Brunswick Corporate Registry | Search and register New Brunswick businesses and corporations through Service New Brunswick's corporate registry | Business registry | https://www.pxw1.snb.ca/snb/ |
 | New Brunswick Geological Survey | Interactive geological maps, mineral deposits, and geoscience data for NB | Geology maps | https://www2.gnb.ca/content/gnb/en/departments/10.html |
+| New Brunswick Land Registry | New Brunswick's land registration system — search property ownership, title records, and land-related documents | Land registry | https://www2.gnb.ca/content/gnb/en/departments/servicenb/registered-products-and-businesses/land-registry.html |
+| NL Health Line — 811 | Call 811 for non-urgent health advice, find a family physician, or access health and community services in Newfoundland and Labrador | Health service | https://www.gov.nl.ca/hcs/811/ |
+| Newfoundland and Labrador Open Data | Newfoundland and Labrador government open data catalogue | Open data portal | https://data.gov.nl.ca/ |
+| Newfoundland and Labrador Property Assessment | Property assessment data for Newfoundland and Labrador — look up assessed values and property details by municipality | Property | https://www.assessment.nl.ca/ |
+| NL Parks — Provincial Parks Directory | Search Newfoundland and Labrador provincial parks and outdoor destinations | Park finder | https://www.gov.nl.ca/ecc/ |
+| NL 511 | Newfoundland and Labrador road conditions, cameras, and alerts | Road conditions map | https://www.gov.nl.ca/motorizedvehicles/511/ |
+| NL Atlas — Natural Heritage Atlas | Interactive atlas with natural heritage, land cover, and biodiversity data | Atlas | https://www.gov.nl.ca/ecc/maes/natural-heritage-atlas/ |
 | Nova Scotia Open Data | Nova Scotia open data with storytelling feature and datasets | Open data portal | https://data.novascotia.ca/ |
 | Nova Scotia Parks — Parks and Protected Areas | Provincial parks and protected areas search with adventure guide content | Park finder | https://parks.novascotia.ca/ |
 | Nova Scotia 511 | Real-time road conditions, closures, and cameras for Nova Scotia | Road conditions map | https://511ns.ca/ |
+| Nova Scotia Registry of Births, Marriages and Deaths | Order Nova Scotia vital statistics certificates — birth, marriage, death, and change of name documents | Vital statistics | https://novascotia.ca/vitals/ |
 | Nova Scotia Topographic Map Database | Free downloadable topographic maps for Nova Scotia | Topographic maps | https://ns topo.novascotia.ca/ |
+| NB Heritage Conservation Act — Register of Heritage Places | Register of designated heritage properties in New Brunswick | Heritage register | https://www2.gnb.ca/content/gnb/en/departments/108/6458.html |
 | PEI Open Data | Prince Edward Island government open data | Open data portal | https://www.princeedwardisland.ca/en/service/open-data |
 | PEI Parks | PEI provincial parks and beaches, camping and booking info | Park finder | https://www.princeedwardisland.ca/en/topics/parks-and-environment |
 | PEI 511 | PEI road conditions and traffic advisories | Road conditions map | https://511pei.ca/ |
-| Newfoundland and Labrador Open Data | Newfoundland and Labrador government open data catalogue | Open data portal | https://data.gov.nl.ca/ |
-| NL Parks — Provincial Parks Directory | Search Newfoundland and Labrador provincial parks and outdoor destinations | Park finder | https://www.gov.nl.ca/ecc/ |
-| NL 511 | Newfoundland and Labrador road conditions, cameras, and alerts | Road conditions map | https://www.gov.nl.ca/motorizedvehicles/511/ |
-| NL Atlas — Natural Heritage Atlas | Interactive atlas with natural heritage, land cover, and biodiversity data | Atlas | https://www.gov.nl.ca/ecc/ |
-| NB Heritage Conservation Act — Register of Heritage Places | Register of designated heritage properties in New Brunswick | Heritage register | https://www2.gnb.ca/content/gnb/en/departments/108/6458.html |
+| PEI Property Tax Calculator | Estimate annual property taxes for residential and commercial properties on Prince Edward Island | Calculator | https://www.princeedwardisland.ca/en/service/property-tax |
 
 ## 🩷 Provincial Government (Prairies)
 
@@ -326,32 +400,86 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 | Name | Description | Type | URL |
 |---|---|---|---|
 | Toronto Open Data Portal | One of the best municipal open data portals in Canada | Open data portal | https://open.toronto.ca/ |
-| Toronto 2026 City Budget | Official budget portal with accessible explainer content and documents | Budget portal | http://toronto.ca/Budget |
+| Toronto Open Data landing page | Portal page with datasets, gallery, and city data access | Open data hub | https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-portal/ |
+| 2026 City Budget | Official budget portal with accessible explainer content and documents | Budget portal | http://toronto.ca/Budget |
 | Toronto Maps / data and research hub | Broad entry point for city maps, data, and research tools | GIS / research hub | https://www.toronto.ca/city-government/data-research-maps/ |
 | Toronto Bike Share station map | Station finder and system map for bike share | Mobility map | https://bikesharetoronto.com/system-map/ |
+| Toronto Development Charges Calculator | Calculate development charges for new residential and non-residential construction in Toronto | Calculator | https://www.toronto.ca/city-government/data-research-maps/open-data-toronto-tiles-list/?taxonomy=finance/ |
+| Toronto Garbage and Recycling Schedule | Look up your collection schedule for garbage, recycling, organics, and yard waste by address in Toronto | Service | https://www.toronto.ca/legdocs/municode/1184-2017.pdf |
+| Toronto Heritage Register — Built Heritage | Searchable list of Toronto's designated and listed heritage properties — built heritage, cultural landscapes, and archaeological sites | Heritage register | https://www.toronto.ca/city-government/data-research-maps/toronto-parks-trees-green-space/heritage-register/ |
+| Toronto Island Ferry — Toronto Parks | Toronto Island ferry schedules, ticket information, and trip planning to Toronto Islands from Jack Layton Ferry Terminal | Ferry | https://www.toronto.ca/explore-enjoy/parks-recreation/toronto-island-park/ferry-tickets/ |
+| Toronto Noise Bylaw — Complaint and Exemption Tool | File a noise complaint or apply for a noise exemption permit under Toronto's Noise Bylaw | Service | https://www.toronto.ca/community-people/get-involved/community-initiatives/noise-exemption/ |
+| Toronto Property Tax Calculator | Estimate your annual property tax bill for Toronto residential or commercial properties based on assessed value | Calculator | https://www.toronto.ca/services-payments/property-taxes/utilities-builders-contractors/toronto-property-tax-calculator/ |
+| Toronto Ward Profiles — Social Development | Ward-by-ward social development data — demographics, income, employment, and community well-being indicators | Data | https://www.toronto.ca/city-government/data-research-maps/toronto-parks-trees-green-space/ |
 | TTC Service Advisories / maps | Route, service, and map resources for transit users | Transit tool | https://www.ttc.ca/ |
 | Ottawa Open Data | Municipal open data portal with datasets and map resources | Open data portal | https://open.ottawa.ca/ |
 | Ottawa Budget Explorer | Interactive budget explainer with graphs, charts, and downloadable data | Budget explorer | https://ottawa.ca/en/city-hall/city-news/newsroom/discover-draft-budget-2026-budget-explorer |
+| Ottawa Budget Explorer datasets | Raw datasets behind the budget visualizations | Dataset bundle | https://open.ottawa.ca/datasets/e88c52d7727e4a9dba6d427c9bd6445c |
 | GeoOttawa | Property, zoning, planning, aerials, and city geography layers | Interactive map | https://maps.ottawa.ca/geoottawa/ |
-| Open Calgary | Well-stocked municipal open data portal with lots of map assets | Open data portal | https://data.calgary.ca/ |
+| Ottawa Heritage Register — Built Heritage Inventory | Ottawa's inventory of designated and non-designated heritage properties — searchable by address, ward, and heritage type | Heritage register | https://ottawa.ca/en/planning-development-and-construction/heritage-conservation/heritage-register |
+| Ottawa O-Train — Line 1 and Line 2 | Ottawa's O-Train Confederation Line and Trillium Line — real-time arrivals, service advisories, and trip planning | Transit | https://www.octranspo.com/online/o-train |
+| Ottawa Property Tax Calculator | Estimate your annual municipal property tax in Ottawa based on assessed property value and property class | Calculator | https://ottawa.ca/en/property-and-tax-services/property-taxes/property-tax-calculator |
+| Ottawa Snow Plow Tracker | Live Ottawa plow tracker — see where snow plows are currently operating during winter storm events | Snow operations | https://www.ottawasnowplow.com/ |
+| Ottawa Traffic, Parking and Road Bans | View real-time traffic conditions, road closures, parking restrictions, and seasonal road bans in Ottawa | Service | https://traffic.ottawa.ca/ |
+| Calgary Open Data overview | Nice overview of categories, uses, and mapping assets | Portal landing page | https://www.calgary.ca/research/open-data-portal.html |
+| Calgary Open Data | Well-stocked municipal open data portal with lots of map assets | Open data portal | https://data.calgary.ca/ |
 | Calgary Equity Index | Sophisticated GIS tool mapping equity indicators across the city | Equity map / dashboard | https://calgary.ca/research/calgary-equity-index.html |
+| Calgary 311 — Service Requests | Submit and track 311 service requests in Calgary — bylaw violations, road maintenance, parks, and more | Service | https://www.calgary.ca/311.html |
+| Calgary Heritage Register | Search Calgary's heritage inventory — designated heritage resources, historic sites, and cultural landscapes | Heritage register | https://www.calgary.ca/planning/proposed/heritage-register.html |
+| Calgary Property Tax Calculator | Estimate your annual property tax bill in Calgary using your assessed value and property type | Calculator | https://www.calgary.ca/caos/cfs/taxes.html |
 | CalTRACS | Searchable traffic count system with decades of pedestrian, bike, and vehicle data | Transportation data tool | https://calgary.ca/planning/transportation/traffic-counts.html |
 | Montreal Open Data Portal | Strong open data site with datasets, apps, and frequent updates | Open data portal | https://data.montreal.ca/ |
 | Montreal Open Data showcase | Gallery of applications built from Montreal open data | App gallery | https://donnees.montreal.ca/en/showcase |
 | Allo-MTL — Montréal en temps réel | Aggregates 20+ datasets: snow removal, parking signs, bike routes, trees, air quality, and more | Real-time city map | https://donnees.montreal.ca/en/showcase/allo-mtl-montreal-temps-reel |
+| 311 Montréal app | Citizen service app with snow operations and city service info | Service / city app | https://donnees.montreal.ca/en/showcase |
+| Info-Neige | Street-by-street snow-clearing information and parking restrictions | Snow operations map | https://donnees.montreal.ca/en/showcase |
+| Arbres Montréal | Public tree visualization and exploration tool | Tree map | https://donnees.montreal.ca/en/showcase |
+| Vue sur les contrats | Visualization of contracts and grants awarded by the city | Transparency tool | https://donnees.montreal.ca/en/showcase |
+| Vue sur la sécurité publique | Public safety and crime-related visualization tool | Safety visualization | https://donnees.montreal.ca/en/showcase |
+| Cli-MTL | Interactive map of public cooled spaces in Montreal | Heat / climate map | https://donnees.montreal.ca/en/showcase |
 | STM Info outils / network maps | Metro and bus map resources and rider tools | Transit map/tools | https://www.stm.info/en |
+| Halifax Maps — HalifaxMapper | Halifax's interactive mapping tool — property, zoning, municipal services, and city infrastructure | GIS | https://www.halifax.ca/about-halifax/halifax-mapper |
 | Halifax Open Data | Useful municipal data and maps hub | Open data portal | https://www.halifax.ca/home/open-data |
+| Halifax Property Valuation — Online Query | Look up assessed property values, property information, and ownership details for Halifax Regional Municipality | Property | https://www.halifax.ca/finance/property-tax/assessment-centre/assessment-records |
 | Edmonton Open Data Portal | Large set of municipal datasets and maps | Open data portal | https://data.edmonton.ca/ |
 | Edmonton Maps | Property, planning, utilities, and municipal geography tools | City map portal | https://maps.edmonton.ca/ |
 | Vancouver Open Data Portal | High-quality datasets and APIs for civic use | Open data portal | https://opendata.vancouver.ca/ |
+| Vancouver Active Condo Listings — City Data | Active Strata and condo listings data published as open data by the City of Vancouver | Housing | https://opendata.vancouver.ca/pages/home/ |
+| Vancouver Heritage Register — Vancouver Heritage Database | Search Vancouver's heritage database — designated A, B, C heritage resources and potential heritage sites | Heritage register | https://vancouver.ca/home-property-development/heritage-register.aspx |
+| Vancouver Property Tax Calculator | Estimate your annual property tax in Vancouver based on assessed value and property classification | Calculator | https://vancouver.ca/home-property-development/property-taxes-and-assessments.aspx |
 | Vancouver VanMap | Parcel, zoning, parks, utilities, and city layers | Interactive map | https://maps.vancouver.ca/vanmap-viewer/ |
 | Winnipeg Open Data Portal | Municipal data catalogue with maps and downloads | Open data portal | https://data.winnipeg.ca/ |
 | Quebec City interactive maps / open data | Municipal data and mapping resources | Maps / data | https://www.ville.quebec.qc.ca/apropos/portrait/acces-information/donnees-ouvertes/ |
-| Mississauga Open Data | Strong GTA municipal data portal | Open data portal | https://data.mississauga.ca/ |
-| Brampton Open Data | Civic data portal with mapping and city datasets | Open data portal | https://geohub.brampton.ca/ |
-| Brampton budget / Open Book resources | Budget transparency resources and project-oriented views | Transparency / budget | https://www.brampton.ca/EN/City-Hall/budget/ |
+| Quebec City Open Data | Quebec City's open data portal with datasets, interactive maps, and civic applications | Open data | https://www.ville.quebec.qc.ca/apropos/portrait/acces-information/donnees-ouvertes/ |
+| Gatineau Open Data | Gatineau's open data portal — municipal datasets, maps, and civic information for the National Capital Region | Open data | https://www.gatineau.ca/donneesouvertes/ |
+| Laval Open Data | Laval's open data portal — municipal datasets, maps, and civic data for Quebec's largest suburb | Open data | https://www.laval.ca/en/data-access |
+| Burlington Maps | Burlington's interactive mapping tool — property, zoning, planning, and city data layers | GIS | https://www.burlington.ca/en/city-services/maps-and-gis.aspx |
+| Burlington Open Data | City of Burlington open data portal — datasets, maps, and city information for open access | Open data | https://www.burlington.ca/en/city-services/open-data.aspx |
+| Cambridge Open Data | City of Cambridge open data portal — datasets and maps for this Waterloo Region municipality | Open data | https://www.cambridge.ca/open-data |
+| Guelph Maps — Interactive GIS | Guelph's interactive GIS mapping tool — property, zoning, and city data | GIS | https://guelph.ca/live/maps/ |
+| Guelph Open Data | City of Guelph's open data portal — civic datasets, maps, and transparency data | Open data | https://guelph.ca/open-data/ |
 | Kitchener Open Data | Data and maps for civic exploration | Open data portal | https://www.kitchener.ca/en/open-data.aspx |
+| London Maps | London's interactive GIS mapping tool — property, zoning, infrastructure, and planning data | GIS | https://london.ca/maps |
+| London Open Data | City of London's open data portal — datasets, maps, and civic information for southwestern Ontario's largest city | Open data | https://london.ca/open-data |
+| Markham Maps — Interactive Mapping | Markham's interactive mapping tool — property information, zoning, planning, and city infrastructure | GIS | https://www.markham.ca/wps/portal/home/maps |
+| Markham Open Data | Markham's open data portal with datasets, maps, and civic applications for the community | Open data | https://www.markham.ca/wps/portal/home/open-data |
+| Mississauga Heritage — Heritage Register | Mississauga's heritage register of designated built heritage properties and cultural heritage landscapes | Heritage register | https://www.mississauga.ca/heritage/ |
+| Mississauga Open Data | Strong GTA municipal data portal | Open data portal | https://data.mississauga.ca/ |
+| Mississauga Property Tax Calculator | Calculate your annual property tax bill in Mississauga based on your property's assessed value | Calculator | https://www.mississauga.ca/en/taxes-and-utility-bills/property-taxes |
+| Brampton Heritage Register | Brampton's heritage register of designated and listed heritage properties across the city | Heritage register | https://www.brampton.ca/EN/Cultural-Heritage/heritage-register |
+| Brampton Open Data | Civic data portal with mapping and city datasets | Open data portal | https://geohub.brampton.ca/ |
+| Brampton Snow Plow Tracker | Track snow plow operations in Brampton during winter weather events — see real-time plow locations | Snow operations | https://www.brampton.ca/EN/paying-for-taxes-and-utilities/snow-clearing |
+| Brampton budget / Open Book resources | Budget transparency resources and project-oriented views | Transparency / budget | https://www.brampton.ca/EN/City-Hall/budget/ |
+| Oakville Maps — GeoHub | Oakville's interactive mapping portal — property, zoning, parks, and municipal infrastructure | GIS | https://maps.oakville.ca/ |
+| Oakville Open Data | Town of Oakville open data portal — datasets, maps, and civic transparency information | Open data | https://www.oakville.ca/dashboard/open-data-catalogue |
+| Richmond Hill Maps | Richmond Hill's interactive mapping tool — property, zoning, parks, and city data | GIS | https://www.richmondhill.ca/maps |
+| Richmond Hill Open Data | Richmond Hill's open data portal — civic datasets, maps, and transparency data for the community | Open data | https://www.richmondhill.ca/open-data |
+| Vaughan Maps — GeoVaughan | Interactive GIS map for the City of Vaughan — property, zoning, infrastructure, and planning data | GIS | https://maps.vaughan.ca/ |
+| Vaughan Open Data | City of Vaughan open data portal — datasets, maps, and civic information for Canada's fastest-growing city | Open data | https://www.vaughan.ca/opendata |
+| Waterloo Open Data (City) | City of Waterloo's open data portal — datasets and maps for the technology hub of Waterloo Region | Open data | https://www.waterloo.ca/en/government/open-data.aspx |
 | Waterloo Open Data | Small but useful municipal data hub | Open data portal | https://www.waterloo.ca/en/government/open-data.aspx |
+| Windsor Open Data | City of Windsor's open data portal — datasets, maps, and civic information for Canada's southernmost major city | Open data | https://www.citywindsor.ca/opendata |
+| Windsor Property Tax Calculator | Estimate your annual property tax bill in Windsor based on assessed value and property class | Calculator | https://www.citywindsor.ca/taxes/property-taxes/property-tax-calculator |
 | Hamilton Open Data | Datasets and map resources | Open data portal | https://open.hamilton.ca/ |
 | Victoria Open Data Catalogue | Municipal datasets and geospatial resources | Open data portal | https://opendata.victoria.ca/ |
 | Regina Open Data | City datasets and mapping resources | Open data portal | https://open.regina.ca/ |
@@ -381,6 +509,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 | GO Transit — Trip Planner | GO Transit schedules, trip planning, and fare information for Greater Toronto Area | Trip planner | https://www.gotransit.com/en/ |
 | OC Transpo — Trip Planner | OC Transpo bus and O-Train trip planning for Ottawa | Trip planner | https://www.octranspo.com/ |
 | BC Transit — Trip Planner | Provincial and municipal transit connections across British Columbia | Trip planner | https://www.bctransit.com/ |
+| BC Ferries — Trip Planning and Booking | BC Ferries routes, schedules, reservation booking, and fare information for coastal ferry routes across British Columbia | Ferry | https://www.bcferries.com/ |
 | STL — Saskatoon Transit | Saskatoon Transit schedules and trip planning | Transit | https://www.stlrtousaskatoon.ca/ |
 | Regina Transit | Regina Transit schedules and route information | Transit | https://www.regina.ca/transit |
 | Burlington Transit | Burlington bus routes and schedules | Transit | https://www.burlington.ca/en/transit |
@@ -394,6 +523,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 | Calgary Transit | Calgary CTrain and bus trip planning | Transit | https://www.calgary.ca/transit |
 | Halifax Transit | Halifax bus, ferry, and Moving Forward transit plan info | Transit | https://www.halifax.ca/transit |
 | St. John's Transit | St. John's and Metropolitan Area transit | Transit | https://www.stjohns.ca/en/city-services/transit.aspx |
+| Sault Ste. Marie Transit | Sault Ste. Marie Transit bus routes, schedules, and transit information for Northern Ontario | Transit | https://www.saultstemarie.ca/city-hall/departments/transit/ |
+| Thunder Bay Transit | Thunder Bay Transit routes, schedules, real-time bus tracking, and fare information | Transit | https://www.thunderbay.ca/transit |
+| Quebec ferry — Traverse Québec–Lévis | Quebec City to Lévis ferry service — schedules, fares, and real-time crossing information | Ferry | https://www.traversiers.com/en/ |
 
 ## 🏢 Crown Corporations
 
