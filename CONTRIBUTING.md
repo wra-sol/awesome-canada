@@ -1,89 +1,73 @@
 # Contributing to Awesome Canada
 
-Thank you for your interest in contributing! This document outlines how to add new resources to the list.
+Thanks for your interest! The list is organized by **function first, then region**. Every entry lives in [`data/resources.json`](data/resources.json) — that file is the source of truth and the `README.md` is generated from it.
 
-## How to Contribute
+## How to add a resource
 
-### Adding a New Resource
+1. **Check for duplicates** — search `data/resources.json` for the URL or name.
+2. **Verify the source** — it should be an official government body (federal, provincial, territorial, regional, municipal), a Crown corporation, or a non-partisan public-interest agency (e.g. CanLII, NCTR).
+3. **Add an entry** to `data/resources.json` matching the schema below.
+4. **Validate**: `node scripts/validate.js`
+5. **Regenerate**: `node scripts/generate-readme.js`
+6. Commit both the JSON and README changes.
 
-1. **Check for duplicates** — Search the existing list to ensure the resource isn't already included
-2. **Verify the resource** — Confirm it's an official Canadian government resource that's publicly accessible
-3. **Add to resources.json** — Add a new entry following the schema below
-
-### Resource Schema
-
-Each resource must follow this JSON schema:
+## Schema
 
 ```json
 {
   "name": "Resource Name",
-  "level": "Federal|Provincial|Municipal|Regional|Agency|Crown Corp",
-  "jurisdiction": "Exact jurisdiction name",
-  "type": "Resource type (e.g., Open data portal, Calculator, Map)",
-  "description": "Brief description (1-2 sentences max)",
+  "level": "Federal | Provincial | Municipal | Regional | Agency | Crown Corp",
+  "jurisdiction": "Canada | <Province/Territory> | <City> | <Region>",
+  "category": "one of the category ids in scripts/categories.js",
+  "type": "Short human-readable type (e.g. Calculator, Map, Open data portal)",
+  "description": "1–2 sentence description of what it does",
   "url": "https://...",
-  "tags": ["tag1", "tag2"]
+  "tags": ["lowercase", "tags"]
 }
 ```
 
-### Level Guide
+### `level`
 
 | Level | Examples |
 |-------|----------|
-| Federal | Government of Canada, Stats Can, Parks Canada |
-| Provincial | Ontario, BC, Alberta, Quebec, etc. |
-| Municipal | Toronto, Vancouver, Montreal, etc. |
-| Regional | Metrolinx, TransLink, PRESTO |
-| Agency | Elections Canada, Conservation Authorities |
-| Crown Corp | CMHC, Canada Post, CBC, BDC |
+| Federal | Government of Canada, Statistics Canada, Parks Canada |
+| Provincial | Any provincial/territorial government body |
+| Municipal | Cities and towns |
+| Regional | TransLink, Metrolinx, Conservation Authorities, Durham Region |
+| Agency | Arm's-length body (e.g. CRTC, Competition Bureau, CanLII, NCTR) |
+| Crown Corp | CMHC, Canada Post, CBC, BDC, SaskPower, Hydro-Québec |
 
-### Jurisdiction Naming
+### `jurisdiction`
 
-- **Federal**: Use `Canada` or `Parks Canada`
-- **Provincial**: Use full province/territory name (Ontario, British Columbia, Yukon, etc.)
-- **Municipal**: Use city name (Toronto, Ottawa, Calgary)
-- **Regional**: Use region name (Ontario/GTA, Metro Vancouver)
-- **Agency**: Use organization name
-- **Crown Corp**: Use `Canada`
+Use the exact name from the list in [`scripts/categories.js`](scripts/categories.js). For federal resources use `Canada` (or `Parks Canada` for Parks Canada properties). Use full province/territory names. For regional bodies pick the closest named region (e.g. `Ontario/GTA`, `Metro Vancouver`, `Grand River Watershed`).
 
-### Tags
+### `category`
 
-Use lowercase tags. Common tags:
-- `open data`, `maps`, `transit`, `parks`, `budget`, `safety`
-- `finance`, `housing`, `employment`, `health`, `environment`
-- City/region names as tags (e.g., `Toronto`, `Ontario`, `BC`)
+Pick the single best **functional** category id from [`scripts/categories.js`](scripts/categories.js):
 
-### Description Guidelines
+`open-data`, `gov-services`, `taxes`, `finance`, `business`, `employment`, `education`, `immigration`, `health`, `benefits`, `housing`, `transport-roads`, `transit`, `aviation-marine`, `parks`, `environment`, `utilities`, `agriculture`, `science`, `culture`, `safety`, `justice`, `consumer`, `indigenous`, `veterans`, `elections`, `telecom`.
 
-- Keep descriptions to 1-2 sentences
-- Focus on what the resource does, not what it "is"
-- Include useful context (e.g., "one of the best", "official", "real-time")
+If a resource would fit multiple categories, pick the one a user is most likely to look under first.
+
+### `description`
+
+- 1–2 sentences, ideally under 200 characters
+- Describe what it does, not what it "is"
 - Avoid marketing language
 
-### Pull Request Process
+### `tags`
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b add-resource-name`
-3. Add your entry to `data/resources.json`
-4. Run `node scripts/validate.js` to verify your entry is valid
-5. Commit with a clear message
-6. Push and open a Pull Request
+- Lowercase
+- Include a short topical keyword plus the region (e.g. `["Ontario", "tenant"]`)
 
-### Validation
+## Scripts
 
-Run the validation script before submitting:
-
-```bash
-node scripts/validate.js
-```
-
-This checks for:
-- Required fields present
-- Valid URL format
-- Valid level values
-- Valid jurisdiction values
-- Non-empty tags array
+| Command | Purpose |
+|--------|---------|
+| `node scripts/validate.js` | Validate JSON, schema, URLs, categories, and duplicate URLs |
+| `node scripts/generate-readme.js` | Regenerate `README.md` from JSON |
+| `node scripts/migrate.js` | One-shot helper that re-categorizes missing entries and appends curated batches from `scripts/new-resources.js` |
 
 ## Questions?
 
-Open an issue for discussion before submitting a PR if you're unsure whether a resource fits.
+Open an issue before a large PR so we can confirm scope and categorization.
