@@ -1,0 +1,66 @@
+name: "🔗 Report a Broken Link"
+description: "Report a link that no longer works or points to the wrong page"
+title: "[Broken Link] "
+labels: ["broken-link"]
+assignees: []
+body:
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      description: "Name of the resource as it appears in the list"
+      placeholder: "e.g. Canada Revenue Agency"
+    validations:
+      required: true
+  - type: input
+    id: current-url
+    attributes:
+      label: Current URL
+      description: "The URL that is currently in the list (the broken one)"
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: input
+    id: suggested-replacement
+    attributes:
+      label: Suggested Replacement URL
+      description: "The correct URL if you know it (leave blank if unsure)"
+      placeholder: "https://..."
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: "Which section does this resource belong to?"
+      multiple: false
+      options:
+        - open-data
+        - gov-services
+        - taxes
+        - finance
+        - business
+        - employment
+        - education
+        - immigration
+        - health
+        - benefits
+        - housing
+        - transport-roads
+        - transit
+        - aviation-marine
+        - parks
+        - environment
+        - utilities
+        - agriculture
+        - science
+        - culture
+        - safety
+        - justice
+        - consumer
+        - indigenous
+        - veterans
+        - elections
+        - telecom
+    validations:
+      required: true
