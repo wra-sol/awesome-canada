@@ -1,0 +1,15 @@
+{
+  "name": "awesome-canada",
+  "version": "1.0.0",
+  "description": "A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "generate": "node scripts/generate-readme.js",
+    "migrate": "node scripts/migrate.js",
+    "test": "node scripts/validate.js"
+  }
+}

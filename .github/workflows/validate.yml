@@ -2,12 +2,12 @@ name: Validate Resources
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths:
       - 'data/**'
       - 'scripts/**'
   pull_request:
-    branches: [main]
+    branches: [master]
     paths:
       - 'data/**'
       - 'scripts/**'
@@ -25,17 +25,5 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run validation
+      - name: Validate resources
         run: node scripts/validate.js
-
-      - name: Upload validation report
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: validation-report
-          path: |
-            scripts/validate.js
-          retention-days: 7
