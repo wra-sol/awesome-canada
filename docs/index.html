@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Awesome Canada — Resource Directory</title>
+<meta name="description" content="A curated directory of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.">
+<style>
+/* ===== Reset & Base ===== */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{font-size:100%;-webkit-text-size-adjust:100%}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.6;color:#1a1a1a;background:#f8f9fa;min-height:100vh}
+a{color:#1a5fb4;text-decoration:underline;text-underline-offset:2px}
+a:hover,a:focus{color:#0d3b7e}
+a:focus-visible{outline:2px solid #1a5fb4;outline-offset:2px;border-radius:2px}
+img{max-width:100%;height:auto}
+
+/* ===== Skip Link ===== */
+.skip-link{position:absolute;top:-100%;left:0;padding:.5rem 1rem;background:#1a5fb4;color:#fff;z-index:1000;font-weight:600;border-radius:0 0 4px 0}
+.skip-link:focus{top:0}
+
+/* ===== Header ===== */
+header{background:#fff;border-bottom:1px solid #ddd;padding:1rem 1rem .75rem;position:sticky;top:0;z-index:100}
+.header-inner{max-width:80rem;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1rem}
+header h1{font-size:1.35rem;font-weight:700;color:#1a1a1a;white-space:nowrap}
+header h1 span{color:#555;font-weight:400}
+.header-right{margin-left:auto;display:flex;align-items:center;gap:.75rem;flex-wrap:wrap}
+.count-badge{background:#e8eef5;color:#1a5fb4;font-size:.8rem;font-weight:600;padding:.25rem .65rem;border-radius:999px;white-space:nowrap}
+
+/* ===== Search ===== */
+.search-wrap{max-width:80rem;margin:.75rem auto 0;width:100%}
+.search-wrap label{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
+.search-wrap input{width:100%;padding:.6rem .8rem .6rem 2.5rem;border:1px solid #bbb;border-radius:8px;font-size:.95rem;background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23777' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='M21 21l-4.35-4.35'/%3E%3C/svg%3E") .65rem 50%/1.15rem auto no-repeat;transition:border-color .15s,box-shadow .15s}
+.search-wrap input:focus{border-color:#1a5fb4;box-shadow:0 0 0 3px rgba(26,95,180,.2);outline:none}
+.search-wrap input::placeholder{color:#999}
+
+/* ===== Main Content ===== */
+main{max-width:80rem;margin:0 auto;padding:1rem 1rem 3rem}
+
+/* ===== Category Section ===== */
+.category{margin-bottom:2.5rem;background:#fff;border:1px solid #e0e0e0;border-radius:10px;overflow:hidden}
+.category-header{background:#f0f4f8;padding:.85rem 1.25rem;border-bottom:1px solid #e0e0e0;cursor:pointer;display:flex;align-items:center;gap:.6rem;user-select:none;-webkit-tap-highlight-color:transparent}
+.category-header:hover{background:#e6edf5}
+.category-header:focus-visible{outline:2px solid #1a5fb4;outline-offset:-2px}
+.category-header .icon{font-size:1.3rem;line-height:1}
+.category-header h2{font-size:1.1rem;font-weight:600;color:#1a1a1a;margin:0}
+.category-header .count{font-size:.8rem;color:#666;margin-left:auto;background:#fff;padding:.1rem .55rem;border-radius:999px;border:1px solid #ccc}
+.category-header .toggle{font-size:.75rem;color:#888;margin-left:.25rem;transition:transform .2s}
+.category.open .category-header .toggle{transform:rotate(180deg)}
+.category-body{padding:.75rem 1.25rem 1.25rem}
+.category.closed .category-body{display:none}
+
+/* ===== Region Group ===== */
+.region-group{margin-top:1rem}
+.region-group:first-child{margin-top:0}
+.region-title{font-size:.95rem;font-weight:600;color:#444;margin-bottom:.5rem;padding-bottom:.25rem;border-bottom:2px solid #eef2f7}
+
+/* ===== Resource Cards ===== */
+.resource-list{display:grid;grid-template-columns:1fr;gap:.5rem}
+@media(min-width:640px){.resource-list{grid-template-columns:1fr 1fr}}
+@media(min-width:1000px){.resource-list{grid-template-columns:1fr 1fr 1fr}}
+.resource-card{border:1px solid #e8e8e8;border-radius:8px;padding:.6rem .85rem;transition:border-color .15s,box-shadow .15s;background:#fff}
+.resource-card:hover{border-color:#c0d0e0;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.resource-card h3{font-size:.9rem;font-weight:600;margin:0 0 .2rem}
+.resource-card h3 a{color:#1a5fb4;text-decoration:none}
+.resource-card h3 a:hover{text-decoration:underline}
+.resource-card .meta{font-size:.78rem;color:#777;margin-bottom:.25rem}
+.resource-card .meta .level-tag{display:inline-block;background:#eef2f7;color:#555;padding:0 .4rem;border-radius:4px;font-size:.72rem;font-weight:500}
+.resource-card .desc{font-size:.82rem;color:#444;line-height:1.45}
+.resource-card .tags{margin-top:.3rem;display:flex;flex-wrap:wrap;gap:.3rem}
+.resource-card .tags .tag{font-size:.7rem;background:#f0f4f8;color:#555;padding:.08rem .45rem;border-radius:4px;border:1px solid #e0e8f0}
+
+/* ===== Empty State ===== */
+.no-results{padding:3rem 1rem;text-align:center;color:#888;font-size:1.05rem}
+
+/* ===== Footer ===== */
+footer{max-width:80rem;margin:2rem auto 0;padding:1.5rem 1rem;border-top:1px solid #ddd;text-align:center;font-size:.85rem;color:#888}
+
+/* ===== Accessibility: Reduced Motion ===== */
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{transition-duration:.01ms!important;animation-duration:.01ms!important}}
+
+/* ===== High Contrast / Forced Colors ===== */
+@media(forced-colors:active){.resource-card{border:1px solid CanvasText}.category-header .count{background:Canvas}}
+
+/* ===== Print ===== */
+@media print{header{position:static}.category-header{cursor:default}.category.closed .category-body{display:block!important}.category-body{display:block!important}}
+</style>
+</head>
+<body>
+
+<a class="skip-link" href="#main-content">Skip to main content</a>
+
+<header>
+  <div class="header-inner">
+    <h1>Awesome Canada <span>🇨🇦</span></h1>
+    <div class="header-right">
+      <span class="count-badge" id="total-count" aria-live="polite">Loading…</span>
+    </div>
+  </div>
+  <div class="search-wrap">
+    <label for="search-input">Search resources by name, description, or tags</label>
+    <input type="search" id="search-input" placeholder="Search resources… (e.g. census, tax, parks, health)" autocomplete="off">
+  </div>
+</header>
+
+<main id="main-content">
+  <div id="directory"></div>
+</main>
+
+<footer>
+  <p><a href="https://github.com/wra-sol/awesome-canada">Awesome Canada</a> — Curated Canadian government digital tools &amp; resources.</p>
+</footer>
+
+<script>
+/* ================================================================
+   CATEGORY DEFINITIONS (hardcoded)
+   ================================================================ */
+const CATEGORIES = [
+  { id: 'open-data',        title: 'Open Data & Statistics',       icon: '📊' },
+  { id: 'gov-services',     title: 'Government Services & ID',     icon: '🪪' },
+  { id: 'taxes',            title: 'Taxes & Revenue',              icon: '💰' },
+  { id: 'finance',          title: 'Finance, Banking & Economy',   icon: '🏦' },
+  { id: 'business',         title: 'Business & Procurement',       icon: '🏢' },
+  { id: 'employment',       title: 'Employment & Labour',          icon: '💼' },
+  { id: 'education',        title: 'Education & Student Aid',      icon: '🎓' },
+  { id: 'immigration',      title: 'Immigration & Citizenship',    icon: '🛂' },
+  { id: 'health',           title: 'Health & Wellness',            icon: '🩺' },
+  { id: 'benefits',         title: 'Benefits & Social Services',   icon: '🤝' },
+  { id: 'housing',          title: 'Housing & Real Estate',        icon: '🏠' },
+  { id: 'transport-roads',  title: 'Transportation & Roads',       icon: '🛣️' },
+  { id: 'transit',          title: 'Transit & Mobility',           icon: '🚌' },
+  { id: 'aviation-marine',  title: 'Aviation, Marine & Rail',      icon: '✈️' },
+  { id: 'parks',            title: 'Parks, Trails & Outdoors',     icon: '🌲' },
+  { id: 'environment',      title: 'Weather, Climate & Environment', icon: '🌦️' },
+  { id: 'utilities',        title: 'Energy & Utilities',           icon: '⚡' },
+  { id: 'agriculture',      title: 'Agriculture, Food & Drink',    icon: '🌾' },
+  { id: 'science',          title: 'Science, Research & Space',    icon: '🔬' },
+  { id: 'culture',          title: 'Heritage, Culture & Arts',     icon: '🎭' },
+  { id: 'safety',           title: 'Emergency, Safety & Alerts',   icon: '🚨' },
+  { id: 'justice',          title: 'Justice, Courts & Legal',      icon: '⚖️' },
+  { id: 'consumer',         title: 'Consumer Protection & Privacy', icon: '🛡️' },
+  { id: 'indigenous',       title: 'Indigenous Services & Treaties', icon: '🪶' },
+  { id: 'veterans',         title: 'Veterans & Military',          icon: '🎖️' },
+  { id: 'elections',        title: 'Elections & Democracy',        icon: '🗳️' },
+  { id: 'telecom',          title: 'Telecommunications & Digital', icon: '📡' },
+];
+
+/* Region groups (display order) */
+const REGIONS = [
+  { id: 'federal',  title: 'Federal / National' },
+  { id: 'bc',       title: 'British Columbia' },
+  { id: 'ab',       title: 'Alberta' },
+  { id: 'sk',       title: 'Saskatchewan' },
+  { id: 'mb',       title: 'Manitoba' },
+  { id: 'on',       title: 'Ontario' },
+  { id: 'qc',       title: 'Quebec' },
+  { id: 'atlantic', title: 'Atlantic Canada (NB, NS, PE, NL)' },
+  { id: 'north',    title: 'Northern Canada (YT, NT, NU)' },
+];
+
+/* Jurisdiction-to-region mapping */
+const JURISDICTION_TO_REGION = {
+  'Canada':                    'federal',
+  'Parks Canada':              'federal',
+  'British Columbia':          'bc',
+  'Vancouver':                 'bc',
+  'Victoria':                  'bc',
+  'Metro Vancouver':           'bc',
+  'Alberta':                   'ab',
+  'Calgary':                   'ab',
+  'Edmonton':                  'ab',
+  'Saskatchewan':              'sk',
+  'Regina':                    'sk',
+  'Saskatoon':                 'sk',
+  'Manitoba':                  'mb',
+  'Winnipeg':                  'mb',
+  'Ontario':                   'on',
+  'Ontario/GTA':               'on',
+  'Toronto':                   'on',
+  'Toronto Region':            'on',
+  'Ottawa':                    'on',
+  'Mississauga':               'on',
+  'Brampton':                  'on',
+  'Hamilton':                  'on',
+  'Kitchener':                 'on',
+  'Waterloo':                  'on',
+  'London':                    'on',
+  'Windsor':                   'on',
+  'Burlington':                'on',
+  'Guelph':                    'on',
+  'Grand River Watershed':     'on',
+  'Lake Simcoe':               'on',
+  'Halton':                    'on',
+  'Credit Valley':             'on',
+  'Mississippi River':         'on',
+  'Quebec':                    'qc',
+  'Quebec City':               'qc',
+  'Montreal':                  'qc',
+  'New Brunswick':             'atlantic',
+  'Nova Scotia':               'atlantic',
+  'PEI':                       'atlantic',
+  'Newfoundland and Labrador': 'atlantic',
+  'Newfoundland':              'atlantic',
+  'Halifax':                   'atlantic',
+  'Yukon':                     'north',
+  'Northwest Territories':     'north',
+  'Nunavut':                   'north',
+};
+
+/* Map region id to its display info */
+const REGION_MAP = Object.fromEntries(REGIONS.map(r => [r.id, r]));
+
+/* ================================================================
+   APP STATE
+   ================================================================ */
+let allResources = [];
+let categoryIndex = {};    // catId -> resources[]
+let categoryOpenState = {}; // catId -> boolean
+
+/* ================================================================
+   HELPERS
+   ================================================================ */
+function getRegion(resource) {
+  const j = resource.jurisdiction || '';
+  return JURISDICTION_TO_REGION[j] || 'federal';
+}
+
+function getRegionTitle(regionId) {
+  const r = REGION_MAP[regionId];
+  return r ? r.title : regionId;
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+/* ================================================================
+   RENDER
+   ================================================================ */
+function render(query) {
+  const q = (query || '').trim().toLowerCase();
+  const dir = document.getElementById('directory');
+  const totalSpan = document.getElementById('total-count');
+
+  // Build filtered category index
+  const filtered = {};
+  let totalVisible = 0;
+
+  for (const cat of CATEGORIES) {
+    const resources = categoryIndex[cat.id] || [];
+    let matched = resources;
+
+    if (q) {
+      matched = resources.filter(r => {
+        const hay = [r.name, r.description, (r.tags || []).join(' ')].join(' ').toLowerCase();
+        return hay.includes(q);
+      });
+    }
+
+    if (matched.length > 0) {
+      // Group by region
+      const regionGroups = {};
+      for (const r of matched) {
+        const regionId = getRegion(r);
+        if (!regionGroups[regionId]) regionGroups[regionId] = [];
+        regionGroups[regionId].push(r);
+      }
+
+      filtered[cat.id] = { resources: matched, regionGroups };
+      totalVisible += matched.length;
+    }
+  }
+
+  // Update total count
+  totalSpan.textContent = totalVisible + ' resource' + (totalVisible !== 1 ? 's' : '');
+
+  // Render
+  if (Object.keys(filtered).length === 0) {
+    dir.innerHTML = '<div class="no-results" role="status">No resources match your search. Try different keywords.</div>';
+    return;
+  }
+
+  let html = '';
+  for (const cat of CATEGORIES) {
+    const data = filtered[cat.id];
+    if (!data) continue;
+
+    const isOpen = categoryOpenState[cat.id] !== false; // default open
+    html += `<section class="category ${isOpen ? 'open' : 'closed'}" data-category="${cat.id}">`;
+    html += `<div class="category-header" tabindex="0" role="button" aria-expanded="${isOpen}" aria-controls="body-${cat.id}">`;
+    html += `<span class="icon" aria-hidden="true">${cat.icon}</span>`;
+    html += `<h2>${escapeHtml(cat.title)}</h2>`;
+    html += `<span class="count">${data.resources.length}</span>`;
+    html += `<span class="toggle" aria-hidden="true">▾</span>`;
+    html += `</div>`;
+    html += `<div class="category-body" id="body-${cat.id}">`;
+
+    // Region groups in display order
+    for (const region of REGIONS) {
+      const resInRegion = data.regionGroups[region.id];
+      if (!resInRegion || resInRegion.length === 0) continue;
+
+      html += `<div class="region-group">`;
+      html += `<div class="region-title">${escapeHtml(region.title)}</div>`;
+      html += `<div class="resource-list">`;
+
+      for (const r of resInRegion) {
+        const tags = (r.tags || []).map(t => escapeHtml(t));
+        const typeDisplay = r.type ? `<span class="level-tag">${escapeHtml(r.type)}</span>` : '';
+        const levelDisplay = r.level ? `<span class="level-tag">${escapeHtml(r.level)}</span>` : '';
+
+        html += `<article class="resource-card">`;
+        html += `<h3><a href="${escapeHtml(r.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(r.name)}</a></h3>`;
+        html += `<div class="meta">${levelDisplay} ${typeDisplay}</div>`;
+        html += `<div class="desc">${escapeHtml(r.description)}</div>`;
+        if (tags.length > 0) {
+          html += `<div class="tags">${tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>`;
+        }
+        html += `</article>`;
+      }
+
+      html += `</div></div>`;
+    }
+
+    html += `</div></section>`;
+  }
+
+  dir.innerHTML = html;
+
+  // Attach event listeners for collapsible headers
+  document.querySelectorAll('.category-header').forEach(el => {
+    const section = el.closest('.category');
+    const catId = section.dataset.category;
+
+    const toggle = () => {
+      const isOpen = section.classList.toggle('closed');
+      categoryOpenState[catId] = !isOpen;
+      el.setAttribute('aria-expanded', !isOpen);
+      // Save state
+      try { localStorage.setItem('cat-open-' + catId, !isOpen); } catch(e) {}
+    };
+
+    el.addEventListener('click', toggle);
+    el.addEventListener('keydown', e => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        toggle();
+      }
+    });
+  });
+}
+
+/* ================================================================
+   LOAD DATA & INIT
+   ================================================================ */
+async function loadData() {
+  try {
+    const resp = await fetch('resources.json');
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    allResources = await resp.json();
+  } catch (err) {
+    document.getElementById('directory').innerHTML =
+      '<div class="no-results" role="alert">⚠️ Failed to load resources. Make sure <code>data/resources.json</code> exists. Error: ' + escapeHtml(err.message) + '</div>';
+    document.getElementById('total-count').textContent = 'Error';
+    return;
+  }
+
+  // Build category index
+  categoryIndex = {};
+  for (const cat of CATEGORIES) {
+    categoryIndex[cat.id] = [];
+  }
+  for (const r of allResources) {
+    const catId = r.category;
+    if (categoryIndex[catId]) {
+      categoryIndex[catId].push(r);
+    }
+  }
+
+  // Restore open states from localStorage
+  for (const cat of CATEGORIES) {
+    try {
+      const saved = localStorage.getItem('cat-open-' + cat.id);
+      if (saved !== null) categoryOpenState[cat.id] = saved === 'true';
+      else categoryOpenState[cat.id] = true;
+    } catch(e) {
+      categoryOpenState[cat.id] = true;
+    }
+  }
+
+  render('');
+
+  // Wire up search
+  let debounceTimer;
+  document.getElementById('search-input').addEventListener('input', () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      render(document.getElementById('search-input').value);
+    }, 200);
+  });
+}
+
+document.addEventListener('DOMContentLoaded', loadData);
+</script>
+
+</body>
+</html>
