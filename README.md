@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 566 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 561 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,23 +23,23 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 40
-- [🪪 Government Services & ID](#government-services-and-id) — 26
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 39
+- [🪪 Government Services & ID](#government-services-and-id) — 29
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 14
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 15
-- [🏢 Business & Procurement](#business-and-procurement) — 17
+- [🏢 Business & Procurement](#business-and-procurement) — 15
 - [💼 Employment & Labour](#employment-and-labour) — 14
-- [🎓 Education & Student Aid](#education-and-student-aid) — 11
+- [🎓 Education & Student Aid](#education-and-student-aid) — 10
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 15
 - [🩺 Health & Wellness](#health-and-wellness) — 19
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 29
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 26
-- [🚌 Transit & Mobility](#transit-and-mobility) — 32
+- [🚌 Transit & Mobility](#transit-and-mobility) — 31
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 17
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 55
-- [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 24
-- [⚡ Energy & Utilities](#energy-and-utilities) — 29
+- [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 23
+- [⚡ Energy & Utilities](#energy-and-utilities) — 27
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 15
 - [🔬 Science, Research & Space](#science-research-and-space) — 11
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
@@ -78,6 +78,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| B.C. API Gateway | British Columbia · Provincial | API portal | British Columbia government API gateway for discovering, accessing, and managing provincial APIs and data services | https://api.gov.bc.ca/ |
 | DataBC | British Columbia · Provincial | Open data portal | Major open data and geospatial hub for BC | https://www2.gov.bc.ca/gov/content/data |
 | Victoria Open Data Catalogue | Victoria · Municipal | Open data portal | Municipal datasets and geospatial resources | https://opendata.victoria.ca/ |
 
@@ -93,7 +94,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Regina Open Data | Regina · Municipal | Open data portal | City datasets and mapping resources | https://open.regina.ca/ |
 | Saskatoon Open Data | Saskatoon · Municipal | Open data portal | Data portal with city datasets and maps | https://opendata.saskatoon.ca/ |
 
 ### Manitoba
@@ -130,7 +130,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Newfoundland and Labrador Open Data | Newfoundland and Labrador · Provincial | Open data portal | Newfoundland and Labrador government open data catalogue | https://data.gov.nl.ca/ |
 | Nova Scotia Open Data | Nova Scotia · Provincial | Open data portal | Nova Scotia open data with storytelling feature and datasets | https://data.novascotia.ca/ |
 | PEI Open Data | PEI · Provincial | Open data portal | Prince Edward Island government open data | https://www.princeedwardisland.ca/en/service/open-data |
 | Halifax Open Data | Halifax · Municipal | Open data portal | Useful municipal data and maps hub | https://www.halifax.ca/home/open-data |
@@ -142,6 +141,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | CBSA — ArriveCAN | Canada · Federal | App | Submit CBSA advance declaration before arriving at major Canadian airports | https://www.cbsa-asfc.gc.ca/services/adc-daa-eng.html |
+| GC Design System | Canada · Federal | Design system | Official production-ready design system for Government of Canada websites and digital products — components, patterns, and guidance | https://design-system.canada.ca/en/ |
+| GC Forms | Canada · Federal | Form builder | Secure, accessible, bilingual form-building platform for Government of Canada services — no coding required | https://articles.alpha.canada.ca/forms-formulaires/ |
+| GC Notify | Canada · Federal | Notification service | Government of Canada notification service for sending emails and text messages to users — built by Canadian Digital Service | https://notification.canada.ca/ |
 | GCKey — Federal Sign-In Service | Canada · Federal | Authentication | Unified credential used to access many Government of Canada online services | https://clegc-gckey.gc.ca/ |
 | My Service Canada Account (MSCA) | Canada · Federal | Secure portal | Sign in to view EI, CPP, OAS, ROE, and access most federal individual services in one place | https://www.canada.ca/en/employment-social-development/services/my-account.html |
 | NEXUS — Trusted Traveller Program | Canada · Federal | Service | Apply for expedited border crossing between Canada and the US at land, air, and marine entries | https://www.cbsa-asfc.gc.ca/prog/nexus/menu-eng.html |
@@ -150,7 +152,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Travel Advice and Advisories | Canada · Federal | Advisory finder | Country-by-country official travel advisories | https://travel.gc.ca/travelling/advisories |
 | Canada Council for the Arts — Discover | Canada · Crown Corp | Arts | Funding programs, arts research, and Canadian arts discovery | https://canadacouncil.ca/ |
 | Canada Foundation for Innovation — Research Infrastructure | Canada · Crown Corp | Research | Funding for research infrastructure across Canadian institutions | https://www.innovation.ca/ |
-| Canada Infrastructure Bank | Canada · Crown Corp | Infrastructure | Infrastructure investment projects and financial tools for Canadian communities | https://www.cib-scic.ca/ |
 | Canada Post — Find a Postal Code | Canada · Crown Corp | Finder | Official postal code lookup for all of Canada | https://www.canadapost.ca/cpc/en/tools/postalcodefinder.page |
 | Canada Post — Send, Ship, Track | Canada · Crown Corp | Shipping tool | Send mail, ship packages, calculate postage, and track shipments | https://www.canadapost.ca/send |
 | Canada Science and Technology Exhibition Centre | Canada · Crown Corp | Science outreach | Science and innovation exhibits and public programs | https://www.sciencetech.ca/ |
@@ -161,6 +162,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| B.C. Government DevHub | British Columbia · Provincial | Developer portal | British Columbia government developer hub with technical documentation, code samples, APIs, and community knowledge bases | https://developer.gov.bc.ca/ |
 | BC Services Card | British Columbia · Provincial | Digital ID | BC's combined health card and digital ID used to access online government services securely | https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card |
 | Service BC — Online Services | British Columbia · Provincial | Service | BC government service finder — IDs, permits, licences, vital stats, health card, payments | https://www2.gov.bc.ca/gov/content/governments/services-for-government |
 
@@ -283,10 +285,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BizPaL — Permits and Licences Finder | Canada · Federal | Finder | Generate a personalized list of federal, provincial, and municipal permits you need to operate a business | https://www.bizpal.ca/ |
-| Buy and Sell Canada — Government Procurement | Canada · Federal | Procurement | Federal government procurement portal for suppliers — browse tenders, submit bids, manage contracts with the Government of Canada | https://buyandsell.gc.ca/ |
 | Canada Business — Starting a Business | Canada · Federal | Guide | Official guide for starting a business in Canada — permits, taxes, licensing, and supports by province | https://www.canada.ca/en/services/business/start.html |
 | CanadaBuys — Federal Tenders | Canada · Federal | Procurement | Modern federal procurement portal replacing buyandsell.gc.ca — browse and bid on tenders | https://canadabuys.canada.ca/en |
-| Import and Export — Canada Tariff Finder | Canada · Federal | Tool | Look up tariffs on goods traded under Canada's free-trade agreements | https://www.tariff-tarif.gfp-ppc.gc.ca/ |
 | Innovation Canada — Business Benefits Finder | Canada · Federal | Finder | Personalized search of federal, provincial, and regional business funding and support programs | https://innovation.ised-isde.canada.ca/innovation/s/?language=en_CA |
 | MERX — Canadian Procurement Platform | Canada · Federal | Procurement | Canada's largest electronic procurement platform — access federal, provincial, and municipal tender notices across all industries | https://www.merx.com/ |
 | Canadian Commercial Corporation — Government Procurement | Canada · Crown Corp | Procurement | Procurement tools for businesses selling to governments domestically and internationally | https://www.ccc.ca/ |
@@ -380,7 +380,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Education Savings Grant (CESG) | Canada · Federal | Benefit | Federal matching grant of up to 20% on RESP contributions for eligible children | https://www.canada.ca/en/services/benefits/education/education-savings/cesg.html |
 | Canada Job Grant — Employer Funded Training | Canada · Federal | Grant | Jointly funded training program for employers investing in workforce upskilling | https://www.canada.ca/en/employment-social-development/services/training-agreements/canada-job-grant.html |
 | Canada Learning Bond | Canada · Federal | Benefit | Up to $2,000 in RESP grant money for children from lower-income families — eligibility and application | https://www.canada.ca/en/services/benefits/education/education-savings/learning-bond.html |
-| Canada Student Financial Assistance — Estimator | Canada · Federal | Calculator | Estimate federal and provincial student loan and grant amounts before applying | https://tools.canada.ca/en/services/education/student-financial-assistance-estimator/ |
 
 ### British Columbia
 
@@ -729,7 +728,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Regina Transit | Regina · Regional | Transit | Regina Transit schedules and route information | https://www.regina.ca/transit |
-| STL — Saskatoon Transit | Saskatoon · Regional | Transit | Saskatoon Transit schedules and trip planning | https://www.stlrtousaskatoon.ca/ |
 | Saskatoon Transit | Saskatoon · Municipal | Transit | Saskatoon Transit trip planning, schedules, and real-time info | https://transit.saskatoon.ca/ |
 
 ### Manitoba
@@ -952,7 +950,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Halton Conservation Authority | Halton · Agency | Conservation authority | Conservation areas, trails, and environmental services in Halton region | https://www.conservationontario.ca/halton |
 | Hamilton Conservation Authority | Hamilton · Agency | Conservation authority | Conservation areas, trails, and watershed management in Hamilton | https://www.conservationontario.ca/hamilton |
 | Lake Simcoe Region Conservation Authority | Lake Simcoe · Agency | Conservation authority | Lake Simcoe watershed health, flood risk maps, and conservation lands | https://lsrca.on.ca/ |
-| Mississippi Conservation Authority | Mississippi River · Agency | Conservation authority | Conservation areas and watershed management in the Mississippi River watershed | https://www.mconservation.ca/ |
 | Niagara Peninsula Conservation Authority | Niagara · Agency | Conservation authority | Watershed management, conservation areas, and flood risk in Niagara | https://www.conservationontario.ca/niagara |
 | Conservation Ontario — Find Your Conservation Authority | Ontario · Agency | Finder | Find which conservation authority covers your watershed or municipality in Ontario | https://conservationontario.ca/ |
 | Toronto and Region Conservation Authority — Living Room | Toronto Region · Agency | Conservation authority | Rouge National Urban Park, conservation areas, maps, and environmental programs for the Toronto region | https://trca.ca/ |
@@ -989,12 +986,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Edmonton Electric Utility — EPCOR Outages | Edmonton · Municipal | Outage map | EPCOR's electric outage map for Edmonton — current power outages, outage causes, and restoration times | https://www.epcor.com/outages-safety/outages/current/Pages/default.aspx |
 | Edmonton Maps | Edmonton · Municipal | City map portal | Property, planning, utilities, and municipal geography tools | https://maps.edmonton.ca/ |
 
-### Saskatchewan
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| SaskPower — Outage Map | Saskatchewan · Crown Corp | Outage map | Live SaskPower outage map across Saskatchewan | https://status.saskpower.com/ |
-
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -1022,7 +1013,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| NB Power — Outage Centre | New Brunswick · Crown Corp | Outage map | New Brunswick Power outage map and outage status | https://outages.nbpower.com/ |
 | Newfoundland Power — Outage Map | Newfoundland and Labrador · Provincial | Outage map | Newfoundland Power outage map and reporting for the island | https://outagemap.newfoundlandpower.com/ |
 | Nova Scotia Power — Outage Map | Nova Scotia · Provincial | Outage map | Live power outage map across Nova Scotia | https://outagemap.nspower.ca/ |
 | Maritime Electric — Outage Map | PEI · Provincial | Outage map | Maritime Electric's Prince Edward Island outage map | https://maritimeelectric.com/outages/ |

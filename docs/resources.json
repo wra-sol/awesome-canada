@@ -2554,6 +2554,110 @@
     ]
   },
   {
+    "name": "Credit Valley Conservation",
+    "level": "Agency",
+    "jurisdiction": "Credit Valley",
+    "category": "environment",
+    "type": "Conservation authority",
+    "description": "Watershed management and conservation areas in the Credit River watershed",
+    "url": "https://cvc.ca/",
+    "tags": [
+      "conservation",
+      "Credit"
+    ]
+  },
+  {
+    "name": "Grand River Conservation Authority — Watershed Navigator",
+    "level": "Agency",
+    "jurisdiction": "Grand River Watershed",
+    "category": "environment",
+    "type": "Watershed map",
+    "description": "Interactive watershed navigator with flood risk, conservation areas, and environmental data",
+    "url": "https://www.grandriver.ca/",
+    "tags": [
+      "watershed",
+      "Ontario"
+    ]
+  },
+  {
+    "name": "Halton Conservation Authority",
+    "level": "Agency",
+    "jurisdiction": "Halton",
+    "category": "environment",
+    "type": "Conservation authority",
+    "description": "Conservation areas, trails, and environmental services in Halton region",
+    "url": "https://www.conservationontario.ca/halton",
+    "tags": [
+      "conservation",
+      "Halton"
+    ]
+  },
+  {
+    "name": "Hamilton Conservation Authority",
+    "level": "Agency",
+    "jurisdiction": "Hamilton",
+    "category": "environment",
+    "type": "Conservation authority",
+    "description": "Conservation areas, trails, and watershed management in Hamilton",
+    "url": "https://www.conservationontario.ca/hamilton",
+    "tags": [
+      "conservation",
+      "Hamilton"
+    ]
+  },
+  {
+    "name": "Lake Simcoe Region Conservation Authority",
+    "level": "Agency",
+    "jurisdiction": "Lake Simcoe",
+    "category": "environment",
+    "type": "Conservation authority",
+    "description": "Lake Simcoe watershed health, flood risk maps, and conservation lands",
+    "url": "https://lsrca.on.ca/",
+    "tags": [
+      "conservation",
+      "Lake Simcoe"
+    ]
+  },
+  {
+    "name": "Mississippi Conservation Authority",
+    "level": "Agency",
+    "jurisdiction": "Mississippi River",
+    "category": "environment",
+    "type": "Conservation authority",
+    "description": "Conservation areas and watershed management in the Mississippi River watershed",
+    "url": "https://www.mconservation.ca/",
+    "tags": [
+      "conservation",
+      "Ontario"
+    ]
+  },
+  {
+    "name": "Niagara Peninsula Conservation Authority",
+    "level": "Agency",
+    "jurisdiction": "Niagara",
+    "category": "environment",
+    "type": "Conservation authority",
+    "description": "Watershed management, conservation areas, and flood risk in Niagara",
+    "url": "https://www.conservationontario.ca/niagara",
+    "tags": [
+      "conservation",
+      "Niagara"
+    ]
+  },
+  {
+    "name": "Conservation Ontario — Find Your Conservation Authority",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Finder",
+    "description": "Find which conservation authority covers your watershed or municipality in Ontario",
+    "url": "https://conservationontario.ca/",
+    "tags": [
+      "conservation",
+      "finder"
+    ]
+  },
+  {
     "name": "Toronto and Region Conservation Authority — Living Room",
     "level": "Agency",
     "jurisdiction": "Toronto Region",
@@ -3009,71 +3113,6 @@
     ]
   },
   {
-    "name": "Credit Valley Conservation",
-    "level": "Agency",
-    "jurisdiction": "Credit Valley",
-    "category": "environment",
-    "type": "Conservation authority",
-    "description": "Watershed management and conservation areas in the Credit River watershed",
-    "url": "https://cvc.ca/",
-    "tags": [
-      "conservation",
-      "Credit"
-    ]
-  },
-  {
-    "name": "Lake Simcoe Region Conservation Authority",
-    "level": "Agency",
-    "jurisdiction": "Lake Simcoe",
-    "category": "environment",
-    "type": "Conservation authority",
-    "description": "Lake Simcoe watershed health, flood risk maps, and conservation lands",
-    "url": "https://lsrca.on.ca/",
-    "tags": [
-      "conservation",
-      "Lake Simcoe"
-    ]
-  },
-  {
-    "name": "Mississippi Conservation Authority",
-    "level": "Agency",
-    "jurisdiction": "Mississippi River",
-    "category": "environment",
-    "type": "Conservation authority",
-    "description": "Conservation areas and watershed management in the Mississippi River watershed",
-    "url": "https://www.mconservation.ca/",
-    "tags": [
-      "conservation",
-      "Ontario"
-    ]
-  },
-  {
-    "name": "Niagara Peninsula Conservation Authority",
-    "level": "Agency",
-    "jurisdiction": "Niagara",
-    "category": "environment",
-    "type": "Conservation authority",
-    "description": "Watershed management, conservation areas, and flood risk in Niagara",
-    "url": "https://www.conservationontario.ca/niagara",
-    "tags": [
-      "conservation",
-      "Niagara"
-    ]
-  },
-  {
-    "name": "Conservation Ontario — Find Your Conservation Authority",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "environment",
-    "type": "Finder",
-    "description": "Find which conservation authority covers your watershed or municipality in Ontario",
-    "url": "https://conservationontario.ca/",
-    "tags": [
-      "conservation",
-      "finder"
-    ]
-  },
-  {
     "name": "Alberta.ca Account",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -3097,20 +3136,6 @@
     "tags": [
       "Alberta",
       "identity"
-    ]
-  },
-  {
-    "name": "BC Property Transfer Tax Calculator",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "taxes",
-    "type": "Calculator",
-    "description": "Calculate the provincial property transfer tax due when buying property or acquiring land in British Columbia",
-    "url": "https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax",
-    "tags": [
-      "BC",
-      "property",
-      "calculator"
     ]
   },
   {
@@ -3847,20 +3872,6 @@
       "Vancouver",
       "housing",
       "open data"
-    ]
-  },
-  {
-    "name": "Vancouver Property Tax Calculator",
-    "level": "Municipal",
-    "jurisdiction": "Vancouver",
-    "category": "taxes",
-    "type": "Calculator",
-    "description": "Estimate your annual property tax in Vancouver based on assessed value and property classification",
-    "url": "https://vancouver.ca/home-property-development/property-taxes-and-assessments.aspx",
-    "tags": [
-      "Vancouver",
-      "property",
-      "calculator"
     ]
   },
   {
@@ -4886,6 +4897,19 @@
     ]
   },
   {
+    "name": "Toronto Maps / data and research hub",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "open-data",
+    "type": "GIS / research hub",
+    "description": "Broad entry point for city maps, data, and research tools",
+    "url": "https://www.toronto.ca/city-government/data-research-maps/",
+    "tags": [
+      "maps",
+      "research"
+    ]
+  },
+  {
     "name": "Toronto Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -5472,32 +5496,6 @@
     ]
   },
   {
-    "name": "Halton Conservation Authority",
-    "level": "Agency",
-    "jurisdiction": "Halton",
-    "category": "environment",
-    "type": "Conservation authority",
-    "description": "Conservation areas, trails, and environmental services in Halton region",
-    "url": "https://www.conservationontario.ca/halton",
-    "tags": [
-      "conservation",
-      "Halton"
-    ]
-  },
-  {
-    "name": "Hamilton Conservation Authority",
-    "level": "Agency",
-    "jurisdiction": "Hamilton",
-    "category": "environment",
-    "type": "Conservation authority",
-    "description": "Conservation areas, trails, and watershed management in Hamilton",
-    "url": "https://www.conservationontario.ca/hamilton",
-    "tags": [
-      "conservation",
-      "Hamilton"
-    ]
-  },
-  {
     "name": "Ontario Trails Council",
     "level": "Agency",
     "jurisdiction": "Ontario",
@@ -6064,6 +6062,20 @@
     ]
   },
   {
+    "name": "BC Property Transfer Tax Calculator",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Calculate the provincial property transfer tax due when buying property or acquiring land in British Columbia",
+    "url": "https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax",
+    "tags": [
+      "BC",
+      "property",
+      "calculator"
+    ]
+  },
+  {
     "name": "Ontario Land Transfer Tax Calculator",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -6102,6 +6114,34 @@
     "tags": [
       "Quebec",
       "tax"
+    ]
+  },
+  {
+    "name": "Mississauga Property Tax Calculator",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Calculate your annual property tax bill in Mississauga based on your property's assessed value",
+    "url": "https://www.mississauga.ca/en/taxes-and-utility-bills/property-taxes",
+    "tags": [
+      "Mississauga",
+      "property",
+      "calculator"
+    ]
+  },
+  {
+    "name": "Vancouver Property Tax Calculator",
+    "level": "Municipal",
+    "jurisdiction": "Vancouver",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Estimate your annual property tax in Vancouver based on assessed value and property classification",
+    "url": "https://vancouver.ca/home-property-development/property-taxes-and-assessments.aspx",
+    "tags": [
+      "Vancouver",
+      "property",
+      "calculator"
     ]
   },
   {
@@ -6599,19 +6639,6 @@
     ]
   },
   {
-    "name": "Grand River Conservation Authority — Watershed Navigator",
-    "level": "Agency",
-    "jurisdiction": "Grand River Watershed",
-    "category": "environment",
-    "type": "Watershed map",
-    "description": "Interactive watershed navigator with flood risk, conservation areas, and environmental data",
-    "url": "https://www.grandriver.ca/",
-    "tags": [
-      "watershed",
-      "Ontario"
-    ]
-  },
-  {
     "name": "511 Alberta",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -6941,19 +6968,6 @@
       "Ottawa",
       "traffic",
       "roads"
-    ]
-  },
-  {
-    "name": "Toronto Maps / data and research hub",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "open-data",
-    "type": "GIS / research hub",
-    "description": "Broad entry point for city maps, data, and research tools",
-    "url": "https://www.toronto.ca/city-government/data-research-maps/",
-    "tags": [
-      "maps",
-      "research"
     ]
   },
   {
@@ -7304,20 +7318,6 @@
     "tags": [
       "maps",
       "GIS"
-    ]
-  },
-  {
-    "name": "Mississauga Property Tax Calculator",
-    "level": "Municipal",
-    "jurisdiction": "Mississauga",
-    "category": "taxes",
-    "type": "Calculator",
-    "description": "Calculate your annual property tax bill in Mississauga based on your property's assessed value",
-    "url": "https://www.mississauga.ca/en/taxes-and-utility-bills/property-taxes",
-    "tags": [
-      "Mississauga",
-      "property",
-      "calculator"
     ]
   },
   {
