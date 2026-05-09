@@ -13,53 +13,63 @@
  */
 module.exports = [
   {
-    name: "GC Notify",
+    name: "Canadian Centre for Cyber Security",
     level: "Federal",
     jurisdiction: "Canada",
-    category: "gov-services",
-    type: "Notification service",
-    description: "Government of Canada notification service for sending emails and text messages to users — built by Canadian Digital Service",
-    url: "https://notification.canada.ca/",
-    tags: ["notifications", "CDS", "digital service"]
+    category: "safety",
+    type: "Cyber security",
+    description: "Government of Canada lead for cyber security, providing guidance, tools, incident reporting, and threat intelligence for citizens and organizations",
+    url: "https://cyber.gc.ca/en",
+    tags: ["cyber security", "alerts", "threats", "federal"]
   },
   {
-    name: "GC Design System",
-    level: "Federal",
-    jurisdiction: "Canada",
-    category: "gov-services",
-    type: "Design system",
-    description: "Official production-ready design system for Government of Canada websites and digital products — components, patterns, and guidance",
-    url: "https://design-system.canada.ca/en/",
-    tags: ["design system", "components", "CDS", "frontend"]
-  },
-  {
-    name: "GC Forms",
-    level: "Federal",
-    jurisdiction: "Canada",
-    category: "gov-services",
-    type: "Form builder",
-    description: "Secure, accessible, bilingual form-building platform for Government of Canada services — no coding required",
-    url: "https://articles.alpha.canada.ca/forms-formulaires/",
-    tags: ["forms", "CDS", "digital service", "no-code"]
-  },
-  {
-    name: "B.C. Government DevHub",
+    name: "Ontario Business Registry",
     level: "Provincial",
-    jurisdiction: "British Columbia",
-    category: "gov-services",
-    type: "Developer portal",
-    description: "British Columbia government developer hub with technical documentation, code samples, APIs, and community knowledge bases",
-    url: "https://developer.gov.bc.ca/",
-    tags: ["developer portal", "API", "BC", "documentation"]
+    jurisdiction: "Ontario",
+    category: "business",
+    type: "Business registry",
+    description: "Register, search, and manage Ontario business names, corporations, and partnerships online",
+    url: "https://www.ontario.ca/page/ontario-business-registry",
+    tags: ["Ontario", "business", "registry"]
   },
   {
-    name: "B.C. API Gateway",
+    name: "Yukon Open Data",
     level: "Provincial",
-    jurisdiction: "British Columbia",
+    jurisdiction: "Yukon",
     category: "open-data",
-    type: "API portal",
-    description: "British Columbia government API gateway for discovering, accessing, and managing provincial APIs and data services",
-    url: "https://api.gov.bc.ca/",
-    tags: ["API", "gateway", "BC", "open data"]
+    type: "Open data portal",
+    description: "Yukon government open data catalogue with datasets on environment, infrastructure, health, and demographics",
+    url: "https://open.yukon.ca/",
+    tags: ["Yukon", "open data", "datasets"]
+  },
+  {
+    name: "Newfoundland and Labrador Open Data",
+    level: "Provincial",
+    jurisdiction: "Newfoundland and Labrador",
+    category: "open-data",
+    type: "Open data portal",
+    description: "Provincial open data portal for Newfoundland and Labrador providing government datasets across multiple sectors",
+    url: "https://opendata.gov.nl.ca/",
+    tags: ["Newfoundland", "open data", "datasets"]
+  },
+  {
+    name: "Newfoundland and Labrador Statistics Agency",
+    level: "Provincial",
+    jurisdiction: "Newfoundland and Labrador",
+    category: "open-data",
+    type: "Statistics portal",
+    description: "Official provincial statistics on population, economy, labour market, and social indicators for Newfoundland and Labrador",
+    url: "https://stats.gov.nl.ca/",
+    tags: ["Newfoundland", "statistics", "data"]
+  },
+  {
+    name: "Prince Edward Island Open Data Portal",
+    level: "Provincial",
+    jurisdiction: "PEI",
+    category: "open-data",
+    type: "Open data portal",
+    description: "PEI government open data catalogue with datasets on agriculture, environment, health, and transportation",
+    url: "https://data.princeedwardisland.ca/",
+    tags: ["PEI", "open data", "datasets"]
   },
 ];

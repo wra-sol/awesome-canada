@@ -13,34 +13,6 @@
     ]
   },
   {
-    "name": "Agriculture and Agri-Food Canada — Market Information Portal",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Market data",
-    "description": "Weekly commodity prices, market reports, trade data, and price charts for Canadian agricultural products",
-    "url": "https://agriculture.canada.ca/en/markets",
-    "tags": [
-      "agriculture",
-      "market",
-      "data"
-    ]
-  },
-  {
-    "name": "Agriculture and Agri-Food Canada — Weekly Canadian Food Prices",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Price data",
-    "description": "Weekly retail price tracking for major food categories — meat, dairy, produce, bakery, and more — across Canada",
-    "url": "https://agriculture.canada.ca/en/markets/market-information-reporting/consumer-food-prices",
-    "tags": [
-      "food",
-      "prices",
-      "data"
-    ]
-  },
-  {
     "name": "Canadian Food Inspection Agency — Food Safety Warnings",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -222,19 +194,6 @@
     "tags": [
       "marine",
       "safety"
-    ]
-  },
-  {
-    "name": "Canadian Hydrographic Service — Nautical Charts",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "aviation-marine",
-    "type": "Nautical charts",
-    "description": "Official electronic and paper nautical charts for Canadian waters",
-    "url": "https://charts.gc.ca/index-en.html",
-    "tags": [
-      "marine",
-      "charts"
     ]
   },
   {
@@ -908,8 +867,8 @@
     "jurisdiction": "Ontario",
     "category": "business",
     "type": "Business registry",
-    "description": "Register a business, search existing business names, file business name registrations, and manage Ontario business accounts",
-    "url": "https://www.ontario.ca/page/onbid",
+    "description": "Register, search, and manage Ontario business names, corporations, and partnerships online",
+    "url": "https://www.ontario.ca/page/ontario-business-registry",
     "tags": [
       "Ontario",
       "business",
@@ -1856,18 +1815,6 @@
     ]
   },
   {
-    "name": "Open Government Partnership — Canada",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "elections",
-    "type": "Open government",
-    "description": "Canada's national action plan on open government, commitments, and progress",
-    "url": "https://open.canada.ca/en/open-government-partnership",
-    "tags": [
-      "open government"
-    ]
-  },
-  {
     "name": "Ontario — Participate",
     "level": "Agency",
     "jurisdiction": "Ontario",
@@ -2762,19 +2709,6 @@
     ]
   },
   {
-    "name": "BDC — Small Business Tools",
-    "level": "Crown Corp",
-    "jurisdiction": "Canada",
-    "category": "finance",
-    "type": "Business tools",
-    "description": "Business planning, financing, and management tools for entrepreneurs",
-    "url": "https://www.bdc.ca/en/tools",
-    "tags": [
-      "business",
-      "finance"
-    ]
-  },
-  {
     "name": "CDIC — Deposit Insurance Calculator",
     "level": "Crown Corp",
     "jurisdiction": "Canada",
@@ -3026,19 +2960,6 @@
     ]
   },
   {
-    "name": "Canada Post — Find a Postal Code",
-    "level": "Crown Corp",
-    "jurisdiction": "Canada",
-    "category": "gov-services",
-    "type": "Finder",
-    "description": "Official postal code lookup for all of Canada",
-    "url": "https://www.canadapost.ca/cpc/en/tools/postalcodefinder.page",
-    "tags": [
-      "services",
-      "postal"
-    ]
-  },
-  {
     "name": "Canada Post — Send, Ship, Track",
     "level": "Crown Corp",
     "jurisdiction": "Canada",
@@ -3075,19 +2996,6 @@
     "tags": [
       "culture",
       "streaming"
-    ]
-  },
-  {
-    "name": "PPP Canada",
-    "level": "Crown Corp",
-    "jurisdiction": "Canada",
-    "category": "gov-services",
-    "type": "Infrastructure",
-    "description": "Public-private partnership tools and project pipeline",
-    "url": "https://www.p3canada.ca/",
-    "tags": [
-      "infrastructure",
-      "P3"
     ]
   },
   {
@@ -3587,19 +3495,6 @@
     "tags": [
       "housing",
       "affordability"
-    ]
-  },
-  {
-    "name": "CMHC Housing Market Information Portal",
-    "level": "Crown Corp",
-    "jurisdiction": "Canada",
-    "category": "housing",
-    "type": "Housing data",
-    "description": "Comprehensive housing data including starts, completions, sales, and prices",
-    "url": "https://www.cmhc-schl.gc.ca/housing-market-data",
-    "tags": [
-      "housing",
-      "data"
     ]
   },
   {
@@ -4643,6 +4538,34 @@
     ]
   },
   {
+    "name": "Newfoundland and Labrador Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Provincial open data portal for Newfoundland and Labrador providing government datasets across multiple sectors",
+    "url": "https://opendata.gov.nl.ca/",
+    "tags": [
+      "Newfoundland",
+      "open data",
+      "datasets"
+    ]
+  },
+  {
+    "name": "Newfoundland and Labrador Statistics Agency",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "open-data",
+    "type": "Statistics portal",
+    "description": "Official provincial statistics on population, economy, labour market, and social indicators for Newfoundland and Labrador",
+    "url": "https://stats.gov.nl.ca/",
+    "tags": [
+      "Newfoundland",
+      "statistics",
+      "data"
+    ]
+  },
+  {
     "name": "Nova Scotia Open Data",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -4682,6 +4605,20 @@
     ]
   },
   {
+    "name": "Prince Edward Island Open Data Portal",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "PEI government open data catalogue with datasets on agriculture, environment, health, and transportation",
+    "url": "https://data.princeedwardisland.ca/",
+    "tags": [
+      "PEI",
+      "open data",
+      "datasets"
+    ]
+  },
+  {
     "name": "Données Québec",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -4692,6 +4629,20 @@
     "tags": [
       "open data",
       "Quebec"
+    ]
+  },
+  {
+    "name": "Yukon Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Yukon government open data catalogue with datasets on environment, infrastructure, health, and demographics",
+    "url": "https://open.yukon.ca/",
+    "tags": [
+      "Yukon",
+      "open data",
+      "datasets"
     ]
   },
   {
@@ -5674,6 +5625,21 @@
     ]
   },
   {
+    "name": "Canadian Centre for Cyber Security",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Cyber security",
+    "description": "Government of Canada lead for cyber security, providing guidance, tools, incident reporting, and threat intelligence for citizens and organizations",
+    "url": "https://cyber.gc.ca/en",
+    "tags": [
+      "cyber security",
+      "alerts",
+      "threats",
+      "federal"
+    ]
+  },
+  {
     "name": "Earthquakes Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -6592,19 +6558,6 @@
     "tags": [
       "Winnipeg",
       "transit"
-    ]
-  },
-  {
-    "name": "Transport Canada — Motor Vehicle Safety Recalls",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "transport-roads",
-    "type": "Recall database",
-    "description": "Search vehicle, tire, and child-car-seat recalls issued under Transport Canada regulations",
-    "url": "https://tc.canada.ca/en/road-transportation/motor-vehicle-safety/defects-recalls-vehicles-tires-child-car-seats",
-    "tags": [
-      "recalls",
-      "safety"
     ]
   },
   {

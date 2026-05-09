@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 561 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 557 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,32 +23,32 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 39
-- [🪪 Government Services & ID](#government-services-and-id) — 29
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 43
+- [🪪 Government Services & ID](#government-services-and-id) — 27
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 14
-- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 15
+- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 14
 - [🏢 Business & Procurement](#business-and-procurement) — 15
 - [💼 Employment & Labour](#employment-and-labour) — 14
 - [🎓 Education & Student Aid](#education-and-student-aid) — 10
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 15
 - [🩺 Health & Wellness](#health-and-wellness) — 19
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 29
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 26
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 28
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 25
 - [🚌 Transit & Mobility](#transit-and-mobility) — 31
-- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 17
+- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 55
 - [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 23
 - [⚡ Energy & Utilities](#energy-and-utilities) — 27
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 15
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 13
 - [🔬 Science, Research & Space](#science-research-and-space) — 11
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 10
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 11
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 15
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 13
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 12
 - [🎖️ Veterans & Military](#veterans-and-military) — 6
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 34
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 33
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 5
 
 ---
@@ -130,9 +130,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Newfoundland and Labrador Open Data | Newfoundland and Labrador · Provincial | Open data portal | Provincial open data portal for Newfoundland and Labrador providing government datasets across multiple sectors | https://opendata.gov.nl.ca/ |
+| Newfoundland and Labrador Statistics Agency | Newfoundland and Labrador · Provincial | Statistics portal | Official provincial statistics on population, economy, labour market, and social indicators for Newfoundland and Labrador | https://stats.gov.nl.ca/ |
 | Nova Scotia Open Data | Nova Scotia · Provincial | Open data portal | Nova Scotia open data with storytelling feature and datasets | https://data.novascotia.ca/ |
 | PEI Open Data | PEI · Provincial | Open data portal | Prince Edward Island government open data | https://www.princeedwardisland.ca/en/service/open-data |
+| Prince Edward Island Open Data Portal | PEI · Provincial | Open data portal | PEI government open data catalogue with datasets on agriculture, environment, health, and transportation | https://data.princeedwardisland.ca/ |
 | Halifax Open Data | Halifax · Municipal | Open data portal | Useful municipal data and maps hub | https://www.halifax.ca/home/open-data |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Yukon Open Data | Yukon · Provincial | Open data portal | Yukon government open data catalogue with datasets on environment, infrastructure, health, and demographics | https://open.yukon.ca/ |
 
 ## 🪪 Government Services & ID
 
@@ -152,11 +161,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Travel Advice and Advisories | Canada · Federal | Advisory finder | Country-by-country official travel advisories | https://travel.gc.ca/travelling/advisories |
 | Canada Council for the Arts — Discover | Canada · Crown Corp | Arts | Funding programs, arts research, and Canadian arts discovery | https://canadacouncil.ca/ |
 | Canada Foundation for Innovation — Research Infrastructure | Canada · Crown Corp | Research | Funding for research infrastructure across Canadian institutions | https://www.innovation.ca/ |
-| Canada Post — Find a Postal Code | Canada · Crown Corp | Finder | Official postal code lookup for all of Canada | https://www.canadapost.ca/cpc/en/tools/postalcodefinder.page |
 | Canada Post — Send, Ship, Track | Canada · Crown Corp | Shipping tool | Send mail, ship packages, calculate postage, and track shipments | https://www.canadapost.ca/send |
 | Canada Science and Technology Exhibition Centre | Canada · Crown Corp | Science outreach | Science and innovation exhibits and public programs | https://www.sciencetech.ca/ |
 | CBC — Gem Streaming | Canada · Crown Corp | Streaming | Free Canadian streaming of news, documentaries, and shows on CBC Gem | https://gem.cbc.ca/ |
-| PPP Canada | Canada · Crown Corp | Infrastructure | Public-private partnership tools and project pipeline | https://www.p3canada.ca/ |
 
 ### British Columbia
 
@@ -254,7 +261,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | FCAC — Credit Card Comparison Tool | Canada · Federal | Comparator | Compare fees, rewards, and interest rates across all federally regulated credit cards | https://itools-ioutils.fcac-acfc.gc.ca/CCCT-OCCC/SearchFilter-eng.aspx |
 | FCAC — Mortgage Calculator | Canada · Federal | Calculator | Official mortgage qualifier and payment calculator including stress-test scenarios | https://itools-ioutils.fcac-acfc.gc.ca/MC-CH/MCCalc-CHCalc-eng.aspx |
 | Financial Consumer Agency — Consumer Tools | Canada · Federal | Financial tools | Budget planner, credit card selector, bank account comparison, and financial literacy tools | https://www.canada.ca/en/financial-consumer-agency.html |
-| BDC — Small Business Tools | Canada · Crown Corp | Business tools | Business planning, financing, and management tools for entrepreneurs | https://www.bdc.ca/en/tools |
 | CDIC — Deposit Insurance Calculator | Canada · Crown Corp | Calculator | Calculate how much of your bank deposits are protected by CDIC coverage | https://www.cdic.ca/your-coverage/deposit-insurance-calculator/ |
 | Export Development Canada — Trade Intelligence | Canada · Crown Corp | Trade data | International trade data, market intelligence, and export tools | https://www.edc.ca/en |
 | Canadian Investor Protection Fund | Canada · Agency | Coverage tool | Check coverage of investment dealer member firms and eligible assets | https://www.cipf.ca/ |
@@ -322,7 +328,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario — Buying from Ontario Government | Ontario · Provincial | Procurement | Ontario tender notices, vendor onboarding, and supplier guides for selling to the province | https://www.doingbusiness.mgs.gov.on.ca/mbs/psb/psb.nsf/English/bidopps.html |
-| Ontario Business Registry | Ontario · Provincial | Business registry | Register a business, search existing business names, file business name registrations, and manage Ontario business accounts | https://www.ontario.ca/page/onbid |
+| Ontario Business Registry | Ontario · Provincial | Business registry | Register, search, and manage Ontario business names, corporations, and partnerships online | https://www.ontario.ca/page/ontario-business-registry |
 
 ### Quebec
 
@@ -575,7 +581,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Lands Company — Property Portfolio | Canada · Crown Corp | Real estate | Surplus federal properties and lands available for redevelopment | https://www.clc.ca/ |
 | CMHC — Mortgage Calculator | Canada · Crown Corp | Calculator | Official mortgage payment, amortization, and affordability calculator from CMHC | https://www.cmhc-schl.gc.ca/consumers/home-buying/calculators |
 | CMHC Housing Affordability Tracker | Canada · Crown Corp | Housing tool | Monitor housing affordability across Canadian markets | https://www.cmhc-schl.gc.ca/ |
-| CMHC Housing Market Information Portal | Canada · Crown Corp | Housing data | Comprehensive housing data including starts, completions, sales, and prices | https://www.cmhc-schl.gc.ca/housing-market-data |
 | CMHC Rental Market Reports | Canada · Crown Corp | Rental data | Vacancy rates and average rents by city and neighbourhood | https://www.cmhc-schl.gc.ca/rental-market |
 | Affordable Housing Online — Canada | Canada · Agency | Housing finder | Search affordable and subsidized housing across Canada | https://affordablehousingonline.com/reduced-rent/canada |
 | Canadian Real Estate Association — Stats | Canada · Agency | Market data | Monthly national home sales, prices, and MLS benchmarks by market | https://www.crea.ca/housing-market-stats/ |
@@ -634,12 +639,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | PEI Property Tax Calculator | PEI · Provincial | Calculator | Estimate annual property taxes for residential and commercial properties on Prince Edward Island | https://www.princeedwardisland.ca/en/service/property-tax |
 
 ## 🛣️ Transportation & Roads
-
-### Federal / National
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| Transport Canada — Motor Vehicle Safety Recalls | Canada · Federal | Recall database | Search vehicle, tire, and child-car-seat recalls issued under Transport Canada regulations | https://tc.canada.ca/en/road-transportation/motor-vehicle-safety/defects-recalls-vehicles-tires-child-car-seats |
 
 ### British Columbia
 
@@ -782,7 +781,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Canadian Coast Guard — Marine Communications | Canada · Federal | Marine safety | Search and rescue info, nautical charts, and marine safety | https://www.canada.ca/coast-guard |
 | Canadian Coast Guard — Notices to Mariners | Canada · Federal | Marine safety | Official Notices to Mariners with corrections to nautical charts and publications | https://www.notmar.gc.ca/ |
-| Canadian Hydrographic Service — Nautical Charts | Canada · Federal | Nautical charts | Official electronic and paper nautical charts for Canadian waters | https://charts.gc.ca/index-en.html |
 | Marine Atlantic — Ferry Booking and Schedules | Canada · Federal | Ferry booking | Book and plan crossings between Nova Scotia and Newfoundland | https://www.marineatlantic.ca/ |
 | NAV CANADA — Aeronautical Publications | Canada · Federal | Aviation maps | Airspace maps, aeronautical information, and flight planning tools | https://www.navcanada.ca/en/aeronautical-information/ |
 | NAV CANADA — Flight Planning | Canada · Federal | Flight tools | NOTAM search, Canadian Aviation Weather, and flight planning resources | https://www.navcanada.ca/en/flight-planning/ |
@@ -1031,8 +1029,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Agri-Food Data Canada | Canada · Federal | Research data | Agricultural research and producer data platform supporting Canadian farms and AI projects | https://agrifooddatacanada.ca/ |
-| Agriculture and Agri-Food Canada — Market Information Portal | Canada · Federal | Market data | Weekly commodity prices, market reports, trade data, and price charts for Canadian agricultural products | https://agriculture.canada.ca/en/markets |
-| Agriculture and Agri-Food Canada — Weekly Canadian Food Prices | Canada · Federal | Price data | Weekly retail price tracking for major food categories — meat, dairy, produce, bakery, and more — across Canada | https://agriculture.canada.ca/en/markets/market-information-reporting/consumer-food-prices |
 | Canadian Food Inspection Agency — Food Safety Warnings | Canada · Federal | Food warnings | Public health warnings, recalls, and food safety alerts | https://inspection.canada.ca/food-recalls-and-safety-alerts/eng/1581969136197/1581969136496 |
 | Canadian Food Inspection Agency — Plant Pest Search | Canada · Federal | Database | Searchable database of regulated plant pests, host plants, and distribution data | https://inspection.canada.ca/plant-health/plant-pests-invasive-species/directives/date/eng/1322827340964/1322827410894 |
 | Canadian Food Inspection Agency — Plant Protection Export Certification | Canada · Federal | Service | Phytosanitary certificates and export documentation for plant and plant product shipments leaving Canada | https://inspection.canada.ca/plant-health/imports/phytosanitary-certificates/eng/1324625197006/1324625197873 |
@@ -1166,6 +1162,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alert Ready — National Public Alerting System | Canada · Federal | Alerts | Public alerts for life-threatening weather, Amber Alerts, and emergencies delivered via TV, radio, LTE | https://www.alertready.ca/ |
+| Canadian Centre for Cyber Security | Canada · Federal | Cyber security | Government of Canada lead for cyber security, providing guidance, tools, incident reporting, and threat intelligence for citizens and organizations | https://cyber.gc.ca/en |
 | Earthquakes Canada | Canada · Federal | Live map / science tool | Near-real-time earthquake tracking and event data | https://earthquakescanada.nrcan.gc.ca/ |
 | Health Canada — Canadian Cannabis Survey | Canada · Federal | Data | Annual cannabis use, perceptions, and harms reported by Canadians | https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/research-data.html |
 | National Wildland Fire Information System | Canada · Federal | Wildfire map | Wildfire status and fire information across Canada | https://cwfis.cfs.nrcan.gc.ca/ |
@@ -1310,7 +1307,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Canada — Results Tool | Canada · Agency | Results | Official past federal election results by riding, with poll-by-poll maps | https://www.elections.ca/content.aspx?section=res&dir=cir/list&document=index&lang=e |
 | Elections Canada — Voter Information Service | Canada · Agency | Voter tool | Find your polling station, candidates, and election results | https://www.elections.ca/content.aspx |
 | MyDemocracy.ca — Civic Engagement Survey | Canada · Agency | Civic tool | Official civic engagement survey on democratic participation in Canada | https://www.mydemocracy.ca/ |
-| Open Government Partnership — Canada | Canada · Agency | Open government | Canada's national action plan on open government, commitments, and progress | https://open.canada.ca/en/open-government-partnership |
 
 ### British Columbia
 
