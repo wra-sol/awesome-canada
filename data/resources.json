@@ -13,47 +13,6 @@
     ]
   },
   {
-    "name": "Canadian Food Inspection Agency — Food Safety Warnings",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Food warnings",
-    "description": "Public health warnings, recalls, and food safety alerts",
-    "url": "https://inspection.canada.ca/food-recalls-and-safety-alerts/eng/1581969136197/1581969136496",
-    "tags": [
-      "food",
-      "safety",
-      "recalls"
-    ]
-  },
-  {
-    "name": "Canadian Food Inspection Agency — Plant Pest Search",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Database",
-    "description": "Searchable database of regulated plant pests, host plants, and distribution data",
-    "url": "https://inspection.canada.ca/plant-health/plant-pests-invasive-species/directives/date/eng/1322827340964/1322827410894",
-    "tags": [
-      "CFIA",
-      "pests"
-    ]
-  },
-  {
-    "name": "Canadian Food Inspection Agency — Plant Protection Export Certification",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Service",
-    "description": "Phytosanitary certificates and export documentation for plant and plant product shipments leaving Canada",
-    "url": "https://inspection.canada.ca/plant-health/imports/phytosanitary-certificates/eng/1324625197006/1324625197873",
-    "tags": [
-      "agriculture",
-      "exports",
-      "CFIA"
-    ]
-  },
-  {
     "name": "Canadian Grain Commission",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -275,16 +234,19 @@
     ]
   },
   {
-    "name": "VIA Rail — Track Your Train",
+    "name": "Port of Prince Rupert",
     "level": "Crown Corp",
-    "jurisdiction": "Canada",
+    "jurisdiction": "British Columbia",
     "category": "aviation-marine",
-    "type": "Real-time",
-    "description": "Live train-status tracker for VIA Rail passenger services across Canada",
-    "url": "https://www.viarail.ca/en/travel-info/station-and-train/station-information/train-status",
+    "type": "Port authority",
+    "description": "Canada's second-largest port and a key trade gateway connecting Asia and North America, with real-time vessel tracking and trade data",
+    "url": "https://www.rupertport.com/",
     "tags": [
-      "rail",
-      "realtime"
+      "British Columbia",
+      "port",
+      "trade",
+      "marine",
+      "shipping"
     ]
   },
   {
@@ -1149,32 +1111,6 @@
     ]
   },
   {
-    "name": "Library and Archives Canada — AMICUS",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "culture",
-    "type": "National catalogue",
-    "description": "Canada's national catalogue of published and unpublished materials",
-    "url": "https://bac-lac.gc.ca/eng/discover/amicus",
-    "tags": [
-      "library",
-      "catalogue"
-    ]
-  },
-  {
-    "name": "Library and Archives Canada — Collection Search",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "culture",
-    "type": "Collection search",
-    "description": "Search millions of digitized archival records, photos, documents, and government publications",
-    "url": "https://bac-lac.gc.ca/eng/discover",
-    "tags": [
-      "archives",
-      "heritage"
-    ]
-  },
-  {
     "name": "National Film Board — Online Screening Room",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -1445,20 +1381,6 @@
     "tags": [
       "land",
       "data"
-    ]
-  },
-  {
-    "name": "ServiceOntario — Vital Statistics",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "culture",
-    "type": "Service",
-    "description": "Order certified copies of birth, marriage, and death certificates, plus search historical vital statistics records",
-    "url": "https://www.ontario.ca/page/vital-statistics",
-    "tags": [
-      "Ontario",
-      "vital statistics",
-      "services"
     ]
   },
   {
@@ -2799,19 +2721,6 @@
     ]
   },
   {
-    "name": "CBSA — ArriveCAN",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "gov-services",
-    "type": "App",
-    "description": "Submit CBSA advance declaration before arriving at major Canadian airports",
-    "url": "https://www.cbsa-asfc.gc.ca/services/adc-daa-eng.html",
-    "tags": [
-      "border",
-      "travel"
-    ]
-  },
-  {
     "name": "GC Design System",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -2853,6 +2762,21 @@
       "notifications",
       "CDS",
       "digital service"
+    ]
+  },
+  {
+    "name": "GCcollab",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "gov-services",
+    "type": "Collaboration platform",
+    "description": "Government of Canada's professional networking and collaboration platform for public servants and external partners to share knowledge and work together",
+    "url": "https://gccollab.ca/",
+    "tags": [
+      "collaboration",
+      "public service",
+      "federal",
+      "networking"
     ]
   },
   {
@@ -3105,6 +3029,21 @@
     ]
   },
   {
+    "name": "ServiceOntario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "gov-services",
+    "type": "Service portal",
+    "description": "Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services",
+    "url": "https://www.ontario.ca/page/serviceontario",
+    "tags": [
+      "Ontario",
+      "services",
+      "ID",
+      "portal"
+    ]
+  },
+  {
     "name": "Directeur de l'état civil du Québec",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -3196,6 +3135,21 @@
     ]
   },
   {
+    "name": "Canadian Institute for Health Information (CIHI)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Health data",
+    "description": "Independent, not-for-profit organization providing essential health data and information to inform policy, research, and system improvement across Canada",
+    "url": "https://www.cihi.ca/en",
+    "tags": [
+      "health",
+      "data",
+      "statistics",
+      "federal"
+    ]
+  },
+  {
     "name": "Drug Product Database",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -3271,19 +3225,6 @@
     "tags": [
       "blood",
       "donation"
-    ]
-  },
-  {
-    "name": "ImmunizeCA",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "health",
-    "type": "App",
-    "description": "Official app to track family immunization records and receive reminders",
-    "url": "https://www.canadianpharmacistsassociation.ca/",
-    "tags": [
-      "vaccines",
-      "health"
     ]
   },
   {
@@ -5640,6 +5581,21 @@
     ]
   },
   {
+    "name": "Canadian Nuclear Safety Commission",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Regulator",
+    "description": "Federal regulator of nuclear power and materials in Canada, overseeing licensing, compliance, and public health and safety around nuclear facilities",
+    "url": "https://www.cnsc-ccsn.gc.ca/eng/",
+    "tags": [
+      "nuclear",
+      "safety",
+      "regulator",
+      "federal"
+    ]
+  },
+  {
     "name": "Earthquakes Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -6958,6 +6914,21 @@
     ]
   },
   {
+    "name": "Alberta Energy Regulator",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "utilities",
+    "type": "Regulator",
+    "description": "Regulates the upstream oil, gas, and coal development in Alberta, including licensing, compliance, and environmental monitoring",
+    "url": "https://www.aer.ca/",
+    "tags": [
+      "Alberta",
+      "energy",
+      "regulator",
+      "oil and gas"
+    ]
+  },
+  {
     "name": "Alberta Utilities Commission — Consumer Services",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -7056,19 +7027,6 @@
     ]
   },
   {
-    "name": "Newfoundland Power — Outage Map",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "utilities",
-    "type": "Outage map",
-    "description": "Newfoundland Power outage map and reporting for the island",
-    "url": "https://outagemap.newfoundlandpower.com/",
-    "tags": [
-      "Newfoundland and Labrador",
-      "outages"
-    ]
-  },
-  {
     "name": "Nova Scotia Power — Outage Map",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -7092,6 +7050,21 @@
     "tags": [
       "Ontario",
       "outages"
+    ]
+  },
+  {
+    "name": "Ontario Energy Board",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Regulator",
+    "description": "Independent regulator of the electricity and natural gas sectors in Ontario, including utility rate decisions, consumer protection, and energy policy",
+    "url": "https://www.oeb.ca/",
+    "tags": [
+      "Ontario",
+      "energy",
+      "regulator",
+      "utilities"
     ]
   },
   {

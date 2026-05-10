@@ -13,63 +13,73 @@
  */
 module.exports = [
   {
-    name: "Canadian Centre for Cyber Security",
+    name: "Canadian Institute for Health Information (CIHI)",
+    level: "Federal",
+    jurisdiction: "Canada",
+    category: "health",
+    type: "Health data",
+    description: "Independent, not-for-profit organization providing essential health data and information to inform policy, research, and system improvement across Canada",
+    url: "https://www.cihi.ca/en",
+    tags: ["health", "data", "statistics", "federal"]
+  },
+  {
+    name: "Ontario Energy Board",
+    level: "Provincial",
+    jurisdiction: "Ontario",
+    category: "utilities",
+    type: "Regulator",
+    description: "Independent regulator of the electricity and natural gas sectors in Ontario, including utility rate decisions, consumer protection, and energy policy",
+    url: "https://www.oeb.ca/",
+    tags: ["Ontario", "energy", "regulator", "utilities"]
+  },
+  {
+    name: "Alberta Energy Regulator",
+    level: "Provincial",
+    jurisdiction: "Alberta",
+    category: "utilities",
+    type: "Regulator",
+    description: "Regulates the upstream oil, gas, and coal development in Alberta, including licensing, compliance, and environmental monitoring",
+    url: "https://www.aer.ca/",
+    tags: ["Alberta", "energy", "regulator", "oil and gas"]
+  },
+  {
+    name: "Canadian Nuclear Safety Commission",
     level: "Federal",
     jurisdiction: "Canada",
     category: "safety",
-    type: "Cyber security",
-    description: "Government of Canada lead for cyber security, providing guidance, tools, incident reporting, and threat intelligence for citizens and organizations",
-    url: "https://cyber.gc.ca/en",
-    tags: ["cyber security", "alerts", "threats", "federal"]
+    type: "Regulator",
+    description: "Federal regulator of nuclear power and materials in Canada, overseeing licensing, compliance, and public health and safety around nuclear facilities",
+    url: "https://www.cnsc-ccsn.gc.ca/eng/",
+    tags: ["nuclear", "safety", "regulator", "federal"]
   },
   {
-    name: "Ontario Business Registry",
+    name: "GCcollab",
+    level: "Federal",
+    jurisdiction: "Canada",
+    category: "gov-services",
+    type: "Collaboration platform",
+    description: "Government of Canada's professional networking and collaboration platform for public servants and external partners to share knowledge and work together",
+    url: "https://gccollab.ca/",
+    tags: ["collaboration", "public service", "federal", "networking"]
+  },
+  {
+    name: "ServiceOntario",
     level: "Provincial",
     jurisdiction: "Ontario",
-    category: "business",
-    type: "Business registry",
-    description: "Register, search, and manage Ontario business names, corporations, and partnerships online",
-    url: "https://www.ontario.ca/page/ontario-business-registry",
-    tags: ["Ontario", "business", "registry"]
+    category: "gov-services",
+    type: "Service portal",
+    description: "Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services",
+    url: "https://www.ontario.ca/page/serviceontario",
+    tags: ["Ontario", "services", "ID", "portal"]
   },
   {
-    name: "Yukon Open Data",
-    level: "Provincial",
-    jurisdiction: "Yukon",
-    category: "open-data",
-    type: "Open data portal",
-    description: "Yukon government open data catalogue with datasets on environment, infrastructure, health, and demographics",
-    url: "https://open.yukon.ca/",
-    tags: ["Yukon", "open data", "datasets"]
-  },
-  {
-    name: "Newfoundland and Labrador Open Data",
-    level: "Provincial",
-    jurisdiction: "Newfoundland and Labrador",
-    category: "open-data",
-    type: "Open data portal",
-    description: "Provincial open data portal for Newfoundland and Labrador providing government datasets across multiple sectors",
-    url: "https://opendata.gov.nl.ca/",
-    tags: ["Newfoundland", "open data", "datasets"]
-  },
-  {
-    name: "Newfoundland and Labrador Statistics Agency",
-    level: "Provincial",
-    jurisdiction: "Newfoundland and Labrador",
-    category: "open-data",
-    type: "Statistics portal",
-    description: "Official provincial statistics on population, economy, labour market, and social indicators for Newfoundland and Labrador",
-    url: "https://stats.gov.nl.ca/",
-    tags: ["Newfoundland", "statistics", "data"]
-  },
-  {
-    name: "Prince Edward Island Open Data Portal",
-    level: "Provincial",
-    jurisdiction: "PEI",
-    category: "open-data",
-    type: "Open data portal",
-    description: "PEI government open data catalogue with datasets on agriculture, environment, health, and transportation",
-    url: "https://data.princeedwardisland.ca/",
-    tags: ["PEI", "open data", "datasets"]
+    name: "Port of Prince Rupert",
+    level: "Crown Corp",
+    jurisdiction: "British Columbia",
+    category: "aviation-marine",
+    type: "Port authority",
+    description: "Canada's second-largest port and a key trade gateway connecting Asia and North America, with real-time vessel tracking and trade data",
+    url: "https://www.rupertport.com/",
+    tags: ["British Columbia", "port", "trade", "marine", "shipping"]
   },
 ];

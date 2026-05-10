@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 557 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 554 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -24,7 +24,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 ## Table of Contents
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 43
-- [🪪 Government Services & ID](#government-services-and-id) — 27
+- [🪪 Government Services & ID](#government-services-and-id) — 28
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 14
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 14
 - [🏢 Business & Procurement](#business-and-procurement) — 15
@@ -39,11 +39,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 55
 - [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 23
-- [⚡ Energy & Utilities](#energy-and-utilities) — 27
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 13
+- [⚡ Energy & Utilities](#energy-and-utilities) — 28
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 10
 - [🔬 Science, Research & Space](#science-research-and-space) — 11
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 11
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 35
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 15
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 13
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 12
@@ -149,10 +149,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| CBSA — ArriveCAN | Canada · Federal | App | Submit CBSA advance declaration before arriving at major Canadian airports | https://www.cbsa-asfc.gc.ca/services/adc-daa-eng.html |
 | GC Design System | Canada · Federal | Design system | Official production-ready design system for Government of Canada websites and digital products — components, patterns, and guidance | https://design-system.canada.ca/en/ |
 | GC Forms | Canada · Federal | Form builder | Secure, accessible, bilingual form-building platform for Government of Canada services — no coding required | https://articles.alpha.canada.ca/forms-formulaires/ |
 | GC Notify | Canada · Federal | Notification service | Government of Canada notification service for sending emails and text messages to users — built by Canadian Digital Service | https://notification.canada.ca/ |
+| GCcollab | Canada · Federal | Collaboration platform | Government of Canada's professional networking and collaboration platform for public servants and external partners to share knowledge and work together | https://gccollab.ca/ |
 | GCKey — Federal Sign-In Service | Canada · Federal | Authentication | Unified credential used to access many Government of Canada online services | https://clegc-gckey.gc.ca/ |
 | My Service Canada Account (MSCA) | Canada · Federal | Secure portal | Sign in to view EI, CPP, OAS, ROE, and access most federal individual services in one place | https://www.canada.ca/en/employment-social-development/services/my-account.html |
 | NEXUS — Trusted Traveller Program | Canada · Federal | Service | Apply for expedited border crossing between Canada and the US at land, air, and marine entries | https://www.cbsa-asfc.gc.ca/prog/nexus/menu-eng.html |
@@ -190,6 +190,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| ServiceOntario | Ontario · Provincial | Service portal | Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services | https://www.ontario.ca/page/serviceontario |
 | Brampton budget / Open Book resources | Brampton · Municipal | Transparency / budget | Budget transparency resources and project-oriented views | https://www.brampton.ca/EN/City-Hall/budget/ |
 | Toronto 311 — Service Requests | Toronto · Municipal | Service | Report issues, request services, and track cases in Toronto via web, app, or phone | https://www.toronto.ca/home/311-toronto-at-your-service/ |
 
@@ -475,12 +476,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Health Infoway | Canada · Federal | Digital health | Digital health projects, pan-Canadian health data standards, and connected care resources | https://www.infoway-inforoute.ca/ |
 | Canada.ca — Drug Shortages Canada | Canada · Federal | Database | Search the official database of reported and resolved drug shortages and discontinuations | https://www.drugshortagescanada.ca/ |
 | Canada's Food Guide | Canada · Federal | Reference | Evidence-based food guidance, recipes, and meal planning from Health Canada | https://food-guide.canada.ca/en/ |
+| Canadian Institute for Health Information (CIHI) | Canada · Federal | Health data | Independent, not-for-profit organization providing essential health data and information to inform policy, research, and system improvement across Canada | https://www.cihi.ca/en |
 | Drug Product Database | Canada · Federal | Search database | Search approved drug products in Canada | https://health-products.canada.ca/dpd-bdpp/ |
 | Health Canada — Clinical Trials Database | Canada · Federal | Research database | Searchable registry of authorized and completed clinical trials in Canada | https://health-products.canada.ca/ctdb-bdec/ |
 | MedEffect Canada — Adverse Reaction Reporting | Canada · Federal | Reporting | Report and search adverse reactions to health products overseen by Health Canada | https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html |
 | Public Health Agency of Canada — Respiratory Virus Dashboard | Canada · Federal | Dashboard | Weekly surveillance of COVID-19, influenza, and RSV activity across Canada | https://health-infobase.canada.ca/respiratory-virus-detections/ |
 | Canadian Blood Services — Donate | Canada · Agency | Service | Book a blood donation, register as a stem-cell donor, and track My Donor account | https://www.blood.ca/ |
-| ImmunizeCA | Canada · Agency | App | Official app to track family immunization records and receive reminders | https://www.canadianpharmacistsassociation.ca/ |
 
 ### British Columbia
 
@@ -787,12 +788,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NAV CANADA — Live NOTAM Map | Canada · Federal | Aviation tool | Live Canadian airspace NOTAM visualization and search | https://plan.navcanada.ca/wxrecall/ |
 | Transport Canada — Drone Registration | Canada · Federal | Service | Register your drone, take the pilot certificate exam, and review Canadian drone rules | https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing |
 | VIA Rail — Trip Planner and Booking | Canada · Federal | Trip planner | Train schedules, booking, and trip planning across Canada | https://www.viarail.ca/en/plan |
-| VIA Rail — Track Your Train | Canada · Crown Corp | Real-time | Live train-status tracker for VIA Rail passenger services across Canada | https://www.viarail.ca/en/travel-info/station-and-train/station-information/train-status |
 
 ### British Columbia
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Port of Prince Rupert | British Columbia · Crown Corp | Port authority | Canada's second-largest port and a key trade gateway connecting Asia and North America, with real-time vessel tracking and trade data | https://www.rupertport.com/ |
 | Vancouver Airport Authority (YVR) | Vancouver · Agency | Airport | YVR flight tracker, parking, terminal maps, and airport services | https://www.yvr.ca/ |
 | BC Ferries — Trip Planning and Booking | British Columbia · Regional | Ferry | BC Ferries routes, schedules, reservation booking, and fare information for coastal ferry routes across British Columbia | https://www.bcferries.com/ |
 
@@ -977,6 +978,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta Energy Regulator | Alberta · Provincial | Regulator | Regulates the upstream oil, gas, and coal development in Alberta, including licensing, compliance, and environmental monitoring | https://www.aer.ca/ |
 | Alberta Utilities Commission — Consumer Services | Alberta · Provincial | Consumer protection | Alberta Utilities Commission consumer services — complaints, dispute resolution, and utility rate information for Alberta energy consumers | https://www.auc.ab.ca/ |
 | ATCO — Gas Outage Map and Emergency | Alberta · Provincial | Outage map | ATCO's gas and electric outage information — view current outages and report gas emergencies in Alberta | https://electric.atco.com/en-ca/power-outages.html |
 | Utilities Consumer Advocate Alberta | Alberta · Provincial | Advocacy | Free advocacy for Alberta energy consumers — compare electricity and gas rates, understand your options, and get help with disputes | https://ucahelps.alberta.ca/ |
@@ -995,6 +997,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Hydro One — Outage Map | Ontario · Provincial | Outage map | Live outage map for Hydro One's rural and regional Ontario distribution network | https://www.hydroone.com/power-outages |
+| Ontario Energy Board | Ontario · Provincial | Regulator | Independent regulator of the electricity and natural gas sectors in Ontario, including utility rate decisions, consumer protection, and energy policy | https://www.oeb.ca/ |
 | Ontario Power Generation — Dam Safety and Water Management | Ontario · Provincial | Water management | OPG's dam safety monitoring, water level data, and water management information for Ontario's hydroelectric facilities | https://www.opg.com/safety/dams/ |
 | Ontario Power Generation — Nuclear Monitoring Dashboard | Ontario · Provincial | Dashboard | Nuclear generation data, environmental monitoring results, and safety performance information from OPG's Pickering and Darlington stations | https://www.opg.com/generating-power/nuclear/nuclear-performance/ |
 | Alectra — Outage Map | Ontario/GTA · Regional | Outage map | Live power outage map across Alectra Utilities' Ontario service territory | https://alectra.com/outage-centre |
@@ -1011,7 +1014,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Newfoundland Power — Outage Map | Newfoundland and Labrador · Provincial | Outage map | Newfoundland Power outage map and reporting for the island | https://outagemap.newfoundlandpower.com/ |
 | Nova Scotia Power — Outage Map | Nova Scotia · Provincial | Outage map | Live power outage map across Nova Scotia | https://outagemap.nspower.ca/ |
 | Maritime Electric — Outage Map | PEI · Provincial | Outage map | Maritime Electric's Prince Edward Island outage map | https://maritimeelectric.com/outages/ |
 
@@ -1029,9 +1031,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Agri-Food Data Canada | Canada · Federal | Research data | Agricultural research and producer data platform supporting Canadian farms and AI projects | https://agrifooddatacanada.ca/ |
-| Canadian Food Inspection Agency — Food Safety Warnings | Canada · Federal | Food warnings | Public health warnings, recalls, and food safety alerts | https://inspection.canada.ca/food-recalls-and-safety-alerts/eng/1581969136197/1581969136496 |
-| Canadian Food Inspection Agency — Plant Pest Search | Canada · Federal | Database | Searchable database of regulated plant pests, host plants, and distribution data | https://inspection.canada.ca/plant-health/plant-pests-invasive-species/directives/date/eng/1322827340964/1322827410894 |
-| Canadian Food Inspection Agency — Plant Protection Export Certification | Canada · Federal | Service | Phytosanitary certificates and export documentation for plant and plant product shipments leaving Canada | https://inspection.canada.ca/plant-health/imports/phytosanitary-certificates/eng/1324625197006/1324625197873 |
 | Canadian Grain Commission | Canada · Federal | Regulator | Canada's grain quality regulator — grading, testing, and producer protection services | https://www.grainscanada.gc.ca/ |
 | Canadian Wine Authority — VQA Wine Info | Canada · Federal | Wine info | Ontario's Vintners Quality Alliance wine standards, producer listings, and wine info | https://vqaontario.ca/ |
 | Foodland Ontario — Seasonal Availability | Canada · Federal | Seasonal guide | What's in season across Ontario farms and markets | https://www.ontario.ca/foodland/ |
@@ -1102,8 +1101,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Museum of Nature — Online Collection | Canada · Federal | Digital collection | Digital access to the museum's natural history specimens and research | https://nature.ca/collection |
 | Historic Sites and Monuments Board of Canada | Canada · Federal | Historic sites register | Register of historic sites, searchable by province, theme, and date | https://historicplaces.ca/ |
 | Historica Canada — Heritage Minutes | Canada · Federal | Educational videos | Educational video shorts on Canadian history moments and figures | https://www.historicacanada.ca/ |
-| Library and Archives Canada — AMICUS | Canada · Federal | National catalogue | Canada's national catalogue of published and unpublished materials | https://bac-lac.gc.ca/eng/discover/amicus |
-| Library and Archives Canada — Collection Search | Canada · Federal | Collection search | Search millions of digitized archival records, photos, documents, and government publications | https://bac-lac.gc.ca/eng/discover |
 | National Film Board — Online Screening Room | Canada · Federal | Streaming | Free streaming of Canadian documentaries, animations, and interactive works | https://www.nfb.ca/ |
 | National Gallery of Canada — Collection Search | Canada · Federal | Art collection | Explore the national art collection online with high-resolution images | https://www.gallery.ca/collection |
 | Forillon National Park | Parks Canada · Federal | National park | Gaspé Peninsula tip, marine life, historic buildings, hiking | https://parks.canada.ca/forillon |
@@ -1141,7 +1138,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Royal Ontario Museum — Collections | Ontario · Agency | Museum | Search the ROM's online collections of natural history, art, and world cultures | https://collections.rom.on.ca/ |
 | Teranet — Ontario Land Registry | Ontario · Agency | Land data | Property search and historical title data for Ontario | https://www.teranet.ca/ |
-| ServiceOntario — Vital Statistics | Ontario · Provincial | Service | Order certified copies of birth, marriage, and death certificates, plus search historical vital statistics records | https://www.ontario.ca/page/vital-statistics |
 | Brampton Heritage Register | Brampton · Municipal | Heritage register | Brampton's heritage register of designated and listed heritage properties across the city | https://www.brampton.ca/EN/Cultural-Heritage/heritage-register |
 | Mississauga Heritage — Heritage Register | Mississauga · Municipal | Heritage register | Mississauga's heritage register of designated built heritage properties and cultural heritage landscapes | https://www.mississauga.ca/heritage/ |
 | Toronto Heritage Register — Built Heritage | Toronto · Municipal | Heritage register | Searchable list of Toronto's designated and listed heritage properties — built heritage, cultural landscapes, and archaeological sites | https://www.toronto.ca/city-government/data-research-maps/toronto-parks-trees-green-space/heritage-register/ |
@@ -1163,6 +1159,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alert Ready — National Public Alerting System | Canada · Federal | Alerts | Public alerts for life-threatening weather, Amber Alerts, and emergencies delivered via TV, radio, LTE | https://www.alertready.ca/ |
 | Canadian Centre for Cyber Security | Canada · Federal | Cyber security | Government of Canada lead for cyber security, providing guidance, tools, incident reporting, and threat intelligence for citizens and organizations | https://cyber.gc.ca/en |
+| Canadian Nuclear Safety Commission | Canada · Federal | Regulator | Federal regulator of nuclear power and materials in Canada, overseeing licensing, compliance, and public health and safety around nuclear facilities | https://www.cnsc-ccsn.gc.ca/eng/ |
 | Earthquakes Canada | Canada · Federal | Live map / science tool | Near-real-time earthquake tracking and event data | https://earthquakescanada.nrcan.gc.ca/ |
 | Health Canada — Canadian Cannabis Survey | Canada · Federal | Data | Annual cannabis use, perceptions, and harms reported by Canadians | https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/research-data.html |
 | National Wildland Fire Information System | Canada · Federal | Wildfire map | Wildfire status and fire information across Canada | https://cwfis.cfs.nrcan.gc.ca/ |
