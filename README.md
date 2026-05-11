@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 554 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 552 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,8 +23,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 43
-- [🪪 Government Services & ID](#government-services-and-id) — 28
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 46
+- [🪪 Government Services & ID](#government-services-and-id) — 29
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 14
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 14
 - [🏢 Business & Procurement](#business-and-procurement) — 15
@@ -33,22 +33,22 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 15
 - [🩺 Health & Wellness](#health-and-wellness) — 19
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 28
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 25
-- [🚌 Transit & Mobility](#transit-and-mobility) — 31
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 27
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 24
+- [🚌 Transit & Mobility](#transit-and-mobility) — 30
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 55
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 53
 - [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 23
 - [⚡ Energy & Utilities](#energy-and-utilities) — 28
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 10
 - [🔬 Science, Research & Space](#science-research-and-space) — 11
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 35
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 15
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 13
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 12
 - [🎖️ Veterans & Military](#veterans-and-military) — 6
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 33
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 31
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 5
 
 ---
@@ -60,11 +60,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Census Program | Canada · Federal | Census portal | Census profiles, maps, and reference materials | https://www12.statcan.gc.ca/census-recensement/index-eng.cfm |
+| GEO.ca | Canada · Federal | Geospatial portal | Canada's federal geospatial data portal, providing open access to authoritative geospatial information, maps, and datasets from federal sources. | https://geo.ca/ |
 | GeoBase — Canadian Geospatial Data Infrastructure | Canada · Federal | Geospatial portal | Coordinated national geospatial data layers — boundaries, elevation, hydrography, roads | https://www.nrcan.gc.ca/science-and-data/science-and-research/earth-sciences/geography/topographic-information/geobase |
 | Government of Canada — Open Government Portal | Canada · Federal | Open data portal | Search 40,000+ federal datasets, reports, and geospatial layers with API access | https://search.open.canada.ca/opendata/ |
+| ISED API Catalogue | Canada · Federal | API catalogue | Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data. | https://api.ised-isde.canada.ca/en |
 | Open Government Portal | Canada · Federal | Open data portal | Main federal portal for datasets, information, and downloadable public resources | https://open.canada.ca/ |
 | Open Maps | Canada · Federal | Geospatial portal | Federal map and geospatial data discovery portal | https://open.canada.ca/en/open-maps |
 | Proactive Publication of Government Contracts | Canada · Federal | Transparency | Search federal contracts over $10,000 disclosed quarterly by every department | https://search.open.canada.ca/contracts/ |
+| Project Browser — Global Affairs Canada | Canada · Federal | Data portal | Browse and search Government of Canada international development and humanitarian assistance projects around the world. | https://w05.international.gc.ca/projectbrowser-banqueprojets/ |
 | Statistics Canada | Canada · Federal | Data portal | One of the strongest public data sites in Canada; census, tables, visuals, releases | https://www.statcan.gc.ca/ |
 | Statistics Canada — Census Profile | Canada · Federal | Census search | Search detailed population, demographic, and housing profiles by postal code, city, or region | https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm |
 | Statistics Canada — Consumer Price Index Portal | Canada · Federal | Inflation data | Monthly CPI releases, inflation calculators, and interactive charts by component and province | https://www.statcan.gc.ca/en/subjects-start/prices_and_price_indexes/consumer_price_indexes |
@@ -154,6 +157,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | GC Notify | Canada · Federal | Notification service | Government of Canada notification service for sending emails and text messages to users — built by Canadian Digital Service | https://notification.canada.ca/ |
 | GCcollab | Canada · Federal | Collaboration platform | Government of Canada's professional networking and collaboration platform for public servants and external partners to share knowledge and work together | https://gccollab.ca/ |
 | GCKey — Federal Sign-In Service | Canada · Federal | Authentication | Unified credential used to access many Government of Canada online services | https://clegc-gckey.gc.ca/ |
+| Government of Canada Employee Directory (GEDS) | Canada · Federal | Directory | Government of Canada Employee Directory (GEDS) — search for federal public servant contact information and organizational structure. | https://geds-sage.gc.ca/en/GEDS?pgid=002 |
 | My Service Canada Account (MSCA) | Canada · Federal | Secure portal | Sign in to view EI, CPP, OAS, ROE, and access most federal individual services in one place | https://www.canada.ca/en/employment-social-development/services/my-account.html |
 | NEXUS — Trusted Traveller Program | Canada · Federal | Service | Apply for expedited border crossing between Canada and the US at land, air, and marine entries | https://www.cbsa-asfc.gc.ca/prog/nexus/menu-eng.html |
 | Passport Canada — Apply or Renew | Canada · Federal | Service | Apply for, renew, or replace a Canadian passport; track application status online | https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html |
@@ -171,6 +175,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | B.C. Government DevHub | British Columbia · Provincial | Developer portal | British Columbia government developer hub with technical documentation, code samples, APIs, and community knowledge bases | https://developer.gov.bc.ca/ |
 | BC Services Card | British Columbia · Provincial | Digital ID | BC's combined health card and digital ID used to access online government services securely | https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card |
+| Connected Services BC | British Columbia · Provincial | Digital service | British Columbia's initiative to build connected, people-centred digital government services and improve cross-government service delivery. | https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/csbc |
 | Service BC — Online Services | British Columbia · Provincial | Service | BC government service finder — IDs, permits, licences, vital stats, health card, payments | https://www2.gov.bc.ca/gov/content/governments/services-for-government |
 
 ### Alberta
@@ -199,7 +204,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Directeur de l'état civil du Québec | Quebec · Provincial | Vital statistics | Order Quebec certificates of birth, marriage, civil union, and death online | https://www.etatcivil.gouv.qc.ca/ |
-| Québec — Mon dossier citoyen | Quebec · Provincial | Secure portal | Quebec citizen portal for health, driver, tax, and social service accounts | https://www.quebec.ca/mon-dossier-citoyen |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -582,7 +586,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Lands Company — Property Portfolio | Canada · Crown Corp | Real estate | Surplus federal properties and lands available for redevelopment | https://www.clc.ca/ |
 | CMHC — Mortgage Calculator | Canada · Crown Corp | Calculator | Official mortgage payment, amortization, and affordability calculator from CMHC | https://www.cmhc-schl.gc.ca/consumers/home-buying/calculators |
 | CMHC Housing Affordability Tracker | Canada · Crown Corp | Housing tool | Monitor housing affordability across Canadian markets | https://www.cmhc-schl.gc.ca/ |
-| CMHC Rental Market Reports | Canada · Crown Corp | Rental data | Vacancy rates and average rents by city and neighbourhood | https://www.cmhc-schl.gc.ca/rental-market |
 | Affordable Housing Online — Canada | Canada · Agency | Housing finder | Search affordable and subsidized housing across Canada | https://affordablehousingonline.com/reduced-rent/canada |
 | Canadian Real Estate Association — Stats | Canada · Agency | Market data | Monthly national home sales, prices, and MLS benchmarks by market | https://www.crea.ca/housing-market-stats/ |
 
@@ -653,7 +656,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | 511 Alberta | Alberta · Provincial | Road conditions map | Official highway events, road conditions, and cameras | https://511.alberta.ca/ |
-| Service Alberta — Driver's Licence | Alberta · Provincial | Service | Renew, replace, or apply for an Alberta driver's licence and ID card | https://www.alberta.ca/driver-licensing |
 | Calgary 311 — Service Requests | Calgary · Municipal | Service | Submit and track 311 service requests in Calgary — bylaw violations, road maintenance, parks, and more | https://www.calgary.ca/311.html |
 | CalTRACS | Calgary · Municipal | Transportation data tool | Searchable traffic count system with decades of pedestrian, bike, and vehicle data | https://calgary.ca/planning/transportation/traffic-counts.html |
 
@@ -720,7 +722,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Calgary Transit | Calgary · Regional | Transit | Calgary CTrain and bus trip planning | https://www.calgary.ca/transit |
 | Edmonton Transit Service (ETS) | Edmonton · Regional | Transit | ETS bus and LRT trip planning for Edmonton | https://www.edmonton.ca/ets |
 
 ### Saskatchewan
@@ -856,14 +857,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Sirmilik National Park | Parks Canada · Federal | National park | Nunavut's Place of the Glacier, bowhead whales, narwhals, Inuit homeland | https://parks.canada.ca/sirmilik |
 | Terra Nova National Park | Parks Canada · Federal | National park | Newfoundland's Atlantic fjords, boreal forest, and iceberg viewing | https://parks.canada.ca/terranova |
 | Thousand Islands National Park | Parks Canada · Federal | National park | St. Lawrence River islands, kayak-accessible camping, near Kingston | https://parks.canada.ca/thousandislands |
-| Torngat Mountains National Park | Parks Canada · Federal | National park | Labrador's Inuit homeland — dramatic peaks, fjords, and polar bears | https://parks.canada.ca/torngats |
 | Tuktut Nogait National Park | Parks Canada · Federal | National park | Western Arctic Bluenose-West caribou calving grounds — Inuvialuit homeland | https://parks.canada.ca/tuktutnogait |
 | Ukkusiksalik National Park | Parks Canada · Federal | National park | Nunavut's Hudson Bay coast, Inuit cultural landscape, polar bears | https://parks.canada.ca/ukkusiksalik |
 | Vuntut National Park | Parks Canada · Federal | National park | Yukon's northernmost park, Yukon's first national park, Inuit homeland | https://parks.canada.ca/vuntut |
 | Waterton Lakes National Park | Parks Canada · Federal | National park | Canada's portion of the Waterton-Glacier International Peace Park | https://parks.canada.ca/waterton |
 | Wood Buffalo National Park | Parks Canada · Federal | National park | Largest national park in Canada, UNESCO Dark Sky Preserve, world's largest beaver dam | https://parks.canada.ca/woodbuffalo |
 | Yoho National Park | Parks Canada · Federal | National park | BC Rockies park of waterfalls, Burgess Shale fossils, and Emerald Lake | https://parks.canada.ca/yoho |
-| Trans Canada Trail — Interactive Map | Canada · Agency | Trails finder | Interactive map of the 28,000 km Trans Canada Trail with suggested routes and segments | https://tctrail.ca/trails/ |
 
 ### British Columbia
 
@@ -1209,6 +1208,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Human Rights Tribunal — Decisions | Ontario · Federal | Decisions | Published decisions from the Human Rights Tribunal of Ontario | https://tribunalsontario.ca/hrto |
 | Ontario Rental Housing Tribunal — Rent Increases | Ontario · Agency | Rent tool | Approved rent increase guidelines and maximum amounts for Ontario | https://www.ontario.ca/document/rent-increase-guideline |
 | Legal Aid Ontario | Ontario · Provincial | Legal aid | Ontario legal aid eligibility checker, duty counsel, and legal information | https://www.legalaid.on.ca/ |
+| Ontario Courts Public Portal | Ontario · Provincial | Court portal | Ontario's digital court portal for filing documents, accessing case information, and managing court matters online. | https://www.ontario.ca/page/ontario-courts-public-portal |
 | Tribunals Ontario — Online Hearing Portal | Ontario · Provincial | Tribunal portal | File and manage matters across LTB, SBT, HRTO, LAT and other Tribunals Ontario bodies | https://tribunalsontario.ca/ |
 
 ### Quebec
@@ -1309,7 +1309,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| BC Legislative Assembly — Hansard | British Columbia · Provincial | Hansard | Official BC legislative proceedings, committee transcripts, and bills | https://www.leg.bc.ca/documents-data/debate-transcripts |
 | Elections BC | British Columbia · Provincial | Agency | BC electoral information, voter registration, and financial disclosure search | https://elections.bc.ca/ |
 | Vancouver Open Data Portal | Vancouver · Municipal | Open data portal | High-quality datasets and APIs for civic use | https://opendata.vancouver.ca/ |
 
@@ -1335,18 +1334,16 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Ontario — Participate | Ontario · Agency | Civic participation | Public consultations, surveys, and engagement opportunities | https://www.ontario.ca/page/consultations |
 | Ontario Elections — Find Your Electoral District | Ontario · Agency | Voter tool | Find your provincial electoral district and candidates | https://www.ontario.ca/laws |
 | Ontario Legislative Assembly — Hansard | Ontario · Agency | Legislative | Searchable record of debates and proceedings in the Ontario Legislature | https://www.ola.org/en |
-| Open Government Partnership — Ontario | Ontario · Agency | Open government | Ontario's open government commitments and consultation calendar | https://www.ontario.ca/en/initiatives/open_government |
 | Brampton Open Data | Brampton · Municipal | Open data portal | Civic data portal with mapping and city datasets | https://geohub.brampton.ca/ |
 | Guelph Open Data | Guelph · Municipal | Open data | City of Guelph's open data portal — civic datasets, maps, and transparency data | https://guelph.ca/open-data/ |
-| Kitchener Open Data | Kitchener · Municipal | Open data portal | Data and maps for civic exploration | https://www.kitchener.ca/en/open-data.aspx |
 | London Open Data | London · Municipal | Open data | City of London's open data portal — datasets, maps, and civic information for southwestern Ontario's largest city | https://london.ca/open-data |
 | Markham Open Data | Ontario · Municipal | Open data | Markham's open data portal with datasets, maps, and civic applications for the community | https://www.markham.ca/wps/portal/home/open-data |
 | Oakville Open Data | Ontario · Municipal | Open data | Town of Oakville open data portal — datasets, maps, and civic transparency information | https://www.oakville.ca/dashboard/open-data-catalogue |
 | Richmond Hill Open Data | Ontario · Municipal | Open data | Richmond Hill's open data portal — civic datasets, maps, and transparency data for the community | https://www.richmondhill.ca/open-data |
 | Vaughan Open Data | Ontario · Municipal | Open data | City of Vaughan open data portal — datasets, maps, and civic information for Canada's fastest-growing city | https://www.vaughan.ca/opendata |
+| Civic Tech Toronto | Toronto · Municipal | Civic tech | Toronto-based civic tech community working on projects that improve government services, transparency, and democratic participation. | https://civictech.ca/ |
 | Windsor Open Data | Windsor · Municipal | Open data | City of Windsor's open data portal — datasets, maps, and civic information for Canada's southernmost major city | https://www.citywindsor.ca/opendata |
 
 ### Quebec
@@ -1358,6 +1355,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Gatineau Open Data | Quebec · Municipal | Open data | Gatineau's open data portal — municipal datasets, maps, and civic information for the National Capital Region | https://www.gatineau.ca/donneesouvertes/ |
 | Laval Open Data | Quebec · Municipal | Open data | Laval's open data portal — municipal datasets, maps, and civic data for Quebec's largest suburb | https://www.laval.ca/en/data-access |
 | Quebec City Open Data | Quebec City · Municipal | Open data | Quebec City's open data portal with datasets, interactive maps, and civic applications | https://www.ville.quebec.qc.ca/apropos/portrait/acces-information/donnees-ouvertes/ |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Civic Tech Fredericton | New Brunswick · Municipal | Civic tech | Fredericton-based civic tech community working on projects that improve government services, transparency, and democratic participation. | https://www.civictechfredericton.com/ |
 
 ## 📡 Telecommunications & Digital
 

@@ -1737,19 +1737,6 @@
     ]
   },
   {
-    "name": "Ontario — Participate",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "elections",
-    "type": "Civic participation",
-    "description": "Public consultations, surveys, and engagement opportunities",
-    "url": "https://www.ontario.ca/page/consultations",
-    "tags": [
-      "civic",
-      "Ontario"
-    ]
-  },
-  {
     "name": "Ontario Elections — Find Your Electoral District",
     "level": "Agency",
     "jurisdiction": "Ontario",
@@ -1776,18 +1763,6 @@
     ]
   },
   {
-    "name": "Open Government Partnership — Ontario",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "elections",
-    "type": "Open government",
-    "description": "Ontario's open government commitments and consultation calendar",
-    "url": "https://www.ontario.ca/en/initiatives/open_government",
-    "tags": [
-      "open government"
-    ]
-  },
-  {
     "name": "Elections Alberta",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -1798,19 +1773,6 @@
     "tags": [
       "Alberta",
       "elections"
-    ]
-  },
-  {
-    "name": "BC Legislative Assembly — Hansard",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "elections",
-    "type": "Hansard",
-    "description": "Official BC legislative proceedings, committee transcripts, and bills",
-    "url": "https://www.leg.bc.ca/documents-data/debate-transcripts",
-    "tags": [
-      "BC",
-      "Hansard"
     ]
   },
   {
@@ -1906,19 +1868,6 @@
     ]
   },
   {
-    "name": "Kitchener Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Kitchener",
-    "category": "elections",
-    "type": "Open data portal",
-    "description": "Data and maps for civic exploration",
-    "url": "https://www.kitchener.ca/en/open-data.aspx",
-    "tags": [
-      "open data",
-      "Waterloo"
-    ]
-  },
-  {
     "name": "London Open Data",
     "level": "Municipal",
     "jurisdiction": "London",
@@ -1930,6 +1879,21 @@
       "London",
       "open data",
       "Ontario"
+    ]
+  },
+  {
+    "name": "Civic Tech Fredericton",
+    "level": "Municipal",
+    "jurisdiction": "New Brunswick",
+    "category": "elections",
+    "type": "Civic tech",
+    "description": "Fredericton-based civic tech community working on projects that improve government services, transparency, and democratic participation.",
+    "url": "https://www.civictechfredericton.com/",
+    "tags": [
+      "civic tech",
+      "Fredericton",
+      "democracy",
+      "community"
     ]
   },
   {
@@ -2028,6 +1992,21 @@
       "Quebec",
       "Quebec City",
       "open data"
+    ]
+  },
+  {
+    "name": "Civic Tech Toronto",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "elections",
+    "type": "Civic tech",
+    "description": "Toronto-based civic tech community working on projects that improve government services, transparency, and democratic participation.",
+    "url": "https://civictech.ca/",
+    "tags": [
+      "civic tech",
+      "Toronto",
+      "democracy",
+      "community"
     ]
   },
   {
@@ -2793,6 +2772,21 @@
     ]
   },
   {
+    "name": "Government of Canada Employee Directory (GEDS)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "gov-services",
+    "type": "Directory",
+    "description": "Government of Canada Employee Directory (GEDS) — search for federal public servant contact information and organizational structure.",
+    "url": "https://geds-sage.gc.ca/en/GEDS?pgid=002",
+    "tags": [
+      "directory",
+      "public service",
+      "federal",
+      "contacts"
+    ]
+  },
+  {
     "name": "My Service Canada Account (MSCA)",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -2977,6 +2971,21 @@
     ]
   },
   {
+    "name": "Connected Services BC",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "gov-services",
+    "type": "Digital service",
+    "description": "British Columbia's initiative to build connected, people-centred digital government services and improve cross-government service delivery.",
+    "url": "https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/csbc",
+    "tags": [
+      "British Columbia",
+      "digital service",
+      "government",
+      "connected services"
+    ]
+  },
+  {
     "name": "Service BC — Online Services",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -3054,19 +3063,6 @@
     "tags": [
       "Quebec",
       "vital statistics"
-    ]
-  },
-  {
-    "name": "Québec — Mon dossier citoyen",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "gov-services",
-    "type": "Secure portal",
-    "description": "Quebec citizen portal for health, driver, tax, and social service accounts",
-    "url": "https://www.quebec.ca/mon-dossier-citoyen",
-    "tags": [
-      "Quebec",
-      "services"
     ]
   },
   {
@@ -3436,19 +3432,6 @@
     "tags": [
       "housing",
       "affordability"
-    ]
-  },
-  {
-    "name": "CMHC Rental Market Reports",
-    "level": "Crown Corp",
-    "jurisdiction": "Canada",
-    "category": "housing",
-    "type": "Rental data",
-    "description": "Vacancy rates and average rents by city and neighbourhood",
-    "url": "https://www.cmhc-schl.gc.ca/rental-market",
-    "tags": [
-      "housing",
-      "rental"
     ]
   },
   {
@@ -4239,6 +4222,21 @@
     ]
   },
   {
+    "name": "Ontario Courts Public Portal",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "justice",
+    "type": "Court portal",
+    "description": "Ontario's digital court portal for filing documents, accessing case information, and managing court matters online.",
+    "url": "https://www.ontario.ca/page/ontario-courts-public-portal",
+    "tags": [
+      "Ontario",
+      "courts",
+      "justice",
+      "digital service"
+    ]
+  },
+  {
     "name": "Tribunals Ontario — Online Hearing Portal",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -4278,6 +4276,21 @@
     ]
   },
   {
+    "name": "GEO.ca",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Geospatial portal",
+    "description": "Canada's federal geospatial data portal, providing open access to authoritative geospatial information, maps, and datasets from federal sources.",
+    "url": "https://geo.ca/",
+    "tags": [
+      "geospatial",
+      "maps",
+      "open data",
+      "federal"
+    ]
+  },
+  {
     "name": "GeoBase — Canadian Geospatial Data Infrastructure",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -4300,6 +4313,21 @@
     "url": "https://search.open.canada.ca/opendata/",
     "tags": [
       "open data",
+      "federal"
+    ]
+  },
+  {
+    "name": "ISED API Catalogue",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "API catalogue",
+    "description": "Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data.",
+    "url": "https://api.ised-isde.canada.ca/en",
+    "tags": [
+      "api",
+      "open data",
+      "business",
       "federal"
     ]
   },
@@ -4340,6 +4368,22 @@
     "tags": [
       "transparency",
       "contracts"
+    ]
+  },
+  {
+    "name": "Project Browser — Global Affairs Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Data portal",
+    "description": "Browse and search Government of Canada international development and humanitarian assistance projects around the world.",
+    "url": "https://w05.international.gc.ca/projectbrowser-banqueprojets/",
+    "tags": [
+      "international",
+      "projects",
+      "aid",
+      "federal",
+      "open data"
     ]
   },
   {
@@ -5266,19 +5310,6 @@
     ]
   },
   {
-    "name": "Torngat Mountains National Park",
-    "level": "Federal",
-    "jurisdiction": "Parks Canada",
-    "category": "parks",
-    "type": "National park",
-    "description": "Labrador's Inuit homeland — dramatic peaks, fjords, and polar bears",
-    "url": "https://parks.canada.ca/torngats",
-    "tags": [
-      "parks",
-      "Newfoundland and Labrador"
-    ]
-  },
-  {
     "name": "Tuktut Nogait National Park",
     "level": "Federal",
     "jurisdiction": "Parks Canada",
@@ -5354,19 +5385,6 @@
     "tags": [
       "parks",
       "BC"
-    ]
-  },
-  {
-    "name": "Trans Canada Trail — Interactive Map",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "parks",
-    "type": "Trails finder",
-    "description": "Interactive map of the 28,000 km Trans Canada Trail with suggested routes and segments",
-    "url": "https://tctrail.ca/trails/",
-    "tags": [
-      "trails",
-      "outdoors"
     ]
   },
   {
@@ -6153,19 +6171,6 @@
     ]
   },
   {
-    "name": "Calgary Transit",
-    "level": "Regional",
-    "jurisdiction": "Calgary",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Calgary CTrain and bus trip planning",
-    "url": "https://www.calgary.ca/transit",
-    "tags": [
-      "transit",
-      "Calgary"
-    ]
-  },
-  {
     "name": "Edmonton Transit Service (ETS)",
     "level": "Regional",
     "jurisdiction": "Edmonton",
@@ -6527,19 +6532,6 @@
     "tags": [
       "roads",
       "transportation"
-    ]
-  },
-  {
-    "name": "Service Alberta — Driver's Licence",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "transport-roads",
-    "type": "Service",
-    "description": "Renew, replace, or apply for an Alberta driver's licence and ID card",
-    "url": "https://www.alberta.ca/driver-licensing",
-    "tags": [
-      "Alberta",
-      "licence"
     ]
   },
   {

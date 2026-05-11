@@ -13,73 +13,83 @@
  */
 module.exports = [
   {
-    name: "Canadian Institute for Health Information (CIHI)",
+    name: "ISED API Catalogue",
     level: "Federal",
     jurisdiction: "Canada",
-    category: "health",
-    type: "Health data",
-    description: "Independent, not-for-profit organization providing essential health data and information to inform policy, research, and system improvement across Canada",
-    url: "https://www.cihi.ca/en",
-    tags: ["health", "data", "statistics", "federal"]
+    category: "open-data",
+    type: "API catalogue",
+    description: "Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data.",
+    url: "https://api.ised-isde.canada.ca/en",
+    tags: ["api", "open data", "business", "federal"]
   },
   {
-    name: "Ontario Energy Board",
-    level: "Provincial",
-    jurisdiction: "Ontario",
-    category: "utilities",
-    type: "Regulator",
-    description: "Independent regulator of the electricity and natural gas sectors in Ontario, including utility rate decisions, consumer protection, and energy policy",
-    url: "https://www.oeb.ca/",
-    tags: ["Ontario", "energy", "regulator", "utilities"]
-  },
-  {
-    name: "Alberta Energy Regulator",
-    level: "Provincial",
-    jurisdiction: "Alberta",
-    category: "utilities",
-    type: "Regulator",
-    description: "Regulates the upstream oil, gas, and coal development in Alberta, including licensing, compliance, and environmental monitoring",
-    url: "https://www.aer.ca/",
-    tags: ["Alberta", "energy", "regulator", "oil and gas"]
-  },
-  {
-    name: "Canadian Nuclear Safety Commission",
-    level: "Federal",
-    jurisdiction: "Canada",
-    category: "safety",
-    type: "Regulator",
-    description: "Federal regulator of nuclear power and materials in Canada, overseeing licensing, compliance, and public health and safety around nuclear facilities",
-    url: "https://www.cnsc-ccsn.gc.ca/eng/",
-    tags: ["nuclear", "safety", "regulator", "federal"]
-  },
-  {
-    name: "GCcollab",
+    name: "Government of Canada Employee Directory (GEDS)",
     level: "Federal",
     jurisdiction: "Canada",
     category: "gov-services",
-    type: "Collaboration platform",
-    description: "Government of Canada's professional networking and collaboration platform for public servants and external partners to share knowledge and work together",
-    url: "https://gccollab.ca/",
-    tags: ["collaboration", "public service", "federal", "networking"]
+    type: "Directory",
+    description: "Government of Canada Employee Directory (GEDS) — search for federal public servant contact information and organizational structure.",
+    url: "https://geds-sage.gc.ca/en/GEDS?pgid=002",
+    tags: ["directory", "public service", "federal", "contacts"]
   },
   {
-    name: "ServiceOntario",
+    name: "Ontario Courts Public Portal",
     level: "Provincial",
     jurisdiction: "Ontario",
-    category: "gov-services",
-    type: "Service portal",
-    description: "Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services",
-    url: "https://www.ontario.ca/page/serviceontario",
-    tags: ["Ontario", "services", "ID", "portal"]
+    category: "justice",
+    type: "Court portal",
+    description: "Ontario's digital court portal for filing documents, accessing case information, and managing court matters online.",
+    url: "https://www.ontario.ca/page/ontario-courts-public-portal",
+    tags: ["Ontario", "courts", "justice", "digital service"]
   },
   {
-    name: "Port of Prince Rupert",
-    level: "Crown Corp",
+    name: "GEO.ca",
+    level: "Federal",
+    jurisdiction: "Canada",
+    category: "open-data",
+    type: "Geospatial portal",
+    description: "Canada's federal geospatial data portal, providing open access to authoritative geospatial information, maps, and datasets from federal sources.",
+    url: "https://geo.ca/",
+    tags: ["geospatial", "maps", "open data", "federal"]
+  },
+  {
+    name: "Connected Services BC",
+    level: "Provincial",
     jurisdiction: "British Columbia",
-    category: "aviation-marine",
-    type: "Port authority",
-    description: "Canada's second-largest port and a key trade gateway connecting Asia and North America, with real-time vessel tracking and trade data",
-    url: "https://www.rupertport.com/",
-    tags: ["British Columbia", "port", "trade", "marine", "shipping"]
+    category: "gov-services",
+    type: "Digital service",
+    description: "British Columbia's initiative to build connected, people-centred digital government services and improve cross-government service delivery.",
+    url: "https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/csbc",
+    tags: ["British Columbia", "digital service", "government", "connected services"]
+  },
+  {
+    name: "Civic Tech Fredericton",
+    level: "Municipal",
+    jurisdiction: "New Brunswick",
+    category: "elections",
+    type: "Civic tech",
+    description: "Fredericton-based civic tech community working on projects that improve government services, transparency, and democratic participation.",
+    url: "https://www.civictechfredericton.com/",
+    tags: ["civic tech", "Fredericton", "democracy", "community"]
+  },
+  {
+    name: "Civic Tech Toronto",
+    level: "Municipal",
+    jurisdiction: "Toronto",
+    category: "elections",
+    type: "Civic tech",
+    description: "Toronto-based civic tech community working on projects that improve government services, transparency, and democratic participation.",
+    url: "https://civictech.ca/",
+    tags: ["civic tech", "Toronto", "democracy", "community"]
+  },
+  {
+    name: "Project Browser — Global Affairs Canada",
+    level: "Federal",
+    jurisdiction: "Canada",
+    category: "open-data",
+    type: "Data portal",
+    description: "Browse and search Government of Canada international development and humanitarian assistance projects around the world.",
+    url: "https://w05.international.gc.ca/projectbrowser-banqueprojets/",
+    tags: ["international", "projects", "aid", "federal", "open data"]
   },
 ];
