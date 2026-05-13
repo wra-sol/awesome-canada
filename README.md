@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 552 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 532 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,30 +25,30 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 46
 - [🪪 Government Services & ID](#government-services-and-id) — 29
-- [💰 Taxes & Revenue](#taxes-and-revenue) — 14
+- [💰 Taxes & Revenue](#taxes-and-revenue) — 12
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 14
-- [🏢 Business & Procurement](#business-and-procurement) — 15
+- [🏢 Business & Procurement](#business-and-procurement) — 14
 - [💼 Employment & Labour](#employment-and-labour) — 14
 - [🎓 Education & Student Aid](#education-and-student-aid) — 10
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 15
 - [🩺 Health & Wellness](#health-and-wellness) — 19
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 27
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 20
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 24
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 24
 - [🚌 Transit & Mobility](#transit-and-mobility) — 30
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 53
-- [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 23
+- [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 22
 - [⚡ Energy & Utilities](#energy-and-utilities) — 28
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 10
 - [🔬 Science, Research & Space](#science-research-and-space) — 11
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 35
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 13
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 12
 - [🎖️ Veterans & Military](#veterans-and-military) — 6
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 31
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 23
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 5
 
 ---
@@ -243,8 +243,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Ontario Land Transfer Tax Calculator | Ontario · Provincial | Calculator | Calculate the provincial land transfer tax you owe when purchasing property in Ontario | https://www.ontario.ca/page/land-transfer-tax |
-| Ontario Land Transfer Tax Refund — First-Time Home Buyers | Ontario · Provincial | Refund | Refund details and calculator for first-time buyers on Ontario land transfer tax up to $4,000 | https://www.ontario.ca/page/land-transfer-tax-refund-first-time-home-buyers |
 | Mississauga Property Tax Calculator | Mississauga · Municipal | Calculator | Calculate your annual property tax bill in Mississauga based on your property's assessed value | https://www.mississauga.ca/en/taxes-and-utility-bills/property-taxes |
 
 ### Quebec
@@ -332,7 +330,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Ontario — Buying from Ontario Government | Ontario · Provincial | Procurement | Ontario tender notices, vendor onboarding, and supplier guides for selling to the province | https://www.doingbusiness.mgs.gov.on.ca/mbs/psb/psb.nsf/English/bidopps.html |
 | Ontario Business Registry | Ontario · Provincial | Business registry | Register, search, and manage Ontario business names, corporations, and partnerships online | https://www.ontario.ca/page/ontario-business-registry |
 
 ### Quebec
@@ -558,12 +555,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Disability Support Program (ODSP) | Ontario · Provincial | Social assistance | Apply for ODSP income and employment supports for people with disabilities in Ontario | https://www.ontario.ca/page/ontario-disability-support-program |
 | Ontario GeoHub | Ontario · Provincial | GIS / map portal | Ontario's geographic data and interactive map hub | https://geohub.lio.gov.on.ca/ |
 | Ontario Works (OW) | Ontario · Provincial | Social assistance | Apply for financial and employment assistance under Ontario Works | https://www.ontario.ca/page/ontario-works |
-| Burlington Maps | Burlington · Municipal | GIS | Burlington's interactive mapping tool — property, zoning, planning, and city data layers | https://www.burlington.ca/en/city-services/maps-and-gis.aspx |
-| Guelph Maps — Interactive GIS | Guelph · Municipal | GIS | Guelph's interactive GIS mapping tool — property, zoning, and city data | https://guelph.ca/live/maps/ |
 | London Maps | London · Municipal | GIS | London's interactive GIS mapping tool — property, zoning, infrastructure, and planning data | https://london.ca/maps |
-| Markham Maps — Interactive Mapping | Ontario · Municipal | GIS | Markham's interactive mapping tool — property information, zoning, planning, and city infrastructure | https://www.markham.ca/wps/portal/home/maps |
 | Oakville Maps — GeoHub | Ontario · Municipal | GIS | Oakville's interactive mapping portal — property, zoning, parks, and municipal infrastructure | https://maps.oakville.ca/ |
-| Richmond Hill Maps | Ontario · Municipal | GIS | Richmond Hill's interactive mapping tool — property, zoning, parks, and city data | https://www.richmondhill.ca/maps |
 | Vaughan Maps — GeoVaughan | Ontario · Municipal | GIS | Interactive GIS map for the City of Vaughan — property, zoning, infrastructure, and planning data | https://maps.vaughan.ca/ |
 | GeoOttawa | Ottawa · Municipal | Interactive map | Property, zoning, planning, aerials, and city geography layers | https://maps.ottawa.ca/geoottawa/ |
 
@@ -620,9 +613,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Land Titles Office Ontario | Ontario · Agency | Land registry | Search property ownership, register documents, and access land registry services | https://www.ontario.ca/page/land-titles-and-property-tax |
-| Ontario Community Housing Fund | Ontario · Agency | Housing fund | Funding and programs for community and affordable housing | https://www.ontario.ca/page/community-housing |
-| Ontario Social Housing — Waitlist Finder | Ontario · Agency | Housing finder | Find and apply to social housing waitlists across Ontario | https://www.ontario.ca/page/social-housing |
 | Toronto Community Housing — Directory | Toronto · Agency | Housing | Directory of Toronto Community Housing units and application info | https://www.toronto.ca/city-government/data-research-maps/open-data |
 | Landlord and Tenant Board (LTB) Ontario | Ontario · Provincial | Tribunal | File applications, download forms, and read LTB rules for Ontario residential tenancy disputes | https://tribunalsontario.ca/ltb/ |
 | Ontario Property Assessment — MPAC | Ontario · Provincial | Property | Municipal Property Assessment Corporation — look up your property's assessed value, class, and assessment details | https://www.mpac.ca/ |
@@ -913,7 +903,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Ice Service | Canada · Federal | Marine/ice map | Super niche and very cool ice charts and marine ice information | https://ice-glaces.ec.gc.ca/ |
 | ClimateData.ca | Canada · Federal | Climate tools | Downscaled climate projections, analysis tools, and scenario maps for Canada | https://climatedata.ca/ |
 | Environment and Climate Change Canada — MSC Datamart | Canada · Federal | Open data | Raw feeds of weather, water, climate, and air-quality data for developers and researchers | https://dd.weather.gc.ca/ |
-| Environment Canada — Lightning Network | Canada · Federal | Real-time | Near-real-time Canadian lightning strikes overlay on weather charts | https://weather.gc.ca/lightning/ |
 | Environment Canada — Marine Weather Forecast | Canada · Federal | Forecast | Marine forecasts for Canadian coastal waters, Great Lakes, and major lakes | https://weather.gc.ca/marine/index_e.html |
 | Environment Canada — Naturalized Flow Data | Canada · Federal | Hydrology | Canadian historical and naturalized streamflow records for rivers and basins | https://www.canada.ca/en/environment-climate-change/services/water-overview.html |
 | Freshwater Research | Canada · Federal | Research hub | DFO research on freshwater fish, habitat, and aquatic ecosystems | https://waves-vagues.dfo-mpo.gc.ca/ |
@@ -1248,7 +1237,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Consumer Protection Ontario — Tools | Ontario · Federal | Calculators | Find, compare, and understand consumer protections including car loans, leases, and contracts | https://www.ontario.ca/page/consumer-protection-ontario |
 | Information and Privacy Commissioner of Ontario | Ontario · Provincial | Regulator | Ontario's privacy and FOI oversight — complaint process, decisions, and guidance | https://www.ipc.on.ca/ |
-| Ontario — Report a Problem with a Business | Ontario · Provincial | Consumer protection | Report problems with Ontario businesses — consumer protection, contract disputes, and deceptive practices to the Ministry of Public and Business Service Delivery | https://www.ontario.ca/page/report-problem-business-or-consumer |
 
 ### Quebec
 
@@ -1295,7 +1283,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| LEGISinfo — Federal Bills Tracker | Canada · Federal | Tracker | Track every federal bill's status, text, readings, and votes | https://www.parl.ca/legisinfo/ |
 | Parliament of Canada — OurCommons.ca | Canada · Federal | Legislative | House of Commons MPs, votes, bills, committees, and live proceedings | https://www.ourcommons.ca/ |
 | Parlinfo — Canadian Parliamentary Database | Canada · Federal | Database | Historical and current data on parliamentarians, parties, cabinet, and elections | https://lop.parl.ca/ParlInfo/ |
 | Senate of Canada | Canada · Federal | Legislative | Senate chamber business, committee reports, senators' biographies, and votes | https://sencanada.ca/ |
@@ -1337,12 +1324,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Elections — Find Your Electoral District | Ontario · Agency | Voter tool | Find your provincial electoral district and candidates | https://www.ontario.ca/laws |
 | Ontario Legislative Assembly — Hansard | Ontario · Agency | Legislative | Searchable record of debates and proceedings in the Ontario Legislature | https://www.ola.org/en |
 | Brampton Open Data | Brampton · Municipal | Open data portal | Civic data portal with mapping and city datasets | https://geohub.brampton.ca/ |
-| Guelph Open Data | Guelph · Municipal | Open data | City of Guelph's open data portal — civic datasets, maps, and transparency data | https://guelph.ca/open-data/ |
 | London Open Data | London · Municipal | Open data | City of London's open data portal — datasets, maps, and civic information for southwestern Ontario's largest city | https://london.ca/open-data |
-| Markham Open Data | Ontario · Municipal | Open data | Markham's open data portal with datasets, maps, and civic applications for the community | https://www.markham.ca/wps/portal/home/open-data |
-| Oakville Open Data | Ontario · Municipal | Open data | Town of Oakville open data portal — datasets, maps, and civic transparency information | https://www.oakville.ca/dashboard/open-data-catalogue |
-| Richmond Hill Open Data | Ontario · Municipal | Open data | Richmond Hill's open data portal — civic datasets, maps, and transparency data for the community | https://www.richmondhill.ca/open-data |
-| Vaughan Open Data | Ontario · Municipal | Open data | City of Vaughan open data portal — datasets, maps, and civic information for Canada's fastest-growing city | https://www.vaughan.ca/opendata |
 | Civic Tech Toronto | Toronto · Municipal | Civic tech | Toronto-based civic tech community working on projects that improve government services, transparency, and democratic participation. | https://civictech.ca/ |
 | Windsor Open Data | Windsor · Municipal | Open data | City of Windsor's open data portal — datasets, maps, and civic information for Canada's southernmost major city | https://www.citywindsor.ca/opendata |
 
@@ -1353,8 +1335,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Élections Québec | Quebec · Provincial | Agency | Quebec electoral commission — voter info, results, and financial transparency | https://www.electionsquebec.qc.ca/ |
 | Quebec National Assembly — Hansard | Quebec · Provincial | Hansard | Quebec National Assembly debates, committee proceedings, and bill tracking | https://www.assnat.qc.ca/en/travaux-parlementaires/journaux-debats.html |
 | Gatineau Open Data | Quebec · Municipal | Open data | Gatineau's open data portal — municipal datasets, maps, and civic information for the National Capital Region | https://www.gatineau.ca/donneesouvertes/ |
-| Laval Open Data | Quebec · Municipal | Open data | Laval's open data portal — municipal datasets, maps, and civic data for Quebec's largest suburb | https://www.laval.ca/en/data-access |
-| Quebec City Open Data | Quebec City · Municipal | Open data | Quebec City's open data portal with datasets, interactive maps, and civic applications | https://www.ville.quebec.qc.ca/apropos/portrait/acces-information/donnees-ouvertes/ |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 

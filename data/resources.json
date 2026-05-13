@@ -542,20 +542,6 @@
     ]
   },
   {
-    "name": "Burlington Maps",
-    "level": "Municipal",
-    "jurisdiction": "Burlington",
-    "category": "benefits",
-    "type": "GIS",
-    "description": "Burlington's interactive mapping tool — property, zoning, planning, and city data layers",
-    "url": "https://www.burlington.ca/en/city-services/maps-and-gis.aspx",
-    "tags": [
-      "Burlington",
-      "maps",
-      "GIS"
-    ]
-  },
-  {
     "name": "Calgary Equity Index",
     "level": "Municipal",
     "jurisdiction": "Calgary",
@@ -566,20 +552,6 @@
     "tags": [
       "equity",
       "maps"
-    ]
-  },
-  {
-    "name": "Guelph Maps — Interactive GIS",
-    "level": "Municipal",
-    "jurisdiction": "Guelph",
-    "category": "benefits",
-    "type": "GIS",
-    "description": "Guelph's interactive GIS mapping tool — property, zoning, and city data",
-    "url": "https://guelph.ca/live/maps/",
-    "tags": [
-      "Guelph",
-      "maps",
-      "GIS"
     ]
   },
   {
@@ -597,20 +569,6 @@
     ]
   },
   {
-    "name": "Markham Maps — Interactive Mapping",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "benefits",
-    "type": "GIS",
-    "description": "Markham's interactive mapping tool — property information, zoning, planning, and city infrastructure",
-    "url": "https://www.markham.ca/wps/portal/home/maps",
-    "tags": [
-      "Markham",
-      "maps",
-      "GIS"
-    ]
-  },
-  {
     "name": "Oakville Maps — GeoHub",
     "level": "Municipal",
     "jurisdiction": "Ontario",
@@ -620,20 +578,6 @@
     "url": "https://maps.oakville.ca/",
     "tags": [
       "Oakville",
-      "maps",
-      "GIS"
-    ]
-  },
-  {
-    "name": "Richmond Hill Maps",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "benefits",
-    "type": "GIS",
-    "description": "Richmond Hill's interactive mapping tool — property, zoning, parks, and city data",
-    "url": "https://www.richmondhill.ca/maps",
-    "tags": [
-      "Richmond Hill",
       "maps",
       "GIS"
     ]
@@ -811,19 +755,6 @@
     ]
   },
   {
-    "name": "Ontario — Buying from Ontario Government",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "business",
-    "type": "Procurement",
-    "description": "Ontario tender notices, vendor onboarding, and supplier guides for selling to the province",
-    "url": "https://www.doingbusiness.mgs.gov.on.ca/mbs/psb/psb.nsf/English/bidopps.html",
-    "tags": [
-      "Ontario",
-      "procurement"
-    ]
-  },
-  {
     "name": "Ontario Business Registry",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -990,20 +921,6 @@
     "tags": [
       "Ontario",
       "privacy"
-    ]
-  },
-  {
-    "name": "Ontario — Report a Problem with a Business",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "consumer",
-    "type": "Consumer protection",
-    "description": "Report problems with Ontario businesses — consumer protection, contract disputes, and deceptive practices to the Ministry of Public and Business Service Delivery",
-    "url": "https://www.ontario.ca/page/report-problem-business-or-consumer",
-    "tags": [
-      "Ontario",
-      "consumer",
-      "protection"
     ]
   },
   {
@@ -1622,19 +1539,6 @@
     ]
   },
   {
-    "name": "LEGISinfo — Federal Bills Tracker",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "elections",
-    "type": "Tracker",
-    "description": "Track every federal bill's status, text, readings, and votes",
-    "url": "https://www.parl.ca/legisinfo/",
-    "tags": [
-      "bills",
-      "legislation"
-    ]
-  },
-  {
     "name": "Parliament of Canada — OurCommons.ca",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -1854,20 +1758,6 @@
     ]
   },
   {
-    "name": "Guelph Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Guelph",
-    "category": "elections",
-    "type": "Open data",
-    "description": "City of Guelph's open data portal — civic datasets, maps, and transparency data",
-    "url": "https://guelph.ca/open-data/",
-    "tags": [
-      "Guelph",
-      "open data",
-      "Ontario"
-    ]
-  },
-  {
     "name": "London Open Data",
     "level": "Municipal",
     "jurisdiction": "London",
@@ -1897,62 +1787,6 @@
     ]
   },
   {
-    "name": "Markham Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "elections",
-    "type": "Open data",
-    "description": "Markham's open data portal with datasets, maps, and civic applications for the community",
-    "url": "https://www.markham.ca/wps/portal/home/open-data",
-    "tags": [
-      "Markham",
-      "open data",
-      "GTA"
-    ]
-  },
-  {
-    "name": "Oakville Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "elections",
-    "type": "Open data",
-    "description": "Town of Oakville open data portal — datasets, maps, and civic transparency information",
-    "url": "https://www.oakville.ca/dashboard/open-data-catalogue",
-    "tags": [
-      "Oakville",
-      "open data",
-      "GTA"
-    ]
-  },
-  {
-    "name": "Richmond Hill Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "elections",
-    "type": "Open data",
-    "description": "Richmond Hill's open data portal — civic datasets, maps, and transparency data for the community",
-    "url": "https://www.richmondhill.ca/open-data",
-    "tags": [
-      "Richmond Hill",
-      "open data",
-      "GTA"
-    ]
-  },
-  {
-    "name": "Vaughan Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "elections",
-    "type": "Open data",
-    "description": "City of Vaughan open data portal — datasets, maps, and civic information for Canada's fastest-growing city",
-    "url": "https://www.vaughan.ca/opendata",
-    "tags": [
-      "Vaughan",
-      "open data",
-      "GTA"
-    ]
-  },
-  {
     "name": "Gatineau Open Data",
     "level": "Municipal",
     "jurisdiction": "Quebec",
@@ -1963,34 +1797,6 @@
     "tags": [
       "Quebec",
       "Gatineau",
-      "open data"
-    ]
-  },
-  {
-    "name": "Laval Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Quebec",
-    "category": "elections",
-    "type": "Open data",
-    "description": "Laval's open data portal — municipal datasets, maps, and civic data for Quebec's largest suburb",
-    "url": "https://www.laval.ca/en/data-access",
-    "tags": [
-      "Quebec",
-      "Laval",
-      "open data"
-    ]
-  },
-  {
-    "name": "Quebec City Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Quebec City",
-    "category": "elections",
-    "type": "Open data",
-    "description": "Quebec City's open data portal with datasets, interactive maps, and civic applications",
-    "url": "https://www.ville.quebec.qc.ca/apropos/portrait/acces-information/donnees-ouvertes/",
-    "tags": [
-      "Quebec",
-      "Quebec City",
       "open data"
     ]
   },
@@ -2268,19 +2074,6 @@
     "tags": [
       "weather",
       "data"
-    ]
-  },
-  {
-    "name": "Environment Canada — Lightning Network",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "environment",
-    "type": "Real-time",
-    "description": "Near-real-time Canadian lightning strikes overlay on weather charts",
-    "url": "https://weather.gc.ca/lightning/",
-    "tags": [
-      "weather",
-      "realtime"
     ]
   },
   {
@@ -3458,45 +3251,6 @@
     "tags": [
       "real estate",
       "market"
-    ]
-  },
-  {
-    "name": "Land Titles Office Ontario",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "housing",
-    "type": "Land registry",
-    "description": "Search property ownership, register documents, and access land registry services",
-    "url": "https://www.ontario.ca/page/land-titles-and-property-tax",
-    "tags": [
-      "land",
-      "Ontario"
-    ]
-  },
-  {
-    "name": "Ontario Community Housing Fund",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "housing",
-    "type": "Housing fund",
-    "description": "Funding and programs for community and affordable housing",
-    "url": "https://www.ontario.ca/page/community-housing",
-    "tags": [
-      "housing",
-      "Ontario"
-    ]
-  },
-  {
-    "name": "Ontario Social Housing — Waitlist Finder",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "housing",
-    "type": "Housing finder",
-    "description": "Find and apply to social housing waitlists across Ontario",
-    "url": "https://www.ontario.ca/page/social-housing",
-    "tags": [
-      "housing",
-      "Ontario"
     ]
   },
   {
@@ -5995,34 +5749,6 @@
       "BC",
       "property",
       "calculator"
-    ]
-  },
-  {
-    "name": "Ontario Land Transfer Tax Calculator",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "taxes",
-    "type": "Calculator",
-    "description": "Calculate the provincial land transfer tax you owe when purchasing property in Ontario",
-    "url": "https://www.ontario.ca/page/land-transfer-tax",
-    "tags": [
-      "Ontario",
-      "property",
-      "calculator"
-    ]
-  },
-  {
-    "name": "Ontario Land Transfer Tax Refund — First-Time Home Buyers",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "taxes",
-    "type": "Refund",
-    "description": "Refund details and calculator for first-time buyers on Ontario land transfer tax up to $4,000",
-    "url": "https://www.ontario.ca/page/land-transfer-tax-refund-first-time-home-buyers",
-    "tags": [
-      "Ontario",
-      "tax",
-      "housing"
     ]
   },
   {
