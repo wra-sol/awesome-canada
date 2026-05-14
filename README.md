@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 532 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 530 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -24,8 +24,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 ## Table of Contents
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 46
-- [🪪 Government Services & ID](#government-services-and-id) — 29
-- [💰 Taxes & Revenue](#taxes-and-revenue) — 12
+- [🪪 Government Services & ID](#government-services-and-id) — 30
+- [💰 Taxes & Revenue](#taxes-and-revenue) — 13
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 14
 - [🏢 Business & Procurement](#business-and-procurement) — 14
 - [💼 Employment & Labour](#employment-and-labour) — 14
@@ -33,22 +33,22 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 15
 - [🩺 Health & Wellness](#health-and-wellness) — 19
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 20
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 24
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 24
-- [🚌 Transit & Mobility](#transit-and-mobility) — 30
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 21
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 25
+- [🚌 Transit & Mobility](#transit-and-mobility) — 28
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 53
 - [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 22
 - [⚡ Energy & Utilities](#energy-and-utilities) — 28
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 10
 - [🔬 Science, Research & Space](#science-research-and-space) — 11
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 35
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 36
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 12
 - [🎖️ Veterans & Military](#veterans-and-military) — 6
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 23
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 22
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 5
 
 ---
@@ -163,6 +163,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Passport Canada — Apply or Renew | Canada · Federal | Service | Apply for, renew, or replace a Canadian passport; track application status online | https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html |
 | Service Canada — Find a Service Canada Office | Canada · Federal | Finder | Locate the nearest Service Canada Centre and confirm services, hours, and appointment options | https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/find-office.html |
 | Travel Advice and Advisories | Canada · Federal | Advisory finder | Country-by-country official travel advisories | https://travel.gc.ca/travelling/advisories |
+| Travel.gc.ca — Consent Letter for Children Travelling Abroad | Canada · Federal | Service | Template and guidance for consent letters when children travel abroad without both parents | https://travel.gc.ca/travelling/children/consent-letter |
 | Canada Council for the Arts — Discover | Canada · Crown Corp | Arts | Funding programs, arts research, and Canadian arts discovery | https://canadacouncil.ca/ |
 | Canada Foundation for Innovation — Research Infrastructure | Canada · Crown Corp | Research | Funding for research infrastructure across Canadian institutions | https://www.innovation.ca/ |
 | Canada Post — Send, Ship, Track | Canada · Crown Corp | Shipping tool | Send mail, ship packages, calculate postage, and track shipments | https://www.canadapost.ca/send |
@@ -224,6 +225,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Canada Revenue Agency — My Business Account | Canada · Federal | Tax portal | Online business tax portal for GST/HST filing, payroll, and corporate returns | https://www.canada.ca/en/revenue-agency/services/e-services.html |
+| CRA — Express Notice of Assessment (NOA) | Canada · Federal | Service | Fast online delivery of your Notice of Assessment after filing your tax return | https://www.canada.ca/en/revenue-agency/services/e-services/about-express-noa.html |
 | CRA — Federal and Provincial Tax Brackets | Canada · Federal | Reference | Current and historical federal and provincial/territorial personal income tax rates | https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/canadian-income-tax-rates-individuals-current-previous-years.html |
 | CRA — GST/HST Calculator and Rates | Canada · Federal | Calculator | Look up the GST/HST rate that applies by province and calculate taxes on sales | https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html |
 | CRA — List of Charities and Giving | Canada · Federal | Search | Search registered Canadian charities, view revocation notices, and browse T3010 filings | https://apps.cra-arc.gc.ca/ebci/hacc/srch/pub/dsplyBscSrch |
@@ -479,6 +481,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada's Food Guide | Canada · Federal | Reference | Evidence-based food guidance, recipes, and meal planning from Health Canada | https://food-guide.canada.ca/en/ |
 | Canadian Institute for Health Information (CIHI) | Canada · Federal | Health data | Independent, not-for-profit organization providing essential health data and information to inform policy, research, and system improvement across Canada | https://www.cihi.ca/en |
 | Drug Product Database | Canada · Federal | Search database | Search approved drug products in Canada | https://health-products.canada.ca/dpd-bdpp/ |
+| FluWatch — National Influenza Surveillance | Canada · Federal | Surveillance | National influenza surveillance program tracking flu activity across Canada | https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html |
 | Health Canada — Clinical Trials Database | Canada · Federal | Research database | Searchable registry of authorized and completed clinical trials in Canada | https://health-products.canada.ca/ctdb-bdec/ |
 | MedEffect Canada — Adverse Reaction Reporting | Canada · Federal | Reporting | Report and search adverse reactions to health products overseen by Health Canada | https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html |
 | Public Health Agency of Canada — Respiratory Virus Dashboard | Canada · Federal | Dashboard | Weekly surveillance of COVID-19, influenza, and RSV activity across Canada | https://health-infobase.canada.ca/respiratory-virus-detections/ |
@@ -516,7 +519,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Cancer Care Ontario — Ontario Cancer System | Ontario · Federal | Cancer data | Wait times, screening program results, cancer statistics for Ontario | https://www.cancercareontario.ca/en |
 | Health811 Ontario | Ontario · Provincial | Health service | Call or chat 24/7 with registered nurses for Ontario health questions and navigation | https://health811.ontario.ca/ |
 | Ontario — Find a Doctor | Ontario · Provincial | Finder | Health Care Connect — register to be matched with a family doctor or nurse practitioner | https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner |
-| ServiceOntario — Health Card (OHIP) | Ontario · Provincial | Service | Apply for, renew, or replace an Ontario health card (OHIP) — eligibility check and online application support | https://www.ontario.ca/page/apply-ohip-card |
 | Trillium Gift of Life Network — Organ Donation | Ontario · Provincial | Service | Register as an organ and tissue donor in Ontario | https://www.giftoflife.on.ca/en/ |
 
 ## 🤝 Benefits & Social Services
@@ -529,6 +531,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Child Benefit — Overview and Apply | Canada · Federal | Benefit | Eligibility, payment schedule, and application for the tax-free monthly CCB | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html |
 | Canada Dental Benefit | Canada · Federal | Benefit | Coverage details and application for the Canadian Dental Care Plan | https://www.canada.ca/en/services/benefits/dental.html |
 | Canada Pension Plan (CPP) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for CPP retirement, disability, and survivor benefits | https://www.canada.ca/en/services/benefits/publicpensions/cpp.html |
+| Canada.ca — Benefits Payment Calendar | Canada · Federal | Calendar | Official payment dates for CPP, OAS, EI, and other Government of Canada benefits | https://www.canada.ca/en/services/benefits/calendar.html |
 | Canadian Retirement Income Calculator | Canada · Federal | Calculator | Estimates retirement income from public pensions, workplace pensions, and savings | https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html |
 | Child and Family Benefits Calculator | Canada · Federal | Calculator | Estimates child and family benefit amounts | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html |
 | Disability Tax Credit Certificate — Form T2201 | Canada · Federal | Form | Apply for the Disability Tax Credit, which unlocks RDSP, CCB disability supplement, and more | https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html |
@@ -560,12 +563,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Vaughan Maps — GeoVaughan | Ontario · Municipal | GIS | Interactive GIS map for the City of Vaughan — property, zoning, infrastructure, and planning data | https://maps.vaughan.ca/ |
 | GeoOttawa | Ottawa · Municipal | Interactive map | Property, zoning, planning, aerials, and city geography layers | https://maps.ottawa.ca/geoottawa/ |
 
-### Quebec
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| Aide sociale — Quebec | Quebec · Provincial | Social assistance | Quebec's last-resort financial assistance and solidarity programs | https://www.quebec.ca/en/family-and-support-for-individuals/financial-assistance/social-assistance-social-solidarity |
-
 ## 🏠 Housing & Real Estate
 
 ### Federal / National
@@ -579,7 +576,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Lands Company — Property Portfolio | Canada · Crown Corp | Real estate | Surplus federal properties and lands available for redevelopment | https://www.clc.ca/ |
 | CMHC — Mortgage Calculator | Canada · Crown Corp | Calculator | Official mortgage payment, amortization, and affordability calculator from CMHC | https://www.cmhc-schl.gc.ca/consumers/home-buying/calculators |
 | CMHC Housing Affordability Tracker | Canada · Crown Corp | Housing tool | Monitor housing affordability across Canadian markets | https://www.cmhc-schl.gc.ca/ |
-| Affordable Housing Online — Canada | Canada · Agency | Housing finder | Search affordable and subsidized housing across Canada | https://affordablehousingonline.com/reduced-rent/canada |
 | Canadian Real Estate Association — Stats | Canada · Agency | Market data | Monthly national home sales, prices, and MLS benchmarks by market | https://www.crea.ca/housing-market-stats/ |
 
 ### British Columbia
@@ -628,8 +624,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Service New Brunswick — Residential Tenancies | New Brunswick · Provincial | Tribunal | New Brunswick's Residential Tenancies Tribunal — forms, guides, and complaints | https://www2.snb.ca/content/snb/en/sites/rentalsman.html |
-| Service Nova Scotia — Residential Tenancies | Nova Scotia · Provincial | Tribunal | Nova Scotia tenancy dispute process, applications, and rent rules | https://beta.novascotia.ca/apply-residential-tenancy-dispute-hearing |
 | PEI Property Tax Calculator | PEI · Provincial | Calculator | Estimate annual property taxes for residential and commercial properties on Prince Edward Island | https://www.princeedwardisland.ca/en/service/property-tax |
 
 ## 🛣️ Transportation & Roads
@@ -667,8 +661,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | 511 Ontario | Ontario · Provincial | Road conditions map | Real-time highway conditions, incidents, closures, and cameras | https://511on.ca/ |
+| Ontario — Driver's Licence | Ontario · Provincial | Service | Apply for, renew, or replace an Ontario driver's licence and access related services | https://www.ontario.ca/page/drivers-licence |
+| Ontario — Licence Plate Sticker Renewal | Ontario · Provincial | Service | Renew your Ontario licence plate sticker online and check renewal status | https://www.ontario.ca/page/renew-licence-plate-sticker |
 | Ontario Photo Card | Ontario · Provincial | ID service | Apply for an Ontario Photo Card — government-issued photo ID for residents who don't have a driver's licence | https://www.ontario.ca/page/ontario-photo-card |
-| ServiceOntario — Driver's Licence Renewal | Ontario · Provincial | Service | Renew or replace your Ontario driver's licence online, update address, and manage photo card records | https://www.ontario.ca/page/services-related-drivers-licences |
 | ServiceOntario — Vehicle Registration Renewal | Ontario · Provincial | Service | Renew Ontario vehicle registration, transfer ownership, and order licence plate stickers online | https://www.ontario.ca/page/renew-or-replace-drivers-licence |
 | Brampton Snow Plow Tracker | Brampton · Municipal | Snow operations | Track snow plow operations in Brampton during winter weather events — see real-time plow locations | https://www.brampton.ca/EN/paying-for-taxes-and-utilities/snow-clearing |
 | Ottawa Traffic, Parking and Road Bans | Ottawa · Municipal | Service | View real-time traffic conditions, road closures, parking restrictions, and seasonal road bans in Ottawa | https://traffic.ottawa.ca/ |
@@ -736,7 +731,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Guelph Transit | Guelph · Regional | Transit | Guelph bus routes and trip planning | https://www.guelph.ca/en/live-here/guelph-transit.aspx |
 | Hamilton Street Railway (HSR) | Hamilton · Regional | Transit | Hamilton bus routes and BLine rapid transit info | https://www.hamilton.ca/hsr |
 | London Transit | London · Regional | Transit | London, Ontario bus routes and schedules | https://www.ltconline.ca/ |
-| Mississauga Transit (MiWay) | Mississauga · Regional | Transit | MiWay bus routes, schedules, and real-time info | https://www.mississauga.ca/en/transit |
 | Metrolinx Triplinx | Ontario · Regional | Trip planner | Region-wide transit trip planner across many systems | https://www.triplinx.ca/ |
 | Durham Region Transit | Ontario/GTA · Regional | Transit | Durham Region's transit service — routes, schedules, and fares | https://www.durhamregiontransit.com/ |
 | GO Transit — Trip Planner | Ontario/GTA · Regional | Trip planner | GO Transit schedules, trip planning, and fare information for Greater Toronto Area | https://www.gotransit.com/en/ |
@@ -745,7 +739,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | OC Transpo — Trip Planner | Ottawa · Regional | Trip planner | OC Transpo bus and O-Train trip planning for Ottawa | https://www.octranspo.com/ |
 | Grand River Transit (Waterloo Region) | Waterloo · Regional | Transit | Waterloo Region bus and ION LRT trip planning and schedules | https://www.grt.ca/ |
 | Windsor Transit | Windsor · Regional | Transit | Windsor transit routes and schedules | https://www.citywindsor.ca |
-| Sault Ste. Marie Transit | Ontario · Municipal | Transit | Sault Ste. Marie Transit bus routes, schedules, and transit information for Northern Ontario | https://www.saultstemarie.ca/city-hall/departments/transit/ |
+| MiWay — Mississauga Transit | Mississauga · Municipal | Transit | MiWay bus routes, schedules, and real-time info for Mississauga | https://www.mississauga.ca/miway |
 | Thunder Bay Transit | Ontario · Municipal | Transit | Thunder Bay Transit routes, schedules, real-time bus tracking, and fare information | https://www.thunderbay.ca/transit |
 | Toronto Bike Share station map | Toronto · Municipal | Mobility map | Station finder and system map for bike share | https://bikesharetoronto.com/system-map/ |
 | TTC Service Advisories / maps | Toronto · Municipal | Transit tool | Route, service, and map resources for transit users | https://www.ttc.ca/ |
@@ -758,12 +752,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | STM Info outils / network maps | Montreal · Municipal | Transit map/tools | Metro and bus map resources and rider tools | https://www.stm.info/en |
 | STO — Outaouais Transit (Gatineau) | Quebec · Municipal | Transit | Société de transport de l'Outaouais trip planning and schedules for Gatineau | https://www.sto.ca/en/ |
 | RTC — Réseau de transport de la Capitale (Quebec City) | Quebec City · Municipal | Transit | Quebec City bus trip planning, schedules, and real-time arrivals | https://www.rtcquebec.ca/ |
-
-### Atlantic Canada (NB, NS, PE, NL)
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| St. John's Transit | Newfoundland · Regional | Transit | St. John's and Metropolitan Area transit | https://www.stjohns.ca/en/city-services/transit.aspx |
 
 ## ✈️ Aviation, Marine & Rail
 
@@ -1087,6 +1075,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Bank of Canada — Interest Rates | Canada · Federal | Rates data | Current and historical interest rates, monetary policy summaries, and research | https://www.bankofcanada.ca/rates/ |
 | Canadian Heritage — Virtual Exhibits | Canada · Federal | Digital exhibits | Digital heritage exhibits and museum resources | https://www.canada.ca/en/canadian-heritage/services/virtual-exhibits.html |
 | Canadian Museum of Nature — Online Collection | Canada · Federal | Digital collection | Digital access to the museum's natural history specimens and research | https://nature.ca/collection |
+| Celebrate Being Canadian | Canada · Federal | Civic engagement | Resources and events to celebrate Canadian citizenship, culture, and national identity | https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/celebrate-being-canadian.html |
 | Historic Sites and Monuments Board of Canada | Canada · Federal | Historic sites register | Register of historic sites, searchable by province, theme, and date | https://historicplaces.ca/ |
 | Historica Canada — Heritage Minutes | Canada · Federal | Educational videos | Educational video shorts on Canadian history moments and figures | https://www.historicacanada.ca/ |
 | National Film Board — Online Screening Room | Canada · Federal | Streaming | Free streaming of Canadian documentaries, animations, and interactive works | https://www.nfb.ca/ |
@@ -1283,7 +1272,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Parliament of Canada — OurCommons.ca | Canada · Federal | Legislative | House of Commons MPs, votes, bills, committees, and live proceedings | https://www.ourcommons.ca/ |
 | Parlinfo — Canadian Parliamentary Database | Canada · Federal | Database | Historical and current data on parliamentarians, parties, cabinet, and elections | https://lop.parl.ca/ParlInfo/ |
 | Senate of Canada | Canada · Federal | Legislative | Senate chamber business, committee reports, senators' biographies, and votes | https://sencanada.ca/ |
 | Canada Gazette — Government Consultations | Canada · Agency | Consultations | Browse active government consultations and provide feedback | https://gazette.gc.ca/ |

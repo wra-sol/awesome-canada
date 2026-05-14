@@ -395,6 +395,20 @@
     ]
   },
   {
+    "name": "Canada.ca — Benefits Payment Calendar",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Calendar",
+    "description": "Official payment dates for CPP, OAS, EI, and other Government of Canada benefits",
+    "url": "https://www.canada.ca/en/services/benefits/calendar.html",
+    "tags": [
+      "benefits",
+      "payments",
+      "calendar"
+    ]
+  },
+  {
     "name": "Canadian Retirement Income Calculator",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -525,19 +539,6 @@
     "url": "https://www.ontario.ca/page/ontario-works",
     "tags": [
       "Ontario",
-      "assistance"
-    ]
-  },
-  {
-    "name": "Aide sociale — Quebec",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "benefits",
-    "type": "Social assistance",
-    "description": "Quebec's last-resort financial assistance and solidarity programs",
-    "url": "https://www.quebec.ca/en/family-and-support-for-individuals/financial-assistance/social-assistance-social-solidarity",
-    "tags": [
-      "Quebec",
       "assistance"
     ]
   },
@@ -999,6 +1000,20 @@
     "tags": [
       "museum",
       "science"
+    ]
+  },
+  {
+    "name": "Celebrate Being Canadian",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Civic engagement",
+    "description": "Resources and events to celebrate Canadian citizenship, culture, and national identity",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/celebrate-being-canadian.html",
+    "tags": [
+      "citizenship",
+      "culture",
+      "events"
     ]
   },
   {
@@ -1536,18 +1551,6 @@
     "tags": [
       "Quebec",
       "students"
-    ]
-  },
-  {
-    "name": "Parliament of Canada — OurCommons.ca",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "elections",
-    "type": "Legislative",
-    "description": "House of Commons MPs, votes, bills, committees, and live proceedings",
-    "url": "https://www.ourcommons.ca/",
-    "tags": [
-      "parliament"
     ]
   },
   {
@@ -2645,6 +2648,20 @@
     ]
   },
   {
+    "name": "Travel.gc.ca — Consent Letter for Children Travelling Abroad",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "gov-services",
+    "type": "Service",
+    "description": "Template and guidance for consent letters when children travel abroad without both parents",
+    "url": "https://travel.gc.ca/travelling/children/consent-letter",
+    "tags": [
+      "travel",
+      "children",
+      "consent"
+    ]
+  },
+  {
     "name": "Canada Council for the Arts — Discover",
     "level": "Crown Corp",
     "jurisdiction": "Canada",
@@ -2952,6 +2969,20 @@
     ]
   },
   {
+    "name": "FluWatch — National Influenza Surveillance",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Surveillance",
+    "description": "National influenza surveillance program tracking flu activity across Canada",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html",
+    "tags": [
+      "health",
+      "flu",
+      "surveillance"
+    ]
+  },
+  {
     "name": "Health Canada — Clinical Trials Database",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -3095,20 +3126,6 @@
     ]
   },
   {
-    "name": "ServiceOntario — Health Card (OHIP)",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "health",
-    "type": "Service",
-    "description": "Apply for, renew, or replace an Ontario health card (OHIP) — eligibility check and online application support",
-    "url": "https://www.ontario.ca/page/apply-ohip-card",
-    "tags": [
-      "Ontario",
-      "health",
-      "OHIP"
-    ]
-  },
-  {
     "name": "Trillium Gift of Life Network — Organ Donation",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -3228,19 +3245,6 @@
     ]
   },
   {
-    "name": "Affordable Housing Online — Canada",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "housing",
-    "type": "Housing finder",
-    "description": "Search affordable and subsidized housing across Canada",
-    "url": "https://affordablehousingonline.com/reduced-rent/canada",
-    "tags": [
-      "housing",
-      "finder"
-    ]
-  },
-  {
     "name": "Canadian Real Estate Association — Stats",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -3330,32 +3334,6 @@
     "url": "https://www.gov.mb.ca/cca/rtb/",
     "tags": [
       "Manitoba",
-      "tenant"
-    ]
-  },
-  {
-    "name": "Service New Brunswick — Residential Tenancies",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "housing",
-    "type": "Tribunal",
-    "description": "New Brunswick's Residential Tenancies Tribunal — forms, guides, and complaints",
-    "url": "https://www2.snb.ca/content/snb/en/sites/rentalsman.html",
-    "tags": [
-      "New Brunswick",
-      "tenant"
-    ]
-  },
-  {
-    "name": "Service Nova Scotia — Residential Tenancies",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "housing",
-    "type": "Tribunal",
-    "description": "Nova Scotia tenancy dispute process, applications, and rent rules",
-    "url": "https://beta.novascotia.ca/apply-residential-tenancy-dispute-hearing",
-    "tags": [
-      "Nova Scotia",
       "tenant"
     ]
   },
@@ -5642,6 +5620,20 @@
     ]
   },
   {
+    "name": "CRA — Express Notice of Assessment (NOA)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "taxes",
+    "type": "Service",
+    "description": "Fast online delivery of your Notice of Assessment after filing your tax return",
+    "url": "https://www.canada.ca/en/revenue-agency/services/e-services/about-express-noa.html",
+    "tags": [
+      "taxes",
+      "NOA",
+      "CRA"
+    ]
+  },
+  {
     "name": "CRA — Federal and Provincial Tax Brackets",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -5975,19 +5967,6 @@
     ]
   },
   {
-    "name": "Mississauga Transit (MiWay)",
-    "level": "Regional",
-    "jurisdiction": "Mississauga",
-    "category": "transit",
-    "type": "Transit",
-    "description": "MiWay bus routes, schedules, and real-time info",
-    "url": "https://www.mississauga.ca/en/transit",
-    "tags": [
-      "transit",
-      "Mississauga"
-    ]
-  },
-  {
     "name": "exo — Greater Montreal Commuter Rail and Bus",
     "level": "Regional",
     "jurisdiction": "Montreal",
@@ -5998,19 +5977,6 @@
     "tags": [
       "Montreal",
       "rail"
-    ]
-  },
-  {
-    "name": "St. John's Transit",
-    "level": "Regional",
-    "jurisdiction": "Newfoundland",
-    "category": "transit",
-    "type": "Transit",
-    "description": "St. John's and Metropolitan Area transit",
-    "url": "https://www.stjohns.ca/en/city-services/transit.aspx",
-    "tags": [
-      "transit",
-      "Newfoundland"
     ]
   },
   {
@@ -6131,6 +6097,19 @@
     ]
   },
   {
+    "name": "MiWay — Mississauga Transit",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "transit",
+    "type": "Transit",
+    "description": "MiWay bus routes, schedules, and real-time info for Mississauga",
+    "url": "https://www.mississauga.ca/miway",
+    "tags": [
+      "transit",
+      "Mississauga"
+    ]
+  },
+  {
     "name": "STM Info outils / network maps",
     "level": "Municipal",
     "jurisdiction": "Montreal",
@@ -6141,19 +6120,6 @@
     "tags": [
       "transit",
       "Montreal"
-    ]
-  },
-  {
-    "name": "Sault Ste. Marie Transit",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Sault Ste. Marie Transit bus routes, schedules, and transit information for Northern Ontario",
-    "url": "https://www.saultstemarie.ca/city-hall/departments/transit/",
-    "tags": [
-      "transit",
-      "Northern Ontario"
     ]
   },
   {
@@ -6365,6 +6331,34 @@
     ]
   },
   {
+    "name": "Ontario — Driver's Licence",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "transport-roads",
+    "type": "Service",
+    "description": "Apply for, renew, or replace an Ontario driver's licence and access related services",
+    "url": "https://www.ontario.ca/page/drivers-licence",
+    "tags": [
+      "Ontario",
+      "drivers",
+      "licence"
+    ]
+  },
+  {
+    "name": "Ontario — Licence Plate Sticker Renewal",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "transport-roads",
+    "type": "Service",
+    "description": "Renew your Ontario licence plate sticker online and check renewal status",
+    "url": "https://www.ontario.ca/page/renew-licence-plate-sticker",
+    "tags": [
+      "Ontario",
+      "vehicles",
+      "registration"
+    ]
+  },
+  {
     "name": "Ontario Photo Card",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -6375,20 +6369,6 @@
     "tags": [
       "Ontario",
       "ID",
-      "services"
-    ]
-  },
-  {
-    "name": "ServiceOntario — Driver's Licence Renewal",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "transport-roads",
-    "type": "Service",
-    "description": "Renew or replace your Ontario driver's licence online, update address, and manage photo card records",
-    "url": "https://www.ontario.ca/page/services-related-drivers-licences",
-    "tags": [
-      "Ontario",
-      "drivers",
       "services"
     ]
   },
