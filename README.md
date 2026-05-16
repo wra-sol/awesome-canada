@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 530 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 531 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,30 +23,30 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 46
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 52
 - [🪪 Government Services & ID](#government-services-and-id) — 30
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 13
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 14
-- [🏢 Business & Procurement](#business-and-procurement) — 14
+- [🏢 Business & Procurement](#business-and-procurement) — 15
 - [💼 Employment & Labour](#employment-and-labour) — 14
 - [🎓 Education & Student Aid](#education-and-student-aid) — 10
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 15
-- [🩺 Health & Wellness](#health-and-wellness) — 19
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 14
+- [🩺 Health & Wellness](#health-and-wellness) — 17
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 20
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 21
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 20
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 25
-- [🚌 Transit & Mobility](#transit-and-mobility) — 28
+- [🚌 Transit & Mobility](#transit-and-mobility) — 27
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 53
 - [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 22
-- [⚡ Energy & Utilities](#energy-and-utilities) — 28
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 10
+- [⚡ Energy & Utilities](#energy-and-utilities) — 27
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 11
 - [🔬 Science, Research & Space](#science-research-and-space) — 11
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 36
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 39
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 12
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 8
 - [🎖️ Veterans & Military](#veterans-and-military) — 6
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 22
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 5
@@ -61,7 +61,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Census Program | Canada · Federal | Census portal | Census profiles, maps, and reference materials | https://www12.statcan.gc.ca/census-recensement/index-eng.cfm |
 | GEO.ca | Canada · Federal | Geospatial portal | Canada's federal geospatial data portal, providing open access to authoritative geospatial information, maps, and datasets from federal sources. | https://geo.ca/ |
-| GeoBase — Canadian Geospatial Data Infrastructure | Canada · Federal | Geospatial portal | Coordinated national geospatial data layers — boundaries, elevation, hydrography, roads | https://www.nrcan.gc.ca/science-and-data/science-and-research/earth-sciences/geography/topographic-information/geobase |
 | Government of Canada — Open Government Portal | Canada · Federal | Open data portal | Search 40,000+ federal datasets, reports, and geospatial layers with API access | https://search.open.canada.ca/opendata/ |
 | ISED API Catalogue | Canada · Federal | API catalogue | Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data. | https://api.ised-isde.canada.ca/en |
 | Open Government Portal | Canada · Federal | Open data portal | Main federal portal for datasets, information, and downloadable public resources | https://open.canada.ca/ |
@@ -110,17 +109,24 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario Data Catalogue | Ontario · Provincial | Open data portal | Large and very usable provincial open data catalogue | https://www.ontario.ca/open-data |
-| Burlington Open Data | Burlington · Municipal | Open data | City of Burlington open data portal — datasets, maps, and city information for open access | https://www.burlington.ca/en/city-services/open-data.aspx |
+| Durham Region Open Data Portal | Durham · Regional | Open data portal | Open data portal for the Regional Municipality of Durham — transportation, environment, and community data | https://opendata-durham.hub.arcgis.com/ |
+| Halton Region Open Data Portal | Halton · Regional | Open data portal | Open data portal for the Regional Municipality of Halton — planning, transportation, and public health datasets | https://opendata-halton.hub.arcgis.com/ |
+| Peel Region Open Data Portal | Peel · Regional | Open data portal | Open data portal for the Regional Municipality of Peel — datasets on planning, transportation, health, and more | https://opendata-peel.hub.arcgis.com/ |
+| York Region Open Data Portal | York Region · Regional | Open data portal | Open data portal for York Region — maps, statistics, and datasets for planning and public services | https://opendata-york.hub.arcgis.com/ |
+| Barrie Open Data Portal | Barrie · Municipal | Open data portal | City of Barrie open data portal — maps, statistics, and municipal datasets | https://opendata-barrie.hub.arcgis.com/ |
+| Guelph Open Data Portal | Guelph · Municipal | Open data portal | City of Guelph open data portal — GIS datasets, infrastructure, and city services data | https://opendata-guelph.hub.arcgis.com/ |
 | Hamilton Open Data | Hamilton · Municipal | Open data portal | Datasets and map resources | https://open.hamilton.ca/ |
+| Kitchener Open Data Portal | Kitchener · Municipal | Open data portal | City of Kitchener open data portal — transportation, parks, development, and demographic datasets | https://opendata-kitchener.hub.arcgis.com/ |
+| Markham Open Data Portal | Markham · Municipal | Open data portal | City of Markham open data portal — GIS, demographics, transportation, and parks datasets | https://opendata-markham.hub.arcgis.com/ |
 | Mississauga Open Data | Mississauga · Municipal | Open data portal | Strong GTA municipal data portal | https://data.mississauga.ca/ |
-| Cambridge Open Data | Ontario · Municipal | Open data | City of Cambridge open data portal — datasets and maps for this Waterloo Region municipality | https://www.cambridge.ca/open-data |
 | Ottawa Budget Explorer | Ottawa · Municipal | Budget explorer | Interactive budget explainer with graphs, charts, and downloadable data | https://ottawa.ca/en/city-hall/city-news/newsroom/discover-draft-budget-2026-budget-explorer |
 | Ottawa Budget Explorer datasets | Ottawa · Municipal | Dataset bundle | Raw datasets behind the budget visualizations | https://open.ottawa.ca/datasets/e88c52d7727e4a9dba6d427c9bd6445c |
 | Ottawa Open Data | Ottawa · Municipal | Open data portal | Municipal open data portal with datasets and map resources | https://open.ottawa.ca/ |
+| Richmond Hill Open Data Portal | Richmond Hill · Municipal | Open data portal | City of Richmond Hill open data portal — planning, transportation, and community services data | https://opendata-richmondhill.hub.arcgis.com/ |
 | 2026 City Budget | Toronto · Municipal | Budget portal | Official budget portal with accessible explainer content and documents | http://toronto.ca/Budget |
 | Toronto Maps / data and research hub | Toronto · Municipal | GIS / research hub | Broad entry point for city maps, data, and research tools | https://www.toronto.ca/city-government/data-research-maps/ |
 | Toronto Open Data Portal | Toronto · Municipal | Open data portal | One of the best municipal open data portals in Canada | https://open.toronto.ca/ |
-| Waterloo Open Data | Waterloo · Municipal | Open data portal | Small but useful municipal data hub | https://www.waterloo.ca/en/government/open-data.aspx |
+| Vaughan Open Data Portal | Vaughan · Municipal | Open data portal | City of Vaughan open data portal — municipal data, maps, and analytics for city services | https://opendata-vaughan.hub.arcgis.com/ |
 
 ### Quebec
 
@@ -245,7 +251,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Mississauga Property Tax Calculator | Mississauga · Municipal | Calculator | Calculate your annual property tax bill in Mississauga based on your property's assessed value | https://www.mississauga.ca/en/taxes-and-utility-bills/property-taxes |
+| Mississauga Property Tax Calculator | Mississauga · Municipal | Calculator | Calculate your annual property tax bill in Mississauga based on your property's assessed value | https://www.mississauga.ca/portal/residents/propertytax |
 
 ### Quebec
 
@@ -298,6 +304,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BizPaL — Permits and Licences Finder | Canada · Federal | Finder | Generate a personalized list of federal, provincial, and municipal permits you need to operate a business | https://www.bizpal.ca/ |
 | Canada Business — Starting a Business | Canada · Federal | Guide | Official guide for starting a business in Canada — permits, taxes, licensing, and supports by province | https://www.canada.ca/en/services/business/start.html |
 | CanadaBuys — Federal Tenders | Canada · Federal | Procurement | Modern federal procurement portal replacing buyandsell.gc.ca — browse and bid on tenders | https://canadabuys.canada.ca/en |
+| Canadian Intellectual Property Office (CIPO) | Canada · Federal | Service | Search and apply for patents, trademarks, copyrights, and industrial designs in Canada | https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en |
 | Innovation Canada — Business Benefits Finder | Canada · Federal | Finder | Personalized search of federal, provincial, and regional business funding and support programs | https://innovation.ised-isde.canada.ca/innovation/s/?language=en_CA |
 | MERX — Canadian Procurement Platform | Canada · Federal | Procurement | Canada's largest electronic procurement platform — access federal, provincial, and municipal tender notices across all industries | https://www.merx.com/ |
 | Canadian Commercial Corporation — Government Procurement | Canada · Crown Corp | Procurement | Procurement tools for businesses selling to governments domestically and internationally | https://www.ccc.ca/ |
@@ -438,19 +445,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| BC Provincial Nominee Program | British Columbia · Provincial | Nominee program | BC PNP streams for skilled workers, tech, entrepreneurs, and graduates | https://www.welcomebc.ca/Immigrate-to-B-C/BC-PNP |
+| BC Provincial Nominee Program | British Columbia · Provincial | Nominee program | BC PNP streams for skilled workers, tech, entrepreneurs, and graduates | https://www.welcomebc.ca/Immigrate-to-B-C/B-C-Provincial-Nominee-Program |
 
 ### Alberta
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta Advantage Immigration Program | Alberta · Provincial | Nominee program | Alberta's PNP streams for skilled workers, entrepreneurs, rural renewal, and tourism | https://www.alberta.ca/alberta-advantage-immigration-program |
-
-### Saskatchewan
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| Saskatchewan Immigrant Nominee Program | Saskatchewan · Provincial | Nominee program | Saskatchewan's PNP categories for skilled workers, entrepreneurs, and farmers | https://www.saskatchewan.ca/residents/moving-to-saskatchewan/immigrating-to-saskatchewan |
 
 ### Manitoba
 
@@ -500,12 +501,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Health Link Alberta — 8-1-1 | Alberta · Provincial | Health service | Alberta's 24/7 telehealth service for health advice and service navigation | https://www.albertahealthservices.ca/healthlink/ |
 
-### Saskatchewan
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| HealthLine Saskatchewan — 8-1-1 | Saskatchewan · Provincial | Health service | Saskatchewan's 24/7 health and mental health advice phone line | https://www.saskhealthauthority.ca/your-health/services/healthline-811 |
-
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -517,7 +512,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Cancer Care Ontario — Ontario Cancer System | Ontario · Federal | Cancer data | Wait times, screening program results, cancer statistics for Ontario | https://www.cancercareontario.ca/en |
-| Health811 Ontario | Ontario · Provincial | Health service | Call or chat 24/7 with registered nurses for Ontario health questions and navigation | https://health811.ontario.ca/ |
 | Ontario — Find a Doctor | Ontario · Provincial | Finder | Health Care Connect — register to be matched with a family doctor or nurse practitioner | https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner |
 | Trillium Gift of Life Network — Organ Donation | Ontario · Provincial | Service | Register as an organ and tissue donor in Ontario | https://www.giftoflife.on.ca/en/ |
 
@@ -593,12 +587,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta Property Rights — Land Titles | Alberta · Provincial | Land registry | Alberta land titles search — property ownership records, title documents, and land ownership history | https://alta.registries.gov.ab.ca/ |
 | Alberta Residential Tenancy Dispute Resolution Service | Alberta · Provincial | Tribunal | Alberta alternative to court for tenancy disputes — applications, forms, and rules | https://www.alberta.ca/residential-tenancy-dispute-resolution-service |
 
-### Saskatchewan
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| Saskatchewan Office of Residential Tenancies | Saskatchewan · Provincial | Tribunal | Saskatchewan tenancy dispute resolution, forms, and tenant/landlord information | https://www.saskatchewan.ca/residents/housing/renting-a-home |
-
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -664,7 +652,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario — Driver's Licence | Ontario · Provincial | Service | Apply for, renew, or replace an Ontario driver's licence and access related services | https://www.ontario.ca/page/drivers-licence |
 | Ontario — Licence Plate Sticker Renewal | Ontario · Provincial | Service | Renew your Ontario licence plate sticker online and check renewal status | https://www.ontario.ca/page/renew-licence-plate-sticker |
 | Ontario Photo Card | Ontario · Provincial | ID service | Apply for an Ontario Photo Card — government-issued photo ID for residents who don't have a driver's licence | https://www.ontario.ca/page/ontario-photo-card |
-| ServiceOntario — Vehicle Registration Renewal | Ontario · Provincial | Service | Renew Ontario vehicle registration, transfer ownership, and order licence plate stickers online | https://www.ontario.ca/page/renew-or-replace-drivers-licence |
+| ServiceOntario — Vehicle Registration Renewal | Ontario · Provincial | Service | Renew Ontario vehicle registration, transfer ownership, and order licence plate stickers online | https://www.ontario.ca/page/renew-drivers-licence |
 | Brampton Snow Plow Tracker | Brampton · Municipal | Snow operations | Track snow plow operations in Brampton during winter weather events — see real-time plow locations | https://www.brampton.ca/EN/paying-for-taxes-and-utilities/snow-clearing |
 | Ottawa Traffic, Parking and Road Bans | Ottawa · Municipal | Service | View real-time traffic conditions, road closures, parking restrictions, and seasonal road bans in Ottawa | https://traffic.ottawa.ca/ |
 
@@ -700,7 +688,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Transit — Trip Planner | British Columbia · Regional | Trip planner | Provincial and municipal transit connections across British Columbia | https://www.bctransit.com/ |
-| Compass Card — Metro Vancouver Fares | Metro Vancouver · Regional | Fare card | Manage Compass Card, tap-to-pay fares, and balances across the TransLink transit network | https://www.compasscard.ca/ |
 | TransLink Trip Planner | Metro Vancouver · Regional | Trip planner | Great regional transit planning tool | https://www.translink.ca/ |
 
 ### Alberta
@@ -730,7 +717,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Burlington Transit | Burlington · Regional | Transit | Burlington bus routes and schedules | https://www.burlington.ca/en/transit |
 | Guelph Transit | Guelph · Regional | Transit | Guelph bus routes and trip planning | https://www.guelph.ca/en/live-here/guelph-transit.aspx |
 | Hamilton Street Railway (HSR) | Hamilton · Regional | Transit | Hamilton bus routes and BLine rapid transit info | https://www.hamilton.ca/hsr |
-| London Transit | London · Regional | Transit | London, Ontario bus routes and schedules | https://www.ltconline.ca/ |
+| London Transit | London · Regional | Transit | London, Ontario bus routes and schedules | https://www.londontransit.ca/ |
 | Metrolinx Triplinx | Ontario · Regional | Trip planner | Region-wide transit trip planner across many systems | https://www.triplinx.ca/ |
 | Durham Region Transit | Ontario/GTA · Regional | Transit | Durham Region's transit service — routes, schedules, and fares | https://www.durhamregiontransit.com/ |
 | GO Transit — Trip Planner | Ontario/GTA · Regional | Trip planner | GO Transit schedules, trip planning, and fare information for Greater Toronto Area | https://www.gotransit.com/en/ |
@@ -976,8 +963,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Energy Board | Ontario · Provincial | Regulator | Independent regulator of the electricity and natural gas sectors in Ontario, including utility rate decisions, consumer protection, and energy policy | https://www.oeb.ca/ |
 | Ontario Power Generation — Dam Safety and Water Management | Ontario · Provincial | Water management | OPG's dam safety monitoring, water level data, and water management information for Ontario's hydroelectric facilities | https://www.opg.com/safety/dams/ |
 | Ontario Power Generation — Nuclear Monitoring Dashboard | Ontario · Provincial | Dashboard | Nuclear generation data, environmental monitoring results, and safety performance information from OPG's Pickering and Darlington stations | https://www.opg.com/generating-power/nuclear/nuclear-performance/ |
-| Alectra — Outage Map | Ontario/GTA · Regional | Outage map | Live power outage map across Alectra Utilities' Ontario service territory | https://alectra.com/outage-centre |
-| Hydro Ottawa — Outage Map | Ottawa · Municipal | Outage map | Live power outage map and reporting for Ottawa and surrounding areas | https://hydroottawa.com/en/outages/outages-map |
+| Alectra — Outage Map | Ontario/GTA · Regional | Outage map | Live power outage map across Alectra Utilities' Ontario service territory | https://www.alectrautilities.com/outage-map |
+| Hydro Ottawa — Outage Map | Ottawa · Municipal | Outage map | Live power outage map and reporting for Ottawa and surrounding areas | https://hydroottawa.com/outage |
 | Toronto Hydro — Outage Map | Toronto · Municipal | Outage map | Toronto Hydro's power outage map — view current outages in Toronto's electricity distribution area | https://www.torontohydro.com/outages |
 
 ### Quebec
@@ -997,7 +984,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Yukon Energy — Outages | Yukon · Crown Corp | Outage map | Yukon Energy outage notifications and restoration updates | https://www.yukonenergy.ca/energy-in-yukon/outages-planned-and-unplanned |
 | Yukon Energy Map | Yukon · Provincial | Energy map | Yukon energy infrastructure, electricity generation, and transmission maps | https://yukon.ca/en |
 
 ## 🌾 Agriculture, Food & Drink
@@ -1007,6 +993,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Agri-Food Data Canada | Canada · Federal | Research data | Agricultural research and producer data platform supporting Canadian farms and AI projects | https://agrifooddatacanada.ca/ |
+| Canadian Food Inspection Agency (CFIA) | Canada · Federal | Regulator | Federal food safety, plant and animal health regulator — recalls, inspections, and standards | https://inspection.canada.ca/ |
 | Canadian Grain Commission | Canada · Federal | Regulator | Canada's grain quality regulator — grading, testing, and producer protection services | https://www.grainscanada.gc.ca/ |
 | Canadian Wine Authority — VQA Wine Info | Canada · Federal | Wine info | Ontario's Vintners Quality Alliance wine standards, producer listings, and wine info | https://vqaontario.ca/ |
 | Foodland Ontario — Seasonal Availability | Canada · Federal | Seasonal guide | What's in season across Ontario farms and markets | https://www.ontario.ca/foodland/ |
@@ -1074,7 +1061,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Bank of Canada — Exchange Rates | Canada · Federal | Currency data | Daily exchange rates, historical data, and currency converter | https://www.bankofcanada.ca/rates/exchange/ |
 | Bank of Canada — Interest Rates | Canada · Federal | Rates data | Current and historical interest rates, monetary policy summaries, and research | https://www.bankofcanada.ca/rates/ |
 | Canadian Heritage — Virtual Exhibits | Canada · Federal | Digital exhibits | Digital heritage exhibits and museum resources | https://www.canada.ca/en/canadian-heritage/services/virtual-exhibits.html |
+| Canadian Museum for Human Rights | Canada · Federal | Museum | National museum in Winnipeg dedicated to the evolution, celebration, and future of human rights in Canada | https://humanrights.ca/ |
+| Canadian Museum of Immigration at Pier 21 | Canada · Federal | Museum | National museum in Halifax exploring the immigrant experience and contributions to Canada's cultural mosaic | https://pier21.ca/ |
 | Canadian Museum of Nature — Online Collection | Canada · Federal | Digital collection | Digital access to the museum's natural history specimens and research | https://nature.ca/collection |
+| Canadian War Museum | Canada · Federal | Museum | Canada's national museum of military history, covering conflicts from earliest times to the present | https://www.warmuseum.ca/ |
 | Celebrate Being Canadian | Canada · Federal | Civic engagement | Resources and events to celebrate Canadian citizenship, culture, and national identity | https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/celebrate-being-canadian.html |
 | Historic Sites and Monuments Board of Canada | Canada · Federal | Historic sites register | Register of historic sites, searchable by province, theme, and date | https://historicplaces.ca/ |
 | Historica Canada — Heritage Minutes | Canada · Federal | Educational videos | Educational video shorts on Canadian history moments and figures | https://www.historicacanada.ca/ |
@@ -1184,7 +1174,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Courts of Ontario — Case Search | Ontario · Federal | Case search | Search for decisions from the Court of Appeal, Superior Court, and Ontario Court of Justice | https://www.ontariocourts.ca/ |
 | Ontario Court of Appeal — Decisions | Ontario · Federal | Decisions | Published decisions from Ontario's highest provincial court | https://www.ontariocourts.ca/coa/ |
 | Ontario Human Rights Tribunal — Decisions | Ontario · Federal | Decisions | Published decisions from the Human Rights Tribunal of Ontario | https://tribunalsontario.ca/hrto |
-| Ontario Rental Housing Tribunal — Rent Increases | Ontario · Agency | Rent tool | Approved rent increase guidelines and maximum amounts for Ontario | https://www.ontario.ca/document/rent-increase-guideline |
+| Ontario Rental Housing Tribunal — Rent Increases | Ontario · Agency | Rent tool | Approved rent increase guidelines and maximum amounts for Ontario | https://www.ontario.ca/page/rent-increase-guideline |
 | Legal Aid Ontario | Ontario · Provincial | Legal aid | Ontario legal aid eligibility checker, duty counsel, and legal information | https://www.legalaid.on.ca/ |
 | Ontario Courts Public Portal | Ontario · Provincial | Court portal | Ontario's digital court portal for filing documents, accessing case information, and managing court matters online. | https://www.ontario.ca/page/ontario-courts-public-portal |
 | Tribunals Ontario — Online Hearing Portal | Ontario · Provincial | Tribunal portal | File and manage matters across LTB, SBT, HRTO, LAT and other Tribunals Ontario bodies | https://tribunalsontario.ca/ |
@@ -1241,12 +1231,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Crown-Indigenous Relations — Specific Claims | Canada · Federal | Database | Search specific claim status, agreements, and modern treaty progress | https://www.rcaanc-cirnac.gc.ca/eng/1100100030291/1539609517566 |
-| Crown-Indigenous Relations — Treaties and Agreements | Canada · Federal | Map and database | Map and database of historic treaties, modern treaties, self-government agreements | https://www.rcaanc-cirnac.gc.ca/eng/1100100032302/1100100032303 |
-| Indigenous Services Canada — First Nations and Inuit Health Branch | Canada · Federal | Health programs | Health programs, Jordan's Principle, non-insured health benefits | https://www.sac-isc.gc.ca/eng/1576447260338/1576447281 |
 | Indigenous Services Canada — Indian Register | Canada · Federal | Registry | Apply for Indian status and Secure Certificate of Indian Status (SCIS) | https://www.sac-isc.gc.ca/eng/1100100032424/1572457769548 |
 | Indigenous Services Canada — Jordan's Principle | Canada · Federal | Program | Jordan's Principle substantive-equality funding for First Nations children | https://www.sac-isc.gc.ca/eng/1568396296543/1582575228610 |
-| Northern Affairs — Indigenous and Northern Communities | Canada · Federal | Community profiles | Community profiles, maps, and programs for Indigenous communities in the North | https://www.rcaanc-cirnac.gc.ca/eng/1100100021002/1100100021003 |
-| Treaties and Modern Treaties Map | Canada · Federal | Interactive map | Interactive map of Canada's treaty territories and modern land claim areas | https://www.aadnc-aandc.gc.ca/eng/1100100021002/1100100021003 |
 | Assembly of First Nations | Canada · Agency | Organization | National advocacy organization of First Nations chiefs — resolutions, research, and programs | https://afn.ca/ |
 | First Nations Information Governance Centre | Canada · Agency | Data | First Nations-led data governance, surveys, and research with the OCAP principles | https://fnigc.ca/ |
 | Inuit Tapiriit Kanatami | Canada · Agency | Organization | National Inuit representational organization advancing Inuit rights and interests | https://www.itk.ca/ |

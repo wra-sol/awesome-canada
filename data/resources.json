@@ -13,6 +13,21 @@
     ]
   },
   {
+    "name": "Canadian Food Inspection Agency (CFIA)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Regulator",
+    "description": "Federal food safety, plant and animal health regulator — recalls, inspections, and standards",
+    "url": "https://inspection.canada.ca/",
+    "tags": [
+      "food safety",
+      "regulator",
+      "agriculture",
+      "federal"
+    ]
+  },
+  {
     "name": "Canadian Grain Commission",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -650,6 +665,21 @@
     ]
   },
   {
+    "name": "Canadian Intellectual Property Office (CIPO)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Service",
+    "description": "Search and apply for patents, trademarks, copyrights, and industrial designs in Canada",
+    "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en",
+    "tags": [
+      "patents",
+      "trademarks",
+      "intellectual property",
+      "innovation"
+    ]
+  },
+  {
     "name": "Innovation Canada — Business Benefits Finder",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -990,6 +1020,36 @@
     ]
   },
   {
+    "name": "Canadian Museum for Human Rights",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Museum",
+    "description": "National museum in Winnipeg dedicated to the evolution, celebration, and future of human rights in Canada",
+    "url": "https://humanrights.ca/",
+    "tags": [
+      "museum",
+      "human rights",
+      "Winnipeg",
+      "education"
+    ]
+  },
+  {
+    "name": "Canadian Museum of Immigration at Pier 21",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Museum",
+    "description": "National museum in Halifax exploring the immigrant experience and contributions to Canada's cultural mosaic",
+    "url": "https://pier21.ca/",
+    "tags": [
+      "museum",
+      "immigration",
+      "Halifax",
+      "heritage"
+    ]
+  },
+  {
     "name": "Canadian Museum of Nature — Online Collection",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -1000,6 +1060,21 @@
     "tags": [
       "museum",
       "science"
+    ]
+  },
+  {
+    "name": "Canadian War Museum",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Museum",
+    "description": "Canada's national museum of military history, covering conflicts from earliest times to the present",
+    "url": "https://www.warmuseum.ca/",
+    "tags": [
+      "museum",
+      "military history",
+      "veterans",
+      "remembrance"
     ]
   },
   {
@@ -3100,19 +3175,6 @@
     ]
   },
   {
-    "name": "Health811 Ontario",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "health",
-    "type": "Health service",
-    "description": "Call or chat 24/7 with registered nurses for Ontario health questions and navigation",
-    "url": "https://health811.ontario.ca/",
-    "tags": [
-      "Ontario",
-      "health"
-    ]
-  },
-  {
     "name": "Ontario — Find a Doctor",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -3136,19 +3198,6 @@
     "tags": [
       "Ontario",
       "donation"
-    ]
-  },
-  {
-    "name": "HealthLine Saskatchewan — 8-1-1",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "health",
-    "type": "Health service",
-    "description": "Saskatchewan's 24/7 health and mental health advice phone line",
-    "url": "https://www.saskhealthauthority.ca/your-health/services/healthline-811",
-    "tags": [
-      "Saskatchewan",
-      "health"
     ]
   },
   {
@@ -3392,19 +3441,6 @@
     ]
   },
   {
-    "name": "Saskatchewan Office of Residential Tenancies",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "housing",
-    "type": "Tribunal",
-    "description": "Saskatchewan tenancy dispute resolution, forms, and tenant/landlord information",
-    "url": "https://www.saskatchewan.ca/residents/housing/renting-a-home",
-    "tags": [
-      "Saskatchewan",
-      "tenant"
-    ]
-  },
-  {
     "name": "Vancouver Active Condo Listings — City Data",
     "level": "Municipal",
     "jurisdiction": "Vancouver",
@@ -3572,7 +3608,7 @@
     "category": "immigration",
     "type": "Nominee program",
     "description": "BC PNP streams for skilled workers, tech, entrepreneurs, and graduates",
-    "url": "https://www.welcomebc.ca/Immigrate-to-B-C/BC-PNP",
+    "url": "https://www.welcomebc.ca/Immigrate-to-B-C/B-C-Provincial-Nominee-Program",
     "tags": [
       "BC",
       "PNP"
@@ -3618,19 +3654,6 @@
     ]
   },
   {
-    "name": "Saskatchewan Immigrant Nominee Program",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "immigration",
-    "type": "Nominee program",
-    "description": "Saskatchewan's PNP categories for skilled workers, entrepreneurs, and farmers",
-    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/immigrating-to-saskatchewan",
-    "tags": [
-      "Saskatchewan",
-      "PNP"
-    ]
-  },
-  {
     "name": "Crown-Indigenous Relations — Specific Claims",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -3641,33 +3664,6 @@
     "tags": [
       "Indigenous",
       "claims"
-    ]
-  },
-  {
-    "name": "Crown-Indigenous Relations — Treaties and Agreements",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Map and database",
-    "description": "Map and database of historic treaties, modern treaties, self-government agreements",
-    "url": "https://www.rcaanc-cirnac.gc.ca/eng/1100100032302/1100100032303",
-    "tags": [
-      "Indigenous",
-      "treaties",
-      "maps"
-    ]
-  },
-  {
-    "name": "Indigenous Services Canada — First Nations and Inuit Health Branch",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Health programs",
-    "description": "Health programs, Jordan's Principle, non-insured health benefits",
-    "url": "https://www.sac-isc.gc.ca/eng/1576447260338/1576447281",
-    "tags": [
-      "health",
-      "Indigenous"
     ]
   },
   {
@@ -3694,33 +3690,6 @@
     "tags": [
       "Indigenous",
       "children"
-    ]
-  },
-  {
-    "name": "Northern Affairs — Indigenous and Northern Communities",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Community profiles",
-    "description": "Community profiles, maps, and programs for Indigenous communities in the North",
-    "url": "https://www.rcaanc-cirnac.gc.ca/eng/1100100021002/1100100021003",
-    "tags": [
-      "Indigenous",
-      "North"
-    ]
-  },
-  {
-    "name": "Treaties and Modern Treaties Map",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Interactive map",
-    "description": "Interactive map of Canada's treaty territories and modern land claim areas",
-    "url": "https://www.aadnc-aandc.gc.ca/eng/1100100021002/1100100021003",
-    "tags": [
-      "maps",
-      "treaties",
-      "Indigenous"
     ]
   },
   {
@@ -3907,7 +3876,7 @@
     "category": "justice",
     "type": "Rent tool",
     "description": "Approved rent increase guidelines and maximum amounts for Ontario",
-    "url": "https://www.ontario.ca/document/rent-increase-guideline",
+    "url": "https://www.ontario.ca/page/rent-increase-guideline",
     "tags": [
       "housing",
       "rent",
@@ -4020,19 +3989,6 @@
       "maps",
       "open data",
       "federal"
-    ]
-  },
-  {
-    "name": "GeoBase — Canadian Geospatial Data Infrastructure",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "open-data",
-    "type": "Geospatial portal",
-    "description": "Coordinated national geospatial data layers — boundaries, elevation, hydrography, roads",
-    "url": "https://www.nrcan.gc.ca/science-and-data/science-and-research/earth-sciences/geography/topographic-information/geobase",
-    "tags": [
-      "geospatial",
-      "GIS"
     ]
   },
   {
@@ -4363,17 +4319,78 @@
     ]
   },
   {
-    "name": "Burlington Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Burlington",
+    "name": "Durham Region Open Data Portal",
+    "level": "Regional",
+    "jurisdiction": "Durham",
     "category": "open-data",
-    "type": "Open data",
-    "description": "City of Burlington open data portal — datasets, maps, and city information for open access",
-    "url": "https://www.burlington.ca/en/city-services/open-data.aspx",
+    "type": "Open data portal",
+    "description": "Open data portal for the Regional Municipality of Durham — transportation, environment, and community data",
+    "url": "https://opendata-durham.hub.arcgis.com/",
     "tags": [
-      "Burlington",
+      "Durham",
       "open data",
-      "GTA"
+      "Ontario",
+      "GIS"
+    ]
+  },
+  {
+    "name": "Halton Region Open Data Portal",
+    "level": "Regional",
+    "jurisdiction": "Halton",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Open data portal for the Regional Municipality of Halton — planning, transportation, and public health datasets",
+    "url": "https://opendata-halton.hub.arcgis.com/",
+    "tags": [
+      "Halton",
+      "open data",
+      "Ontario",
+      "GIS"
+    ]
+  },
+  {
+    "name": "Peel Region Open Data Portal",
+    "level": "Regional",
+    "jurisdiction": "Peel",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Open data portal for the Regional Municipality of Peel — datasets on planning, transportation, health, and more",
+    "url": "https://opendata-peel.hub.arcgis.com/",
+    "tags": [
+      "Peel",
+      "open data",
+      "Ontario",
+      "GIS"
+    ]
+  },
+  {
+    "name": "York Region Open Data Portal",
+    "level": "Regional",
+    "jurisdiction": "York Region",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Open data portal for York Region — maps, statistics, and datasets for planning and public services",
+    "url": "https://opendata-york.hub.arcgis.com/",
+    "tags": [
+      "York Region",
+      "open data",
+      "Ontario",
+      "GIS"
+    ]
+  },
+  {
+    "name": "Barrie Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Barrie open data portal — maps, statistics, and municipal datasets",
+    "url": "https://opendata-barrie.hub.arcgis.com/",
+    "tags": [
+      "Barrie",
+      "open data",
+      "Ontario",
+      "GIS"
     ]
   },
   {
@@ -4416,6 +4433,21 @@
     ]
   },
   {
+    "name": "Guelph Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Guelph open data portal — GIS datasets, infrastructure, and city services data",
+    "url": "https://opendata-guelph.hub.arcgis.com/",
+    "tags": [
+      "Guelph",
+      "open data",
+      "Ontario",
+      "GIS"
+    ]
+  },
+  {
     "name": "Halifax Open Data",
     "level": "Municipal",
     "jurisdiction": "Halifax",
@@ -4442,6 +4474,36 @@
     ]
   },
   {
+    "name": "Kitchener Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Kitchener open data portal — transportation, parks, development, and demographic datasets",
+    "url": "https://opendata-kitchener.hub.arcgis.com/",
+    "tags": [
+      "Kitchener",
+      "open data",
+      "Ontario",
+      "GIS"
+    ]
+  },
+  {
+    "name": "Markham Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Markham",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Markham open data portal — GIS, demographics, transportation, and parks datasets",
+    "url": "https://opendata-markham.hub.arcgis.com/",
+    "tags": [
+      "Markham",
+      "open data",
+      "Ontario",
+      "GIS"
+    ]
+  },
+  {
     "name": "Mississauga Open Data",
     "level": "Municipal",
     "jurisdiction": "Mississauga",
@@ -4465,20 +4527,6 @@
     "tags": [
       "open data",
       "Montreal"
-    ]
-  },
-  {
-    "name": "Cambridge Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "open-data",
-    "type": "Open data",
-    "description": "City of Cambridge open data portal — datasets and maps for this Waterloo Region municipality",
-    "url": "https://www.cambridge.ca/open-data",
-    "tags": [
-      "Cambridge",
-      "open data",
-      "Ontario"
     ]
   },
   {
@@ -4518,6 +4566,21 @@
     "tags": [
       "open data",
       "Ottawa"
+    ]
+  },
+  {
+    "name": "Richmond Hill Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Richmond Hill",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Richmond Hill open data portal — planning, transportation, and community services data",
+    "url": "https://opendata-richmondhill.hub.arcgis.com/",
+    "tags": [
+      "Richmond Hill",
+      "open data",
+      "Ontario",
+      "GIS"
     ]
   },
   {
@@ -4573,6 +4636,21 @@
     ]
   },
   {
+    "name": "Vaughan Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Vaughan",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Vaughan open data portal — municipal data, maps, and analytics for city services",
+    "url": "https://opendata-vaughan.hub.arcgis.com/",
+    "tags": [
+      "Vaughan",
+      "open data",
+      "Ontario",
+      "GIS"
+    ]
+  },
+  {
     "name": "Victoria Open Data Catalogue",
     "level": "Municipal",
     "jurisdiction": "Victoria",
@@ -4583,19 +4661,6 @@
     "tags": [
       "open data",
       "Victoria"
-    ]
-  },
-  {
-    "name": "Waterloo Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Waterloo",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Small but useful municipal data hub",
-    "url": "https://www.waterloo.ca/en/government/open-data.aspx",
-    "tags": [
-      "open data",
-      "Waterloo"
     ]
   },
   {
@@ -5763,7 +5828,7 @@
     "category": "taxes",
     "type": "Calculator",
     "description": "Calculate your annual property tax bill in Mississauga based on your property's assessed value",
-    "url": "https://www.mississauga.ca/en/taxes-and-utility-bills/property-taxes",
+    "url": "https://www.mississauga.ca/portal/residents/propertytax",
     "tags": [
       "Mississauga",
       "property",
@@ -5934,23 +5999,10 @@
     "category": "transit",
     "type": "Transit",
     "description": "London, Ontario bus routes and schedules",
-    "url": "https://www.ltconline.ca/",
+    "url": "https://www.londontransit.ca/",
     "tags": [
       "transit",
       "London"
-    ]
-  },
-  {
-    "name": "Compass Card — Metro Vancouver Fares",
-    "level": "Regional",
-    "jurisdiction": "Metro Vancouver",
-    "category": "transit",
-    "type": "Fare card",
-    "description": "Manage Compass Card, tap-to-pay fares, and balances across the TransLink transit network",
-    "url": "https://www.compasscard.ca/",
-    "tags": [
-      "Metro Vancouver",
-      "fares"
     ]
   },
   {
@@ -6379,7 +6431,7 @@
     "category": "transport-roads",
     "type": "Service",
     "description": "Renew Ontario vehicle registration, transfer ownership, and order licence plate stickers online",
-    "url": "https://www.ontario.ca/page/renew-or-replace-drivers-licence",
+    "url": "https://www.ontario.ca/page/renew-drivers-licence",
     "tags": [
       "Ontario",
       "vehicles",
@@ -6595,19 +6647,6 @@
     "url": "https://www.hydro.mb.ca/outages/",
     "tags": [
       "Manitoba",
-      "outages"
-    ]
-  },
-  {
-    "name": "Yukon Energy — Outages",
-    "level": "Crown Corp",
-    "jurisdiction": "Yukon",
-    "category": "utilities",
-    "type": "Outage map",
-    "description": "Yukon Energy outage notifications and restoration updates",
-    "url": "https://www.yukonenergy.ca/energy-in-yukon/outages-planned-and-unplanned",
-    "tags": [
-      "Yukon",
       "outages"
     ]
   },
@@ -6840,7 +6879,7 @@
     "category": "utilities",
     "type": "Outage map",
     "description": "Live power outage map across Alectra Utilities' Ontario service territory",
-    "url": "https://alectra.com/outage-centre",
+    "url": "https://www.alectrautilities.com/outage-map",
     "tags": [
       "GTA",
       "outages"
@@ -6894,7 +6933,7 @@
     "category": "utilities",
     "type": "Outage map",
     "description": "Live power outage map and reporting for Ottawa and surrounding areas",
-    "url": "https://hydroottawa.com/en/outages/outages-map",
+    "url": "https://hydroottawa.com/outage",
     "tags": [
       "Ottawa",
       "outages"

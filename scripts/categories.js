@@ -93,6 +93,13 @@ const JURISDICTION_TO_REGION = {
   'Credit Valley':             'on',
   'Niagara':                   'on',
   'Mississippi River':         'on',
+  'York Region':               'on',
+  'Durham':                    'on',
+  'Peel':                      'on',
+  'Barrie':                    'on',
+  'Richmond Hill':             'on',
+  'Markham':                   'on',
+  'Vaughan':                   'on',
 
   'Quebec':                    'qc',
   'Quebec City':               'qc',

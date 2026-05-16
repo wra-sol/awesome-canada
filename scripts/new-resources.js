@@ -13,83 +13,53 @@
  */
 module.exports = [
   {
-    "name": "MiWay — Mississauga Transit",
-    "level": "Municipal",
-    "jurisdiction": "Mississauga",
-    "category": "transit",
-    "type": "Transit",
-    "description": "MiWay bus routes, schedules, and real-time info for Mississauga",
-    "url": "https://www.mississauga.ca/miway",
-    "tags": ["transit", "Mississauga"]
-  },
-  {
-    "name": "Ontario — Driver's Licence",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "transport-roads",
-    "type": "Service",
-    "description": "Apply for, renew, or replace an Ontario driver's licence and access related services",
-    "url": "https://www.ontario.ca/page/drivers-licence",
-    "tags": ["Ontario", "drivers", "licence"]
-  },
-  {
-    "name": "Travel.gc.ca — Consent Letter for Children Travelling Abroad",
+    "name": "Canadian Food Inspection Agency (CFIA)",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "gov-services",
-    "type": "Service",
-    "description": "Template and guidance for consent letters when children travel abroad without both parents",
-    "url": "https://travel.gc.ca/travelling/children/consent-letter",
-    "tags": ["travel", "children", "consent"]
+    "category": "agriculture",
+    "type": "Regulator",
+    "description": "Federal food safety, plant and animal health regulator — recalls, inspections, and standards",
+    "url": "https://inspection.canada.ca/",
+    "tags": ["food safety", "regulator", "agriculture", "federal"]
   },
   {
-    "name": "FluWatch — National Influenza Surveillance",
+    "name": "Canadian Intellectual Property Office (CIPO)",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "health",
-    "type": "Surveillance",
-    "description": "National influenza surveillance program tracking flu activity across Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html",
-    "tags": ["health", "flu", "surveillance"]
+    "category": "business",
+    "type": "Service",
+    "description": "Search and apply for patents, trademarks, copyrights, and industrial designs in Canada",
+    "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en",
+    "tags": ["patents", "trademarks", "intellectual property", "innovation"]
   },
   {
-    "name": "Celebrate Being Canadian",
+    "name": "Canadian Museum for Human Rights",
     "level": "Federal",
     "jurisdiction": "Canada",
     "category": "culture",
-    "type": "Civic engagement",
-    "description": "Resources and events to celebrate Canadian citizenship, culture, and national identity",
-    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/celebrate-being-canadian.html",
-    "tags": ["citizenship", "culture", "events"]
+    "type": "Museum",
+    "description": "National museum in Winnipeg dedicated to the evolution, celebration, and future of human rights in Canada",
+    "url": "https://humanrights.ca/",
+    "tags": ["museum", "human rights", "Winnipeg", "education"]
   },
   {
-    "name": "Canada.ca — Benefits Payment Calendar",
+    "name": "Canadian War Museum",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Calendar",
-    "description": "Official payment dates for CPP, OAS, EI, and other Government of Canada benefits",
-    "url": "https://www.canada.ca/en/services/benefits/calendar.html",
-    "tags": ["benefits", "payments", "calendar"]
+    "category": "culture",
+    "type": "Museum",
+    "description": "Canada's national museum of military history, covering conflicts from earliest times to the present",
+    "url": "https://www.warmuseum.ca/",
+    "tags": ["museum", "military history", "veterans", "remembrance"]
   },
   {
-    "name": "CRA — Express Notice of Assessment (NOA)",
+    "name": "Canadian Museum of Immigration at Pier 21",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "taxes",
-    "type": "Service",
-    "description": "Fast online delivery of your Notice of Assessment after filing your tax return",
-    "url": "https://www.canada.ca/en/revenue-agency/services/e-services/about-express-noa.html",
-    "tags": ["taxes", "NOA", "CRA"]
-  },
-  {
-    "name": "Ontario — Licence Plate Sticker Renewal",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "transport-roads",
-    "type": "Service",
-    "description": "Renew your Ontario licence plate sticker online and check renewal status",
-    "url": "https://www.ontario.ca/page/renew-licence-plate-sticker",
-    "tags": ["Ontario", "vehicles", "registration"]
+    "category": "culture",
+    "type": "Museum",
+    "description": "National museum in Halifax exploring the immigrant experience and contributions to Canada's cultural mosaic",
+    "url": "https://pier21.ca/",
+    "tags": ["museum", "immigration", "Halifax", "heritage"]
   },
 ];
