@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 531 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 537 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -27,17 +27,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🪪 Government Services & ID](#government-services-and-id) — 30
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 13
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 14
-- [🏢 Business & Procurement](#business-and-procurement) — 15
+- [🏢 Business & Procurement](#business-and-procurement) — 16
 - [💼 Employment & Labour](#employment-and-labour) — 14
-- [🎓 Education & Student Aid](#education-and-student-aid) — 10
+- [🎓 Education & Student Aid](#education-and-student-aid) — 11
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 14
-- [🩺 Health & Wellness](#health-and-wellness) — 17
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 20
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 20
+- [🩺 Health & Wellness](#health-and-wellness) — 18
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 21
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 25
 - [🚌 Transit & Mobility](#transit-and-mobility) — 27
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 53
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 52
 - [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 22
 - [⚡ Energy & Utilities](#energy-and-utilities) — 27
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 11
@@ -48,7 +48,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 8
 - [🎖️ Veterans & Military](#veterans-and-military) — 6
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 22
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 21
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 5
 
 ---
@@ -305,6 +305,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Business — Starting a Business | Canada · Federal | Guide | Official guide for starting a business in Canada — permits, taxes, licensing, and supports by province | https://www.canada.ca/en/services/business/start.html |
 | CanadaBuys — Federal Tenders | Canada · Federal | Procurement | Modern federal procurement portal replacing buyandsell.gc.ca — browse and bid on tenders | https://canadabuys.canada.ca/en |
 | Canadian Intellectual Property Office (CIPO) | Canada · Federal | Service | Search and apply for patents, trademarks, copyrights, and industrial designs in Canada | https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en |
+| FedDev Ontario | Canada · Federal | Economic development | Federal economic development agency supporting business growth, innovation, and community economic development in southern Ontario | https://feddev-ontario.canada.ca/ |
 | Innovation Canada — Business Benefits Finder | Canada · Federal | Finder | Personalized search of federal, provincial, and regional business funding and support programs | https://innovation.ised-isde.canada.ca/innovation/s/?language=en_CA |
 | MERX — Canadian Procurement Platform | Canada · Federal | Procurement | Canada's largest electronic procurement platform — access federal, provincial, and municipal tender notices across all industries | https://www.merx.com/ |
 | Canadian Commercial Corporation — Government Procurement | Canada · Crown Corp | Procurement | Procurement tools for businesses selling to governments domestically and internationally | https://www.ccc.ca/ |
@@ -361,7 +362,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Job Bank Canada — Wage Search | Canada · Federal | Wage comparison | Compare wages by occupation and location across Canada | https://www.jobbank.gc.ca/trend-analysis/search-wages |
 | National Occupational Classification (NOC) | Canada · Federal | Classification | Search Canada's standard occupational taxonomy used for job postings, immigration, and LMI | https://noc.esdc.gc.ca/ |
 | Record of Employment (ROE) Web | Canada · Federal | Service | Online employer portal for submitting Records of Employment electronically to Service Canada | https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/roe-secure-online.html |
-| Red Seal Program — Skilled Trades | Canada · Federal | Certification | National Red Seal standard for skilled trades — occupation list, exams, and recognized trades | https://www.red-seal.ca/ |
+| Red Seal Program — Skilled Trades | Canada · Federal | Certification | National Red Seal standard for skilled trades — occupation list, exams, and recognized trades | https://red-seal.ca/ |
 
 ### British Columbia
 
@@ -397,6 +398,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Education Savings Grant (CESG) | Canada · Federal | Benefit | Federal matching grant of up to 20% on RESP contributions for eligible children | https://www.canada.ca/en/services/benefits/education/education-savings/cesg.html |
 | Canada Job Grant — Employer Funded Training | Canada · Federal | Grant | Jointly funded training program for employers investing in workforce upskilling | https://www.canada.ca/en/employment-social-development/services/training-agreements/canada-job-grant.html |
 | Canada Learning Bond | Canada · Federal | Benefit | Up to $2,000 in RESP grant money for children from lower-income families — eligibility and application | https://www.canada.ca/en/services/benefits/education/education-savings/learning-bond.html |
+| Canada Student Loans and Grants | Canada · Federal | Financial aid | Apply for federal student loans and grants, manage your loan, and explore repayment assistance options | https://www.canada.ca/en/services/benefits/education/student-aid.html |
 
 ### British Columbia
 
@@ -501,6 +503,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Health Link Alberta — 8-1-1 | Alberta · Provincial | Health service | Alberta's 24/7 telehealth service for health advice and service navigation | https://www.albertahealthservices.ca/healthlink/ |
 
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Saskatchewan eHealth | Saskatchewan · Provincial | Health records | Electronic health records, patient portals, and provincial health information services for Saskatchewan residents | https://www.ehealthsask.ca/ |
+
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -524,10 +532,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Benefits Finder | Canada · Federal | Service finder | Finds benefits across federal, provincial, and territorial programs | https://www.canada.ca/en/services/benefits/finder.html |
 | Canada Child Benefit — Overview and Apply | Canada · Federal | Benefit | Eligibility, payment schedule, and application for the tax-free monthly CCB | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html |
 | Canada Dental Benefit | Canada · Federal | Benefit | Coverage details and application for the Canadian Dental Care Plan | https://www.canada.ca/en/services/benefits/dental.html |
+| Canada Dental Care Plan | Canada · Federal | Health benefit | Apply for the national dental care plan providing coverage for uninsured Canadians with household incomes under $90,000 | https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html |
+| Canada Housing Benefit | Canada · Federal | Rental assistance | One-time top-up and ongoing rental assistance for low-income renters, administered with provinces and territories | https://www.canada.ca/en/services/benefits/housing/canada-housing-benefit.html |
 | Canada Pension Plan (CPP) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for CPP retirement, disability, and survivor benefits | https://www.canada.ca/en/services/benefits/publicpensions/cpp.html |
+| Canada Workers Benefit | Canada · Federal | Tax benefit | Refundable tax credit for low-income workers and families to help offset employment costs | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-workers-benefit.html |
 | Canada.ca — Benefits Payment Calendar | Canada · Federal | Calendar | Official payment dates for CPP, OAS, EI, and other Government of Canada benefits | https://www.canada.ca/en/services/benefits/calendar.html |
 | Canadian Retirement Income Calculator | Canada · Federal | Calculator | Estimates retirement income from public pensions, workplace pensions, and savings | https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html |
 | Child and Family Benefits Calculator | Canada · Federal | Calculator | Estimates child and family benefit amounts | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html |
+| CPP Retirement Hub | Canada · Federal | Information hub | Central hub for Canada Pension Plan retirement planning — contributions, applying, and combining with other income | https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-hub.html |
 | Disability Tax Credit Certificate — Form T2201 | Canada · Federal | Form | Apply for the Disability Tax Credit, which unlocks RDSP, CCB disability supplement, and more | https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html |
 | Old Age Security (OAS) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for Old Age Security and Guaranteed Income Supplement | https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html |
 | Registered Disability Savings Plan (RDSP) | Canada · Federal | Savings plan | Overview, grants, and bonds available in the RDSP for eligible Canadians with disabilities | https://www.canada.ca/en/employment-social-development/programs/disability/savings.html |
@@ -563,6 +575,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canada Greener Homes Initiative | Canada · Federal | Grant and loan | Federal grants and loans for home energy evaluations, retrofits, and renewable energy upgrades to reduce emissions | https://www.canada.ca/en/environment-climate-change/services/energy-efficiency/greener-homes-initiative.html |
 | First Home Savings Account (FHSA) | Canada · Federal | Account | Tax-free registered savings account for first-time home buyers, up to $40,000 lifetime | https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html |
 | Government of Canada Financial Tools and Calculators | Canada · Federal | Calculator hub | Big collection of practical calculators for budgeting, mortgages, loans, credit cards, and retirement | https://www.canada.ca/en/services/finance/tools.html |
 | Home Buyers' Plan (HBP) — RRSP Withdrawal | Canada · Federal | Program | Withdraw up to $60,000 tax-free from RRSPs toward a first home — rules and repayment | https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html |
@@ -865,7 +878,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | NL Parks — Provincial Parks Directory | Newfoundland and Labrador · Provincial | Park finder | Search Newfoundland and Labrador provincial parks and outdoor destinations | https://www.gov.nl.ca/ecc/ |
-| Nova Scotia Parks — Parks and Protected Areas | Nova Scotia · Provincial | Park finder | Provincial parks and protected areas search with adventure guide content | https://parks.novascotia.ca/ |
 | PEI Parks | PEI · Provincial | Park finder | PEI provincial parks and beaches, camping and booking info | https://www.princeedwardisland.ca/en/topics/parks-and-environment |
 
 ## 🌦️ Weather, Climate & Environment
@@ -1264,7 +1276,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Canada — Electoral Districts Map | Canada · Agency | Electoral map | Interactive map of federal electoral district boundaries | https://www.elections.ca/content2.aspx |
 | Elections Canada — Results Tool | Canada · Agency | Results | Official past federal election results by riding, with poll-by-poll maps | https://www.elections.ca/content.aspx?section=res&dir=cir/list&document=index&lang=e |
 | Elections Canada — Voter Information Service | Canada · Agency | Voter tool | Find your polling station, candidates, and election results | https://www.elections.ca/content.aspx |
-| MyDemocracy.ca — Civic Engagement Survey | Canada · Agency | Civic tool | Official civic engagement survey on democratic participation in Canada | https://www.mydemocracy.ca/ |
 
 ### British Columbia
 

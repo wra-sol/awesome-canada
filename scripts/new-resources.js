@@ -13,53 +13,83 @@
  */
 module.exports = [
   {
-    "name": "Canadian Food Inspection Agency (CFIA)",
+    "name": "Canada Dental Care Plan",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Regulator",
-    "description": "Federal food safety, plant and animal health regulator — recalls, inspections, and standards",
-    "url": "https://inspection.canada.ca/",
-    "tags": ["food safety", "regulator", "agriculture", "federal"]
+    "category": "benefits",
+    "type": "Health benefit",
+    "description": "Apply for the national dental care plan providing coverage for uninsured Canadians with household incomes under $90,000",
+    "url": "https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html",
+    "tags": ["dental", "health", "benefits", "CDCP"]
   },
   {
-    "name": "Canadian Intellectual Property Office (CIPO)",
+    "name": "Canada Greener Homes Initiative",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Grant and loan",
+    "description": "Federal grants and loans for home energy evaluations, retrofits, and renewable energy upgrades to reduce emissions",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/energy-efficiency/greener-homes-initiative.html",
+    "tags": ["housing", "energy efficiency", "climate", "retrofit", "grants"]
+  },
+  {
+    "name": "Canada Housing Benefit",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Rental assistance",
+    "description": "One-time top-up and ongoing rental assistance for low-income renters, administered with provinces and territories",
+    "url": "https://www.canada.ca/en/services/benefits/housing/canada-housing-benefit.html",
+    "tags": ["housing", "rental assistance", "benefits", "low income"]
+  },
+  {
+    "name": "Saskatchewan eHealth",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "health",
+    "type": "Health records",
+    "description": "Electronic health records, patient portals, and provincial health information services for Saskatchewan residents",
+    "url": "https://www.ehealthsask.ca/",
+    "tags": ["Saskatchewan", "health records", "eHealth", "digital health"]
+  },
+  {
+    "name": "Canada Student Loans and Grants",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Financial aid",
+    "description": "Apply for federal student loans and grants, manage your loan, and explore repayment assistance options",
+    "url": "https://www.canada.ca/en/services/benefits/education/student-aid.html",
+    "tags": ["students", "loans", "grants", "education", "federal"]
+  },
+  {
+    "name": "Canada Workers Benefit",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Tax benefit",
+    "description": "Refundable tax credit for low-income workers and families to help offset employment costs",
+    "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-workers-benefit.html",
+    "tags": ["workers", "tax credit", "low income", "benefits"]
+  },
+  {
+    "name": "CPP Retirement Hub",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Information hub",
+    "description": "Central hub for Canada Pension Plan retirement planning — contributions, applying, and combining with other income",
+    "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-hub.html",
+    "tags": ["CPP", "retirement", "pensions", "seniors"]
+  },
+  {
+    "name": "FedDev Ontario",
     "level": "Federal",
     "jurisdiction": "Canada",
     "category": "business",
-    "type": "Service",
-    "description": "Search and apply for patents, trademarks, copyrights, and industrial designs in Canada",
-    "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en",
-    "tags": ["patents", "trademarks", "intellectual property", "innovation"]
-  },
-  {
-    "name": "Canadian Museum for Human Rights",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "culture",
-    "type": "Museum",
-    "description": "National museum in Winnipeg dedicated to the evolution, celebration, and future of human rights in Canada",
-    "url": "https://humanrights.ca/",
-    "tags": ["museum", "human rights", "Winnipeg", "education"]
-  },
-  {
-    "name": "Canadian War Museum",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "culture",
-    "type": "Museum",
-    "description": "Canada's national museum of military history, covering conflicts from earliest times to the present",
-    "url": "https://www.warmuseum.ca/",
-    "tags": ["museum", "military history", "veterans", "remembrance"]
-  },
-  {
-    "name": "Canadian Museum of Immigration at Pier 21",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "culture",
-    "type": "Museum",
-    "description": "National museum in Halifax exploring the immigrant experience and contributions to Canada's cultural mosaic",
-    "url": "https://pier21.ca/",
-    "tags": ["museum", "immigration", "Halifax", "heritage"]
+    "type": "Economic development",
+    "description": "Federal economic development agency supporting business growth, innovation, and community economic development in southern Ontario",
+    "url": "https://feddev-ontario.canada.ca/",
+    "tags": ["Ontario", "business", "innovation", "federal", "economic development"]
   },
 ];
