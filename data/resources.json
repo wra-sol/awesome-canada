@@ -1480,20 +1480,6 @@
     ]
   },
   {
-    "name": "Brampton Heritage Register",
-    "level": "Municipal",
-    "jurisdiction": "Brampton",
-    "category": "culture",
-    "type": "Heritage register",
-    "description": "Brampton's heritage register of designated and listed heritage properties across the city",
-    "url": "https://www.brampton.ca/EN/Cultural-Heritage/heritage-register",
-    "tags": [
-      "Brampton",
-      "heritage",
-      "GTA"
-    ]
-  },
-  {
     "name": "Mississauga Heritage — Heritage Register",
     "level": "Municipal",
     "jurisdiction": "Mississauga",
@@ -2650,6 +2636,22 @@
     ]
   },
   {
+    "name": "Code for Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "gov-services",
+    "type": "Civic tech organization",
+    "description": "Canadian nonprofit that helps government and communities design and build better digital services through technology and design partnerships",
+    "url": "https://codefor.ca/",
+    "tags": [
+      "civic tech",
+      "digital services",
+      "nonprofit",
+      "federal",
+      "design"
+    ]
+  },
+  {
     "name": "GC Design System",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -2786,6 +2788,22 @@
     "tags": [
       "services",
       "finder"
+    ]
+  },
+  {
+    "name": "Termium Plus",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "gov-services",
+    "type": "Terminology database",
+    "description": "Government of Canada's terminology and linguistic data bank — over 4 million terms in English, French, Spanish, and other languages",
+    "url": "https://www.btb.termiumplus.gc.ca/",
+    "tags": [
+      "terminology",
+      "translation",
+      "language",
+      "federal",
+      "bilingualism"
     ]
   },
   {
@@ -2999,6 +3017,21 @@
     "tags": [
       "geology",
       "maps"
+    ]
+  },
+  {
+    "name": "Ontario.ca Developer Hub",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "gov-services",
+    "type": "Developer portal",
+    "description": "Ontario government developer hub with APIs, technical documentation, and code samples for building digital services",
+    "url": "https://developer.ontario.ca/",
+    "tags": [
+      "Ontario",
+      "developer portal",
+      "API",
+      "open data"
     ]
   },
   {
@@ -4156,6 +4189,22 @@
     ]
   },
   {
+    "name": "Open North",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Civic tech nonprofit",
+    "description": "Canadian nonprofit building open data standards and civic technology tools to help governments and communities share information and engage citizens",
+    "url": "https://opennorth.ca/",
+    "tags": [
+      "open data",
+      "civic tech",
+      "standards",
+      "nonprofit",
+      "transparency"
+    ]
+  },
+  {
     "name": "Proactive Publication of Government Contracts",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -4290,6 +4339,21 @@
     "tags": [
       "transit",
       "data"
+    ]
+  },
+  {
+    "name": "Alberta Open Government Portal",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Alberta's open government portal providing open data, publications, and reports for researchers, developers, and citizens",
+    "url": "https://open.alberta.ca/",
+    "tags": [
+      "Alberta",
+      "open data",
+      "government",
+      "transparency"
     ]
   },
   {
@@ -6018,7 +6082,7 @@
     "category": "transit",
     "type": "Transit",
     "description": "Brampton transit routes, schedules, and Züm BRT info",
-    "url": "https://www.brampton.ca/en/transit",
+    "url": "https://www.brampton.ca/en/residents/transit",
     "tags": [
       "transit",
       "Brampton"
@@ -6624,20 +6688,6 @@
     "tags": [
       "Yukon",
       "licence"
-    ]
-  },
-  {
-    "name": "Brampton Snow Plow Tracker",
-    "level": "Municipal",
-    "jurisdiction": "Brampton",
-    "category": "transport-roads",
-    "type": "Snow operations",
-    "description": "Track snow plow operations in Brampton during winter weather events — see real-time plow locations",
-    "url": "https://www.brampton.ca/EN/paying-for-taxes-and-utilities/snow-clearing",
-    "tags": [
-      "Brampton",
-      "snow",
-      "GTA"
     ]
   },
   {

@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 537 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 540 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,8 +23,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 52
-- [🪪 Government Services & ID](#government-services-and-id) — 30
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 54
+- [🪪 Government Services & ID](#government-services-and-id) — 33
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 13
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 14
 - [🏢 Business & Procurement](#business-and-procurement) — 16
@@ -34,7 +34,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🩺 Health & Wellness](#health-and-wellness) — 18
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 21
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 25
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 24
 - [🚌 Transit & Mobility](#transit-and-mobility) — 27
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 52
@@ -42,7 +42,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚡ Energy & Utilities](#energy-and-utilities) — 27
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 11
 - [🔬 Science, Research & Space](#science-research-and-space) — 11
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 39
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
@@ -65,6 +65,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | ISED API Catalogue | Canada · Federal | API catalogue | Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data. | https://api.ised-isde.canada.ca/en |
 | Open Government Portal | Canada · Federal | Open data portal | Main federal portal for datasets, information, and downloadable public resources | https://open.canada.ca/ |
 | Open Maps | Canada · Federal | Geospatial portal | Federal map and geospatial data discovery portal | https://open.canada.ca/en/open-maps |
+| Open North | Canada · Federal | Civic tech nonprofit | Canadian nonprofit building open data standards and civic technology tools to help governments and communities share information and engage citizens | https://opennorth.ca/ |
 | Proactive Publication of Government Contracts | Canada · Federal | Transparency | Search federal contracts over $10,000 disclosed quarterly by every department | https://search.open.canada.ca/contracts/ |
 | Project Browser — Global Affairs Canada | Canada · Federal | Data portal | Browse and search Government of Canada international development and humanitarian assistance projects around the world. | https://w05.international.gc.ca/projectbrowser-banqueprojets/ |
 | Statistics Canada | Canada · Federal | Data portal | One of the strongest public data sites in Canada; census, tables, visuals, releases | https://www.statcan.gc.ca/ |
@@ -88,6 +89,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta Open Government Portal | Alberta · Provincial | Open data portal | Alberta's open government portal providing open data, publications, and reports for researchers, developers, and citizens | https://open.alberta.ca/ |
 | Calgary Open Data overview | Calgary · Municipal | Portal landing page | Nice overview of categories, uses, and mapping assets | https://www.calgary.ca/research/open-data-portal.html |
 | Open Calgary | Calgary · Municipal | Open data portal | Well-stocked municipal open data portal with lots of map assets | https://data.calgary.ca/ |
 | Edmonton Open Data Portal | Edmonton · Municipal | Open data portal | Large set of municipal datasets and maps | https://data.edmonton.ca/ |
@@ -158,6 +160,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Code for Canada | Canada · Federal | Civic tech organization | Canadian nonprofit that helps government and communities design and build better digital services through technology and design partnerships | https://codefor.ca/ |
 | GC Design System | Canada · Federal | Design system | Official production-ready design system for Government of Canada websites and digital products — components, patterns, and guidance | https://design-system.canada.ca/en/ |
 | GC Forms | Canada · Federal | Form builder | Secure, accessible, bilingual form-building platform for Government of Canada services — no coding required | https://articles.alpha.canada.ca/forms-formulaires/ |
 | GC Notify | Canada · Federal | Notification service | Government of Canada notification service for sending emails and text messages to users — built by Canadian Digital Service | https://notification.canada.ca/ |
@@ -168,6 +171,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NEXUS — Trusted Traveller Program | Canada · Federal | Service | Apply for expedited border crossing between Canada and the US at land, air, and marine entries | https://www.cbsa-asfc.gc.ca/prog/nexus/menu-eng.html |
 | Passport Canada — Apply or Renew | Canada · Federal | Service | Apply for, renew, or replace a Canadian passport; track application status online | https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html |
 | Service Canada — Find a Service Canada Office | Canada · Federal | Finder | Locate the nearest Service Canada Centre and confirm services, hours, and appointment options | https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/find-office.html |
+| Termium Plus | Canada · Federal | Terminology database | Government of Canada's terminology and linguistic data bank — over 4 million terms in English, French, Spanish, and other languages | https://www.btb.termiumplus.gc.ca/ |
 | Travel Advice and Advisories | Canada · Federal | Advisory finder | Country-by-country official travel advisories | https://travel.gc.ca/travelling/advisories |
 | Travel.gc.ca — Consent Letter for Children Travelling Abroad | Canada · Federal | Service | Template and guidance for consent letters when children travel abroad without both parents | https://travel.gc.ca/travelling/children/consent-letter |
 | Canada Council for the Arts — Discover | Canada · Crown Corp | Arts | Funding programs, arts research, and Canadian arts discovery | https://canadacouncil.ca/ |
@@ -202,6 +206,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Ontario.ca Developer Hub | Ontario · Provincial | Developer portal | Ontario government developer hub with APIs, technical documentation, and code samples for building digital services | https://developer.ontario.ca/ |
 | ServiceOntario | Ontario · Provincial | Service portal | Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services | https://www.ontario.ca/page/serviceontario |
 | Brampton budget / Open Book resources | Brampton · Municipal | Transparency / budget | Budget transparency resources and project-oriented views | https://www.brampton.ca/EN/City-Hall/budget/ |
 | Toronto 311 — Service Requests | Toronto · Municipal | Service | Report issues, request services, and track cases in Toronto via web, app, or phone | https://www.toronto.ca/home/311-toronto-at-your-service/ |
@@ -666,7 +671,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario — Licence Plate Sticker Renewal | Ontario · Provincial | Service | Renew your Ontario licence plate sticker online and check renewal status | https://www.ontario.ca/page/renew-licence-plate-sticker |
 | Ontario Photo Card | Ontario · Provincial | ID service | Apply for an Ontario Photo Card — government-issued photo ID for residents who don't have a driver's licence | https://www.ontario.ca/page/ontario-photo-card |
 | ServiceOntario — Vehicle Registration Renewal | Ontario · Provincial | Service | Renew Ontario vehicle registration, transfer ownership, and order licence plate stickers online | https://www.ontario.ca/page/renew-drivers-licence |
-| Brampton Snow Plow Tracker | Brampton · Municipal | Snow operations | Track snow plow operations in Brampton during winter weather events — see real-time plow locations | https://www.brampton.ca/EN/paying-for-taxes-and-utilities/snow-clearing |
 | Ottawa Traffic, Parking and Road Bans | Ottawa · Municipal | Service | View real-time traffic conditions, road closures, parking restrictions, and seasonal road bans in Ottawa | https://traffic.ottawa.ca/ |
 
 ### Quebec
@@ -726,7 +730,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Brampton Transit | Brampton · Regional | Transit | Brampton transit routes, schedules, and Züm BRT info | https://www.brampton.ca/en/transit |
+| Brampton Transit | Brampton · Regional | Transit | Brampton transit routes, schedules, and Züm BRT info | https://www.brampton.ca/en/residents/transit |
 | Burlington Transit | Burlington · Regional | Transit | Burlington bus routes and schedules | https://www.burlington.ca/en/transit |
 | Guelph Transit | Guelph · Regional | Transit | Guelph bus routes and trip planning | https://www.guelph.ca/en/live-here/guelph-transit.aspx |
 | Hamilton Street Railway (HSR) | Hamilton · Regional | Transit | Hamilton bus routes and BLine rapid transit info | https://www.hamilton.ca/hsr |
@@ -1117,7 +1121,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Royal Ontario Museum — Collections | Ontario · Agency | Museum | Search the ROM's online collections of natural history, art, and world cultures | https://collections.rom.on.ca/ |
 | Teranet — Ontario Land Registry | Ontario · Agency | Land data | Property search and historical title data for Ontario | https://www.teranet.ca/ |
-| Brampton Heritage Register | Brampton · Municipal | Heritage register | Brampton's heritage register of designated and listed heritage properties across the city | https://www.brampton.ca/EN/Cultural-Heritage/heritage-register |
 | Mississauga Heritage — Heritage Register | Mississauga · Municipal | Heritage register | Mississauga's heritage register of designated built heritage properties and cultural heritage landscapes | https://www.mississauga.ca/heritage/ |
 | Toronto Heritage Register — Built Heritage | Toronto · Municipal | Heritage register | Searchable list of Toronto's designated and listed heritage properties — built heritage, cultural landscapes, and archaeological sites | https://www.toronto.ca/city-government/data-research-maps/toronto-parks-trees-green-space/heritage-register/ |
 | Toronto Open Data landing page | Toronto · Municipal | Open data hub | Portal page with datasets, gallery, and city data access | https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-portal/ |

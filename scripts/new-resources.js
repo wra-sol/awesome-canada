@@ -13,83 +13,53 @@
  */
 module.exports = [
   {
-    "name": "Canada Dental Care Plan",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Health benefit",
-    "description": "Apply for the national dental care plan providing coverage for uninsured Canadians with household incomes under $90,000",
-    "url": "https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html",
-    "tags": ["dental", "health", "benefits", "CDCP"]
-  },
-  {
-    "name": "Canada Greener Homes Initiative",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "housing",
-    "type": "Grant and loan",
-    "description": "Federal grants and loans for home energy evaluations, retrofits, and renewable energy upgrades to reduce emissions",
-    "url": "https://www.canada.ca/en/environment-climate-change/services/energy-efficiency/greener-homes-initiative.html",
-    "tags": ["housing", "energy efficiency", "climate", "retrofit", "grants"]
-  },
-  {
-    "name": "Canada Housing Benefit",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Rental assistance",
-    "description": "One-time top-up and ongoing rental assistance for low-income renters, administered with provinces and territories",
-    "url": "https://www.canada.ca/en/services/benefits/housing/canada-housing-benefit.html",
-    "tags": ["housing", "rental assistance", "benefits", "low income"]
-  },
-  {
-    "name": "Saskatchewan eHealth",
+    "name": "Ontario.ca Developer Hub",
     "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "health",
-    "type": "Health records",
-    "description": "Electronic health records, patient portals, and provincial health information services for Saskatchewan residents",
-    "url": "https://www.ehealthsask.ca/",
-    "tags": ["Saskatchewan", "health records", "eHealth", "digital health"]
+    "jurisdiction": "Ontario",
+    "category": "gov-services",
+    "type": "Developer portal",
+    "description": "Ontario government developer hub with APIs, technical documentation, and code samples for building digital services",
+    "url": "https://developer.ontario.ca/",
+    "tags": ["Ontario", "developer portal", "API", "open data"]
   },
   {
-    "name": "Canada Student Loans and Grants",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "education",
-    "type": "Financial aid",
-    "description": "Apply for federal student loans and grants, manage your loan, and explore repayment assistance options",
-    "url": "https://www.canada.ca/en/services/benefits/education/student-aid.html",
-    "tags": ["students", "loans", "grants", "education", "federal"]
+    "name": "Alberta Open Government Portal",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Alberta's open government portal providing open data, publications, and reports for researchers, developers, and citizens",
+    "url": "https://open.alberta.ca/",
+    "tags": ["Alberta", "open data", "government", "transparency"]
   },
   {
-    "name": "Canada Workers Benefit",
+    "name": "Termium Plus",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Tax benefit",
-    "description": "Refundable tax credit for low-income workers and families to help offset employment costs",
-    "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-workers-benefit.html",
-    "tags": ["workers", "tax credit", "low income", "benefits"]
+    "category": "gov-services",
+    "type": "Terminology database",
+    "description": "Government of Canada's terminology and linguistic data bank — over 4 million terms in English, French, Spanish, and other languages",
+    "url": "https://www.btb.termiumplus.gc.ca/",
+    "tags": ["terminology", "translation", "language", "federal", "bilingualism"]
   },
   {
-    "name": "CPP Retirement Hub",
+    "name": "Code for Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Information hub",
-    "description": "Central hub for Canada Pension Plan retirement planning — contributions, applying, and combining with other income",
-    "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-hub.html",
-    "tags": ["CPP", "retirement", "pensions", "seniors"]
+    "category": "gov-services",
+    "type": "Civic tech organization",
+    "description": "Canadian nonprofit that helps government and communities design and build better digital services through technology and design partnerships",
+    "url": "https://codefor.ca/",
+    "tags": ["civic tech", "digital services", "nonprofit", "federal", "design"]
   },
   {
-    "name": "FedDev Ontario",
+    "name": "Open North",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "business",
-    "type": "Economic development",
-    "description": "Federal economic development agency supporting business growth, innovation, and community economic development in southern Ontario",
-    "url": "https://feddev-ontario.canada.ca/",
-    "tags": ["Ontario", "business", "innovation", "federal", "economic development"]
+    "category": "open-data",
+    "type": "Civic tech nonprofit",
+    "description": "Canadian nonprofit building open data standards and civic technology tools to help governments and communities share information and engage citizens",
+    "url": "https://opennorth.ca/",
+    "tags": ["open data", "civic tech", "standards", "nonprofit", "transparency"]
   },
 ];
