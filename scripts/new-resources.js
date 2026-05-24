@@ -13,53 +13,43 @@
  */
 module.exports = [
   {
-    "name": "Ontario.ca Developer Hub",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "gov-services",
-    "type": "Developer portal",
-    "description": "Ontario government developer hub with APIs, technical documentation, and code samples for building digital services",
-    "url": "https://developer.ontario.ca/",
-    "tags": ["Ontario", "developer portal", "API", "open data"]
+    "name": "Business Development Bank of Canada (BDC)",
+    "level": "Crown Corp",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Business financing",
+    "description": "Federal crown corporation providing financing, advisory services, and venture capital to Canadian businesses",
+    "url": "https://www.bdc.ca/",
+    "tags": ["BDC", "business", "financing", "crown corporation", "SME"]
   },
   {
-    "name": "Alberta Open Government Portal",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Alberta's open government portal providing open data, publications, and reports for researchers, developers, and citizens",
-    "url": "https://open.alberta.ca/",
-    "tags": ["Alberta", "open data", "government", "transparency"]
-  },
-  {
-    "name": "Termium Plus",
+    "name": "NSERC — Natural Sciences and Engineering Research Council",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "gov-services",
-    "type": "Terminology database",
-    "description": "Government of Canada's terminology and linguistic data bank — over 4 million terms in English, French, Spanish, and other languages",
-    "url": "https://www.btb.termiumplus.gc.ca/",
-    "tags": ["terminology", "translation", "language", "federal", "bilingualism"]
+    "category": "science",
+    "type": "Research funding",
+    "description": "Federal agency that funds natural sciences and engineering research at Canadian universities and colleges",
+    "url": "https://www.nserc-crsng.gc.ca/",
+    "tags": ["NSERC", "research", "funding", "science", "engineering", "federal"]
   },
   {
-    "name": "Code for Canada",
-    "level": "Federal",
+    "name": "Farm Credit Canada",
+    "level": "Crown Corp",
     "jurisdiction": "Canada",
-    "category": "gov-services",
-    "type": "Civic tech organization",
-    "description": "Canadian nonprofit that helps government and communities design and build better digital services through technology and design partnerships",
-    "url": "https://codefor.ca/",
-    "tags": ["civic tech", "digital services", "nonprofit", "federal", "design"]
+    "category": "agriculture",
+    "type": "Agricultural financing",
+    "description": "Federal crown corporation providing financing, insurance, and software to Canadian farmers and agribusinesses",
+    "url": "https://www.fcc-fac.ca/",
+    "tags": ["FCC", "agriculture", "farm", "financing", "crown corporation", "rural"]
   },
   {
-    "name": "Open North",
+    "name": "Agriculture and Agri-Food Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "open-data",
-    "type": "Civic tech nonprofit",
-    "description": "Canadian nonprofit building open data standards and civic technology tools to help governments and communities share information and engage citizens",
-    "url": "https://opennorth.ca/",
-    "tags": ["open data", "civic tech", "standards", "nonprofit", "transparency"]
+    "category": "agriculture",
+    "type": "Government department",
+    "description": "Federal department supporting Canadian agriculture through research, policies, market development, and producer programs",
+    "url": "https://agriculture.canada.ca/en",
+    "tags": ["AAFC", "agriculture", "federal", "policy", "research", "food"]
   },
 ];

@@ -13,6 +13,23 @@
     ]
   },
   {
+    "name": "Agriculture and Agri-Food Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Government department",
+    "description": "Federal department supporting Canadian agriculture through research, policies, market development, and producer programs",
+    "url": "https://agriculture.canada.ca/en",
+    "tags": [
+      "AAFC",
+      "agriculture",
+      "federal",
+      "policy",
+      "research",
+      "food"
+    ]
+  },
+  {
     "name": "Canadian Food Inspection Agency (CFIA)",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -77,6 +94,23 @@
     "tags": [
       "BC",
       "beverages"
+    ]
+  },
+  {
+    "name": "Farm Credit Canada",
+    "level": "Crown Corp",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Agricultural financing",
+    "description": "Federal crown corporation providing financing, insurance, and software to Canadian farmers and agribusinesses",
+    "url": "https://www.fcc-fac.ca/",
+    "tags": [
+      "FCC",
+      "agriculture",
+      "farm",
+      "financing",
+      "crown corporation",
+      "rural"
     ]
   },
   {
@@ -2543,6 +2577,22 @@
     "tags": [
       "finance",
       "consumer"
+    ]
+  },
+  {
+    "name": "Business Development Bank of Canada (BDC)",
+    "level": "Crown Corp",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Business financing",
+    "description": "Federal crown corporation providing financing, advisory services, and venture capital to Canadian businesses",
+    "url": "https://www.bdc.ca/",
+    "tags": [
+      "BDC",
+      "business",
+      "financing",
+      "crown corporation",
+      "SME"
     ]
   },
   {
@@ -5739,6 +5789,23 @@
     "tags": [
       "aerospace",
       "research"
+    ]
+  },
+  {
+    "name": "NSERC — Natural Sciences and Engineering Research Council",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research funding",
+    "description": "Federal agency that funds natural sciences and engineering research at Canadian universities and colleges",
+    "url": "https://www.nserc-crsng.gc.ca/",
+    "tags": [
+      "NSERC",
+      "research",
+      "funding",
+      "science",
+      "engineering",
+      "federal"
     ]
   },
   {

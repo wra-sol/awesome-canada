@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 540 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 544 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,7 +26,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 54
 - [🪪 Government Services & ID](#government-services-and-id) — 33
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 13
-- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 14
+- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 15
 - [🏢 Business & Procurement](#business-and-procurement) — 16
 - [💼 Employment & Labour](#employment-and-labour) — 14
 - [🎓 Education & Student Aid](#education-and-student-aid) — 11
@@ -40,8 +40,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 52
 - [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 22
 - [⚡ Energy & Utilities](#energy-and-utilities) — 27
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 11
-- [🔬 Science, Research & Space](#science-research-and-space) — 11
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 13
+- [🔬 Science, Research & Space](#science-research-and-space) — 12
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
@@ -277,6 +277,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | FCAC — Credit Card Comparison Tool | Canada · Federal | Comparator | Compare fees, rewards, and interest rates across all federally regulated credit cards | https://itools-ioutils.fcac-acfc.gc.ca/CCCT-OCCC/SearchFilter-eng.aspx |
 | FCAC — Mortgage Calculator | Canada · Federal | Calculator | Official mortgage qualifier and payment calculator including stress-test scenarios | https://itools-ioutils.fcac-acfc.gc.ca/MC-CH/MCCalc-CHCalc-eng.aspx |
 | Financial Consumer Agency — Consumer Tools | Canada · Federal | Financial tools | Budget planner, credit card selector, bank account comparison, and financial literacy tools | https://www.canada.ca/en/financial-consumer-agency.html |
+| Business Development Bank of Canada (BDC) | Canada · Crown Corp | Business financing | Federal crown corporation providing financing, advisory services, and venture capital to Canadian businesses | https://www.bdc.ca/ |
 | CDIC — Deposit Insurance Calculator | Canada · Crown Corp | Calculator | Calculate how much of your bank deposits are protected by CDIC coverage | https://www.cdic.ca/your-coverage/deposit-insurance-calculator/ |
 | Export Development Canada — Trade Intelligence | Canada · Crown Corp | Trade data | International trade data, market intelligence, and export tools | https://www.edc.ca/en |
 | Canadian Investor Protection Fund | Canada · Agency | Coverage tool | Check coverage of investment dealer member firms and eligible assets | https://www.cipf.ca/ |
@@ -1009,10 +1010,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Agri-Food Data Canada | Canada · Federal | Research data | Agricultural research and producer data platform supporting Canadian farms and AI projects | https://agrifooddatacanada.ca/ |
+| Agriculture and Agri-Food Canada | Canada · Federal | Government department | Federal department supporting Canadian agriculture through research, policies, market development, and producer programs | https://agriculture.canada.ca/en |
 | Canadian Food Inspection Agency (CFIA) | Canada · Federal | Regulator | Federal food safety, plant and animal health regulator — recalls, inspections, and standards | https://inspection.canada.ca/ |
 | Canadian Grain Commission | Canada · Federal | Regulator | Canada's grain quality regulator — grading, testing, and producer protection services | https://www.grainscanada.gc.ca/ |
 | Canadian Wine Authority — VQA Wine Info | Canada · Federal | Wine info | Ontario's Vintners Quality Alliance wine standards, producer listings, and wine info | https://vqaontario.ca/ |
 | Foodland Ontario — Seasonal Availability | Canada · Federal | Seasonal guide | What's in season across Ontario farms and markets | https://www.ontario.ca/foodland/ |
+| Farm Credit Canada | Canada · Crown Corp | Agricultural financing | Federal crown corporation providing financing, insurance, and software to Canadian farmers and agribusinesses | https://www.fcc-fac.ca/ |
 
 ### British Columbia
 
@@ -1060,6 +1063,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Space Agency — Mission Tracker | Canada · Federal | Tracker | Current and upcoming CSA-supported satellite missions, astronauts, and science payloads | https://www.asc-csa.gc.ca/eng/missions/ |
 | Canadian Space Agency — RADARSAT Constellation Data | Canada · Federal | Data | Earth-observation data from the RADARSAT Constellation Mission (RCM) | https://www.asc-csa.gc.ca/eng/satellites/radarsat/ |
 | National Research Council — IR Aerospace Research Centre | Canada · Federal | Research | NRC aerospace research facilities, services, and partnership programs | https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/aerospace-research-centre |
+| NSERC — Natural Sciences and Engineering Research Council | Canada · Federal | Research funding | Federal agency that funds natural sciences and engineering research at Canadian universities and colleges | https://www.nserc-crsng.gc.ca/ |
 | Polar Knowledge Canada — CHARS | Canada · Federal | Research | Canadian High Arctic Research Station — northern science, Indigenous research, and community data | https://www.canada.ca/en/polar-knowledge.html |
 | NRC — Programs and Services | Canada · Crown Corp | Research | NRC research programs, technology platforms, and business innovation support | https://nrc.canada.ca/en |
 | Genome Canada | Canada · Agency | Research | National genomics organization funding research, platforms, and innovation | https://www.genomecanada.ca/ |
