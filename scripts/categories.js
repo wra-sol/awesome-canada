@@ -73,6 +73,7 @@ const JURISDICTION_TO_REGION = {
   'Alberta':                   'ab',
   'Calgary':                   'ab',
   'Edmonton':                  'ab',
+  'Lethbridge':                'ab',
 
   'Saskatchewan':              'sk',
   'Regina':                    'sk',
@@ -108,6 +109,8 @@ const JURISDICTION_TO_REGION = {
   'Richmond Hill':             'on',
   'Markham':                   'on',
   'Vaughan':                   'on',
+  'Kingston':                  'on',
+  'Thunder Bay':               'on',
 
   'Quebec':                    'qc',
   'Quebec City':               'qc',
@@ -119,6 +122,7 @@ const JURISDICTION_TO_REGION = {
   'Newfoundland and Labrador': 'atlantic',
   'Newfoundland':              'atlantic',
   'Halifax':                   'atlantic',
+  'Fredericton':               'atlantic',
 
   'Yukon':                     'north',
   'Northwest Territories':     'north',

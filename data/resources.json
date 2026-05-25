@@ -7258,5 +7258,80 @@
       "veterans",
       "heritage"
     ]
+  },
+  {
+    "name": "Fredericton Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Fredericton",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "ArcGIS Hub for the City of Fredericton with downloadable datasets and interactive apps including zoning maps, trail networks, metered parking, IoT environmental sensors, and construction projects",
+    "url": "https://data.fredericton.ca",
+    "tags": [
+      "open-data",
+      "municipal",
+      "gis",
+      "nb"
+    ]
+  },
+  {
+    "name": "Kingston Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Kingston",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Download property parcels, building footprints, transit routes, tree inventory, election wards, parks, and trails as GeoJSON, shapefiles, or CSV",
+    "url": "https://cityofkingston.hub.arcgis.com",
+    "tags": [
+      "open-data",
+      "municipal",
+      "gis",
+      "on"
+    ]
+  },
+  {
+    "name": "Thunder Bay Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Municipal datasets for Thunder Bay including property parcels, building footprints, transit routes, parks, zoning, and infrastructure available for bulk download",
+    "url": "https://opendata-thunderbay.hub.arcgis.com",
+    "tags": [
+      "open-data",
+      "municipal",
+      "gis",
+      "on"
+    ]
+  },
+  {
+    "name": "Metro Vancouver Open Data Portal",
+    "level": "Regional",
+    "jurisdiction": "Metro Vancouver",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Regional GIS datasets including LiDAR point clouds, aerial orthoimagery, liquid and solid waste services, water services, regional parks, and Electoral Area A boundaries",
+    "url": "https://open-data-portal-metrovancouver.hub.arcgis.com/",
+    "tags": [
+      "open-data",
+      "regional",
+      "gis",
+      "bc"
+    ]
+  },
+  {
+    "name": "Lethbridge Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Lethbridge",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Municipal open data for Lethbridge with property parcels, building footprints, transit routes, parks, and infrastructure datasets",
+    "url": "https://data-lethbridge.opendata.arcgis.com",
+    "tags": [
+      "open-data",
+      "municipal",
+      "gis",
+      "ab"
+    ]
   }
 ]

@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 544 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 549 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,7 +23,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 54
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 59
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 0
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 0
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 0
@@ -91,6 +91,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | B.C. API Gateway | British Columbia · Provincial | API portal | British Columbia government API gateway for discovering, accessing, and managing provincial APIs and data services | https://api.gov.bc.ca/ |
 | DataBC | British Columbia · Provincial | Open data portal | Major open data and geospatial hub for BC | https://www2.gov.bc.ca/gov/content/data |
+| Metro Vancouver Open Data Portal | Metro Vancouver · Regional | Open data hub | Regional GIS datasets including LiDAR point clouds, aerial orthoimagery, liquid and solid waste services, water services, regional parks, and Electoral Area A boundaries | https://open-data-portal-metrovancouver.hub.arcgis.com/ |
 | Victoria Open Data Catalogue | Victoria · Municipal | Open data portal | Municipal datasets and geospatial resources | https://opendata.victoria.ca/ |
 
 ### Alberta
@@ -101,6 +102,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Calgary Open Data overview | Calgary · Municipal | Portal landing page | Nice overview of categories, uses, and mapping assets | https://www.calgary.ca/research/open-data-portal.html |
 | Open Calgary | Calgary · Municipal | Open data portal | Well-stocked municipal open data portal with lots of map assets | https://data.calgary.ca/ |
 | Edmonton Open Data Portal | Edmonton · Municipal | Open data portal | Large set of municipal datasets and maps | https://data.edmonton.ca/ |
+| Lethbridge Open Data Portal | Lethbridge · Municipal | Open data hub | Municipal open data for Lethbridge with property parcels, building footprints, transit routes, parks, and infrastructure datasets | https://data-lethbridge.opendata.arcgis.com |
 
 ### Saskatchewan
 
@@ -126,6 +128,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Barrie Open Data Portal | Barrie · Municipal | Open data portal | City of Barrie open data portal — maps, statistics, and municipal datasets | https://opendata-barrie.hub.arcgis.com/ |
 | Guelph Open Data Portal | Guelph · Municipal | Open data portal | City of Guelph open data portal — GIS datasets, infrastructure, and city services data | https://opendata-guelph.hub.arcgis.com/ |
 | Hamilton Open Data | Hamilton · Municipal | Open data portal | Datasets and map resources | https://open.hamilton.ca/ |
+| Kingston Open Data Hub | Kingston · Municipal | Open data hub | Download property parcels, building footprints, transit routes, tree inventory, election wards, parks, and trails as GeoJSON, shapefiles, or CSV | https://cityofkingston.hub.arcgis.com |
 | Kitchener Open Data Portal | Kitchener · Municipal | Open data portal | City of Kitchener open data portal — transportation, parks, development, and demographic datasets | https://opendata-kitchener.hub.arcgis.com/ |
 | Markham Open Data Portal | Markham · Municipal | Open data portal | City of Markham open data portal — GIS, demographics, transportation, and parks datasets | https://opendata-markham.hub.arcgis.com/ |
 | Mississauga Open Data | Mississauga · Municipal | Open data portal | Strong GTA municipal data portal | https://data.mississauga.ca/ |
@@ -133,6 +136,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ottawa Budget Explorer datasets | Ottawa · Municipal | Dataset bundle | Raw datasets behind the budget visualizations | https://open.ottawa.ca/datasets/e88c52d7727e4a9dba6d427c9bd6445c |
 | Ottawa Open Data | Ottawa · Municipal | Open data portal | Municipal open data portal with datasets and map resources | https://open.ottawa.ca/ |
 | Richmond Hill Open Data Portal | Richmond Hill · Municipal | Open data portal | City of Richmond Hill open data portal — planning, transportation, and community services data | https://opendata-richmondhill.hub.arcgis.com/ |
+| Thunder Bay Open Data Hub | Thunder Bay · Municipal | Open data hub | Municipal datasets for Thunder Bay including property parcels, building footprints, transit routes, parks, zoning, and infrastructure available for bulk download | https://opendata-thunderbay.hub.arcgis.com |
 | 2026 City Budget | Toronto · Municipal | Budget portal | Official budget portal with accessible explainer content and documents | https://www.toronto.ca/Budget |
 | Toronto Maps / data and research hub | Toronto · Municipal | GIS / research hub | Broad entry point for city maps, data, and research tools | https://www.toronto.ca/city-government/data-research-maps/ |
 | Toronto Open Data Portal | Toronto · Municipal | Open data portal | One of the best municipal open data portals in Canada | https://open.toronto.ca/ |
@@ -154,6 +158,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nova Scotia Open Data | Nova Scotia · Provincial | Open data portal | Nova Scotia open data with storytelling feature and datasets | https://data.novascotia.ca/ |
 | PEI Open Data | PEI · Provincial | Open data portal | Prince Edward Island government open data | https://www.princeedwardisland.ca/en/service/open-data |
 | Prince Edward Island Open Data Portal | PEI · Provincial | Open data portal | PEI government open data catalogue with datasets on agriculture, environment, health, and transportation | https://data.princeedwardisland.ca/ |
+| Fredericton Open Data Portal | Fredericton · Municipal | Open data hub | ArcGIS Hub for the City of Fredericton with downloadable datasets and interactive apps including zoning maps, trail networks, metered parking, IoT environmental sensors, and construction projects | https://data.fredericton.ca |
 | Halifax Open Data | Halifax · Municipal | Open data portal | Useful municipal data and maps hub | https://data-hrm.hub.arcgis.com/pages/open-data-catalogue |
 
 ### Northern Canada (YT, NT, NU)
