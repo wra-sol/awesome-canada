@@ -1,22 +1,26 @@
 # Awesome Canada 🇨🇦
 
-> A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
+> A curated list of **municipal and provincial data sources** — open data portals, planning tools, council trackers, budget transparency, transit feeds, environmental monitoring, and other hard-to-find government datasets across Canada.
 
 [![CI](https://github.com/awesome-canada/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/awesome-canada/awesome-canada/actions/workflows/validate.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 544 resources · 27 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 544 resources · 34 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+
+**Focus:** Municipal and Provincial data sources that are actionable, insightful, and hard to find. We prioritize datasets you can download, APIs you can query, and tools that expose information usually buried in PDFs or behind FOIA requests.
 
 ---
 
 ## About
 
-This list is organized by **function first, then region**. Find the kind of resource you need (taxes, health, parks, justice, etc.), then drill down to the government level and jurisdiction that applies to you. Every entry links directly to an official government or public-interest source.
+This list is organized by **function first, then region**. Find the kind of data you need (planning permits, council votes, transit GTFS, budget disclosures, etc.), then drill down to the jurisdiction.
+
+Every entry links directly to an official source. Descriptions explain **what you can do** with the link — not just what it is.
 
 The list is generated from [`data/resources.json`](data/resources.json) — the JSON file is the source of truth. Do not edit the tables in this README by hand; add/fix entries in the JSON and re-run `node scripts/generate-readme.js`.
 
-- New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
+- New resources: see [CONTRIBUTING.md](CONTRIBUTING.md) and [docs/DATA-SCOUTING-STRATEGY.md](docs/DATA-SCOUTING-STRATEGY.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
 
 ---
