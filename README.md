@@ -1,26 +1,22 @@
 # Awesome Canada 🇨🇦
 
-> A curated list of **municipal and provincial data sources** — open data portals, planning tools, council trackers, budget transparency, transit feeds, environmental monitoring, and other hard-to-find government datasets across Canada.
+> A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![CI](https://github.com/awesome-canada/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/awesome-canada/awesome-canada/actions/workflows/validate.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 544 resources · 34 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
-
-**Focus:** Municipal and Provincial data sources that are actionable, insightful, and hard to find. We prioritize datasets you can download, APIs you can query, and tools that expose information usually buried in PDFs or behind FOIA requests.
+**Quick stats:** 544 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
 ## About
 
-This list is organized by **function first, then region**. Find the kind of data you need (planning permits, council votes, transit GTFS, budget disclosures, etc.), then drill down to the jurisdiction.
-
-Every entry links directly to an official source. Descriptions explain **what you can do** with the link — not just what it is.
+This list is organized by **function first, then region**. Find the kind of resource you need (taxes, health, parks, justice, etc.), then drill down to the government level and jurisdiction that applies to you. Every entry links directly to an official government or public-interest source.
 
 The list is generated from [`data/resources.json`](data/resources.json) — the JSON file is the source of truth. Do not edit the tables in this README by hand; add/fix entries in the JSON and re-run `node scripts/generate-readme.js`.
 
-- New resources: see [CONTRIBUTING.md](CONTRIBUTING.md) and [docs/DATA-SCOUTING-STRATEGY.md](docs/DATA-SCOUTING-STRATEGY.md)
+- New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
 
 ---
@@ -28,25 +24,33 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 ## Table of Contents
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 54
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 0
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 0
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 0
 - [🪪 Government Services & ID](#government-services-and-id) — 33
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 13
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 15
 - [🏢 Business & Procurement](#business-and-procurement) — 16
 - [💼 Employment & Labour](#employment-and-labour) — 14
 - [🎓 Education & Student Aid](#education-and-student-aid) — 11
+- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 0
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 14
 - [🩺 Health & Wellness](#health-and-wellness) — 18
+- [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 0
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 21
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 24
 - [🚌 Transit & Mobility](#transit-and-mobility) — 27
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 52
-- [🌦️ Weather, Climate & Environment](#weather-climate-and-environment) — 22
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 22
+- [🌦️ Weather & Climate](#weather-and-climate) — 0
 - [⚡ Energy & Utilities](#energy-and-utilities) — 27
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 13
 - [🔬 Science, Research & Space](#science-research-and-space) — 12
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 0
+- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 0
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
@@ -114,7 +118,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Ontario Data Catalogue | Ontario · Provincial | Open data portal | Large and very usable provincial open data catalogue | https://www.ontario.ca/open-data |
+| Ontario Data Catalogue | Ontario · Provincial | Open data portal | Large and very usable provincial open data catalogue | https://data.ontario.ca/ |
 | Durham Region Open Data Portal | Durham · Regional | Open data portal | Open data portal for the Regional Municipality of Durham — transportation, environment, and community data | https://opendata-durham.hub.arcgis.com/ |
 | Halton Region Open Data Portal | Halton · Regional | Open data portal | Open data portal for the Regional Municipality of Halton — planning, transportation, and public health datasets | https://opendata-halton.hub.arcgis.com/ |
 | Peel Region Open Data Portal | Peel · Regional | Open data portal | Open data portal for the Regional Municipality of Peel — datasets on planning, transportation, health, and more | https://opendata-peel.hub.arcgis.com/ |
@@ -129,7 +133,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ottawa Budget Explorer datasets | Ottawa · Municipal | Dataset bundle | Raw datasets behind the budget visualizations | https://open.ottawa.ca/datasets/e88c52d7727e4a9dba6d427c9bd6445c |
 | Ottawa Open Data | Ottawa · Municipal | Open data portal | Municipal open data portal with datasets and map resources | https://open.ottawa.ca/ |
 | Richmond Hill Open Data Portal | Richmond Hill · Municipal | Open data portal | City of Richmond Hill open data portal — planning, transportation, and community services data | https://opendata-richmondhill.hub.arcgis.com/ |
-| 2026 City Budget | Toronto · Municipal | Budget portal | Official budget portal with accessible explainer content and documents | http://toronto.ca/Budget |
+| 2026 City Budget | Toronto · Municipal | Budget portal | Official budget portal with accessible explainer content and documents | https://www.toronto.ca/Budget |
 | Toronto Maps / data and research hub | Toronto · Municipal | GIS / research hub | Broad entry point for city maps, data, and research tools | https://www.toronto.ca/city-government/data-research-maps/ |
 | Toronto Open Data Portal | Toronto · Municipal | Open data portal | One of the best municipal open data portals in Canada | https://open.toronto.ca/ |
 | Vaughan Open Data Portal | Vaughan · Municipal | Open data portal | City of Vaughan open data portal — municipal data, maps, and analytics for city services | https://opendata-vaughan.hub.arcgis.com/ |
@@ -139,7 +143,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Données Québec | Quebec · Provincial | Open data portal | Strong open data portal with datasets, apps, and interactive map components | https://www.donneesquebec.ca/ |
-| Montreal Open Data Portal | Montreal · Municipal | Open data portal | Strong open data site with datasets, apps, and frequent updates | https://data.montreal.ca/ |
+| Montreal Open Data Portal | Montreal · Municipal | Open data portal | Strong open data site with datasets, apps, and frequent updates | https://donnees.montreal.ca/ |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -150,7 +154,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nova Scotia Open Data | Nova Scotia · Provincial | Open data portal | Nova Scotia open data with storytelling feature and datasets | https://data.novascotia.ca/ |
 | PEI Open Data | PEI · Provincial | Open data portal | Prince Edward Island government open data | https://www.princeedwardisland.ca/en/service/open-data |
 | Prince Edward Island Open Data Portal | PEI · Provincial | Open data portal | PEI government open data catalogue with datasets on agriculture, environment, health, and transportation | https://data.princeedwardisland.ca/ |
-| Halifax Open Data | Halifax · Municipal | Open data portal | Useful municipal data and maps hub | https://www.halifax.ca/home/open-data |
+| Halifax Open Data | Halifax · Municipal | Open data portal | Useful municipal data and maps hub | https://data-hrm.hub.arcgis.com/pages/open-data-catalogue |
 
 ### Northern Canada (YT, NT, NU)
 
@@ -332,7 +336,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Alberta Purchasing Connection | Alberta · Provincial | Procurement | Alberta's public-sector tender site — bid opportunities, awards, and vendor accounts | https://vendor.purchasingconnection.ca/ |
+| Alberta Purchasing Connection | Alberta · Provincial | Procurement | Alberta's public-sector tender site — bid opportunities, awards, and vendor accounts | https://purchasing.alberta.ca/ |
 
 ### Saskatchewan
 
@@ -356,7 +360,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| SEAO — Système électronique d'appels d'offres du Québec | Quebec · Provincial | Procurement | Quebec's electronic tender system for public contracts with full search and alerts | https://www.seao.ca/ |
+| SEAO — Système électronique d'appels d'offres du Québec | Quebec · Provincial | Procurement | Quebec's electronic tender system for public contracts with full search and alerts — currently offline as of May 2026 | https://www.seao.ca/ |
 
 ## 💼 Employment & Labour
 
@@ -723,7 +727,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Regina Transit | Regina · Regional | Transit | Regina Transit schedules and route information | https://www.regina.ca/transit |
-| Saskatoon Transit | Saskatoon · Municipal | Transit | Saskatoon Transit trip planning, schedules, and real-time info | https://transit.saskatoon.ca/ |
+| Saskatoon Transit | Saskatoon · Municipal | Transit | Saskatoon Transit trip planning, schedules, and real-time info | https://saskatoontransit.ca/ |
 
 ### Manitoba
 
@@ -889,7 +893,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NL Parks — Provincial Parks Directory | Newfoundland and Labrador · Provincial | Park finder | Search Newfoundland and Labrador provincial parks and outdoor destinations | https://www.gov.nl.ca/ecc/ |
 | PEI Parks | PEI · Provincial | Park finder | PEI provincial parks and beaches, camping and booking info | https://www.princeedwardisland.ca/en/topics/parks-and-environment |
 
-## 🌦️ Weather, Climate & Environment
+## 🌍 Environment, Climate & Monitoring
 
 ### Federal / National
 
@@ -1163,7 +1167,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario Wildfire Map (Interactive) | Ontario · Provincial | Wildfire map | Ontario's interactive fire map with fire size, status, and restricted fire zones | https://www.gisapplication.lrc.gov.on.ca/ForestFireInformationMap/ |
-| Toronto Police — Crime Dashboard | Toronto · Municipal | Dashboard | Public Safety Data Portal — major crime incidents, shootings, traffic collisions in Toronto | https://data.torontopolice.on.ca/ |
+| Toronto Police — Crime Dashboard | Toronto · Municipal | Dashboard | Public Safety Data Portal — major crime incidents, shootings, traffic collisions in Toronto | https://data.tps.ca/ |
 
 ## ⚖️ Justice, Courts & Legal
 
@@ -1259,7 +1263,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Assembly of First Nations | Canada · Agency | Organization | National advocacy organization of First Nations chiefs — resolutions, research, and programs | https://afn.ca/ |
 | First Nations Information Governance Centre | Canada · Agency | Data | First Nations-led data governance, surveys, and research with the OCAP principles | https://fnigc.ca/ |
 | Inuit Tapiriit Kanatami | Canada · Agency | Organization | National Inuit representational organization advancing Inuit rights and interests | https://www.itk.ca/ |
-| Métis National Council | Canada · Agency | Organization | National representative body for the Métis Nation — policies, programs, and registries | https://www2.metisnation.ca/ |
+| Métis National Council | Canada · Agency | Organization | National representative body for the Métis Nation — policies, programs, and registries | https://www.metisnation.ca/ |
 | Pauktuutit Inuit Women of Canada | Canada · Agency | Organization | National voice for Inuit women — programs, research, and safety resources | https://www.pauktuutit.ca/ |
 
 ## 🎖️ Veterans & Military

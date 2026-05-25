@@ -849,7 +849,7 @@
     "category": "business",
     "type": "Procurement",
     "description": "Alberta's public-sector tender site — bid opportunities, awards, and vendor accounts",
-    "url": "https://vendor.purchasingconnection.ca/",
+    "url": "https://purchasing.alberta.ca/",
     "tags": [
       "Alberta",
       "procurement"
@@ -915,8 +915,9 @@
     "jurisdiction": "Quebec",
     "category": "business",
     "type": "Procurement",
-    "description": "Quebec's electronic tender system for public contracts with full search and alerts",
+    "description": "Quebec's electronic tender system for public contracts with full search and alerts — currently offline as of May 2026",
     "url": "https://www.seao.ca/",
+    "status": "dead",
     "tags": [
       "Quebec",
       "procurement"
@@ -3929,7 +3930,7 @@
     "category": "indigenous",
     "type": "Organization",
     "description": "National representative body for the Métis Nation — policies, programs, and registries",
-    "url": "https://www2.metisnation.ca/",
+    "url": "https://www.metisnation.ca/",
     "tags": [
       "Métis"
     ]
@@ -4482,7 +4483,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "Large and very usable provincial open data catalogue",
-    "url": "https://www.ontario.ca/open-data",
+    "url": "https://data.ontario.ca/",
     "tags": [
       "open data",
       "Ontario"
@@ -4678,7 +4679,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "Useful municipal data and maps hub",
-    "url": "https://www.halifax.ca/home/open-data",
+    "url": "https://data-hrm.hub.arcgis.com/pages/open-data-catalogue",
     "tags": [
       "open data",
       "Halifax"
@@ -4747,7 +4748,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "Strong open data site with datasets, apps, and frequent updates",
-    "url": "https://data.montreal.ca/",
+    "url": "https://donnees.montreal.ca/",
     "tags": [
       "open data",
       "Montreal"
@@ -4827,7 +4828,7 @@
     "category": "open-data",
     "type": "Budget portal",
     "description": "Official budget portal with accessible explainer content and documents",
-    "url": "http://toronto.ca/Budget",
+    "url": "https://www.toronto.ca/Budget",
     "tags": [
       "budget",
       "transparency"
@@ -5733,7 +5734,7 @@
     "category": "safety",
     "type": "Dashboard",
     "description": "Public Safety Data Portal — major crime incidents, shootings, traffic collisions in Toronto",
-    "url": "https://data.torontopolice.on.ca/",
+    "url": "https://data.tps.ca/",
     "tags": [
       "Toronto",
       "crime"
@@ -6448,7 +6449,7 @@
     "category": "transit",
     "type": "Transit",
     "description": "Saskatoon Transit trip planning, schedules, and real-time info",
-    "url": "https://transit.saskatoon.ca/",
+    "url": "https://saskatoontransit.ca/",
     "tags": [
       "Saskatoon",
       "transit"
