@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 7
-last_run: 2026-05-27T19:00:00Z
+stable_runs: 8
+last_run: 2026-05-27T20:00:00Z
 last_status: ok
-notes: 7 consecutive successful builds and deploys. Site stable. Phase 2 (daily enhancements). Live at https://wra-sol.github.io/awesome-canada/. Resources: 847. Fixed dead York Region food safety URL (404 → 200) and updated to YorkSafe program.
+notes: Phase 2 daily enhancement. Fixed 6 dead links (Brandon, Guelph, Haldimand, Medicine Hat, Regina, Guelph GTFS) and removed 2 duplicate open-data portals. Resources: 845. Deploy verified HTTP 200.
