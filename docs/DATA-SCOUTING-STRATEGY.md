@@ -121,7 +121,12 @@
 
 ## Current State (May 2026)
 
-- Total resources: ~544
+- Total resources: **554**
+- Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
 - Federal-heavy categories: agriculture, aviation-marine, science-research, veterans
 - Municipal gaps: most mid-size cities, many council/agenda tools, most GTFS feeds
 - Provincial gaps: health region data, school board data, lobbyist registries
+
+## Updates
+
+- **2026-05-27:** Added `dateAdded` field to all resources. Live directory site deployed to GitHub Pages. Repo cleaned of obsolete server files. Focus remains municipal/provincial actionable data.
