@@ -4452,13 +4452,13 @@
     ]
   },
   {
-    "name": "York Region Public Health — Food Safety Inspections",
+    "name": "York Region Public Health \u2014 Food Safety Inspections",
     "level": "Regional",
     "jurisdiction": "York Region",
     "category": "health-region",
     "type": "Food inspection data",
-    "description": "York Region food premises inspection disclosure data for restaurants and food facilities.",
-    "url": "https://www.york.ca/health/food-safety/inspection-results",
+    "description": "York Region YorkSafe inspection disclosure program for food premises, recreational water facilities, and personal services settings.",
+    "url": "https://www.york.ca/health/inspections-investigations-and-monitoring/yorksafe-inspection-program",
     "tags": [
       "york region",
       "food safety",
