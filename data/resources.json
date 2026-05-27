@@ -4452,7 +4452,7 @@
     ]
   },
   {
-    "name": "York Region Public Health \u2014 Food Safety Inspections",
+    "name": "York Region Public Health — Food Safety Inspections",
     "level": "Regional",
     "jurisdiction": "York Region",
     "category": "health-region",
@@ -6610,7 +6610,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "City of Brandon open data service with civic and GIS datasets for Manitoba's second-largest city.",
-    "url": "http://opendata.brandon.ca/",
+    "url": "https://brandon.opendata.arcgis.com/",
     "tags": [
       "brandon",
       "manitoba",
@@ -6913,22 +6913,6 @@
     ]
   },
   {
-    "name": "Guelph Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Guelph",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "CKAN open data portal for Guelph with building permits, transit GTFS, and civic datasets.",
-    "url": "http://data.open.guelph.ca/",
-    "tags": [
-      "guelph",
-      "ontario",
-      "open data",
-      "ckan",
-      "gtfs"
-    ]
-  },
-  {
     "name": "Guelph Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Guelph",
@@ -6950,7 +6934,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "Haldimand County open data portal with property, roads, and municipal GIS layers.",
-    "url": "http://opendata.haldimandcounty.on.ca/",
+    "url": "https://haldimandcounty.opendata.arcgis.com/",
     "tags": [
       "haldimand",
       "ontario",
@@ -7230,7 +7214,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "City of Medicine Hat open data portal with GIS and civic datasets for southeastern Alberta.",
-    "url": "http://data.medicinehat.ca/",
+    "url": "https://opendata.medicinehat.ca/",
     "tags": [
       "medicine hat",
       "alberta",
@@ -7576,24 +7560,10 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "CKAN open government portal for Regina with property, recreation, and civic datasets.",
-    "url": "http://open.regina.ca/",
+    "url": "https://regina.opendata.arcgis.com/",
     "tags": [
       "regina",
       "saskatchewan",
-      "open data",
-      "ckan"
-    ]
-  },
-  {
-    "name": "Regina Open Data Catalogue",
-    "level": "Municipal",
-    "jurisdiction": "Regina",
-    "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "City of Regina CKAN open data with civic datasets including parcels, infrastructure, and community indicators.",
-    "url": "https://opendata.regina.ca/",
-    "tags": [
-      "regina",
       "open data",
       "ckan"
     ]
@@ -10690,7 +10660,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "Guelph Transit GTFS schedule data published on the City open data catalogue for app developers.",
-    "url": "http://data.open.guelph.ca/dataset/guelph-transit-gtfs",
+    "url": "https://opendata-guelph.hub.arcgis.com/datasets/guelph-transit-gtfs",
     "tags": [
       "guelph",
       "transit",
