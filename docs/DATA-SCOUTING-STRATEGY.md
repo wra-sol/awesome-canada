@@ -123,12 +123,14 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ## Current State (May 2026)
 
-- Total resources: **554**
+- Total resources: **700** (after deduplication pass)
+- Municipal + provincial + regional: **~56%** of catalog (target >60%)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
-- Federal-heavy categories: agriculture, aviation-marine, science-research, veterans
-- Municipal gaps: most mid-size cities, many council/agenda tools, most GTFS feeds
-- Provincial gaps: health region data, school board data, lobbyist registries
+- Priority categories now populated: `planning-zoning`, `council`, `health-region`, `school-board`, `lobbyist`, `budget`, `heritage`, `weather` (partial)
+- `open-data` and `transit` significantly expanded with mid-size city portals and GTFS feeds
+- Remaining gaps: deeper per-city tools (checkbooks, committee-of-adjustment, heritage registers) beyond portal homepages; more `weather` at local scale
 
 ## Updates
 
 - **2026-05-27:** Added `dateAdded` field to all resources. Live directory site deployed to GitHub Pages. Repo cleaned of obsolete server files. Focus remains municipal/provincial actionable data.
+- **2026-05-27:** Bulk sourcing pass added ~150 municipal/provincial resources across priority categories; extended `JURISDICTION_TO_REGION` in `scripts/categories.js`. Use `scripts/append-batch-sources.js` and `scripts/append-batch-sources-2.js` for batched imports (dedupe by URL).
