@@ -720,6 +720,222 @@
     ]
   },
   {
+    "name": "BC Bid — Contract Awards",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "budget",
+    "type": "Procurement awards",
+    "description": "Search awarded BC public sector contracts and standing offers on BC Bid — filter by ministry, vendor, and date.",
+    "url": "https://bcbid.gov.bc.ca/page.aspx/en/buy/contract-award",
+    "tags": [
+      "bc",
+      "procurement",
+      "contracts",
+      "awards"
+    ]
+  },
+  {
+    "name": "Nova Scotia Awarded Public Tenders",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "budget",
+    "type": "Procurement awards",
+    "description": "CSV of awarded vendors and amounts for government tenders by entity, category, and date from the Nova Scotia open data portal.",
+    "url": "https://data.novascotia.ca/datasets/m6ps-8j6u",
+    "tags": [
+      "nova scotia",
+      "procurement",
+      "contracts",
+      "csv",
+      "tenders"
+    ]
+  },
+  {
+    "name": "Ontario Public Accounts — Schedule of Payments",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "budget",
+    "type": "Vendor payments",
+    "description": "Detailed schedule of provincial payments to vendors and transfer recipients by ministry — annual CSV downloads in English and French.",
+    "url": "https://data.ontario.ca/dataset/public-accounts-detailed-schedule-of-payments",
+    "tags": [
+      "ontario",
+      "payments",
+      "vendors",
+      "csv",
+      "transparency"
+    ]
+  },
+  {
+    "name": "Ontario Public Sector Salary Disclosure",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "budget",
+    "type": "Salary disclosure",
+    "description": "Searchable and downloadable public sector salary disclosure (Sunshine List) for Ontario employees earning over $100,000 — filter by organization, position, and year",
+    "url": "https://www.ontario.ca/page/public-sector-salary-disclosure",
+    "tags": [
+      "Ontario",
+      "salary disclosure",
+      "transparency",
+      "budget",
+      "CSV",
+      "sunshine list"
+    ]
+  },
+  {
+    "name": "Quebec SEAO — Open Contracting Data",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "budget",
+    "type": "Procurement open data",
+    "description": "Weekly JSON/XML open data on Quebec public tenders and awarded contracts including municipalities — OCDS-inspired format since 2021.",
+    "url": "https://www.donneesquebec.ca/recherche/fr/dataset/d23b2e02-085d-43e5-9e6e-e1d558ebfdd5",
+    "tags": [
+      "quebec",
+      "procurement",
+      "contracts",
+      "json",
+      "seao"
+    ]
+  },
+  {
+    "name": "Calgary Open Budget",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "budget",
+    "type": "Budget open data",
+    "description": "Approved operating and capital budget lines for the City of Calgary — filter by department, fund, and year with CSV/API export from Open Calgary.",
+    "url": "https://data.calgary.ca/Government/Calgary-Open-Budget/fqax-i3nz",
+    "tags": [
+      "calgary",
+      "budget",
+      "open data",
+      "transparency"
+    ]
+  },
+  {
+    "name": "Edmonton Approved Operating Budget — Expenses",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "budget",
+    "type": "Budget dataset",
+    "description": "Machine-readable approved operating budget expense lines by branch and service — download CSV or query Socrata API.",
+    "url": "https://data.edmonton.ca/Financial/Approved-Operating-Budget-Expenses/da9s-v9j8",
+    "tags": [
+      "edmonton",
+      "budget",
+      "expenses",
+      "csv",
+      "api"
+    ]
+  },
+  {
+    "name": "Edmonton Open Budget",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "budget",
+    "type": "Budget dashboard",
+    "description": "Interactive operating and capital budget explorer for City of Edmonton with revenues, expenditures, and year-over-year comparisons.",
+    "url": "https://budget.edmonton.ca/",
+    "tags": [
+      "edmonton",
+      "budget",
+      "transparency",
+      "open data"
+    ]
+  },
+  {
+    "name": "Halifax Budget and Financial Plans",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "budget",
+    "type": "Municipal budget",
+    "description": "Halifax Regional Municipality budget documents, business plans, and financial performance reporting.",
+    "url": "https://www.halifax.ca/city-hall/budget-financial-reports",
+    "tags": [
+      "halifax",
+      "budget",
+      "financial reports"
+    ]
+  },
+  {
+    "name": "Mississauga Procurement Awards Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "budget",
+    "type": "Procurement awards",
+    "description": "Awarded contracts and procurement results published on the Mississauga open data catalogue for vendor transparency.",
+    "url": "https://data.mississauga.ca/browse?category=Finance",
+    "tags": [
+      "mississauga",
+      "procurement",
+      "contracts",
+      "open data"
+    ]
+  },
+  {
+    "name": "Ottawa Spending and Budget Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "budget",
+    "type": "Budget open data",
+    "description": "City of Ottawa budget, spending, and financial datasets on the open data portal — operating and capital budget tables with API access.",
+    "url": "https://open.ottawa.ca/browse?category=Budget+%26+Finance",
+    "tags": [
+      "ottawa",
+      "budget",
+      "spending",
+      "open data"
+    ]
+  },
+  {
+    "name": "City of Toronto Expense Reports",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "budget",
+    "type": "Expense disclosure",
+    "description": "Councillor and senior staff expense reports published proactively — search and download hospitality, travel, and office spending.",
+    "url": "https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-clerk/expense-reports/",
+    "tags": [
+      "toronto",
+      "expenses",
+      "transparency",
+      "council"
+    ]
+  },
+  {
+    "name": "City of Toronto Vendor Payments (Open Data)",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "budget",
+    "type": "Vendor payments",
+    "description": "Quarterly open data releases of City of Toronto payments to vendors over reporting thresholds.",
+    "url": "https://open.toronto.ca/dataset/payments-to-vendors/",
+    "tags": [
+      "toronto",
+      "payments",
+      "vendors",
+      "csv",
+      "transparency"
+    ]
+  },
+  {
+    "name": "Vancouver Financial Transparency",
+    "level": "Municipal",
+    "jurisdiction": "Vancouver",
+    "category": "budget",
+    "type": "Financial reports",
+    "description": "City of Vancouver financial transparency hub with annual reports, statements, and open financial datasets.",
+    "url": "https://vancouver.ca/your-government/financial-transparency.aspx",
+    "tags": [
+      "vancouver",
+      "budget",
+      "financial transparency",
+      "reports"
+    ]
+  },
+  {
     "name": "BizPaL — Permits and Licences Finder",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -917,7 +1133,6 @@
     "type": "Procurement",
     "description": "Quebec's electronic tender system for public contracts with full search and alerts — currently offline as of May 2026",
     "url": "https://www.seao.ca/",
-    "status": "dead",
     "tags": [
       "Quebec",
       "procurement"
@@ -1089,6 +1304,511 @@
     "tags": [
       "Quebec",
       "consumer"
+    ]
+  },
+  {
+    "name": "Region of Waterloo Council Meetings",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "council",
+    "type": "Regional council meetings",
+    "description": "Regional Municipality of Waterloo council and committee agendas, minutes, and webcasts.",
+    "url": "https://www.regionofwaterloo.ca/en/regional-government/council-meetings.aspx",
+    "tags": [
+      "waterloo region",
+      "council",
+      "regional",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Barrie Council Meetings — eScribe",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Barrie City Council and committee agendas, minutes, and attachments on the public eScribe portal.",
+    "url": "https://pub-barrie.escribemeetings.com/",
+    "tags": [
+      "barrie",
+      "council",
+      "escribe",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Brampton Council and Committees — eScribe",
+    "level": "Municipal",
+    "jurisdiction": "Brampton",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Search Brampton City Council and committee agendas, minutes, attachments, and video on the eScribe public meetings portal.",
+    "url": "https://pub-brampton.escribemeetings.com/",
+    "tags": [
+      "brampton",
+      "council",
+      "agendas",
+      "minutes",
+      "escribe"
+    ]
+  },
+  {
+    "name": "Brandon City Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Brandon",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Brandon City Council agendas, minutes, and meeting video.",
+    "url": "https://www.brandon.ca/government/mayor-council/council-meetings",
+    "tags": [
+      "brandon",
+      "manitoba",
+      "council",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Calgary Council Agendas, Minutes and Video",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "council",
+    "type": "Agendas and minutes",
+    "description": "Browse council and committee agendas, HTML minutes with timestamped video links, and the Council Vote Dashboard after minutes are confirmed.",
+    "url": "https://www.calgary.ca/council/meetings/agenda-minutes.html",
+    "tags": [
+      "calgary",
+      "council",
+      "agendas",
+      "minutes",
+      "video"
+    ]
+  },
+  {
+    "name": "Calgary Council and Committee Votes",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "council",
+    "type": "Vote dataset",
+    "description": "Open Calgary dataset of council and committee votes with motion text, outcomes, and member votes. API and CSV export available.",
+    "url": "https://data.calgary.ca/Government/Council-and-Committee-Votes/ruq3-99hx",
+    "tags": [
+      "calgary",
+      "council",
+      "votes",
+      "api",
+      "csv"
+    ]
+  },
+  {
+    "name": "Cape Breton Regional Municipality Council",
+    "level": "Municipal",
+    "jurisdiction": "Cape Breton",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "CBRM council meeting agendas, minutes, and video for the Cape Breton Regional Municipality.",
+    "url": "https://www.cbrm.ns.ca/municipal-government/mayor-council/council-meetings",
+    "tags": [
+      "cape breton",
+      "council",
+      "nova scotia",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Edmonton Council Meetings (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "council",
+    "type": "Agendas and minutes",
+    "description": "Published council and committee agendas, minutes, and attachments with calendar search on the City of Edmonton eScribe portal.",
+    "url": "https://pub-edmonton.escribemeetings.com/",
+    "tags": [
+      "edmonton",
+      "council",
+      "agendas",
+      "minutes"
+    ]
+  },
+  {
+    "name": "Edmonton Council Voting Record (2021–2025)",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "council",
+    "type": "Vote dataset",
+    "description": "Council and committee voting records with motion details from the Edmonton Open Data Portal — filter and export via Socrata API.",
+    "url": "https://data.edmonton.ca/City-Administration/2021-2025-Council-And-Committee-Meetings-Voting-Re/ekzq-b4qg",
+    "tags": [
+      "edmonton",
+      "council",
+      "votes",
+      "open data",
+      "api"
+    ]
+  },
+  {
+    "name": "Fredericton Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Fredericton",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "City of Fredericton council meeting agendas, minutes, and video.",
+    "url": "https://www.fredericton.ca/en/your-government/mayor-council/council-meetings",
+    "tags": [
+      "fredericton",
+      "council",
+      "new brunswick",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Halifax Council Meeting Records",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "council",
+    "type": "Agendas and minutes",
+    "description": "Regional Council agendas, minutes, and webcasts for Halifax Regional Municipality with searchable meeting calendar.",
+    "url": "https://www.halifax.ca/city-hall/regional-council",
+    "tags": [
+      "halifax",
+      "council",
+      "agendas",
+      "minutes",
+      "video"
+    ]
+  },
+  {
+    "name": "Halifax Regional Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Halifax Regional Municipality council and committee agendas, minutes, and live meeting streams.",
+    "url": "https://www.halifax.ca/city-hall/mayor-council/regional-council",
+    "tags": [
+      "halifax",
+      "council",
+      "agendas",
+      "minutes"
+    ]
+  },
+  {
+    "name": "Hamilton Council Meetings and Agendas",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "council",
+    "type": "Agendas and minutes",
+    "description": "Council and committee agendas, minutes, and live meeting streams for the City of Hamilton.",
+    "url": "https://www.hamilton.ca/city-council/meetings-agendas",
+    "tags": [
+      "hamilton",
+      "council",
+      "agendas",
+      "minutes"
+    ]
+  },
+  {
+    "name": "Kelowna Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Kelowna",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Kelowna City Council meeting schedules, agendas, minutes, and video recordings for council and standing committees.",
+    "url": "https://www.kelowna.ca/city-hall/council/council-meetings",
+    "tags": [
+      "kelowna",
+      "bc",
+      "council",
+      "agendas",
+      "minutes"
+    ]
+  },
+  {
+    "name": "Laval Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Laval",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Ville de Laval council session agendas, minutes, and video for municipal council meetings.",
+    "url": "https://www.laval.ca/Pages/Fr/Citoyens/conseil-municipal/seances-du-conseil.aspx",
+    "tags": [
+      "laval",
+      "quebec",
+      "council",
+      "agendas"
+    ]
+  },
+  {
+    "name": "London Council and Committee Meetings",
+    "level": "Municipal",
+    "jurisdiction": "London",
+    "category": "council",
+    "type": "Agendas and minutes",
+    "description": "Browse London City Council and standing committee agendas, minutes, and video recordings.",
+    "url": "https://www.london.ca/city-hall/mayor-council/council-committee-meetings",
+    "tags": [
+      "london",
+      "council",
+      "agendas",
+      "minutes"
+    ]
+  },
+  {
+    "name": "Longueuil Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Longueuil",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Ville de Longueuil municipal council session agendas, minutes, and video.",
+    "url": "https://www.longueuil.quebec/fr/seances-du-conseil",
+    "tags": [
+      "longueuil",
+      "quebec",
+      "council",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Medicine Hat City Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Medicine Hat",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Medicine Hat City Council agendas, minutes, and meeting schedules.",
+    "url": "https://www.medicinehat.ca/en/government/city-council/council-meetings.aspx",
+    "tags": [
+      "medicine hat",
+      "alberta",
+      "council",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Mississauga Council and Committees — eScribe",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "council",
+    "type": "Agendas and minutes",
+    "description": "Search council and committee agendas, minutes, and video for City of Mississauga meetings.",
+    "url": "https://pub-mississauga.escribemeetings.com/",
+    "tags": [
+      "mississauga",
+      "council",
+      "agendas",
+      "minutes"
+    ]
+  },
+  {
+    "name": "Moncton Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Moncton",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "City of Moncton council and committee meeting agendas and minutes.",
+    "url": "https://www.moncton.ca/city-hall/mayor-council/council-meetings",
+    "tags": [
+      "moncton",
+      "council",
+      "new brunswick",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Ottawa Council Agendas and Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "council",
+    "type": "Agendas and minutes",
+    "description": "Searchable council and committee agendas, minutes, attachments, and meeting videos with calendar filtering on the eScribe portal.",
+    "url": "https://pub-ottawa.escribemeetings.com/",
+    "tags": [
+      "ottawa",
+      "council",
+      "agendas",
+      "minutes",
+      "video"
+    ]
+  },
+  {
+    "name": "Red Deer City Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Red Deer",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Red Deer City Council agendas, minutes, and meeting video.",
+    "url": "https://www.reddeer.ca/city-government/mayor-council/council-meetings/",
+    "tags": [
+      "red deer",
+      "alberta",
+      "council",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Regina Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Regina City Council meeting agendas, minutes, and video for council and board sessions.",
+    "url": "https://www.regina.ca/city-government/city-council/council-meetings/",
+    "tags": [
+      "regina",
+      "council",
+      "agendas",
+      "minutes"
+    ]
+  },
+  {
+    "name": "Saskatoon Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Saskatoon City Council and committee agendas, minutes, and meeting videos with calendar search.",
+    "url": "https://www.saskatoon.ca/city-hall/mayor-city-council/city-council-meetings",
+    "tags": [
+      "saskatoon",
+      "council",
+      "agendas",
+      "minutes"
+    ]
+  },
+  {
+    "name": "Sherbrooke Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Sherbrooke",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Ville de Sherbrooke council meeting agendas, minutes, and webcasts.",
+    "url": "https://www.sherbrooke.ca/fr/vie-municipale/conseil-municipal/seances-du-conseil",
+    "tags": [
+      "sherbrooke",
+      "quebec",
+      "council",
+      "agendas"
+    ]
+  },
+  {
+    "name": "St. John's Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "St. John's",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "St. John's City Council meeting agendas, minutes, and webcasts for council sessions.",
+    "url": "https://www.stjohns.ca/city-hall/city-council/council-meetings",
+    "tags": [
+      "st johns",
+      "newfoundland",
+      "council",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Thunder Bay Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Thunder Bay City Council meeting agendas, minutes, and webcasts.",
+    "url": "https://www.thunderbay.ca/en/city-hall/council/council-meetings.aspx",
+    "tags": [
+      "thunder bay",
+      "council",
+      "agendas",
+      "minutes"
+    ]
+  },
+  {
+    "name": "Toronto Council Voting Records (TMMIS)",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "council",
+    "type": "Vote records",
+    "description": "Generate councillor attendance and voting records by meeting, committee, and date range; export results as CSV from TMMIS.",
+    "url": "https://www.toronto.ca/legdocs/tmmis/votes-and-attendance.htm",
+    "tags": [
+      "toronto",
+      "council",
+      "votes",
+      "csv",
+      "transparency"
+    ]
+  },
+  {
+    "name": "Vancouver Council Voting Records",
+    "level": "Municipal",
+    "jurisdiction": "Vancouver",
+    "category": "council",
+    "type": "Vote dataset",
+    "description": "Download individual council, committee, and public hearing votes as open data — filter by member, meeting date, and motion outcome.",
+    "url": "https://opendata.vancouver.ca/explore/dataset/council-voting-records/",
+    "tags": [
+      "vancouver",
+      "council",
+      "votes",
+      "csv",
+      "open data"
+    ]
+  },
+  {
+    "name": "Victoria Council Meetings and Agendas",
+    "level": "Municipal",
+    "jurisdiction": "Victoria",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "City of Victoria council and committee meeting calendars, agendas, minutes, and webcasts for current and archived sessions.",
+    "url": "https://www.victoria.ca/city-government/council-committees/council-meetings",
+    "tags": [
+      "victoria",
+      "bc",
+      "council",
+      "agendas",
+      "minutes"
+    ]
+  },
+  {
+    "name": "Windsor Council Meetings — eScribe",
+    "level": "Municipal",
+    "jurisdiction": "Windsor",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Windsor City Council and standing committee agendas, minutes, and attachments on the public eScribe portal.",
+    "url": "https://pub-windsor.escribemeetings.com/",
+    "tags": [
+      "windsor",
+      "council",
+      "escribe",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Winnipeg Council Meetings — eScribe",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Winnipeg City Council and standing policy committee agendas, minutes, and video on eScribe.",
+    "url": "https://pub-winnipeg.escribemeetings.com/",
+    "tags": [
+      "winnipeg",
+      "council",
+      "escribe",
+      "agendas"
+    ]
+  },
+  {
+    "name": "Winnipeg Council Voting Information System",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "council",
+    "type": "Vote search",
+    "description": "Search council and executive policy committee votes by meeting date, item number, or keyword instead of scrolling through PDF minutes.",
+    "url": "https://www.winnipeg.ca/council/VIS/",
+    "tags": [
+      "winnipeg",
+      "council",
+      "votes",
+      "search"
     ]
   },
   {
@@ -2004,20 +2724,6 @@
     "tags": [
       "open data",
       "Vancouver"
-    ]
-  },
-  {
-    "name": "Windsor Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Windsor",
-    "category": "elections",
-    "type": "Open data",
-    "description": "City of Windsor's open data portal — datasets, maps, and civic information for Canada's southernmost major city",
-    "url": "https://www.citywindsor.ca/opendata",
-    "tags": [
-      "Windsor",
-      "open data",
-      "Ontario"
     ]
   },
   {
@@ -3379,6 +4085,481 @@
     ]
   },
   {
+    "name": "Alberta Health Services — Restaurant Inspections",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "health-region",
+    "type": "Inspection search",
+    "description": "Search food, pool, and facility health inspection results across Alberta Health Services zones by establishment name or location.",
+    "url": "https://www.albertahealthservices.ca/health-inspections/SearchServlet",
+    "tags": [
+      "alberta",
+      "food safety",
+      "inspections",
+      "public health",
+      "search"
+    ]
+  },
+  {
+    "name": "Alberta Health Services — Zone Maps and Data",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "health-region",
+    "type": "Health authority data",
+    "description": "Alberta Health Services zone boundaries, facility locations, and public health data resources.",
+    "url": "https://www.albertahealthservices.ca/about/Page13218.aspx",
+    "tags": [
+      "alberta",
+      "ahs",
+      "health regions",
+      "data"
+    ]
+  },
+  {
+    "name": "Fraser Health — Restaurant Inspection Reports",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health-region",
+    "type": "Food inspection search",
+    "description": "Search restaurant and food premises inspection reports across Fraser Health communities in Metro Vancouver and the Fraser Valley.",
+    "url": "https://www.fraserhealth.ca/health-topics-a-to-z/food-safety/restaurant-inspection-reports",
+    "tags": [
+      "fraser health",
+      "bc",
+      "food safety",
+      "inspections"
+    ]
+  },
+  {
+    "name": "Interior Health — Community Health Data",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health-region",
+    "type": "Health data",
+    "description": "Interior Health population health and community health data reports for BC Interior health authority communities.",
+    "url": "https://www.interiorhealth.ca/about-us/accountability/health-data",
+    "tags": [
+      "interior health",
+      "bc",
+      "health data",
+      "population health"
+    ]
+  },
+  {
+    "name": "Interior Health — Food Facility Inspections",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health-region",
+    "type": "Food inspection search",
+    "description": "Food facility inspection disclosure for Interior Health region — search by establishment name and community.",
+    "url": "https://www.interiorhealth.ca/health-and-wellness/food-safety/inspection-reports",
+    "tags": [
+      "interior health",
+      "bc",
+      "food safety",
+      "inspections"
+    ]
+  },
+  {
+    "name": "Vancouver Coastal Health — Restaurant Inspections",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health-region",
+    "type": "Inspection reports",
+    "description": "VCH restaurant and food service inspection reports for Vancouver Coastal region facilities.",
+    "url": "https://www.vch.ca/en/health-topics/environmental-health-inspections/reports",
+    "tags": [
+      "bc",
+      "vancouver",
+      "food safety",
+      "inspections"
+    ]
+  },
+  {
+    "name": "Middlesex-London Health Unit — Inspection Reports",
+    "level": "Regional",
+    "jurisdiction": "London",
+    "category": "health-region",
+    "type": "Food inspection search",
+    "description": "Food premise inspection reports for London and Middlesex County from the Middlesex-London Health Unit.",
+    "url": "https://www.healthunit.com/food-safety/inspection-reports",
+    "tags": [
+      "london",
+      "middlesex",
+      "food safety",
+      "inspections"
+    ]
+  },
+  {
+    "name": "Peel Region Food Check",
+    "level": "Regional",
+    "jurisdiction": "Peel",
+    "category": "health-region",
+    "type": "Food inspection data",
+    "description": "Food premises inspection records for Peel Region with facility name, inspection date, infractions, and location — updated weekly.",
+    "url": "https://opendata.peelregion.ca/data-categories/food-check/food-check-peel.aspx",
+    "tags": [
+      "peel",
+      "food safety",
+      "inspections",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "York Region Public Health — Food Safety Inspections",
+    "level": "Regional",
+    "jurisdiction": "York Region",
+    "category": "health-region",
+    "type": "Food inspection data",
+    "description": "York Region food premises inspection disclosure data for restaurants and food facilities.",
+    "url": "https://www.york.ca/health/food-safety/inspection-results",
+    "tags": [
+      "york region",
+      "food safety",
+      "inspections",
+      "ontario"
+    ]
+  },
+  {
+    "name": "Hamilton Public Health — Food Safety Inspections",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "health-region",
+    "type": "Food inspection search",
+    "description": "Search food premises inspection results for Hamilton under Hamilton Public Health Services.",
+    "url": "https://www.hamilton.ca/public-health/food-safety/food-premises-inspections",
+    "tags": [
+      "hamilton",
+      "food safety",
+      "inspections",
+      "public health"
+    ]
+  },
+  {
+    "name": "Montreal Food Inspection Report",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "health-region",
+    "type": "Food inspection dataset",
+    "description": "CSV download of municipal food inspection activity reports for restaurants and food establishments on Montreal territory.",
+    "url": "https://donnees.montreal.ca/dataset/fa01965a-6db5-42f9-b889-d39769b046eb",
+    "tags": [
+      "montreal",
+      "food safety",
+      "inspections",
+      "csv",
+      "quebec"
+    ]
+  },
+  {
+    "name": "Ottawa Public Health — Inspection Connection",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "health-region",
+    "type": "Food inspection search",
+    "description": "Search food establishment inspection results and compliance history from Ottawa Public Health.",
+    "url": "https://www.ottawapublichealth.ca/en/public-health-topics/inspection-connection.aspx",
+    "tags": [
+      "ottawa",
+      "food safety",
+      "inspections",
+      "public health"
+    ]
+  },
+  {
+    "name": "Ottawa Public Health Inspection Data",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "health-region",
+    "type": "Food inspection dataset",
+    "description": "Download Ottawa food premises inspection data including establishment type, inspection results, and risk categories.",
+    "url": "https://data.ottawa.ca/dataset/public-health-inspection-data",
+    "tags": [
+      "ottawa",
+      "food safety",
+      "inspections",
+      "csv",
+      "public health"
+    ]
+  },
+  {
+    "name": "Surrey Fraser Health Restaurant Inspections",
+    "level": "Municipal",
+    "jurisdiction": "Surrey",
+    "category": "health-region",
+    "type": "Food inspection dataset",
+    "description": "Restaurant inspection reports for Surrey from Fraser Health via the City open data catalogue — search by establishment and date.",
+    "url": "https://data.surrey.ca/dataset/fraser-health-restaurant-inspection-reports",
+    "tags": [
+      "surrey",
+      "food safety",
+      "inspections",
+      "bc",
+      "open data"
+    ]
+  },
+  {
+    "name": "Toronto DineSafe — Food Premises Inspections",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "health-region",
+    "type": "Food inspection dataset",
+    "description": "Restaurant and food premises inspection results with pass, conditional pass, or closed status. Download as CSV from the Open Data Portal.",
+    "url": "https://open.toronto.ca/dataset/dinesafe/",
+    "tags": [
+      "toronto",
+      "food safety",
+      "inspections",
+      "csv",
+      "public health"
+    ]
+  },
+  {
+    "name": "Toronto Public Health — Open Data Catalogue",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "health-region",
+    "type": "Public health open data",
+    "description": "Toronto Public Health datasets on the City open data portal — DineSafe, respiratory outbreaks, and other health indicators.",
+    "url": "https://open.toronto.ca/catalogue/?organization=toronto-public-health",
+    "tags": [
+      "toronto",
+      "public health",
+      "open data",
+      "dinesafe"
+    ]
+  },
+  {
+    "name": "Winnipeg Food Establishment Inspections",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "health-region",
+    "type": "Food inspection data",
+    "description": "Food establishment inspection records on Winnipeg open data — search results and facility compliance history.",
+    "url": "https://data.winnipeg.ca/Health/Food-Establishment-Inspections/ibwh-36tr",
+    "tags": [
+      "winnipeg",
+      "food safety",
+      "inspections",
+      "open data"
+    ]
+  },
+  {
+    "name": "Burlington Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Burlington",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Burlington municipal heritage register of designated and listed properties with conservation district information.",
+    "url": "https://www.burlington.ca/en/building-and-renovating/heritage.aspx",
+    "tags": [
+      "burlington",
+      "heritage",
+      "register"
+    ]
+  },
+  {
+    "name": "Calgary Heritage Inventory",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "heritage",
+    "type": "Heritage inventory",
+    "description": "Inventory of evaluated heritage resources in Calgary — search historic buildings and sites on Open Calgary.",
+    "url": "https://data.calgary.ca/Land-Use-Planning/Heritage-Inventory/xfh5-6p7w",
+    "tags": [
+      "calgary",
+      "heritage",
+      "historic buildings",
+      "open data"
+    ]
+  },
+  {
+    "name": "Calgary Heritage Inventory Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "heritage",
+    "type": "Heritage inventory",
+    "description": "Calgary heritage inventory and historic resources datasets on Open Calgary for mapping and research.",
+    "url": "https://data.calgary.ca/browse?category=Heritage",
+    "tags": [
+      "calgary",
+      "heritage",
+      "inventory",
+      "open data"
+    ]
+  },
+  {
+    "name": "Edmonton Register of Historic Resources",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Search Edmonton's Register of Historic Resources for municipally designated and inventoried heritage properties.",
+    "url": "https://www.edmonton.ca/city_government/urban_planning_and_design/heritage-resources",
+    "tags": [
+      "edmonton",
+      "heritage",
+      "historic resources",
+      "register"
+    ]
+  },
+  {
+    "name": "Hamilton Heritage Properties — Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "heritage",
+    "type": "Heritage register dataset",
+    "description": "Designated and listed heritage properties in Hamilton as a downloadable GIS dataset on Open Hamilton.",
+    "url": "https://open.hamilton.ca/datasets/heritage-properties",
+    "tags": [
+      "hamilton",
+      "heritage",
+      "open data",
+      "gis"
+    ]
+  },
+  {
+    "name": "Kingston Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Kingston",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Kingston heritage property register under the Ontario Heritage Act — designated, listed, and conservation district properties.",
+    "url": "https://www.cityofkingston.ca/building-and-renovating/heritage-property-conservation/heritage-register/",
+    "tags": [
+      "kingston",
+      "heritage",
+      "register",
+      "ontario heritage act"
+    ]
+  },
+  {
+    "name": "London Register of Cultural Heritage Resources — CityMap",
+    "level": "Municipal",
+    "jurisdiction": "London",
+    "category": "heritage",
+    "type": "Heritage register map",
+    "description": "Interactive map of London’s Register of Cultural Heritage Resources — designated properties, listed properties, and heritage conservation districts.",
+    "url": "https://maps.london.ca/WebDocuments/MapGallery/MapGallery/Index",
+    "tags": [
+      "london",
+      "heritage",
+      "register",
+      "map"
+    ]
+  },
+  {
+    "name": "Montreal Heritage Sites Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "heritage",
+    "type": "Heritage dataset",
+    "description": "Montreal heritage buildings and sites dataset on Données Montréal for mapping protected cultural properties.",
+    "url": "https://donnees.montreal.ca/dataset/heritage",
+    "tags": [
+      "montreal",
+      "heritage",
+      "open data",
+      "quebec"
+    ]
+  },
+  {
+    "name": "Montreal Protected Heritage Sites",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "heritage",
+    "type": "Heritage dataset",
+    "description": "Geographic and descriptive data on buildings and sites under Quebec Cultural Heritage Act on Montreal territory — polygon boundaries with RPCQ links.",
+    "url": "https://donnees.montreal.ca/dataset/sites-immeubles-proteges-lpc",
+    "tags": [
+      "montreal",
+      "heritage",
+      "cultural heritage",
+      "geojson",
+      "quebec"
+    ]
+  },
+  {
+    "name": "Ottawa Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Ottawa heritage register and mapping of designated properties and heritage conservation districts.",
+    "url": "https://ottawa.ca/en/planning-development-and-construction/heritage-conservation/heritage-register",
+    "tags": [
+      "ottawa",
+      "heritage",
+      "register",
+      "conservation"
+    ]
+  },
+  {
+    "name": "Ottawa Heritage Register (Not Designated)",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "heritage",
+    "type": "Heritage register layer",
+    "description": "Query heritage register properties not yet designated — includes heritage statements, recognition status, and legal descriptions via Planning GIS.",
+    "url": "https://maps.ottawa.ca/ArcGIS/rest/services/Planning/MapServer/60",
+    "tags": [
+      "ottawa",
+      "heritage",
+      "register",
+      "arcgis",
+      "planning"
+    ]
+  },
+  {
+    "name": "Toronto Heritage Register (Map)",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "heritage",
+    "type": "Heritage map",
+    "description": "Interactive map of properties on the City of Toronto Heritage Register — search by address for listed and designated sites.",
+    "url": "https://www.toronto.ca/city-government/planning-development/heritage-preservation/heritage-register/",
+    "tags": [
+      "toronto",
+      "heritage",
+      "register",
+      "map"
+    ]
+  },
+  {
+    "name": "Vancouver Heritage Sites",
+    "level": "Municipal",
+    "jurisdiction": "Vancouver",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Open data listing of Vancouver Heritage Register buildings, streetscapes, and landscape resources with evaluation categories.",
+    "url": "https://opendata.vancouver.ca/explore/dataset/heritage-sites/",
+    "tags": [
+      "vancouver",
+      "heritage",
+      "register",
+      "open data",
+      "csv"
+    ]
+  },
+  {
+    "name": "Victoria Heritage Register Dataset",
+    "level": "Municipal",
+    "jurisdiction": "Victoria",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Downloadable dataset of City of Victoria designated heritage properties including built heritage and cultural heritage landscapes",
+    "url": "https://opendata.victoria.ca/datasets/heritage-register",
+    "tags": [
+      "Victoria",
+      "BC",
+      "heritage",
+      "built heritage",
+      "open data",
+      "register"
+    ]
+  },
+  {
     "name": "Canada Greener Homes Initiative",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -4158,6 +5339,232 @@
     ]
   },
   {
+    "name": "Federal Lobbying Registrations — Open Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "lobbyist",
+    "type": "Lobbyist open data",
+    "description": "Download all federal lobbying registrations and monthly communication reports as CSV with bilingual data dictionary from Lobbying Commissioner.",
+    "url": "https://lobbycanada.gc.ca/en/open-data/",
+    "tags": [
+      "canada",
+      "lobbyists",
+      "csv",
+      "federal",
+      "transparency"
+    ]
+  },
+  {
+    "name": "Alberta Lobbyist Registry",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Search registered lobbyists, clients, and lobbying subjects in Alberta. Public read access to all filings under the Lobbyists Act.",
+    "url": "https://www.albertalobbyistregistry.ca/",
+    "tags": [
+      "alberta",
+      "lobbyists",
+      "registry",
+      "search"
+    ]
+  },
+  {
+    "name": "BC Lobbyists Registry — Open Data",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "lobbyist",
+    "type": "Lobbyist open data",
+    "description": "Monthly CSV datasets of lobbying registration returns and activity reports filed with the BC Registrar of Lobbyists since 2010.",
+    "url": "https://www.lobbyistsregistrar.bc.ca/the-registry/open-data/",
+    "tags": [
+      "bc",
+      "lobbyists",
+      "csv",
+      "transparency",
+      "open data"
+    ]
+  },
+  {
+    "name": "Manitoba Lobbyists Registry",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Search Manitoba lobbyist registrations and returns filed with the Office of the Integrity Commissioner.",
+    "url": "https://www.manitobalobbyistsregistry.ca/",
+    "tags": [
+      "manitoba",
+      "lobbyists",
+      "registry"
+    ]
+  },
+  {
+    "name": "New Brunswick Registry of Lobbyists",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Search lobbyist registrations and returns filed with the Office of the Commissioner of Lobbyist Registration in New Brunswick.",
+    "url": "https://www.lobbyistsnb.ca/",
+    "tags": [
+      "new brunswick",
+      "lobbyists",
+      "registry",
+      "search"
+    ]
+  },
+  {
+    "name": "Newfoundland and Labrador Lobbyist Registry Search",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "lobbyist",
+    "type": "Lobbyist registry search",
+    "description": "Free public search of registered lobbyists in Newfoundland and Labrador via the CADO portal — filter by lobbyist, client, and activity dates.",
+    "url": "https://cado.eservices.gov.nl.ca/Lobbyist/LobbyistSearch.aspx",
+    "tags": [
+      "newfoundland",
+      "lobbyists",
+      "registry",
+      "search"
+    ]
+  },
+  {
+    "name": "Nova Scotia Lobbyist Registry",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Public registry of lobbyists registered under Nova Scotia’s Lobbyists Registration Act — search by lobbyist, client, and subject.",
+    "url": "https://lobbyistregistry.novascotia.ca/",
+    "tags": [
+      "nova scotia",
+      "lobbyists",
+      "registry",
+      "search"
+    ]
+  },
+  {
+    "name": "Ontario Lobbyist Registry — Public Search",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "lobbyist",
+    "type": "Lobbyist registry search",
+    "description": "Search registered Ontario lobbyists by name, client, subject matter, ministry, and filing date — active and inactive registrations.",
+    "url": "https://lobbyist.oico.on.ca/Pages/Public/PublicSearch/",
+    "tags": [
+      "ontario",
+      "lobbyists",
+      "registry",
+      "search",
+      "transparency"
+    ]
+  },
+  {
+    "name": "Prince Edward Island Lobbyist Registry",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "PEI lobbyist registration search under the Lobbyist Registration Act.",
+    "url": "https://www.princeedwardisland.ca/en/information/executive-council-office/lobbyist-registration",
+    "tags": [
+      "pei",
+      "lobbyists",
+      "registry"
+    ]
+  },
+  {
+    "name": "Carrefour Lobby Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Quebec public lobbyist registry — search mandates, institutions contacted, and lobbying subjects under the Lobbying Transparency and Ethics Act.",
+    "url": "https://www.carrefourlobby.quebec/",
+    "tags": [
+      "quebec",
+      "lobbyists",
+      "registry",
+      "transparency"
+    ]
+  },
+  {
+    "name": "Saskatchewan Lobbyist Registry",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Public search of registered lobbyists and lobbying activities in Saskatchewan under The Lobbyists Act.",
+    "url": "https://registry.saskatchewanlobbyists.ca/",
+    "tags": [
+      "saskatchewan",
+      "lobbyists",
+      "registry",
+      "search"
+    ]
+  },
+  {
+    "name": "Saskatchewan Lobbyist Registry",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Saskatchewan public lobbyist registry search under the Lobbyists Act.",
+    "url": "https://www.sasklobbyistregistry.ca/",
+    "tags": [
+      "saskatchewan",
+      "lobbyists",
+      "registry",
+      "search"
+    ]
+  },
+  {
+    "name": "Calgary Lobbyist Information",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "lobbyist",
+    "type": "Lobbyist dataset",
+    "description": "Open Calgary dataset of lobbyist registration information — download and query via API for municipal lobbying disclosures.",
+    "url": "https://data.calgary.ca/Government/Lobbyist-Information/i74e-mxx5",
+    "tags": [
+      "calgary",
+      "lobbyists",
+      "open data",
+      "api"
+    ]
+  },
+  {
+    "name": "Ottawa Lobbyist Registry",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Search lobbyist registrations and disclosed communications with City Council and staff within 15 business days of contact.",
+    "url": "https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/lobbyist-registry",
+    "tags": [
+      "ottawa",
+      "lobbyists",
+      "registry",
+      "search"
+    ]
+  },
+  {
+    "name": "Toronto Lobbyist Registry — Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "lobbyist",
+    "type": "Lobbyist dataset",
+    "description": "Municipal lobbyist registration and communication disclosures synced to Open Toronto — analyze lobbying activity by subject and public office holder.",
+    "url": "https://open.toronto.ca/dataset/lobbyist-registry-disclosure/",
+    "tags": [
+      "toronto",
+      "lobbyists",
+      "open data",
+      "csv"
+    ]
+  },
+  {
     "name": "Census Program",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -4464,6 +5871,20 @@
     ]
   },
   {
+    "name": "Northwest Territories Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "open-data",
+    "type": "Territorial open data",
+    "description": "GNWT open data catalogue with territorial datasets on infrastructure, environment, and community services.",
+    "url": "https://www.opendata.gov.nt.ca/",
+    "tags": [
+      "nwt",
+      "open data",
+      "territorial"
+    ]
+  },
+  {
     "name": "Nova Scotia Open Data",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -4474,6 +5895,20 @@
     "tags": [
       "open data",
       "NS"
+    ]
+  },
+  {
+    "name": "Nunavut Open Data Portal",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "open-data",
+    "type": "Territorial open data",
+    "description": "Government of Nunavut open data portal for territorial datasets and spatial information.",
+    "url": "https://www.gov.nu.ca/information/open-data",
+    "tags": [
+      "nunavut",
+      "open data",
+      "territorial"
     ]
   },
   {
@@ -4544,6 +5979,21 @@
     ]
   },
   {
+    "name": "Durham Region Open Data",
+    "level": "Regional",
+    "jurisdiction": "Durham",
+    "category": "open-data",
+    "type": "Regional open data",
+    "description": "Regional Municipality of Durham open data with transit GTFS, property, and municipal boundary datasets.",
+    "url": "http://opendata.durham.ca/",
+    "tags": [
+      "durham",
+      "ontario",
+      "open data",
+      "gtfs"
+    ]
+  },
+  {
     "name": "Durham Region Open Data Portal",
     "level": "Regional",
     "jurisdiction": "Durham",
@@ -4574,6 +6024,52 @@
     ]
   },
   {
+    "name": "Metro Vancouver Open Data Portal",
+    "level": "Regional",
+    "jurisdiction": "Metro Vancouver",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Regional GIS datasets including LiDAR point clouds, aerial orthoimagery, liquid and solid waste services, water services, regional parks, and Electoral Area A boundaries",
+    "url": "https://open-data-portal-metrovancouver.hub.arcgis.com/",
+    "tags": [
+      "open-data",
+      "regional",
+      "gis",
+      "bc"
+    ]
+  },
+  {
+    "name": "Niagara Open Data",
+    "level": "Regional",
+    "jurisdiction": "Niagara",
+    "category": "open-data",
+    "type": "Regional open data",
+    "description": "CKAN portal aggregating Niagara Region and local municipality datasets — buildings, transit GTFS, and boundaries.",
+    "url": "https://niagaraopendata.ca/",
+    "tags": [
+      "niagara",
+      "ontario",
+      "open data",
+      "ckan",
+      "gtfs"
+    ]
+  },
+  {
+    "name": "Peel Region Open Data",
+    "level": "Regional",
+    "jurisdiction": "Peel",
+    "category": "open-data",
+    "type": "Regional open data",
+    "description": "Peel Region datasets including Food Check, property, waste, and health data with search and download.",
+    "url": "https://data.peelregion.ca/",
+    "tags": [
+      "peel",
+      "ontario",
+      "open data",
+      "regional"
+    ]
+  },
+  {
     "name": "Peel Region Open Data Portal",
     "level": "Regional",
     "jurisdiction": "Peel",
@@ -4586,6 +6082,52 @@
       "open data",
       "Ontario",
       "GIS"
+    ]
+  },
+  {
+    "name": "Region of Waterloo Open Data",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "open-data",
+    "type": "Regional open data hub",
+    "description": "Regional Municipality of Waterloo ArcGIS Hub with parcels, transit, libraries, and cross-municipal GIS layers.",
+    "url": "https://rowopendata-rmw.opendata.arcgis.com/",
+    "tags": [
+      "waterloo",
+      "ontario",
+      "open data",
+      "arcgis",
+      "gtfs"
+    ]
+  },
+  {
+    "name": "York Region — Open Data",
+    "level": "Regional",
+    "jurisdiction": "York Region",
+    "category": "open-data",
+    "type": "Regional open data",
+    "description": "York Region open data portal with regional datasets on demographics, health, and municipal services.",
+    "url": "https://www.york.ca/en/about-the-region/open-data.aspx",
+    "tags": [
+      "york region",
+      "open data",
+      "regional",
+      "gta"
+    ]
+  },
+  {
+    "name": "York Region Insights Open Data",
+    "level": "Regional",
+    "jurisdiction": "York Region",
+    "category": "open-data",
+    "type": "Regional open data hub",
+    "description": "York Region ArcGIS open data hub with regional boundaries, demographics, and municipal service layers.",
+    "url": "http://insights-york.opendata.arcgis.com/",
+    "tags": [
+      "york region",
+      "ontario",
+      "open data",
+      "arcgis"
     ]
   },
   {
@@ -4604,6 +6146,66 @@
     ]
   },
   {
+    "name": "Abbotsford Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Abbotsford",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "ArcGIS Hub for City of Abbotsford datasets — parks, transportation, boundaries, and municipal infrastructure with bulk download.",
+    "url": "https://opendata-abbotsford.hub.arcgis.com/",
+    "tags": [
+      "abbotsford",
+      "bc",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Airdrie Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Airdrie",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Airdrie ArcGIS open data including parcels, addressing, and municipal boundaries with GTFS transit data.",
+    "url": "http://data-airdrie.opendata.arcgis.com/",
+    "tags": [
+      "airdrie",
+      "alberta",
+      "open data",
+      "arcgis",
+      "gtfs"
+    ]
+  },
+  {
+    "name": "Ajax Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Ajax",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Town of Ajax municipal open data with GIS layers for planning and civic services.",
+    "url": "http://opendata.ajax.ca/",
+    "tags": [
+      "ajax",
+      "ontario",
+      "open data"
+    ]
+  },
+  {
+    "name": "Banff Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Banff",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Town of Banff open data including trails, zoning, and municipal spatial datasets.",
+    "url": "http://www.banffopendata.ca/",
+    "tags": [
+      "banff",
+      "alberta",
+      "open data",
+      "parks"
+    ]
+  },
+  {
     "name": "Barrie Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Barrie",
@@ -4616,6 +6218,65 @@
       "open data",
       "Ontario",
       "GIS"
+    ]
+  },
+  {
+    "name": "Brandon Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Brandon",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Brandon open data service with civic and GIS datasets for Manitoba's second-largest city.",
+    "url": "http://opendata.brandon.ca/",
+    "tags": [
+      "brandon",
+      "manitoba",
+      "open data"
+    ]
+  },
+  {
+    "name": "Brantford Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Brantford",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "ArcGIS Hub for Brantford with transportation, land use, parks, and municipal boundary datasets.",
+    "url": "http://data-brantford.opendata.arcgis.com/",
+    "tags": [
+      "brantford",
+      "ontario",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Burlington Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Burlington",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Burlington ArcGIS Hub with parks, zoning, property, and civic datasets.",
+    "url": "https://data-burlington.opendata.arcgis.com/",
+    "tags": [
+      "burlington",
+      "ontario",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Burnaby Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Burnaby",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Burnaby maps and open data including zoning, parks, and civic datasets with download and API access.",
+    "url": "https://www.burnaby.ca/City-Services/Maps-Open-Data.html",
+    "tags": [
+      "burnaby",
+      "bc",
+      "open data",
+      "gis"
     ]
   },
   {
@@ -4645,6 +6306,96 @@
     ]
   },
   {
+    "name": "Cambridge GeoHub",
+    "level": "Municipal",
+    "jurisdiction": "Cambridge",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Cambridge open GIS hub with property, zoning, libraries, schools, and building datasets.",
+    "url": "http://geohub.cambridge.ca/",
+    "tags": [
+      "cambridge",
+      "ontario",
+      "open data",
+      "gis"
+    ]
+  },
+  {
+    "name": "Canmore Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Canmore",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Town of Canmore ArcGIS open data with recreation, trails, and planning datasets.",
+    "url": "http://opendata-canmore.opendata.arcgis.com/",
+    "tags": [
+      "canmore",
+      "alberta",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Cape Breton — The Data Zone",
+    "level": "Municipal",
+    "jurisdiction": "Cape Breton",
+    "category": "open-data",
+    "type": "Regional data portal",
+    "description": "Cape Breton Regional Municipality data portal with municipal GIS layers, maps, and downloadable datasets.",
+    "url": "https://www.thedatazone.ca/",
+    "tags": [
+      "cape breton",
+      "nova scotia",
+      "open data",
+      "gis"
+    ]
+  },
+  {
+    "name": "Coquitlam Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Coquitlam",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Coquitlam open data portal with planning, parks, transportation, and civic datasets.",
+    "url": "https://data.coquitlam.ca/",
+    "tags": [
+      "coquitlam",
+      "bc",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Courtenay Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Courtenay",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Courtenay ArcGIS open data portal with civic and planning datasets.",
+    "url": "https://data-courtenay.opendata.arcgis.com/",
+    "tags": [
+      "courtenay",
+      "bc",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "East Hants Open Data",
+    "level": "Municipal",
+    "jurisdiction": "East Hants",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Municipality of East Hants ArcGIS open data with planning and civic spatial datasets.",
+    "url": "http://data.easthants.opendata.arcgis.com/",
+    "tags": [
+      "east hants",
+      "nova scotia",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
     "name": "Edmonton Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Edmonton",
@@ -4655,6 +6406,81 @@
     "tags": [
       "open data",
       "Edmonton"
+    ]
+  },
+  {
+    "name": "Fredericton Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Fredericton",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "ArcGIS Hub for the City of Fredericton with downloadable datasets and interactive apps including zoning maps, trail networks, metered parking, IoT environmental sensors, and construction projects",
+    "url": "https://data.fredericton.ca",
+    "tags": [
+      "open-data",
+      "municipal",
+      "gis",
+      "nb"
+    ]
+  },
+  {
+    "name": "Grande Prairie Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Grande Prairie",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Grande Prairie open data portal with property, infrastructure, and civic datasets via Socrata.",
+    "url": "https://data.cityofgp.com/",
+    "tags": [
+      "grande prairie",
+      "alberta",
+      "open data",
+      "socrata"
+    ]
+  },
+  {
+    "name": "Greater Sudbury Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Municipal open data for Greater Sudbury including roads, property, recreation, and transit datasets.",
+    "url": "http://opendata.greatersudbury.ca/",
+    "tags": [
+      "sudbury",
+      "ontario",
+      "open data"
+    ]
+  },
+  {
+    "name": "Grey County Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Grey County",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Grey County open GIS data portal with civic and planning datasets for southwestern Ontario.",
+    "url": "http://opendata.grey.ca/",
+    "tags": [
+      "grey county",
+      "ontario",
+      "open data",
+      "gis"
+    ]
+  },
+  {
+    "name": "Guelph Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "CKAN open data portal for Guelph with building permits, transit GTFS, and civic datasets.",
+    "url": "http://data.open.guelph.ca/",
+    "tags": [
+      "guelph",
+      "ontario",
+      "open data",
+      "ckan",
+      "gtfs"
     ]
   },
   {
@@ -4670,6 +6496,20 @@
       "open data",
       "Ontario",
       "GIS"
+    ]
+  },
+  {
+    "name": "Haldimand County Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Haldimand County",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Haldimand County open data portal with property, roads, and municipal GIS layers.",
+    "url": "http://opendata.haldimandcounty.on.ca/",
+    "tags": [
+      "haldimand",
+      "ontario",
+      "open data"
     ]
   },
   {
@@ -4699,6 +6539,83 @@
     ]
   },
   {
+    "name": "Hamilton Red Light Camera Locations",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "open-data",
+    "type": "Traffic safety dataset",
+    "description": "Red light camera intersection locations and related traffic safety datasets on Open Hamilton.",
+    "url": "https://open.hamilton.ca/datasets?q=red%20light",
+    "tags": [
+      "hamilton",
+      "traffic",
+      "safety",
+      "open data"
+    ]
+  },
+  {
+    "name": "Huron County Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Huron County",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "County of Huron ArcGIS open data with libraries, buildings, and municipal boundaries.",
+    "url": "http://data-huron.opendata.arcgis.com/",
+    "tags": [
+      "huron",
+      "ontario",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Kamloops Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Kamloops",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "ArcGIS open data for Kamloops with zoning, trails, parks, and city infrastructure layers.",
+    "url": "https://mydata-kamloops.opendata.arcgis.com/",
+    "tags": [
+      "kamloops",
+      "bc",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Kelowna Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Kelowna",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Download city datasets including zoning, property parcels, building footprints, tree inventory, parks, trails, and infrastructure as GeoJSON, shapefiles, or CSV",
+    "url": "https://opendata-kelowna.hub.arcgis.com/",
+    "tags": [
+      "Kelowna",
+      "BC",
+      "open data",
+      "GIS",
+      "zoning",
+      "property"
+    ]
+  },
+  {
+    "name": "Kingston Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Kingston",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Download property parcels, building footprints, transit routes, tree inventory, election wards, parks, and trails as GeoJSON, shapefiles, or CSV",
+    "url": "https://cityofkingston.hub.arcgis.com",
+    "tags": [
+      "open-data",
+      "municipal",
+      "gis",
+      "on"
+    ]
+  },
+  {
     "name": "Kitchener Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Kitchener",
@@ -4711,6 +6628,123 @@
       "open data",
       "Ontario",
       "GIS"
+    ]
+  },
+  {
+    "name": "Kitchener Open GIS Hub",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Kitchener GIS open data hub with property, schools, buildings, and planning layers.",
+    "url": "http://open-kitchenergis.opendata.arcgis.com/",
+    "tags": [
+      "kitchener",
+      "ontario",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Township of Langley Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Langley",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Township of Langley ArcGIS open data with property, parks, and municipal infrastructure layers.",
+    "url": "https://data-tol.opendata.arcgis.com/",
+    "tags": [
+      "langley",
+      "bc",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Laval Open Data (Données Québec)",
+    "level": "Municipal",
+    "jurisdiction": "Laval",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Laval datasets on Données Québec including libraries, buildings, parks, and civic infrastructure — CSV and API.",
+    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-laval/",
+    "tags": [
+      "laval",
+      "quebec",
+      "open data",
+      "ckan"
+    ]
+  },
+  {
+    "name": "Lethbridge Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Lethbridge",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Municipal open data for Lethbridge with property parcels, building footprints, transit routes, parks, and infrastructure datasets",
+    "url": "https://data-lethbridge.opendata.arcgis.com",
+    "tags": [
+      "open-data",
+      "municipal",
+      "gis",
+      "ab"
+    ]
+  },
+  {
+    "name": "London Open Data Catalogue",
+    "level": "Municipal",
+    "jurisdiction": "London",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "City of London open data catalogue with property, transportation, and planning datasets for bulk download.",
+    "url": "https://www.london.ca/city-hall/open-data/Pages/Open-Data-Data-Catalogue.aspx",
+    "tags": [
+      "london",
+      "ontario",
+      "open data"
+    ]
+  },
+  {
+    "name": "Longueuil Open Data (Données Québec)",
+    "level": "Municipal",
+    "jurisdiction": "Longueuil",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Ville de Longueuil open datasets on the Quebec provincial portal — buildings, parks, and municipal services data.",
+    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-longueuil/",
+    "tags": [
+      "longueuil",
+      "quebec",
+      "open data"
+    ]
+  },
+  {
+    "name": "Maple Ridge OpenGov",
+    "level": "Municipal",
+    "jurisdiction": "Maple Ridge",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "District of Maple Ridge open government data with parks, property, and infrastructure downloads.",
+    "url": "https://opengov.mapleridge.ca/",
+    "tags": [
+      "maple ridge",
+      "bc",
+      "open data"
+    ]
+  },
+  {
+    "name": "Markham Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Markham",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Markham ArcGIS open data including property, transportation, and recreation datasets.",
+    "url": "http://data-markham.opendata.arcgis.com/",
+    "tags": [
+      "markham",
+      "ontario",
+      "open data",
+      "arcgis"
     ]
   },
   {
@@ -4729,6 +6763,50 @@
     ]
   },
   {
+    "name": "Medicine Hat Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Medicine Hat",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Medicine Hat open data portal with GIS and civic datasets for southeastern Alberta.",
+    "url": "http://data.medicinehat.ca/",
+    "tags": [
+      "medicine hat",
+      "alberta",
+      "open data"
+    ]
+  },
+  {
+    "name": "Milton Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Milton",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Discover Milton ArcGIS Hub with civic datasets including property, zoning, and recreation — CSV and shapefile download.",
+    "url": "https://discover-milton.hub.arcgis.com/",
+    "tags": [
+      "milton",
+      "ontario",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Miramichi Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Miramichi",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Miramichi ArcGIS open data portal for northeastern New Brunswick.",
+    "url": "http://data.gis-sigmiramichi.opendata.arcgis.com/",
+    "tags": [
+      "miramichi",
+      "new brunswick",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
     "name": "Mississauga Open Data",
     "level": "Municipal",
     "jurisdiction": "Mississauga",
@@ -4742,16 +6820,136 @@
     ]
   },
   {
+    "name": "Moncton Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Moncton",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Download transit routes, zoning maps, parking, trail networks, construction projects, and environmental sensor data as GeoJSON, shapefiles, or CSV",
+    "url": "https://opendata-moncton.hub.arcgis.com/",
+    "tags": [
+      "Moncton",
+      "NB",
+      "open data",
+      "GIS",
+      "transit",
+      "trails"
+    ]
+  },
+  {
     "name": "Montreal Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Montreal",
     "category": "open-data",
     "type": "Open data portal",
-    "description": "Strong open data site with datasets, apps, and frequent updates",
+    "description": "Ville de Montréal open data site with hundreds of datasets — buildings, transit, elections, and civic services in CSV and API.",
     "url": "https://donnees.montreal.ca/",
     "tags": [
+      "montreal",
+      "quebec",
       "open data",
-      "Montreal"
+      "ckan"
+    ]
+  },
+  {
+    "name": "Nanaimo Open Data Catalogue",
+    "level": "Municipal",
+    "jurisdiction": "Nanaimo",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Municipal GIS and civic datasets for Nanaimo including property, parks, and infrastructure — bulk download available.",
+    "url": "https://data.nanaimo.ca/",
+    "tags": [
+      "nanaimo",
+      "bc",
+      "open data"
+    ]
+  },
+  {
+    "name": "New Westminster Open Data",
+    "level": "Municipal",
+    "jurisdiction": "New Westminster",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Download civic datasets for New Westminster including buildings, parks, and transportation in multiple formats.",
+    "url": "http://opendata.newwestcity.ca/",
+    "tags": [
+      "new westminster",
+      "bc",
+      "open data"
+    ]
+  },
+  {
+    "name": "Newmarket Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Newmarket",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Town of Newmarket open data navigator with property, recreation, and civic datasets.",
+    "url": "http://open.newmarket.ca/",
+    "tags": [
+      "newmarket",
+      "ontario",
+      "open data"
+    ]
+  },
+  {
+    "name": "Niagara Falls Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Niagara Falls",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Niagara Falls open data service with downloadable municipal datasets.",
+    "url": "https://www.niagarafalls.ca/services/open/data",
+    "tags": [
+      "niagara falls",
+      "ontario",
+      "open data"
+    ]
+  },
+  {
+    "name": "Norfolk County Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Norfolk County",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Norfolk County ArcGIS open data including building footprints and civic datasets.",
+    "url": "http://opendata.norfolkcounty.ca/",
+    "tags": [
+      "norfolk",
+      "ontario",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Oakville Explore Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Oakville",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Town of Oakville ArcGIS open data portal with zoning, property, and municipal infrastructure layers.",
+    "url": "https://portal-exploreoakville.opendata.arcgis.com/",
+    "tags": [
+      "oakville",
+      "ontario",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Oshawa Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Oshawa",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Oshawa ArcGIS open data catalogue with civic, transportation, and planning layers.",
+    "url": "https://city-oshawa.opendata.arcgis.com/",
+    "tags": [
+      "oshawa",
+      "ontario",
+      "open data",
+      "arcgis"
     ]
   },
   {
@@ -4794,6 +6992,122 @@
     ]
   },
   {
+    "name": "Peterborough Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Peterborough",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Peterborough ArcGIS open data hub with civic and spatial datasets.",
+    "url": "http://data-ptbo.opendata.arcgis.com/",
+    "tags": [
+      "peterborough",
+      "ontario",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Pickering Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Pickering",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Pickering open data portal with civic and GIS datasets for Durham Region.",
+    "url": "http://opendata.pickering.ca/",
+    "tags": [
+      "pickering",
+      "ontario",
+      "open data"
+    ]
+  },
+  {
+    "name": "Prince George Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Prince George",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Prince George ArcGIS Hub with parcels, zoning, utilities, and recreation datasets for download.",
+    "url": "https://data-cityofpg.opendata.arcgis.com/",
+    "tags": [
+      "prince george",
+      "bc",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Quebec City Open Data (Données Québec)",
+    "level": "Municipal",
+    "jurisdiction": "Quebec City",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Ville de Québec datasets on Données Québec including libraries, GTFS, buildings, and civic infrastructure.",
+    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-quebec/",
+    "tags": [
+      "quebec city",
+      "quebec",
+      "open data",
+      "gtfs"
+    ]
+  },
+  {
+    "name": "Red Deer Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Red Deer",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Red Deer datasets including property, transportation, and recreation — browse and download with API options.",
+    "url": "http://data.reddeer.ca/",
+    "tags": [
+      "red deer",
+      "alberta",
+      "open data"
+    ]
+  },
+  {
+    "name": "Regina Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "CKAN open government portal for Regina with property, recreation, and civic datasets.",
+    "url": "http://open.regina.ca/",
+    "tags": [
+      "regina",
+      "saskatchewan",
+      "open data",
+      "ckan"
+    ]
+  },
+  {
+    "name": "Regina Open Data Catalogue",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "City of Regina CKAN open data with civic datasets including parcels, infrastructure, and community indicators.",
+    "url": "https://opendata.regina.ca/",
+    "tags": [
+      "regina",
+      "open data",
+      "ckan"
+    ]
+  },
+  {
+    "name": "Repentigny Open Data (Données Québec)",
+    "level": "Municipal",
+    "jurisdiction": "Repentigny",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Ville de Repentigny open datasets on Données Québec — buildings, parks, and municipal services.",
+    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-repentigny/",
+    "tags": [
+      "repentigny",
+      "quebec",
+      "open data"
+    ]
+  },
+  {
     "name": "Richmond Hill Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Richmond Hill",
@@ -4809,16 +7123,198 @@
     ]
   },
   {
+    "name": "Rimouski Open Data (Données Québec)",
+    "level": "Municipal",
+    "jurisdiction": "Rimouski",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Ville de Rimouski municipal datasets on Données Québec including buildings and civic infrastructure.",
+    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-rimouski/",
+    "tags": [
+      "rimouski",
+      "quebec",
+      "open data"
+    ]
+  },
+  {
+    "name": "Rouyn-Noranda Open Data (Données Québec)",
+    "level": "Municipal",
+    "jurisdiction": "Rouyn-Noranda",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Ville de Rouyn-Noranda datasets on Données Québec with civic and geospatial downloads.",
+    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-rouyn-noranda/",
+    "tags": [
+      "rouyn-noranda",
+      "quebec",
+      "open data"
+    ]
+  },
+  {
+    "name": "Saanich Open Data Catalogue",
+    "level": "Municipal",
+    "jurisdiction": "Saanich",
+    "category": "open-data",
+    "type": "Data catalogue",
+    "description": "District of Saanich GIS data catalogue with parks, roads, zoning, and environmental datasets for download.",
+    "url": "https://www.saanich.ca/EN/main/local-government/data-catalogue-1.html",
+    "tags": [
+      "saanich",
+      "bc",
+      "open data",
+      "gis"
+    ]
+  },
+  {
+    "name": "Saint John Open Data Catalogue",
+    "level": "Municipal",
+    "jurisdiction": "Saint John",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "ArcGIS open data catalogue for Saint John with civic, planning, and infrastructure datasets.",
+    "url": "https://catalogue-saintjohn.opendata.arcgis.com/",
+    "tags": [
+      "saint john",
+      "new brunswick",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
     "name": "Saskatoon Open Data",
     "level": "Municipal",
     "jurisdiction": "Saskatoon",
     "category": "open-data",
     "type": "Open data portal",
-    "description": "Data portal with city datasets and maps",
+    "description": "City of Saskatoon open data catalogue with transit GTFS, property, and civic datasets — browse and download via the municipal portal.",
     "url": "https://opendata.saskatoon.ca/",
     "tags": [
+      "saskatoon",
+      "saskatchewan",
       "open data",
-      "Saskatoon"
+      "gtfs"
+    ]
+  },
+  {
+    "name": "Saskatoon Open Data — Building and Development",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "open-data",
+    "type": "Planning datasets",
+    "description": "Saskatoon planning and development datasets including zoning and development activity on the city open data hub.",
+    "url": "https://opendata-saskatoon.spatial.epicore.com/",
+    "tags": [
+      "saskatoon",
+      "planning",
+      "open data",
+      "development"
+    ]
+  },
+  {
+    "name": "Shawinigan Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Shawinigan",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "ArcGIS Hub for Ville de Shawinigan with civic and spatial datasets for the Mauricie region.",
+    "url": "http://donnees-shawinigan.opendata.arcgis.com/",
+    "tags": [
+      "shawinigan",
+      "quebec",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Sherbrooke Open Data (Données Québec)",
+    "level": "Municipal",
+    "jurisdiction": "Sherbrooke",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Sherbrooke municipal datasets including GTFS transit, buildings, and civic data via Données Québec.",
+    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-sherbrooke/",
+    "tags": [
+      "sherbrooke",
+      "quebec",
+      "open data",
+      "gtfs"
+    ]
+  },
+  {
+    "name": "St. Albert Open Data",
+    "level": "Municipal",
+    "jurisdiction": "St. Albert",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Municipal open data for St. Albert including civic datasets and transit GTFS developer resources.",
+    "url": "https://data.stalbert.ca/",
+    "tags": [
+      "st. albert",
+      "alberta",
+      "open data",
+      "gtfs"
+    ]
+  },
+  {
+    "name": "St. Catharines Open Data (Niagara)",
+    "level": "Municipal",
+    "jurisdiction": "St. Catharines",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "St. Catharines datasets on Niagara Open Data — property, recreation, and civic layers.",
+    "url": "https://niagaraopendata.ca/organization/city-of-st-catharines",
+    "tags": [
+      "st. catharines",
+      "ontario",
+      "open data",
+      "niagara"
+    ]
+  },
+  {
+    "name": "Strathcona County Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Strathcona County",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Socrata open data portal for Strathcona County with parcels, transit GTFS, buildings, and recreation datasets.",
+    "url": "https://data.strathcona.ca/",
+    "tags": [
+      "strathcona",
+      "alberta",
+      "open data",
+      "socrata",
+      "gtfs"
+    ]
+  },
+  {
+    "name": "Surrey Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Surrey",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "CKAN portal with building footprints, parks, transportation, and health datasets — CSV, GeoJSON, and API export.",
+    "url": "https://data.surrey.ca/",
+    "tags": [
+      "surrey",
+      "bc",
+      "open data",
+      "ckan",
+      "geojson"
+    ]
+  },
+  {
+    "name": "Thunder Bay Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Municipal datasets for Thunder Bay including property parcels, building footprints, transit routes, parks, zoning, and infrastructure available for bulk download",
+    "url": "https://opendata-thunderbay.hub.arcgis.com",
+    "tags": [
+      "open-data",
+      "municipal",
+      "gis",
+      "on"
     ]
   },
   {
@@ -4876,6 +7372,21 @@
     ]
   },
   {
+    "name": "Victoria Open Data — Parks and Recreation",
+    "level": "Municipal",
+    "jurisdiction": "Victoria",
+    "category": "open-data",
+    "type": "Parks dataset",
+    "description": "Parks, trails, and recreation facility datasets on the City of Victoria open data portal.",
+    "url": "https://opendata.victoria.ca/browse?category=Parks+%26+Recreation",
+    "tags": [
+      "victoria",
+      "parks",
+      "open data",
+      "recreation"
+    ]
+  },
+  {
     "name": "Victoria Open Data Catalogue",
     "level": "Municipal",
     "jurisdiction": "Victoria",
@@ -4889,6 +7400,110 @@
     ]
   },
   {
+    "name": "Waterloo City Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Waterloo",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Waterloo ArcGIS open data with civic boundaries, property, and infrastructure datasets.",
+    "url": "http://opendata.city-of-waterloo.opendata.arcgis.com/",
+    "tags": [
+      "waterloo",
+      "ontario",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Welland Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Welland",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Welland open data portal with civic and GIS datasets for Niagara Region.",
+    "url": "https://www.welland.ca/open/Opendata.asp",
+    "tags": [
+      "welland",
+      "ontario",
+      "open data",
+      "niagara"
+    ]
+  },
+  {
+    "name": "Whistler Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Whistler",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Resort Municipality of Whistler spatial and civic datasets including trails, zoning, and recreation amenities.",
+    "url": "https://portal-rmow.opendata.arcgis.com/",
+    "tags": [
+      "whistler",
+      "bc",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "White Rock Open Data",
+    "level": "Municipal",
+    "jurisdiction": "White Rock",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of White Rock CKAN open data catalogue with municipal GIS datasets.",
+    "url": "http://data.whiterockcity.ca/",
+    "tags": [
+      "white rock",
+      "bc",
+      "open data",
+      "ckan"
+    ]
+  },
+  {
+    "name": "Whitehorse Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Whitehorse",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Spatial datasets for Whitehorse including contours, parcels, roads, and aerial imagery in SHP, DWG, and KML formats.",
+    "url": "https://data.whitehorse.ca/",
+    "tags": [
+      "whitehorse",
+      "yukon",
+      "open data",
+      "shapefile"
+    ]
+  },
+  {
+    "name": "Windsor Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Windsor",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Windsor open data portal with civic, property, and infrastructure datasets.",
+    "url": "https://opendata.citywindsor.ca/",
+    "tags": [
+      "windsor",
+      "ontario",
+      "open data"
+    ]
+  },
+  {
+    "name": "Winnipeg Crime Stat — Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "open-data",
+    "type": "Crime statistics",
+    "description": "Winnipeg Police Service crime statistics datasets on the municipal open data portal — filter and export by type and district.",
+    "url": "https://data.winnipeg.ca/browse?category=Public+Safety",
+    "tags": [
+      "winnipeg",
+      "crime",
+      "police",
+      "open data"
+    ]
+  },
+  {
     "name": "Winnipeg Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Winnipeg",
@@ -4899,6 +7514,21 @@
     "tags": [
       "open data",
       "Winnipeg"
+    ]
+  },
+  {
+    "name": "Yellowknife Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Yellowknife",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "City of Yellowknife spatial open data for GIS users — zoning, infrastructure, and base map layers.",
+    "url": "http://opendata.yellowknife.ca/",
+    "tags": [
+      "yellowknife",
+      "northwest territories",
+      "open data",
+      "gis"
     ]
   },
   {
@@ -5580,6 +8210,343 @@
     ]
   },
   {
+    "name": "Barrie Planning & Development Map",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "planning-zoning",
+    "type": "Planning map",
+    "description": "Map layers for active building permits, zoning, official plan land use, and planning applications in Barrie.",
+    "url": "https://gispublic.barrie.ca/arcgis/rest/services/Public/PlanningDevelopment_SM_Dynamic/MapServer",
+    "tags": [
+      "barrie",
+      "planning",
+      "zoning",
+      "building permits",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Calgary Building Permits",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "planning-zoning",
+    "type": "Building permits dataset",
+    "description": "Search and download building permit records from Open Calgary — filter by date, community, and permit type with API access.",
+    "url": "https://data.calgary.ca/browse?category=Building+Permits",
+    "tags": [
+      "calgary",
+      "building permits",
+      "open data",
+      "api",
+      "csv"
+    ]
+  },
+  {
+    "name": "Coquitlam Planning and Development Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Coquitlam",
+    "category": "planning-zoning",
+    "type": "Planning datasets",
+    "description": "Zoning, development permit areas, neighbourhood plans, and planning boundaries for Coquitlam — download via ArcGIS Hub.",
+    "url": "https://data.coquitlam.ca/datasets/Coquitlam::planning-and-development-1",
+    "tags": [
+      "coquitlam",
+      "zoning",
+      "planning",
+      "development",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Edmonton Development Permits Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "planning-zoning",
+    "type": "Development permits",
+    "description": "Development permit records on the Edmonton Open Data Portal — search by community, permit type, and status with Socrata API export.",
+    "url": "https://data.edmonton.ca/browse?category=Planning+%26+Development",
+    "tags": [
+      "edmonton",
+      "development permits",
+      "planning",
+      "open data"
+    ]
+  },
+  {
+    "name": "Edmonton Zoning Map — Development Permits",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "planning-zoning",
+    "type": "Development permit map",
+    "description": "Interactive zoning map layer showing development permit applications with applicant, location, and job description fields.",
+    "url": "https://gis.edmonton.ca/site1/rest/services/VertiGIS/ZoningMap/MapServer",
+    "tags": [
+      "edmonton",
+      "development permits",
+      "zoning",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Hamilton Building Permits Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "planning-zoning",
+    "type": "Building permits dataset",
+    "description": "Issued building permits and related planning datasets on Open Hamilton — filter, map, and download via ArcGIS Hub.",
+    "url": "https://open.hamilton.ca/datasets?q=building%20permit",
+    "tags": [
+      "hamilton",
+      "building permits",
+      "open data",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Hamilton Development Applications Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "planning-zoning",
+    "type": "Development applications",
+    "description": "Active development applications and planning status layers published on the City of Hamilton open data portal.",
+    "url": "https://open.hamilton.ca/datasets?q=development%20application",
+    "tags": [
+      "hamilton",
+      "development applications",
+      "planning",
+      "open data"
+    ]
+  },
+  {
+    "name": "Kamloops Planning & Zoning Map",
+    "level": "Municipal",
+    "jurisdiction": "Kamloops",
+    "category": "planning-zoning",
+    "type": "Planning map",
+    "description": "Zoning districts, development permit areas, and planning development layers for Kamloops via CityMap GIS services.",
+    "url": "https://maps.kamloops.ca/arcgis/rest/services/CityMap/CityMap_PlanningDevelopment/MapServer",
+    "tags": [
+      "kamloops",
+      "zoning",
+      "development",
+      "arcgis",
+      "bc"
+    ]
+  },
+  {
+    "name": "Kelowna Building Permits Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Kelowna",
+    "category": "planning-zoning",
+    "type": "Building permits",
+    "description": "Building permit issuance data for Kelowna on the municipal open data hub — filter by date, type, and neighbourhood.",
+    "url": "https://opendata.kelowna.ca/",
+    "tags": [
+      "kelowna",
+      "bc",
+      "building permits",
+      "open data"
+    ]
+  },
+  {
+    "name": "Mississauga Building Permits Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "planning-zoning",
+    "type": "Building permits",
+    "description": "Search and download Mississauga building permit data from the open data catalogue with API access.",
+    "url": "https://data.mississauga.ca/browse?category=Building+Permits",
+    "tags": [
+      "mississauga",
+      "building permits",
+      "open data",
+      "api"
+    ]
+  },
+  {
+    "name": "Montreal Building Permits Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "planning-zoning",
+    "type": "Building permits dataset",
+    "description": "Construction, transformation, and demolition permits issued by Montreal boroughs — download CSV, GeoJSON, or SHP from Données Montréal.",
+    "url": "https://donnees.montreal.ca/dataset/permis-construction",
+    "tags": [
+      "montreal",
+      "building permits",
+      "open data",
+      "quebec"
+    ]
+  },
+  {
+    "name": "Ottawa Development Applications Map",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "planning-zoning",
+    "type": "Development applications map",
+    "description": "Query development applications subject to public consultation on a map; links to posting plans. ArcGIS REST supports JSON and GeoJSON export.",
+    "url": "https://maps.ottawa.ca/arcgis/rest/services/Development_Applications/MapServer",
+    "tags": [
+      "ottawa",
+      "development applications",
+      "zoning",
+      "arcgis",
+      "geojson"
+    ]
+  },
+  {
+    "name": "Ottawa Zoning Map Service",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "planning-zoning",
+    "type": "Zoning map",
+    "description": "Official City of Ottawa zoning layers including by-law zones, overlays, and village plans. Export and identify parcels via ArcGIS map service.",
+    "url": "https://maps.ottawa.ca/arcgis/rest/services/Zoning/MapServer",
+    "tags": [
+      "ottawa",
+      "zoning",
+      "by-law",
+      "arcgis",
+      "shapefile"
+    ]
+  },
+  {
+    "name": "Quebec City Building Permits Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Quebec City",
+    "category": "planning-zoning",
+    "type": "Building permits",
+    "description": "Quebec City construction and renovation permits on the municipal open data portal.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset?organization=ville-de-quebec",
+    "tags": [
+      "quebec city",
+      "building permits",
+      "open data"
+    ]
+  },
+  {
+    "name": "Toronto Application Information Centre",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "planning-zoning",
+    "type": "Development application search",
+    "description": "Map-based search for active and closed development applications, Committee of Adjustment minor variances, rezonings, and site plan control with downloadable supporting documents.",
+    "url": "https://www.toronto.ca/city-government/planning-development/application-information-centre/",
+    "tags": [
+      "toronto",
+      "planning",
+      "committee of adjustment",
+      "development applications"
+    ]
+  },
+  {
+    "name": "Toronto Building Permits — Cleared Permits",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "planning-zoning",
+    "type": "Building permits dataset",
+    "description": "Download cleared building permits since 2000 as CSV or JSON — permit type, dates, address, and construction value for completed permits.",
+    "url": "https://open.toronto.ca/dataset/building-permits-cleared-permits/",
+    "tags": [
+      "toronto",
+      "building permits",
+      "csv",
+      "json",
+      "construction"
+    ]
+  },
+  {
+    "name": "Toronto Development Applications (IBMS)",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "planning-zoning",
+    "type": "Development application tracker",
+    "description": "Point layer of active planning applications with status, type, hearing dates, and links to application details. Queryable via ArcGIS FeatureServer.",
+    "url": "https://gis.toronto.ca/arcgis/rest/services/cot_geospatial11/FeatureServer/60",
+    "tags": [
+      "toronto",
+      "development applications",
+      "planning",
+      "arcgis",
+      "api"
+    ]
+  },
+  {
+    "name": "Toronto Zoning By-law Map",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "planning-zoning",
+    "type": "Zoning map",
+    "description": "Zoning area polygons, overlays, and labels for Toronto properties. Use with City planning layers for land-use and height rules.",
+    "url": "https://gis.toronto.ca/arcgis/rest/services/cot_geospatial11/FeatureServer/3",
+    "tags": [
+      "toronto",
+      "zoning",
+      "arcgis",
+      "geojson"
+    ]
+  },
+  {
+    "name": "Vancouver Building Permits Issued",
+    "level": "Municipal",
+    "jurisdiction": "Vancouver",
+    "category": "planning-zoning",
+    "type": "Building permits dataset",
+    "description": "Open data on issued building permits in Vancouver with project type, value, and address fields.",
+    "url": "https://opendata.vancouver.ca/explore/dataset/issued-building-permits/",
+    "tags": [
+      "vancouver",
+      "building permits",
+      "construction",
+      "csv"
+    ]
+  },
+  {
+    "name": "Vancouver Zoning & Land Use Districts",
+    "level": "Municipal",
+    "jurisdiction": "Vancouver",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Download zoning district boundaries and schedules from the Vancouver Open Data Portal for GIS analysis and property lookups.",
+    "url": "https://opendata.vancouver.ca/explore/?disjunctive.zoning&sort=modified",
+    "tags": [
+      "vancouver",
+      "zoning",
+      "land use",
+      "open data",
+      "geojson"
+    ]
+  },
+  {
+    "name": "Victoria Building Permits Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Victoria",
+    "category": "planning-zoning",
+    "type": "Building permits",
+    "description": "Issued building and development permits on the City of Victoria open data catalogue with map and CSV export.",
+    "url": "https://opendata.victoria.ca/browse?category=Planning",
+    "tags": [
+      "victoria",
+      "bc",
+      "building permits",
+      "open data"
+    ]
+  },
+  {
+    "name": "Winnipeg Building Permits Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "planning-zoning",
+    "type": "Building permits",
+    "description": "Building permit datasets on Winnipeg Open Data — issued permits with addresses, values, and permit categories for download.",
+    "url": "https://data.winnipeg.ca/browse?category=Planning%2C+Property+%26+Development",
+    "tags": [
+      "winnipeg",
+      "building permits",
+      "open data"
+    ]
+  },
+  {
     "name": "Alert Ready — National Public Alerting System",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -5738,6 +8705,192 @@
     "tags": [
       "Toronto",
       "crime"
+    ]
+  },
+  {
+    "name": "Open Database of Educational Facilities (ODEF)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "school-board",
+    "type": "National school dataset",
+    "description": "Harmonized open data on ~19,000 Canadian educational facilities with addresses and coordinates — CSV under Open Government Licence.",
+    "url": "https://www150.statcan.gc.ca/n1/en/type/data/lode/odef",
+    "tags": [
+      "canada",
+      "schools",
+      "facilities",
+      "csv",
+      "statcan"
+    ]
+  },
+  {
+    "name": "Alberta Education — School Directory and Maps",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "school-board",
+    "type": "School directory",
+    "description": "Alberta school authority listings, school locations, and jurisdictional boundary information for public schools.",
+    "url": "https://www.alberta.ca/school-authority-contact-list",
+    "tags": [
+      "alberta",
+      "schools",
+      "directory",
+      "education"
+    ]
+  },
+  {
+    "name": "BC Public Schools — Location Data",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "school-board",
+    "type": "School locations",
+    "description": "Point locations of BC public schools from provincial open data — download for mapping catchments and facility analysis.",
+    "url": "https://catalogue.data.gov.bc.ca/dataset/bc-schools",
+    "tags": [
+      "bc",
+      "schools",
+      "geojson"
+    ]
+  },
+  {
+    "name": "BC School Districts (Spatial)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "school-board",
+    "type": "Boundary dataset",
+    "description": "Polygon boundaries of BC school districts under the School Act — download shapefile, KML, or access WMS/WFS services.",
+    "url": "https://catalogue.data.gov.bc.ca/dataset/school-districts-of-bc",
+    "tags": [
+      "bc",
+      "school districts",
+      "boundaries",
+      "shapefile",
+      "wms"
+    ]
+  },
+  {
+    "name": "Ontario Public School Contact Information",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "school-board",
+    "type": "School directory",
+    "description": "Contact information for publicly funded Ontario schools including board, school number, level, and language. CSV export.",
+    "url": "https://data.ontario.ca/dataset/ontario-public-school-contact-information",
+    "tags": [
+      "ontario",
+      "schools",
+      "directory",
+      "csv"
+    ]
+  },
+  {
+    "name": "Ontario School Board Boundaries — Scholars GeoPortal",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "school-board",
+    "type": "Boundary shapefiles",
+    "description": "English and French public and separate school board boundary shapefiles for Ontario — download via Scholars GeoPortal.",
+    "url": "http://geo.scholarsportal.info/#r/details/_uri@=1011603538",
+    "tags": [
+      "ontario",
+      "school boards",
+      "boundaries",
+      "shapefile",
+      "gis"
+    ]
+  },
+  {
+    "name": "Ontario School Enrolment by Grade",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "school-board",
+    "type": "Enrolment dataset",
+    "description": "Annual school-level enrolment by grade from OnSIS October submission — filter by board, school type, and language. CSV download.",
+    "url": "https://data.ontario.ca/dataset/school-enrolment-by-grade",
+    "tags": [
+      "ontario",
+      "enrolment",
+      "schools",
+      "csv",
+      "education"
+    ]
+  },
+  {
+    "name": "Ontario School Information and Demographics",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "school-board",
+    "type": "School profiles dataset",
+    "description": "Board and school contact data plus EQAO achievement indicators by school — download consolidated CSV for analysis.",
+    "url": "https://data.ontario.ca/dataset/school-information-and-student-demographics",
+    "tags": [
+      "ontario",
+      "schools",
+      "eqao",
+      "demographics",
+      "csv"
+    ]
+  },
+  {
+    "name": "Quebec School Network Locations",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "school-board",
+    "type": "School locations dataset",
+    "description": "Geolocated elementary and secondary schools on the Quebec open data portal — filter by network, level, and region. CSV and API.",
+    "url": "https://www.donneesquebec.ca/recherche/fr/dataset/localisation-des-etablissements-d-enseignement-du-reseau-scolaire-au-quebec",
+    "tags": [
+      "quebec",
+      "schools",
+      "locations",
+      "csv",
+      "education"
+    ]
+  },
+  {
+    "name": "Calgary Board of Education — School Directory",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "school-board",
+    "type": "School directory",
+    "description": "Search Calgary Board of Education schools by program, grade, and community with contact and boundary information.",
+    "url": "https://www.cbe.ab.ca/schools/Pages/default.aspx",
+    "tags": [
+      "calgary",
+      "cbe",
+      "schools",
+      "directory"
+    ]
+  },
+  {
+    "name": "TDSB Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "school-board",
+    "type": "School board open data",
+    "description": "Toronto District School Board open data policy portal — research datasets, census results, and public reports where publishable.",
+    "url": "https://www.tdsb.on.ca/Open-Data",
+    "tags": [
+      "tdsb",
+      "toronto",
+      "schools",
+      "open data",
+      "education"
+    ]
+  },
+  {
+    "name": "Vancouver School Board — School Information",
+    "level": "Municipal",
+    "jurisdiction": "Vancouver",
+    "category": "school-board",
+    "type": "School directory",
+    "description": "Vancouver School District school finder with programs, catchments, and facility information for public schools.",
+    "url": "https://www.vsb.bc.ca/schools",
+    "tags": [
+      "vancouver",
+      "vsb",
+      "schools",
+      "directory"
     ]
   },
   {
@@ -6144,6 +9297,37 @@
     ]
   },
   {
+    "name": "Canadian Public Transit Network Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "transit",
+    "type": "National GTFS archive",
+    "description": "Statistics Canada consolidated national GTFS collection with validation reports and geospatial exports for cross-agency transit analysis.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/23-26-0003/232600032025001-eng.htm",
+    "tags": [
+      "canada",
+      "gtfs",
+      "transit",
+      "statcan",
+      "national"
+    ]
+  },
+  {
+    "name": "BC Transit Open Data (GTFS)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "GTFS feeds",
+    "description": "GTFS schedule files for BC Transit systems outside Metro Vancouver — download by community or region for provincial transit apps.",
+    "url": "https://www.bctransit.com/open-data",
+    "tags": [
+      "bc",
+      "gtfs",
+      "transit",
+      "bctransit"
+    ]
+  },
+  {
     "name": "Brampton Transit",
     "level": "Regional",
     "jurisdiction": "Brampton",
@@ -6209,6 +9393,21 @@
     ]
   },
   {
+    "name": "Halifax Transit GTFS",
+    "level": "Regional",
+    "jurisdiction": "Halifax",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Halifax Transit GTFS schedule data available from the HRM open data catalogue.",
+    "url": "https://www.halifax.ca/transportation/halifax-transit/open-data",
+    "tags": [
+      "halifax",
+      "gtfs",
+      "transit",
+      "open data"
+    ]
+  },
+  {
     "name": "Hamilton Street Railway (HSR)",
     "level": "Regional",
     "jurisdiction": "Hamilton",
@@ -6232,6 +9431,22 @@
     "tags": [
       "transit",
       "London"
+    ]
+  },
+  {
+    "name": "TransLink GTFS Data",
+    "level": "Regional",
+    "jurisdiction": "Metro Vancouver",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "GTFS schedule and real-time transit feed downloads for Metro Vancouver bus, SkyTrain, SeaBus, and West Coast Express.",
+    "url": "https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources/gtfs-data",
+    "tags": [
+      "vancouver",
+      "translink",
+      "gtfs",
+      "real-time",
+      "transit"
     ]
   },
   {
@@ -6261,6 +9476,22 @@
     ]
   },
   {
+    "name": "Exo GTFS (Montreal Region)",
+    "level": "Regional",
+    "jurisdiction": "Montreal",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Exo commuter rail and bus GTFS feeds for Greater Montreal suburbs on Données Québec.",
+    "url": "https://exo.quebec/en/about/open-data",
+    "tags": [
+      "montreal",
+      "exo",
+      "gtfs",
+      "commuter",
+      "quebec"
+    ]
+  },
+  {
     "name": "Metrolinx Triplinx",
     "level": "Regional",
     "jurisdiction": "Ontario",
@@ -6284,6 +9515,21 @@
     "tags": [
       "Durham",
       "transit"
+    ]
+  },
+  {
+    "name": "Durham Region Transit — GTFS",
+    "level": "Regional",
+    "jurisdiction": "Ontario/GTA",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "DRT static GTFS schedule package for Durham Region bus routes — direct ZIP download from regional open data.",
+    "url": "https://maps.durham.ca/OpenDataGTFS/GTFS_Durham_TXT.zip",
+    "tags": [
+      "drt",
+      "durham",
+      "gtfs",
+      "open data"
     ]
   },
   {
@@ -6339,6 +9585,22 @@
     ]
   },
   {
+    "name": "OC Transpo GTFS Feed",
+    "level": "Regional",
+    "jurisdiction": "Ottawa",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Official OC Transpo GTFS static feed download and real-time API documentation for Ottawa transit",
+    "url": "https://www.octranspo.com/en/plan-your-trip/travel-tools#GTFS",
+    "tags": [
+      "Ottawa",
+      "transit",
+      "GTFS",
+      "OC Transpo",
+      "real-time"
+    ]
+  },
+  {
     "name": "Regina Transit",
     "level": "Regional",
     "jurisdiction": "Regina",
@@ -6349,6 +9611,22 @@
     "tags": [
       "transit",
       "Regina"
+    ]
+  },
+  {
+    "name": "Grand River Transit — GTFS Open Data",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "GRT static GTFS plus real-time vehicle positions, trip updates, and service alerts from the Region of Waterloo open data portal.",
+    "url": "https://www.grt.ca/about-grt/open-data/",
+    "tags": [
+      "grt",
+      "waterloo",
+      "gtfs",
+      "open data",
+      "real-time"
     ]
   },
   {
@@ -6378,6 +9656,155 @@
     ]
   },
   {
+    "name": "York Region Transit — GTFS Open Data",
+    "level": "Regional",
+    "jurisdiction": "York Region",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "YRT/Viva GTFS and real-time GTFS packages for developers — request download after accepting the open data licence.",
+    "url": "https://www.yrt.ca/en/about-us/open-data.aspx",
+    "tags": [
+      "yrt",
+      "york region",
+      "gtfs",
+      "open data"
+    ]
+  },
+  {
+    "name": "Barrie Transit GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Direct download of Barrie Transit GTFS.zip from the City website for routes, stops, and schedule data.",
+    "url": "https://www.barrie.ca/Living/Getting%20Around/BarrieTransit/Pages/Barrie-GTFS.aspx",
+    "tags": [
+      "barrie",
+      "gtfs",
+      "transit"
+    ]
+  },
+  {
+    "name": "Brampton Transit — GTFS (GeoHub)",
+    "level": "Municipal",
+    "jurisdiction": "Brampton",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Brampton Transit schedule GTFS ZIP on the City GeoHub — routes, stops, stop times, and shapes for Züm and local service.",
+    "url": "https://geohub.brampton.ca/datasets/a355aabd5a8c490186bdce559c9c75fb",
+    "tags": [
+      "brampton",
+      "transit",
+      "gtfs",
+      "geohub"
+    ]
+  },
+  {
+    "name": "Burlington Transit — GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Burlington",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Burlington Transit GTFS feed for routes, stops, and schedules from the municipal open data program.",
+    "url": "https://www.burlington.ca/en/news/open-data.aspx",
+    "tags": [
+      "burlington",
+      "transit",
+      "gtfs",
+      "open data"
+    ]
+  },
+  {
+    "name": "Calgary Transit GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Download Calgary Transit GTFS.zip with routes, stops, and schedules from the City developer resources page.",
+    "url": "https://www.calgary.ca/transportation/tp/gtfs.html",
+    "tags": [
+      "calgary",
+      "gtfs",
+      "transit",
+      "csv"
+    ]
+  },
+  {
+    "name": "Edmonton ETS GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "ETS GTFS static feed and developer documentation for Edmonton transit routes, stops, and schedules.",
+    "url": "https://www.edmonton.ca/etsbc/ets/ets-data-for-web-developers",
+    "tags": [
+      "edmonton",
+      "gtfs",
+      "ets",
+      "transit"
+    ]
+  },
+  {
+    "name": "Guelph Transit — GTFS Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Guelph Transit GTFS schedule data published on the City open data catalogue for app developers.",
+    "url": "http://data.open.guelph.ca/dataset/guelph-transit-gtfs",
+    "tags": [
+      "guelph",
+      "transit",
+      "gtfs",
+      "open data"
+    ]
+  },
+  {
+    "name": "Hamilton Street Railway GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "HSR GTFS static schedule data for Hamilton transit routes and stops.",
+    "url": "https://www.hamilton.ca/city-initiatives/strategies-actions/open-data-catalogue",
+    "tags": [
+      "hamilton",
+      "gtfs",
+      "transit",
+      "hsr"
+    ]
+  },
+  {
+    "name": "London Transit Commission GTFS",
+    "level": "Municipal",
+    "jurisdiction": "London",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "LTC GTFS feed download for London, Ontario bus routes, stops, and schedules.",
+    "url": "https://www.londontransit.ca/open-data/",
+    "tags": [
+      "london",
+      "gtfs",
+      "transit",
+      "ontario"
+    ]
+  },
+  {
+    "name": "MiWay — GTFS Developer Download",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "MiWay scheduled GTFS and GTFS-Realtime feeds (vehicle positions, trip updates, alerts) for third-party transit apps.",
+    "url": "https://www.mississauga.ca/miway-transit/developer-download/",
+    "tags": [
+      "miway",
+      "mississauga",
+      "gtfs",
+      "real-time"
+    ]
+  },
+  {
     "name": "MiWay — Mississauga Transit",
     "level": "Municipal",
     "jurisdiction": "Mississauga",
@@ -6404,6 +9831,22 @@
     ]
   },
   {
+    "name": "STM Montreal GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Société de transport de Montréal GTFS feed and API documentation for developers building trip planners and analysis tools.",
+    "url": "https://www.stm.info/en/about/developers",
+    "tags": [
+      "montreal",
+      "stm",
+      "gtfs",
+      "transit",
+      "api"
+    ]
+  },
+  {
     "name": "Thunder Bay Transit",
     "level": "Municipal",
     "jurisdiction": "Ontario",
@@ -6414,6 +9857,22 @@
     "tags": [
       "transit",
       "Northern Ontario"
+    ]
+  },
+  {
+    "name": "STO — GTFS Open Data (Gatineau)",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Société de transport de l’Outaouais planned GTFS download plus GTFS-Realtime API key registration for alerts and vehicle positions.",
+    "url": "https://www.sto.ca/en/business/developer-space-open-data/",
+    "tags": [
+      "sto",
+      "gatineau",
+      "gtfs",
+      "quebec",
+      "open data"
     ]
   },
   {
@@ -6443,6 +9902,21 @@
     ]
   },
   {
+    "name": "RTC Québec — GTFS Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Quebec City",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Réseau de transport de la Capitale GTFS schedules and route shapes for Quebec City transit — direct download from RTC open data.",
+    "url": "https://www.rtcquebec.ca/en/open-data",
+    "tags": [
+      "rtc",
+      "quebec city",
+      "gtfs",
+      "open data"
+    ]
+  },
+  {
     "name": "Saskatoon Transit",
     "level": "Municipal",
     "jurisdiction": "Saskatoon",
@@ -6452,6 +9926,21 @@
     "url": "https://saskatoontransit.ca/",
     "tags": [
       "Saskatoon",
+      "transit"
+    ]
+  },
+  {
+    "name": "Saskatoon Transit Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "transit",
+    "type": "GTFS and real-time",
+    "description": "GTFS static downloads plus real-time trip updates and vehicle positions for Saskatoon Transit developer applications.",
+    "url": "https://www.saskatoon.ca/moving-around/transit/open-data-saskatoon-transit",
+    "tags": [
+      "saskatoon",
+      "gtfs",
+      "real-time",
       "transit"
     ]
   },
@@ -6469,6 +9958,22 @@
     ]
   },
   {
+    "name": "Toronto TTC GTFS Feed",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Official TTC GTFS static schedule feed for routes, stops, and trips — download zip from the Open Data Portal for app development.",
+    "url": "https://open.toronto.ca/dataset/ttc-routes-and-schedules/",
+    "tags": [
+      "toronto",
+      "ttc",
+      "gtfs",
+      "transit",
+      "api"
+    ]
+  },
+  {
     "name": "TTC Service Advisories / maps",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -6482,6 +9987,21 @@
     ]
   },
   {
+    "name": "Transit Windsor — GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Windsor",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Static GTFS feed for Windsor Transit routes, stops, and schedules from the City of Windsor open data portal.",
+    "url": "https://opendata.citywindsor.ca/Uploads/google_transit.zip",
+    "tags": [
+      "windsor",
+      "transit",
+      "gtfs",
+      "open data"
+    ]
+  },
+  {
     "name": "Winnipeg Transit — Trip Planner",
     "level": "Municipal",
     "jurisdiction": "Winnipeg",
@@ -6492,6 +10012,21 @@
     "tags": [
       "Winnipeg",
       "transit"
+    ]
+  },
+  {
+    "name": "Winnipeg Transit GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Winnipeg Transit GTFS static feed and developer documentation on the open data portal.",
+    "url": "https://data.winnipeg.ca/Transportation/Transit-GTFS-Static-Feed/g4wx-2p3b",
+    "tags": [
+      "winnipeg",
+      "gtfs",
+      "transit",
+      "open data"
     ]
   },
   {
@@ -7260,162 +10795,126 @@
     ]
   },
   {
-    "name": "Fredericton Open Data Portal",
-    "level": "Municipal",
-    "jurisdiction": "Fredericton",
-    "category": "open-data",
-    "type": "Open data hub",
-    "description": "ArcGIS Hub for the City of Fredericton with downloadable datasets and interactive apps including zoning maps, trail networks, metered parking, IoT environmental sensors, and construction projects",
-    "url": "https://data.fredericton.ca",
+    "name": "Air Quality Health Index (AQHI) — Observations Map",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Air quality observations",
+    "description": "Current AQHI readings and health risk levels at monitoring stations across Canada — map and station-level observations.",
+    "url": "https://weather.gc.ca/airquality/pages/index_e.html",
     "tags": [
-      "open-data",
-      "municipal",
-      "gis",
-      "nb"
+      "canada",
+      "air quality",
+      "aqhi",
+      "health"
     ]
   },
   {
-    "name": "Kingston Open Data Hub",
-    "level": "Municipal",
-    "jurisdiction": "Kingston",
-    "category": "open-data",
-    "type": "Open data hub",
-    "description": "Download property parcels, building footprints, transit routes, tree inventory, election wards, parks, and trails as GeoJSON, shapefiles, or CSV",
-    "url": "https://cityofkingston.hub.arcgis.com",
+    "name": "MSC GeoMet — AQHI Observations API",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Air quality API",
+    "description": "OGC API collection for Air Quality Health Index observations — query station AQHI values programmatically via GeoMet.",
+    "url": "https://api.weather.gc.ca/collections/aqhi-observations",
     "tags": [
-      "open-data",
-      "municipal",
-      "gis",
-      "on"
+      "canada",
+      "aqhi",
+      "api",
+      "geomet",
+      "air quality"
     ]
   },
   {
-    "name": "Thunder Bay Open Data Hub",
-    "level": "Municipal",
-    "jurisdiction": "Thunder Bay",
-    "category": "open-data",
-    "type": "Open data hub",
-    "description": "Municipal datasets for Thunder Bay including property parcels, building footprints, transit routes, parks, zoning, and infrastructure available for bulk download",
-    "url": "https://opendata-thunderbay.hub.arcgis.com",
+    "name": "MSC GeoMet — Weather and Climate API",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Weather API",
+    "description": "OGC API for Environment Canada weather, climate, and hydrometric layers — query forecasts, alerts, and station data programmatically.",
+    "url": "https://api.weather.gc.ca/",
     "tags": [
-      "open-data",
-      "municipal",
-      "gis",
-      "on"
+      "canada",
+      "weather",
+      "api",
+      "climate",
+      "geomet"
     ]
   },
   {
-    "name": "Metro Vancouver Open Data Portal",
-    "level": "Regional",
-    "jurisdiction": "Metro Vancouver",
-    "category": "open-data",
-    "type": "Open data hub",
-    "description": "Regional GIS datasets including LiDAR point clouds, aerial orthoimagery, liquid and solid waste services, water services, regional parks, and Electoral Area A boundaries",
-    "url": "https://open-data-portal-metrovancouver.hub.arcgis.com/",
+    "name": "Alberta River Basins — Flow and Forecast",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "weather",
+    "type": "Hydrometric monitoring",
+    "description": "Real-time river flows, basin conditions, and flood advisories for Alberta river systems.",
+    "url": "https://rivers.alberta.ca/",
     "tags": [
-      "open-data",
-      "regional",
-      "gis",
-      "bc"
+      "alberta",
+      "rivers",
+      "flood",
+      "hydrology"
     ]
   },
   {
-    "name": "Lethbridge Open Data Portal",
-    "level": "Municipal",
-    "jurisdiction": "Lethbridge",
-    "category": "open-data",
-    "type": "Open data hub",
-    "description": "Municipal open data for Lethbridge with property parcels, building footprints, transit routes, parks, and infrastructure datasets",
-    "url": "https://data-lethbridge.opendata.arcgis.com",
+    "name": "BC River Forecast Centre — Open Data",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "weather",
+    "type": "Hydrometric data",
+    "description": "Snowpack, streamflow, and flood forecasting data for British Columbia watersheds — maps and downloadable hydrometric datasets.",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre",
     "tags": [
-      "open-data",
-      "municipal",
-      "gis",
-      "ab"
+      "bc",
+      "flood",
+      "hydrology",
+      "forecast",
+      "open data"
     ]
   },
   {
-    "name": "OC Transpo GTFS Feed",
-    "level": "Regional",
-    "jurisdiction": "Ottawa",
-    "category": "transit",
-    "type": "GTFS feed",
-    "description": "Official OC Transpo GTFS static feed download and real-time API documentation for Ottawa transit",
-    "url": "https://www.octranspo.com/en/plan-your-trip/travel-tools#GTFS",
+    "name": "Manitoba Flood Information",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "weather",
+    "type": "Flood monitoring",
+    "description": "Provincial flood outlooks, river levels, and emergency flood updates for Manitoba watersheds.",
+    "url": "https://www.gov.mb.ca/flooding/",
     "tags": [
-      "Ottawa",
-      "transit",
-      "GTFS",
-      "OC Transpo",
-      "real-time"
+      "manitoba",
+      "flood",
+      "hydrology",
+      "warnings"
     ]
   },
   {
-    "name": "Ontario Public Sector Salary Disclosure",
+    "name": "Ontario Flood Forecasting and Warning",
     "level": "Provincial",
     "jurisdiction": "Ontario",
-    "category": "budget",
-    "type": "Salary disclosure",
-    "description": "Searchable and downloadable public sector salary disclosure (Sunshine List) for Ontario employees earning over $100,000 — filter by organization, position, and year",
-    "url": "https://www.ontario.ca/page/public-sector-salary-disclosure",
+    "category": "weather",
+    "type": "Flood monitoring",
+    "description": "Provincial flood outlooks, watershed condition reports, and real-time flood messages for Ontario conservation authorities.",
+    "url": "https://www.ontario.ca/floodforecast/",
     "tags": [
-      "Ontario",
-      "salary disclosure",
-      "transparency",
-      "budget",
-      "CSV",
-      "sunshine list"
+      "ontario",
+      "flood",
+      "forecast",
+      "warnings"
     ]
   },
   {
-    "name": "Kelowna Open Data Hub",
-    "level": "Municipal",
-    "jurisdiction": "Kelowna",
-    "category": "open-data",
-    "type": "Open data hub",
-    "description": "Download city datasets including zoning, property parcels, building footprints, tree inventory, parks, trails, and infrastructure as GeoJSON, shapefiles, or CSV",
-    "url": "https://opendata-kelowna.hub.arcgis.com/",
+    "name": "Ontario Low Water Response",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "weather",
+    "type": "Drought monitoring",
+    "description": "Provincial low water level advisories and drought status by conservation authority watershed in Ontario.",
+    "url": "https://www.ontario.ca/page/low-water-response-program",
     "tags": [
-      "Kelowna",
-      "BC",
-      "open data",
-      "GIS",
-      "zoning",
-      "property"
-    ]
-  },
-  {
-    "name": "Moncton Open Data Hub",
-    "level": "Municipal",
-    "jurisdiction": "Moncton",
-    "category": "open-data",
-    "type": "Open data hub",
-    "description": "Download transit routes, zoning maps, parking, trail networks, construction projects, and environmental sensor data as GeoJSON, shapefiles, or CSV",
-    "url": "https://opendata-moncton.hub.arcgis.com/",
-    "tags": [
-      "Moncton",
-      "NB",
-      "open data",
-      "GIS",
-      "transit",
-      "trails"
-    ]
-  },
-  {
-    "name": "Victoria Heritage Register Dataset",
-    "level": "Municipal",
-    "jurisdiction": "Victoria",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "Downloadable dataset of City of Victoria designated heritage properties including built heritage and cultural heritage landscapes",
-    "url": "https://opendata.victoria.ca/datasets/heritage-register",
-    "tags": [
-      "Victoria",
-      "BC",
-      "heritage",
-      "built heritage",
-      "open data",
-      "register"
+      "ontario",
+      "drought",
+      "water levels",
+      "conservation"
     ]
   }
 ]
