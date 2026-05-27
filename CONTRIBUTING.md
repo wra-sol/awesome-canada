@@ -105,6 +105,7 @@ If a resource would fit multiple categories, pick the one a user is most likely 
 | `node scripts/migrate.js` | One-shot helper that re-categorizes missing entries and appends curated batches from `scripts/new-resources.js` |
 | `node scripts/append-batch-sources.js` | Append verified batch to `data/resources.json` (skips duplicate URLs) |
 | `node scripts/append-batch-sources-2.js` | Second sourcing batch (same dedupe behaviour) |
+| `node scripts/append-batch-sources-3.js` | Third batch: GTFS, registries, heritage, council depth (same dedupe) |
 
 ## Questions?
 

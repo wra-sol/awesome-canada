@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 700 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 785 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,34 +23,34 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 128
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 13
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 12
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 7
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 136
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 22
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 33
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 14
 - [🪪 Government Services & ID](#government-services-and-id) — 33
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 13
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 15
 - [🏢 Business & Procurement](#business-and-procurement) — 16
 - [💼 Employment & Labour](#employment-and-labour) — 14
 - [🎓 Education & Student Aid](#education-and-student-aid) — 11
-- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 8
+- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 12
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 14
 - [🩺 Health & Wellness](#health-and-wellness) — 18
-- [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 10
+- [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 17
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 21
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 24
-- [🚌 Transit & Mobility](#transit-and-mobility) — 42
+- [🚌 Transit & Mobility](#transit-and-mobility) — 52
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 52
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 22
-- [🌦️ Weather & Climate](#weather-and-climate) — 3
+- [🌦️ Weather & Climate](#weather-and-climate) — 8
 - [⚡ Energy & Utilities](#energy-and-utilities) — 27
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 13
 - [🔬 Science, Research & Space](#science-research-and-space) — 12
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 7
-- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 8
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 14
+- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 15
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
@@ -105,6 +105,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Prince George Open Data | Prince George · Municipal | Open data hub | City of Prince George ArcGIS Hub with parcels, zoning, utilities, and recreation datasets for download. | https://data-cityofpg.opendata.arcgis.com/ |
 | Saanich Open Data Catalogue | Saanich · Municipal | Data catalogue | District of Saanich GIS data catalogue with parks, roads, zoning, and environmental datasets for download. | https://www.saanich.ca/EN/main/local-government/data-catalogue-1.html |
 | Surrey Open Data | Surrey · Municipal | Open data portal | CKAN portal with building footprints, parks, transportation, and health datasets — CSV, GeoJSON, and API export. | https://data.surrey.ca/ |
+| Victoria Open Data — Parks and Recreation | Victoria · Municipal | Parks dataset | Parks, trails, and recreation facility datasets on the City of Victoria open data portal. | https://opendata.victoria.ca/browse?category=Parks+%26+Recreation |
 | Victoria Open Data Catalogue | Victoria · Municipal | Open data portal | Municipal datasets and geospatial resources | https://opendata.victoria.ca/ |
 | Whistler Open Data Portal | Whistler · Municipal | Open data hub | Resort Municipality of Whistler spatial and civic datasets including trails, zoning, and recreation amenities. | https://portal-rmow.opendata.arcgis.com/ |
 | White Rock Open Data | White Rock · Municipal | Open data portal | City of White Rock CKAN open data catalogue with municipal GIS datasets. | http://data.whiterockcity.ca/ |
@@ -132,13 +133,16 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Regina Open Data | Regina · Municipal | Open data portal | CKAN open government portal for Regina with property, recreation, and civic datasets. | http://open.regina.ca/ |
+| Regina Open Data Catalogue | Regina · Municipal | Open data catalogue | City of Regina CKAN open data with civic datasets including parcels, infrastructure, and community indicators. | https://opendata.regina.ca/ |
 | Saskatoon Open Data | Saskatoon · Municipal | Open data portal | City of Saskatoon open data catalogue with transit GTFS, property, and civic datasets — browse and download via the municipal portal. | https://opendata.saskatoon.ca/ |
+| Saskatoon Open Data — Building and Development | Saskatoon · Municipal | Planning datasets | Saskatoon planning and development datasets including zoning and development activity on the city open data hub. | https://opendata-saskatoon.spatial.epicore.com/ |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Brandon Open Data | Brandon · Municipal | Open data portal | City of Brandon open data service with civic and GIS datasets for Manitoba's second-largest city. | http://opendata.brandon.ca/ |
+| Winnipeg Crime Stat — Open Data | Winnipeg · Municipal | Crime statistics | Winnipeg Police Service crime statistics datasets on the municipal open data portal — filter and export by type and district. | https://data.winnipeg.ca/browse?category=Public+Safety |
 | Winnipeg Open Data Portal | Winnipeg · Municipal | Open data portal | Municipal data catalogue with maps and downloads | https://data.winnipeg.ca/ |
 
 ### Ontario
@@ -153,6 +157,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Peel Region Open Data | Peel · Regional | Regional open data | Peel Region datasets including Food Check, property, waste, and health data with search and download. | https://data.peelregion.ca/ |
 | Peel Region Open Data Portal | Peel · Regional | Open data portal | Open data portal for the Regional Municipality of Peel — datasets on planning, transportation, health, and more | https://opendata-peel.hub.arcgis.com/ |
 | Region of Waterloo Open Data | Waterloo · Regional | Regional open data hub | Regional Municipality of Waterloo ArcGIS Hub with parcels, transit, libraries, and cross-municipal GIS layers. | https://rowopendata-rmw.opendata.arcgis.com/ |
+| York Region — Open Data | York Region · Regional | Regional open data | York Region open data portal with regional datasets on demographics, health, and municipal services. | https://www.york.ca/en/about-the-region/open-data.aspx |
 | York Region Insights Open Data | York Region · Regional | Regional open data hub | York Region ArcGIS open data hub with regional boundaries, demographics, and municipal service layers. | http://insights-york.opendata.arcgis.com/ |
 | York Region Open Data Portal | York Region · Regional | Open data portal | Open data portal for York Region — maps, statistics, and datasets for planning and public services | https://opendata-york.hub.arcgis.com/ |
 | Ajax Open Data | Ajax · Municipal | Open data portal | Town of Ajax municipal open data with GIS layers for planning and civic services. | http://opendata.ajax.ca/ |
@@ -166,6 +171,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Guelph Open Data Portal | Guelph · Municipal | Open data portal | City of Guelph open data portal — GIS datasets, infrastructure, and city services data | https://opendata-guelph.hub.arcgis.com/ |
 | Haldimand County Open Data | Haldimand County · Municipal | Open data portal | Haldimand County open data portal with property, roads, and municipal GIS layers. | http://opendata.haldimandcounty.on.ca/ |
 | Hamilton Open Data | Hamilton · Municipal | Open data portal | Datasets and map resources | https://open.hamilton.ca/ |
+| Hamilton Red Light Camera Locations | Hamilton · Municipal | Traffic safety dataset | Red light camera intersection locations and related traffic safety datasets on Open Hamilton. | https://open.hamilton.ca/datasets?q=red%20light |
 | Huron County Open Data | Huron County · Municipal | Open data hub | County of Huron ArcGIS open data with libraries, buildings, and municipal boundaries. | http://data-huron.opendata.arcgis.com/ |
 | Kingston Open Data Hub | Kingston · Municipal | Open data hub | Download property parcels, building footprints, transit routes, tree inventory, election wards, parks, and trails as GeoJSON, shapefiles, or CSV | https://cityofkingston.hub.arcgis.com |
 | Kitchener Open Data Portal | Kitchener · Municipal | Open data portal | City of Kitchener open data portal — transportation, parks, development, and demographic datasets | https://opendata-kitchener.hub.arcgis.com/ |
@@ -232,6 +238,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Northwest Territories Open Data | Northwest Territories · Provincial | Territorial open data | GNWT open data catalogue with territorial datasets on infrastructure, environment, and community services. | https://www.opendata.gov.nt.ca/ |
+| Nunavut Open Data Portal | Nunavut · Provincial | Territorial open data | Government of Nunavut open data portal for territorial datasets and spatial information. | https://www.gov.nu.ca/information/open-data |
 | Yukon Open Data | Yukon · Provincial | Open data portal | Yukon government open data catalogue with datasets on environment, infrastructure, health, and demographics | https://open.yukon.ca/ |
 | Whitehorse Open Data | Whitehorse · Municipal | Open data portal | Spatial datasets for Whitehorse including contours, parcels, roads, and aerial imagery in SHP, DWG, and KML formats. | https://data.whitehorse.ca/ |
 | Yellowknife Open Data | Yellowknife · Municipal | Open data portal | City of Yellowknife spatial open data for GIS users — zoning, infrastructure, and base map layers. | http://opendata.yellowknife.ca/ |
@@ -244,27 +252,46 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Coquitlam Planning and Development Open Data | Coquitlam · Municipal | Planning datasets | Zoning, development permit areas, neighbourhood plans, and planning boundaries for Coquitlam — download via ArcGIS Hub. | https://data.coquitlam.ca/datasets/Coquitlam::planning-and-development-1 |
 | Kamloops Planning & Zoning Map | Kamloops · Municipal | Planning map | Zoning districts, development permit areas, and planning development layers for Kamloops via CityMap GIS services. | https://maps.kamloops.ca/arcgis/rest/services/CityMap/CityMap_PlanningDevelopment/MapServer |
+| Kelowna Building Permits Open Data | Kelowna · Municipal | Building permits | Building permit issuance data for Kelowna on the municipal open data hub — filter by date, type, and neighbourhood. | https://opendata.kelowna.ca/ |
 | Vancouver Building Permits Issued | Vancouver · Municipal | Building permits dataset | Open data on issued building permits in Vancouver with project type, value, and address fields. | https://opendata.vancouver.ca/explore/dataset/issued-building-permits/ |
 | Vancouver Zoning & Land Use Districts | Vancouver · Municipal | Zoning dataset | Download zoning district boundaries and schedules from the Vancouver Open Data Portal for GIS analysis and property lookups. | https://opendata.vancouver.ca/explore/?disjunctive.zoning&sort=modified |
+| Victoria Building Permits Open Data | Victoria · Municipal | Building permits | Issued building and development permits on the City of Victoria open data catalogue with map and CSV export. | https://opendata.victoria.ca/browse?category=Planning |
 
 ### Alberta
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Calgary Building Permits | Calgary · Municipal | Building permits dataset | Search and download building permit records from Open Calgary — filter by date, community, and permit type with API access. | https://data.calgary.ca/browse?category=Building+Permits |
+| Edmonton Development Permits Open Data | Edmonton · Municipal | Development permits | Development permit records on the Edmonton Open Data Portal — search by community, permit type, and status with Socrata API export. | https://data.edmonton.ca/browse?category=Planning+%26+Development |
 | Edmonton Zoning Map — Development Permits | Edmonton · Municipal | Development permit map | Interactive zoning map layer showing development permit applications with applicant, location, and job description fields. | https://gis.edmonton.ca/site1/rest/services/VertiGIS/ZoningMap/MapServer |
+
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Winnipeg Building Permits Open Data | Winnipeg · Municipal | Building permits | Building permit datasets on Winnipeg Open Data — issued permits with addresses, values, and permit categories for download. | https://data.winnipeg.ca/browse?category=Planning%2C+Property+%26+Development |
 
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Barrie Planning & Development Map | Barrie · Municipal | Planning map | Map layers for active building permits, zoning, official plan land use, and planning applications in Barrie. | https://gispublic.barrie.ca/arcgis/rest/services/Public/PlanningDevelopment_SM_Dynamic/MapServer |
+| Hamilton Building Permits Open Data | Hamilton · Municipal | Building permits dataset | Issued building permits and related planning datasets on Open Hamilton — filter, map, and download via ArcGIS Hub. | https://open.hamilton.ca/datasets?q=building%20permit |
+| Hamilton Development Applications Open Data | Hamilton · Municipal | Development applications | Active development applications and planning status layers published on the City of Hamilton open data portal. | https://open.hamilton.ca/datasets?q=development%20application |
 | Mississauga Building Permits Open Data | Mississauga · Municipal | Building permits | Search and download Mississauga building permit data from the open data catalogue with API access. | https://data.mississauga.ca/browse?category=Building+Permits |
 | Ottawa Development Applications Map | Ottawa · Municipal | Development applications map | Query development applications subject to public consultation on a map; links to posting plans. ArcGIS REST supports JSON and GeoJSON export. | https://maps.ottawa.ca/arcgis/rest/services/Development_Applications/MapServer |
 | Ottawa Zoning Map Service | Ottawa · Municipal | Zoning map | Official City of Ottawa zoning layers including by-law zones, overlays, and village plans. Export and identify parcels via ArcGIS map service. | https://maps.ottawa.ca/arcgis/rest/services/Zoning/MapServer |
+| Toronto Application Information Centre | Toronto · Municipal | Development application search | Map-based search for active and closed development applications, Committee of Adjustment minor variances, rezonings, and site plan control with downloadable supporting documents. | https://www.toronto.ca/city-government/planning-development/application-information-centre/ |
 | Toronto Building Permits — Cleared Permits | Toronto · Municipal | Building permits dataset | Download cleared building permits since 2000 as CSV or JSON — permit type, dates, address, and construction value for completed permits. | https://open.toronto.ca/dataset/building-permits-cleared-permits/ |
 | Toronto Development Applications (IBMS) | Toronto · Municipal | Development application tracker | Point layer of active planning applications with status, type, hearing dates, and links to application details. Queryable via ArcGIS FeatureServer. | https://gis.toronto.ca/arcgis/rest/services/cot_geospatial11/FeatureServer/60 |
 | Toronto Zoning By-law Map | Toronto · Municipal | Zoning map | Zoning area polygons, overlays, and labels for Toronto properties. Use with City planning layers for land-use and height rules. | https://gis.toronto.ca/arcgis/rest/services/cot_geospatial11/FeatureServer/3 |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Montreal Building Permits Open Data | Montreal · Municipal | Building permits dataset | Construction, transformation, and demolition permits issued by Montreal boroughs — download CSV, GeoJSON, or SHP from Données Montréal. | https://donnees.montreal.ca/dataset/permis-construction |
+| Quebec City Building Permits Open Data | Quebec City · Municipal | Building permits | Quebec City construction and renovation permits on the municipal open data portal. | https://www.donneesquebec.ca/recherche/dataset?organization=ville-de-quebec |
 
 ## 🏛️ Council, Democracy & Transparency
 
@@ -272,7 +299,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Kelowna Council Meetings | Kelowna · Municipal | Council meetings | Kelowna City Council meeting schedules, agendas, minutes, and video recordings for council and standing committees. | https://www.kelowna.ca/city-hall/council/council-meetings |
 | Vancouver Council Voting Records | Vancouver · Municipal | Vote dataset | Download individual council, committee, and public hearing votes as open data — filter by member, meeting date, and motion outcome. | https://opendata.vancouver.ca/explore/dataset/council-voting-records/ |
+| Victoria Council Meetings and Agendas | Victoria · Municipal | Council meetings | City of Victoria council and committee meeting calendars, agendas, minutes, and webcasts for current and archived sessions. | https://www.victoria.ca/city-government/council-committees/council-meetings |
 
 ### Alberta
 
@@ -282,28 +311,57 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Calgary Council and Committee Votes | Calgary · Municipal | Vote dataset | Open Calgary dataset of council and committee votes with motion text, outcomes, and member votes. API and CSV export available. | https://data.calgary.ca/Government/Council-and-Committee-Votes/ruq3-99hx |
 | Edmonton Council Meetings (eScribe) | Edmonton · Municipal | Agendas and minutes | Published council and committee agendas, minutes, and attachments with calendar search on the City of Edmonton eScribe portal. | https://pub-edmonton.escribemeetings.com/ |
 | Edmonton Council Voting Record (2021–2025) | Edmonton · Municipal | Vote dataset | Council and committee voting records with motion details from the Edmonton Open Data Portal — filter and export via Socrata API. | https://data.edmonton.ca/City-Administration/2021-2025-Council-And-Committee-Meetings-Voting-Re/ekzq-b4qg |
+| Medicine Hat City Council Meetings | Medicine Hat · Municipal | Council meetings | Medicine Hat City Council agendas, minutes, and meeting schedules. | https://www.medicinehat.ca/en/government/city-council/council-meetings.aspx |
+| Red Deer City Council Meetings | Red Deer · Municipal | Council meetings | Red Deer City Council agendas, minutes, and meeting video. | https://www.reddeer.ca/city-government/mayor-council/council-meetings/ |
+
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Regina Council Meetings | Regina · Municipal | Council meetings | Regina City Council meeting agendas, minutes, and video for council and board sessions. | https://www.regina.ca/city-government/city-council/council-meetings/ |
+| Saskatoon Council Meetings | Saskatoon · Municipal | Council meetings | Saskatoon City Council and committee agendas, minutes, and meeting videos with calendar search. | https://www.saskatoon.ca/city-hall/mayor-city-council/city-council-meetings |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Brandon City Council Meetings | Brandon · Municipal | Council meetings | Brandon City Council agendas, minutes, and meeting video. | https://www.brandon.ca/government/mayor-council/council-meetings |
+| Winnipeg Council Meetings — eScribe | Winnipeg · Municipal | Council meetings portal | Winnipeg City Council and standing policy committee agendas, minutes, and video on eScribe. | https://pub-winnipeg.escribemeetings.com/ |
 | Winnipeg Council Voting Information System | Winnipeg · Municipal | Vote search | Search council and executive policy committee votes by meeting date, item number, or keyword instead of scrolling through PDF minutes. | https://www.winnipeg.ca/council/VIS/ |
 
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Region of Waterloo Council Meetings | Waterloo · Regional | Regional council meetings | Regional Municipality of Waterloo council and committee agendas, minutes, and webcasts. | https://www.regionofwaterloo.ca/en/regional-government/council-meetings.aspx |
+| Barrie Council Meetings — eScribe | Barrie · Municipal | Council meetings portal | Barrie City Council and committee agendas, minutes, and attachments on the public eScribe portal. | https://pub-barrie.escribemeetings.com/ |
+| Brampton Council and Committees — eScribe | Brampton · Municipal | Council meetings portal | Search Brampton City Council and committee agendas, minutes, attachments, and video on the eScribe public meetings portal. | https://pub-brampton.escribemeetings.com/ |
 | Hamilton Council Meetings and Agendas | Hamilton · Municipal | Agendas and minutes | Council and committee agendas, minutes, and live meeting streams for the City of Hamilton. | https://www.hamilton.ca/city-council/meetings-agendas |
 | London Council and Committee Meetings | London · Municipal | Agendas and minutes | Browse London City Council and standing committee agendas, minutes, and video recordings. | https://www.london.ca/city-hall/mayor-council/council-committee-meetings |
 | Mississauga Council and Committees — eScribe | Mississauga · Municipal | Agendas and minutes | Search council and committee agendas, minutes, and video for City of Mississauga meetings. | https://pub-mississauga.escribemeetings.com/ |
 | Ottawa Council Agendas and Minutes (eScribe) | Ottawa · Municipal | Agendas and minutes | Searchable council and committee agendas, minutes, attachments, and meeting videos with calendar filtering on the eScribe portal. | https://pub-ottawa.escribemeetings.com/ |
+| Thunder Bay Council Meetings | Thunder Bay · Municipal | Council meetings | Thunder Bay City Council meeting agendas, minutes, and webcasts. | https://www.thunderbay.ca/en/city-hall/council/council-meetings.aspx |
 | Toronto Council Voting Records (TMMIS) | Toronto · Municipal | Vote records | Generate councillor attendance and voting records by meeting, committee, and date range; export results as CSV from TMMIS. | https://www.toronto.ca/legdocs/tmmis/votes-and-attendance.htm |
+| Windsor Council Meetings — eScribe | Windsor · Municipal | Council meetings portal | Windsor City Council and standing committee agendas, minutes, and attachments on the public eScribe portal. | https://pub-windsor.escribemeetings.com/ |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Laval Council Meetings | Laval · Municipal | Council meetings | Ville de Laval council session agendas, minutes, and video for municipal council meetings. | https://www.laval.ca/Pages/Fr/Citoyens/conseil-municipal/seances-du-conseil.aspx |
+| Longueuil Council Meetings | Longueuil · Municipal | Council meetings | Ville de Longueuil municipal council session agendas, minutes, and video. | https://www.longueuil.quebec/fr/seances-du-conseil |
+| Sherbrooke Council Meetings | Sherbrooke · Municipal | Council meetings | Ville de Sherbrooke council meeting agendas, minutes, and webcasts. | https://www.sherbrooke.ca/fr/vie-municipale/conseil-municipal/seances-du-conseil |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Cape Breton Regional Municipality Council | Cape Breton · Municipal | Council meetings | CBRM council meeting agendas, minutes, and video for the Cape Breton Regional Municipality. | https://www.cbrm.ns.ca/municipal-government/mayor-council/council-meetings |
+| Fredericton Council Meetings | Fredericton · Municipal | Council meetings | City of Fredericton council meeting agendas, minutes, and video. | https://www.fredericton.ca/en/your-government/mayor-council/council-meetings |
 | Halifax Council Meeting Records | Halifax · Municipal | Agendas and minutes | Regional Council agendas, minutes, and webcasts for Halifax Regional Municipality with searchable meeting calendar. | https://www.halifax.ca/city-hall/regional-council |
+| Halifax Regional Council Meetings | Halifax · Municipal | Council meetings | Halifax Regional Municipality council and committee agendas, minutes, and live meeting streams. | https://www.halifax.ca/city-hall/mayor-council/regional-council |
+| Moncton Council Meetings | Moncton · Municipal | Council meetings | City of Moncton council and committee meeting agendas and minutes. | https://www.moncton.ca/city-hall/mayor-council/council-meetings |
+| St. John's Council Meetings | St. John's · Municipal | Council meetings | St. John's City Council meeting agendas, minutes, and webcasts for council sessions. | https://www.stjohns.ca/city-hall/city-council/council-meetings |
 
 ## 💳 Budget, Finance & Procurement
 
@@ -312,6 +370,15 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Bid — Contract Awards | British Columbia · Provincial | Procurement awards | Search awarded BC public sector contracts and standing offers on BC Bid — filter by ministry, vendor, and date. | https://bcbid.gov.bc.ca/page.aspx/en/buy/contract-award |
+| Vancouver Financial Transparency | Vancouver · Municipal | Financial reports | City of Vancouver financial transparency hub with annual reports, statements, and open financial datasets. | https://vancouver.ca/your-government/financial-transparency.aspx |
+
+### Alberta
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Calgary Open Budget | Calgary · Municipal | Budget open data | Approved operating and capital budget lines for the City of Calgary — filter by department, fund, and year with CSV/API export from Open Calgary. | https://data.calgary.ca/Government/Calgary-Open-Budget/fqax-i3nz |
+| Edmonton Approved Operating Budget — Expenses | Edmonton · Municipal | Budget dataset | Machine-readable approved operating budget expense lines by branch and service — download CSV or query Socrata API. | https://data.edmonton.ca/Financial/Approved-Operating-Budget-Expenses/da9s-v9j8 |
+| Edmonton Open Budget | Edmonton · Municipal | Budget dashboard | Interactive operating and capital budget explorer for City of Edmonton with revenues, expenditures, and year-over-year comparisons. | https://budget.edmonton.ca/ |
 
 ### Ontario
 
@@ -319,6 +386,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario Public Accounts — Schedule of Payments | Ontario · Provincial | Vendor payments | Detailed schedule of provincial payments to vendors and transfer recipients by ministry — annual CSV downloads in English and French. | https://data.ontario.ca/dataset/public-accounts-detailed-schedule-of-payments |
 | Ontario Public Sector Salary Disclosure | Ontario · Provincial | Salary disclosure | Searchable and downloadable public sector salary disclosure (Sunshine List) for Ontario employees earning over $100,000 — filter by organization, position, and year | https://www.ontario.ca/page/public-sector-salary-disclosure |
+| Mississauga Procurement Awards Open Data | Mississauga · Municipal | Procurement awards | Awarded contracts and procurement results published on the Mississauga open data catalogue for vendor transparency. | https://data.mississauga.ca/browse?category=Finance |
+| Ottawa Spending and Budget Open Data | Ottawa · Municipal | Budget open data | City of Ottawa budget, spending, and financial datasets on the open data portal — operating and capital budget tables with API access. | https://open.ottawa.ca/browse?category=Budget+%26+Finance |
 | City of Toronto Expense Reports | Toronto · Municipal | Expense disclosure | Councillor and senior staff expense reports published proactively — search and download hospitality, travel, and office spending. | https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-clerk/expense-reports/ |
 | City of Toronto Vendor Payments (Open Data) | Toronto · Municipal | Vendor payments | Quarterly open data releases of City of Toronto payments to vendors over reporting thresholds. | https://open.toronto.ca/dataset/payments-to-vendors/ |
 
@@ -333,6 +402,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Nova Scotia Awarded Public Tenders | Nova Scotia · Provincial | Procurement awards | CSV of awarded vendors and amounts for government tenders by entity, category, and date from the Nova Scotia open data portal. | https://data.novascotia.ca/datasets/m6ps-8j6u |
+| Halifax Budget and Financial Plans | Halifax · Municipal | Municipal budget | Halifax Regional Municipality budget documents, business plans, and financial performance reporting. | https://www.halifax.ca/city-hall/budget-financial-reports |
 
 ## 🪪 Government Services & ID
 
@@ -627,20 +697,24 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Public Schools — Location Data | British Columbia · Provincial | School locations | Point locations of BC public schools from provincial open data — download for mapping catchments and facility analysis. | https://catalogue.data.gov.bc.ca/dataset/bc-schools |
 | BC School Districts (Spatial) | British Columbia · Provincial | Boundary dataset | Polygon boundaries of BC school districts under the School Act — download shapefile, KML, or access WMS/WFS services. | https://catalogue.data.gov.bc.ca/dataset/school-districts-of-bc |
+| Vancouver School Board — School Information | Vancouver · Municipal | School directory | Vancouver School District school finder with programs, catchments, and facility information for public schools. | https://www.vsb.bc.ca/schools |
 
 ### Alberta
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta Education — School Directory and Maps | Alberta · Provincial | School directory | Alberta school authority listings, school locations, and jurisdictional boundary information for public schools. | https://www.alberta.ca/school-authority-contact-list |
+| Calgary Board of Education — School Directory | Calgary · Municipal | School directory | Search Calgary Board of Education schools by program, grade, and community with contact and boundary information. | https://www.cbe.ab.ca/schools/Pages/default.aspx |
 
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario Public School Contact Information | Ontario · Provincial | School directory | Contact information for publicly funded Ontario schools including board, school number, level, and language. CSV export. | https://data.ontario.ca/dataset/ontario-public-school-contact-information |
+| Ontario School Board Boundaries — Scholars GeoPortal | Ontario · Provincial | Boundary shapefiles | English and French public and separate school board boundary shapefiles for Ontario — download via Scholars GeoPortal. | http://geo.scholarsportal.info/#r/details/_uri@=1011603538 |
 | Ontario School Enrolment by Grade | Ontario · Provincial | Enrolment dataset | Annual school-level enrolment by grade from OnSIS October submission — filter by board, school type, and language. CSV download. | https://data.ontario.ca/dataset/school-enrolment-by-grade |
 | Ontario School Information and Demographics | Ontario · Provincial | School profiles dataset | Board and school contact data plus EQAO achievement indicators by school — download consolidated CSV for analysis. | https://data.ontario.ca/dataset/school-information-and-student-demographics |
+| TDSB Open Data | Toronto · Municipal | School board open data | Toronto District School Board open data policy portal — research datasets, census results, and public reports where publishable. | https://www.tdsb.on.ca/Open-Data |
 
 ### Quebec
 
@@ -750,6 +824,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Fraser Health — Restaurant Inspection Reports | British Columbia · Provincial | Food inspection search | Search restaurant and food premises inspection reports across Fraser Health communities in Metro Vancouver and the Fraser Valley. | https://www.fraserhealth.ca/health-topics-a-to-z/food-safety/restaurant-inspection-reports |
+| Interior Health — Community Health Data | British Columbia · Provincial | Health data | Interior Health population health and community health data reports for BC Interior health authority communities. | https://www.interiorhealth.ca/about-us/accountability/health-data |
+| Interior Health — Food Facility Inspections | British Columbia · Provincial | Food inspection search | Food facility inspection disclosure for Interior Health region — search by establishment name and community. | https://www.interiorhealth.ca/health-and-wellness/food-safety/inspection-reports |
 | Vancouver Coastal Health — Restaurant Inspections | British Columbia · Provincial | Inspection reports | VCH restaurant and food service inspection reports for Vancouver Coastal region facilities. | https://www.vch.ca/en/health-topics/environmental-health-inspections/reports |
 | Surrey Fraser Health Restaurant Inspections | Surrey · Municipal | Food inspection dataset | Restaurant inspection reports for Surrey from Fraser Health via the City open data catalogue — search by establishment and date. | https://data.surrey.ca/dataset/fraser-health-restaurant-inspection-reports |
 
@@ -758,6 +835,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta Health Services — Restaurant Inspections | Alberta · Provincial | Inspection search | Search food, pool, and facility health inspection results across Alberta Health Services zones by establishment name or location. | https://www.albertahealthservices.ca/health-inspections/SearchServlet |
+| Alberta Health Services — Zone Maps and Data | Alberta · Provincial | Health authority data | Alberta Health Services zone boundaries, facility locations, and public health data resources. | https://www.albertahealthservices.ca/about/Page13218.aspx |
 
 ### Manitoba
 
@@ -769,11 +847,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Middlesex-London Health Unit — Inspection Reports | London · Regional | Food inspection search | Food premise inspection reports for London and Middlesex County from the Middlesex-London Health Unit. | https://www.healthunit.com/food-safety/inspection-reports |
 | Peel Region Food Check | Peel · Regional | Food inspection data | Food premises inspection records for Peel Region with facility name, inspection date, infractions, and location — updated weekly. | https://opendata.peelregion.ca/data-categories/food-check/food-check-peel.aspx |
 | York Region Public Health — Food Safety Inspections | York Region · Regional | Food inspection data | York Region food premises inspection disclosure data for restaurants and food facilities. | https://www.york.ca/health/food-safety/inspection-results |
 | Hamilton Public Health — Food Safety Inspections | Hamilton · Municipal | Food inspection search | Search food premises inspection results for Hamilton under Hamilton Public Health Services. | https://www.hamilton.ca/public-health/food-safety/food-premises-inspections |
+| Ottawa Public Health — Inspection Connection | Ottawa · Municipal | Food inspection search | Search food establishment inspection results and compliance history from Ottawa Public Health. | https://www.ottawapublichealth.ca/en/public-health-topics/inspection-connection.aspx |
 | Ottawa Public Health Inspection Data | Ottawa · Municipal | Food inspection dataset | Download Ottawa food premises inspection data including establishment type, inspection results, and risk categories. | https://data.ottawa.ca/dataset/public-health-inspection-data |
 | Toronto DineSafe — Food Premises Inspections | Toronto · Municipal | Food inspection dataset | Restaurant and food premises inspection results with pass, conditional pass, or closed status. Download as CSV from the Open Data Portal. | https://open.toronto.ca/dataset/dinesafe/ |
+| Toronto Public Health — Open Data Catalogue | Toronto · Municipal | Public health open data | Toronto Public Health datasets on the City open data portal — DineSafe, respiratory outbreaks, and other health indicators. | https://open.toronto.ca/catalogue/?organization=toronto-public-health |
 
 ### Quebec
 
@@ -1002,21 +1083,29 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | London Transit | London · Regional | Transit | London, Ontario bus routes and schedules | https://www.londontransit.ca/ |
 | Metrolinx Triplinx | Ontario · Regional | Trip planner | Region-wide transit trip planner across many systems | https://www.triplinx.ca/ |
 | Durham Region Transit | Ontario/GTA · Regional | Transit | Durham Region's transit service — routes, schedules, and fares | https://www.durhamregiontransit.com/ |
+| Durham Region Transit — GTFS | Ontario/GTA · Regional | GTFS feed | DRT static GTFS schedule package for Durham Region bus routes — direct ZIP download from regional open data. | https://maps.durham.ca/OpenDataGTFS/GTFS_Durham_TXT.zip |
 | GO Transit — Trip Planner | Ontario/GTA · Regional | Trip planner | GO Transit schedules, trip planning, and fare information for Greater Toronto Area | https://www.gotransit.com/en/ |
 | PRESTO Fare Calculator | Ontario/GTA · Regional | Fare calculator | Transit fare estimator across participating systems | https://www.prestocard.ca/en/about/fare-types-and-discounts |
 | York Region Transit (YRT/Viva) | Ontario/GTA · Regional | Transit | York Region Transit and Viva BRT trip planning across York Region | https://www.yrt.ca/ |
 | OC Transpo — Trip Planner | Ottawa · Regional | Trip planner | OC Transpo bus and O-Train trip planning for Ottawa | https://www.octranspo.com/ |
 | OC Transpo GTFS Feed | Ottawa · Regional | GTFS feed | Official OC Transpo GTFS static feed download and real-time API documentation for Ottawa transit | https://www.octranspo.com/en/plan-your-trip/travel-tools#GTFS |
+| Grand River Transit — GTFS Open Data | Waterloo · Regional | GTFS feed | GRT static GTFS plus real-time vehicle positions, trip updates, and service alerts from the Region of Waterloo open data portal. | https://www.grt.ca/about-grt/open-data/ |
 | Grand River Transit (Waterloo Region) | Waterloo · Regional | Transit | Waterloo Region bus and ION LRT trip planning and schedules | https://www.grt.ca/ |
 | Windsor Transit | Windsor · Regional | Transit | Windsor transit routes and schedules | https://www.citywindsor.ca |
+| York Region Transit — GTFS Open Data | York Region · Regional | GTFS feed | YRT/Viva GTFS and real-time GTFS packages for developers — request download after accepting the open data licence. | https://www.yrt.ca/en/about-us/open-data.aspx |
 | Barrie Transit GTFS | Barrie · Municipal | GTFS feed | Direct download of Barrie Transit GTFS.zip from the City website for routes, stops, and schedule data. | https://www.barrie.ca/Living/Getting%20Around/BarrieTransit/Pages/Barrie-GTFS.aspx |
+| Brampton Transit — GTFS (GeoHub) | Brampton · Municipal | GTFS feed | Brampton Transit schedule GTFS ZIP on the City GeoHub — routes, stops, stop times, and shapes for Züm and local service. | https://geohub.brampton.ca/datasets/a355aabd5a8c490186bdce559c9c75fb |
+| Burlington Transit — GTFS | Burlington · Municipal | GTFS feed | Burlington Transit GTFS feed for routes, stops, and schedules from the municipal open data program. | https://www.burlington.ca/en/news/open-data.aspx |
+| Guelph Transit — GTFS Open Data | Guelph · Municipal | GTFS feed | Guelph Transit GTFS schedule data published on the City open data catalogue for app developers. | http://data.open.guelph.ca/dataset/guelph-transit-gtfs |
 | Hamilton Street Railway GTFS | Hamilton · Municipal | GTFS feed | HSR GTFS static schedule data for Hamilton transit routes and stops. | https://www.hamilton.ca/city-initiatives/strategies-actions/open-data-catalogue |
 | London Transit Commission GTFS | London · Municipal | GTFS feed | LTC GTFS feed download for London, Ontario bus routes, stops, and schedules. | https://www.londontransit.ca/open-data/ |
+| MiWay — GTFS Developer Download | Mississauga · Municipal | GTFS feed | MiWay scheduled GTFS and GTFS-Realtime feeds (vehicle positions, trip updates, alerts) for third-party transit apps. | https://www.mississauga.ca/miway-transit/developer-download/ |
 | MiWay — Mississauga Transit | Mississauga · Municipal | Transit | MiWay bus routes, schedules, and real-time info for Mississauga | https://www.mississauga.ca/miway |
 | Thunder Bay Transit | Ontario · Municipal | Transit | Thunder Bay Transit routes, schedules, real-time bus tracking, and fare information | https://www.thunderbay.ca/transit |
 | Toronto Bike Share station map | Toronto · Municipal | Mobility map | Station finder and system map for bike share | https://bikesharetoronto.com/system-map/ |
 | Toronto TTC GTFS Feed | Toronto · Municipal | GTFS feed | Official TTC GTFS static schedule feed for routes, stops, and trips — download zip from the Open Data Portal for app development. | https://open.toronto.ca/dataset/ttc-routes-and-schedules/ |
 | TTC Service Advisories / maps | Toronto · Municipal | Transit tool | Route, service, and map resources for transit users | https://www.ttc.ca/ |
+| Transit Windsor — GTFS | Windsor · Municipal | GTFS feed | Static GTFS feed for Windsor Transit routes, stops, and schedules from the City of Windsor open data portal. | https://opendata.citywindsor.ca/Uploads/google_transit.zip |
 
 ### Quebec
 
@@ -1026,8 +1115,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Exo GTFS (Montreal Region) | Montreal · Regional | GTFS feed | Exo commuter rail and bus GTFS feeds for Greater Montreal suburbs on Données Québec. | https://exo.quebec/en/about/open-data |
 | STM Info outils / network maps | Montreal · Municipal | Transit map/tools | Metro and bus map resources and rider tools | https://www.stm.info/en |
 | STM Montreal GTFS | Montreal · Municipal | GTFS feed | Société de transport de Montréal GTFS feed and API documentation for developers building trip planners and analysis tools. | https://www.stm.info/en/about/developers |
+| STO — GTFS Open Data (Gatineau) | Quebec · Municipal | GTFS feed | Société de transport de l’Outaouais planned GTFS download plus GTFS-Realtime API key registration for alerts and vehicle positions. | https://www.sto.ca/en/business/developer-space-open-data/ |
 | STO — Outaouais Transit (Gatineau) | Quebec · Municipal | Transit | Société de transport de l'Outaouais trip planning and schedules for Gatineau | https://www.sto.ca/en/ |
 | RTC — Réseau de transport de la Capitale (Quebec City) | Quebec City · Municipal | Transit | Quebec City bus trip planning, schedules, and real-time arrivals | https://www.rtcquebec.ca/ |
+| RTC Québec — GTFS Open Data | Quebec City · Municipal | GTFS feed | Réseau de transport de la Capitale GTFS schedules and route shapes for Quebec City transit — direct download from RTC open data. | https://www.rtcquebec.ca/en/open-data |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -1217,6 +1308,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Air Quality Health Index (AQHI) — Observations Map | Canada · Federal | Air quality observations | Current AQHI readings and health risk levels at monitoring stations across Canada — map and station-level observations. | https://weather.gc.ca/airquality/pages/index_e.html |
+| MSC GeoMet — AQHI Observations API | Canada · Federal | Air quality API | OGC API collection for Air Quality Health Index observations — query station AQHI values programmatically via GeoMet. | https://api.weather.gc.ca/collections/aqhi-observations |
 | MSC GeoMet — Weather and Climate API | Canada · Federal | Weather API | OGC API for Environment Canada weather, climate, and hydrometric layers — query forecasts, alerts, and station data programmatically. | https://api.weather.gc.ca/ |
 
 ### British Columbia
@@ -1225,11 +1318,24 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC River Forecast Centre — Open Data | British Columbia · Provincial | Hydrometric data | Snowpack, streamflow, and flood forecasting data for British Columbia watersheds — maps and downloadable hydrometric datasets. | https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre |
 
+### Alberta
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Alberta River Basins — Flow and Forecast | Alberta · Provincial | Hydrometric monitoring | Real-time river flows, basin conditions, and flood advisories for Alberta river systems. | https://rivers.alberta.ca/ |
+
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Manitoba Flood Information | Manitoba · Provincial | Flood monitoring | Provincial flood outlooks, river levels, and emergency flood updates for Manitoba watersheds. | https://www.gov.mb.ca/flooding/ |
+
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario Flood Forecasting and Warning | Ontario · Provincial | Flood monitoring | Provincial flood outlooks, watershed condition reports, and real-time flood messages for Ontario conservation authorities. | https://www.ontario.ca/floodforecast/ |
+| Ontario Low Water Response | Ontario · Provincial | Drought monitoring | Provincial low water level advisories and drought status by conservation authority watershed in Ontario. | https://www.ontario.ca/page/low-water-response-program |
 
 ## ⚡ Energy & Utilities
 
@@ -1448,12 +1554,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Calgary Heritage Inventory | Calgary · Municipal | Heritage inventory | Inventory of evaluated heritage resources in Calgary — search historic buildings and sites on Open Calgary. | https://data.calgary.ca/Land-Use-Planning/Heritage-Inventory/xfh5-6p7w |
+| Calgary Heritage Inventory Open Data | Calgary · Municipal | Heritage inventory | Calgary heritage inventory and historic resources datasets on Open Calgary for mapping and research. | https://data.calgary.ca/browse?category=Heritage |
 | Edmonton Register of Historic Resources | Edmonton · Municipal | Heritage register | Search Edmonton's Register of Historic Resources for municipally designated and inventoried heritage properties. | https://www.edmonton.ca/city_government/urban_planning_and_design/heritage-resources |
 
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Burlington Heritage Register | Burlington · Municipal | Heritage register | Burlington municipal heritage register of designated and listed properties with conservation district information. | https://www.burlington.ca/en/building-and-renovating/heritage.aspx |
+| Hamilton Heritage Properties — Open Data | Hamilton · Municipal | Heritage register dataset | Designated and listed heritage properties in Hamilton as a downloadable GIS dataset on Open Hamilton. | https://open.hamilton.ca/datasets/heritage-properties |
+| Kingston Heritage Register | Kingston · Municipal | Heritage register | City of Kingston heritage property register under the Ontario Heritage Act — designated, listed, and conservation district properties. | https://www.cityofkingston.ca/building-and-renovating/heritage-property-conservation/heritage-register/ |
+| London Register of Cultural Heritage Resources — CityMap | London · Municipal | Heritage register map | Interactive map of London’s Register of Cultural Heritage Resources — designated properties, listed properties, and heritage conservation districts. | https://maps.london.ca/WebDocuments/MapGallery/MapGallery/Index |
+| Ottawa Heritage Register | Ottawa · Municipal | Heritage register | City of Ottawa heritage register and mapping of designated properties and heritage conservation districts. | https://ottawa.ca/en/planning-development-and-construction/heritage-conservation/heritage-register |
 | Ottawa Heritage Register (Not Designated) | Ottawa · Municipal | Heritage register layer | Query heritage register properties not yet designated — includes heritage statements, recognition status, and legal descriptions via Planning GIS. | https://maps.ottawa.ca/ArcGIS/rest/services/Planning/MapServer/60 |
 | Toronto Heritage Register (Map) | Toronto · Municipal | Heritage map | Interactive map of properties on the City of Toronto Heritage Register — search by address for listed and designated sites. | https://www.toronto.ca/city-government/planning-development/heritage-preservation/heritage-register/ |
 
@@ -1461,6 +1573,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Montreal Heritage Sites Open Data | Montreal · Municipal | Heritage dataset | Montreal heritage buildings and sites dataset on Données Montréal for mapping protected cultural properties. | https://donnees.montreal.ca/dataset/heritage |
 | Montreal Protected Heritage Sites | Montreal · Municipal | Heritage dataset | Geographic and descriptive data on buildings and sites under Quebec Cultural Heritage Act on Montreal territory — polygon boundaries with RPCQ links. | https://donnees.montreal.ca/dataset/sites-immeubles-proteges-lpc |
 
 ## 📋 Lobbyists, Ethics & Disclosure
@@ -1489,6 +1602,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Saskatchewan Lobbyist Registry | Saskatchewan · Provincial | Lobbyist registry | Public search of registered lobbyists and lobbying activities in Saskatchewan under The Lobbyists Act. | https://registry.saskatchewanlobbyists.ca/ |
+| Saskatchewan Lobbyist Registry | Saskatchewan · Provincial | Lobbyist registry | Saskatchewan public lobbyist registry search under the Lobbyists Act. | https://www.sasklobbyistregistry.ca/ |
 
 ### Manitoba
 
@@ -1500,8 +1614,24 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Ontario Lobbyist Registry — Public Search | Ontario · Provincial | Lobbyist registry search | Search registered Ontario lobbyists by name, client, subject matter, ministry, and filing date — active and inactive registrations. | https://lobbyist.oico.on.ca/Pages/Public/PublicSearch/ |
 | Ottawa Lobbyist Registry | Ottawa · Municipal | Lobbyist registry | Search lobbyist registrations and disclosed communications with City Council and staff within 15 business days of contact. | https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/lobbyist-registry |
 | Toronto Lobbyist Registry — Open Data | Toronto · Municipal | Lobbyist dataset | Municipal lobbyist registration and communication disclosures synced to Open Toronto — analyze lobbying activity by subject and public office holder. | https://open.toronto.ca/dataset/lobbyist-registry-disclosure/ |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Carrefour Lobby Québec | Quebec · Provincial | Lobbyist registry | Quebec public lobbyist registry — search mandates, institutions contacted, and lobbying subjects under the Lobbying Transparency and Ethics Act. | https://www.carrefourlobby.quebec/ |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| New Brunswick Registry of Lobbyists | New Brunswick · Provincial | Lobbyist registry | Search lobbyist registrations and returns filed with the Office of the Commissioner of Lobbyist Registration in New Brunswick. | https://www.lobbyistsnb.ca/ |
+| Newfoundland and Labrador Lobbyist Registry Search | Newfoundland and Labrador · Provincial | Lobbyist registry search | Free public search of registered lobbyists in Newfoundland and Labrador via the CADO portal — filter by lobbyist, client, and activity dates. | https://cado.eservices.gov.nl.ca/Lobbyist/LobbyistSearch.aspx |
+| Nova Scotia Lobbyist Registry | Nova Scotia · Provincial | Lobbyist registry | Public registry of lobbyists registered under Nova Scotia’s Lobbyists Registration Act — search by lobbyist, client, and subject. | https://lobbyistregistry.novascotia.ca/ |
+| Prince Edward Island Lobbyist Registry | Prince Edward Island · Provincial | Lobbyist registry | PEI lobbyist registration search under the Lobbyist Registration Act. | https://www.princeedwardisland.ca/en/information/executive-council-office/lobbyist-registration |
 
 ## 🚨 Emergency, Safety & Alerts
 
