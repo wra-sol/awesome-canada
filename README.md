@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 549 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 554 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,10 +23,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 59
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 61
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 0
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 0
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 0
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 1
 - [🪪 Government Services & ID](#government-services-and-id) — 33
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 13
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 15
@@ -40,7 +40,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 21
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 24
-- [🚌 Transit & Mobility](#transit-and-mobility) — 27
+- [🚌 Transit & Mobility](#transit-and-mobility) — 28
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 52
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 22
@@ -49,7 +49,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 13
 - [🔬 Science, Research & Space](#science-research-and-space) — 12
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 0
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 1
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 0
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
@@ -92,6 +92,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | B.C. API Gateway | British Columbia · Provincial | API portal | British Columbia government API gateway for discovering, accessing, and managing provincial APIs and data services | https://api.gov.bc.ca/ |
 | DataBC | British Columbia · Provincial | Open data portal | Major open data and geospatial hub for BC | https://www2.gov.bc.ca/gov/content/data |
 | Metro Vancouver Open Data Portal | Metro Vancouver · Regional | Open data hub | Regional GIS datasets including LiDAR point clouds, aerial orthoimagery, liquid and solid waste services, water services, regional parks, and Electoral Area A boundaries | https://open-data-portal-metrovancouver.hub.arcgis.com/ |
+| Kelowna Open Data Hub | Kelowna · Municipal | Open data hub | Download city datasets including zoning, property parcels, building footprints, tree inventory, parks, trails, and infrastructure as GeoJSON, shapefiles, or CSV | https://opendata-kelowna.hub.arcgis.com/ |
 | Victoria Open Data Catalogue | Victoria · Municipal | Open data portal | Municipal datasets and geospatial resources | https://opendata.victoria.ca/ |
 
 ### Alberta
@@ -160,12 +161,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Prince Edward Island Open Data Portal | PEI · Provincial | Open data portal | PEI government open data catalogue with datasets on agriculture, environment, health, and transportation | https://data.princeedwardisland.ca/ |
 | Fredericton Open Data Portal | Fredericton · Municipal | Open data hub | ArcGIS Hub for the City of Fredericton with downloadable datasets and interactive apps including zoning maps, trail networks, metered parking, IoT environmental sensors, and construction projects | https://data.fredericton.ca |
 | Halifax Open Data | Halifax · Municipal | Open data portal | Useful municipal data and maps hub | https://data-hrm.hub.arcgis.com/pages/open-data-catalogue |
+| Moncton Open Data Hub | Moncton · Municipal | Open data hub | Download transit routes, zoning maps, parking, trail networks, construction projects, and environmental sensor data as GeoJSON, shapefiles, or CSV | https://opendata-moncton.hub.arcgis.com/ |
 
 ### Northern Canada (YT, NT, NU)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Yukon Open Data | Yukon · Provincial | Open data portal | Yukon government open data catalogue with datasets on environment, infrastructure, health, and demographics | https://open.yukon.ca/ |
+
+## 💳 Budget, Finance & Procurement
+
+### Ontario
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Ontario Public Sector Salary Disclosure | Ontario · Provincial | Salary disclosure | Searchable and downloadable public sector salary disclosure (Sunshine List) for Ontario employees earning over $100,000 — filter by organization, position, and year | https://www.ontario.ca/page/public-sector-salary-disclosure |
 
 ## 🪪 Government Services & ID
 
@@ -755,6 +765,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | PRESTO Fare Calculator | Ontario/GTA · Regional | Fare calculator | Transit fare estimator across participating systems | https://www.prestocard.ca/en/about/fare-types-and-discounts |
 | York Region Transit (YRT/Viva) | Ontario/GTA · Regional | Transit | York Region Transit and Viva BRT trip planning across York Region | https://www.yrt.ca/ |
 | OC Transpo — Trip Planner | Ottawa · Regional | Trip planner | OC Transpo bus and O-Train trip planning for Ottawa | https://www.octranspo.com/ |
+| OC Transpo GTFS Feed | Ottawa · Regional | GTFS feed | Official OC Transpo GTFS static feed download and real-time API documentation for Ottawa transit | https://www.octranspo.com/en/plan-your-trip/travel-tools#GTFS |
 | Grand River Transit (Waterloo Region) | Waterloo · Regional | Transit | Waterloo Region bus and ION LRT trip planning and schedules | https://www.grt.ca/ |
 | Windsor Transit | Windsor · Regional | Transit | Windsor transit routes and schedules | https://www.citywindsor.ca |
 | MiWay — Mississauga Transit | Mississauga · Municipal | Transit | MiWay bus routes, schedules, and real-time info for Mississauga | https://www.mississauga.ca/miway |
@@ -1149,6 +1160,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BAnQ — Bibliothèque et Archives nationales du Québec | Quebec · Provincial | Archive | Quebec's national library and archives with digitized newspapers, records, and genealogy | https://www.banq.qc.ca/ |
 | Montreal Open Data showcase | Montreal · Municipal | App gallery | Gallery of applications built from Montreal open data | https://donnees.montreal.ca/en/showcase |
+
+## 🖼️ Heritage Registers & Public Art
+
+### British Columbia
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Victoria Heritage Register Dataset | Victoria · Municipal | Heritage register | Downloadable dataset of City of Victoria designated heritage properties including built heritage and cultural heritage landscapes | https://opendata.victoria.ca/datasets/heritage-register |
 
 ## 🚨 Emergency, Safety & Alerts
 

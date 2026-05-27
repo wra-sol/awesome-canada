@@ -68,6 +68,7 @@ const JURISDICTION_TO_REGION = {
   'British Columbia':          'bc',
   'Vancouver':                 'bc',
   'Victoria':                  'bc',
+  'Kelowna':                   'bc',
   'Metro Vancouver':           'bc',
 
   'Alberta':                   'ab',
@@ -123,6 +124,7 @@ const JURISDICTION_TO_REGION = {
   'Newfoundland':              'atlantic',
   'Halifax':                   'atlantic',
   'Fredericton':               'atlantic',
+  'Moncton':                   'atlantic',
 
   'Yukon':                     'north',
   'Northwest Territories':     'north',

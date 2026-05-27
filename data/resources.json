@@ -7333,5 +7333,89 @@
       "gis",
       "ab"
     ]
+  },
+  {
+    "name": "OC Transpo GTFS Feed",
+    "level": "Regional",
+    "jurisdiction": "Ottawa",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Official OC Transpo GTFS static feed download and real-time API documentation for Ottawa transit",
+    "url": "https://www.octranspo.com/en/plan-your-trip/travel-tools#GTFS",
+    "tags": [
+      "Ottawa",
+      "transit",
+      "GTFS",
+      "OC Transpo",
+      "real-time"
+    ]
+  },
+  {
+    "name": "Ontario Public Sector Salary Disclosure",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "budget",
+    "type": "Salary disclosure",
+    "description": "Searchable and downloadable public sector salary disclosure (Sunshine List) for Ontario employees earning over $100,000 — filter by organization, position, and year",
+    "url": "https://www.ontario.ca/page/public-sector-salary-disclosure",
+    "tags": [
+      "Ontario",
+      "salary disclosure",
+      "transparency",
+      "budget",
+      "CSV",
+      "sunshine list"
+    ]
+  },
+  {
+    "name": "Kelowna Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Kelowna",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Download city datasets including zoning, property parcels, building footprints, tree inventory, parks, trails, and infrastructure as GeoJSON, shapefiles, or CSV",
+    "url": "https://opendata-kelowna.hub.arcgis.com/",
+    "tags": [
+      "Kelowna",
+      "BC",
+      "open data",
+      "GIS",
+      "zoning",
+      "property"
+    ]
+  },
+  {
+    "name": "Moncton Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Moncton",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Download transit routes, zoning maps, parking, trail networks, construction projects, and environmental sensor data as GeoJSON, shapefiles, or CSV",
+    "url": "https://opendata-moncton.hub.arcgis.com/",
+    "tags": [
+      "Moncton",
+      "NB",
+      "open data",
+      "GIS",
+      "transit",
+      "trails"
+    ]
+  },
+  {
+    "name": "Victoria Heritage Register Dataset",
+    "level": "Municipal",
+    "jurisdiction": "Victoria",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Downloadable dataset of City of Victoria designated heritage properties including built heritage and cultural heritage landscapes",
+    "url": "https://opendata.victoria.ca/datasets/heritage-register",
+    "tags": [
+      "Victoria",
+      "BC",
+      "heritage",
+      "built heritage",
+      "open data",
+      "register"
+    ]
   }
 ]
