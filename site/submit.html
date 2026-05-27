@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Submit a Link — Awesome Canada</title>
+  <meta name="description" content="Suggest a new Canadian government data source for the Awesome Canada directory.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-top">
+        <a href="index.html" class="site-title-link">
+          <h1 class="site-title">🇨🇦 Awesome Canada</h1>
+          <p class="site-subtitle">Municipal & Provincial Data Directory</p>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container form-page">
+    <h1 class="form-page-title">Submit a Link</h1>
+    <p class="form-page-intro">Know a Canadian government data source we’re missing? Suggest it below. We prioritize municipal and provincial resources that are actionable and hard to find.</p>
+
+    <form class="submit-form" id="submit-form" action="https://github.com/wra-sol/awesome-canada/issues/new" method="GET" target="_blank">
+      <input type="hidden" name="template" value="submit_link.yml">
+
+      <div class="form-group">
+        <label for="name">Resource Name <span class="required">*</span></label>
+        <input type="text" id="name" name="name" placeholder="e.g., Guelph Open Data — Building Permits" required>
+      </div>
+
+      <div class="form-group">
+        <label for="url">URL <span class="required">*</span></label>
+        <input type="url" id="url" name="url" placeholder="https://..." required>
+        <small class="form-hint">Direct link to the dataset, tool, or portal — not a general homepage.</small>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group">
+          <label for="level">Government Level <span class="required">*</span></label>
+          <select id="level" name="level" required>
+            <option value="">Select...</option>
+            <option value="Federal">Federal</option>
+            <option value="Provincial">Provincial</option>
+            <option value="Municipal">Municipal</option>
+            <option value="Regional">Regional</option>
+            <option value="Agency">Agency</option>
+            <option value="Crown Corp">Crown Corp</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="jurisdiction">Jurisdiction <span class="required">*</span></label>
+          <input type="text" id="jurisdiction" name="jurisdiction" placeholder="e.g., Guelph, Ontario" required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="category">Category <span class="required">*</span></label>
+        <select id="category" name="category" required>
+          <option value="">Select...</option>
+          <option value="open-data">Open Data & Statistics</option>
+          <option value="planning-zoning">Planning, Zoning & Development</option>
+          <option value="council">Council, Democracy & Transparency</option>
+          <option value="budget">Budget, Finance & Procurement</option>
+          <option value="gov-services">Government Services & ID</option>
+          <option value="taxes">Taxes & Revenue</option>
+          <option value="finance">Finance, Banking & Economy</option>
+          <option value="business">Business & Procurement</option>
+          <option value="employment">Employment & Labour</option>
+          <option value="education">Education & Student Aid</option>
+          <option value="school-board">Schools, Education & Boards</option>
+          <option value="immigration">Immigration & Citizenship</option>
+          <option value="health">Health & Wellness</option>
+          <option value="health-region">Health Regions & Local Health</option>
+          <option value="benefits">Benefits & Social Services</option>
+          <option value="housing">Housing & Real Estate</option>
+          <option value="transportation">Transportation & Roads</option>
+          <option value="transit">Transit & Mobility</option>
+          <option value="aviation">Aviation, Marine & Rail</option>
+          <option value="parks">Parks, Trails & Outdoors</option>
+          <option value="environment">Environment, Climate & Monitoring</option>
+          <option value="weather">Weather & Climate</option>
+          <option value="energy">Energy & Utilities</option>
+          <option value="agriculture">Agriculture, Food & Drink</option>
+          <option value="science">Science, Research & Space</option>
+          <option value="heritage">Heritage, Culture & Arts</option>
+          <option value="heritage-register">Heritage Registers & Public Art</option>
+          <option value="lobbyist">Lobbyists, Ethics & Disclosure</option>
+          <option value="emergency">Emergency, Safety & Alerts</option>
+          <option value="justice">Justice, Courts & Legal</option>
+          <option value="consumer">Consumer Protection & Privacy</option>
+          <option value="indigenous">Indigenous Services & Treaties</option>
+          <option value="veterans">Veterans & Military</option>
+          <option value="elections">Elections & Democracy</option>
+          <option value="telecom">Telecommunications & Digital</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="description">Description <span class="required">*</span></label>
+        <textarea id="description" name="description" rows="4" placeholder="What can someone DO with this link? Include data format if known (CSV, GeoJSON, GTFS, API, etc.)" required></textarea>
+        <small class="form-hint">Focus on utility, not just what it is.</small>
+      </div>
+
+      <div class="form-group">
+        <label for="tags">Tags</label>
+        <input type="text" id="tags" name="tags" placeholder="guelph, building permits, csv, geocoded">
+        <small class="form-hint">Comma-separated keywords including region and data format.</small>
+      </div>
+
+      <div class="form-group">
+        <label for="notes">Additional Notes</label>
+        <textarea id="notes" name="notes" rows="3" placeholder="Why is this hard to find or especially useful?"></textarea>
+      </div>
+
+      <div class="form-actions">
+        <button type="submit" class="btn btn-primary">Submit to GitHub</button>
+        <a href="index.html" class="btn btn-secondary">Cancel</a>
+      </div>
+
+      <p class="form-note">You’ll be taken to GitHub to create an issue. A GitHub account is required. All submissions are reviewed before being added to the directory.</p>
+    </form>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Awesome Canada — <a href="https://github.com/wra-sol/awesome-canada">GitHub</a> — <a href="index.html">Directory</a></p>
+    </div>
+  </footer>
+</body>
+</html>

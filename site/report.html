@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Report Broken Link — Awesome Canada</title>
+  <meta name="description" content="Report a broken or changed link in the Awesome Canada directory.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-top">
+        <a href="index.html" class="site-title-link">
+          <h1 class="site-title">🇨🇦 Awesome Canada</h1>
+          <p class="site-subtitle">Municipal & Provincial Data Directory</p>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container form-page">
+    <h1 class="form-page-title">Report a Broken Link</h1>
+    <p class="form-page-intro">Found a link that’s not working, redirecting somewhere unexpected, or showing the wrong content? Let us know and we’ll investigate.</p>
+
+    <form class="report-form" id="report-form" action="https://github.com/wra-sol/awesome-canada/issues/new" method="GET" target="_blank">
+      <input type="hidden" name="template" value="report_broken.yml">
+
+      <div class="form-group">
+        <label for="resource_name">Resource Name <span class="required">*</span></label>
+        <input type="text" id="resource_name" name="resource_name" placeholder="e.g., Guelph Open Data — Building Permits" required>
+      </div>
+
+      <div class="form-group">
+        <label for="current_url">Current URL in Directory <span class="required">*</span></label>
+        <input type="url" id="current_url" name="current_url" placeholder="https://..." required>
+      </div>
+
+      <div class="form-group">
+        <label for="issue_type">What happened? <span class="required">*</span></label>
+        <select id="issue_type" name="issue_type" required>
+          <option value="">Select...</option>
+          <option value="Page not found (404)">Page not found (404)</option>
+          <option value="Redirects to a different page">Redirects to a different page</option>
+          <option value="Site down / timeout">Site down / timeout</option>
+          <option value="Content changed / no longer the right resource">Content changed / no longer the right resource</option>
+          <option value="Requires login now">Requires login now</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="new_url">New URL (if known)</label>
+        <input type="url" id="new_url" name="new_url" placeholder="https://...">
+        <small class="form-hint">If the resource moved, paste the new location here. We’ll verify it.</small>
+      </div>
+
+      <div class="form-group">
+        <label for="details">Additional Details</label>
+        <textarea id="details" name="details" rows="3" placeholder="Any other context? When did you last see it working?"></textarea>
+      </div>
+
+      <div class="form-actions">
+        <button type="submit" class="btn btn-primary">Report on GitHub</button>
+        <a href="index.html" class="btn btn-secondary">Cancel</a>
+      </div>
+
+      <p class="form-note">You’ll be taken to GitHub to create an issue. A GitHub account is required. We review and fix reports as quickly as possible.</p>
+    </form>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Awesome Canada — <a href="https://github.com/wra-sol/awesome-canada">GitHub</a> — <a href="index.html">Directory</a></p>
+    </div>
+  </footer>
+</body>
+</html>
