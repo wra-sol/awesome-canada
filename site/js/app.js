@@ -230,21 +230,28 @@
 
   function renderGrid(items) {
     gridEl.innerHTML = items.map(r => `
-      <a class="resource-card" href="${escapeHtml(r.url)}" target="_blank" rel="noopener">
-        <div class="card-header">
-          <div class="card-title">${highlight(escapeHtml(r.name), activeFilters.search)}</div>
-          <span class="card-link-icon">↗</span>
+      <div class="resource-card">
+        <a class="card-main-link" href="${escapeHtml(r.url)}" target="_blank" rel="noopener">
+          <div class="card-header">
+            <div class="card-title">${highlight(escapeHtml(r.name), activeFilters.search)}</div>
+            <span class="card-link-icon">↗</span>
+          </div>
+          <div class="card-badges">
+            <span class="badge badge-level">${escapeHtml(r.level)}</span>
+            <span class="badge badge-category">${escapeHtml(r.category)}</span>
+            <span class="badge badge-jurisdiction">${escapeHtml(r.jurisdiction)}</span>
+          </div>
+          <div class="card-description">${highlight(escapeHtml(r.description), activeFilters.search)}</div>
+        </a>
+        <div class="card-footer">
+          <div class="card-tags">
+            ${(r.tags || []).slice(0, 4).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
+          </div>
+          <a class="card-report" href="report.html?resource_name=${encodeURIComponent(r.name)}&current_url=${encodeURIComponent(r.url)}" title="Report this link as broken">
+            <span>⚠</span> Report
+          </a>
         </div>
-        <div class="card-badges">
-          <span class="badge badge-level">${escapeHtml(r.level)}</span>
-          <span class="badge badge-category">${escapeHtml(r.category)}</span>
-          <span class="badge badge-jurisdiction">${escapeHtml(r.jurisdiction)}</span>
-        </div>
-        <div class="card-description">${highlight(escapeHtml(r.description), activeFilters.search)}</div>
-        <div class="card-tags">
-          ${(r.tags || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
-        </div>
-      </a>
+      </div>
     `).join('');
   }
 
@@ -258,6 +265,7 @@
             <th>Category</th>
             <th>Level</th>
             <th>Description</th>
+            <th></th>
           </tr>
         </thead>
         <tbody>
@@ -272,6 +280,9 @@
               <td>${escapeHtml(r.category)}</td>
               <td>${escapeHtml(r.level)}</td>
               <td>${highlight(escapeHtml(r.description), activeFilters.search)}</td>
+              <td>
+                <a class="table-report" href="report.html?resource_name=${encodeURIComponent(r.name)}&current_url=${encodeURIComponent(r.url)}" title="Report this link as broken">⚠</a>
+              </td>
             </tr>
           `).join('')}
         </tbody>

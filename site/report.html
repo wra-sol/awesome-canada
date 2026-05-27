@@ -74,8 +74,19 @@
 
   <footer class="site-footer">
     <div class="container">
-      <p>Awesome Canada — <a href="https://github.com/wra-sol/awesome-canada">GitHub</a> — <a href="index.html">Directory</a></p>
+      <p>Awesome Canada — <a href="https://github.com/wra-sol/awesome-canada">GitHub</a> — <a href="index.html">Directory</a> — <a href="submit.html">Submit a Link</a></p>
     </div>
   </footer>
+
+  <script>
+    // Pre-fill from URL parameters
+    (function() {
+      const params = new URLSearchParams(window.location.search);
+      const nameField = document.getElementById('resource_name');
+      const urlField = document.getElementById('current_url');
+      if (params.get('resource_name')) nameField.value = params.get('resource_name');
+      if (params.get('current_url')) urlField.value = params.get('current_url');
+    })();
+  </script>
 </body>
 </html>
