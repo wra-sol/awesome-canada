@@ -7,6 +7,8 @@
 
 ## What We Want
 
+This directory **prioritizes municipal and provincial data sources** — but federal resources are included where they provide unique value (census, geospatial, parliamentary, specialized research, regulatory databases). The key distinction: **actionable datasets and tools, not broad official websites.**
+
 ### Tier 1: Must-Have (Highest Priority)
 
 | Category | What to Find | Why It Matters |
@@ -101,9 +103,9 @@
 
 ## Anti-Patterns to Avoid
 
-1. **Broad official websites** — No "City of X homepage" entries
+1. **Broad official websites** — No "City of X homepage" entries (municipal, provincial, or federal)
 2. **Information-only pages** — Must have downloadable data or API access
-3. **Federal duplicates** — StatCan, Canada.ca already well-covered
+3. **Federal duplicates with no unique value** — StatCan and Canada.ca are well-covered; only add federal resources that provide specific datasets or tools
 4. **Crown corp retail** — LCBO, SAQ, etc. are already in the list; don't add more
 5. **Geocities-quality portals** — If the open data portal hasn't been updated since 2019, skip it
 6. **Login-walled resources** — Must be publicly accessible without account creation (unless FOIA response tracker)

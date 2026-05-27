@@ -1,12 +1,12 @@
 # Contributing to Awesome Canada
 
-Thanks for your interest! This list prioritizes **municipal and provincial data sources** that are actionable, hard to find, and genuinely useful. We focus on datasets, APIs, and tools — not broad "official website" links.
+Thanks for your interest! This list **prioritizes municipal and provincial data sources** that are actionable, hard to find, and genuinely useful. Federal resources are included where they provide unique datasets or tools not available elsewhere. We focus on datasets, APIs, and tools — not broad "official website" links.
 
-The list is organized by **function first, then region**. Every entry lives in [`data/resources.json`](data/resources.json) — that file is the source of truth and the `README.md` is generated from it.
+The list is organized by **function first, then region**. Every entry lives in [`data/resources.json`](data/resources.json) — that file is the source of truth.
 
 ## What We're Looking For
 
-**Yes:**
+**Yes (Priority):**
 - Municipal open data portals with actual downloadable datasets
 - Planning & zoning tools (interactive maps, permit trackers, development applications)
 - Council democracy tools (searchable agendas, vote trackers, meeting archives)
@@ -18,10 +18,16 @@ The list is organized by **function first, then region**. Every entry lives in [
 - Lobbyist registries and ethics disclosures
 - Provincial data catalogs with bulk download or API access
 
+**Yes (Federal — if unique value):**
+- Census data and geospatial portals (StatCan, GEO.ca)
+- Parliamentary tools (Hansard, committee trackers, election results)
+- Specialized datasets not available provincially/municipally (space, military, research)
+- Regulatory and legal databases (CanLII, CRTC, Competition Bureau)
+
 **No:**
 - Broad "official website" links (e.g., "City of X homepage")
 - Information-only pages with no data download or API
-- Federal resources already well-covered (StatCan, Canada.ca)
+- Federal duplicates already well-covered (general Canada.ca pages, not dataset-specific tools)
 - Crown corporation retail pages (LCBO, SAQ already covered)
 
 **Quality bar:** Every entry should answer: *"What can I do with this link?"*
