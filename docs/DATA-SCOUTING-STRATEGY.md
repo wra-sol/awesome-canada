@@ -123,8 +123,8 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ## Current State (May 2026)
 
-- Total resources: **785**
-- Municipal + provincial + regional: **60%** of catalog (471 / 785)
+- Total resources: **847**
+- Municipal + provincial + regional: **~63%** of catalog (533 / 847)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
 - Priority categories deepened: `planning-zoning` (22), `council` (33), `lobbyist` (15), `heritage` registers (14), `health-region` (17), `transit` GTFS (52), `weather` (8)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
@@ -135,3 +135,5 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 - **2026-05-27:** Added `dateAdded` field to all resources. Live directory site deployed to GitHub Pages. Repo cleaned of obsolete server files. Focus remains municipal/provincial actionable data.
 - **2026-05-27:** Batches 1–2 added ~150 portal and category-fill resources (`append-batch-sources.js`, `append-batch-sources-2.js`).
 - **2026-05-27:** Batch 3 (`append-batch-sources-3.js`) added **85** depth entries — GTFS feeds, lobbyist registries, heritage registers, council eScribe portals, budget datasets, AIC/planning tools — crossing the **>60%** M/P/R target.
+- **2026-05-27:** Batch 4 (`append-batch-sources-4.js`) added **36** Ontario gap-fill entries — open data hubs, council CivicWeb portals, school locators, and regional GIS for Sarnia, North Bay, Belleville, Cornwall, Whitby, Woodstock, Orillia, Timmins, Caledon, Sault Ste. Marie, St. Thomas, and Clarington.
+- **2026-05-27:** Batch 5 (`append-batch-sources-5.js`) added **26** Quebec and Atlantic entries — Données Québec catalogues (Lévis, Trois-Rivières, Saguenay), Gatineau council/budget depth, Truro/Moncton/CBRM GIS, and provincial Atlantic portals.

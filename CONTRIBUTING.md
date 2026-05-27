@@ -106,6 +106,8 @@ If a resource would fit multiple categories, pick the one a user is most likely 
 | `node scripts/append-batch-sources.js` | Append verified batch to `data/resources.json` (skips duplicate URLs) |
 | `node scripts/append-batch-sources-2.js` | Second sourcing batch (same dedupe behaviour) |
 | `node scripts/append-batch-sources-3.js` | Third batch: GTFS, registries, heritage, council depth (same dedupe) |
+| `node scripts/append-batch-sources-4.js` | Fourth batch: Ontario mid-size city gap fill (same dedupe) |
+| `node scripts/append-batch-sources-5.js` | Fifth batch: Quebec municipal depth and Atlantic GIS hubs (same dedupe) |
 
 ## Questions?
 

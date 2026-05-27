@@ -846,6 +846,37 @@
     ]
   },
   {
+    "name": "Gatineau — Liste de contrats",
+    "level": "Municipal",
+    "jurisdiction": "Gatineau",
+    "category": "budget",
+    "type": "Contracts list",
+    "description": "Published list of municipal contracts awarded by Ville de Gatineau — procurement transparency for vendors and researchers.",
+    "url": "https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fliste_contrats",
+    "tags": [
+      "gatineau",
+      "procurement",
+      "contracts",
+      "budget",
+      "transparency"
+    ]
+  },
+  {
+    "name": "Gatineau — Rémunération des élus",
+    "level": "Municipal",
+    "jurisdiction": "Gatineau",
+    "category": "budget",
+    "type": "Elected officials remuneration",
+    "description": "Councillor and mayor salary and expense disclosure for Gatineau elected officials — published remuneration reports.",
+    "url": "https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fremuneration_elus",
+    "tags": [
+      "gatineau",
+      "salary disclosure",
+      "council",
+      "budget"
+    ]
+  },
+  {
     "name": "Halifax Budget and Financial Plans",
     "level": "Municipal",
     "jurisdiction": "Halifax",
@@ -1337,6 +1368,22 @@
     ]
   },
   {
+    "name": "Belleville CivicWeb Council Portal",
+    "level": "Municipal",
+    "jurisdiction": "Belleville",
+    "category": "council",
+    "type": "Council agendas and minutes",
+    "description": "Searchable council and committee agendas, minutes, and attachments for City of Belleville — subscribe to meeting email alerts.",
+    "url": "https://citybellevilleon.civicweb.net/Portal/MeetingTypeList.aspx",
+    "tags": [
+      "belleville",
+      "council",
+      "agendas",
+      "minutes",
+      "civicweb"
+    ]
+  },
+  {
     "name": "Brampton Council and Committees — eScribe",
     "level": "Municipal",
     "jurisdiction": "Brampton",
@@ -1415,6 +1462,21 @@
     ]
   },
   {
+    "name": "Cornwall Council Minutes Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Cornwall",
+    "category": "council",
+    "type": "Council minutes archive",
+    "description": "Council minute archives from 1970 to present on Cornwall open data — searchable metadata with document links for accountability research.",
+    "url": "https://www.cornwall.ca/en/city-hall/open-data.aspx",
+    "tags": [
+      "cornwall",
+      "council",
+      "minutes",
+      "open data"
+    ]
+  },
+  {
     "name": "Edmonton Council Meetings (eScribe)",
     "level": "Municipal",
     "jurisdiction": "Edmonton",
@@ -1458,6 +1520,36 @@
       "council",
       "new brunswick",
       "agendas"
+    ]
+  },
+  {
+    "name": "Gatineau — Ordres du jour",
+    "level": "Municipal",
+    "jurisdiction": "Gatineau",
+    "category": "council",
+    "type": "Council agendas",
+    "description": "Browse Gatineau municipal council and committee agendas by year and month — includes CCU and commission meetings.",
+    "url": "https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fordres_jour",
+    "tags": [
+      "gatineau",
+      "council",
+      "agendas",
+      "quebec"
+    ]
+  },
+  {
+    "name": "Gatineau — Procès-verbaux",
+    "level": "Municipal",
+    "jurisdiction": "Gatineau",
+    "category": "council",
+    "type": "Council minutes",
+    "description": "Gatineau council and committee minutes archive searchable by meeting date and body.",
+    "url": "https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fproces_verbaux",
+    "tags": [
+      "gatineau",
+      "council",
+      "minutes",
+      "transparency"
     ]
   },
   {
@@ -1535,6 +1627,36 @@
       "quebec",
       "council",
       "agendas"
+    ]
+  },
+  {
+    "name": "Lévis — Ordres du jour du conseil",
+    "level": "Municipal",
+    "jurisdiction": "Lévis",
+    "category": "council",
+    "type": "Council agendas",
+    "description": "PDF agendas for City of Lévis council meetings — subscribe to email alerts when new agendas are published.",
+    "url": "https://www.ville.levis.qc.ca/la-ville/conseil-municipal/ordres-du-jour/",
+    "tags": [
+      "lévis",
+      "council",
+      "agendas",
+      "quebec"
+    ]
+  },
+  {
+    "name": "Lévis — Procès-verbaux du conseil",
+    "level": "Municipal",
+    "jurisdiction": "Lévis",
+    "category": "council",
+    "type": "Council minutes",
+    "description": "Council minutes and decision summaries for Lévis — published the Wednesday after each council meeting with linked decision briefs.",
+    "url": "https://www.ville.levis.qc.ca/la-ville/conseil-municipal/proces-verbaux/",
+    "tags": [
+      "lévis",
+      "council",
+      "minutes",
+      "transparency"
     ]
   },
   {
@@ -1659,6 +1781,22 @@
     ]
   },
   {
+    "name": "Saguenay — Documents des conseils",
+    "level": "Municipal",
+    "jurisdiction": "Saguenay",
+    "category": "council",
+    "type": "Council documents",
+    "description": "Saguenay municipal and borough council agendas, minutes, and livestream archives for Chicoutimi, Jonquière, and La Baie.",
+    "url": "https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/documents-des-conseils-et-avis-publics/documents-des-conseils",
+    "tags": [
+      "saguenay",
+      "council",
+      "agendas",
+      "minutes",
+      "borough"
+    ]
+  },
+  {
     "name": "Saskatoon Council Meetings",
     "level": "Municipal",
     "jurisdiction": "Saskatoon",
@@ -1719,6 +1857,22 @@
     ]
   },
   {
+    "name": "Timmins CivicWeb Council Portal",
+    "level": "Municipal",
+    "jurisdiction": "Timmins",
+    "category": "council",
+    "type": "Council agendas and minutes",
+    "description": "City of Timmins council calendar, agendas, minutes, resolutions, and by-laws — email subscription for new meeting packages.",
+    "url": "https://timmins.civicweb.net/Portal/",
+    "tags": [
+      "timmins",
+      "council",
+      "agendas",
+      "minutes",
+      "civicweb"
+    ]
+  },
+  {
     "name": "Toronto Council Voting Records (TMMIS)",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -1732,6 +1886,21 @@
       "votes",
       "csv",
       "transparency"
+    ]
+  },
+  {
+    "name": "Trois-Rivières — Ordres du jour et procès-verbaux",
+    "level": "Municipal",
+    "jurisdiction": "Trois-Rivières",
+    "category": "council",
+    "type": "Council agendas and minutes",
+    "description": "Archive of Trois-Rivières council and executive committee agendas, minutes, and adopted bylaws — posted by noon the day before regular meetings.",
+    "url": "https://www.v3r.net/a-propos-de-la-ville/vie-democratique/ordres-du-jour-et-proces-verbaux",
+    "tags": [
+      "trois-rivières",
+      "council",
+      "agendas",
+      "minutes"
     ]
   },
   {
@@ -2699,6 +2868,21 @@
     ]
   },
   {
+    "name": "Sault Ste. Marie Ward Finder",
+    "level": "Municipal",
+    "jurisdiction": "Sault Ste. Marie",
+    "category": "elections",
+    "type": "Ward lookup tool",
+    "description": "Look up municipal ward by street address using official address GIS data — powered by city open data extracts.",
+    "url": "https://cityssm.github.io/ward-finder/",
+    "tags": [
+      "sault ste marie",
+      "wards",
+      "elections",
+      "address lookup"
+    ]
+  },
+  {
     "name": "Civic Tech Toronto",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -3192,6 +3376,37 @@
     "tags": [
       "Saskatchewan",
       "wildfire"
+    ]
+  },
+  {
+    "name": "Lévis Flood Zone Map Service",
+    "level": "Municipal",
+    "jurisdiction": "Lévis",
+    "category": "environment",
+    "type": "Flood zone map service",
+    "description": "Lévis flood plain and inundation zones via municipal ArcGIS MapServer — query JSON/GeoJSON for hazard mapping.",
+    "url": "https://cartes.ville.levis.qc.ca/arcgis/rest/services/Gociteweb/Hydrographie/MapServer/10",
+    "tags": [
+      "lévis",
+      "flood",
+      "environment",
+      "arcgis",
+      "geojson"
+    ]
+  },
+  {
+    "name": "North Bay Drinking Water Quality Reports",
+    "level": "Municipal",
+    "jurisdiction": "North Bay",
+    "category": "environment",
+    "type": "Water quality reports",
+    "description": "Annual and summary drinking water quality test results for City of North Bay municipal water system — PDF reports by year.",
+    "url": "https://www.northbay.ca/your-city-hall/departments/water-wastewater/drinking-water-quality/",
+    "tags": [
+      "north bay",
+      "water quality",
+      "drinking water",
+      "environment"
     ]
   },
   {
@@ -4176,6 +4391,21 @@
     ]
   },
   {
+    "name": "Hastings Prince Edward Public Health Inspection Search",
+    "level": "Regional",
+    "jurisdiction": "Belleville",
+    "category": "health-region",
+    "type": "Food safety inspection search",
+    "description": "Search food premises inspection results and compliance history for Belleville, Quinte West, and Hastings-Prince Edward region.",
+    "url": "https://www.hpepublichealth.ca/en/health-topics/inspections.aspx",
+    "tags": [
+      "belleville",
+      "public health",
+      "food inspection",
+      "hastings prince edward"
+    ]
+  },
+  {
     "name": "Middlesex-London Health Unit — Inspection Reports",
     "level": "Regional",
     "jurisdiction": "London",
@@ -4188,6 +4418,21 @@
       "middlesex",
       "food safety",
       "inspections"
+    ]
+  },
+  {
+    "name": "North Bay Parry Sound District Health Unit Data",
+    "level": "Regional",
+    "jurisdiction": "North Bay",
+    "category": "health-region",
+    "type": "Public health data",
+    "description": "North Bay Parry Sound District Health Unit reports and local health data — outbreaks, immunization, and community health indicators.",
+    "url": "https://www.myhealthunit.ca/en/health-topics/resources-and-reports.asp",
+    "tags": [
+      "north bay",
+      "public health",
+      "health unit",
+      "reports"
     ]
   },
   {
@@ -4390,6 +4635,22 @@
     ]
   },
   {
+    "name": "Cornwall Heritage Designated Sites Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Cornwall",
+    "category": "heritage",
+    "type": "Heritage register dataset",
+    "description": "GIS layer of Heritage Cornwall designated properties — map, filter, and download designated sites with by-law references via open data portal.",
+    "url": "https://data-cornwallcity.opendata.arcgis.com/datasets/7e4d2ad84e584cceb938711fec2f9f2c_0",
+    "tags": [
+      "cornwall",
+      "heritage",
+      "designated properties",
+      "open data",
+      "geojson"
+    ]
+  },
+  {
     "name": "Edmonton Register of Historic Resources",
     "level": "Municipal",
     "jurisdiction": "Edmonton",
@@ -4509,6 +4770,36 @@
       "register",
       "arcgis",
       "planning"
+    ]
+  },
+  {
+    "name": "SooMaps Heritage Sites Data",
+    "level": "Municipal",
+    "jurisdiction": "Sault Ste. Marie",
+    "category": "heritage",
+    "type": "Heritage sites dataset",
+    "description": "Weekly-refreshed CSV/JSON extracts of Sault Ste. Marie heritage sites from official GIS — sourced from city SooMaps open data program.",
+    "url": "https://cityssm.github.io/soomaps-data/",
+    "tags": [
+      "sault ste marie",
+      "heritage",
+      "csv",
+      "json",
+      "open data"
+    ]
+  },
+  {
+    "name": "St. Thomas Heritage Properties",
+    "level": "Municipal",
+    "jurisdiction": "St. Thomas",
+    "category": "heritage",
+    "type": "Heritage property listing",
+    "description": "Searchable listing of designated and listed heritage properties in St. Thomas with location and designation details.",
+    "url": "https://www.stthomas.ca/visiting_us/heritage_properties",
+    "tags": [
+      "st thomas",
+      "heritage",
+      "designated properties"
     ]
   },
   {
@@ -5843,6 +6134,22 @@
     ]
   },
   {
+    "name": "Newfoundland and Labrador Geospatial Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "open-data",
+    "type": "Provincial geospatial catalogue",
+    "description": "NL provincial geospatial datasets — municipal boundaries, health regions, and spatial layers in KML, shapefile, and other formats.",
+    "url": "https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasets-spatial",
+    "tags": [
+      "newfoundland",
+      "labrador",
+      "open data",
+      "geospatial",
+      "shapefile"
+    ]
+  },
+  {
     "name": "Newfoundland and Labrador Open Data",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",
@@ -5981,6 +6288,22 @@
   {
     "name": "Durham Region Open Data",
     "level": "Regional",
+    "jurisdiction": "Clarington",
+    "category": "open-data",
+    "type": "Regional open data portal",
+    "description": "Regional Municipality of Durham open data — boundaries, infrastructure, and regional datasets covering Clarington and other lower-tier municipalities.",
+    "url": "https://opendata.durham.ca/",
+    "tags": [
+      "durham",
+      "clarington",
+      "open data",
+      "arcgis hub",
+      "regional"
+    ]
+  },
+  {
+    "name": "Durham Region Open Data",
+    "level": "Regional",
     "jurisdiction": "Durham",
     "category": "open-data",
     "type": "Regional open data",
@@ -6055,6 +6378,21 @@
     ]
   },
   {
+    "name": "Simcoe County Open Data Hub (Orillia region)",
+    "level": "Regional",
+    "jurisdiction": "Orillia",
+    "category": "open-data",
+    "type": "County open data portal",
+    "description": "County of Simcoe regional open data — shared GIS layers and datasets for Orillia, Barrie, and Simcoe municipalities.",
+    "url": "https://data-simcoe.opendata.arcgis.com/",
+    "tags": [
+      "orillia",
+      "simcoe county",
+      "open data",
+      "arcgis hub"
+    ]
+  },
+  {
     "name": "Peel Region Open Data",
     "level": "Regional",
     "jurisdiction": "Peel",
@@ -6085,6 +6423,21 @@
     ]
   },
   {
+    "name": "County of Elgin GeoHub (St. Thomas area)",
+    "level": "Regional",
+    "jurisdiction": "St. Thomas",
+    "category": "open-data",
+    "type": "County open data portal",
+    "description": "Elgin County GIS open data covering St. Thomas and surrounding municipalities — parcels, roads, and planning layers via ArcGIS Hub.",
+    "url": "https://geohub.elgin.ca/",
+    "tags": [
+      "st thomas",
+      "elgin county",
+      "open data",
+      "arcgis hub"
+    ]
+  },
+  {
     "name": "Region of Waterloo Open Data",
     "level": "Regional",
     "jurisdiction": "Waterloo",
@@ -6098,6 +6451,21 @@
       "open data",
       "arcgis",
       "gtfs"
+    ]
+  },
+  {
+    "name": "Oxford County Open Data Hub",
+    "level": "Regional",
+    "jurisdiction": "Woodstock",
+    "category": "open-data",
+    "type": "Regional open data portal",
+    "description": "Oxford County GIS open data serving Woodstock and area municipalities — parcels, zoning, addressing, and infrastructure with REST API and downloads.",
+    "url": "https://public-oxfordcounty.opendata.arcgis.com/",
+    "tags": [
+      "woodstock",
+      "oxford county",
+      "open data",
+      "arcgis hub"
     ]
   },
   {
@@ -6221,6 +6589,21 @@
     ]
   },
   {
+    "name": "City of Belleville Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Belleville",
+    "category": "open-data",
+    "type": "Open Data Portal",
+    "description": "Belleville GIS open data on ArcGIS Hub — parcels, road network, and planning layers with shapefile/GeoJSON download and API.",
+    "url": "https://opendata-bellevillegis.hub.arcgis.com/",
+    "tags": [
+      "belleville",
+      "open data",
+      "arcgis hub",
+      "parcels"
+    ]
+  },
+  {
     "name": "Brandon Open Data",
     "level": "Municipal",
     "jurisdiction": "Brandon",
@@ -6277,6 +6660,21 @@
       "bc",
       "open data",
       "gis"
+    ]
+  },
+  {
+    "name": "Town of Caledon Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Caledon",
+    "category": "open-data",
+    "type": "Open Data Portal",
+    "description": "Caledon open data on ArcGIS Hub — trails, tourism, broadband coverage, and municipal GIS layers with bulk download and REST services.",
+    "url": "https://data-caledon.opendata.arcgis.com/",
+    "tags": [
+      "caledon",
+      "open data",
+      "arcgis hub",
+      "peel"
     ]
   },
   {
@@ -6351,6 +6749,22 @@
     ]
   },
   {
+    "name": "CBRM GIS REST Services",
+    "level": "Municipal",
+    "jurisdiction": "Cape Breton",
+    "category": "open-data",
+    "type": "ArcGIS REST services",
+    "description": "Cape Breton Regional Municipality ArcGIS Server — planning, parcels, public works, transit, and utilities layers queryable via REST API.",
+    "url": "https://gis2.cbrm.ns.ca/server/rest/services",
+    "tags": [
+      "cape breton",
+      "sydney",
+      "nova scotia",
+      "arcgis",
+      "api"
+    ]
+  },
+  {
     "name": "Coquitlam Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Coquitlam",
@@ -6363,6 +6777,37 @@
       "bc",
       "open data",
       "arcgis"
+    ]
+  },
+  {
+    "name": "City of Cornwall Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Cornwall",
+    "category": "open-data",
+    "type": "Open Data Portal",
+    "description": "Cornwall municipal open data catalogue — address points, buildings, watermains, official plan land use, and heritage sites with CSV/GeoJSON export.",
+    "url": "https://data-cornwallcity.opendata.arcgis.com/",
+    "tags": [
+      "cornwall",
+      "open data",
+      "arcgis hub",
+      "geojson"
+    ]
+  },
+  {
+    "name": "Cornwall Address Points Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Cornwall",
+    "category": "open-data",
+    "type": "Address dataset",
+    "description": "Municipal address point layer for Cornwall — geocoded civic addresses with export to CSV, Shapefile, or GeoJSON.",
+    "url": "https://data-cornwallcity.opendata.arcgis.com/datasets/134ac6de89ff493484541b6d8a326e62_34",
+    "tags": [
+      "cornwall",
+      "addresses",
+      "geocoded",
+      "open data",
+      "csv"
     ]
   },
   {
@@ -6691,6 +7136,22 @@
     ]
   },
   {
+    "name": "Ville de Lévis — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Lévis",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Lévis municipal datasets on Données Québec — zonage, adresses, infrastructures with CSV, SHP, GeoJSON, and FGDB download.",
+    "url": "https://www.donneesquebec.ca/recherche/organization/ville-de-levis",
+    "tags": [
+      "lévis",
+      "quebec",
+      "open data",
+      "données québec",
+      "geojson"
+    ]
+  },
+  {
     "name": "London Open Data Catalogue",
     "level": "Municipal",
     "jurisdiction": "London",
@@ -6820,6 +7281,21 @@
     ]
   },
   {
+    "name": "Moncton Open Data Catalogue (ArcGIS Hub)",
+    "level": "Municipal",
+    "jurisdiction": "Moncton",
+    "category": "open-data",
+    "type": "Open Data Catalogue",
+    "description": "City of Moncton GIS catalogue on ArcGIS Hub — zoning, transit, trails, parking, and environmental sensor datasets with export.",
+    "url": "https://catalogue-moncton.hub.arcgis.com/",
+    "tags": [
+      "moncton",
+      "new brunswick",
+      "open data",
+      "arcgis hub"
+    ]
+  },
+  {
     "name": "Moncton Open Data Hub",
     "level": "Municipal",
     "jurisdiction": "Moncton",
@@ -6923,6 +7399,21 @@
     ]
   },
   {
+    "name": "Explore North Bay GIS Portal",
+    "level": "Municipal",
+    "jurisdiction": "North Bay",
+    "category": "open-data",
+    "type": "GIS Open Data Portal",
+    "description": "City of North Bay ArcGIS Hub — zoning, transportation, public art, and community statistics with downloadable map layers and REST API access.",
+    "url": "https://data-northbaygis.hub.arcgis.com/",
+    "tags": [
+      "north bay",
+      "open data",
+      "arcgis hub",
+      "gis"
+    ]
+  },
+  {
     "name": "Oakville Explore Open Data",
     "level": "Municipal",
     "jurisdiction": "Oakville",
@@ -6935,6 +7426,20 @@
       "ontario",
       "open data",
       "arcgis"
+    ]
+  },
+  {
+    "name": "City of Orillia Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Orillia",
+    "category": "open-data",
+    "type": "Open Data Portal",
+    "description": "Orillia municipal open data portal — addresses, zoning, and planning schedules with dataset download and map services.",
+    "url": "https://data.orillia.ca/",
+    "tags": [
+      "orillia",
+      "open data",
+      "simcoe"
     ]
   },
   {
@@ -7166,6 +7671,37 @@
     ]
   },
   {
+    "name": "Saguenay Bâtiments — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Saguenay",
+    "category": "open-data",
+    "type": "Buildings dataset",
+    "description": "Municipal building footprints for Saguenay — download as CSV, GeoJSON, or shapefile from the provincial open data portal.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay&q=b%C3%A2timent",
+    "tags": [
+      "saguenay",
+      "buildings",
+      "open data",
+      "geojson",
+      "shapefile"
+    ]
+  },
+  {
+    "name": "Ville de Saguenay — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Saguenay",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Saguenay open data on Données Québec — zoning, buildings, roads, parks, addresses, and tree inventory with CSV/SHP/GeoJSON export.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay",
+    "tags": [
+      "saguenay",
+      "quebec",
+      "open data",
+      "données québec"
+    ]
+  },
+  {
     "name": "Saint John Open Data Catalogue",
     "level": "Municipal",
     "jurisdiction": "Saint John",
@@ -7178,6 +7714,21 @@
       "new brunswick",
       "open data",
       "arcgis"
+    ]
+  },
+  {
+    "name": "Sarnia GeoHub",
+    "level": "Municipal",
+    "jurisdiction": "Sarnia",
+    "category": "open-data",
+    "type": "Open Data Portal",
+    "description": "ArcGIS Hub for City of Sarnia GIS layers — zoning, transportation, infrastructure, and interactive community maps with CSV/GeoJSON export.",
+    "url": "https://city-of-sarnia.hub.arcgis.com/",
+    "tags": [
+      "sarnia",
+      "open data",
+      "arcgis hub",
+      "gis"
     ]
   },
   {
@@ -7208,6 +7759,23 @@
       "planning",
       "open data",
       "development"
+    ]
+  },
+  {
+    "name": "SooMaps Open GIS Data Downloads",
+    "level": "Municipal",
+    "jurisdiction": "Sault Ste. Marie",
+    "category": "open-data",
+    "type": "GIS data extracts",
+    "description": "Official City of Sault Ste. Marie GIS extracts — addresses, streets, wards, bus stops, playgrounds, and heritage as CSV/JSON refreshed weekly.",
+    "url": "https://github.com/cityssm/soomaps-data",
+    "tags": [
+      "sault ste marie",
+      "open data",
+      "csv",
+      "json",
+      "addresses",
+      "wards"
     ]
   },
   {
@@ -7318,6 +7886,21 @@
     ]
   },
   {
+    "name": "City of Timmins Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Timmins",
+    "category": "open-data",
+    "type": "Open Data Portal",
+    "description": "Timmins municipal open data portal — infrastructure, planning, and community GIS datasets on ArcGIS Hub with export and API access.",
+    "url": "https://opendata.timmins.ca/",
+    "tags": [
+      "timmins",
+      "open data",
+      "northern ontario",
+      "arcgis"
+    ]
+  },
+  {
     "name": "2026 City Budget",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -7354,6 +7937,36 @@
     "tags": [
       "open data",
       "Toronto"
+    ]
+  },
+  {
+    "name": "Ville de Trois-Rivières — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Trois-Rivières",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Trois-Rivières datasets on Données Québec — zoning, roads, buildings, and infrastructure in CSV, SHP, and GeoJSON with weekly updates.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-trois-rivieres",
+    "tags": [
+      "trois-rivières",
+      "quebec",
+      "open data",
+      "données québec"
+    ]
+  },
+  {
+    "name": "Interactive Truro — Open Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Truro",
+    "category": "open-data",
+    "type": "Open Data Portal",
+    "description": "Town of Truro ArcGIS Hub — maps, apps, and downloadable GIS datasets including building footprints and local layers.",
+    "url": "https://interactive-truro-townoftruro.hub.arcgis.com/",
+    "tags": [
+      "truro",
+      "nova scotia",
+      "open data",
+      "arcgis hub"
     ]
   },
   {
@@ -7442,6 +8055,21 @@
       "bc",
       "open data",
       "arcgis"
+    ]
+  },
+  {
+    "name": "Whitby GeoHub",
+    "level": "Municipal",
+    "jurisdiction": "Whitby",
+    "category": "open-data",
+    "type": "Open Data Portal",
+    "description": "Town of Whitby open data portal — municipal facilities, parks, trails, and planning datasets searchable and downloadable via ArcGIS Hub.",
+    "url": "https://geohub-whitby.hub.arcgis.com/",
+    "tags": [
+      "whitby",
+      "open data",
+      "arcgis hub",
+      "durham"
     ]
   },
   {
@@ -8210,6 +8838,22 @@
     ]
   },
   {
+    "name": "Caledon Trails Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Caledon",
+    "category": "parks",
+    "type": "Trails GIS dataset",
+    "description": "Caledon trail network GIS layers on open data — download paths and recreation routes or query via municipal map services.",
+    "url": "https://maps.caledon.ca/calgis/rest/services/External/Trails/MapServer",
+    "tags": [
+      "caledon",
+      "trails",
+      "parks",
+      "gis",
+      "arcgis"
+    ]
+  },
+  {
     "name": "Barrie Planning & Development Map",
     "level": "Municipal",
     "jurisdiction": "Barrie",
@@ -8223,6 +8867,21 @@
       "zoning",
       "building permits",
       "arcgis"
+    ]
+  },
+  {
+    "name": "Belleville Parcels Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Belleville",
+    "category": "planning-zoning",
+    "type": "Parcel dataset",
+    "description": "City of Belleville property parcel layer with roll and addressing attributes — export CSV/GeoJSON or use ArcGIS Hub API.",
+    "url": "https://opendata-bellevillegis.hub.arcgis.com/datasets/parcels-1",
+    "tags": [
+      "belleville",
+      "parcels",
+      "property",
+      "open data"
     ]
   },
   {
@@ -8242,6 +8901,52 @@
     ]
   },
   {
+    "name": "CBRM Parcel Finder",
+    "level": "Municipal",
+    "jurisdiction": "Cape Breton",
+    "category": "planning-zoning",
+    "type": "Parcel map service",
+    "description": "Cape Breton Regional Municipality parcel and property lookup via municipal GIS ParcelFinder map services.",
+    "url": "https://gis2.cbrm.ns.ca/server/rest/services/ParcelFinder",
+    "tags": [
+      "cape breton",
+      "parcels",
+      "property",
+      "gis"
+    ]
+  },
+  {
+    "name": "CBRM Planning GIS Services",
+    "level": "Municipal",
+    "jurisdiction": "Cape Breton",
+    "category": "planning-zoning",
+    "type": "Planning map services",
+    "description": "CBRM planning department GIS map services — zoning and land-use layers via ArcGIS REST for Cape Breton Regional Municipality.",
+    "url": "https://gis2.cbrm.ns.ca/server/rest/services/Planning",
+    "tags": [
+      "cape breton",
+      "planning",
+      "zoning",
+      "arcgis"
+    ]
+  },
+  {
+    "name": "Clarington Municipal Planning Data Reports",
+    "level": "Municipal",
+    "jurisdiction": "Clarington",
+    "category": "planning-zoning",
+    "type": "Planning application statistics",
+    "description": "Quarterly PDF reports of planning applications received and decided, housing units proposed and approved — per Ontario Regulation 73/23.",
+    "url": "https://www.clarington.net/planning-and-development/municipal-planning-data-report/",
+    "tags": [
+      "clarington",
+      "durham",
+      "development applications",
+      "housing",
+      "planning"
+    ]
+  },
+  {
     "name": "Coquitlam Planning and Development Open Data",
     "level": "Municipal",
     "jurisdiction": "Coquitlam",
@@ -8255,6 +8960,22 @@
       "planning",
       "development",
       "arcgis"
+    ]
+  },
+  {
+    "name": "Cornwall Official Plan Land Use Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Cornwall",
+    "category": "planning-zoning",
+    "type": "Land use dataset",
+    "description": "Official Plan Schedule 1 land-use polygons for Cornwall — download shapefile/GeoJSON or query via ArcGIS REST from the open data catalogue.",
+    "url": "https://data-cornwallcity.opendata.arcgis.com/datasets/official-plan-schedule1-landuse",
+    "tags": [
+      "cornwall",
+      "official plan",
+      "land use",
+      "zoning",
+      "shapefile"
     ]
   },
   {
@@ -8285,6 +9006,21 @@
       "development permits",
       "zoning",
       "arcgis"
+    ]
+  },
+  {
+    "name": "Gatineau — Statistiques sur les permis de construction",
+    "level": "Municipal",
+    "jurisdiction": "Gatineau",
+    "category": "planning-zoning",
+    "type": "Building permit statistics",
+    "description": "Annual and monthly building permit statistics published by Gatineau — counts and values for construction activity tracking.",
+    "url": "https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fstatistiques_permis_construction",
+    "tags": [
+      "gatineau",
+      "building permits",
+      "statistics",
+      "construction"
     ]
   },
   {
@@ -8349,6 +9085,22 @@
     ]
   },
   {
+    "name": "Lévis Zonage — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Lévis",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Municipal zoning boundaries for Lévis — download GeoJSON, shapefile, or FGDB; updated on Données Québec with CC-BY licence.",
+    "url": "https://www.donneesquebec.ca/recherche/fr/dataset/6cd041e3-902c-469e-a863-e54f4df966f2",
+    "tags": [
+      "lévis",
+      "zonage",
+      "zoning",
+      "geojson",
+      "shapefile"
+    ]
+  },
+  {
     "name": "Mississauga Building Permits Open Data",
     "level": "Municipal",
     "jurisdiction": "Mississauga",
@@ -8364,6 +9116,21 @@
     ]
   },
   {
+    "name": "Moncton Development Applications Map",
+    "level": "Municipal",
+    "jurisdiction": "Moncton",
+    "category": "planning-zoning",
+    "type": "Development applications map",
+    "description": "Interactive ArcGIS web map of Moncton development applications and planning layers for public review.",
+    "url": "https://moncton.maps.arcgis.com/apps/webappviewer/index.html?id=c402455fb01445c7aefd359d59f11b63",
+    "tags": [
+      "moncton",
+      "development applications",
+      "planning",
+      "arcgis"
+    ]
+  },
+  {
     "name": "Montreal Building Permits Open Data",
     "level": "Municipal",
     "jurisdiction": "Montreal",
@@ -8376,6 +9143,38 @@
       "building permits",
       "open data",
       "quebec"
+    ]
+  },
+  {
+    "name": "Corner Brook Land Use Planning Registry",
+    "level": "Municipal",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "planning-zoning",
+    "type": "Planning registry",
+    "description": "Corner Brook municipal plan, zoning maps (PDF/KMZ), and development regulations via the provincial land use planning registry.",
+    "url": "https://www.gov.nl.ca/mca/registry/community/corner-brook/",
+    "tags": [
+      "corner brook",
+      "newfoundland",
+      "zoning",
+      "municipal plan",
+      "kmz"
+    ]
+  },
+  {
+    "name": "Orillia Zone Mapping Feature Service",
+    "level": "Municipal",
+    "jurisdiction": "Orillia",
+    "category": "planning-zoning",
+    "type": "Zoning map service",
+    "description": "Orillia zoning by-law zone polygons via County of Simcoe ArcGIS FeatureServer — query JSON/GeoJSON or export for GIS analysis.",
+    "url": "https://maps.simcoe.ca/arcgis/rest/services/Orillia/Zone_Mapping/FeatureServer",
+    "tags": [
+      "orillia",
+      "zoning",
+      "arcgis",
+      "featureserver",
+      "geojson"
     ]
   },
   {
@@ -8422,6 +9221,52 @@
       "quebec city",
       "building permits",
       "open data"
+    ]
+  },
+  {
+    "name": "Saguenay Zonage — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Saguenay",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Saguenay municipal zoning polygons — weekly-updated CSV, GeoJSON, and shapefile downloads via Données Québec.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/sag_zonage",
+    "tags": [
+      "saguenay",
+      "zonage",
+      "zoning",
+      "geojson",
+      "csv"
+    ]
+  },
+  {
+    "name": "Sarnia Residential Development Pipeline Dashboard",
+    "level": "Municipal",
+    "jurisdiction": "Sarnia",
+    "category": "planning-zoning",
+    "type": "Development pipeline dashboard",
+    "description": "Interactive dashboard of Council-approved residential units via zoning amendments, OPA, and site plan — filter by project status and map location.",
+    "url": "https://www.sarnia.ca/business-planning-and-development/residential-development-pipeline/",
+    "tags": [
+      "sarnia",
+      "development applications",
+      "zoning",
+      "housing units"
+    ]
+  },
+  {
+    "name": "St. Thomas CMAP Interactive City Maps",
+    "level": "Municipal",
+    "jurisdiction": "St. Thomas",
+    "category": "planning-zoning",
+    "type": "Interactive zoning map",
+    "description": "CartoVista web map for St. Thomas — zoning, property, and city map layers for parcel and planning lookups.",
+    "url": "https://cmap2.stthomas.ca/CartoVistaServer/maps/view",
+    "tags": [
+      "st thomas",
+      "zoning",
+      "maps",
+      "planning"
     ]
   },
   {
@@ -8487,6 +9332,22 @@
     ]
   },
   {
+    "name": "Trois-Rivières Zonage — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Trois-Rivières",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Municipal zoning layer for Trois-Rivières — export CSV, GeoJSON, or shapefile from Données Québec; aligns with urban planning by-law.",
+    "url": "https://www.donneesquebec.ca/recherche/fr/dataset/85fa8f51-28f6-4163-9d96-eab0b185ec10",
+    "tags": [
+      "trois-rivières",
+      "zonage",
+      "zoning",
+      "csv",
+      "geojson"
+    ]
+  },
+  {
     "name": "Vancouver Building Permits Issued",
     "level": "Municipal",
     "jurisdiction": "Vancouver",
@@ -8543,6 +9404,22 @@
     "tags": [
       "winnipeg",
       "building permits",
+      "open data"
+    ]
+  },
+  {
+    "name": "Oxford County Zoning Open Data (Woodstock)",
+    "level": "Municipal",
+    "jurisdiction": "Woodstock",
+    "category": "planning-zoning",
+    "type": "Zoning map service",
+    "description": "Consolidated lower-tier municipal zoning for Oxford County including Woodstock — query MapServer layer or download via Oxford County Open Data Hub.",
+    "url": "https://public.oxfordcounty.ca/gis/rest/services/OpenData/OXFORD_OpenData/MapServer/2",
+    "tags": [
+      "woodstock",
+      "oxford county",
+      "zoning",
+      "arcgis",
       "open data"
     ]
   },
@@ -8848,6 +9725,38 @@
     ]
   },
   {
+    "name": "Peel District School Board School Finder",
+    "level": "Regional",
+    "jurisdiction": "Peel",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Search Peel Region addresses to find assigned PDSB schools — links to Directions boundary maps for elementary and secondary catchments.",
+    "url": "https://www.peelschools.org/school-finder",
+    "tags": [
+      "peel",
+      "pdsb",
+      "school boundaries",
+      "mississauga",
+      "brampton"
+    ]
+  },
+  {
+    "name": "YRDSB School Locator",
+    "level": "Regional",
+    "jurisdiction": "York Region",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Enter a York Region street address to find designated elementary and secondary schools with links to boundary map PDFs.",
+    "url": "https://schoollocator.yrdsb.ca/",
+    "tags": [
+      "yrdsb",
+      "york region",
+      "school boundaries",
+      "catchment",
+      "locator"
+    ]
+  },
+  {
     "name": "Calgary Board of Education — School Directory",
     "level": "Municipal",
     "jurisdiction": "Calgary",
@@ -8860,6 +9769,21 @@
       "cbe",
       "schools",
       "directory"
+    ]
+  },
+  {
+    "name": "Ottawa-Carleton District School Board School Locator",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "OCDSB interactive school locator — find elementary and secondary schools by home address within Ottawa.",
+    "url": "https://www.ocdsb.ca/schools/our_schools/school_locator",
+    "tags": [
+      "ocdsb",
+      "ottawa",
+      "school boundaries",
+      "locator"
     ]
   },
   {
@@ -8876,6 +9800,21 @@
       "schools",
       "open data",
       "education"
+    ]
+  },
+  {
+    "name": "Toronto District School Board Find Your School",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "TDSB address-based school finder for elementary and secondary designated schools within Toronto.",
+    "url": "https://www.tdsb.on.ca/Find-your/School",
+    "tags": [
+      "tdsb",
+      "toronto",
+      "school boundaries",
+      "catchment"
     ]
   },
   {
@@ -10346,6 +11285,22 @@
       "Ottawa",
       "traffic",
       "roads"
+    ]
+  },
+  {
+    "name": "Saguenay Réseau routier — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Saguenay",
+    "category": "transport-roads",
+    "type": "Road network dataset",
+    "description": "Saguenay municipal road centreline network — CSV, GeoJSON, and shapefile download from Données Québec.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay&q=r%C3%A9seau+routier",
+    "tags": [
+      "saguenay",
+      "roads",
+      "transport",
+      "open data",
+      "geojson"
     ]
   },
   {
