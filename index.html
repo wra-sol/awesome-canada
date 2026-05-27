@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome Canada — Municipal & Provincial Data Directory</title>
+  <meta name="description" content="A curated directory of Canadian municipal and provincial data sources, open data portals, planning tools, and government datasets.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-top">
+        <h1 class="site-title">🇨🇦 Awesome Canada</h1>
+        <p class="site-subtitle">Municipal & Provincial Data Directory</p>
+      </div>
+      <div class="search-bar">
+        <input type="text" id="search-input" placeholder="Search resources by name, description, or tags..." autocomplete="off">
+        <button id="search-clear" class="search-clear" aria-label="Clear search">×</button>
+      </div>
+      <div class="stats-bar" id="stats-bar">
+        <span id="resource-count">Loading...</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <aside class="filters-sidebar" id="filters-sidebar">
+      <button class="filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="filters-panel">
+        <span class="filters-toggle-text">Filters</span>
+        <span class="filters-toggle-icon">▾</span>
+      </button>
+      <div class="filters-panel" id="filters-panel">
+        <div class="filter-group">
+          <h3 class="filter-heading">Level</h3>
+          <div class="filter-checkboxes" id="filter-level"></div>
+        </div>
+        <div class="filter-group">
+          <h3 class="filter-heading">Category</h3>
+          <div class="filter-checkboxes" id="filter-category"></div>
+        </div>
+        <div class="filter-group">
+          <h3 class="filter-heading">Region</h3>
+          <div class="filter-checkboxes" id="filter-region"></div>
+        </div>
+        <button class="filters-reset" id="filters-reset">Reset all filters</button>
+      </div>
+    </aside>
+
+    <section class="results">
+      <div class="results-header">
+        <div class="view-toggle">
+          <button class="view-btn active" data-view="grid" aria-label="Grid view">⊞ Grid</button>
+          <button class="view-btn" data-view="table" aria-label="Table view">☰ Table</button>
+        </div>
+        <div class="sort-control">
+          <label for="sort-select">Sort by</label>
+          <select id="sort-select">
+            <option value="name-asc">Name A–Z</option>
+            <option value="name-desc">Name Z–A</option>
+            <option value="jurisdiction-asc">Jurisdiction A–Z</option>
+            <option value="category-asc">Category A–Z</option>
+            <option value="date-desc">Newest first</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="resources-grid" id="resources-grid"></div>
+      <div class="resources-table" id="resources-table" style="display:none;"></div>
+
+      <div class="pagination" id="pagination"></div>
+
+      <div class="empty-state" id="empty-state" style="display:none;">
+        <div class="empty-icon">🔍</div>
+        <h2>No resources found</h2>
+        <p>Try adjusting your search or filters.</p>
+        <button class="empty-reset" id="empty-reset">Reset all filters</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Awesome Canada — <a href="https://github.com/wra-sol/awesome-canada">GitHub</a> — Data from <code>data/resources.json</code></p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
