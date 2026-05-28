@@ -66,6 +66,7 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 - Check Wikipedia "[City]" page for official website, then dig deep
 - Look at CivicTech Canada or Open Data Institute lists for leads
 - Search Archive.org for defunct portals that may have moved
+- **ArcGIS Hub API:** verify dataset availability on ArcGIS Hub portals via `/api/search/v1` or `/api/v3/datasets` endpoints
 
 ---
 
@@ -123,12 +124,12 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ## Current State (May 2026)
 
-- Total resources: **847**
-- Municipal + provincial + regional: **~63%** of catalog (533 / 847)
+- Total resources: **850**
+- Municipal + provincial + regional: **~63%** of catalog (536 / 850)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
-- Priority categories deepened: `planning-zoning` (22), `council` (33), `lobbyist` (15), `heritage` registers (14), `health-region` (17), `transit` GTFS (52), `weather` (8)
+- Priority categories deepened: `planning-zoning` (39), `council` (42), `lobbyist` (15), `heritage` registers (17), `health-region` (19), `transit` GTFS (52), `weather` (8), `budget` (18), `school-board` (17)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
-- Remaining gaps: municipal vendor payment ledgers where cities do not publish them; live URL verification on ArcGIS/`http://` links; more school-board boundary datasets per board
+- Remaining gaps: municipal vendor payment ledgers (especially SK, MB, Atlantic); live URL verification on ArcGIS/`http://` links; more school-board boundary datasets per board
 
 ## Updates
 
@@ -137,3 +138,4 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 - **2026-05-27:** Batch 3 (`append-batch-sources-3.js`) added **85** depth entries — GTFS feeds, lobbyist registries, heritage registers, council eScribe portals, budget datasets, AIC/planning tools — crossing the **>60%** M/P/R target.
 - **2026-05-27:** Batch 4 (`append-batch-sources-4.js`) added **36** Ontario gap-fill entries — open data hubs, council CivicWeb portals, school locators, and regional GIS for Sarnia, North Bay, Belleville, Cornwall, Whitby, Woodstock, Orillia, Timmins, Caledon, Sault Ste. Marie, St. Thomas, and Clarington.
 - **2026-05-27:** Batch 5 (`append-batch-sources-5.js`) added **26** Quebec and Atlantic entries — Données Québec catalogues (Lévis, Trois-Rivières, Saguenay), Gatineau council/budget depth, Truro/Moncton/CBRM GIS, and provincial Atlantic portals.
+- **2026-05-28:** Added **5** gap-fill entries — Winnipeg Open Budget and Capital Projects Explorer (first Manitoba budget tools), Red Deer building permits and zoning datasets (depth on mid-size Alberta city), and Halton Catholic District School Board School Finder (school-board boundary map for Halton Region).
