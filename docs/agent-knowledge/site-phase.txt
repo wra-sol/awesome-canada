@@ -1,5 +1,5 @@
 phase: 2
 stable_runs: 5
-last_run: 2026-05-28T00:00:00Z
+last_run: 2026-05-28T11:00:00Z
 last_status: ok
-notes: Stable. Site features complete (search, filter, sort, submit form, report form, dark mode). Auto-processing cron job active.
+notes: Stable. Site features complete (search, filter, sort, submit form, report form, dark mode). Auto-processing cron job active. Source data backfilled with dateAdded.
