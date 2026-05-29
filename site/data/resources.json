@@ -12686,5 +12686,96 @@
       "conservation"
     ],
     "dateAdded": "2030-12-07"
+  },
+  {
+    "name": "Winnipeg Open Budget",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "budget",
+    "type": "Budget explorer",
+    "description": "Interactive operating and capital budget explorer for the City of Winnipeg. Filter by department, fund, and year to compare budgeted vs actual spending and revenues.",
+    "url": "https://openbudget.winnipeg.ca/",
+    "tags": [
+      "winnipeg",
+      "budget",
+      "transparency",
+      "interactive",
+      "finance"
+    ],
+    "dateAdded": "2026-05-28"
+  },
+  {
+    "name": "Winnipeg Capital Projects Explorer",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "budget",
+    "type": "Capital projects dashboard",
+    "description": "Interactive map and dashboard tracking active City of Winnipeg capital projects over $5 million, with budget variance, schedule status, timeline, and project documents.",
+    "url": "https://projectexplorer.winnipeg.ca/",
+    "tags": [
+      "winnipeg",
+      "capital projects",
+      "budget",
+      "infrastructure",
+      "interactive",
+      "map"
+    ],
+    "dateAdded": "2026-05-28"
+  },
+  {
+    "name": "Red Deer Open Data — Building Permits",
+    "level": "Municipal",
+    "jurisdiction": "Red Deer",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Downloadable dataset of building permits issued in Red Deer, including permit type, construction value, and status. Available as CSV, JSON, and via API.",
+    "url": "https://data.reddeer.ca/buildingpermits",
+    "tags": [
+      "red deer",
+      "building permits",
+      "construction",
+      "csv",
+      "json",
+      "api"
+    ],
+    "dateAdded": "2026-05-28"
+  },
+  {
+    "name": "Red Deer Open Data — Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Red Deer",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Zoning boundary dataset for the City of Red Deer. Use for land-use research, development feasibility, and property analysis. Available as shapefile and KMZ.",
+    "url": "https://data.reddeer.ca/zoning",
+    "tags": [
+      "red deer",
+      "zoning",
+      "planning",
+      "shapefile",
+      "kmz",
+      "gis",
+      "api"
+    ],
+    "dateAdded": "2026-05-28"
+  },
+  {
+    "name": "Halton Catholic District School Board — School Finder",
+    "level": "Regional",
+    "jurisdiction": "Halton",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "Interactive map to find Catholic school catchment boundaries, school locations, and program offerings across Halton Region (Burlington, Oakville, Milton, Halton Hills).",
+    "url": "https://schoolplanning.hcdsb.org/find-your-school/",
+    "tags": [
+      "school boundaries",
+      "halton",
+      "burlington",
+      "oakville",
+      "milton",
+      "map",
+      "interactive"
+    ],
+    "dateAdded": "2026-05-28"
   }
 ]
