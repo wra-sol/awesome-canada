@@ -124,12 +124,12 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ## Current State (May 2026)
 
-- Total resources: **850**
-- Municipal + provincial + regional: **~63%** of catalog (536 / 850)
+- Total resources: **855**
+- Municipal + provincial + regional: **~63%** of catalog (541 / 855)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
-- Priority categories deepened: `planning-zoning` (39), `council` (42), `lobbyist` (15), `heritage` registers (17), `health-region` (19), `transit` GTFS (52), `weather` (8), `budget` (18), `school-board` (17)
+- Priority categories deepened: `planning-zoning` (40), `council` (42), `lobbyist` (15), `heritage` registers (17), `health-region` (21), `transit` GTFS (52), `weather` (8), `budget` (19), `school-board` (18)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
-- Remaining gaps: municipal vendor payment ledgers (especially SK, MB, Atlantic); live URL verification on ArcGIS/`http://` links; more school-board boundary datasets per board
+- Remaining gaps: municipal vendor payment ledgers (especially MB, Atlantic); live URL verification on ArcGIS/`http://` links; more school-board boundary datasets per board (especially SK, MB, Atlantic); health-region food inspection data for NB and NL still missing
 
 ## Updates
 
@@ -139,3 +139,4 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 - **2026-05-27:** Batch 4 (`append-batch-sources-4.js`) added **36** Ontario gap-fill entries — open data hubs, council CivicWeb portals, school locators, and regional GIS for Sarnia, North Bay, Belleville, Cornwall, Whitby, Woodstock, Orillia, Timmins, Caledon, Sault Ste. Marie, St. Thomas, and Clarington.
 - **2026-05-27:** Batch 5 (`append-batch-sources-5.js`) added **26** Quebec and Atlantic entries — Données Québec catalogues (Lévis, Trois-Rivières, Saguenay), Gatineau council/budget depth, Truro/Moncton/CBRM GIS, and provincial Atlantic portals.
 - **2026-05-28:** Added **5** gap-fill entries — Winnipeg Open Budget and Capital Projects Explorer (first Manitoba budget tools), Red Deer building permits and zoning datasets (depth on mid-size Alberta city), and Halton Catholic District School Board School Finder (school-board boundary map for Halton Region).
+- **2026-05-29:** Added **5** entries — Saskatchewan Inspection InSite (provincial health inspection search), Saint John building permits dataset (Atlantic planning depth), Saskatoon non-standard procurement dataset (prairie budget transparency), Edmonton Catholic School District School Finder (school-board boundary map), and Nova Scotia food establishment inspection reports (provincial health-region gap-fill).
