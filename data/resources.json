@@ -12777,5 +12777,94 @@
       "interactive"
     ],
     "dateAdded": "2026-05-28"
+  },
+  {
+    "name": "Saskatchewan — Inspection InSite (Public Health Inspections)",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "health-region",
+    "type": "Inspection search",
+    "description": "Search public health inspection reports for over 5,000 restaurant-type facilities and slaughter plants across Saskatchewan. Find inspection dates, violations, and compliance status by facility name or location.",
+    "url": "https://healthinspections.saskatchewan.ca/",
+    "tags": [
+      "health inspections",
+      "food safety",
+      "Saskatchewan",
+      "restaurant",
+      "searchable"
+    ],
+    "dateAdded": "2026-05-29"
+  },
+  {
+    "name": "Saint John — Building Permits Dataset",
+    "level": "Municipal",
+    "jurisdiction": "Saint John",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Downloadable dataset of building permits issued in Saint John, NB. Includes permit type, address, issue date, and construction value. Available as CSV and shapefile for analysis of development patterns in Atlantic Canada.",
+    "url": "https://catalogue-saintjohn.opendata.arcgis.com/datasets/building-permits",
+    "tags": [
+      "building permits",
+      "Saint John",
+      "New Brunswick",
+      "CSV",
+      "shapefile",
+      "construction"
+    ],
+    "dateAdded": "2026-05-29"
+  },
+  {
+    "name": "Saskatoon — Non-Standard Procurement (Sole Source)",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "budget",
+    "type": "Dataset",
+    "description": "Dataset of non-standard procurements (sole-source contracts) over 5,000 for goods, services, and construction purchased by City of Saskatoon departments. Updated regularly. Available for CSV download and API access.",
+    "url": "https://data-citysaskatoon.opendata.arcgis.com/datasets/9470d912e6204cb8964ff19e16cb8521_0/explore",
+    "tags": [
+      "procurement",
+      "sole source",
+      "Saskatoon",
+      "budget",
+      "transparency",
+      "CSV",
+      "API"
+    ],
+    "dateAdded": "2026-05-29"
+  },
+  {
+    "name": "Edmonton Catholic School District — School Finder",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "Interactive school finder map for Edmonton Catholic Schools. Enter an address to find the designated Catholic school by grade level and program type. Includes ward boundaries and trustee information.",
+    "url": "https://schoolmap.ecsd.net/",
+    "tags": [
+      "school boundaries",
+      "Edmonton",
+      "Catholic",
+      "school finder",
+      "map",
+      "interactive"
+    ],
+    "dateAdded": "2026-05-29"
+  },
+  {
+    "name": "Nova Scotia — Food Establishment Inspection Reports",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health-region",
+    "type": "Inspection search",
+    "description": "Searchable database of food establishment inspection reports across Nova Scotia. Find inspection results for restaurants, grocery stores, and food-service facilities by name, location, or date. Reports cover compliance with food safety regulations and required corrective actions.",
+    "url": "https://novascotia.ca/nse/food-protection/food-inspection-reports.asp",
+    "tags": [
+      "food safety",
+      "health inspections",
+      "Nova Scotia",
+      "restaurant",
+      "searchable"
+    ],
+    "dateAdded": "2026-05-29"
   }
 ]
