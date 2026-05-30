@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 6
-last_run: 2026-05-29T11:00:00Z
+stable_runs: 7
+last_run: 2026-05-30T11:00:00Z
 last_status: ok
-notes: Stable. Site features complete (search, filter, sort, submit form, report form, dark mode). Auto-processing cron job active. Source data backfilled with dateAdded.
+notes: Stable. Site features complete (search, filter, sort, submit form, report form, dark mode). Auto-processing cron job active. Content cleanup: removed 12 defunct resources (dead ArcGIS hubs, Données Québec org pages, broken portals). 147 total URLs flagged in link check; many are 403 bot blocks. Remaining ~40 404s need manual replacement URLs in future runs.
