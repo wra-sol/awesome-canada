@@ -129,9 +129,11 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
 - Priority categories deepened: `planning-zoning` (40), `council` (42), `lobbyist` (15), `heritage` registers (17), `health-region` (21), `transit` GTFS (52), `weather` (8), `budget` (19), `school-board` (18)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
-- Remaining gaps: municipal vendor payment ledgers (especially MB, Atlantic); live URL verification on ArcGIS/`http://` links; more school-board boundary datasets per board (especially SK, MB, Atlantic); health-region food inspection data for NB and NL still missing
+- Remaining gaps: municipal vendor payment ledgers (especially MB, Atlantic); live URL verification on ArcGIS/`http://` links; more school-board boundary datasets per board (especially Atlantic); health-region food inspection data for NB and NL now added
 
 ## Updates
+
+- **2026-05-30:** Added **5** gap-fill entries — Newfoundland and Labrador food premises inspection reports, New Brunswick food premises inspections (closing the Atlantic health-inspection gap), Regina Public Schools and Regina Catholic Schools school finders (first SK school-board locators), and Winnipeg School Division Find a School (first MB school-board locator).
 
 - **2026-05-27:** Added `dateAdded` field to all resources. Live directory site deployed to GitHub Pages. Repo cleaned of obsolete server files. Focus remains municipal/provincial actionable data.
 - **2026-05-27:** Batches 1–2 added ~150 portal and category-fill resources (`append-batch-sources.js`, `append-batch-sources-2.js`).
