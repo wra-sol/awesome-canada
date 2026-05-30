@@ -5051,22 +5051,6 @@
     "dateAdded": "2026-10-14"
   },
   {
-    "name": "Montreal Heritage Sites Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Montreal",
-    "category": "heritage",
-    "type": "Heritage dataset",
-    "description": "Montreal heritage buildings and sites dataset on Données Montréal for mapping protected cultural properties.",
-    "url": "https://donnees.montreal.ca/dataset/heritage",
-    "tags": [
-      "montreal",
-      "heritage",
-      "open data",
-      "quebec"
-    ],
-    "dateAdded": "2026-10-17"
-  },
-  {
     "name": "Montreal Protected Heritage Sites",
     "level": "Municipal",
     "jurisdiction": "Montreal",
@@ -5180,24 +5164,6 @@
       "csv"
     ],
     "dateAdded": "2026-11-07"
-  },
-  {
-    "name": "Victoria Heritage Register Dataset",
-    "level": "Municipal",
-    "jurisdiction": "Victoria",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "Downloadable dataset of City of Victoria designated heritage properties including built heritage and cultural heritage landscapes",
-    "url": "https://opendata.victoria.ca/datasets/heritage-register",
-    "tags": [
-      "Victoria",
-      "BC",
-      "heritage",
-      "built heritage",
-      "open data",
-      "register"
-    ],
-    "dateAdded": "2026-11-10"
   },
   {
     "name": "Canada Greener Homes Initiative",
@@ -6935,22 +6901,6 @@
     "dateAdded": "2027-10-27"
   },
   {
-    "name": "York Region — Open Data",
-    "level": "Regional",
-    "jurisdiction": "York Region",
-    "category": "open-data",
-    "type": "Regional open data",
-    "description": "York Region open data portal with regional datasets on demographics, health, and municipal services.",
-    "url": "https://www.york.ca/en/about-the-region/open-data.aspx",
-    "tags": [
-      "york region",
-      "open data",
-      "regional",
-      "gta"
-    ],
-    "dateAdded": "2027-10-30"
-  },
-  {
     "name": "York Region Insights Open Data",
     "level": "Regional",
     "jurisdiction": "York Region",
@@ -7092,22 +7042,6 @@
       "open data"
     ],
     "dateAdded": "2027-11-26"
-  },
-  {
-    "name": "Brantford Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Brantford",
-    "category": "open-data",
-    "type": "Open data hub",
-    "description": "ArcGIS Hub for Brantford with transportation, land use, parks, and municipal boundary datasets.",
-    "url": "http://data-brantford.opendata.arcgis.com/",
-    "tags": [
-      "brantford",
-      "ontario",
-      "open data",
-      "arcgis"
-    ],
-    "dateAdded": "2027-11-29"
   },
   {
     "name": "Burlington Open Data",
@@ -7598,22 +7532,6 @@
     "dateAdded": "2028-03-01"
   },
   {
-    "name": "Laval Open Data (Données Québec)",
-    "level": "Municipal",
-    "jurisdiction": "Laval",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "City of Laval datasets on Données Québec including libraries, buildings, parks, and civic infrastructure — CSV and API.",
-    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-laval/",
-    "tags": [
-      "laval",
-      "quebec",
-      "open data",
-      "ckan"
-    ],
-    "dateAdded": "2028-03-04"
-  },
-  {
     "name": "Lethbridge Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Lethbridge",
@@ -7660,21 +7578,6 @@
       "open data"
     ],
     "dateAdded": "2028-03-13"
-  },
-  {
-    "name": "Longueuil Open Data (Données Québec)",
-    "level": "Municipal",
-    "jurisdiction": "Longueuil",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Ville de Longueuil open datasets on the Quebec provincial portal — buildings, parks, and municipal services data.",
-    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-longueuil/",
-    "tags": [
-      "longueuil",
-      "quebec",
-      "open data"
-    ],
-    "dateAdded": "2028-03-16"
   },
   {
     "name": "Maple Ridge OpenGov",
@@ -8063,22 +7966,6 @@
     "dateAdded": "2028-05-30"
   },
   {
-    "name": "Quebec City Open Data (Données Québec)",
-    "level": "Municipal",
-    "jurisdiction": "Quebec City",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Ville de Québec datasets on Données Québec including libraries, GTFS, buildings, and civic infrastructure.",
-    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-quebec/",
-    "tags": [
-      "quebec city",
-      "quebec",
-      "open data",
-      "gtfs"
-    ],
-    "dateAdded": "2028-06-02"
-  },
-  {
     "name": "Red Deer Open Data",
     "level": "Municipal",
     "jurisdiction": "Red Deer",
@@ -8110,21 +7997,6 @@
     "dateAdded": "2028-06-08"
   },
   {
-    "name": "Repentigny Open Data (Données Québec)",
-    "level": "Municipal",
-    "jurisdiction": "Repentigny",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Ville de Repentigny open datasets on Données Québec — buildings, parks, and municipal services.",
-    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-repentigny/",
-    "tags": [
-      "repentigny",
-      "quebec",
-      "open data"
-    ],
-    "dateAdded": "2028-06-11"
-  },
-  {
     "name": "Richmond Hill Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Richmond Hill",
@@ -8139,36 +8011,6 @@
       "GIS"
     ],
     "dateAdded": "2028-06-14"
-  },
-  {
-    "name": "Rimouski Open Data (Données Québec)",
-    "level": "Municipal",
-    "jurisdiction": "Rimouski",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Ville de Rimouski municipal datasets on Données Québec including buildings and civic infrastructure.",
-    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-rimouski/",
-    "tags": [
-      "rimouski",
-      "quebec",
-      "open data"
-    ],
-    "dateAdded": "2028-06-17"
-  },
-  {
-    "name": "Rouyn-Noranda Open Data (Données Québec)",
-    "level": "Municipal",
-    "jurisdiction": "Rouyn-Noranda",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Ville de Rouyn-Noranda datasets on Données Québec with civic and geospatial downloads.",
-    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-rouyn-noranda/",
-    "tags": [
-      "rouyn-noranda",
-      "quebec",
-      "open data"
-    ],
-    "dateAdded": "2028-06-20"
   },
   {
     "name": "Saanich Open Data Catalogue",
@@ -8300,38 +8142,6 @@
       "wards"
     ],
     "dateAdded": "2028-07-14"
-  },
-  {
-    "name": "Shawinigan Open Data Hub",
-    "level": "Municipal",
-    "jurisdiction": "Shawinigan",
-    "category": "open-data",
-    "type": "Open data hub",
-    "description": "ArcGIS Hub for Ville de Shawinigan with civic and spatial datasets for the Mauricie region.",
-    "url": "http://donnees-shawinigan.opendata.arcgis.com/",
-    "tags": [
-      "shawinigan",
-      "quebec",
-      "open data",
-      "arcgis"
-    ],
-    "dateAdded": "2028-07-17"
-  },
-  {
-    "name": "Sherbrooke Open Data (Données Québec)",
-    "level": "Municipal",
-    "jurisdiction": "Sherbrooke",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Sherbrooke municipal datasets including GTFS transit, buildings, and civic data via Données Québec.",
-    "url": "https://www.donneesquebec.ca/fr/organisation/ville-de-sherbrooke/",
-    "tags": [
-      "sherbrooke",
-      "quebec",
-      "open data",
-      "gtfs"
-    ],
-    "dateAdded": "2028-07-20"
   },
   {
     "name": "St. Albert Open Data",
