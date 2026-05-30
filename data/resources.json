@@ -12676,5 +12676,94 @@
       "searchable"
     ],
     "dateAdded": "2026-05-29"
+  },
+  {
+    "name": "Newfoundland and Labrador — Food Premises Inspection Reports",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "health-region",
+    "type": "Inspection search",
+    "description": "Search food premises health inspection reports for restaurants and food establishments across Newfoundland and Labrador. Find inspection dates, violations, and compliance status by facility name or location. Reports cover the previous two years.",
+    "url": "https://www.gov.nl.ca/gs/inspections/",
+    "tags": [
+      "food safety",
+      "health inspections",
+      "Newfoundland and Labrador",
+      "restaurant",
+      "searchable"
+    ],
+    "dateAdded": "2026-05-30"
+  },
+  {
+    "name": "New Brunswick — Food Premises Inspections",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "health-region",
+    "type": "Inspection search",
+    "description": "Search food premises inspection results for licensed establishments across New Brunswick under the Public Health Act. Find compliance status, inspection frequency, and posted results by establishment type and location.",
+    "url": "https://www.gnb.ca/en/topic/laws-safety/health-environment-advisories/food-premises-inspections.html",
+    "tags": [
+      "food safety",
+      "health inspections",
+      "New Brunswick",
+      "restaurant",
+      "searchable"
+    ],
+    "dateAdded": "2026-05-30"
+  },
+  {
+    "name": "Regina Public Schools — School Finder",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Enter a Regina address or housing development name to find designated elementary, high school, and French immersion schools within Regina Public Schools boundaries. Interactive reference for attendance zones.",
+    "url": "https://www.reginapublicschools.ca/node/28",
+    "tags": [
+      "Regina",
+      "school boundaries",
+      "school finder",
+      "Saskatchewan",
+      "catchment",
+      "locator"
+    ],
+    "dateAdded": "2026-05-30"
+  },
+  {
+    "name": "Regina Catholic Schools — School Finder",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "Interactive school finder map for Regina Catholic Schools. Click map pins or use the boundary search to find designated Catholic schools by grade level, program, and address location.",
+    "url": "https://www.rcsd.ca/school-finder",
+    "tags": [
+      "Regina",
+      "school boundaries",
+      "Catholic",
+      "school finder",
+      "Saskatchewan",
+      "map",
+      "interactive"
+    ],
+    "dateAdded": "2026-05-30"
+  },
+  {
+    "name": "Winnipeg School Division — Find a School",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Mobile-friendly app to find designated schools within Winnipeg School Division boundaries by address. Covers division-wide program schools and is updated with the latest boundary information.",
+    "url": "https://www.winnipegsd.ca/find-a-school",
+    "tags": [
+      "Winnipeg",
+      "school boundaries",
+      "school finder",
+      "Manitoba",
+      "catchment",
+      "app"
+    ],
+    "dateAdded": "2026-05-30"
   }
 ]
