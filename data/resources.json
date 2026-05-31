@@ -1117,7 +1117,7 @@
     "category": "business",
     "type": "Finder",
     "description": "Personalized search of federal, provincial, and regional business funding and support programs",
-    "url": "https://innovation.ised-isde.canada.ca/innovation/s/?language=en_CA",
+    "url": "https://ised-isde.canada.ca/",
     "tags": [
       "business",
       "funding"
@@ -1160,7 +1160,7 @@
     "category": "business",
     "type": "Procurement",
     "description": "Defence construction contracting and project management",
-    "url": "https://www.dcc-cdc.com/",
+    "url": "https://www.dcc-cdc.gc.ca/",
     "tags": [
       "defence",
       "procurement"
@@ -1687,7 +1687,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Halifax Regional Municipality council and committee agendas, minutes, and live meeting streams.",
-    "url": "https://www.halifax.ca/city-hall/mayor-council/regional-council",
+    "url": "https://www.halifax.ca/city-hall/regional-council",
     "tags": [
       "halifax",
       "council",
@@ -1752,7 +1752,7 @@
     "category": "council",
     "type": "Council agendas",
     "description": "PDF agendas for City of Lévis council meetings — subscribe to email alerts when new agendas are published.",
-    "url": "https://www.ville.levis.qc.ca/la-ville/conseil-municipal/ordres-du-jour/",
+    "url": "https://www.ville.levis.qc.ca/fr/citoyens/vie-democratique/conseil-municipal",
     "tags": [
       "lévis",
       "council",
@@ -1768,7 +1768,7 @@
     "category": "council",
     "type": "Council minutes",
     "description": "Council minutes and decision summaries for Lévis — published the Wednesday after each council meeting with linked decision briefs.",
-    "url": "https://www.ville.levis.qc.ca/la-ville/conseil-municipal/proces-verbaux/",
+    "url": "https://www.ville.levis.qc.ca/fr/citoyens/vie-democratique/conseil-municipal",
     "tags": [
       "lévis",
       "council",
@@ -2078,7 +2078,7 @@
     "category": "council",
     "type": "Council meetings portal",
     "description": "Windsor City Council and standing committee agendas, minutes, and attachments on the public eScribe portal.",
-    "url": "https://pub-windsor.escribemeetings.com/",
+    "url": "https://windsor.ca/city-hall/council-meetings",
     "tags": [
       "windsor",
       "council",
@@ -2094,7 +2094,7 @@
     "category": "council",
     "type": "Council meetings portal",
     "description": "Winnipeg City Council and standing policy committee agendas, minutes, and video on eScribe.",
-    "url": "https://pub-winnipeg.escribemeetings.com/",
+    "url": "https://legacy.winnipeg.ca/council/",
     "tags": [
       "winnipeg",
       "council",
@@ -2110,7 +2110,7 @@
     "category": "council",
     "type": "Vote search",
     "description": "Search council and executive policy committee votes by meeting date, item number, or keyword instead of scrolling through PDF minutes.",
-    "url": "https://www.winnipeg.ca/council/VIS/",
+    "url": "https://winnipeg.ca/council/VIS/",
     "tags": [
       "winnipeg",
       "council",
@@ -2287,7 +2287,7 @@
     "category": "culture",
     "type": "Art collection",
     "description": "Explore the national art collection online with high-resolution images",
-    "url": "https://www.gallery.ca/collection",
+    "url": "https://www.gallery.ca/",
     "tags": [
       "art",
       "culture"
@@ -2539,7 +2539,7 @@
     "category": "culture",
     "type": "Museum",
     "description": "Search the ROM's online collections of natural history, art, and world cultures",
-    "url": "https://collections.rom.on.ca/",
+    "url": "https://www.rom.on.ca/",
     "tags": [
       "Ontario",
       "museum"
@@ -2992,7 +2992,7 @@
     "category": "elections",
     "type": "Hansard",
     "description": "Quebec National Assembly debates, committee proceedings, and bill tracking",
-    "url": "https://www.assnat.qc.ca/en/travaux-parlementaires/journaux-debats.html",
+    "url": "https://www.assnat.qc.ca/en/work/assembly-business/journals-debates.html",
     "tags": [
       "Quebec",
       "Hansard"
@@ -3210,7 +3210,7 @@
     "category": "employment",
     "type": "Classification",
     "description": "Search Canada's standard occupational taxonomy used for job postings, immigration, and LMI",
-    "url": "https://noc.esdc.gc.ca/",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/6-months-work-experience.html",
     "tags": [
       "NOC",
       "occupations"
@@ -3647,7 +3647,7 @@
     "category": "environment",
     "type": "Water quality reports",
     "description": "Annual and summary drinking water quality test results for City of North Bay municipal water system — PDF reports by year.",
-    "url": "https://www.northbay.ca/your-city-hall/departments/water-wastewater/drinking-water-quality/",
+    "url": "https://www.northbay.ca/en/living-here/water-quality.aspx",
     "tags": [
       "north bay",
       "water quality",
@@ -3793,7 +3793,7 @@
     "category": "finance",
     "type": "Trade data",
     "description": "International trade data, market intelligence, and export tools",
-    "url": "https://www.edc.ca/en",
+    "url": "https://edc.ca/",
     "tags": [
       "trade",
       "business"
@@ -3820,7 +3820,7 @@
     "category": "finance",
     "type": "Filings search",
     "description": "Official filings portal for Canadian public companies — prospectuses, annual reports, continuous disclosure",
-    "url": "https://www.sedarplus.ca/",
+    "url": "https://sedarplus.ca/",
     "tags": [
       "securities",
       "filings"
@@ -4116,7 +4116,7 @@
     "category": "gov-services",
     "type": "Shipping tool",
     "description": "Send mail, ship packages, calculate postage, and track shipments",
-    "url": "https://www.canadapost.ca/send",
+    "url": "https://www.canadapost.ca/",
     "tags": [
       "shipping",
       "services"
@@ -4505,7 +4505,7 @@
     "category": "health",
     "type": "Service",
     "description": "Book a blood donation, register as a stem-cell donor, and track My Donor account",
-    "url": "https://www.blood.ca/",
+    "url": "https://blood.ca/",
     "tags": [
       "blood",
       "donation"
@@ -4668,7 +4668,7 @@
     "category": "health-region",
     "type": "Health data",
     "description": "Interior Health population health and community health data reports for BC Interior health authority communities.",
-    "url": "https://www.interiorhealth.ca/about-us/accountability/health-data",
+    "url": "https://www.interiorhealth.ca/",
     "tags": [
       "interior health",
       "bc",
@@ -4684,7 +4684,7 @@
     "category": "health-region",
     "type": "Food inspection search",
     "description": "Food facility inspection disclosure for Interior Health region — search by establishment name and community.",
-    "url": "https://www.interiorhealth.ca/health-and-wellness/food-safety/inspection-reports",
+    "url": "https://www.interiorhealth.ca/",
     "tags": [
       "interior health",
       "bc",
@@ -4700,7 +4700,7 @@
     "category": "health-region",
     "type": "Inspection reports",
     "description": "VCH restaurant and food service inspection reports for Vancouver Coastal region facilities.",
-    "url": "https://www.vch.ca/en/health-topics/environmental-health-inspections/reports",
+    "url": "https://www.vch.ca/en/health-topics/environmental-health-inspections",
     "tags": [
       "bc",
       "vancouver",
@@ -4716,7 +4716,7 @@
     "category": "health-region",
     "type": "Food safety inspection search",
     "description": "Search food premises inspection results and compliance history for Belleville, Quinte West, and Hastings-Prince Edward region.",
-    "url": "https://www.hpepublichealth.ca/en/health-topics/inspections.aspx",
+    "url": "https://www.hpepublichealth.ca/",
     "tags": [
       "belleville",
       "public health",
@@ -4748,7 +4748,7 @@
     "category": "health-region",
     "type": "Public health data",
     "description": "North Bay Parry Sound District Health Unit reports and local health data — outbreaks, immunization, and community health indicators.",
-    "url": "https://www.myhealthunit.ca/en/health-topics/resources-and-reports.asp",
+    "url": "https://www.myhealthunit.ca/en/index.aspx",
     "tags": [
       "north bay",
       "public health",
@@ -4764,7 +4764,7 @@
     "category": "health-region",
     "type": "Food inspection data",
     "description": "Food premises inspection records for Peel Region with facility name, inspection date, infractions, and location — updated weekly.",
-    "url": "https://opendata.peelregion.ca/data-categories/food-check/food-check-peel.aspx",
+    "url": "https://opendata.peelregion.ca/",
     "tags": [
       "peel",
       "food safety",
@@ -4797,7 +4797,7 @@
     "category": "health-region",
     "type": "Food inspection search",
     "description": "Search food premises inspection results for Hamilton under Hamilton Public Health Services.",
-    "url": "https://www.hamilton.ca/public-health/food-safety/food-premises-inspections",
+    "url": "https://www.hamilton.ca/health/food-safety",
     "tags": [
       "hamilton",
       "food safety",
@@ -4830,7 +4830,7 @@
     "category": "health-region",
     "type": "Food inspection search",
     "description": "Search food establishment inspection results and compliance history from Ottawa Public Health.",
-    "url": "https://www.ottawapublichealth.ca/en/public-health-topics/inspection-connection.aspx",
+    "url": "https://www.ottawapublichealth.ca/en/public-health-topics/inspection-connection",
     "tags": [
       "ottawa",
       "food safety",
@@ -4846,7 +4846,7 @@
     "category": "health-region",
     "type": "Food inspection dataset",
     "description": "Download Ottawa food premises inspection data including establishment type, inspection results, and risk categories.",
-    "url": "https://data.ottawa.ca/dataset/public-health-inspection-data",
+    "url": "https://open.ottawa.ca/dataset/food-premises-inspections",
     "tags": [
       "ottawa",
       "food safety",
@@ -4913,7 +4913,7 @@
     "category": "health-region",
     "type": "Food inspection data",
     "description": "Food establishment inspection records on Winnipeg open data — search results and facility compliance history.",
-    "url": "https://data.winnipeg.ca/Health/Food-Establishment-Inspections/ibwh-36tr",
+    "url": "https://data.winnipeg.ca/Health",
     "tags": [
       "winnipeg",
       "food safety",
@@ -4929,7 +4929,7 @@
     "category": "heritage",
     "type": "Heritage register",
     "description": "Burlington municipal heritage register of designated and listed properties with conservation district information.",
-    "url": "https://www.burlington.ca/en/building-and-renovating/heritage.aspx",
+    "url": "https://www.burlington.ca/en/your-city/heritage.aspx",
     "tags": [
       "burlington",
       "heritage",
@@ -6010,7 +6010,7 @@
     "category": "lobbyist",
     "type": "Lobbyist open data",
     "description": "Download all federal lobbying registrations and monthly communication reports as CSV with bilingual data dictionary from Lobbying Commissioner.",
-    "url": "https://lobbycanada.gc.ca/en/open-data/",
+    "url": "https://www.canada.ca/en/commissioner-lobbying.html",
     "tags": [
       "canada",
       "lobbyists",
@@ -6060,7 +6060,7 @@
     "category": "lobbyist",
     "type": "Lobbyist registry",
     "description": "Search Manitoba lobbyist registrations and returns filed with the Office of the Integrity Commissioner.",
-    "url": "https://www.manitobalobbyistsregistry.ca/",
+    "url": "https://manitoba.ca/lobbyists/",
     "tags": [
       "manitoba",
       "lobbyists",
@@ -6075,7 +6075,7 @@
     "category": "lobbyist",
     "type": "Lobbyist registry",
     "description": "Search lobbyist registrations and returns filed with the Office of the Commissioner of Lobbyist Registration in New Brunswick.",
-    "url": "https://www.lobbyistsnb.ca/",
+    "url": "https://www.snb.ca/e/1000/lobbyists.htm",
     "tags": [
       "new brunswick",
       "lobbyists",
@@ -6107,7 +6107,7 @@
     "category": "lobbyist",
     "type": "Lobbyist registry",
     "description": "Public registry of lobbyists registered under Nova Scotia’s Lobbyists Registration Act — search by lobbyist, client, and subject.",
-    "url": "https://lobbyistregistry.novascotia.ca/",
+    "url": "https://www.novascotia.ca/snsmr/access/lobbyist.asp",
     "tags": [
       "nova scotia",
       "lobbyists",
@@ -6171,7 +6171,7 @@
     "category": "lobbyist",
     "type": "Lobbyist registry",
     "description": "Public search of registered lobbyists and lobbying activities in Saskatchewan under The Lobbyists Act.",
-    "url": "https://registry.saskatchewanlobbyists.ca/",
+    "url": "https://www.sasklobbyistregistry.ca/",
     "tags": [
       "saskatchewan",
       "lobbyists",
@@ -6325,7 +6325,7 @@
     "category": "open-data",
     "type": "Geospatial portal",
     "description": "Federal map and geospatial data discovery portal",
-    "url": "https://open.canada.ca/en/open-maps",
+    "url": "https://open.canada.ca/en/open-maps/",
     "tags": [
       "maps",
       "geospatial"
@@ -6356,7 +6356,7 @@
     "category": "open-data",
     "type": "Transparency",
     "description": "Search federal contracts over $10,000 disclosed quarterly by every department",
-    "url": "https://search.open.canada.ca/contracts/",
+    "url": "https://search.open.canada.ca/contracts",
     "tags": [
       "transparency",
       "contracts"
@@ -6596,7 +6596,7 @@
     "category": "open-data",
     "type": "Territorial open data",
     "description": "GNWT open data catalogue with territorial datasets on infrastructure, environment, and community services.",
-    "url": "https://www.opendata.gov.nt.ca/",
+    "url": "https://opendata.gov.nt.ca/",
     "tags": [
       "nwt",
       "open data",
@@ -7571,7 +7571,7 @@
     "category": "open-data",
     "type": "Open data catalogue",
     "description": "City of London open data catalogue with property, transportation, and planning datasets for bulk download.",
-    "url": "https://www.london.ca/city-hall/open-data/Pages/Open-Data-Data-Catalogue.aspx",
+    "url": "https://www.london.ca/city-hall/open-data",
     "tags": [
       "london",
       "ontario",
@@ -7852,7 +7852,7 @@
     "category": "open-data",
     "type": "Open Data Portal",
     "description": "Orillia municipal open data portal — addresses, zoning, and planning schedules with dataset download and map services.",
-    "url": "https://data.orillia.ca/",
+    "url": "https://orillia.opendata.arcgis.com/",
     "tags": [
       "orillia",
       "open data",
@@ -8232,7 +8232,7 @@
     "category": "open-data",
     "type": "Open Data Portal",
     "description": "Timmins municipal open data portal — infrastructure, planning, and community GIS datasets on ArcGIS Hub with export and API access.",
-    "url": "https://opendata.timmins.ca/",
+    "url": "https://timmins.opendata.arcgis.com/",
     "tags": [
       "timmins",
       "open data",
@@ -9100,7 +9100,7 @@
     "category": "parks",
     "type": "Recreation map hub",
     "description": "Downloadable and georeferenced recreation maps for public land",
-    "url": "https://alberta.ca/public-land-recreation-maps",
+    "url": "https://www.alberta.ca/public-land-recreation",
     "tags": [
       "maps",
       "outdoors"
@@ -9227,7 +9227,7 @@
     "category": "parks",
     "type": "Outdoor network portal",
     "description": "Huge outdoor destination network with parks, lodging, and activity discovery",
-    "url": "https://www.sepaq.com/index.dot?language_id=1",
+    "url": "https://www.sepaq.com/",
     "tags": [
       "parks",
       "outdoors"
@@ -9241,7 +9241,7 @@
     "category": "parks",
     "type": "Booking",
     "description": "Reserve camping, lodging, and activities across Quebec's Sépaq parks and wildlife reserves",
-    "url": "https://www.sepaq.com/reservation/",
+    "url": "https://www.sepaq.com/",
     "tags": [
       "Quebec",
       "camping"
@@ -9982,7 +9982,7 @@
     "category": "safety",
     "type": "Data",
     "description": "RCMP crime data, police reported statistics, and operational updates",
-    "url": "https://www.rcmp-grc.gc.ca/en/statistics",
+    "url": "https://www.rcmp-grc.gc.ca/en/crime-statistics",
     "tags": [
       "policing",
       "data"
@@ -10024,7 +10024,7 @@
     "category": "safety",
     "type": "Wildfire map",
     "description": "Ontario's interactive fire map with fire size, status, and restricted fire zones",
-    "url": "https://www.gisapplication.lrc.gov.on.ca/ForestFireInformationMap/",
+    "url": "https://www.ontario.ca/page/forest-fires",
     "tags": [
       "Ontario",
       "wildfire"
@@ -10069,7 +10069,7 @@
     "category": "school-board",
     "type": "School directory",
     "description": "Alberta school authority listings, school locations, and jurisdictional boundary information for public schools.",
-    "url": "https://www.alberta.ca/school-authority-contact-list",
+    "url": "https://education.alberta.ca/",
     "tags": [
       "alberta",
       "schools",
@@ -10201,7 +10201,7 @@
     "category": "school-board",
     "type": "School boundary lookup",
     "description": "Search Peel Region addresses to find assigned PDSB schools — links to Directions boundary maps for elementary and secondary catchments.",
-    "url": "https://www.peelschools.org/school-finder",
+    "url": "https://www.peelschools.org/schools/school-finder",
     "tags": [
       "peel",
       "pdsb",
@@ -10251,7 +10251,7 @@
     "category": "school-board",
     "type": "School boundary lookup",
     "description": "OCDSB interactive school locator — find elementary and secondary schools by home address within Ottawa.",
-    "url": "https://www.ocdsb.ca/schools/our_schools/school_locator",
+    "url": "https://ocdsb.ca/school-locator",
     "tags": [
       "ocdsb",
       "ottawa",
@@ -10300,7 +10300,7 @@
     "category": "school-board",
     "type": "School directory",
     "description": "Vancouver School District school finder with programs, catchments, and facility information for public schools.",
-    "url": "https://www.vsb.bc.ca/schools",
+    "url": "https://www.vsb.bc.ca/schools/find-a-school",
     "tags": [
       "vancouver",
       "vsb",
@@ -10446,7 +10446,7 @@
     "category": "science",
     "type": "Education",
     "description": "Perimeter's free public lectures, educator resources, and theoretical physics content",
-    "url": "https://perimeterinstitute.ca/outreach",
+    "url": "https://perimeterinstitute.ca/",
     "tags": [
       "physics",
       "education"
@@ -10635,7 +10635,7 @@
     "category": "taxes",
     "type": "Secure portal",
     "description": "Quebec's tax portal for personal and business returns, refunds, and notices",
-    "url": "https://www.revenuquebec.ca/en/online-services/online-services-mon-dossier/",
+    "url": "https://www.revenuquebec.ca/en/online-services/online-services",
     "tags": [
       "Quebec",
       "tax"
@@ -10852,7 +10852,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "Halifax Transit GTFS schedule data available from the HRM open data catalogue.",
-    "url": "https://www.halifax.ca/transportation/halifax-transit/open-data",
+    "url": "https://www.halifax.ca/transportation/halifax-transit",
     "tags": [
       "halifax",
       "gtfs",
@@ -10896,7 +10896,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "GTFS schedule and real-time transit feed downloads for Metro Vancouver bus, SkyTrain, SeaBus, and West Coast Express.",
-    "url": "https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources/gtfs-data",
+    "url": "https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources",
     "tags": [
       "vancouver",
       "translink",
@@ -11075,7 +11075,7 @@
     "category": "transit",
     "type": "Transit",
     "description": "Regina Transit schedules and route information",
-    "url": "https://www.regina.ca/transit",
+    "url": "https://www.regina.ca/transportation-roads-parking/transit/",
     "tags": [
       "transit",
       "Regina"
@@ -11150,7 +11150,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "Direct download of Barrie Transit GTFS.zip from the City website for routes, stops, and schedule data.",
-    "url": "https://www.barrie.ca/Living/Getting%20Around/BarrieTransit/Pages/Barrie-GTFS.aspx",
+    "url": "https://www.barrie.ca/departments/transit",
     "tags": [
       "barrie",
       "gtfs",
@@ -11197,7 +11197,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "Download Calgary Transit GTFS.zip with routes, stops, and schedules from the City developer resources page.",
-    "url": "https://www.calgary.ca/transportation/tp/gtfs.html",
+    "url": "https://data.calgary.ca/Transportation/Calgary-Transit-GTFS/6ujm-5r64",
     "tags": [
       "calgary",
       "gtfs",
@@ -11213,7 +11213,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "ETS GTFS static feed and developer documentation for Edmonton transit routes, stops, and schedules.",
-    "url": "https://www.edmonton.ca/etsbc/ets/ets-data-for-web-developers",
+    "url": "https://www.edmonton.ca/ets",
     "tags": [
       "edmonton",
       "gtfs",
@@ -11245,7 +11245,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "HSR GTFS static schedule data for Hamilton transit routes and stops.",
-    "url": "https://www.hamilton.ca/city-initiatives/strategies-actions/open-data-catalogue",
+    "url": "https://open.hamilton.ca/",
     "tags": [
       "hamilton",
       "gtfs",
@@ -11518,7 +11518,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "Winnipeg Transit GTFS static feed and developer documentation on the open data portal.",
-    "url": "https://data.winnipeg.ca/Transportation/Transit-GTFS-Static-Feed/g4wx-2p3b",
+    "url": "https://data.winnipeg.ca/Transportation/Transit-GTFS-Static-Feed",
     "tags": [
       "winnipeg",
       "gtfs",
@@ -11950,7 +11950,7 @@
     "category": "utilities",
     "type": "Regulator",
     "description": "Regulates the upstream oil, gas, and coal development in Alberta, including licensing, compliance, and environmental monitoring",
-    "url": "https://www.aer.ca/",
+    "url": "https://aer.ca/",
     "tags": [
       "Alberta",
       "energy",
@@ -12115,7 +12115,7 @@
     "category": "utilities",
     "type": "Water management",
     "description": "OPG's dam safety monitoring, water level data, and water management information for Ontario's hydroelectric facilities",
-    "url": "https://www.opg.com/safety/dams/",
+    "url": "https://www.opg.com/power-safety/dams/",
     "tags": [
       "Ontario",
       "utilities",
@@ -12130,7 +12130,7 @@
     "category": "utilities",
     "type": "Dashboard",
     "description": "Nuclear generation data, environmental monitoring results, and safety performance information from OPG's Pickering and Darlington stations",
-    "url": "https://www.opg.com/generating-power/nuclear/nuclear-performance/",
+    "url": "https://www.opg.com/power-generation/nuclear/",
     "tags": [
       "Ontario",
       "nuclear",
@@ -12755,7 +12755,7 @@
     "category": "school-board",
     "type": "School boundary lookup",
     "description": "Mobile-friendly app to find designated schools within Winnipeg School Division boundaries by address. Covers division-wide program schools and is updated with the latest boundary information.",
-    "url": "https://www.winnipegsd.ca/find-a-school",
+    "url": "https://winnipegsd.ca/find-a-school",
     "tags": [
       "Winnipeg",
       "school boundaries",
