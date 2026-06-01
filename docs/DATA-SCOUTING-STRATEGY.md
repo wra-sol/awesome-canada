@@ -122,17 +122,19 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ---
 
-## Current State (May 2026)
+## Current State (June 2026)
 
-- Total resources: **852**
-- Municipal + provincial + regional: **~63%** of catalog (538 / 852)
+- Total resources: **856**
+- Municipal + provincial + regional: **~63%** of catalog (542 / 856)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
-- Priority categories deepened: `planning-zoning` (41), `council` (42), `lobbyist` (14), `heritage` registers (17), `health-region` (23), `transit` GTFS (52), `weather` (8), `budget` (20), `school-board` (23)
+- Priority categories deepened: `planning-zoning` (43), `council` (42), `lobbyist` (14), `heritage` registers (17), `health-region` (23), `transit` GTFS (52), `weather` (8), `budget` (20), `school-board` (26)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
-- Remaining gaps: municipal vendor payment ledgers (especially MB, Atlantic); live URL verification on ArcGIS/`http://` links; more school-board boundary datasets per board (especially Atlantic); health-region food inspection data for NB and NL now added
+- Remaining gaps: municipal vendor payment ledgers (especially MB, Atlantic); live URL verification on ArcGIS/`http://` links; more school-board boundary datasets per board (Atlantic partially filled — still need NB district-level locators and PEI zone maps); health-region food inspection data for NB and NL now added
 - Data quality: 9 duplicate URLs fixed (Halifax, L\u00e9vis, Interior Health, Alberta, S\u00e9paq, Ontario, Edmonton GTFS, Hamilton GTFS) and 1 exact duplicate entry removed (SK Lobbyist)
 
 ## Updates
+
+- **2026-06-01:** Added **5** gap-fill entries — Québec school board and service centre territories (first province-wide Quebec school-board dataset), Halifax Regional Centre for Education School Finder (first Halifax school-board entry), Calgary Board of Education Find a School (address-based lookup distinct from existing directory), Fredericton Zoning By-law Dataset (first Fredericton planning-zoning entry), and Saint John Zoning Dataset (second Saint John planning entry, deepening Atlantic zoning coverage).
 
 - **2026-05-31:** Added **5** gap-fill entries — Pembina Trails and Louis Riel school locators (Manitoba school-board depth), Sherbrooke buildings dataset (first Sherbrooke open-data entry), Longueuil industrial zones (first Longueuil planning-zoning entry), and PEI Estimates of Expenditure (first PEI budget dataset). Also resolved 9 pre-existing duplicate URLs and removed 1 exact duplicate.
 
