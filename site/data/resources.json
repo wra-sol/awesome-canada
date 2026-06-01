@@ -756,7 +756,8 @@
       "maps",
       "GIS"
     ],
-    "dateAdded": "2024-06-02"
+    "dateAdded": "2024-06-02",
+    "status": "dead"
   },
   {
     "name": "GeoOttawa",
@@ -946,7 +947,7 @@
     "category": "budget",
     "type": "Municipal budget",
     "description": "Halifax Regional Municipality budget documents, business plans, and financial performance reporting.",
-    "url": "https://www.halifax.ca/city-hall/budget-financial-reports",
+    "url": "https://www.halifax.ca/budget",
     "tags": [
       "halifax",
       "budget",
@@ -1000,7 +1001,8 @@
       "transparency",
       "council"
     ],
-    "dateAdded": "2024-07-17"
+    "dateAdded": "2024-07-17",
+    "status": "dead"
   },
   {
     "name": "City of Toronto Vendor Payments (Open Data)",
@@ -1251,7 +1253,8 @@
       "Quebec",
       "procurement"
     ],
-    "dateAdded": "2024-09-06"
+    "dateAdded": "2024-09-06",
+    "status": "dead"
   },
   {
     "name": "SaskTenders",
@@ -1441,7 +1444,7 @@
     "category": "council",
     "type": "Regional council meetings",
     "description": "Regional Municipality of Waterloo council and committee agendas, minutes, and webcasts.",
-    "url": "https://www.regionofwaterloo.ca/en/regional-government/council-meetings.aspx",
+    "url": "https://www.regionofwaterloo.ca/government-and-council/council/",
     "tags": [
       "waterloo region",
       "council",
@@ -1507,7 +1510,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Brandon City Council agendas, minutes, and meeting video.",
-    "url": "https://www.brandon.ca/government/mayor-council/council-meetings",
+    "url": "https://www.brandon.ca/city-hall/mayor-and-council/",
     "tags": [
       "brandon",
       "manitoba",
@@ -1687,7 +1690,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Halifax Regional Municipality council and committee agendas, minutes, and live meeting streams.",
-    "url": "https://www.halifax.ca/city-hall/regional-council",
+    "url": "https://www.halifax.ca/city-hall/agendas-meetings-reports?category=127",
     "tags": [
       "halifax",
       "council",
@@ -1703,7 +1706,7 @@
     "category": "council",
     "type": "Agendas and minutes",
     "description": "Council and committee agendas, minutes, and live meeting streams for the City of Hamilton.",
-    "url": "https://www.hamilton.ca/city-council/meetings-agendas",
+    "url": "https://www.hamilton.ca/city-council/council-committee/council-committee-meetings",
     "tags": [
       "hamilton",
       "council",
@@ -1736,7 +1739,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Ville de Laval council session agendas, minutes, and video for municipal council meetings.",
-    "url": "https://www.laval.ca/Pages/Fr/Citoyens/conseil-municipal/seances-du-conseil.aspx",
+    "url": "https://www.laval.ca/conseil-municipal/seances",
     "tags": [
       "laval",
       "quebec",
@@ -1752,7 +1755,7 @@
     "category": "council",
     "type": "Council agendas",
     "description": "PDF agendas for City of Lévis council meetings — subscribe to email alerts when new agendas are published.",
-    "url": "https://www.ville.levis.qc.ca/fr/citoyens/vie-democratique/conseil-municipal",
+    "url": "https://www.ville.levis.qc.ca/la-ville/conseil-municipal/ordres-du-jour/",
     "tags": [
       "lévis",
       "council",
@@ -1768,7 +1771,7 @@
     "category": "council",
     "type": "Council minutes",
     "description": "Council minutes and decision summaries for Lévis — published the Wednesday after each council meeting with linked decision briefs.",
-    "url": "https://www.ville.levis.qc.ca/fr/citoyens/vie-democratique/conseil-municipal",
+    "url": "https://www.ville.levis.qc.ca/la-ville/conseil-municipal/proces-verbaux/",
     "tags": [
       "lévis",
       "council",
@@ -1807,7 +1810,8 @@
       "council",
       "agendas"
     ],
-    "dateAdded": "2024-12-23"
+    "dateAdded": "2024-12-23",
+    "status": "dead"
   },
   {
     "name": "Medicine Hat City Council Meetings",
@@ -1816,7 +1820,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Medicine Hat City Council agendas, minutes, and meeting schedules.",
-    "url": "https://www.medicinehat.ca/en/government/city-council/council-meetings.aspx",
+    "url": "https://www.medicinehat.ca/government-city-hall/mayor-city-council-administration/agendas-minutes/",
     "tags": [
       "medicine hat",
       "alberta",
@@ -1848,7 +1852,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "City of Moncton council and committee meeting agendas and minutes.",
-    "url": "https://www.moncton.ca/city-hall/mayor-council/council-meetings",
+    "url": "https://www.moncton.ca/en/council",
     "tags": [
       "moncton",
       "council",
@@ -1881,7 +1885,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Red Deer City Council agendas, minutes, and meeting video.",
-    "url": "https://www.reddeer.ca/city-government/mayor-council/council-meetings/",
+    "url": "https://www.reddeer.ca/city-government/mayor-and-city-councillors/council-meetings-and-schedule/",
     "tags": [
       "red deer",
       "alberta",
@@ -1930,7 +1934,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Saskatoon City Council and committee agendas, minutes, and meeting videos with calendar search.",
-    "url": "https://www.saskatoon.ca/city-hall/mayor-city-council/city-council-meetings",
+    "url": "https://www.saskatoon.ca/council",
     "tags": [
       "saskatoon",
       "council",
@@ -1946,7 +1950,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Ville de Sherbrooke council meeting agendas, minutes, and webcasts.",
-    "url": "https://www.sherbrooke.ca/fr/vie-municipale/conseil-municipal/seances-du-conseil",
+    "url": "https://www.sherbrooke.ca/Pages/Fr/Citoyens/conseil-municipal/seances-du-conseil.aspx",
     "tags": [
       "sherbrooke",
       "quebec",
@@ -1962,7 +1966,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "St. John's City Council meeting agendas, minutes, and webcasts for council sessions.",
-    "url": "https://www.stjohns.ca/city-hall/city-council/council-meetings",
+    "url": "https://www.stjohns.ca/en/city-hall/mayor-and-council.aspx",
     "tags": [
       "st johns",
       "newfoundland",
@@ -2061,7 +2065,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "City of Victoria council and committee meeting calendars, agendas, minutes, and webcasts for current and archived sessions.",
-    "url": "https://www.victoria.ca/city-government/council-committees/council-meetings",
+    "url": "https://www.victoria.ca/city-government/mayor-council/council-committee-meetings",
     "tags": [
       "victoria",
       "bc",
@@ -3638,7 +3642,8 @@
       "arcgis",
       "geojson"
     ],
-    "dateAdded": "2026-01-05"
+    "dateAdded": "2026-01-05",
+    "status": "dead"
   },
   {
     "name": "North Bay Drinking Water Quality Reports",
@@ -4684,7 +4689,7 @@
     "category": "health-region",
     "type": "Food inspection search",
     "description": "Food facility inspection disclosure for Interior Health region — search by establishment name and community.",
-    "url": "https://www.interiorhealth.ca/",
+    "url": "https://www.interiorhealth.ca/health-and-wellness/environmental-health-and-hazards/inspection-reports",
     "tags": [
       "interior health",
       "bc",
@@ -4797,7 +4802,7 @@
     "category": "health-region",
     "type": "Food inspection search",
     "description": "Search food premises inspection results for Hamilton under Hamilton Public Health Services.",
-    "url": "https://www.hamilton.ca/health/food-safety",
+    "url": "https://www.hamilton.ca/people-programs/public-health/health-inspection-results/",
     "tags": [
       "hamilton",
       "food safety",
@@ -4830,7 +4835,7 @@
     "category": "health-region",
     "type": "Food inspection search",
     "description": "Search food establishment inspection results and compliance history from Ottawa Public Health.",
-    "url": "https://www.ottawapublichealth.ca/en/public-health-topics/inspection-connection",
+    "url": "https://www.ottawapublichealth.ca/en/public-health-services/public-health-inspections.aspx",
     "tags": [
       "ottawa",
       "food safety",
@@ -4913,7 +4918,7 @@
     "category": "health-region",
     "type": "Food inspection data",
     "description": "Food establishment inspection records on Winnipeg open data — search results and facility compliance history.",
-    "url": "https://data.winnipeg.ca/Health",
+    "url": "https://data.winnipeg.ca/browse?category=Health",
     "tags": [
       "winnipeg",
       "food safety",
@@ -4944,7 +4949,7 @@
     "category": "heritage",
     "type": "Heritage inventory",
     "description": "Inventory of evaluated heritage resources in Calgary — search historic buildings and sites on Open Calgary.",
-    "url": "https://data.calgary.ca/Land-Use-Planning/Heritage-Inventory/xfh5-6p7w",
+    "url": "https://data.calgary.ca/browse?category=Heritage",
     "tags": [
       "calgary",
       "heritage",
@@ -4952,22 +4957,6 @@
       "open data"
     ],
     "dateAdded": "2026-09-26"
-  },
-  {
-    "name": "Calgary Heritage Inventory Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Calgary",
-    "category": "heritage",
-    "type": "Heritage inventory",
-    "description": "Calgary heritage inventory and historic resources datasets on Open Calgary for mapping and research.",
-    "url": "https://data.calgary.ca/browse?category=Heritage",
-    "tags": [
-      "calgary",
-      "heritage",
-      "inventory",
-      "open data"
-    ],
-    "dateAdded": "2026-09-29"
   },
   {
     "name": "Cornwall Heritage Designated Sites Open Data",
@@ -4993,7 +4982,7 @@
     "category": "heritage",
     "type": "Heritage register",
     "description": "Search Edmonton's Register of Historic Resources for municipally designated and inventoried heritage properties.",
-    "url": "https://www.edmonton.ca/city_government/urban_planning_and_design/heritage-resources",
+    "url": "https://www.edmonton.ca/heritage",
     "tags": [
       "edmonton",
       "heritage",
@@ -6179,22 +6168,6 @@
       "search"
     ],
     "dateAdded": "2027-06-08"
-  },
-  {
-    "name": "Saskatchewan Lobbyist Registry",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "lobbyist",
-    "type": "Lobbyist registry",
-    "description": "Saskatchewan public lobbyist registry search under the Lobbyists Act.",
-    "url": "https://www.sasklobbyistregistry.ca/",
-    "tags": [
-      "saskatchewan",
-      "lobbyists",
-      "registry",
-      "search"
-    ],
-    "dateAdded": "2027-06-11"
   },
   {
     "name": "Calgary Lobbyist Information",
@@ -8123,7 +8096,8 @@
       "open data",
       "development"
     ],
-    "dateAdded": "2028-07-11"
+    "dateAdded": "2028-07-11",
+    "status": "dead"
   },
   {
     "name": "SooMaps Open GIS Data Downloads",
@@ -9100,7 +9074,7 @@
     "category": "parks",
     "type": "Recreation map hub",
     "description": "Downloadable and georeferenced recreation maps for public land",
-    "url": "https://www.alberta.ca/public-land-recreation",
+    "url": "https://www.alberta.ca/public-land-recreation-maps",
     "tags": [
       "maps",
       "outdoors"
@@ -9114,7 +9088,7 @@
     "category": "parks",
     "type": "Outdoor info hub",
     "description": "Closures, advisories, PLUZ info, maps, and camping pass links",
-    "url": "https://www.alberta.ca/public-land-recreation",
+    "url": "https://www.alberta.ca/public-land-use-zones",
     "tags": [
       "outdoors",
       "public land"
@@ -9241,7 +9215,7 @@
     "category": "parks",
     "type": "Booking",
     "description": "Reserve camping, lodging, and activities across Quebec's Sépaq parks and wildlife reserves",
-    "url": "https://www.sepaq.com/",
+    "url": "https://www.sepaq.com/reservation/index.dot?language_id=1",
     "tags": [
       "Quebec",
       "camping"
@@ -10024,7 +9998,7 @@
     "category": "safety",
     "type": "Wildfire map",
     "description": "Ontario's interactive fire map with fire size, status, and restricted fire zones",
-    "url": "https://www.ontario.ca/page/forest-fires",
+    "url": "https://www.ontario.ca/page/forest-wildland-and-outdoor-fires",
     "tags": [
       "Ontario",
       "wildfire"
@@ -11150,7 +11124,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "Direct download of Barrie Transit GTFS.zip from the City website for routes, stops, and schedule data.",
-    "url": "https://www.barrie.ca/departments/transit",
+    "url": "https://www.barrie.ca/transit",
     "tags": [
       "barrie",
       "gtfs",
@@ -11197,7 +11171,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "Download Calgary Transit GTFS.zip with routes, stops, and schedules from the City developer resources page.",
-    "url": "https://data.calgary.ca/Transportation/Calgary-Transit-GTFS/6ujm-5r64",
+    "url": "https://data.calgary.ca/browse?category=Transit",
     "tags": [
       "calgary",
       "gtfs",
@@ -11213,7 +11187,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "ETS GTFS static feed and developer documentation for Edmonton transit routes, stops, and schedules.",
-    "url": "https://www.edmonton.ca/ets",
+    "url": "https://data.edmonton.ca/Transit/ETS-Bus-Schedule-GTFS-Data-Feed-Stops/4vt2-8zrq",
     "tags": [
       "edmonton",
       "gtfs",
@@ -11245,7 +11219,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "HSR GTFS static schedule data for Hamilton transit routes and stops.",
-    "url": "https://open.hamilton.ca/",
+    "url": "https://open.hamilton.ca/documents/6eeccf172c824c2db0484aea54ed7fe4/explore",
     "tags": [
       "hamilton",
       "gtfs",
@@ -11518,7 +11492,7 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "Winnipeg Transit GTFS static feed and developer documentation on the open data portal.",
-    "url": "https://data.winnipeg.ca/Transportation/Transit-GTFS-Static-Feed",
+    "url": "https://data.winnipeg.ca/browse?category=Transit",
     "tags": [
       "winnipeg",
       "gtfs",
@@ -12765,5 +12739,101 @@
       "app"
     ],
     "dateAdded": "2026-05-30"
+  },
+  {
+    "name": "Pembina Trails School Division — School Locator",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Interactive tool to find catchment schools by street name or address within Pembina Trails School Division. Covers English and French Immersion programming with grade-by-grade visual maps.",
+    "url": "https://www.pembinatrails.ca/school-locator",
+    "tags": [
+      "Pembina Trails",
+      "school boundaries",
+      "school locator",
+      "Manitoba",
+      "catchment",
+      "app",
+      "interactive"
+    ],
+    "dateAdded": "2026-05-31"
+  },
+  {
+    "name": "Louis Riel School Division — School Finder",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Address-based lookup to find designated English and French Immersion elementary and high schools within the Louis Riel School Division catchment area.",
+    "url": "https://www.lrsd.net/locate-a-school",
+    "tags": [
+      "Louis Riel",
+      "school boundaries",
+      "school finder",
+      "Manitoba",
+      "catchment",
+      "app",
+      "interactive"
+    ],
+    "dateAdded": "2026-05-31"
+  },
+  {
+    "name": "Sherbrooke — Buildings Open Dataset",
+    "level": "Municipal",
+    "jurisdiction": "Sherbrooke",
+    "category": "open-data",
+    "type": "Dataset",
+    "description": "GeoJSON/Shapefile download of buildings in Sherbrooke categorized by type (commercial, hospital, school, municipal building). Useful for urban planning, facility mapping, and accessibility analysis.",
+    "url": "https://donneesouvertes-sherbrooke.opendata.arcgis.com/datasets/28f4f1b83ab243ddb48221f784378337_0/explore",
+    "tags": [
+      "Sherbrooke",
+      "buildings",
+      "Quebec",
+      "GeoJSON",
+      "shapefile",
+      "CSV",
+      "urban planning"
+    ],
+    "dateAdded": "2026-05-31"
+  },
+  {
+    "name": "Longueuil — Industrial Zones",
+    "level": "Municipal",
+    "jurisdiction": "Longueuil",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "GeoJSON/Shapefile download mapping industrial zones across Longueuil. Useful for site selection, economic development research, and land-use planning.",
+    "url": "https://geohub-longueuil.opendata.arcgis.com/datasets/zones-industrielles/explore",
+    "tags": [
+      "Longueuil",
+      "zoning",
+      "industrial",
+      "Quebec",
+      "GeoJSON",
+      "shapefile",
+      "zip",
+      "land use"
+    ],
+    "dateAdded": "2026-05-31"
+  },
+  {
+    "name": "Prince Edward Island — Estimates of Expenditure",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "budget",
+    "type": "Dataset",
+    "description": "Annual provincial budget dataset showing planned spending by department for the upcoming fiscal year. Downloadable in CSV and PDF for fiscal accountability and budget analysis.",
+    "url": "https://data.princeedwardisland.ca/datasets/e3c59ea5c9154796bf3a57f9816618bb_0/explore?showTable=true",
+    "tags": [
+      "Prince Edward Island",
+      "budget",
+      "expenditure",
+      "provincial",
+      "CSV",
+      "PDF",
+      "fiscal"
+    ],
+    "dateAdded": "2026-05-31"
   }
 ]
