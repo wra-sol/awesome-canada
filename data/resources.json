@@ -12835,5 +12835,95 @@
       "fiscal"
     ],
     "dateAdded": "2026-05-31"
+  },
+  {
+    "name": "Québec — School Board and Service Centre Territories",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "school-board",
+    "type": "Dataset",
+    "description": "Downloadable GeoJSON, Shapefile, KML, and CSV datasets of all Quebec school board and service centre territories, including francophone centres de services scolaires, anglophone commissions scolaires, and special-status commissions. Includes interactive map viewer.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/territoires-des-commissions-scolaires-du-quebec",
+    "tags": [
+      "school board",
+      "education",
+      "Quebec",
+      "GeoJSON",
+      "shapefile",
+      "KML",
+      "CSV",
+      "boundaries"
+    ],
+    "dateAdded": "2026-06-01"
+  },
+  {
+    "name": "Halifax Regional Centre for Education — School Finder",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Address-based lookup tool to find designated schools in the Halifax Regional Centre for Education. Search by home address to see assigned elementary, middle, and high schools, as well as program options and community boundaries.",
+    "url": "https://www.hrce.ca/families/school-finder",
+    "tags": [
+      "school finder",
+      "catchment",
+      "Halifax",
+      "education",
+      "boundary map"
+    ],
+    "dateAdded": "2026-06-01"
+  },
+  {
+    "name": "Calgary Board of Education — Find a School",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Interactive address-based map to find your designated Calgary Board of Education school. Displays walk zones, program locations, attendance areas, and trustee ward boundaries.",
+    "url": "https://cbe.ab.ca/schools/find-a-school/Pages/default.aspx",
+    "tags": [
+      "school finder",
+      "catchment",
+      "Calgary",
+      "CBE",
+      "boundary map"
+    ],
+    "dateAdded": "2026-06-01"
+  },
+  {
+    "name": "Fredericton — Zoning By-law Dataset",
+    "level": "Municipal",
+    "jurisdiction": "Fredericton",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Polygon GIS dataset of Fredericton zoning districts from the Zoning By-law, with zoning codes and descriptions. Downloadable as GeoJSON, Shapefile, or KML via ArcGIS Hub for use in mapping and development analysis.",
+    "url": "https://data-fredericton.opendata.arcgis.com/datasets/zoning-by-law-z5",
+    "tags": [
+      "zoning",
+      "planning",
+      "Fredericton",
+      "GeoJSON",
+      "shapefile",
+      "land use"
+    ],
+    "dateAdded": "2026-06-01"
+  },
+  {
+    "name": "Saint John — Zoning Dataset",
+    "level": "Municipal",
+    "jurisdiction": "Saint John",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Polygon features representing zoning districts as per the Saint John Zoning By-law. Attributes include zoning codes and descriptions. Downloadable as GeoJSON, Shapefile, or KML via ArcGIS Hub.",
+    "url": "https://catalogue-saintjohn.opendata.arcgis.com/datasets/SaintJohn::zoning/about",
+    "tags": [
+      "zoning",
+      "planning",
+      "Saint John",
+      "GeoJSON",
+      "shapefile",
+      "land use"
+    ],
+    "dateAdded": "2026-06-01"
   }
 ]
