@@ -30,8 +30,14 @@ const __dirname = dirname(__filename);
 const ROOT = join(__dirname, '..');
 
 const REPO = 'wra-sol/awesome-canada';
-const TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
-
+let TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
+if (!TOKEN) {
+  try {
+    const envFile = readFileSync('/data/.hermes/.env', 'utf8');
+    const match = envFile.match(/^GITHUB_TOKEN=(.+)$/m);
+    if (match) TOKEN = match[1].trim();
+  } catch { /* ignore */ }
+}
 if (!TOKEN) {
   console.error('Error: GITHUB_TOKEN or GH_TOKEN env var required');
   process.exit(1);
@@ -358,7 +364,7 @@ async function main() {
   console.log(`\n📋 Found ${issues.length} open issues`);
 
   const submissions = issues.filter(i => i.labels.some(l => l.name === 'submission'));
-  const brokenLinks = issues.filter(i => i.labels.some(l => l.name === 'broken-link'));
+  const brokenLinks = issues.filter(i => i.labels.some(l => l.name === 'broken-link') || i.title.toLowerCase().includes('[broken]'));
 
   console.log(`   Submissions: ${submissions.length}`);
   console.log(`   Broken links: ${brokenLinks.length}`);
