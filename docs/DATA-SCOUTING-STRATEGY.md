@@ -67,6 +67,7 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 - Look at CivicTech Canada or Open Data Institute lists for leads
 - Search Archive.org for defunct portals that may have moved
 - **ArcGIS Hub API:** verify dataset availability on ArcGIS Hub portals via `/api/search/v1` or `/api/v3/datasets` endpoints
+- **Socrata catalog API:** search for datasets on Socrata-powered portals via `https://data.[domain].ca/api/catalog/v1?domains=data.[domain].ca&q=[term]`
 
 ---
 
@@ -124,15 +125,17 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ## Current State (June 2026)
 
-- Total resources: **856**
-- Municipal + provincial + regional: **~63%** of catalog (542 / 856)
+- Total resources: **861**
+- Municipal + provincial + regional: **~63%** of catalog (547 / 861)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
-- Priority categories deepened: `planning-zoning` (43), `council` (42), `lobbyist` (14), `heritage` registers (17), `health-region` (23), `transit` GTFS (52), `weather` (8), `budget` (20), `school-board` (26)
+- Priority categories deepened: `planning-zoning` (43), `council` (42), `lobbyist` (14), `heritage` registers (17), `health-region` (24), `transit` GTFS (52), `weather` (8), `budget` (21), `school-board` (29)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
-- Remaining gaps: municipal vendor payment ledgers (especially MB, Atlantic); live URL verification on ArcGIS/`http://` links; more school-board boundary datasets per board (Atlantic partially filled — still need NB district-level locators and PEI zone maps); health-region food inspection data for NB and NL now added
+- Remaining gaps: municipal vendor payment ledgers (especially MB); live URL verification on ArcGIS/`http://` links; NB district-level school locators (PEI zone maps and NS school board boundaries now filled); Newfoundland and Labrador still needs depth beyond the initial health-region entry
 - Data quality: 9 duplicate URLs fixed (Halifax, L\u00e9vis, Interior Health, Alberta, S\u00e9paq, Ontario, Edmonton GTFS, Hamilton GTFS) and 1 exact duplicate entry removed (SK Lobbyist)
 
 ## Updates
+
+- **2026-06-02:** Added **5** gap-fill entries — Prince Edward Island School Zoning and Transportation Portal (first PEI school-board interactive lookup), Nova Scotia School Board Zones in English and French (first province-wide NS school-board boundary datasets), Newfoundland and Labrador Health Regions (first NL health-region spatial dataset), and Winnipeg Council Member Expenses (Manitoba budget transparency).
 
 - **2026-06-01:** Added **5** gap-fill entries — Québec school board and service centre territories (first province-wide Quebec school-board dataset), Halifax Regional Centre for Education School Finder (first Halifax school-board entry), Calgary Board of Education Find a School (address-based lookup distinct from existing directory), Fredericton Zoning By-law Dataset (first Fredericton planning-zoning entry), and Saint John Zoning Dataset (second Saint John planning entry, deepening Atlantic zoning coverage).
 
