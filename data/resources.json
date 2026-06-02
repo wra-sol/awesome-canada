@@ -12925,5 +12925,101 @@
       "land use"
     ],
     "dateAdded": "2026-06-01"
+  },
+  {
+    "name": "Prince Edward Island — School Zoning and Transportation Portal",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Interactive address-based portal to find designated schools, view school boundary maps, and verify school bus transportation eligibility for the PEI Public Schools Branch. Covers all English-language schools in the province.",
+    "url": "https://psbbusing.princeedwardisland.ca/Default.aspx",
+    "tags": [
+      "school finder",
+      "catchment",
+      "Prince Edward Island",
+      "PEI",
+      "education",
+      "boundary map",
+      "transportation"
+    ],
+    "dateAdded": "2026-06-02"
+  },
+  {
+    "name": "Nova Scotia — School Board Zones (English)",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "school-board",
+    "type": "Dataset",
+    "description": "Provincial geospatial dataset of English-language Regional Centres for Education (RCE) and school board zones in Nova Scotia. Downloadable as GeoJSON, Shapefile, and KML for mapping student catchment areas, trustee representation, and education planning.",
+    "url": "https://data.novascotia.ca/dataset/v69y-jn74",
+    "tags": [
+      "school board",
+      "education",
+      "Nova Scotia",
+      "GeoJSON",
+      "shapefile",
+      "KML",
+      "boundaries"
+    ],
+    "dateAdded": "2026-06-02"
+  },
+  {
+    "name": "Nova Scotia — School Board Zones (French)",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "school-board",
+    "type": "Dataset",
+    "description": "Provincial geospatial dataset of French-language school board zones (Conseil scolaire acadien provincial) in Nova Scotia. Downloadable as GeoJSON, Shapefile, and KML for mapping minority-language education catchment areas and Acadian school boundaries.",
+    "url": "https://data.novascotia.ca/dataset/76iu-75v2",
+    "tags": [
+      "school board",
+      "education",
+      "Nova Scotia",
+      "French immersion",
+      "CSAP",
+      "GeoJSON",
+      "shapefile",
+      "KML",
+      "boundaries"
+    ],
+    "dateAdded": "2026-06-02"
+  },
+  {
+    "name": "Newfoundland and Labrador — Health Regions",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "health-region",
+    "type": "Dataset",
+    "description": "Spatial delineation of health board coverage regions in Newfoundland and Labrador. Downloadable as KMZ and Shapefile for health service planning, epidemiological mapping, and demographic analysis.",
+    "url": "https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=266",
+    "tags": [
+      "health region",
+      "health",
+      "Newfoundland and Labrador",
+      "KMZ",
+      "shapefile",
+      "spatial",
+      "boundaries"
+    ],
+    "dateAdded": "2026-06-02"
+  },
+  {
+    "name": "Winnipeg — Council Member Expenses",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "budget",
+    "type": "Dataset",
+    "description": "Itemized expenses of Winnipeg City Council members from 2014 to present, including travel, conferences, and discretionary spending. Searchable and downloadable as CSV for transparency and accountability research.",
+    "url": "https://data.winnipeg.ca/dataset/mgde-4fua",
+    "tags": [
+      "Winnipeg",
+      "council",
+      "expenses",
+      "budget transparency",
+      "CSV",
+      "municipal"
+    ],
+    "dateAdded": "2026-06-02"
   }
 ]
