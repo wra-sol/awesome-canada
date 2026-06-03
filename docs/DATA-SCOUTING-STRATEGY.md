@@ -58,6 +58,8 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 3. ** Election agencies** — candidate finance disclosures, polling division maps
 4. ** Health authorities** — regional health unit websites with data dashboards
 5. ** Education ministries** — school profiles, standardized test results by school
+6. ** School board division websites** — catchment-area PDFs, boundary maps (e.g., Hanover School Division)
+7. ** Provincial geospatial hubs** — Data MB, GeoNB, and similar provincial geoviewers that may expose datasets not always listed in the main open-data catalogue
 
 ### Discovery Techniques
 - Google: `"open data" "[city name]" filetype:json OR filetype:csv`
@@ -125,15 +127,17 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ## Current State (June 2026)
 
-- Total resources: **861**
-- Municipal + provincial + regional: **~63%** of catalog (547 / 861)
+- Total resources: **866**
+- Municipal + provincial + regional: **~64%** of catalog (552 / 866)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
-- Priority categories deepened: `planning-zoning` (43), `council` (42), `lobbyist` (14), `heritage` registers (17), `health-region` (24), `transit` GTFS (52), `weather` (8), `budget` (21), `school-board` (29)
+- Priority categories deepened: `planning-zoning` (43), `council` (42), `lobbyist` (14), `heritage` registers (17), `health-region` (24), `transit` GTFS (52), `weather` (8), `budget` (21), `school-board` (30), `open-data` (151)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
-- Remaining gaps: municipal vendor payment ledgers (especially MB); live URL verification on ArcGIS/`http://` links; NB district-level school locators (PEI zone maps and NS school board boundaries now filled); Newfoundland and Labrador still needs depth beyond the initial health-region entry
+- Remaining gaps: municipal vendor payment ledgers (especially MB); live URL verification on ArcGIS/`http://` links; NB district-level school locators; Newfoundland and Labrador still could use more municipal-level entries beyond provincial datasets
 - Data quality: 9 duplicate URLs fixed (Halifax, L\u00e9vis, Interior Health, Alberta, S\u00e9paq, Ontario, Edmonton GTFS, Hamilton GTFS) and 1 exact duplicate entry removed (SK Lobbyist)
 
 ## Updates
+
+- **2026-06-03:** Added **5** gap-fill entries — Hanover School Division Catchment Maps (first rural Manitoba school-board boundary PDFs), Manitoba Data MB geospatial open data portal (first provincial geospatial portal for MB), Newfoundland and Labrador Municipalities and Local Service Districts (first NL municipal boundary dataset), Newfoundland and Labrador Provincial Electoral Districts 2015 (first NL electoral boundary dataset), and New Brunswick GeoNB Map Viewer (first NB interactive provincial geospatial viewer). Push to origin/master blocked by expired GitHub token.
 
 - **2026-06-02:** Added **5** gap-fill entries — Prince Edward Island School Zoning and Transportation Portal (first PEI school-board interactive lookup), Nova Scotia School Board Zones in English and French (first province-wide NS school-board boundary datasets), Newfoundland and Labrador Health Regions (first NL health-region spatial dataset), and Winnipeg Council Member Expenses (Manitoba budget transparency).
 
