@@ -7023,7 +7023,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "City of Burlington ArcGIS Hub with parks, zoning, property, and civic datasets.",
-    "url": "https://data-burlington.opendata.arcgis.com/",
+    "url": "https://navburl-burlington.opendata.arcgis.com/",
     "tags": [
       "burlington",
       "ontario",
