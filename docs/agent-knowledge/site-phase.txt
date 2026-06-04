@@ -1,5 +1,5 @@
 phase: 2
 stable_runs: 11
-last_run: 2026-06-03T12:00:00Z
+last_run: 2026-06-04T11:00:00Z
 last_status: error
-notes: Build succeeded (validation passed, 866 resources). Push to origin/master FAILED — GitHub token expired/invalid (same as previous run). Data committed locally on master. Authentication needs renewal (gh auth login or new GITHUB_TOKEN). Site on gh-pages still has old resources.json.
+notes: Build succeeded (validation passed, 866 resources). Push to origin/master FAILED — GitHub token expired/invalid. 4 local commits pending (incl. 5 new resources: Hanover School Division catchment maps, Data MB portal, NL municipalities and electoral districts, GeoNB Map Viewer). Live site has 861 resources. Authentication needs renewal (gh auth login or new GITHUB_TOKEN).
