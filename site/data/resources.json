@@ -13021,5 +13021,104 @@
       "municipal"
     ],
     "dateAdded": "2026-06-02"
+  },
+  {
+    "name": "Hanover School Division — Catchment Maps",
+    "level": "Regional",
+    "jurisdiction": "Manitoba",
+    "category": "school-board",
+    "type": "Dataset",
+    "description": "Downloadable PDF maps showing school catchment boundaries for the Hanover School Division in southeastern Manitoba. Includes division-wide catchment map and individual maps for Steinbach Early Years (K–4), Grades 5–8, and rural areas. Useful for parents, real estate research, and enrollment planning.",
+    "url": "https://hsd.ca/schools/catchment-areas/",
+    "tags": [
+      "school board",
+      "catchment",
+      "boundary map",
+      "PDF",
+      "Manitoba",
+      "Hanover",
+      "Steinbach",
+      "education"
+    ],
+    "dateAdded": "2026-06-03"
+  },
+  {
+    "name": "Manitoba — Data MB (Geospatial Open Data Portal)",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "open-data",
+    "type": "Portal",
+    "description": "Manitoba’s official geospatial open data portal. Search, explore, visualize, and download provincial datasets by category — agriculture, economy, transportation, education, health, environment, and government. Datasets available for download as GeoJSON, Shapefile, CSV, and KML.",
+    "url": "https://geoportal.gov.mb.ca",
+    "tags": [
+      "open data",
+      "geospatial",
+      "Manitoba",
+      "GeoJSON",
+      "shapefile",
+      "CSV",
+      "KML",
+      "portal",
+      "ArcGIS Hub"
+    ],
+    "dateAdded": "2026-06-03"
+  },
+  {
+    "name": "Newfoundland and Labrador — Municipalities and Local Service Districts",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "open-data",
+    "type": "Dataset",
+    "description": "Spatial dataset of all municipalities and local service districts in Newfoundland and Labrador. Downloadable as KMZ and compressed Shapefile for mapping municipal boundaries, service planning, and jurisdictional analysis.",
+    "url": "https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=265",
+    "tags": [
+      "municipalities",
+      "local service districts",
+      "Newfoundland and Labrador",
+      "spatial",
+      "KMZ",
+      "shapefile",
+      "boundaries",
+      "open data"
+    ],
+    "dateAdded": "2026-06-03"
+  },
+  {
+    "name": "Newfoundland and Labrador — Provincial Electoral Districts (2015)",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "open-data",
+    "type": "Dataset",
+    "description": "Spatial dataset of Newfoundland and Labrador’s provincial electoral district boundaries (2015). Includes line and polygon shapefiles for electoral mapping, boundary analysis, and demographic research.",
+    "url": "https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=361",
+    "tags": [
+      "electoral districts",
+      "boundaries",
+      "Newfoundland and Labrador",
+      "shapefile",
+      "spatial",
+      "elections",
+      "open data"
+    ],
+    "dateAdded": "2026-06-03"
+  },
+  {
+    "name": "New Brunswick — GeoNB Map Viewer",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "open-data",
+    "type": "Interactive map",
+    "description": "Interactive provincial geospatial map viewer for New Brunswick. Explore layers from multiple departments including natural resources, environment, local government, and public safety. Useful for property research, land use planning, and environmental assessment.",
+    "url": "https://geonb.snb.ca",
+    "tags": [
+      "geospatial",
+      "interactive map",
+      "New Brunswick",
+      "GIS",
+      "property",
+      "land use",
+      "environment"
+    ],
+    "dateAdded": "2026-06-03"
   }
 ]
