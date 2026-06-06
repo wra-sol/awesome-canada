@@ -13120,5 +13120,96 @@
       "environment"
     ],
     "dateAdded": "2026-06-03"
+  },
+  {
+    "name": "St. John's MapCentre",
+    "level": "Municipal",
+    "jurisdiction": "St. John's",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Interactive GIS mapping portal for St. John's — search addresses, view property parcels, zoning, heritage areas, floodplains, wetlands, electoral wards, and aerial photos dating back to 2003. Useful for real estate research, urban planning, and community organizing.",
+    "url": "https://map.stjohns.ca/mapcentre/",
+    "tags": [
+      "GIS",
+      "property",
+      "zoning",
+      "heritage",
+      "floodplains",
+      "aerials",
+      "St. John's",
+      "interactive map"
+    ],
+    "dateAdded": "2026-06-05"
+  },
+  {
+    "name": "Paradise — Cheque Register",
+    "level": "Municipal",
+    "jurisdiction": "Paradise",
+    "category": "budget",
+    "type": "Vendor payment ledger",
+    "description": "Monthly PDF downloads of all vendor and supplier payments made by the Town of Paradise. Track municipal spending, identify top vendors, and analyze procurement patterns from January 2020 onward.",
+    "url": "https://www.paradise.ca/government-engage/cheque-register/",
+    "tags": [
+      "budget",
+      "vendor payments",
+      "transparency",
+      "Paradise",
+      "PDF",
+      "cheque register"
+    ],
+    "dateAdded": "2026-06-05"
+  },
+  {
+    "name": "Mount Pearl — Interactive GIS Map",
+    "level": "Municipal",
+    "jurisdiction": "Mount Pearl",
+    "category": "open-data",
+    "type": "Interactive map",
+    "description": "Interactive GIS map for Mount Pearl with aerial photography, street information, civic addresses, and links to business parks, street directory, and parks and trails maps.",
+    "url": "https://map.mountpearl.ca/",
+    "tags": [
+      "GIS",
+      "aerials",
+      "streets",
+      "addresses",
+      "Mount Pearl",
+      "interactive map"
+    ],
+    "dateAdded": "2026-06-05"
+  },
+  {
+    "name": "St. John's — Council eScribe Portal",
+    "level": "Municipal",
+    "jurisdiction": "St. John's",
+    "category": "council",
+    "type": "eScribe portal",
+    "description": "Searchable council and committee agendas and minutes for St. John's. Access current and archived meeting records via the city's eScribe portal.",
+    "url": "https://apps.stjohns.ca/escribe/Escribe.aspx",
+    "tags": [
+      "council",
+      "agendas",
+      "minutes",
+      "eScribe",
+      "St. John's"
+    ],
+    "dateAdded": "2026-06-05"
+  },
+  {
+    "name": "Brandon — Compensation Disclosure",
+    "level": "Municipal",
+    "jurisdiction": "Brandon",
+    "category": "budget",
+    "type": "Compensation disclosure",
+    "description": "Annual PDF reports disclosing compensation paid to City of Brandon council members and employees earning over $75,000 (now $85,000). Useful for salary research, transparency analysis, and tracking municipal compensation trends.",
+    "url": "https://www.brandon.ca/city-hall/compensation-disclosure/",
+    "tags": [
+      "budget",
+      "salary disclosure",
+      "sunshine list",
+      "Brandon",
+      "PDF",
+      "compensation"
+    ],
+    "dateAdded": "2026-06-05"
   }
 ]
