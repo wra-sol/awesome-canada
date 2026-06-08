@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 12
-last_run: 2026-06-07T11:00:00Z
-last_status: error
-notes: Build succeeded (validation passed, 871 resources, all entries have dateAdded). Push to origin/master FAILED — GitHub token expired/invalid (401 on API). 7 local commits pending. Live site still returns HTTP 200. Authentication needs renewal before next deploy.
+stable_runs: 13
+last_run: 2026-06-08T11:00:00Z
+last_status: ok
+notes: Site stable. 871 resources. All entries have dateAdded. Build succeeded. Push to origin/master succeeded (commits were previously deployed). Actions deploy successful. Live site returns HTTP 200. Sampled 7 diverse URLs — all returned 200.
