@@ -104,6 +104,7 @@ const JURISDICTION_TO_REGION = {
 
   "Brandon":                   'mb',
   "Winnipeg":                  'mb',
+  "Thompson":                  'mb',
   "Manitoba":                  'mb',
 
   'Ontario':                   'on',
@@ -203,6 +204,7 @@ const JURISDICTION_TO_REGION = {
   'Nunavut':                   'north',
   'Whitehorse':                'north',
   'Yellowknife':               'north',
+  'Iqaluit':                   'north',
 };
 
 /**

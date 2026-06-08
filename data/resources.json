@@ -13211,5 +13211,98 @@
       "compensation"
     ],
     "dateAdded": "2026-06-05"
+  },
+  {
+    "name": "Iqaluit Motion Registry Results",
+    "level": "Municipal",
+    "jurisdiction": "Iqaluit",
+    "category": "council",
+    "type": "Council motions",
+    "description": "Searchable, downloadable list of City of Iqaluit council motions with meeting numbers, dates, and PDF downloads. Track how specific issues were voted on and follow the history of council decisions.",
+    "url": "https://iqaluit.ca/city-hall/city-council/motions/results",
+    "tags": [
+      "pdf",
+      "council",
+      "motions",
+      "searchable",
+      "Iqaluit",
+      "Nunavut"
+    ],
+    "dateAdded": "2026-06-08"
+  },
+  {
+    "name": "New Brunswick School Directory",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "school-board",
+    "type": "School directory",
+    "description": "Searchable directory of all New Brunswick public schools, district offices, and administrators. Search by school name, district, or language; includes print and download options.",
+    "url": "https://www.nbed.nb.ca/SchoolDirectory",
+    "tags": [
+      "search",
+      "directory",
+      "schools",
+      "New Brunswick",
+      "pdf",
+      "download"
+    ],
+    "dateAdded": "2026-06-08"
+  },
+  {
+    "name": "St. John's Permits Issued",
+    "level": "Municipal",
+    "jurisdiction": "St. John's",
+    "category": "planning-zoning",
+    "type": "Building permits",
+    "description": "Weekly lists of building and repair permits issued by the City of St. John's, posted as part of the public record. Download PDFs by date to track development activity, new construction, and renovations.",
+    "url": "https://www.stjohns.ca/en/building-development/permits-issued.aspx",
+    "tags": [
+      "pdf",
+      "permits",
+      "building",
+      "weekly",
+      "download",
+      "St. John's",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-06-08"
+  },
+  {
+    "name": "WhitehorseMap",
+    "level": "Municipal",
+    "jurisdiction": "Whitehorse",
+    "category": "planning-zoning",
+    "type": "GIS",
+    "description": "Interactive web-based GIS mapping tool for the City of Whitehorse with layers for planning, engineering, transportation, parks, utilities, and administration. Explore property boundaries, zoning, infrastructure, and public facilities.",
+    "url": "https://gisext.whitehorse.ca/gis.php",
+    "tags": [
+      "GIS",
+      "interactive",
+      "map",
+      "layers",
+      "planning",
+      "Whitehorse",
+      "Yukon"
+    ],
+    "dateAdded": "2026-06-08"
+  },
+  {
+    "name": "Thompson Financial Reports and Plans",
+    "level": "Municipal",
+    "jurisdiction": "Thompson",
+    "category": "budget",
+    "type": "Financial transparency",
+    "description": "Downloadable PDFs of Thompson's annual financial plans, financial plan presentations, and Bill 57 public sector compensation disclosures. Track municipal spending, tax rates, and senior staff compensation.",
+    "url": "https://www.thompson.ca/p/financial-reports-and-plans",
+    "tags": [
+      "pdf",
+      "budget",
+      "financial",
+      "compensation",
+      "transparency",
+      "Thompson",
+      "Manitoba"
+    ],
+    "dateAdded": "2026-06-08"
   }
 ]
