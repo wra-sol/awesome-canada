@@ -13304,5 +13304,95 @@
       "Manitoba"
     ],
     "dateAdded": "2026-06-08"
+  },
+  {
+    "name": "Corner Brook Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Corner Brook",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "City of Corner Brook council meeting agendas and minutes, organized by year and searchable. Follow council debates, decisions, and public participation on budgets, zoning, and infrastructure.",
+    "url": "https://www.cornerbrook.com/meetings/",
+    "tags": [
+      "agenda",
+      "minutes",
+      "pdf",
+      "search",
+      "Corner Brook",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-06-09"
+  },
+  {
+    "name": "Gander Council Meetings",
+    "level": "Municipal",
+    "jurisdiction": "Gander",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Town of Gander council meeting agendas and minutes (2024–2026). Download PDFs to track decisions on budgets, services, and local infrastructure.",
+    "url": "https://www.gandercanada.com/municipal-government/council-meetings/",
+    "tags": [
+      "agenda",
+      "minutes",
+      "pdf",
+      "Gander",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-06-09"
+  },
+  {
+    "name": "Grand Falls-Windsor Council Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Grand Falls-Windsor",
+    "category": "council",
+    "type": "Council minutes",
+    "description": "Town of Grand Falls-Windsor council minutes and agendas, archived by year with PDF downloads. Use to track local governance decisions, budget approvals, and public hearings.",
+    "url": "https://grandfallswindsor.com/town-hall/council-minutes/",
+    "tags": [
+      "agenda",
+      "minutes",
+      "pdf",
+      "archive",
+      "Grand Falls-Windsor",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-06-09"
+  },
+  {
+    "name": "Gander Interactive GIS Map",
+    "level": "Municipal",
+    "jurisdiction": "Gander",
+    "category": "planning-zoning",
+    "type": "GIS",
+    "description": "Interactive ArcGIS web map for the Town of Gander showing zoning, property parcels, municipal infrastructure, recreation facilities, and utilities. Explore property boundaries and land use plans.",
+    "url": "https://experience.arcgis.com/experience/d5dedd13d8314050adfaf9f5c6477d87?id=15beb6756481449aad161fb752a99611",
+    "tags": [
+      "gis",
+      "map",
+      "interactive",
+      "property",
+      "zoning",
+      "Gander",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-06-09"
+  },
+  {
+    "name": "New Brunswick Anglophone School District Boundaries",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "school-board",
+    "type": "School district maps",
+    "description": "Official PDF maps showing the boundaries for New Brunswick's four anglophone school districts (North, South, East, West) and their sub-districts. Download to determine which school district a property falls into.",
+    "url": "https://www.gnb.ca/en/topic/education-training/k-12/district/anglophone.html",
+    "tags": [
+      "pdf",
+      "map",
+      "schools",
+      "boundaries",
+      "districts",
+      "New Brunswick"
+    ],
+    "dateAdded": "2026-06-09"
   }
 ]
