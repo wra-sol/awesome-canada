@@ -101,6 +101,7 @@ const JURISDICTION_TO_REGION = {
   'Saskatchewan':              'sk',
   'Regina':                    'sk',
   'Saskatoon':                 'sk',
+  'Moose Jaw':                 'sk',
 
   "Brandon":                   'mb',
   "Winnipeg":                  'mb',
@@ -197,6 +198,7 @@ const JURISDICTION_TO_REGION = {
   'Fredericton':               'atlantic',
   'Moncton':                   'atlantic',
   'Saint John':                'atlantic',
+  'Charlottetown':             'atlantic',
   'Cape Breton':               'atlantic',
   'East Hants':                'atlantic',
   'Miramichi':                 'atlantic',

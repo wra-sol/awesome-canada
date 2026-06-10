@@ -13394,5 +13394,84 @@
       "New Brunswick"
     ],
     "dateAdded": "2026-06-09"
+  },
+  {
+    "name": "Moose Jaw Open Budget",
+    "level": "Municipal",
+    "jurisdiction": "Moose Jaw",
+    "category": "budget",
+    "type": "Budget explorer",
+    "description": "Interactive budget explorer for the City of Moose Jaw showing operating and capital budgets for 2026-2030. Drill down into departments, revenues, and expenses, and export data.",
+    "url": "https://moosejaw.openbook.questica.com",
+    "tags": [
+      "budget",
+      "Moose Jaw",
+      "interactive",
+      "csv"
+    ],
+    "dateAdded": "2026-06-10"
+  },
+  {
+    "name": "Charlottetown Council Member Disclosure Statements",
+    "level": "Municipal",
+    "jurisdiction": "Charlottetown",
+    "category": "budget",
+    "type": "Disclosure statements",
+    "description": "Downloadable PDF disclosure statements for each Charlottetown council member from 2018 to 2025. Review councillor assets, liabilities, and interests as required by the Municipal Government Act.",
+    "url": "https://www.charlottetown.ca/mayor___council/city_council/council_member_disclosure_statements",
+    "tags": [
+      "disclosure",
+      "Charlottetown",
+      "pdf",
+      "council"
+    ],
+    "dateAdded": "2026-06-10"
+  },
+  {
+    "name": "Charlottetown Audited Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Charlottetown",
+    "category": "budget",
+    "type": "Financial statements",
+    "description": "Downloadable PDFs of audited consolidated financial statements for the City of Charlottetown, Charlottetown Water and Sewer Corporation, and city superannuation plans. Includes statements from 2024 and 2025.",
+    "url": "https://www.charlottetown.ca/mayor___council/finance/audited_financial_statements",
+    "tags": [
+      "financial statements",
+      "Charlottetown",
+      "pdf",
+      "audit"
+    ],
+    "dateAdded": "2026-06-10"
+  },
+  {
+    "name": "Charlottetown Council Resolutions and Approved Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Charlottetown",
+    "category": "council",
+    "type": "Council minutes",
+    "description": "Document library with downloadable PDFs of council resolutions and approved minutes for the City of Charlottetown. Track council decisions, motions, and voting records over time.",
+    "url": "https://www.charlottetown.ca/mayor___council/council_meetings/resolutions_of_council_and_approved_minutes",
+    "tags": [
+      "council",
+      "minutes",
+      "Charlottetown",
+      "pdf"
+    ],
+    "dateAdded": "2026-06-10"
+  },
+  {
+    "name": "Yellowknife Past and Present Budgets",
+    "level": "Municipal",
+    "jurisdiction": "Yellowknife",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Downloadable PDF budget documents for the City of Yellowknife including the consolidated 2026 budget, governance committee budget presentations, and draft budget proposals. Review operating and capital budgets.",
+    "url": "https://www.yellowknife.ca/budget-and-initiatives/past-and-present-budgets",
+    "tags": [
+      "budget",
+      "Yellowknife",
+      "pdf"
+    ],
+    "dateAdded": "2026-06-10"
   }
 ]
