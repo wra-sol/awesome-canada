@@ -51,6 +51,9 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 5. **CKAN instances** — Canadian cities running CKAN: search "[city] ckan"
 6. **Transit agencies** — look for "Developers" or "GTFS" links, not "Rider Info"
 7. **Municipal planning department pages** — often have PDF maps but also hidden GIS layers
+8. **Questica OpenBook** — budget transparency portals for mid-size cities: `https://[city].openbook.questica.com` or `https://openbook.questica.com/[city]` — check under "Operating Budget" and "Capital Budget" tabs for downloadable CSV exports
+9. **CivicLive-hosted city websites** — many Canadian cities use CivicLive (e.g., Charlottetown). Look for `/mayor___council/` or `/finance/` paths for PDF disclosure statements, audited financials, and council minutes
+10. **Yellowknife and other Northern cities** — budget documents are often published under `/budget-and-initiatives/` or `/council-meetings-and-agendas/` with direct PDF links, not traditional open data portals
 
 ### Provincial
 1. ** Provincial open data portals** — but look past the homepage for bulk download/API sections
@@ -127,15 +130,19 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ## Current State (June 2026)
 
-- Total resources: **866**
-- Municipal + provincial + regional: **~64%** of catalog (552 / 866)
+- Total resources: **886**
+- Municipal + provincial + regional: **~65%** of catalog (572 / 886)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
-- Priority categories deepened: `planning-zoning` (43), `council` (42), `lobbyist` (14), `heritage` registers (17), `health-region` (24), `transit` GTFS (52), `weather` (8), `budget` (21), `school-board` (30), `open-data` (151)
+- Priority categories deepened: `planning-zoning` (47), `council` (48), `lobbyist` (14), `heritage` registers (14), `health-region` (24), `transit` GTFS (52), `weather` (8), `budget` (28), `school-board` (32), `open-data` (152)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
 - Remaining gaps: municipal vendor payment ledgers (especially MB); live URL verification on ArcGIS/`http://` links; NB district-level school locators; Newfoundland and Labrador still could use more municipal-level entries beyond provincial datasets
 - Data quality: 9 duplicate URLs fixed (Halifax, L\u00e9vis, Interior Health, Alberta, S\u00e9paq, Ontario, Edmonton GTFS, Hamilton GTFS) and 1 exact duplicate entry removed (SK Lobbyist)
+- New discovery: Questica OpenBook provides budget transparency for mid-size cities (Moose Jaw confirmed); CivicLive-hosted sites (Charlottetown) publish disclosure statements and audited financials as direct PDFs; Northern cities (Yellowknife) publish budget PDFs under `/budget-and-initiatives/` without traditional open data portals
+- Jurisdiction taxonomy updated: added `Moose Jaw` (Saskatchewan) and `Charlottetown` (Atlantic) to `scripts/categories.js`
 
 ## Updates
+
+- **2026-06-10:** Added **5** gap-fill entries — Moose Jaw Open Budget (first Saskatchewan budget transparency tool via Questica OpenBook), Charlottetown Council Member Disclosure Statements (first PEI municipal disclosure PDFs), Charlottetown Audited Financial Statements (first PEI municipal audited financials), Charlottetown Council Resolutions and Approved Minutes (first PEI municipal council minutes), and Yellowknife Past and Present Budgets (first NWT municipal budget PDFs). Updated `scripts/categories.js` to add `Moose Jaw` and `Charlottetown` jurisdictions.
 
 - **2026-06-03:** Added **5** gap-fill entries — Hanover School Division Catchment Maps (first rural Manitoba school-board boundary PDFs), Manitoba Data MB geospatial open data portal (first provincial geospatial portal for MB), Newfoundland and Labrador Municipalities and Local Service Districts (first NL municipal boundary dataset), Newfoundland and Labrador Provincial Electoral Districts 2015 (first NL electoral boundary dataset), and New Brunswick GeoNB Map Viewer (first NB interactive provincial geospatial viewer). Push to origin/master blocked by expired GitHub token.
 
