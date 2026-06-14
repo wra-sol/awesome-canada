@@ -130,14 +130,14 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ## Current State (June 2026)
 
-- Total resources: **886**
-- Municipal + provincial + regional: **~65%** of catalog (572 / 886)
+- Total resources: **891**
+- Municipal + provincial + regional: **~65%** of catalog (578 / 891)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
-- Priority categories deepened: `planning-zoning` (47), `council` (48), `lobbyist` (14), `heritage` registers (14), `health-region` (24), `transit` GTFS (52), `weather` (8), `budget` (28), `school-board` (32), `open-data` (152)
+- Priority categories deepened: `planning-zoning` (47), `council` (48), `lobbyist` (14), `heritage` registers (14), `health-region` (24), `transit` GTFS (52), `weather` (8), `budget` (33), `school-board` (32), `open-data` (152)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
-- Remaining gaps: municipal vendor payment ledgers (especially MB); live URL verification on ArcGIS/`http://` links; NB district-level school locators; Newfoundland and Labrador still could use more municipal-level entries beyond provincial datasets
+- Remaining gaps: municipal vendor payment ledgers (especially MB); live URL verification on ArcGIS/`http://` links; NB district-level school locators; Saskatchewan mid-size city budget transparency
 - Data quality: 9 duplicate URLs fixed (Halifax, L\u00e9vis, Interior Health, Alberta, S\u00e9paq, Ontario, Edmonton GTFS, Hamilton GTFS) and 1 exact duplicate entry removed (SK Lobbyist)
-- New discovery: Questica OpenBook provides budget transparency for mid-size cities (Moose Jaw confirmed); CivicLive-hosted sites (Charlottetown) publish disclosure statements and audited financials as direct PDFs; Northern cities (Yellowknife) publish budget PDFs under `/budget-and-initiatives/` without traditional open data portals
+- New discovery: Questica OpenBook provides budget transparency for mid-size cities (Moose Jaw confirmed); CivicLive-hosted sites (Charlottetown) publish disclosure statements and audited financials as direct PDFs; Northern cities (Yellowknife) publish budget PDFs under `/budget-and-initiatives/` without traditional open data portals; Newfoundland and Labrador cities (St. John's, Corner Brook, Grand Falls-Windsor, Mount Pearl) publish budget and financial statement PDFs under `/budget` or `/publications` paths; St. John's publishes weekly vendor payment vouchers as proactive disclosure
 - Jurisdiction taxonomy updated: added `Moose Jaw` (Saskatchewan) and `Charlottetown` (Atlantic) to `scripts/categories.js`
 
 ## Updates

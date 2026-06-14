@@ -13473,5 +13473,95 @@
       "pdf"
     ],
     "dateAdded": "2026-06-10"
+  },
+  {
+    "name": "St. John's — Weekly Payment Vouchers",
+    "level": "Municipal",
+    "jurisdiction": "St. John's",
+    "category": "budget",
+    "type": "Vendor payment ledger",
+    "description": "Weekly PDF payment vouchers listing all vendor payments made by the City of St. John's from 2021 to present. Download by year to track municipal spending, identify top vendors, and analyze procurement patterns.",
+    "url": "https://www.stjohns.ca/your-government/access-to-information-and-protection-of-privacy/proactive-disclosures",
+    "tags": [
+      "budget",
+      "vendor payments",
+      "transparency",
+      "pdf",
+      "St. John's",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-06-13"
+  },
+  {
+    "name": "Corner Brook — Budgets and Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Corner Brook",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Downloadable PDF annual budget speeches and audited financial statements for the City of Corner Brook from 2017 to present. Track municipal spending, capital investments, and financial performance over time.",
+    "url": "https://www.cornerbrook.com/by-laws-policies-and-reports/budgets-financial-statements/",
+    "tags": [
+      "budget",
+      "financial statements",
+      "audit",
+      "pdf",
+      "Corner Brook",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-06-13"
+  },
+  {
+    "name": "Grand Falls-Windsor — Budget Documents and Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Grand Falls-Windsor",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Downloadable PDF budget documents and audited financial statements for the Town of Grand Falls-Windsor from 2013 to 2026. Track municipal spending, tax rates, and financial health over time.",
+    "url": "https://grandfallswindsor.com/town-hall/publications/",
+    "tags": [
+      "budget",
+      "financial statements",
+      "audit",
+      "pdf",
+      "Grand Falls-Windsor",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-06-13"
+  },
+  {
+    "name": "Mount Pearl — Budget and Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Mount Pearl",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Downloadable PDF budget brochures, rates and fees schedules, and audited financial statements for the City of Mount Pearl from 2010 to present. Track municipal spending and tax rate changes.",
+    "url": "https://www.mountpearl.ca/government/budget/",
+    "tags": [
+      "budget",
+      "financial statements",
+      "tax rates",
+      "pdf",
+      "Mount Pearl",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-06-13"
+  },
+  {
+    "name": "Fredericton — Previous Budgets and Annual Reports",
+    "level": "Municipal",
+    "jurisdiction": "Fredericton",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Downloadable PDF budget books, annual report infographics, and financial statements for the City of Fredericton from 2018 to present. Review operating and capital budgets, tax rates, and financial performance.",
+    "url": "https://www.fredericton.ca/previous-budgets-annual-reports",
+    "tags": [
+      "budget",
+      "annual reports",
+      "financial statements",
+      "pdf",
+      "Fredericton",
+      "New Brunswick"
+    ],
+    "dateAdded": "2026-06-13"
   }
 ]
