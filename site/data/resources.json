@@ -6702,7 +6702,7 @@
     "category": "open-data",
     "type": "Regional open data",
     "description": "Regional Municipality of Durham open data with transit GTFS, property, and municipal boundary datasets.",
-    "url": "http://opendata.durham.ca/",
+    "url": "https://opendata.durham.ca/",
     "tags": [
       "durham",
       "ontario",
@@ -6880,7 +6880,7 @@
     "category": "open-data",
     "type": "Regional open data hub",
     "description": "York Region ArcGIS open data hub with regional boundaries, demographics, and municipal service layers.",
-    "url": "http://insights-york.opendata.arcgis.com/",
+    "url": "https://insights-york.opendata.arcgis.com/",
     "tags": [
       "york region",
       "ontario",
@@ -6928,7 +6928,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "City of Airdrie ArcGIS open data including parcels, addressing, and municipal boundaries with GTFS transit data.",
-    "url": "http://data-airdrie.opendata.arcgis.com/",
+    "url": "https://data-airdrie.opendata.arcgis.com/",
     "tags": [
       "airdrie",
       "alberta",
@@ -6945,7 +6945,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "Town of Ajax municipal open data with GIS layers for planning and civic services.",
-    "url": "http://opendata.ajax.ca/",
+    "url": "https://opendata.ajax.ca/",
     "tags": [
       "ajax",
       "ontario",
@@ -6960,7 +6960,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "Town of Banff open data including trails, zoning, and municipal spatial datasets.",
-    "url": "http://www.banffopendata.ca/",
+    "url": "https://maps.banff.ca/opendata/",
     "tags": [
       "banff",
       "alberta",
@@ -7099,7 +7099,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "City of Cambridge open GIS hub with property, zoning, libraries, schools, and building datasets.",
-    "url": "http://geohub.cambridge.ca/",
+    "url": "https://geohub.cambridge.ca/",
     "tags": [
       "cambridge",
       "ontario",
@@ -7115,7 +7115,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "Town of Canmore ArcGIS open data with recreation, trails, and planning datasets.",
-    "url": "http://opendata-canmore.opendata.arcgis.com/",
+    "url": "https://opendata-canmore.opendata.arcgis.com/",
     "tags": [
       "canmore",
       "alberta",
@@ -7229,7 +7229,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "Municipality of East Hants ArcGIS open data with planning and civic spatial datasets.",
-    "url": "http://data.easthants.opendata.arcgis.com/",
+    "url": "https://data-easthants.opendata.arcgis.com/",
     "tags": [
       "east hants",
       "nova scotia",
@@ -7291,7 +7291,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "Municipal open data for Greater Sudbury including roads, property, recreation, and transit datasets.",
-    "url": "http://opendata.greatersudbury.ca/",
+    "url": "https://opendata.greatersudbury.ca/",
     "tags": [
       "sudbury",
       "ontario",
@@ -7306,7 +7306,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "Grey County open GIS data portal with civic and planning datasets for southwestern Ontario.",
-    "url": "http://opendata.grey.ca/",
+    "url": "https://maps.grey.ca/pages/open-data",
     "tags": [
       "grey county",
       "ontario",
@@ -7397,7 +7397,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "County of Huron ArcGIS open data with libraries, buildings, and municipal boundaries.",
-    "url": "http://data-huron.opendata.arcgis.com/",
+    "url": "https://data-huron.opendata.arcgis.com/",
     "tags": [
       "huron",
       "ontario",
@@ -7479,7 +7479,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "Kitchener GIS open data hub with property, schools, buildings, and planning layers.",
-    "url": "http://open-kitchenergis.opendata.arcgis.com/",
+    "url": "https://open-kitchenergis.opendata.arcgis.com/",
     "tags": [
       "kitchener",
       "ontario",
@@ -7574,7 +7574,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "City of Markham ArcGIS open data including property, transportation, and recreation datasets.",
-    "url": "http://data-markham.opendata.arcgis.com/",
+    "url": "https://data-markham.opendata.arcgis.com/",
     "tags": [
       "markham",
       "ontario",
@@ -7637,7 +7637,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "City of Miramichi ArcGIS open data portal for northeastern New Brunswick.",
-    "url": "http://data.gis-sigmiramichi.opendata.arcgis.com/",
+    "url": "https://data-gis-sigmiramichi.opendata.arcgis.com/",
     "tags": [
       "miramichi",
       "new brunswick",
@@ -7732,7 +7732,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "Download civic datasets for New Westminster including buildings, parks, and transportation in multiple formats.",
-    "url": "http://opendata.newwestcity.ca/",
+    "url": "https://opendata.newwestcity.ca/",
     "tags": [
       "new westminster",
       "bc",
@@ -7747,7 +7747,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "Town of Newmarket open data navigator with property, recreation, and civic datasets.",
-    "url": "http://open.newmarket.ca/",
+    "url": "https://open.newmarket.ca/",
     "tags": [
       "newmarket",
       "ontario",
@@ -7777,7 +7777,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "Norfolk County ArcGIS open data including building footprints and civic datasets.",
-    "url": "http://opendata.norfolkcounty.ca/",
+    "url": "https://opendata.norfolkcounty.ca/",
     "tags": [
       "norfolk",
       "ontario",
@@ -7898,7 +7898,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "City of Peterborough ArcGIS open data hub with civic and spatial datasets.",
-    "url": "http://data-ptbo.opendata.arcgis.com/",
+    "url": "https://data-ptbo.opendata.arcgis.com/",
     "tags": [
       "peterborough",
       "ontario",
@@ -7914,7 +7914,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "City of Pickering open data portal with civic and GIS datasets for Durham Region.",
-    "url": "http://opendata.pickering.ca/",
+    "url": "https://opendata.pickering.ca/",
     "tags": [
       "pickering",
       "ontario",
@@ -7945,7 +7945,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "City of Red Deer datasets including property, transportation, and recreation — browse and download with API options.",
-    "url": "http://data.reddeer.ca/",
+    "url": "https://data.reddeer.ca/",
     "tags": [
       "red deer",
       "alberta",
@@ -8342,7 +8342,7 @@
     "category": "open-data",
     "type": "Open data hub",
     "description": "City of Waterloo ArcGIS open data with civic boundaries, property, and infrastructure datasets.",
-    "url": "http://opendata.city-of-waterloo.opendata.arcgis.com/",
+    "url": "https://opendata-city-of-waterloo.opendata.arcgis.com/",
     "tags": [
       "waterloo",
       "ontario",
@@ -8406,7 +8406,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "City of White Rock CKAN open data catalogue with municipal GIS datasets.",
-    "url": "http://data.whiterockcity.ca/",
+    "url": "https://data.whiterockcity.ca/",
     "tags": [
       "white rock",
       "bc",
@@ -8483,7 +8483,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "City of Yellowknife spatial open data for GIS users — zoning, infrastructure, and base map layers.",
-    "url": "http://opendata.yellowknife.ca/",
+    "url": "https://opendata.yellowknife.ca/",
     "tags": [
       "yellowknife",
       "northwest territories",
@@ -10107,7 +10107,7 @@
     "category": "school-board",
     "type": "Boundary shapefiles",
     "description": "English and French public and separate school board boundary shapefiles for Ontario — download via Scholars GeoPortal.",
-    "url": "http://geo.scholarsportal.info/#r/details/_uri@=1011603538",
+    "url": "https://geo2.scholarsportal.info/#r/details/_uri@=1011603538",
     "tags": [
       "ontario",
       "school boards",
