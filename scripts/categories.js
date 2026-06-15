@@ -102,11 +102,14 @@ const JURISDICTION_TO_REGION = {
   'Regina':                    'sk',
   'Saskatoon':                 'sk',
   'Moose Jaw':                 'sk',
+  'Yorkton':                   'sk',
+  'Prince Albert':             'sk',
 
   "Brandon":                   'mb',
   "Winnipeg":                  'mb',
   "Thompson":                  'mb',
   "Manitoba":                  'mb',
+  "Dauphin":                   'mb',
 
   'Ontario':                   'on',
   'Ontario/GTA':               'on',

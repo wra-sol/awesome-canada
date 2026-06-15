@@ -6696,22 +6696,6 @@
     "dateAdded": "2027-09-24"
   },
   {
-    "name": "Durham Region Open Data",
-    "level": "Regional",
-    "jurisdiction": "Durham",
-    "category": "open-data",
-    "type": "Regional open data",
-    "description": "Regional Municipality of Durham open data with transit GTFS, property, and municipal boundary datasets.",
-    "url": "https://opendata.durham.ca/",
-    "tags": [
-      "durham",
-      "ontario",
-      "open data",
-      "gtfs"
-    ],
-    "dateAdded": "2027-09-27"
-  },
-  {
     "name": "Durham Region Open Data Portal",
     "level": "Regional",
     "jurisdiction": "Durham",
@@ -13563,5 +13547,92 @@
       "New Brunswick"
     ],
     "dateAdded": "2026-06-13"
+  },
+  {
+    "name": "Yorkton Budgets and Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Yorkton",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Download annual City of Yorkton operating and capital budgets, audited financial statements, and public accounts reporting payments over $50,000 from 2019–2026.",
+    "url": "https://www.yorkton.ca/our-government/budgets-and-financial-reports/",
+    "tags": [
+      "budget",
+      "Yorkton",
+      "financial statements",
+      "pdf",
+      "Saskatchewan"
+    ],
+    "dateAdded": "2026-06-15"
+  },
+  {
+    "name": "Prince Albert Budget and Financial Documents",
+    "level": "Municipal",
+    "jurisdiction": "Prince Albert",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Access City of Prince Albert current and past budget books, annual reports, and public accounts. Includes detailed breakdowns for general, water, sanitation, airport, and land funds via Questica OpenBooks.",
+    "url": "https://www.citypa.ca/city-hall/finances/",
+    "tags": [
+      "budget",
+      "Prince Albert",
+      "financial reports",
+      "pdf",
+      "Saskatchewan"
+    ],
+    "dateAdded": "2026-06-15"
+  },
+  {
+    "name": "Prince Albert Zoning Map",
+    "level": "Municipal",
+    "jurisdiction": "Prince Albert",
+    "category": "planning-zoning",
+    "type": "Zoning map",
+    "description": "Interactive ArcGIS Experience zoning map for Prince Albert — search by address to view zoning districts, land use designations, and development regulations.",
+    "url": "https://experience.arcgis.com/experience/a0a3210237cc40dcb613bf2f4a2072b2/page/Page/",
+    "tags": [
+      "zoning",
+      "Prince Albert",
+      "map",
+      "ArcGIS",
+      "Saskatchewan"
+    ],
+    "dateAdded": "2026-06-15"
+  },
+  {
+    "name": "Dauphin Financial Plans and Audited Statements",
+    "level": "Municipal",
+    "jurisdiction": "Dauphin",
+    "category": "budget",
+    "type": "Financial documents",
+    "description": "Download City of Dauphin financial plans (2015–2026) and audited consolidated financial statements (2010–2024). Also includes fees, charges, and tax levy bylaws.",
+    "url": "https://www.dauphin.ca/p/finance",
+    "tags": [
+      "budget",
+      "Dauphin",
+      "financial plans",
+      "audited statements",
+      "pdf",
+      "Manitoba"
+    ],
+    "dateAdded": "2026-06-15"
+  },
+  {
+    "name": "Anglophone East School District — Which School Do I Attend?",
+    "level": "Regional",
+    "jurisdiction": "New Brunswick",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Interactive address-based lookup for Anglophone East School District (New Brunswick). Enter a street address, municipality, and grade to find designated schools and verify bus transportation eligibility.",
+    "url": "https://asdebp.nbed.nb.ca/Eligibility",
+    "tags": [
+      "school boundaries",
+      "New Brunswick",
+      "Anglophone East",
+      "school finder",
+      "eligibility",
+      "catchment"
+    ],
+    "dateAdded": "2026-06-15"
   }
 ]
