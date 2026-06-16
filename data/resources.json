@@ -13634,5 +13634,98 @@
       "catchment"
     ],
     "dateAdded": "2026-06-15"
+  },
+  {
+    "name": "Anglophone North School District — Which School Do I Attend?",
+    "level": "Regional",
+    "jurisdiction": "New Brunswick",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Interactive address-based lookup for Anglophone North School District (New Brunswick). Enter a street address, municipality, and grade to find designated schools and verify bus transportation eligibility.",
+    "url": "https://asdnbp.nbed.nb.ca/Eligibility",
+    "tags": [
+      "school boundaries",
+      "New Brunswick",
+      "Anglophone North",
+      "school finder",
+      "eligibility",
+      "catchment"
+    ],
+    "dateAdded": "2026-06-16"
+  },
+  {
+    "name": "Anglophone South School District — Which School Do I Attend?",
+    "level": "Regional",
+    "jurisdiction": "New Brunswick",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Interactive address-based lookup for Anglophone South School District (New Brunswick). Enter a street address, municipality, and grade to find designated schools and verify bus transportation eligibility.",
+    "url": "https://asdsbp.nbed.nb.ca/Eligibility",
+    "tags": [
+      "school boundaries",
+      "New Brunswick",
+      "Anglophone South",
+      "school finder",
+      "eligibility",
+      "catchment"
+    ],
+    "dateAdded": "2026-06-16"
+  },
+  {
+    "name": "Anglophone West School District — Which School Do I Attend?",
+    "level": "Regional",
+    "jurisdiction": "New Brunswick",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Interactive address-based lookup for Anglophone West School District (New Brunswick). Enter a street address, municipality, and grade to find designated schools and verify bus transportation eligibility.",
+    "url": "https://asdwbp.nbed.nb.ca/Eligibility",
+    "tags": [
+      "school boundaries",
+      "New Brunswick",
+      "Anglophone West",
+      "school finder",
+      "eligibility",
+      "catchment"
+    ],
+    "dateAdded": "2026-06-16"
+  },
+  {
+    "name": "Francophone Sud School District — Which School Do I Attend?",
+    "level": "Regional",
+    "jurisdiction": "New Brunswick",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Interactive address-based lookup for Francophone Sud School District (New Brunswick). Enter a street address, municipality, and grade to find designated French-language schools and verify bus transportation eligibility.",
+    "url": "https://dsfsbp.nbed.nb.ca/Eligibility",
+    "tags": [
+      "school boundaries",
+      "New Brunswick",
+      "Francophone Sud",
+      "school finder",
+      "eligibility",
+      "catchment",
+      "French"
+    ],
+    "dateAdded": "2026-06-16"
+  },
+  {
+    "name": "Lloydminster — Accounts Payable Reports",
+    "level": "Municipal",
+    "jurisdiction": "Lloydminster",
+    "category": "budget",
+    "type": "Vendor payment ledger",
+    "description": "Monthly PDF accounts payable reports listing all vendor payments made by the City of Lloydminster. Updated monthly by the Finance department. Useful for tracking municipal spending, vendor relationships, and fiscal accountability.",
+    "url": "https://www.lloydminster.ca/council-administration/finance/accounts-payable-reports/",
+    "tags": [
+      "Lloydminster",
+      "budget",
+      "vendor payments",
+      "accounts payable",
+      "PDF",
+      "transparency",
+      "Saskatchewan",
+      "Alberta"
+    ],
+    "dateAdded": "2026-06-16"
   }
 ]

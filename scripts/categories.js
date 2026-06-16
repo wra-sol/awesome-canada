@@ -103,7 +103,8 @@ const JURISDICTION_TO_REGION = {
   'Saskatoon':                 'sk',
   'Moose Jaw':                 'sk',
   'Yorkton':                   'sk',
-  'Prince Albert':             'sk',
+  "Prince Albert":             'sk',
+  "Lloydminster":              'sk',
 
   "Brandon":                   'mb',
   "Winnipeg":                  'mb',
