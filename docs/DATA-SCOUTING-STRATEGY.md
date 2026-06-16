@@ -61,8 +61,9 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 3. ** Election agencies** — candidate finance disclosures, polling division maps
 4. ** Health authorities** — regional health unit websites with data dashboards
 5. ** Education ministries** — school profiles, standardized test results by school
-6. ** School board division websites** — catchment-area PDFs, boundary maps (e.g., Hanover School Division)
+6. **School board division websites** — catchment-area PDFs, boundary maps (e.g., Hanover School Division)
 7. ** Provincial geospatial hubs** — Data MB, GeoNB, and similar provincial geoviewers that may expose datasets not always listed in the main open-data catalogue
+8. **BusPlanner-hosted school eligibility lookups** — Many Canadian school districts (especially New Brunswick) use BusPlanner subdomains at `[district]bp.nbed.nb.ca/Eligibility` for address-based school attendance and bus eligibility lookups. Look for patterns like `asdwbp`, `asdnbp`, `asdsbp`, `dsfsbp`
 
 ### Discovery Techniques
 - Google: `"open data" "[city name]" filetype:json OR filetype:csv`
@@ -130,17 +131,19 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ## Current State (June 2026)
 
-- Total resources: **891**
-- Municipal + provincial + regional: **~65%** of catalog (578 / 891)
+- Total resources: **900**
+- Municipal + provincial + regional: **~66%** of catalog (585 / 900)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
-- Priority categories deepened: `planning-zoning` (47), `council` (48), `lobbyist` (14), `heritage` registers (14), `health-region` (24), `transit` GTFS (52), `weather` (8), `budget` (33), `school-board` (32), `open-data` (152)
+- Priority categories deepened: `planning-zoning` (48), `council` (48), `lobbyist` (14), `heritage` registers (14), `health-region` (24), `transit` GTFS (52), `weather` (8), `budget` (37), `school-board` (37), `open-data` (152)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
-- Remaining gaps: municipal vendor payment ledgers (especially MB); live URL verification on ArcGIS/`http://` links; NB district-level school locators; Saskatchewan mid-size city budget transparency
+- Remaining gaps: municipal vendor payment ledgers (especially MB); live URL verification on ArcGIS/`http://` links; Saskatchewan mid-size city open data portals; Manitoba municipal council agendas/minutes
 - Data quality: 9 duplicate URLs fixed (Halifax, L\u00e9vis, Interior Health, Alberta, S\u00e9paq, Ontario, Edmonton GTFS, Hamilton GTFS) and 1 exact duplicate entry removed (SK Lobbyist)
-- New discovery: Questica OpenBook provides budget transparency for mid-size cities (Moose Jaw confirmed); CivicLive-hosted sites (Charlottetown) publish disclosure statements and audited financials as direct PDFs; Northern cities (Yellowknife) publish budget PDFs under `/budget-and-initiatives/` without traditional open data portals; Newfoundland and Labrador cities (St. John's, Corner Brook, Grand Falls-Windsor, Mount Pearl) publish budget and financial statement PDFs under `/budget` or `/publications` paths; St. John's publishes weekly vendor payment vouchers as proactive disclosure
-- Jurisdiction taxonomy updated: added `Moose Jaw` (Saskatchewan) and `Charlottetown` (Atlantic) to `scripts/categories.js`
+- New discovery: Questica OpenBook provides budget transparency for mid-size cities (Moose Jaw confirmed); CivicLive-hosted sites (Charlottetown) publish disclosure statements and audited financials as direct PDFs; Northern cities (Yellowknife) publish budget PDFs under `/budget-and-initiatives/` without traditional open data portals; Newfoundland and Labrador cities (St. John's, Corner Brook, Grand Falls-Windsor, Mount Pearl) publish budget and financial statement PDFs under `/budget` or `/publications` paths; St. John's publishes weekly vendor payment vouchers as proactive disclosure; New Brunswick school districts use BusPlanner subdomains (`[district]bp.nbed.nb.ca/Eligibility`) for address-based school eligibility lookups; Lloydminster publishes monthly accounts payable PDFs as vendor payment ledgers
+- Jurisdiction taxonomy updated: added `Moose Jaw` (Saskatchewan), `Charlottetown` (Atlantic), and `Lloydminster` (Saskatchewan/Alberta) to `scripts/categories.js`
 
 ## Updates
+
+- **2026-06-16:** Added **5** gap-fill entries — Anglophone North, Anglophone South, Anglophone West, and Francophone Sud School District “Which School Do I Attend?” interactive lookups (completing the NB district-level school locator coverage), and Lloydminster Accounts Payable Reports (first SK/AB municipal vendor payment ledger). Updated `scripts/categories.js` to add `Lloydminster` jurisdiction.
 
 - **2026-06-10:** Added **5** gap-fill entries — Moose Jaw Open Budget (first Saskatchewan budget transparency tool via Questica OpenBook), Charlottetown Council Member Disclosure Statements (first PEI municipal disclosure PDFs), Charlottetown Audited Financial Statements (first PEI municipal audited financials), Charlottetown Council Resolutions and Approved Minutes (first PEI municipal council minutes), and Yellowknife Past and Present Budgets (first NWT municipal budget PDFs). Updated `scripts/categories.js` to add `Moose Jaw` and `Charlottetown` jurisdictions.
 
