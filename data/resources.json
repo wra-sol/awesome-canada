@@ -13727,5 +13727,43 @@
       "Alberta"
     ],
     "dateAdded": "2026-06-16"
+  },
+  {
+    "name": "Alberta Climate Information Service (ACIS) — Weather Station Data Viewer",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "weather",
+    "type": "Weather data portal",
+    "description": "Interactive map viewer and download tool for over 535 Alberta weather stations. View near-real-time and historical data including precipitation, temperature, wind, heat units, and climate normals. Both hourly and daily data available for download in CSV format.",
+    "url": "https://acis.alberta.ca/weather-data-viewer.jsp",
+    "tags": [
+      "Alberta",
+      "weather stations",
+      "climate data",
+      "precipitation",
+      "temperature",
+      "CSV",
+      "interactive map"
+    ],
+    "dateAdded": "2026-06-18"
+  },
+  {
+    "name": "Ontario Provincial Stream Water Quality Monitoring Network (PWQMN)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Water quality dataset",
+    "description": "Stream water quality monitoring data across Ontario rivers and streams. Parameters include nutrients (total and dissolved), metals, and chloride. CSV downloads available by year (2023, 2024). Spatial coordinates for all monitoring stations included.",
+    "url": "https://data.ontario.ca/dataset/provincial-stream-water-quality-monitoring-network",
+    "tags": [
+      "Ontario",
+      "water quality",
+      "streams",
+      "nutrients",
+      "metals",
+      "CSV",
+      "environmental monitoring"
+    ],
+    "dateAdded": "2026-06-18"
   }
 ]
