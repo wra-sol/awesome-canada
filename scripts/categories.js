@@ -111,6 +111,9 @@ const JURISDICTION_TO_REGION = {
   "Thompson":                  'mb',
   "Manitoba":                  'mb',
   "Dauphin":                   'mb',
+  "Portage la Prairie":        'mb',
+  "Selkirk":                   'mb',
+  "Steinbach":                 'mb',
 
   'Ontario':                   'on',
   'Ontario/GTA':               'on',

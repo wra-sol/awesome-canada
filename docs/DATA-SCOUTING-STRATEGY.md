@@ -131,17 +131,19 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 ## Current State (June 2026)
 
-- Total resources: **902**
-- Municipal + provincial + regional: **~66%** of catalog (587 / 902)
+- Total resources: **906**
+- Municipal + provincial + regional: **~65%** of catalog (591 / 906)
 - Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
-- Priority categories deepened: `planning-zoning` (48), `council` (48), `lobbyist` (14), `heritage` registers (14), `health-region` (24), `transit` GTFS (52), `weather` (9), `budget` (37), `school-board` (37), `open-data` (152), `environment` (25)
+- Priority categories deepened: `planning-zoning` (48), `council` (50), `lobbyist` (14), `heritage` registers (14), `health-region` (24), `transit` GTFS (52), `weather` (10), `budget` (38), `school-board` (37), `open-data` (152), `environment` (25)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
-- Remaining gaps: municipal vendor payment ledgers (especially MB); live URL verification on ArcGIS/`http://` links; Saskatchewan mid-size city open data portals; Manitoba municipal council agendas/minutes; more provincial weather station networks (beyond federal AQHI)
+- Remaining gaps: municipal vendor payment ledgers (especially MB); live URL verification on ArcGIS/`http://` links; Saskatchewan mid-size city open data portals; BC provincial weather station data downloads; Ontario municipal council video archives
 - Data quality: 9 duplicate URLs fixed (Halifax, L\u00e9vis, Interior Health, Alberta, S\u00e9paq, Ontario, Edmonton GTFS, Hamilton GTFS) and 1 exact duplicate entry removed (SK Lobbyist)
 - New discovery: Questica OpenBook provides budget transparency for mid-size cities (Moose Jaw confirmed); CivicLive-hosted sites (Charlottetown) publish disclosure statements and audited financials as direct PDFs; Northern cities (Yellowknife) publish budget PDFs under `/budget-and-initiatives/` without traditional open data portals; Newfoundland and Labrador cities (St. John's, Corner Brook, Grand Falls-Windsor, Mount Pearl) publish budget and financial statement PDFs under `/budget` or `/publications` paths; St. John's publishes weekly vendor payment vouchers as proactive disclosure; New Brunswick school districts use BusPlanner subdomains (`[district]bp.nbed.nb.ca/Eligibility`) for address-based school eligibility lookups; Lloydminster publishes monthly accounts payable PDFs as vendor payment ledgers; Alberta ACIS provides 535-station weather data viewer with CSV downloads (first provincial weather station network beyond federal AQHI); Ontario PWQMN provides provincial stream water quality monitoring data with CSV downloads via the Ontario Data Catalogue
 - Jurisdiction taxonomy updated: added `Moose Jaw` (Saskatchewan), `Charlottetown` (Atlantic), and `Lloydminster` (Saskatchewan/Alberta) to `scripts/categories.js`
 
 ## Updates
+
+- **2026-06-19:** Added **4** gap-fill entries — Steinbach Council Minutes & Videos (first Manitoba municipal council minutes archive with PDF minutes and video recordings), Portage la Prairie Council Agendas & Minutes (second Manitoba municipal council entries), Portage la Prairie Finance Reports & Plans (budget speeches, financial plans, audited statements, and public sector compensation disclosures as PDFs), and Manitoba Ag Weather Station Network KML download (first MB provincial weather station network beyond federal AQHI; 120+ stations with 15-minute interval data). Updated `scripts/categories.js` to add `Steinbach`, `Portage la Prairie`, and `Selkirk` jurisdictions.
 
 - **2026-06-18:** Added **2** gap-fill entries — Alberta Climate Information Service (ACIS) weather station data viewer with 535 stations and CSV downloads (first provincial weather monitoring data; weather category was all federal), and Ontario Provincial Stream Water Quality Monitoring Network (PWQMN) with CSV data for streams across Ontario (first ON water quality monitoring dataset in environment category).
 
