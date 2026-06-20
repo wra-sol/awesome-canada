@@ -13765,5 +13765,75 @@
       "environmental monitoring"
     ],
     "dateAdded": "2026-06-18"
+  },
+  {
+    "name": "Steinbach Council Minutes & Videos",
+    "level": "Municipal",
+    "jurisdiction": "Steinbach, Manitoba",
+    "category": "council",
+    "type": "Dataset",
+    "description": "PDF council minutes and video recordings of council meetings dating back to 2022. Minutes include voting records and council package documents. Updated after each regular council meeting (twice monthly).",
+    "url": "https://www.steinbach.ca/city-hall/city-council/archive/",
+    "tags": [
+      "council minutes",
+      "video recordings",
+      "Steinbach",
+      "PDF",
+      "voting records"
+    ],
+    "dateAdded": "2026-06-19"
+  },
+  {
+    "name": "Portage la Prairie Council Agendas & Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Portage la Prairie, Manitoba",
+    "category": "council",
+    "type": "Dataset",
+    "description": "PDF council agendas and minutes for all regular and special council meetings. Agendas include committee reports and staff presentations; minutes record resolutions and decisions.",
+    "url": "https://www.city-plap.com/council-administration/council/agendas-and-minutes/",
+    "tags": [
+      "council agendas",
+      "council minutes",
+      "Portage la Prairie",
+      "PDF"
+    ],
+    "dateAdded": "2026-06-19"
+  },
+  {
+    "name": "Portage la Prairie Finance Reports & Plans",
+    "level": "Municipal",
+    "jurisdiction": "Portage la Prairie, Manitoba",
+    "category": "budget",
+    "type": "Dataset",
+    "description": "Annual budget speeches, multi-year financial plans, audited financial statements, and public sector compensation disclosures as PDFs. Covers 2020-2026 budget cycles.",
+    "url": "https://www.city-plap.com/council-administration/plans-reports-and-studies/finance-reports-plans/",
+    "tags": [
+      "budget",
+      "financial plan",
+      "audited statements",
+      "Portage la Prairie",
+      "PDF",
+      "public sector compensation"
+    ],
+    "dateAdded": "2026-06-19"
+  },
+  {
+    "name": "Manitoba Ag Weather Station Network — Data MB Download",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "weather",
+    "type": "Dataset",
+    "description": "KML download of Manitoba Agriculture weather station network locations (120+ stations across agro-Manitoba). Each station records air temperature, humidity, precipitation, wind, solar radiation, and soil data at 15-minute intervals.",
+    "url": "https://geoportal.gov.mb.ca/api/download/v1/items/619eac487cd84953adfd1e72b78f1990/kml?layers=0",
+    "tags": [
+      "weather stations",
+      "agriculture",
+      "Manitoba",
+      "KML",
+      "CSV",
+      "GeoJSON",
+      "download"
+    ],
+    "dateAdded": "2026-06-19"
   }
 ]
