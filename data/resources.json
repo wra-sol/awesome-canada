@@ -13769,7 +13769,7 @@
   {
     "name": "Steinbach Council Minutes & Videos",
     "level": "Municipal",
-    "jurisdiction": "Steinbach, Manitoba",
+    "jurisdiction": "Steinbach",
     "category": "council",
     "type": "Dataset",
     "description": "PDF council minutes and video recordings of council meetings dating back to 2022. Minutes include voting records and council package documents. Updated after each regular council meeting (twice monthly).",
@@ -13786,7 +13786,7 @@
   {
     "name": "Portage la Prairie Council Agendas & Minutes",
     "level": "Municipal",
-    "jurisdiction": "Portage la Prairie, Manitoba",
+    "jurisdiction": "Portage la Prairie",
     "category": "council",
     "type": "Dataset",
     "description": "PDF council agendas and minutes for all regular and special council meetings. Agendas include committee reports and staff presentations; minutes record resolutions and decisions.",
@@ -13802,7 +13802,7 @@
   {
     "name": "Portage la Prairie Finance Reports & Plans",
     "level": "Municipal",
-    "jurisdiction": "Portage la Prairie, Manitoba",
+    "jurisdiction": "Portage la Prairie",
     "category": "budget",
     "type": "Dataset",
     "description": "Annual budget speeches, multi-year financial plans, audited financial statements, and public sector compensation disclosures as PDFs. Covers 2020-2026 budget cycles.",
@@ -13835,5 +13835,45 @@
       "download"
     ],
     "dateAdded": "2026-06-19"
+  },
+  {
+    "name": "Saskatchewan Air Quality Monitoring Network",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "environment",
+    "type": "Environmental monitoring",
+    "description": "Province-wide network of continuous ambient air monitoring stations operated by the Ministry of Environment. Interactive map shows station locations across SK; download validated hourly air quality data as CSV. Covers Swift Current, Estevan, Prince Albert, Buffalo Narrows, and other stations with pollutant readings (PM2.5, O3, NO2, SO2, CO).",
+    "url": "https://geohub.saskatchewan.ca/datasets/b946b3f030b24d0095f7456463ee38ba",
+    "tags": [
+      "saskatchewan",
+      "air quality",
+      "pollutants",
+      "PM2.5",
+      "ozone",
+      "CSV",
+      "environment",
+      "monitoring"
+    ],
+    "dateAdded": "2026-06-20"
+  },
+  {
+    "name": "BC Meteorological Station Data Portal (PCIC)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "weather",
+    "type": "Weather data portal",
+    "description": "Interactive map interface to explore 100+ weather stations across British Columbia from the Provincial Climate Data Set. Filter by date range, variable type, observing agency, and region. Download station metadata and observational data in CSV, NetCDF, or MS Excel format. Covers temperature, precipitation, wind, humidity, and other climate variables.",
+    "url": "https://www.uvic.ca/pcic/data-analysis-tools/data-portal/station-data/index.php",
+    "tags": [
+      "BC",
+      "weather",
+      "meteorological",
+      "stations",
+      "CSV",
+      "NetCDF",
+      "climate",
+      "environment"
+    ],
+    "dateAdded": "2026-06-20"
   }
 ]
