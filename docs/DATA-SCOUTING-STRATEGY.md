@@ -74,6 +74,7 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 - Search Archive.org for defunct portals that may have moved
 - **ArcGIS Hub API:** verify dataset availability on ArcGIS Hub portals via `/api/search/v1` or `/api/v3/datasets` endpoints
 - **Socrata catalog API:** search for datasets on Socrata-powered portals via `https://data.[domain].ca/api/catalog/v1?domains=data.[domain].ca&q=[term]`
+- **Transitland** — search `https://www.transit.land/feeds?q=[city]` to find GTFS feed URLs for mid-size transit agencies that don't publicize their feeds directly; each feed page shows the direct GTFS.zip URL and last-fetch timestamp
 
 ---
 
