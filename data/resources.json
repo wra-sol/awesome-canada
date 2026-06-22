@@ -13911,5 +13911,42 @@
       "routes"
     ],
     "dateAdded": "2026-06-21"
+  },
+  {
+    "name": "Kingston Building Permits — ArcGIS Hub",
+    "level": "Municipal",
+    "jurisdiction": "Kingston",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Geocoded building permit dataset for City of Kingston showing active permits (last 3 years) and closed permits (last 18 months) with addresses, permit values, project descriptions, and status. Download as GeoJSON or explore on interactive map — useful for tracking construction activity and development in specific neighbourhoods.",
+    "url": "https://maps-cityofkingston.hub.arcgis.com/datasets/cityofkingston::building-permits/about",
+    "tags": [
+      "building permits",
+      "construction",
+      "kingston",
+      "planning",
+      "development",
+      "geojson",
+      "shapefile"
+    ],
+    "dateAdded": "2026-06-22"
+  },
+  {
+    "name": "Kingston City Council — YouTube Video Archive",
+    "level": "Municipal",
+    "jurisdiction": "Kingston",
+    "category": "council",
+    "type": "Video archive",
+    "description": "Official YouTube channel archiving City of Kingston Council and Committee meetings from October 2014 to present. Includes full Council, Standing Committees, Committee of Adjustment, and Design Review Panel recordings. Searchable by date and keyword — essential for tracking municipal decisions, public delegations, and voting records.",
+    "url": "https://www.youtube.com/c/KingstonCityCouncil",
+    "tags": [
+      "council",
+      "video archive",
+      "kingston",
+      "meetings",
+      "archives",
+      "youtube"
+    ],
+    "dateAdded": "2026-06-22"
   }
 ]
