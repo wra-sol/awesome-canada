@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 851 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 910 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,28 +23,28 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 147
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 41
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 42
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 20
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 151
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 48
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 50
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 38
 - [🪪 Government Services & ID](#government-services-and-id) — 33
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 13
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 15
 - [🏢 Business & Procurement](#business-and-procurement) — 16
 - [💼 Employment & Labour](#employment-and-labour) — 14
 - [🎓 Education & Student Aid](#education-and-student-aid) — 11
-- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 23
+- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 37
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 14
 - [🩺 Health & Wellness](#health-and-wellness) — 18
-- [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 23
+- [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 24
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 21
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 25
-- [🚌 Transit & Mobility](#transit-and-mobility) — 52
+- [🚌 Transit & Mobility](#transit-and-mobility) — 54
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 53
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 24
-- [🌦️ Weather & Climate](#weather-and-climate) — 8
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 26
+- [🌦️ Weather & Climate](#weather-and-climate) — 11
 - [⚡ Energy & Utilities](#energy-and-utilities) — 27
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 13
 - [🔬 Science, Research & Space](#science-research-and-space) — 12
@@ -101,30 +101,30 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Township of Langley Open Data | Langley · Municipal | Open data hub | Township of Langley ArcGIS open data with property, parks, and municipal infrastructure layers. | https://data-tol.opendata.arcgis.com/ |
 | Maple Ridge OpenGov | Maple Ridge · Municipal | Open data portal | District of Maple Ridge open government data with parks, property, and infrastructure downloads. | https://opengov.mapleridge.ca/ |
 | Nanaimo Open Data Catalogue | Nanaimo · Municipal | Open data portal | Municipal GIS and civic datasets for Nanaimo including property, parks, and infrastructure — bulk download available. | https://data.nanaimo.ca/ |
-| New Westminster Open Data | New Westminster · Municipal | Open data portal | Download civic datasets for New Westminster including buildings, parks, and transportation in multiple formats. | http://opendata.newwestcity.ca/ |
+| New Westminster Open Data | New Westminster · Municipal | Open data portal | Download civic datasets for New Westminster including buildings, parks, and transportation in multiple formats. | https://opendata.newwestcity.ca/ |
 | Prince George Open Data | Prince George · Municipal | Open data hub | City of Prince George ArcGIS Hub with parcels, zoning, utilities, and recreation datasets for download. | https://data-cityofpg.opendata.arcgis.com/ |
 | Saanich Open Data Catalogue | Saanich · Municipal | Data catalogue | District of Saanich GIS data catalogue with parks, roads, zoning, and environmental datasets for download. | https://www.saanich.ca/EN/main/local-government/data-catalogue-1.html |
 | Surrey Open Data | Surrey · Municipal | Open data portal | CKAN portal with building footprints, parks, transportation, and health datasets — CSV, GeoJSON, and API export. | https://data.surrey.ca/ |
 | Victoria Open Data — Parks and Recreation | Victoria · Municipal | Parks dataset | Parks, trails, and recreation facility datasets on the City of Victoria open data portal. | https://opendata.victoria.ca/browse?category=Parks+%26+Recreation |
 | Victoria Open Data Catalogue | Victoria · Municipal | Open data portal | Municipal datasets and geospatial resources | https://opendata.victoria.ca/ |
 | Whistler Open Data Portal | Whistler · Municipal | Open data hub | Resort Municipality of Whistler spatial and civic datasets including trails, zoning, and recreation amenities. | https://portal-rmow.opendata.arcgis.com/ |
-| White Rock Open Data | White Rock · Municipal | Open data portal | City of White Rock CKAN open data catalogue with municipal GIS datasets. | http://data.whiterockcity.ca/ |
+| White Rock Open Data | White Rock · Municipal | Open data portal | City of White Rock CKAN open data catalogue with municipal GIS datasets. | https://data.whiterockcity.ca/ |
 
 ### Alberta
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta Open Government Portal | Alberta · Provincial | Open data portal | Alberta's open government portal providing open data, publications, and reports for researchers, developers, and citizens | https://open.alberta.ca/ |
-| Airdrie Open Data | Airdrie · Municipal | Open data hub | City of Airdrie ArcGIS open data including parcels, addressing, and municipal boundaries with GTFS transit data. | http://data-airdrie.opendata.arcgis.com/ |
-| Banff Open Data | Banff · Municipal | Open data portal | Town of Banff open data including trails, zoning, and municipal spatial datasets. | http://www.banffopendata.ca/ |
+| Airdrie Open Data | Airdrie · Municipal | Open data hub | City of Airdrie ArcGIS open data including parcels, addressing, and municipal boundaries with GTFS transit data. | https://data-airdrie.opendata.arcgis.com/ |
+| Banff Open Data | Banff · Municipal | Open data portal | Town of Banff open data including trails, zoning, and municipal spatial datasets. | https://maps.banff.ca/opendata/ |
 | Calgary Open Data overview | Calgary · Municipal | Portal landing page | Nice overview of categories, uses, and mapping assets | https://www.calgary.ca/research/open-data-portal.html |
 | Open Calgary | Calgary · Municipal | Open data portal | Well-stocked municipal open data portal with lots of map assets | https://data.calgary.ca/ |
-| Canmore Open Data | Canmore · Municipal | Open data hub | Town of Canmore ArcGIS open data with recreation, trails, and planning datasets. | http://opendata-canmore.opendata.arcgis.com/ |
+| Canmore Open Data | Canmore · Municipal | Open data hub | Town of Canmore ArcGIS open data with recreation, trails, and planning datasets. | https://opendata-canmore.opendata.arcgis.com/ |
 | Edmonton Open Data Portal | Edmonton · Municipal | Open data portal | Large set of municipal datasets and maps | https://data.edmonton.ca/ |
 | Grande Prairie Open Data | Grande Prairie · Municipal | Open data portal | City of Grande Prairie open data portal with property, infrastructure, and civic datasets via Socrata. | https://data.cityofgp.com/ |
 | Lethbridge Open Data Portal | Lethbridge · Municipal | Open data hub | Municipal open data for Lethbridge with property parcels, building footprints, transit routes, parks, and infrastructure datasets | https://data-lethbridge.opendata.arcgis.com |
 | Medicine Hat Open Data | Medicine Hat · Municipal | Open data portal | City of Medicine Hat open data portal with GIS and civic datasets for southeastern Alberta. | https://opendata.medicinehat.ca/ |
-| Red Deer Open Data | Red Deer · Municipal | Open data portal | City of Red Deer datasets including property, transportation, and recreation — browse and download with API options. | http://data.reddeer.ca/ |
+| Red Deer Open Data | Red Deer · Municipal | Open data portal | City of Red Deer datasets including property, transportation, and recreation — browse and download with API options. | https://data.reddeer.ca/ |
 | St. Albert Open Data | St. Albert · Municipal | Open data portal | Municipal open data for St. Albert including civic datasets and transit GTFS developer resources. | https://data.stalbert.ca/ |
 | Strathcona County Open Data | Strathcona County · Municipal | Open data portal | Socrata open data portal for Strathcona County with parcels, transit GTFS, buildings, and recreation datasets. | https://data.strathcona.ca/ |
 
@@ -140,6 +140,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba — Data MB (Geospatial Open Data Portal) | Manitoba · Provincial | Portal | Manitoba’s official geospatial open data portal. Search, explore, visualize, and download provincial datasets by category — agriculture, economy, transportation, education, health, environment, and government. Datasets available for download as GeoJSON, Shapefile, CSV, and KML. | https://geoportal.gov.mb.ca |
 | Brandon Open Data | Brandon · Municipal | Open data portal | City of Brandon open data service with civic and GIS datasets for Manitoba's second-largest city. | https://brandon.opendata.arcgis.com/ |
 | Winnipeg Crime Stat — Open Data | Winnipeg · Municipal | Crime statistics | Winnipeg Police Service crime statistics datasets on the municipal open data portal — filter and export by type and district. | https://data.winnipeg.ca/browse?category=Public+Safety |
 | Winnipeg Open Data Portal | Winnipeg · Municipal | Open data portal | Municipal data catalogue with maps and downloads | https://data.winnipeg.ca/ |
@@ -150,7 +151,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario Data Catalogue | Ontario · Provincial | Open data portal | Large and very usable provincial open data catalogue | https://data.ontario.ca/ |
 | Durham Region Open Data | Clarington · Regional | Regional open data portal | Regional Municipality of Durham open data — boundaries, infrastructure, and regional datasets covering Clarington and other lower-tier municipalities. | https://opendata.durham.ca/ |
-| Durham Region Open Data | Durham · Regional | Regional open data | Regional Municipality of Durham open data with transit GTFS, property, and municipal boundary datasets. | http://opendata.durham.ca/ |
 | Durham Region Open Data Portal | Durham · Regional | Open data portal | Open data portal for the Regional Municipality of Durham — transportation, environment, and community data | https://opendata-durham.hub.arcgis.com/ |
 | Halton Region Open Data Portal | Halton · Regional | Open data portal | Open data portal for the Regional Municipality of Halton — planning, transportation, and public health datasets | https://opendata-halton.hub.arcgis.com/ |
 | Niagara Open Data | Niagara · Regional | Regional open data | CKAN portal aggregating Niagara Region and local municipality datasets — buildings, transit GTFS, and boundaries. | https://niagaraopendata.ca/ |
@@ -160,34 +160,34 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | County of Elgin GeoHub (St. Thomas area) | St. Thomas · Regional | County open data portal | Elgin County GIS open data covering St. Thomas and surrounding municipalities — parcels, roads, and planning layers via ArcGIS Hub. | https://geohub.elgin.ca/ |
 | Region of Waterloo Open Data | Waterloo · Regional | Regional open data hub | Regional Municipality of Waterloo ArcGIS Hub with parcels, transit, libraries, and cross-municipal GIS layers. | https://rowopendata-rmw.opendata.arcgis.com/ |
 | Oxford County Open Data Hub | Woodstock · Regional | Regional open data portal | Oxford County GIS open data serving Woodstock and area municipalities — parcels, zoning, addressing, and infrastructure with REST API and downloads. | https://public-oxfordcounty.opendata.arcgis.com/ |
-| York Region Insights Open Data | York Region · Regional | Regional open data hub | York Region ArcGIS open data hub with regional boundaries, demographics, and municipal service layers. | http://insights-york.opendata.arcgis.com/ |
+| York Region Insights Open Data | York Region · Regional | Regional open data hub | York Region ArcGIS open data hub with regional boundaries, demographics, and municipal service layers. | https://insights-york.opendata.arcgis.com/ |
 | York Region Open Data Portal | York Region · Regional | Open data portal | Open data portal for York Region — maps, statistics, and datasets for planning and public services | https://opendata-york.hub.arcgis.com/ |
-| Ajax Open Data | Ajax · Municipal | Open data portal | Town of Ajax municipal open data with GIS layers for planning and civic services. | http://opendata.ajax.ca/ |
+| Ajax Open Data | Ajax · Municipal | Open data portal | Town of Ajax municipal open data with GIS layers for planning and civic services. | https://opendata.ajax.ca/ |
 | Barrie Open Data Portal | Barrie · Municipal | Open data portal | City of Barrie open data portal — maps, statistics, and municipal datasets | https://opendata-barrie.hub.arcgis.com/ |
 | City of Belleville Open Data | Belleville · Municipal | Open Data Portal | Belleville GIS open data on ArcGIS Hub — parcels, road network, and planning layers with shapefile/GeoJSON download and API. | https://opendata-bellevillegis.hub.arcgis.com/ |
-| Burlington Open Data | Burlington · Municipal | Open data hub | City of Burlington ArcGIS Hub with parks, zoning, property, and civic datasets. | https://data-burlington.opendata.arcgis.com/ |
+| Burlington Open Data | Burlington · Municipal | Open data hub | City of Burlington ArcGIS Hub with parks, zoning, property, and civic datasets. | https://navburl-burlington.opendata.arcgis.com/ |
 | Town of Caledon Open Data | Caledon · Municipal | Open Data Portal | Caledon open data on ArcGIS Hub — trails, tourism, broadband coverage, and municipal GIS layers with bulk download and REST services. | https://data-caledon.opendata.arcgis.com/ |
-| Cambridge GeoHub | Cambridge · Municipal | Open data hub | City of Cambridge open GIS hub with property, zoning, libraries, schools, and building datasets. | http://geohub.cambridge.ca/ |
+| Cambridge GeoHub | Cambridge · Municipal | Open data hub | City of Cambridge open GIS hub with property, zoning, libraries, schools, and building datasets. | https://geohub.cambridge.ca/ |
 | City of Cornwall Open Data | Cornwall · Municipal | Open Data Portal | Cornwall municipal open data catalogue — address points, buildings, watermains, official plan land use, and heritage sites with CSV/GeoJSON export. | https://data-cornwallcity.opendata.arcgis.com/ |
 | Cornwall Address Points Open Data | Cornwall · Municipal | Address dataset | Municipal address point layer for Cornwall — geocoded civic addresses with export to CSV, Shapefile, or GeoJSON. | https://data-cornwallcity.opendata.arcgis.com/datasets/134ac6de89ff493484541b6d8a326e62_34 |
-| Greater Sudbury Open Data | Greater Sudbury · Municipal | Open data portal | Municipal open data for Greater Sudbury including roads, property, recreation, and transit datasets. | http://opendata.greatersudbury.ca/ |
-| Grey County Open Data | Grey County · Municipal | Open data portal | Grey County open GIS data portal with civic and planning datasets for southwestern Ontario. | http://opendata.grey.ca/ |
+| Greater Sudbury Open Data | Greater Sudbury · Municipal | Open data portal | Municipal open data for Greater Sudbury including roads, property, recreation, and transit datasets. | https://opendata.greatersudbury.ca/ |
+| Grey County Open Data | Grey County · Municipal | Open data portal | Grey County open GIS data portal with civic and planning datasets for southwestern Ontario. | https://maps.grey.ca/pages/open-data |
 | Guelph Open Data Portal | Guelph · Municipal | Open data portal | City of Guelph open data portal — GIS datasets, infrastructure, and city services data | https://opendata-guelph.hub.arcgis.com/ |
 | Haldimand County Open Data | Haldimand County · Municipal | Open data portal | Haldimand County open data portal with property, roads, and municipal GIS layers. | https://haldimandcounty.opendata.arcgis.com/ |
 | Hamilton Open Data | Hamilton · Municipal | Open data portal | Datasets and map resources | https://open.hamilton.ca/ |
 | Hamilton Red Light Camera Locations | Hamilton · Municipal | Traffic safety dataset | Red light camera intersection locations and related traffic safety datasets on Open Hamilton. | https://open.hamilton.ca/datasets?q=red%20light |
-| Huron County Open Data | Huron County · Municipal | Open data hub | County of Huron ArcGIS open data with libraries, buildings, and municipal boundaries. | http://data-huron.opendata.arcgis.com/ |
+| Huron County Open Data | Huron County · Municipal | Open data hub | County of Huron ArcGIS open data with libraries, buildings, and municipal boundaries. | https://data-huron.opendata.arcgis.com/ |
 | Kingston Open Data Hub | Kingston · Municipal | Open data hub | Download property parcels, building footprints, transit routes, tree inventory, election wards, parks, and trails as GeoJSON, shapefiles, or CSV | https://cityofkingston.hub.arcgis.com |
 | Kitchener Open Data Portal | Kitchener · Municipal | Open data portal | City of Kitchener open data portal — transportation, parks, development, and demographic datasets | https://opendata-kitchener.hub.arcgis.com/ |
-| Kitchener Open GIS Hub | Kitchener · Municipal | Open data hub | Kitchener GIS open data hub with property, schools, buildings, and planning layers. | http://open-kitchenergis.opendata.arcgis.com/ |
+| Kitchener Open GIS Hub | Kitchener · Municipal | Open data hub | Kitchener GIS open data hub with property, schools, buildings, and planning layers. | https://open-kitchenergis.opendata.arcgis.com/ |
 | London Open Data Catalogue | London · Municipal | Open data catalogue | City of London open data catalogue with property, transportation, and planning datasets for bulk download. | https://www.london.ca/city-hall/open-data |
-| Markham Open Data | Markham · Municipal | Open data hub | City of Markham ArcGIS open data including property, transportation, and recreation datasets. | http://data-markham.opendata.arcgis.com/ |
+| Markham Open Data | Markham · Municipal | Open data hub | City of Markham ArcGIS open data including property, transportation, and recreation datasets. | https://data-markham.opendata.arcgis.com/ |
 | Markham Open Data Portal | Markham · Municipal | Open data portal | City of Markham open data portal — GIS, demographics, transportation, and parks datasets | https://opendata-markham.hub.arcgis.com/ |
 | Milton Open Data Hub | Milton · Municipal | Open data hub | Discover Milton ArcGIS Hub with civic datasets including property, zoning, and recreation — CSV and shapefile download. | https://discover-milton.hub.arcgis.com/ |
 | Mississauga Open Data | Mississauga · Municipal | Open data portal | Strong GTA municipal data portal | https://data.mississauga.ca/ |
-| Newmarket Open Data | Newmarket · Municipal | Open data portal | Town of Newmarket open data navigator with property, recreation, and civic datasets. | http://open.newmarket.ca/ |
+| Newmarket Open Data | Newmarket · Municipal | Open data portal | Town of Newmarket open data navigator with property, recreation, and civic datasets. | https://open.newmarket.ca/ |
 | Niagara Falls Open Data | Niagara Falls · Municipal | Open data portal | City of Niagara Falls open data service with downloadable municipal datasets. | https://www.niagarafalls.ca/services/open/data |
-| Norfolk County Open Data | Norfolk County · Municipal | Open data hub | Norfolk County ArcGIS open data including building footprints and civic datasets. | http://opendata.norfolkcounty.ca/ |
+| Norfolk County Open Data | Norfolk County · Municipal | Open data hub | Norfolk County ArcGIS open data including building footprints and civic datasets. | https://opendata.norfolkcounty.ca/ |
 | Explore North Bay GIS Portal | North Bay · Municipal | GIS Open Data Portal | City of North Bay ArcGIS Hub — zoning, transportation, public art, and community statistics with downloadable map layers and REST API access. | https://data-northbaygis.hub.arcgis.com/ |
 | Oakville Explore Open Data | Oakville · Municipal | Open data hub | Town of Oakville ArcGIS open data portal with zoning, property, and municipal infrastructure layers. | https://portal-exploreoakville.opendata.arcgis.com/ |
 | City of Orillia Open Data | Orillia · Municipal | Open Data Portal | Orillia municipal open data portal — addresses, zoning, and planning schedules with dataset download and map services. | https://orillia.opendata.arcgis.com/ |
@@ -195,8 +195,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ottawa Budget Explorer | Ottawa · Municipal | Budget explorer | Interactive budget explainer with graphs, charts, and downloadable data | https://ottawa.ca/en/city-hall/city-news/newsroom/discover-draft-budget-2026-budget-explorer |
 | Ottawa Budget Explorer datasets | Ottawa · Municipal | Dataset bundle | Raw datasets behind the budget visualizations | https://open.ottawa.ca/datasets/e88c52d7727e4a9dba6d427c9bd6445c |
 | Ottawa Open Data | Ottawa · Municipal | Open data portal | Municipal open data portal with datasets and map resources | https://open.ottawa.ca/ |
-| Peterborough Open Data | Peterborough · Municipal | Open data hub | City of Peterborough ArcGIS open data hub with civic and spatial datasets. | http://data-ptbo.opendata.arcgis.com/ |
-| Pickering Open Data | Pickering · Municipal | Open data portal | City of Pickering open data portal with civic and GIS datasets for Durham Region. | http://opendata.pickering.ca/ |
+| Peterborough Open Data | Peterborough · Municipal | Open data hub | City of Peterborough ArcGIS open data hub with civic and spatial datasets. | https://data-ptbo.opendata.arcgis.com/ |
+| Pickering Open Data | Pickering · Municipal | Open data portal | City of Pickering open data portal with civic and GIS datasets for Durham Region. | https://opendata.pickering.ca/ |
 | Richmond Hill Open Data Portal | Richmond Hill · Municipal | Open data portal | City of Richmond Hill open data portal — planning, transportation, and community services data | https://opendata-richmondhill.hub.arcgis.com/ |
 | Sarnia GeoHub | Sarnia · Municipal | Open Data Portal | ArcGIS Hub for City of Sarnia GIS layers — zoning, transportation, infrastructure, and interactive community maps with CSV/GeoJSON export. | https://city-of-sarnia.hub.arcgis.com/ |
 | SooMaps Open GIS Data Downloads | Sault Ste. Marie · Municipal | GIS data extracts | Official City of Sault Ste. Marie GIS extracts — addresses, streets, wards, bus stops, playgrounds, and heritage as CSV/JSON refreshed weekly. | https://github.com/cityssm/soomaps-data |
@@ -207,7 +207,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Toronto Maps / data and research hub | Toronto · Municipal | GIS / research hub | Broad entry point for city maps, data, and research tools | https://www.toronto.ca/city-government/data-research-maps/ |
 | Toronto Open Data Portal | Toronto · Municipal | Open data portal | One of the best municipal open data portals in Canada | https://open.toronto.ca/ |
 | Vaughan Open Data Portal | Vaughan · Municipal | Open data portal | City of Vaughan open data portal — municipal data, maps, and analytics for city services | https://opendata-vaughan.hub.arcgis.com/ |
-| Waterloo City Open Data | Waterloo · Municipal | Open data hub | City of Waterloo ArcGIS open data with civic boundaries, property, and infrastructure datasets. | http://opendata.city-of-waterloo.opendata.arcgis.com/ |
+| Waterloo City Open Data | Waterloo · Municipal | Open data hub | City of Waterloo ArcGIS open data with civic boundaries, property, and infrastructure datasets. | https://opendata-city-of-waterloo.opendata.arcgis.com/ |
 | Welland Open Data | Welland · Municipal | Open data portal | City of Welland open data portal with civic and GIS datasets for Niagara Region. | https://www.welland.ca/open/Opendata.asp |
 | Whitby GeoHub | Whitby · Municipal | Open Data Portal | Town of Whitby open data portal — municipal facilities, parks, trails, and planning datasets searchable and downloadable via ArcGIS Hub. | https://geohub-whitby.hub.arcgis.com/ |
 | Windsor Open Data | Windsor · Municipal | Open data portal | City of Windsor open data portal with civic, property, and infrastructure datasets. | https://opendata.citywindsor.ca/ |
@@ -228,6 +228,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| New Brunswick — GeoNB Map Viewer | New Brunswick · Provincial | Interactive map | Interactive provincial geospatial map viewer for New Brunswick. Explore layers from multiple departments including natural resources, environment, local government, and public safety. Useful for property research, land use planning, and environmental assessment. | https://geonb.snb.ca |
+| Newfoundland and Labrador — Municipalities and Local Service Districts | Newfoundland and Labrador · Provincial | Dataset | Spatial dataset of all municipalities and local service districts in Newfoundland and Labrador. Downloadable as KMZ and compressed Shapefile for mapping municipal boundaries, service planning, and jurisdictional analysis. | https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=265 |
+| Newfoundland and Labrador — Provincial Electoral Districts (2015) | Newfoundland and Labrador · Provincial | Dataset | Spatial dataset of Newfoundland and Labrador’s provincial electoral district boundaries (2015). Includes line and polygon shapefiles for electoral mapping, boundary analysis, and demographic research. | https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=361 |
 | Newfoundland and Labrador Geospatial Open Data | Newfoundland and Labrador · Provincial | Provincial geospatial catalogue | NL provincial geospatial datasets — municipal boundaries, health regions, and spatial layers in KML, shapefile, and other formats. | https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasets-spatial |
 | Newfoundland and Labrador Open Data | Newfoundland and Labrador · Provincial | Open data portal | Provincial open data portal for Newfoundland and Labrador providing government datasets across multiple sectors | https://opendata.gov.nl.ca/ |
 | Newfoundland and Labrador Statistics Agency | Newfoundland and Labrador · Provincial | Statistics portal | Official provincial statistics on population, economy, labour market, and social indicators for Newfoundland and Labrador | https://stats.gov.nl.ca/ |
@@ -236,12 +239,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Prince Edward Island Open Data Portal | PEI · Provincial | Open data portal | PEI government open data catalogue with datasets on agriculture, environment, health, and transportation | https://data.princeedwardisland.ca/ |
 | Cape Breton — The Data Zone | Cape Breton · Municipal | Regional data portal | Cape Breton Regional Municipality data portal with municipal GIS layers, maps, and downloadable datasets. | https://www.thedatazone.ca/ |
 | CBRM GIS REST Services | Cape Breton · Municipal | ArcGIS REST services | Cape Breton Regional Municipality ArcGIS Server — planning, parcels, public works, transit, and utilities layers queryable via REST API. | https://gis2.cbrm.ns.ca/server/rest/services |
-| East Hants Open Data | East Hants · Municipal | Open data hub | Municipality of East Hants ArcGIS open data with planning and civic spatial datasets. | http://data.easthants.opendata.arcgis.com/ |
+| East Hants Open Data | East Hants · Municipal | Open data hub | Municipality of East Hants ArcGIS open data with planning and civic spatial datasets. | https://data-easthants.opendata.arcgis.com/ |
 | Fredericton Open Data Portal | Fredericton · Municipal | Open data hub | ArcGIS Hub for the City of Fredericton with downloadable datasets and interactive apps including zoning maps, trail networks, metered parking, IoT environmental sensors, and construction projects | https://data.fredericton.ca |
 | Halifax Open Data | Halifax · Municipal | Open data portal | Useful municipal data and maps hub | https://data-hrm.hub.arcgis.com/pages/open-data-catalogue |
-| Miramichi Open Data | Miramichi · Municipal | Open data hub | City of Miramichi ArcGIS open data portal for northeastern New Brunswick. | http://data.gis-sigmiramichi.opendata.arcgis.com/ |
+| Miramichi Open Data | Miramichi · Municipal | Open data hub | City of Miramichi ArcGIS open data portal for northeastern New Brunswick. | https://data-gis-sigmiramichi.opendata.arcgis.com/ |
 | Moncton Open Data Catalogue (ArcGIS Hub) | Moncton · Municipal | Open Data Catalogue | City of Moncton GIS catalogue on ArcGIS Hub — zoning, transit, trails, parking, and environmental sensor datasets with export. | https://catalogue-moncton.hub.arcgis.com/ |
 | Moncton Open Data Hub | Moncton · Municipal | Open data hub | Download transit routes, zoning maps, parking, trail networks, construction projects, and environmental sensor data as GeoJSON, shapefiles, or CSV | https://opendata-moncton.hub.arcgis.com/ |
+| Mount Pearl — Interactive GIS Map | Mount Pearl · Municipal | Interactive map | Interactive GIS map for Mount Pearl with aerial photography, street information, civic addresses, and links to business parks, street directory, and parks and trails maps. | https://map.mountpearl.ca/ |
 | Saint John Open Data Catalogue | Saint John · Municipal | Open data hub | ArcGIS open data catalogue for Saint John with civic, planning, and infrastructure datasets. | https://catalogue-saintjohn.opendata.arcgis.com/ |
 | Interactive Truro — Open Data Hub | Truro · Municipal | Open Data Portal | Town of Truro ArcGIS Hub — maps, apps, and downloadable GIS datasets including building footprints and local layers. | https://interactive-truro-townoftruro.hub.arcgis.com/ |
 
@@ -253,7 +257,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nunavut Open Data Portal | Nunavut · Provincial | Territorial open data | Government of Nunavut open data portal for territorial datasets and spatial information. | https://www.gov.nu.ca/information/open-data |
 | Yukon Open Data | Yukon · Provincial | Open data portal | Yukon government open data catalogue with datasets on environment, infrastructure, health, and demographics | https://open.yukon.ca/ |
 | Whitehorse Open Data | Whitehorse · Municipal | Open data portal | Spatial datasets for Whitehorse including contours, parcels, roads, and aerial imagery in SHP, DWG, and KML formats. | https://data.whitehorse.ca/ |
-| Yellowknife Open Data | Yellowknife · Municipal | Open data portal | City of Yellowknife spatial open data for GIS users — zoning, infrastructure, and base map layers. | http://opendata.yellowknife.ca/ |
+| Yellowknife Open Data | Yellowknife · Municipal | Open data portal | City of Yellowknife spatial open data for GIS users — zoning, infrastructure, and base map layers. | https://opendata.yellowknife.ca/ |
 
 ## 🏗️ Planning, Zoning & Development
 
@@ -277,6 +281,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Edmonton Zoning Map — Development Permits | Edmonton · Municipal | Development permit map | Interactive zoning map layer showing development permit applications with applicant, location, and job description fields. | https://gis.edmonton.ca/site1/rest/services/VertiGIS/ZoningMap/MapServer |
 | Red Deer Open Data — Building Permits | Red Deer · Municipal | Dataset | Downloadable dataset of building permits issued in Red Deer, including permit type, construction value, and status. Available as CSV, JSON, and via API. | https://data.reddeer.ca/buildingpermits |
 | Red Deer Open Data — Zoning | Red Deer · Municipal | Dataset | Zoning boundary dataset for the City of Red Deer. Use for land-use research, development feasibility, and property analysis. Available as shapefile and KMZ. | https://data.reddeer.ca/zoning |
+
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Prince Albert Zoning Map | Prince Albert · Municipal | Zoning map | Interactive ArcGIS Experience zoning map for Prince Albert — search by address to view zoning districts, land use designations, and development regulations. | https://experience.arcgis.com/experience/a0a3210237cc40dcb613bf2f4a2072b2/page/Page/ |
 
 ### Manitoba
 
@@ -324,9 +334,20 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | CBRM Parcel Finder | Cape Breton · Municipal | Parcel map service | Cape Breton Regional Municipality parcel and property lookup via municipal GIS ParcelFinder map services. | https://gis2.cbrm.ns.ca/server/rest/services/ParcelFinder |
 | CBRM Planning GIS Services | Cape Breton · Municipal | Planning map services | CBRM planning department GIS map services — zoning and land-use layers via ArcGIS REST for Cape Breton Regional Municipality. | https://gis2.cbrm.ns.ca/server/rest/services/Planning |
+| Fredericton — Zoning By-law Dataset | Fredericton · Municipal | Dataset | Polygon GIS dataset of Fredericton zoning districts from the Zoning By-law, with zoning codes and descriptions. Downloadable as GeoJSON, Shapefile, or KML via ArcGIS Hub for use in mapping and development analysis. | https://data-fredericton.opendata.arcgis.com/datasets/zoning-by-law-z5 |
+| Gander Interactive GIS Map | Gander · Municipal | GIS | Interactive ArcGIS web map for the Town of Gander showing zoning, property parcels, municipal infrastructure, recreation facilities, and utilities. Explore property boundaries and land use plans. | https://experience.arcgis.com/experience/d5dedd13d8314050adfaf9f5c6477d87?id=15beb6756481449aad161fb752a99611 |
 | Moncton Development Applications Map | Moncton · Municipal | Development applications map | Interactive ArcGIS web map of Moncton development applications and planning layers for public review. | https://moncton.maps.arcgis.com/apps/webappviewer/index.html?id=c402455fb01445c7aefd359d59f11b63 |
 | Corner Brook Land Use Planning Registry | Newfoundland and Labrador · Municipal | Planning registry | Corner Brook municipal plan, zoning maps (PDF/KMZ), and development regulations via the provincial land use planning registry. | https://www.gov.nl.ca/mca/registry/community/corner-brook/ |
 | Saint John — Building Permits Dataset | Saint John · Municipal | Dataset | Downloadable dataset of building permits issued in Saint John, NB. Includes permit type, address, issue date, and construction value. Available as CSV and shapefile for analysis of development patterns in Atlantic Canada. | https://catalogue-saintjohn.opendata.arcgis.com/datasets/building-permits |
+| Saint John — Zoning Dataset | Saint John · Municipal | Dataset | Polygon features representing zoning districts as per the Saint John Zoning By-law. Attributes include zoning codes and descriptions. Downloadable as GeoJSON, Shapefile, or KML via ArcGIS Hub. | https://catalogue-saintjohn.opendata.arcgis.com/datasets/SaintJohn::zoning/about |
+| St. John's MapCentre | St. John's · Municipal | Interactive map | Interactive GIS mapping portal for St. John's — search addresses, view property parcels, zoning, heritage areas, floodplains, wetlands, electoral wards, and aerial photos dating back to 2003. Useful for real estate research, urban planning, and community organizing. | https://map.stjohns.ca/mapcentre/ |
+| St. John's Permits Issued | St. John's · Municipal | Building permits | Weekly lists of building and repair permits issued by the City of St. John's, posted as part of the public record. Download PDFs by date to track development activity, new construction, and renovations. | https://www.stjohns.ca/en/building-development/permits-issued.aspx |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| WhitehorseMap | Whitehorse · Municipal | GIS | Interactive web-based GIS mapping tool for the City of Whitehorse with layers for planning, engineering, transportation, parks, utilities, and administration. Explore property boundaries, zoning, infrastructure, and public facilities. | https://gisext.whitehorse.ca/gis.php |
 
 ## 🏛️ Council, Democracy & Transparency
 
@@ -361,6 +382,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Brandon City Council Meetings | Brandon · Municipal | Council meetings | Brandon City Council agendas, minutes, and meeting video. | https://www.brandon.ca/city-hall/mayor-and-council/ |
+| Portage la Prairie Council Agendas & Minutes | Portage la Prairie · Municipal | Dataset | PDF council agendas and minutes for all regular and special council meetings. Agendas include committee reports and staff presentations; minutes record resolutions and decisions. | https://www.city-plap.com/council-administration/council/agendas-and-minutes/ |
+| Steinbach Council Minutes & Videos | Steinbach · Municipal | Dataset | PDF council minutes and video recordings of council meetings dating back to 2022. Minutes include voting records and council package documents. Updated after each regular council meeting (twice monthly). | https://www.steinbach.ca/city-hall/city-council/archive/ |
 | Winnipeg Council Meetings — eScribe | Winnipeg · Municipal | Council meetings portal | Winnipeg City Council and standing policy committee agendas, minutes, and video on eScribe. | https://legacy.winnipeg.ca/council/ |
 | Winnipeg Council Voting Information System | Winnipeg · Municipal | Vote search | Search council and executive policy committee votes by meeting date, item number, or keyword instead of scrolling through PDF minutes. | https://winnipeg.ca/council/VIS/ |
 
@@ -401,11 +424,22 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Cape Breton Regional Municipality Council | Cape Breton · Municipal | Council meetings | CBRM council meeting agendas, minutes, and video for the Cape Breton Regional Municipality. | https://www.cbrm.ns.ca/municipal-government/mayor-council/council-meetings |
+| Charlottetown Council Resolutions and Approved Minutes | Charlottetown · Municipal | Council minutes | Document library with downloadable PDFs of council resolutions and approved minutes for the City of Charlottetown. Track council decisions, motions, and voting records over time. | https://www.charlottetown.ca/mayor___council/council_meetings/resolutions_of_council_and_approved_minutes |
+| Corner Brook Council Meetings | Corner Brook · Municipal | Council meetings | City of Corner Brook council meeting agendas and minutes, organized by year and searchable. Follow council debates, decisions, and public participation on budgets, zoning, and infrastructure. | https://www.cornerbrook.com/meetings/ |
 | Fredericton Council Meetings | Fredericton · Municipal | Council meetings | City of Fredericton council meeting agendas, minutes, and video. | https://www.fredericton.ca/en/your-government/mayor-council/council-meetings |
+| Gander Council Meetings | Gander · Municipal | Council meetings | Town of Gander council meeting agendas and minutes (2024–2026). Download PDFs to track decisions on budgets, services, and local infrastructure. | https://www.gandercanada.com/municipal-government/council-meetings/ |
+| Grand Falls-Windsor Council Minutes | Grand Falls-Windsor · Municipal | Council minutes | Town of Grand Falls-Windsor council minutes and agendas, archived by year with PDF downloads. Use to track local governance decisions, budget approvals, and public hearings. | https://grandfallswindsor.com/town-hall/council-minutes/ |
 | Halifax Council Meeting Records | Halifax · Municipal | Agendas and minutes | Regional Council agendas, minutes, and webcasts for Halifax Regional Municipality with searchable meeting calendar. | https://www.halifax.ca/city-hall/regional-council |
 | Halifax Regional Council Meetings | Halifax · Municipal | Council meetings | Halifax Regional Municipality council and committee agendas, minutes, and live meeting streams. | https://www.halifax.ca/city-hall/agendas-meetings-reports?category=127 |
 | Moncton Council Meetings | Moncton · Municipal | Council meetings | City of Moncton council and committee meeting agendas and minutes. | https://www.moncton.ca/en/council |
+| St. John's — Council eScribe Portal | St. John's · Municipal | eScribe portal | Searchable council and committee agendas and minutes for St. John's. Access current and archived meeting records via the city's eScribe portal. | https://apps.stjohns.ca/escribe/Escribe.aspx |
 | St. John's Council Meetings | St. John's · Municipal | Council meetings | St. John's City Council meeting agendas, minutes, and webcasts for council sessions. | https://www.stjohns.ca/en/city-hall/mayor-and-council.aspx |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Iqaluit Motion Registry Results | Iqaluit · Municipal | Council motions | Searchable, downloadable list of City of Iqaluit council motions with meeting numbers, dates, and PDF downloads. Track how specific issues were voted on and follow the history of council decisions. | https://iqaluit.ca/city-hall/city-council/motions/results |
 
 ## 💳 Budget, Finance & Procurement
 
@@ -428,12 +462,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Lloydminster — Accounts Payable Reports | Lloydminster · Municipal | Vendor payment ledger | Monthly PDF accounts payable reports listing all vendor payments made by the City of Lloydminster. Updated monthly by the Finance department. Useful for tracking municipal spending, vendor relationships, and fiscal accountability. | https://www.lloydminster.ca/council-administration/finance/accounts-payable-reports/ |
+| Moose Jaw Open Budget | Moose Jaw · Municipal | Budget explorer | Interactive budget explorer for the City of Moose Jaw showing operating and capital budgets for 2026-2030. Drill down into departments, revenues, and expenses, and export data. | https://moosejaw.openbook.questica.com |
+| Prince Albert Budget and Financial Documents | Prince Albert · Municipal | Budget documents | Access City of Prince Albert current and past budget books, annual reports, and public accounts. Includes detailed breakdowns for general, water, sanitation, airport, and land funds via Questica OpenBooks. | https://www.citypa.ca/city-hall/finances/ |
 | Saskatoon — Non-Standard Procurement (Sole Source) | Saskatoon · Municipal | Dataset | Dataset of non-standard procurements (sole-source contracts) over 5,000 for goods, services, and construction purchased by City of Saskatoon departments. Updated regularly. Available for CSV download and API access. | https://data-citysaskatoon.opendata.arcgis.com/datasets/9470d912e6204cb8964ff19e16cb8521_0/explore |
+| Yorkton Budgets and Financial Reports | Yorkton · Municipal | Budget documents | Download annual City of Yorkton operating and capital budgets, audited financial statements, and public accounts reporting payments over $50,000 from 2019–2026. | https://www.yorkton.ca/our-government/budgets-and-financial-reports/ |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Brandon — Compensation Disclosure | Brandon · Municipal | Compensation disclosure | Annual PDF reports disclosing compensation paid to City of Brandon council members and employees earning over $75,000 (now $85,000). Useful for salary research, transparency analysis, and tracking municipal compensation trends. | https://www.brandon.ca/city-hall/compensation-disclosure/ |
+| Dauphin Financial Plans and Audited Statements | Dauphin · Municipal | Financial documents | Download City of Dauphin financial plans (2015–2026) and audited consolidated financial statements (2010–2024). Also includes fees, charges, and tax levy bylaws. | https://www.dauphin.ca/p/finance |
+| Portage la Prairie Finance Reports & Plans | Portage la Prairie · Municipal | Dataset | Annual budget speeches, multi-year financial plans, audited financial statements, and public sector compensation disclosures as PDFs. Covers 2020-2026 budget cycles. | https://www.city-plap.com/council-administration/plans-reports-and-studies/finance-reports-plans/ |
+| Thompson Financial Reports and Plans | Thompson · Municipal | Financial transparency | Downloadable PDFs of Thompson's annual financial plans, financial plan presentations, and Bill 57 public sector compensation disclosures. Track municipal spending, tax rates, and senior staff compensation. | https://www.thompson.ca/p/financial-reports-and-plans |
+| Winnipeg — Council Member Expenses | Winnipeg · Municipal | Dataset | Itemized expenses of Winnipeg City Council members from 2014 to present, including travel, conferences, and discretionary spending. Searchable and downloadable as CSV for transparency and accountability research. | https://data.winnipeg.ca/dataset/mgde-4fua |
 | Winnipeg Capital Projects Explorer | Winnipeg · Municipal | Capital projects dashboard | Interactive map and dashboard tracking active City of Winnipeg capital projects over $5 million, with budget variance, schedule status, timeline, and project documents. | https://projectexplorer.winnipeg.ca/ |
 | Winnipeg Open Budget | Winnipeg · Municipal | Budget explorer | Interactive operating and capital budget explorer for the City of Winnipeg. Filter by department, fund, and year to compare budgeted vs actual spending and revenues. | https://openbudget.winnipeg.ca/ |
 
@@ -462,7 +505,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Nova Scotia Awarded Public Tenders | Nova Scotia · Provincial | Procurement awards | CSV of awarded vendors and amounts for government tenders by entity, category, and date from the Nova Scotia open data portal. | https://data.novascotia.ca/datasets/m6ps-8j6u |
 | Prince Edward Island — Estimates of Expenditure | Prince Edward Island · Provincial | Dataset | Annual provincial budget dataset showing planned spending by department for the upcoming fiscal year. Downloadable in CSV and PDF for fiscal accountability and budget analysis. | https://data.princeedwardisland.ca/datasets/e3c59ea5c9154796bf3a57f9816618bb_0/explore?showTable=true |
+| Charlottetown Audited Financial Statements | Charlottetown · Municipal | Financial statements | Downloadable PDFs of audited consolidated financial statements for the City of Charlottetown, Charlottetown Water and Sewer Corporation, and city superannuation plans. Includes statements from 2024 and 2025. | https://www.charlottetown.ca/mayor___council/finance/audited_financial_statements |
+| Charlottetown Council Member Disclosure Statements | Charlottetown · Municipal | Disclosure statements | Downloadable PDF disclosure statements for each Charlottetown council member from 2018 to 2025. Review councillor assets, liabilities, and interests as required by the Municipal Government Act. | https://www.charlottetown.ca/mayor___council/city_council/council_member_disclosure_statements |
+| Corner Brook — Budgets and Financial Statements | Corner Brook · Municipal | Budget documents | Downloadable PDF annual budget speeches and audited financial statements for the City of Corner Brook from 2017 to present. Track municipal spending, capital investments, and financial performance over time. | https://www.cornerbrook.com/by-laws-policies-and-reports/budgets-financial-statements/ |
+| Fredericton — Previous Budgets and Annual Reports | Fredericton · Municipal | Budget documents | Downloadable PDF budget books, annual report infographics, and financial statements for the City of Fredericton from 2018 to present. Review operating and capital budgets, tax rates, and financial performance. | https://www.fredericton.ca/previous-budgets-annual-reports |
+| Grand Falls-Windsor — Budget Documents and Financial Statements | Grand Falls-Windsor · Municipal | Budget documents | Downloadable PDF budget documents and audited financial statements for the Town of Grand Falls-Windsor from 2013 to 2026. Track municipal spending, tax rates, and financial health over time. | https://grandfallswindsor.com/town-hall/publications/ |
 | Halifax Budget and Financial Plans | Halifax · Municipal | Municipal budget | Halifax Regional Municipality budget documents, business plans, and financial performance reporting. | https://www.halifax.ca/budget |
+| Mount Pearl — Budget and Financial Statements | Mount Pearl · Municipal | Budget documents | Downloadable PDF budget brochures, rates and fees schedules, and audited financial statements for the City of Mount Pearl from 2010 to present. Track municipal spending and tax rate changes. | https://www.mountpearl.ca/government/budget/ |
+| Paradise — Cheque Register | Paradise · Municipal | Vendor payment ledger | Monthly PDF downloads of all vendor and supplier payments made by the Town of Paradise. Track municipal spending, identify top vendors, and analyze procurement patterns from January 2020 onward. | https://www.paradise.ca/government-engage/cheque-register/ |
+| St. John's — Weekly Payment Vouchers | St. John's · Municipal | Vendor payment ledger | Weekly PDF payment vouchers listing all vendor payments made by the City of St. John's from 2021 to present. Download by year to track municipal spending, identify top vendors, and analyze procurement patterns. | https://www.stjohns.ca/your-government/access-to-information-and-protection-of-privacy/proactive-disclosures |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Yellowknife Past and Present Budgets | Yellowknife · Municipal | Budget documents | Downloadable PDF budget documents for the City of Yellowknife including the consolidated 2026 budget, governance committee budget presentations, and draft budget proposals. Review operating and capital budgets. | https://www.yellowknife.ca/budget-and-initiatives/past-and-present-budgets |
 
 ## 🪪 Government Services & ID
 
@@ -764,6 +821,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta Education — School Directory and Maps | Alberta · Provincial | School directory | Alberta school authority listings, school locations, and jurisdictional boundary information for public schools. | https://education.alberta.ca/ |
+| Calgary Board of Education — Find a School | Calgary · Municipal | School boundary lookup | Interactive address-based map to find your designated Calgary Board of Education school. Displays walk zones, program locations, attendance areas, and trustee ward boundaries. | https://cbe.ab.ca/schools/find-a-school/Pages/default.aspx |
 | Calgary Board of Education — School Directory | Calgary · Municipal | School directory | Search Calgary Board of Education schools by program, grade, and community with contact and boundary information. | https://www.cbe.ab.ca/schools/Pages/default.aspx |
 | Edmonton Catholic School District — School Finder | Edmonton · Municipal | Boundary map | Interactive school finder map for Edmonton Catholic Schools. Enter an address to find the designated Catholic school by grade level and program type. Includes ward boundaries and trustee information. | https://schoolmap.ecsd.net/ |
 
@@ -778,6 +836,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Hanover School Division — Catchment Maps | Manitoba · Regional | Dataset | Downloadable PDF maps showing school catchment boundaries for the Hanover School Division in southeastern Manitoba. Includes division-wide catchment map and individual maps for Steinbach Early Years (K–4), Grades 5–8, and rural areas. Useful for parents, real estate research, and enrollment planning. | https://hsd.ca/schools/catchment-areas/ |
 | Louis Riel School Division — School Finder | Winnipeg · Municipal | School boundary lookup | Address-based lookup to find designated English and French Immersion elementary and high schools within the Louis Riel School Division catchment area. | https://www.lrsd.net/locate-a-school |
 | Pembina Trails School Division — School Locator | Winnipeg · Municipal | School boundary lookup | Interactive tool to find catchment schools by street name or address within Pembina Trails School Division. Covers English and French Immersion programming with grade-by-grade visual maps. | https://www.pembinatrails.ca/school-locator |
 | Winnipeg School Division — Find a School | Winnipeg · Municipal | School boundary lookup | Mobile-friendly app to find designated schools within Winnipeg School Division boundaries by address. Covers division-wide program schools and is updated with the latest boundary information. | https://winnipegsd.ca/find-a-school |
@@ -787,7 +846,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario Public School Contact Information | Ontario · Provincial | School directory | Contact information for publicly funded Ontario schools including board, school number, level, and language. CSV export. | https://data.ontario.ca/dataset/ontario-public-school-contact-information |
-| Ontario School Board Boundaries — Scholars GeoPortal | Ontario · Provincial | Boundary shapefiles | English and French public and separate school board boundary shapefiles for Ontario — download via Scholars GeoPortal. | http://geo.scholarsportal.info/#r/details/_uri@=1011603538 |
+| Ontario School Board Boundaries — Scholars GeoPortal | Ontario · Provincial | Boundary shapefiles | English and French public and separate school board boundary shapefiles for Ontario — download via Scholars GeoPortal. | https://geo2.scholarsportal.info/#r/details/_uri@=1011603538 |
 | Ontario School Enrolment by Grade | Ontario · Provincial | Enrolment dataset | Annual school-level enrolment by grade from OnSIS October submission — filter by board, school type, and language. CSV download. | https://data.ontario.ca/dataset/school-enrolment-by-grade |
 | Ontario School Information and Demographics | Ontario · Provincial | School profiles dataset | Board and school contact data plus EQAO achievement indicators by school — download consolidated CSV for analysis. | https://data.ontario.ca/dataset/school-information-and-student-demographics |
 | Halton Catholic District School Board — School Finder | Halton · Regional | Boundary map | Interactive map to find Catholic school catchment boundaries, school locations, and program offerings across Halton Region (Burlington, Oakville, Milton, Halton Hills). | https://schoolplanning.hcdsb.org/find-your-school/ |
@@ -801,7 +860,24 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Québec — School Board and Service Centre Territories | Quebec · Provincial | Dataset | Downloadable GeoJSON, Shapefile, KML, and CSV datasets of all Quebec school board and service centre territories, including francophone centres de services scolaires, anglophone commissions scolaires, and special-status commissions. Includes interactive map viewer. | https://www.donneesquebec.ca/recherche/dataset/territoires-des-commissions-scolaires-du-quebec |
 | Quebec School Network Locations | Quebec · Provincial | School locations dataset | Geolocated elementary and secondary schools on the Quebec open data portal — filter by network, level, and region. CSV and API. | https://www.donneesquebec.ca/recherche/fr/dataset/localisation-des-etablissements-d-enseignement-du-reseau-scolaire-au-quebec |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| New Brunswick Anglophone School District Boundaries | New Brunswick · Provincial | School district maps | Official PDF maps showing the boundaries for New Brunswick's four anglophone school districts (North, South, East, West) and their sub-districts. Download to determine which school district a property falls into. | https://www.gnb.ca/en/topic/education-training/k-12/district/anglophone.html |
+| New Brunswick School Directory | New Brunswick · Provincial | School directory | Searchable directory of all New Brunswick public schools, district offices, and administrators. Search by school name, district, or language; includes print and download options. | https://www.nbed.nb.ca/SchoolDirectory |
+| Nova Scotia — School Board Zones (English) | Nova Scotia · Provincial | Dataset | Provincial geospatial dataset of English-language Regional Centres for Education (RCE) and school board zones in Nova Scotia. Downloadable as GeoJSON, Shapefile, and KML for mapping student catchment areas, trustee representation, and education planning. | https://data.novascotia.ca/dataset/v69y-jn74 |
+| Nova Scotia — School Board Zones (French) | Nova Scotia · Provincial | Dataset | Provincial geospatial dataset of French-language school board zones (Conseil scolaire acadien provincial) in Nova Scotia. Downloadable as GeoJSON, Shapefile, and KML for mapping minority-language education catchment areas and Acadian school boundaries. | https://data.novascotia.ca/dataset/76iu-75v2 |
+| Prince Edward Island — School Zoning and Transportation Portal | Prince Edward Island · Provincial | School boundary lookup | Interactive address-based portal to find designated schools, view school boundary maps, and verify school bus transportation eligibility for the PEI Public Schools Branch. Covers all English-language schools in the province. | https://psbbusing.princeedwardisland.ca/Default.aspx |
+| Anglophone East School District — Which School Do I Attend? | New Brunswick · Regional | School boundary lookup | Interactive address-based lookup for Anglophone East School District (New Brunswick). Enter a street address, municipality, and grade to find designated schools and verify bus transportation eligibility. | https://asdebp.nbed.nb.ca/Eligibility |
+| Anglophone North School District — Which School Do I Attend? | New Brunswick · Regional | School boundary lookup | Interactive address-based lookup for Anglophone North School District (New Brunswick). Enter a street address, municipality, and grade to find designated schools and verify bus transportation eligibility. | https://asdnbp.nbed.nb.ca/Eligibility |
+| Anglophone South School District — Which School Do I Attend? | New Brunswick · Regional | School boundary lookup | Interactive address-based lookup for Anglophone South School District (New Brunswick). Enter a street address, municipality, and grade to find designated schools and verify bus transportation eligibility. | https://asdsbp.nbed.nb.ca/Eligibility |
+| Anglophone West School District — Which School Do I Attend? | New Brunswick · Regional | School boundary lookup | Interactive address-based lookup for Anglophone West School District (New Brunswick). Enter a street address, municipality, and grade to find designated schools and verify bus transportation eligibility. | https://asdwbp.nbed.nb.ca/Eligibility |
+| Francophone Sud School District — Which School Do I Attend? | New Brunswick · Regional | School boundary lookup | Interactive address-based lookup for Francophone Sud School District (New Brunswick). Enter a street address, municipality, and grade to find designated French-language schools and verify bus transportation eligibility. | https://dsfsbp.nbed.nb.ca/Eligibility |
+| Halifax Regional Centre for Education — School Finder | Halifax · Municipal | School boundary lookup | Address-based lookup tool to find designated schools in the Halifax Regional Centre for Education. Search by home address to see assigned elementary, middle, and high schools, as well as program options and community boundaries. | https://www.hrce.ca/families/school-finder |
 
 ## 🛂 Immigration & Citizenship
 
@@ -909,7 +985,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Interior Health — Community Health Data | British Columbia · Provincial | Health data | Interior Health population health and community health data reports for BC Interior health authority communities. | https://www.interiorhealth.ca/ |
 | Interior Health — Food Facility Inspections | British Columbia · Provincial | Food inspection search | Food facility inspection disclosure for Interior Health region — search by establishment name and community. | https://www.interiorhealth.ca/health-and-wellness/environmental-health-and-hazards/inspection-reports |
 | Vancouver Coastal Health — Restaurant Inspections | British Columbia · Provincial | Inspection reports | VCH restaurant and food service inspection reports for Vancouver Coastal region facilities. | https://www.vch.ca/en/health-topics/environmental-health-inspections |
-| Surrey Fraser Health Restaurant Inspections | Surrey · Municipal | Food inspection dataset | Restaurant inspection reports for Surrey from Fraser Health via the City open data catalogue — search by establishment and date. | https://data.surrey.ca/dataset/fraser-health-restaurant-inspection-reports |
+| Surrey Fraser Health Restaurant Inspections | Surrey · Municipal | Food inspection dataset | Restaurant inspection reports for Surrey from Fraser Health via the City open data catalogue on ArcGIS Hub — search by establishment and date. | https://opendata-surrey.hub.arcgis.com/ |
 
 ### Alberta
 
@@ -957,6 +1033,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | New Brunswick — Food Premises Inspections | New Brunswick · Provincial | Inspection search | Search food premises inspection results for licensed establishments across New Brunswick under the Public Health Act. Find compliance status, inspection frequency, and posted results by establishment type and location. | https://www.gnb.ca/en/topic/laws-safety/health-environment-advisories/food-premises-inspections.html |
 | Newfoundland and Labrador — Food Premises Inspection Reports | Newfoundland and Labrador · Provincial | Inspection search | Search food premises health inspection reports for restaurants and food establishments across Newfoundland and Labrador. Find inspection dates, violations, and compliance status by facility name or location. Reports cover the previous two years. | https://www.gov.nl.ca/gs/inspections/ |
+| Newfoundland and Labrador — Health Regions | Newfoundland and Labrador · Provincial | Dataset | Spatial delineation of health board coverage regions in Newfoundland and Labrador. Downloadable as KMZ and Shapefile for health service planning, epidemiological mapping, and demographic analysis. | https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=266 |
 | Nova Scotia — Food Establishment Inspection Reports | Nova Scotia · Provincial | Inspection search | Searchable database of food establishment inspection reports across Nova Scotia. Find inspection results for restaurants, grocery stores, and food-service facilities by name, location, or date. Reports cover compliance with food safety regulations and required corrective actions. | https://novascotia.ca/nse/food-protection/food-inspection-reports.asp |
 
 ## 🤝 Benefits & Social Services
@@ -1193,12 +1270,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | York Region Transit — GTFS Open Data | York Region · Regional | GTFS feed | YRT/Viva GTFS and real-time GTFS packages for developers — request download after accepting the open data licence. | https://www.yrt.ca/en/about-us/open-data.aspx |
 | Barrie Transit GTFS | Barrie · Municipal | GTFS feed | Direct download of Barrie Transit GTFS.zip from the City website for routes, stops, and schedule data. | https://www.barrie.ca/transit |
 | Brampton Transit — GTFS (GeoHub) | Brampton · Municipal | GTFS feed | Brampton Transit schedule GTFS ZIP on the City GeoHub — routes, stops, stop times, and shapes for Züm and local service. | https://geohub.brampton.ca/datasets/a355aabd5a8c490186bdce559c9c75fb |
-| Burlington Transit — GTFS | Burlington · Municipal | GTFS feed | Burlington Transit GTFS feed for routes, stops, and schedules from the municipal open data program. | https://www.burlington.ca/en/news/open-data.aspx |
+| Burlington Transit — GTFS | Burlington · Municipal | GTFS feed | Burlington Transit GTFS feed for routes, stops, and schedules from the municipal open data program. | https://navburl-burlington.opendata.arcgis.com/pages/data |
 | Guelph Transit — GTFS Open Data | Guelph · Municipal | GTFS feed | Guelph Transit GTFS schedule data published on the City open data catalogue for app developers. | https://opendata-guelph.hub.arcgis.com/datasets/guelph-transit-gtfs |
 | Hamilton Street Railway GTFS | Hamilton · Municipal | GTFS feed | HSR GTFS static schedule data for Hamilton transit routes and stops. | https://open.hamilton.ca/documents/6eeccf172c824c2db0484aea54ed7fe4/explore |
+| Kingston Transit GTFS | Kingston · Municipal | GTFS feed | Direct GTFS.zip download of Kingston Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland. | https://api.cityofkingston.ca/gtfs/gtfs.zip |
 | London Transit Commission GTFS | London · Municipal | GTFS feed | LTC GTFS feed download for London, Ontario bus routes, stops, and schedules. | https://www.londontransit.ca/open-data/ |
 | MiWay — GTFS Developer Download | Mississauga · Municipal | GTFS feed | MiWay scheduled GTFS and GTFS-Realtime feeds (vehicle positions, trip updates, alerts) for third-party transit apps. | https://www.mississauga.ca/miway-transit/developer-download/ |
 | MiWay — Mississauga Transit | Mississauga · Municipal | Transit | MiWay bus routes, schedules, and real-time info for Mississauga | https://www.mississauga.ca/miway |
+| North Bay Transit GTFS | North Bay · Municipal | GTFS feed | Direct GTFS.zip download of North Bay Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland. | https://northbay.tmix.se/gtfs/gtfs.zip |
 | Thunder Bay Transit | Ontario · Municipal | Transit | Thunder Bay Transit routes, schedules, real-time bus tracking, and fare information | https://www.thunderbay.ca/transit |
 | Toronto Bike Share station map | Toronto · Municipal | Mobility map | Station finder and system map for bike share | https://bikesharetoronto.com/system-map/ |
 | Toronto TTC GTFS Feed | Toronto · Municipal | GTFS feed | Official TTC GTFS static schedule feed for routes, stops, and trips — download zip from the Open Data Portal for app development. | https://open.toronto.ca/dataset/ttc-routes-and-schedules/ |
@@ -1385,6 +1464,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Saskatchewan Air Quality Monitoring Network | Saskatchewan · Provincial | Environmental monitoring | Province-wide network of continuous ambient air monitoring stations operated by the Ministry of Environment. Interactive map shows station locations across SK; download validated hourly air quality data as CSV. Covers Swift Current, Estevan, Prince Albert, Buffalo Narrows, and other stations with pollutant readings (PM2.5, O3, NO2, SO2, CO). | https://geohub.saskatchewan.ca/datasets/b946b3f030b24d0095f7456463ee38ba |
 | Saskatchewan Wildfire Status | Saskatchewan · Provincial | Wildfire map | Saskatchewan Public Safety Agency wildfire dashboard and active fire map | https://www.saskatchewan.ca/residents/environment-public-health-and-safety/wildfire-in-saskatchewan |
 
 ### Ontario
@@ -1400,6 +1480,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Conservation Ontario — Find Your Conservation Authority | Ontario · Agency | Finder | Find which conservation authority covers your watershed or municipality in Ontario | https://conservationontario.ca/ |
 | Toronto and Region Conservation Authority — Living Room | Toronto Region · Agency | Conservation authority | Rouge National Urban Park, conservation areas, maps, and environmental programs for the Toronto region | https://trca.ca/ |
 | Ontario — Forest Fires Information | Ontario · Provincial | Wildfire map | Active Ontario forest fires, fire bans, and fire-weather conditions | https://www.ontario.ca/page/forest-fires |
+| Ontario Provincial Stream Water Quality Monitoring Network (PWQMN) | Ontario · Provincial | Water quality dataset | Stream water quality monitoring data across Ontario rivers and streams. Parameters include nutrients (total and dissolved), metals, and chloride. CSV downloads available by year (2023, 2024). Spatial coordinates for all monitoring stations included. | https://data.ontario.ca/dataset/provincial-stream-water-quality-monitoring-network |
 | North Bay Drinking Water Quality Reports | North Bay · Municipal | Water quality reports | Annual and summary drinking water quality test results for City of North Bay municipal water system — PDF reports by year. | https://www.northbay.ca/en/living-here/water-quality.aspx |
 
 ### Quebec
@@ -1422,18 +1503,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Meteorological Station Data Portal (PCIC) | British Columbia · Provincial | Weather data portal | Interactive map interface to explore 100+ weather stations across British Columbia from the Provincial Climate Data Set. Filter by date range, variable type, observing agency, and region. Download station metadata and observational data in CSV, NetCDF, or MS Excel format. Covers temperature, precipitation, wind, humidity, and other climate variables. | https://www.uvic.ca/pcic/data-analysis-tools/data-portal/station-data/index.php |
 | BC River Forecast Centre — Open Data | British Columbia · Provincial | Hydrometric data | Snowpack, streamflow, and flood forecasting data for British Columbia watersheds — maps and downloadable hydrometric datasets. | https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre |
 
 ### Alberta
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta Climate Information Service (ACIS) — Weather Station Data Viewer | Alberta · Provincial | Weather data portal | Interactive map viewer and download tool for over 535 Alberta weather stations. View near-real-time and historical data including precipitation, temperature, wind, heat units, and climate normals. Both hourly and daily data available for download in CSV format. | https://acis.alberta.ca/weather-data-viewer.jsp |
 | Alberta River Basins — Flow and Forecast | Alberta · Provincial | Hydrometric monitoring | Real-time river flows, basin conditions, and flood advisories for Alberta river systems. | https://rivers.alberta.ca/ |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba Ag Weather Station Network — Data MB Download | Manitoba · Provincial | Dataset | KML download of Manitoba Agriculture weather station network locations (120+ stations across agro-Manitoba). Each station records air temperature, humidity, precipitation, wind, solar radiation, and soil data at 15-minute intervals. | https://geoportal.gov.mb.ca/api/download/v1/items/619eac487cd84953adfd1e72b78f1990/kml?layers=0 |
 | Manitoba Flood Information | Manitoba · Provincial | Flood monitoring | Provincial flood outlooks, river levels, and emergency flood updates for Manitoba watersheds. | https://www.gov.mb.ca/flooding/ |
 
 ### Ontario

@@ -4867,8 +4867,8 @@
     "jurisdiction": "Surrey",
     "category": "health-region",
     "type": "Food inspection dataset",
-    "description": "Restaurant inspection reports for Surrey from Fraser Health via the City open data catalogue — search by establishment and date.",
-    "url": "https://data.surrey.ca/dataset/fraser-health-restaurant-inspection-reports",
+    "description": "Restaurant inspection reports for Surrey from Fraser Health via the City open data catalogue on ArcGIS Hub — search by establishment and date.",
+    "url": "https://opendata-surrey.hub.arcgis.com/",
     "tags": [
       "surrey",
       "food safety",
@@ -4876,7 +4876,7 @@
       "bc",
       "open data"
     ],
-    "dateAdded": "2026-09-11"
+    "dateAdded": "2024-09-11"
   },
   {
     "name": "Toronto DineSafe — Food Premises Inspections",
@@ -11139,14 +11139,14 @@
     "category": "transit",
     "type": "GTFS feed",
     "description": "Burlington Transit GTFS feed for routes, stops, and schedules from the municipal open data program.",
-    "url": "https://www.burlington.ca/en/news/open-data.aspx",
+    "url": "https://navburl-burlington.opendata.arcgis.com/pages/data",
     "tags": [
       "burlington",
       "transit",
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2030-03-18"
+    "dateAdded": "2024-07-02"
   },
   {
     "name": "Calgary Transit GTFS",
@@ -13879,7 +13879,7 @@
   {
     "name": "Kingston Transit GTFS",
     "level": "Municipal",
-    "jurisdiction": "Kingston, Ontario",
+    "jurisdiction": "Kingston",
     "category": "transit",
     "type": "GTFS feed",
     "description": "Direct GTFS.zip download of Kingston Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland.",
@@ -13897,7 +13897,7 @@
   {
     "name": "North Bay Transit GTFS",
     "level": "Municipal",
-    "jurisdiction": "North Bay, Ontario",
+    "jurisdiction": "North Bay",
     "category": "transit",
     "type": "GTFS feed",
     "description": "Direct GTFS.zip download of North Bay Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland.",
