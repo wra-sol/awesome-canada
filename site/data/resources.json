@@ -13875,5 +13875,41 @@
       "environment"
     ],
     "dateAdded": "2026-06-20"
+  },
+  {
+    "name": "Kingston Transit GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Kingston, Ontario",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Direct GTFS.zip download of Kingston Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland.",
+    "url": "https://api.cityofkingston.ca/gtfs/gtfs.zip",
+    "tags": [
+      "gtfs",
+      "transit",
+      "kingston",
+      "bus",
+      "schedules",
+      "routes"
+    ],
+    "dateAdded": "2026-06-21"
+  },
+  {
+    "name": "North Bay Transit GTFS",
+    "level": "Municipal",
+    "jurisdiction": "North Bay, Ontario",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Direct GTFS.zip download of North Bay Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland.",
+    "url": "https://northbay.tmix.se/gtfs/gtfs.zip",
+    "tags": [
+      "gtfs",
+      "transit",
+      "north bay",
+      "bus",
+      "schedules",
+      "routes"
+    ],
+    "dateAdded": "2026-06-21"
   }
 ]
