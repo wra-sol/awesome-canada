@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 31
-last_run: 2026-06-21T12:00:00Z
+stable_runs: 33
+last_run: 2026-06-22T12:00:00Z
 last_status: ok
-notes: Added Kingston Transit GTFS and North Bay Transit GTFS (2 new). Total 910 resources, validation passes. GitHub push successful. Transitland found as reliable discovery source for mid-size city GTFS feeds.
+notes: Added 2 entries — Kingston Building Permits ArcGIS Hub dataset (planning-zoning gap fill, geocoded permits with addresses/values/status downloadable as GeoJSON) and Kingston City Council YouTube Video Archive (council gap fill, archived meetings from 2014-present). Total 912 resources, validation passes. GitHub Actions deploy successful. Site returns HTTP 200.
