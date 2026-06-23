@@ -13948,5 +13948,42 @@
       "youtube"
     ],
     "dateAdded": "2026-06-22"
+  },
+  
+  {
+    "name": "Guelph Transit GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Direct GTFS.zip download of Guelph Transit bus schedules, routes, and stops. Updated when routing or scheduling changes occur; historical versions available via Transitland.",
+    "url": "https://gismaps.guelph.ca/Pages/GTFS/google_transit.zip",
+    "tags": [
+      "gtfs",
+      "transit",
+      "guelph",
+      "bus",
+      "schedules",
+      "routes"
+    ],
+    "dateAdded": "2026-06-23"
+  },
+  {
+    "name": "Oakville Transit GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Oakville",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Direct GTFS.zip download of Oakville Transit bus schedules, routes, and stops. Updated as needed when service changes occur; archive versions available via Transitland.",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/d78a1c1ad6a940009de8b68839a8f606/data",
+    "tags": [
+      "gtfs",
+      "transit",
+      "oakville",
+      "bus",
+      "schedules",
+      "routes"
+    ],
+    "dateAdded": "2026-06-23"
   }
 ]
