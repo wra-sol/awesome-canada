@@ -105,6 +105,7 @@ const JURISDICTION_TO_REGION = {
   'Yorkton':                   'sk',
   "Prince Albert":             'sk',
   "Lloydminster":              'sk',
+  "Weyburn":                   'sk',
 
   "Brandon":                   'mb',
   "Winnipeg":                  'mb',

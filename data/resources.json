@@ -13985,5 +13985,98 @@
       "routes"
     ],
     "dateAdded": "2026-06-23"
+  },
+  {
+    "name": "Brandon Council Agendas and Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Brandon",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Downloadable PDF agendas and minutes for City of Brandon regular and special Council meetings, January 2026 to present (archive back to 2020). Browse by meeting date to track motions, decisions, and public delegations for Manitoba's second-largest city.",
+    "url": "https://www.brandon.ca/city-hall/agendas-and-minutes",
+    "tags": [
+      "council",
+      "Brandon",
+      "agendas",
+      "minutes",
+      "meetings",
+      "PDF",
+      "Manitoba"
+    ],
+    "dateAdded": "2026-06-25"
+  },
+  {
+    "name": "Brandon Budget and Finance",
+    "level": "Municipal",
+    "jurisdiction": "Brandon",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Download City of Brandon annual approved budgets (incl. 2026), audited financial statements, and multi-year financial plans. Includes operating and capital breakdowns by department — useful for fiscal accountability in Manitoba's second-largest municipality.",
+    "url": "https://www.brandon.ca/city-hall/budget-and-finance",
+    "tags": [
+      "budget",
+      "Brandon",
+      "financial statements",
+      "PDF",
+      "Manitoba",
+      "transparency"
+    ],
+    "dateAdded": "2026-06-25"
+  },
+  {
+    "name": "Weyburn Building Permit Reports",
+    "level": "Municipal",
+    "jurisdiction": "Weyburn",
+    "category": "planning-zoning",
+    "type": "Building permits",
+    "description": "Monthly building permit reports for the City of Weyburn, 2021–2026, plus annual summary reports back to 2018. Each monthly report lists permits issued by type, value, and location — track construction activity and development trends in southeast Saskatchewan.",
+    "url": "https://www.weyburn.ca/services/building-planning/building-permit-reports/",
+    "tags": [
+      "Weyburn",
+      "building permits",
+      "construction",
+      "Saskatchewan",
+      "PDF",
+      "planning"
+    ],
+    "dateAdded": "2026-06-25"
+  },
+  {
+    "name": "Cambridge Council Meeting Video Archive",
+    "level": "Municipal",
+    "jurisdiction": "Cambridge",
+    "category": "council",
+    "type": "Video archive",
+    "description": "Official YouTube channel archiving City of Cambridge Council, Special Council, and Planning & Statutory Public Meeting recordings, posted regularly through 2026. Full-length meeting videos searchable by date — track council decisions, public hearings, and development approvals without attending in person.",
+    "url": "https://www.youtube.com/@CityofCambridgeOn",
+    "tags": [
+      "council",
+      "video archive",
+      "Cambridge",
+      "meetings",
+      "planning",
+      "youtube",
+      "Ontario"
+    ],
+    "dateAdded": "2026-06-25"
+  },
+  {
+    "name": "Barrie Council Meeting Video Archive",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "council",
+    "type": "Video archive",
+    "description": "Official YouTube channel archiving City of Barrie Council, General Committee, Finance & Responsible Governance, Infrastructure, and Affordability Committee meeting recordings, posted regularly through 2026. Full-length videos searchable by date — complements the existing eScribe agendas portal for tracking votes and debates.",
+    "url": "https://www.youtube.com/@cityofbarrie",
+    "tags": [
+      "council",
+      "video archive",
+      "Barrie",
+      "meetings",
+      "committees",
+      "youtube",
+      "Ontario"
+    ],
+    "dateAdded": "2026-06-25"
   }
 ]
