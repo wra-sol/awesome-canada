@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 34
-last_run: 2026-06-23T12:00:00Z
+stable_runs: 36
+last_run: 2026-06-25T12:00:00Z
 last_status: ok
-notes: Rebuilt with 912 resources. Deploy successful, site HTTP 200. Data quality note: 788 entries have dateAdded in 2025-2030 range (pseudo-dates from build script backfill for originally missing dates) — daily maintenance job is gradually correcting these.
+notes: Rebuilt with 914 resources (Guelph Transit GTFS + Oakville Transit GTFS from data commit 29fdf34 now reflected in built site; previous built site was stale at 912). Data quality note: all 914 entries have dateAdded; 788 entries have dateAdded in 2025-2030 range (pseudo-dates from build script backfill for originally missing dates) — daily maintenance job is gradually correcting these.
