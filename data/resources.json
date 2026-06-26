@@ -14078,5 +14078,104 @@
       "Ontario"
     ],
     "dateAdded": "2026-06-25"
+  },
+  {
+    "name": "Lethbridge Transit GTFS",
+    "level": "Municipal",
+    "jurisdiction": "Lethbridge",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Direct GTFS.zip download of Lethbridge Transit bus schedules, routes, stops, and shapes. Hosted on the City's GIS server and not indexed by Transitland — a hard-to-find feed. Updated with each service change; useful for trip planners, mobility apps, and transit analysis in southern Alberta.",
+    "url": "https://gis.lethbridge.ca/OpenData/DataSets/GTFS_Transit_Data.zip",
+    "tags": [
+      "gtfs",
+      "transit",
+      "lethbridge",
+      "bus",
+      "schedules",
+      "routes",
+      "zip"
+    ],
+    "dateAdded": "2026-06-26"
+  },
+  {
+    "name": "St. Albert Open Data — Weekly Development Permit Decisions",
+    "level": "Municipal",
+    "jurisdiction": "St. Albert",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Weekly-updated dataset of development permit decisions for the City of St. Albert, published as an ArcGIS Feature Service. Each record includes permit details, location, and decision status — download as CSV, GeoJSON, or shapefile, or query via REST API. Useful for tracking recent development approvals and construction activity in the Edmonton metro region without filing a FOIP request.",
+    "url": "https://data.stalbert.ca/datasets/d2a5c5c7b7d94f7eb12b587509228eb6/about",
+    "tags": [
+      "st. albert",
+      "alberta",
+      "development permits",
+      "planning",
+      "construction",
+      "csv",
+      "geojson",
+      "shapefile",
+      "api"
+    ],
+    "dateAdded": "2026-06-26"
+  },
+  {
+    "name": "New Westminster Open Data — Building & Plumbing Permits",
+    "level": "Municipal",
+    "jurisdiction": "New Westminster",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Dataset of building and plumbing permits issued in the City of New Westminster, published as an ArcGIS Feature Service. Download as CSV, GeoJSON, or shapefile, or query via REST API to filter by permit type, status, date, and location. Useful for tracking construction activity, development trends, and neighbourhood change in Metro Vancouver.",
+    "url": "https://opendata.newwestcity.ca/datasets/59558177b3944a51855cfada5e12acbc/about",
+    "tags": [
+      "new westminster",
+      "british columbia",
+      "building permits",
+      "planning",
+      "construction",
+      "csv",
+      "geojson",
+      "shapefile",
+      "api"
+    ],
+    "dateAdded": "2026-06-26"
+  },
+  {
+    "name": "Brantford Council Agendas and Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Brantford",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Downloadable PDF agenda packages and minutes for City of Brantford Council, Committee of the Whole, and Committee of Adjustment meetings. Browse by meeting date to track motions, decisions, and public delegations; a live meeting calendar is at calendar.brantford.ca/meetings. First council data source for Brantford, Ontario.",
+    "url": "https://www.brantford.ca/your-government/city-council/agendas-and-minutes/",
+    "tags": [
+      "council",
+      "Brantford",
+      "agendas",
+      "minutes",
+      "meetings",
+      "PDF",
+      "Ontario"
+    ],
+    "dateAdded": "2026-06-26"
+  },
+  {
+    "name": "Brantford Budget and Finance",
+    "level": "Municipal",
+    "jurisdiction": "Brantford",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Download City of Brantford annual operating and capital budgets (2024-2026), multi-year budget plans, budget summaries, and the mayor's budget messages as direct PDFs. Includes capital budget summary and net operating budget breakdowns — useful for fiscal accountability and tracking spending priorities in Brantford, Ontario.",
+    "url": "https://www.brantford.ca/your-government/city-budget/",
+    "tags": [
+      "budget",
+      "Brantford",
+      "operating budget",
+      "capital budget",
+      "PDF",
+      "Ontario",
+      "transparency"
+    ],
+    "dateAdded": "2026-06-26"
   }
 ]
