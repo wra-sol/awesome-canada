@@ -14176,5 +14176,107 @@
       "transparency"
     ],
     "dateAdded": "2026-06-26"
+  },
+  {
+    "name": "Abbotsford Development Data — Development Application Tracker",
+    "level": "Municipal",
+    "jurisdiction": "Abbotsford",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Live searchable reporting system tracking development activity in Abbotsford — covers development variance permits (in progress, issued current/previous year, with approval in principle), instream development applications, rezoning applications (at 3rd reading, in progress, final approval current/previous year), and subdivision applications (in progress, final approval, preliminary layout approvals). Each report lists application details, addresses, and status; export results to CSV, Excel, or PDF. Useful for monitoring construction, land use change, and development trends without filing a FOI request.",
+    "url": "https://www.abbotsford.ca/developmentdata",
+    "tags": [
+      "Abbotsford",
+      "development permits",
+      "rezoning",
+      "subdivision",
+      "planning",
+      "construction",
+      "British Columbia",
+      "csv",
+      "pdf"
+    ],
+    "dateAdded": "2026-06-27"
+  },
+  {
+    "name": "Abbotsford Council — Agendas, Minutes & Video",
+    "level": "Municipal",
+    "jurisdiction": "Abbotsford",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "City of Abbotsford council and committee meeting portal with downloadable PDF agendas and minutes via eScribe and CivicWeb document repositories, plus a live stream and recorded video of council meetings. Browse by meeting date to track motions, decisions, public hearings, and delegations; download the 2026 council meeting calendar as a PDF.",
+    "url": "https://www.abbotsford.ca/city-hall/council-committee-meetings/agendas-minutes-and-videos",
+    "tags": [
+      "council",
+      "Abbotsford",
+      "agendas",
+      "minutes",
+      "video",
+      "meetings",
+      "PDF",
+      "British Columbia",
+      "eScribe"
+    ],
+    "dateAdded": "2026-06-27"
+  },
+  {
+    "name": "Burnaby Council — eScribe Agendas, Minutes & Video",
+    "level": "Municipal",
+    "jurisdiction": "Burnaby",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "City of Burnaby council meetings hub with an eScribe searchable agenda and minutes portal, live-streamed and recorded council meetings via the city's video system, and historical minutes back to 2015 through the Heritage Burnaby archive. Download 2026 council and advisory body meeting calendars as PDFs; browse agendas, minutes, and reports by meeting date to track votes, public hearings, and decisions.",
+    "url": "https://www.burnaby.ca/our-city/meetings-and-public-hearings",
+    "tags": [
+      "council",
+      "Burnaby",
+      "agendas",
+      "minutes",
+      "video",
+      "eScribe",
+      "livestream",
+      "PDF",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-06-27"
+  },
+  {
+    "name": "Selkirk Council & Committee Minutes (CivicWeb)",
+    "level": "Municipal",
+    "jurisdiction": "Selkirk",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Searchable CivicWeb document portal for City of Selkirk council and committee agendas, minutes, and reports. Browse by meeting date and document type to download PDF agendas and track motions, decisions, and public hearings for this Manitoba city of ~10,000. First council data source for Selkirk.",
+    "url": "https://selkirk.civicweb.net/Portal/",
+    "tags": [
+      "council",
+      "Selkirk",
+      "agendas",
+      "minutes",
+      "CivicWeb",
+      "Manitoba",
+      "meetings",
+      "PDF"
+    ],
+    "dateAdded": "2026-06-27"
+  },
+  {
+    "name": "Selkirk Financial Plan & Audited Statements",
+    "level": "Municipal",
+    "jurisdiction": "Selkirk",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Download City of Selkirk annual financial plans (2024–2026) and audited consolidated financial statements (2020–2024) as direct PDFs, plus financial plan presentations. Covers operating and capital budgets — useful for fiscal accountability and tracking spending in this Manitoba city. First budget/finance data source for Selkirk.",
+    "url": "https://www.myselkirk.ca/city-government/city-administration/financialplan/",
+    "tags": [
+      "budget",
+      "Selkirk",
+      "financial plan",
+      "audited statements",
+      "PDF",
+      "Manitoba",
+      "transparency"
+    ],
+    "dateAdded": "2026-06-27"
   }
 ]
