@@ -14279,5 +14279,100 @@
       "transparency"
     ],
     "dateAdded": "2026-06-27"
+  },
+  {
+    "name": "Rouyn-Noranda Open Data Portal (ArcGIS Hub)",
+    "level": "Municipal",
+    "jurisdiction": "Rouyn-Noranda",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "ArcGIS Hub with 19 Feature Service datasets (CC-BY-4.0) including the zoning plan (plan de zonage), property assessment units (unités d'évaluation), building footprints (empreintes de bâtiments), transit stops and bus routes, road network, bike network, hydrography, electoral districts, and water protection areas. Query datasets via the OGC API at /api/search/v1/collections/all/items or download as GeoJSON/CSV from each dataset's landing page. First open data entry for Rouyn-Noranda.",
+    "url": "https://donnees-ouvertes-vrn.opendata.arcgis.com/",
+    "tags": [
+      "Rouyn-Noranda",
+      "open data",
+      "zoning",
+      "assessment",
+      "transit",
+      "building footprints",
+      "geojson",
+      "api",
+      "Abitibi"
+    ],
+    "dateAdded": "2026-06-28"
+  },
+  {
+    "name": "Shawinigan Council — Agendas & Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Shawinigan",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Downloadable PDF agendas (ordre du jour) and minutes (procès-verbaux) for all regular and special Shawinigan city council meetings, plus the annual meeting calendar PDF. Updated with each meeting — includes 2026 sessions. Direct PDF links for each session with no login wall. First council entry for Shawinigan.",
+    "url": "https://www.shawinigan.ca/ville/conseil-municipal/seances-du-conseil/",
+    "tags": [
+      "Shawinigan",
+      "council",
+      "agendas",
+      "minutes",
+      "pdf",
+      "Mauricie"
+    ],
+    "dateAdded": "2026-06-28"
+  },
+  {
+    "name": "Repentigny Council — Agendas & Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Repentigny",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Downloadable PDF agendas (ordre du jour) and minutes (procès-verbal) for Repentigny city council meetings, including special sessions. Direct PDF links for each meeting from 2025–2026. Useful for tracking council decisions, by-law adoptions, and zoning approvals in this Lanaudière city. First council entry for Repentigny.",
+    "url": "https://repentigny.ca/la-ville/vie-democratique/conseil-municipal",
+    "tags": [
+      "Repentigny",
+      "council",
+      "agendas",
+      "minutes",
+      "pdf",
+      "Lanaudière"
+    ],
+    "dateAdded": "2026-06-28"
+  },
+  {
+    "name": "Repentigny Budget & Finance",
+    "level": "Municipal",
+    "jurisdiction": "Repentigny",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Repentigny's annual municipal budgets from 2015 to 2026, including budget summaries and the mayor's budget speech. Useful for tracking spending priorities, tax rate changes, and capital project allocations over a decade. First budget entry for Repentigny.",
+    "url": "https://repentigny.ca/la-ville/a-propos/finances",
+    "tags": [
+      "Repentigny",
+      "budget",
+      "finance",
+      "pdf",
+      "Lanaudière",
+      "transparency"
+    ],
+    "dateAdded": "2026-06-28"
+  },
+  {
+    "name": "Rimouski Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Rimouski",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Rimouski's annual budgets (2022–2026), audited financial reports, mayor's financial situation report, salary and expense disclosure (rémunération et allocation de dépenses), public contracts list (liste des contrats), and three-year capital investment plan (PQI). Key proactive disclosure resource covering both budget and vendor payment transparency. First budget entry for Rimouski.",
+    "url": "https://rimouski.ca/ville/administration/budget-et-rapports-financiers",
+    "tags": [
+      "Rimouski",
+      "budget",
+      "finance",
+      "salary disclosure",
+      "contracts",
+      "pdf",
+      "Bas-Saint-Laurent",
+      "transparency"
+    ],
+    "dateAdded": "2026-06-28"
   }
 ]
