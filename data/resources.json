@@ -14377,5 +14377,106 @@
       "transparency"
     ],
     "dateAdded": "2026-06-28"
+  },
+  {
+    "name": "Greater Sudbury Open Data — Building Permits",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Listing of all building permits from the city's Pronto/Accela permit system of record. Download as CSV, GeoJSON, or Shapefile, or query via ArcGIS REST API. Use to track construction activity, permit types, and development trends across Greater Sudbury. CC-BY-SA licensed. First planning-zoning depth entry for Greater Sudbury beyond its open-data portal.",
+    "url": "https://opendata.greatersudbury.ca/datasets/Sudbury::building-permits",
+    "tags": [
+      "building permits",
+      "construction",
+      "Greater Sudbury",
+      "Accela",
+      "csv",
+      "geojson",
+      "shapefile",
+      "api"
+    ],
+    "dateAdded": "2026-06-29"
+  },
+  {
+    "name": "Greater Sudbury Open Data — Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Zoning, community, township, and parcel boundary layer for the entire City of Greater Sudbury. Download as CSV, GeoJSON, or Shapefile, or query via ArcGIS REST API. Look up the zoning designation for any property to understand permitted land uses and development constraints. CC-BY-SA licensed. Complements the building permits dataset for comprehensive planning research.",
+    "url": "https://opendata.greatersudbury.ca/datasets/Sudbury::zoning",
+    "tags": [
+      "zoning",
+      "land use",
+      "boundaries",
+      "parcels",
+      "Greater Sudbury",
+      "csv",
+      "geojson",
+      "shapefile",
+      "api"
+    ],
+    "dateAdded": "2026-06-29"
+  },
+  {
+    "name": "Laval Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Laval",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Laval's annual operating budgets (2020–2026), three-year capital investment programs (PTI), consolidated financial reports (2019–2024), councillor remuneration disclosures (rémunération élus, 2019–2024), credit rating reports, and public accountability reports (reddition de comptes). Quebec's third-largest city (~440k population). First budget entry for Laval, covering both fiscal planning and salary transparency.",
+    "url": "https://www.laval.ca/organisation-municipale/budgets-rapports-financiers/",
+    "tags": [
+      "Laval",
+      "budget",
+      "financial reports",
+      "salary disclosure",
+      "capital plan",
+      "credit rating",
+      "pdf",
+      "Quebec",
+      "transparency"
+    ],
+    "dateAdded": "2026-06-29"
+  },
+  {
+    "name": "Whitby Zoning By-law Interactive Map",
+    "level": "Municipal",
+    "jurisdiction": "Whitby",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Interactive web app to look up zoning by-law designations for any property in Whitby. Search by address or click on the map to see the applicable zone category, permitted uses, and by-law references. Useful for property owners, developers, real estate researchers, and urban planning analysis. Hosted on the Whitby GeoHub ArcGIS platform. First planning-zoning depth entry for Whitby beyond its GeoHub portal.",
+    "url": "https://whitby.maps.arcgis.com/apps/instant/sidebar/index.html?appid=fe85cfc5d68a4661b4ececa3027e1541",
+    "tags": [
+      "Whitby",
+      "zoning",
+      "by-law",
+      "interactive map",
+      "property lookup",
+      "planning",
+      "ArcGIS"
+    ],
+    "dateAdded": "2026-06-29"
+  },
+  {
+    "name": "Whitby Find Your Ward",
+    "level": "Municipal",
+    "jurisdiction": "Whitby",
+    "category": "council",
+    "type": "Interactive map",
+    "description": "Address-based ward lookup tool for Whitby residents. Enter a civic address to identify your electoral ward and corresponding councillor. Useful for voter engagement, community organizing, campaigns, and understanding municipal representation boundaries. Hosted on the Whitby GeoHub ArcGIS platform. First council/democracy depth entry for Whitby beyond its GeoHub portal.",
+    "url": "https://whitby.maps.arcgis.com/apps/instant/sidebar/index.html?appid=08adc676adc2432e85fc05fe43e18ebe",
+    "tags": [
+      "Whitby",
+      "ward",
+      "councillor",
+      "electoral",
+      "voter",
+      "interactive map",
+      "council",
+      "ArcGIS"
+    ],
+    "dateAdded": "2026-06-29"
   }
 ]
