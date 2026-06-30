@@ -1560,7 +1560,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "CBRM council meeting agendas, minutes, and video for the Cape Breton Regional Municipality.",
-    "url": "https://www.cbrm.ns.ca/municipal-government/mayor-council/council-meetings",
+    "url": "https://cbrm.ns.ca/city-hall/committee-council-meetings/",
     "tags": [
       "cape breton",
       "council",
@@ -1576,7 +1576,7 @@
     "category": "council",
     "type": "Council minutes archive",
     "description": "Council minute archives from 1970 to present on Cornwall open data — searchable metadata with document links for accountability research.",
-    "url": "https://www.cornwall.ca/en/city-hall/open-data.aspx",
+    "url": "https://www.cornwall.ca/opendata",
     "tags": [
       "cornwall",
       "council",
@@ -1787,7 +1787,7 @@
     "category": "council",
     "type": "Agendas and minutes",
     "description": "Browse London City Council and standing committee agendas, minutes, and video recordings.",
-    "url": "https://www.london.ca/city-hall/mayor-council/council-committee-meetings",
+    "url": "https://london.ca/government/council-civic-administration/city-council",
     "tags": [
       "london",
       "council",
@@ -1982,7 +1982,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Thunder Bay City Council meeting agendas, minutes, and webcasts.",
-    "url": "https://www.thunderbay.ca/en/city-hall/council/council-meetings.aspx",
+    "url": "https://www.thunderbay.ca/en/city-hall/city-council-thunder-bay.aspx",
     "tags": [
       "thunder bay",
       "council",
@@ -2996,7 +2996,7 @@
     "category": "elections",
     "type": "Hansard",
     "description": "Quebec National Assembly debates, committee proceedings, and bill tracking",
-    "url": "https://www.assnat.qc.ca/en/work/assembly-business/journals-debates.html",
+    "url": "https://www.assnat.qc.ca/en/travaux-parlementaires/journaux-debats.html",
     "tags": [
       "Quebec",
       "Hansard"
@@ -3652,7 +3652,7 @@
     "category": "environment",
     "type": "Water quality reports",
     "description": "Annual and summary drinking water quality test results for City of North Bay municipal water system — PDF reports by year.",
-    "url": "https://www.northbay.ca/en/living-here/water-quality.aspx",
+    "url": "https://northbay.ca/services-payments/water-wastewater/drinking-water/",
     "tags": [
       "north bay",
       "water quality",
@@ -4705,7 +4705,7 @@
     "category": "health-region",
     "type": "Inspection reports",
     "description": "VCH restaurant and food service inspection reports for Vancouver Coastal region facilities.",
-    "url": "https://www.vch.ca/en/health-topics/environmental-health-inspections",
+    "url": "https://inspections.vch.ca/",
     "tags": [
       "bc",
       "vancouver",
@@ -4769,7 +4769,7 @@
     "category": "health-region",
     "type": "Food inspection data",
     "description": "Food premises inspection records for Peel Region with facility name, inspection date, infractions, and location — updated weekly.",
-    "url": "https://opendata.peelregion.ca/",
+    "url": "https://data.peelregion.ca/dataset/food-check",
     "tags": [
       "peel",
       "food safety",
@@ -4934,7 +4934,7 @@
     "category": "heritage",
     "type": "Heritage register",
     "description": "Burlington municipal heritage register of designated and listed properties with conservation district information.",
-    "url": "https://www.burlington.ca/en/your-city/heritage.aspx",
+    "url": "https://www.burlington.ca/en/planning-and-development/municipal-cultural-heritage-register.aspx",
     "tags": [
       "burlington",
       "heritage",
@@ -5063,7 +5063,7 @@
     "category": "heritage",
     "type": "Heritage register",
     "description": "City of Ottawa heritage register and mapping of designated properties and heritage conservation districts.",
-    "url": "https://ottawa.ca/en/planning-development-and-construction/heritage-conservation/heritage-register",
+    "url": "https://ottawa.ca/en/heritage-register",
     "tags": [
       "ottawa",
       "heritage",
@@ -6071,7 +6071,9 @@
       "registry",
       "search"
     ],
-    "dateAdded": "2027-05-21"
+    "dateAdded": "2027-05-21",
+    "status": "dead",
+    "statusNote": "NB lobbyist registry page removed from snb.ca; no replacement found as of June 2026"
   },
   {
     "name": "Newfoundland and Labrador Lobbyist Registry Search",
@@ -6103,7 +6105,9 @@
       "registry",
       "search"
     ],
-    "dateAdded": "2027-05-27"
+    "dateAdded": "2027-05-27",
+    "status": "dead",
+    "statusNote": "NS lobbyist registry page removed from novascotia.ca; no replacement found as of June 2026"
   },
   {
     "name": "Ontario Lobbyist Registry — Public Search",
@@ -7528,7 +7532,7 @@
     "category": "open-data",
     "type": "Open data catalogue",
     "description": "City of London open data catalogue with property, transportation, and planning datasets for bulk download.",
-    "url": "https://www.london.ca/city-hall/open-data",
+    "url": "https://london.ca/government/council-civic-administration/open-data",
     "tags": [
       "london",
       "ontario",
@@ -7746,7 +7750,7 @@
     "category": "open-data",
     "type": "Open data portal",
     "description": "City of Niagara Falls open data service with downloadable municipal datasets.",
-    "url": "https://www.niagarafalls.ca/services/open/data",
+    "url": "https://niagarafalls.ca/city-government/corporate-initiatives/open-data/",
     "tags": [
       "niagara falls",
       "ontario",
@@ -10209,7 +10213,7 @@
     "category": "school-board",
     "type": "School boundary lookup",
     "description": "OCDSB interactive school locator — find elementary and secondary schools by home address within Ottawa.",
-    "url": "https://ocdsb.ca/school-locator",
+    "url": "https://www.ocdsb.ca/our-schools/school-locator",
     "tags": [
       "ocdsb",
       "ottawa",
@@ -10258,7 +10262,7 @@
     "category": "school-board",
     "type": "School directory",
     "description": "Vancouver School District school finder with programs, catchments, and facility information for public schools.",
-    "url": "https://www.vsb.bc.ca/schools/find-a-school",
+    "url": "https://www.vsb.bc.ca/schools",
     "tags": [
       "vancouver",
       "vsb",
@@ -14373,5 +14377,106 @@
       "transparency"
     ],
     "dateAdded": "2026-06-28"
+  },
+  {
+    "name": "Greater Sudbury Open Data — Building Permits",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Listing of all building permits from the city's Pronto/Accela permit system of record. Download as CSV, GeoJSON, or Shapefile, or query via ArcGIS REST API. Use to track construction activity, permit types, and development trends across Greater Sudbury. CC-BY-SA licensed. First planning-zoning depth entry for Greater Sudbury beyond its open-data portal.",
+    "url": "https://opendata.greatersudbury.ca/datasets/Sudbury::building-permits",
+    "tags": [
+      "building permits",
+      "construction",
+      "Greater Sudbury",
+      "Accela",
+      "csv",
+      "geojson",
+      "shapefile",
+      "api"
+    ],
+    "dateAdded": "2026-06-29"
+  },
+  {
+    "name": "Greater Sudbury Open Data — Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Zoning, community, township, and parcel boundary layer for the entire City of Greater Sudbury. Download as CSV, GeoJSON, or Shapefile, or query via ArcGIS REST API. Look up the zoning designation for any property to understand permitted land uses and development constraints. CC-BY-SA licensed. Complements the building permits dataset for comprehensive planning research.",
+    "url": "https://opendata.greatersudbury.ca/datasets/Sudbury::zoning",
+    "tags": [
+      "zoning",
+      "land use",
+      "boundaries",
+      "parcels",
+      "Greater Sudbury",
+      "csv",
+      "geojson",
+      "shapefile",
+      "api"
+    ],
+    "dateAdded": "2026-06-29"
+  },
+  {
+    "name": "Laval Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Laval",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Laval's annual operating budgets (2020–2026), three-year capital investment programs (PTI), consolidated financial reports (2019–2024), councillor remuneration disclosures (rémunération élus, 2019–2024), credit rating reports, and public accountability reports (reddition de comptes). Quebec's third-largest city (~440k population). First budget entry for Laval, covering both fiscal planning and salary transparency.",
+    "url": "https://www.laval.ca/organisation-municipale/budgets-rapports-financiers/",
+    "tags": [
+      "Laval",
+      "budget",
+      "financial reports",
+      "salary disclosure",
+      "capital plan",
+      "credit rating",
+      "pdf",
+      "Quebec",
+      "transparency"
+    ],
+    "dateAdded": "2026-06-29"
+  },
+  {
+    "name": "Whitby Zoning By-law Interactive Map",
+    "level": "Municipal",
+    "jurisdiction": "Whitby",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Interactive web app to look up zoning by-law designations for any property in Whitby. Search by address or click on the map to see the applicable zone category, permitted uses, and by-law references. Useful for property owners, developers, real estate researchers, and urban planning analysis. Hosted on the Whitby GeoHub ArcGIS platform. First planning-zoning depth entry for Whitby beyond its GeoHub portal.",
+    "url": "https://whitby.maps.arcgis.com/apps/instant/sidebar/index.html?appid=fe85cfc5d68a4661b4ececa3027e1541",
+    "tags": [
+      "Whitby",
+      "zoning",
+      "by-law",
+      "interactive map",
+      "property lookup",
+      "planning",
+      "ArcGIS"
+    ],
+    "dateAdded": "2026-06-29"
+  },
+  {
+    "name": "Whitby Find Your Ward",
+    "level": "Municipal",
+    "jurisdiction": "Whitby",
+    "category": "council",
+    "type": "Interactive map",
+    "description": "Address-based ward lookup tool for Whitby residents. Enter a civic address to identify your electoral ward and corresponding councillor. Useful for voter engagement, community organizing, campaigns, and understanding municipal representation boundaries. Hosted on the Whitby GeoHub ArcGIS platform. First council/democracy depth entry for Whitby beyond its GeoHub portal.",
+    "url": "https://whitby.maps.arcgis.com/apps/instant/sidebar/index.html?appid=08adc676adc2432e85fc05fe43e18ebe",
+    "tags": [
+      "Whitby",
+      "ward",
+      "councillor",
+      "electoral",
+      "voter",
+      "interactive map",
+      "council",
+      "ArcGIS"
+    ],
+    "dateAdded": "2026-06-29"
   }
 ]
