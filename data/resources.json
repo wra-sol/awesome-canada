@@ -14478,5 +14478,96 @@
       "ArcGIS"
     ],
     "dateAdded": "2026-06-29"
+  },
+  {
+    "name": "Steinbach — Property & Development Info Map (Zoning)",
+    "level": "Municipal",
+    "jurisdiction": "Steinbach",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "ArcGIS Experience interactive map for property and zoning lookup in Steinbach. Search by address or parcel to view zoning classification, development regulations, and property information. Useful for real estate research, development planning, and community organizing. First planning-zoning depth entry for Steinbach beyond its council video archive.",
+    "url": "https://www.steinbach.ca/zoning-map/",
+    "tags": [
+      "Steinbach",
+      "zoning",
+      "property",
+      "interactive map",
+      "planning",
+      "ArcGIS"
+    ],
+    "dateAdded": "2026-06-30"
+  },
+  {
+    "name": "Steinbach — Annual Financial Plans & Statements",
+    "level": "Municipal",
+    "jurisdiction": "Steinbach",
+    "category": "budget",
+    "type": "Financial documents",
+    "description": "Direct PDF downloads of Steinbach financial plans and audited financial statements, 2018–2026. Includes signed annual financial plans and consolidated financial statements. Useful for fiscal accountability research, budget analysis, and understanding municipal spending trends. First budget depth entry for Steinbach.",
+    "url": "https://www.steinbach.ca/departments-and-services/admin-and-human-resources/financial-documents/",
+    "tags": [
+      "Steinbach",
+      "budget",
+      "financial statements",
+      "audit",
+      "PDF",
+      "transparency"
+    ],
+    "dateAdded": "2026-06-30"
+  },
+  {
+    "name": "Thompson — Council Agendas & Minutes (AllNetMeetings)",
+    "level": "Municipal",
+    "jurisdiction": "Thompson",
+    "category": "council",
+    "type": "Council portal",
+    "description": "Searchable AllNetMeetings portal with agendas, minutes, and attachments for Thompson council meetings, committees, and public hearings. Browse 1,200+ meetings by type and date, with downloadable PDF agendas and minutes. Also includes video preview links for recent meetings. First council depth entry for Thompson beyond its financial reports page.",
+    "url": "https://thompson.allnetmeetings.com/pubs/agendaCategories.aspx",
+    "tags": [
+      "Thompson",
+      "council",
+      "agendas",
+      "minutes",
+      "public hearings",
+      "PDF",
+      "video"
+    ],
+    "dateAdded": "2026-06-30"
+  },
+  {
+    "name": "Weyburn — Council Meeting Video Archive",
+    "level": "Municipal",
+    "jurisdiction": "Weyburn",
+    "category": "council",
+    "type": "Video archive",
+    "description": "YouTube archive of Weyburn City Council regular and special meeting videos, with timestamps. Covers meetings from 2023–present. Useful for citizens, journalists, and researchers who want to review council deliberations, public hearings, and votes without attending in person. First council depth entry for Weyburn beyond its building permit reports.",
+    "url": "https://www.youtube.com/channel/UCOEjIuL-2e_jCf2lJa2m02A",
+    "tags": [
+      "Weyburn",
+      "council",
+      "video",
+      "YouTube",
+      "archive",
+      "livestream"
+    ],
+    "dateAdded": "2026-06-30"
+  },
+  {
+    "name": "Dauphin — Monthly Building Statistics",
+    "level": "Municipal",
+    "jurisdiction": "Dauphin",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Monthly PDF downloads of Dauphin building permit statistics showing construction activity by type, value, and month. Updated regularly with current-year data. Useful for tracking local development trends, construction market analysis, and economic research. First planning-zoning depth entry for Dauphin beyond its financial plans page.",
+    "url": "https://www.dauphin.ca/p/monthly-building-statistics",
+    "tags": [
+      "Dauphin",
+      "building permits",
+      "statistics",
+      "construction",
+      "PDF",
+      "monthly"
+    ],
+    "dateAdded": "2026-06-30"
   }
 ]
