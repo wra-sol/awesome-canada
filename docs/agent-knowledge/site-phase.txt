@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 41
-last_run: 2026-06-30T11:06:59Z
+stable_runs: 42
+last_run: 2026-07-01T11:05:58Z
 last_status: ok
-notes: Rebuilt with 939 resources — picked up 5 new entries from data commit c8f4d20 (Greater Sudbury building permits + zoning, Laval budget, Whitby zoning map + ward lookup). Previous build was stale at 934. Build, push, Actions deploy all succeeded; live site returns HTTP 200 with 939 resources confirmed. All entries have dateAdded.
+notes: Rebuilt with 944 resources — picked up 5 new entries from data scouting (Steinbach zoning + budget, Thompson council, Weyburn council video, Dauphin building stats). Previous build was stale at 939. Build, push, Actions deploy all succeeded; live site returns HTTP 200 with 944 resources confirmed. All entries have dateAdded.
