@@ -106,6 +106,8 @@ const JURISDICTION_TO_REGION = {
   "Prince Albert":             'sk',
   "Lloydminster":              'sk',
   "Weyburn":                   'sk',
+  "North Battleford":          'sk',
+  "Estevan":                   'sk',
 
   "Brandon":                   'mb',
   "Winnipeg":                  'mb',
@@ -211,6 +213,7 @@ const JURISDICTION_TO_REGION = {
   'East Hants':                'atlantic',
   'Miramichi':                 'atlantic',
   'Truro':                     'atlantic',
+  'Stratford':                 'atlantic',
 
   'Yukon':                     'north',
   'Northwest Territories':     'north',
