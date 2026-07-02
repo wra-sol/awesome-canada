@@ -14569,5 +14569,102 @@
       "monthly"
     ],
     "dateAdded": "2026-06-30"
+  },
+  {
+    "name": "CBRM — Budget and Financial Documents",
+    "level": "Municipal",
+    "jurisdiction": "Cape Breton",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of CBRM operating budgets, annual reports, and consolidated financial statements. Covers fiscal years from 2022–2026. Useful for tracking municipal spending, capital allocations, and fiscal health in Nova Scotia's second-largest municipality.",
+    "url": "https://cbrm.ns.ca/city-hall/budget-documents/",
+    "tags": [
+      "Cape Breton",
+      "budget",
+      "financial statements",
+      "operating budget",
+      "annual report",
+      "PDF",
+      "Nova Scotia",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-01"
+  },
+  {
+    "name": "North Battleford — Budget Documents",
+    "level": "Municipal",
+    "jurisdiction": "North Battleford",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of City of North Battleford approved budgets from 2018–2026, including operating and capital plans plus the 2025–2029 strategic plan. First budget transparency entry for this Saskatchewan mid-size city.",
+    "url": "https://www.cityofnb.ca/our-city-government/budgets-and-finances/",
+    "tags": [
+      "North Battleford",
+      "budget",
+      "capital plan",
+      "financial plan",
+      "PDF",
+      "Saskatchewan",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-01"
+  },
+  {
+    "name": "Stratford — Town Council Expenses",
+    "level": "Municipal",
+    "jurisdiction": "Stratford",
+    "category": "budget",
+    "type": "Expense reports",
+    "description": "Annual PDF downloads of Stratford Town Council expense claims and travel expenses, 2016–2025. Itemized spending reports for mayor and councillors. First budget transparency entry for this PEI municipality.",
+    "url": "https://townofstratford.ca/government-services/town-governance/town-council-expenses/",
+    "tags": [
+      "Stratford",
+      "council expenses",
+      "travel expenses",
+      "salary disclosure",
+      "PDF",
+      "PEI",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-01"
+  },
+  {
+    "name": "Estevan — Council Agendas & Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Estevan",
+    "category": "council",
+    "type": "Council documents",
+    "description": "Downloadable PDF agendas and minutes for Estevan City Council regular meetings. Current 2026 meetings available with archived records going back several years. First council democracy entry for this Saskatchewan energy-sector city.",
+    "url": "https://estevan.ca/council-meetings-and-agendas-2-2/",
+    "tags": [
+      "Estevan",
+      "council",
+      "agendas",
+      "minutes",
+      "PDF",
+      "Saskatchewan",
+      "meetings"
+    ],
+    "dateAdded": "2026-07-01"
+  },
+  {
+    "name": "Moose Jaw — Financial & Budget Reports",
+    "level": "Municipal",
+    "jurisdiction": "Moose Jaw",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Moose Jaw annual operating and capital budgets (2023–2025) plus quarterly financial reports (Q1–Q3 2025). Complements the existing Questica OpenBook interactive budget explorer with static document downloads for archival research and offline analysis.",
+    "url": "https://moosejaw.ca/financial-budget-reports/",
+    "tags": [
+      "Moose Jaw",
+      "budget",
+      "financial reports",
+      "quarterly",
+      "PDF",
+      "Saskatchewan",
+      "capital plan",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-01"
   }
 ]
