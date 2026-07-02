@@ -14666,5 +14666,90 @@
       "transparency"
     ],
     "dateAdded": "2026-07-01"
+  },
+  {
+    "name": "Yarmouth Interactive Zoning Map",
+    "level": "Municipal",
+    "jurisdiction": "Yarmouth",
+    "category": "planning-zoning",
+    "type": "Zoning map",
+    "description": "Interactive ArcGIS zoning lookup for properties in the Town of Yarmouth — search by address or parcel to view zoning district, land use rules, and permitted uses.",
+    "url": "https://experience.arcgis.com/experience/9aab24710afb426c81561c0af384ec5c",
+    "tags": [
+      "yarmouth",
+      "zoning",
+      "arcgis",
+      "map",
+      "planning"
+    ],
+    "dateAdded": "2026-07-02"
+  },
+  {
+    "name": "Bathurst Budget and Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Bathurst",
+    "category": "budget",
+    "type": "Financial documents",
+    "description": "Annual budgets and audited financial statements for the City of Bathurst from 2016 to 2026 — download PDFs for operating and capital budget breakdowns.",
+    "url": "https://www.bathurst.ca/en/services/city-hall/161/budget-documents",
+    "tags": [
+      "bathurst",
+      "budget",
+      "financial statements",
+      "pdf",
+      "audit"
+    ],
+    "dateAdded": "2026-07-02"
+  },
+  {
+    "name": "New Glasgow Audited Consolidated Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "New Glasgow",
+    "category": "budget",
+    "type": "Financial statements",
+    "description": "Downloadable audited consolidated financial statements for the Town of New Glasgow from fiscal 2018 through 2025.",
+    "url": "https://newglasgow.ca/audited-consolidated-financial-statements.html",
+    "tags": [
+      "new glasgow",
+      "budget",
+      "audit",
+      "financial statements",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-02"
+  },
+  {
+    "name": "New Glasgow Town Council Meeting Minutes",
+    "level": "Municipal",
+    "jurisdiction": "New Glasgow",
+    "category": "council",
+    "type": "Council minutes",
+    "description": "Archived town council meeting minutes for New Glasgow from 2019 to present — organized by year with PDF downloads.",
+    "url": "https://newglasgow.ca/town-council-meeting-minutes.html",
+    "tags": [
+      "new glasgow",
+      "council",
+      "minutes",
+      "pdf",
+      "agendas"
+    ],
+    "dateAdded": "2026-07-02"
+  },
+  {
+    "name": "New Glasgow Ward Map",
+    "level": "Municipal",
+    "jurisdiction": "New Glasgow",
+    "category": "planning-zoning",
+    "type": "Ward map",
+    "description": "PDF ward boundary map for the Town of New Glasgow showing six municipal council districts as of September 2024.",
+    "url": "https://www.newglasgow.ca/filelink/fileman-files/visitors/Ward%20Map/TNG_Ward_Map_September_2024.pdf",
+    "tags": [
+      "new glasgow",
+      "ward map",
+      "pdf",
+      "elections",
+      "boundaries"
+    ],
+    "dateAdded": "2026-07-02"
   }
 ]

@@ -214,6 +214,9 @@ const JURISDICTION_TO_REGION = {
   'Miramichi':                 'atlantic',
   'Truro':                     'atlantic',
   'Stratford':                 'atlantic',
+  'Yarmouth':                  'atlantic',
+  'Bathurst':                  'atlantic',
+  'New Glasgow':               'atlantic',
 
   'Yukon':                     'north',
   'Northwest Territories':     'north',
