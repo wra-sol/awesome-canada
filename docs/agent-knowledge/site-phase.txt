@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 43
-last_run: 2026-07-02T11:07:35Z
+stable_runs: 44
+last_run: 2026-07-03T11:06:00Z
 last_status: ok
-notes: Rebuilt with 949 resources — picked up 5 new entries from data scouting (Cape Breton, North Battleford, Estevan, Stratford, Moose Jaw). Build, push, Actions deploy all succeeded; live site returns HTTP 200 with 949 resources confirmed. All entries have dateAdded.
+notes: Rebuilt with 954 resources — picked up 5 new entries from data scouting. Build, push, Actions deploy all succeeded; live site returns HTTP 200 with 954 resources confirmed. All entries have dateAdded.
