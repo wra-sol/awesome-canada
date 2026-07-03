@@ -14751,5 +14751,98 @@
       "boundaries"
     ],
     "dateAdded": "2026-07-02"
+  },
+  {
+    "name": "Rouyn-Noranda Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Rouyn-Noranda",
+    "category": "budget",
+    "type": "Financial documents",
+    "description": "Direct PDF downloads of Rouyn-Noranda's 2026 municipal budget, three-year capital investment plan (PTI 2026-2028), the mayor's financial situation report for 2025, and the consolidated financial report for 2025. Includes operating and capital budget breakdowns for Quebec's largest city in Abitibi-Témiscamingue.",
+    "url": "https://www.rouyn-noranda.ca/ville/vie-democratique/budget-et-rapports-financiers",
+    "tags": [
+      "budget",
+      "Rouyn-Noranda",
+      "financial reports",
+      "PDF",
+      "Quebec",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-03"
+  },
+  {
+    "name": "Rouyn-Noranda Council Agendas & Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Rouyn-Noranda",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Downloadable PDF agendas (ordre du jour) and minutes (procès-verbaux) for all regular Rouyn-Noranda city council meetings. Direct PDF links for each 2026 session with no login wall. Track motions, decisions, and debates in Quebec's Abitibi-Témiscamingue region.",
+    "url": "https://www.rouyn-noranda.ca/ville/vie-democratique/seances-conseil",
+    "tags": [
+      "council",
+      "Rouyn-Noranda",
+      "agendas",
+      "minutes",
+      "PDF",
+      "Quebec"
+    ],
+    "dateAdded": "2026-07-03"
+  },
+  {
+    "name": "Stratford Council Agendas & Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Stratford",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "eScribe-linked meeting calendar with searchable regular council, committee, and advisory committee meetings for the Town of Stratford, PEI. Each meeting links to downloadable PDF agendas and minutes via the eScribe portal. Includes finance, heritage, energy, and licensing committees.",
+    "url": "https://calendar.stratford.ca/meetings",
+    "tags": [
+      "council",
+      "Stratford",
+      "agendas",
+      "minutes",
+      "eScribe",
+      "PDF",
+      "PEI"
+    ],
+    "dateAdded": "2026-07-03"
+  },
+  {
+    "name": "Bathurst Council Meetings & Agendas",
+    "level": "Municipal",
+    "jurisdiction": "Bathurst",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Bilingual council meeting portal with downloadable PDF agendas and minutes for regular City of Bathurst council meetings. Browse the annual meeting calendar and access individual session documents via secure direct links. Supports both English and French language access.",
+    "url": "https://www.bathurst.ca/en/council-meetings",
+    "tags": [
+      "council",
+      "Bathurst",
+      "agendas",
+      "minutes",
+      "PDF",
+      "New Brunswick",
+      "bilingual"
+    ],
+    "dateAdded": "2026-07-03"
+  },
+  {
+    "name": "Prince George Annual Reports & Corporate Plan",
+    "level": "Municipal",
+    "jurisdiction": "Prince George",
+    "category": "budget",
+    "type": "Annual reports",
+    "description": "Direct PDF downloads of the City of Prince George audited annual reports and strategic corporate plans from 2022 through 2025. Track municipal financial performance, capital projects, and long-term planning priorities for northern British Columbia's largest city.",
+    "url": "https://www.princegeorge.ca/city-hall/annual-report-strategic-plan-corporate-plan",
+    "tags": [
+      "budget",
+      "Prince George",
+      "annual report",
+      "corporate plan",
+      "PDF",
+      "British Columbia",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-03"
   }
 ]
