@@ -18,6 +18,7 @@ import os
 import time
 import concurrent.futures
 import urllib.request
+import urllib.parse
 import urllib.error
 import ssl
 import argparse
@@ -28,6 +29,11 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = REPO_ROOT / 'data' / 'resources.json'
 
 USER_AGENT = 'Mozilla/5.0 (compatible; AwesomeCanadaLinkChecker/1.0; +https://github.com/wra-sol/awesome-canada)'
+
+# Known false-positive domains: these block HEAD requests or data-center IPs,
+# returning timeouts even when the URL is valid. We retry with GET and a
+# browser-grade UA; if that also fails, we skip rather than flag as broken.
+FALSE_POSITIVE_DOMAINS = {'canada.ca'}
 
 RESULTS = {}  # url -> {status, status_code, redirect_to, error, duration}
 
@@ -89,6 +95,13 @@ def check_url(url, timeout=8):
             elif 'Connection reset' in reason:
                 return ('connection_reset', None, None, reason, duration)
             elif 'timed out' in reason.lower():
+                # Retry with GET for known false-positive domains
+                domain = urllib.parse.urlparse(url).netloc
+                if any(domain.endswith(d) for d in FALSE_POSITIVE_DOMAINS):
+                    retry = _retry_get(url, timeout, browser_ua=True)
+                    if retry[0] == 'ok':
+                        return retry
+                    return ('false_positive_timeout', None, None, f"timeout on {domain}, GET retry also failed", duration)
                 return ('timeout', None, None, reason, duration)
             else:
                 return ('error', None, None, reason, duration)
@@ -106,14 +119,20 @@ def check_url(url, timeout=8):
         return ('error', None, None, str(e), duration)
 
 
-def _retry_get(url, timeout):
-    """Retry URL with GET method (HEAD may be blocked)."""
+def _retry_get(url, timeout, browser_ua=False):
+    """Retry URL with GET method (HEAD may be blocked). Optionally use a browser UA."""
     start = time.time()
     try:
-        req = urllib.request.Request(url, method='GET', headers={
+        headers = {
             'User-Agent': USER_AGENT,
             'Accept': '*/*',
-        })
+        }
+        if browser_ua:
+            headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
+            headers['Accept'] = 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+            headers['Accept-Language'] = 'en-US,en;q=0.5'
+
+        req = urllib.request.Request(url, method='GET', headers=headers)
         ctx = ssl.create_default_context()
         ctx.check_hostname = True
         ctx.verify_mode = ssl.CERT_REQUIRED
@@ -164,7 +183,8 @@ def check_all_urls(data, timeout=8, max_workers=15):
     broken = []
     stats = {'ok': 0, 'redirect': 0, 'broken': 0, 'server_error': 0,
              'dns_failure': 0, 'connection_refused': 0, 'connection_reset': 0,
-             'timeout': 0, 'ssl_error': 0, 'error': 0, 'rate_limited': 0}
+             'timeout': 0, 'ssl_error': 0, 'error': 0, 'rate_limited': 0,
+             'false_positive_timeout': 0}
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_map = {executor.submit(check_url, url, timeout): (entry, url) for entry, url in checked}
@@ -191,12 +211,18 @@ def check_all_urls(data, timeout=8, max_workers=15):
 
             if status in ('broken', 'server_error', 'dns_failure', 'connection_refused',
                           'connection_reset', 'timeout', 'ssl_error', 'error'):
+                # Skip false-positive timeouts from known blocked domains
+                if status == 'timeout' and url:
+                    domain = urllib.parse.urlparse(url).netloc
+                    if any(domain.endswith(d) for d in FALSE_POSITIVE_DOMAINS):
+                        continue
                 broken.append((entry, entry_result))
 
             # Brief progress
             icon = {'ok': '✓', 'redirect': '→', 'broken': '✗', 'server_error': '⚠',
                     'dns_failure': '✗', 'connection_refused': '✗', 'connection_reset': '✗',
-                    'timeout': '⌛', 'ssl_error': '🔒', 'error': '?', 'rate_limited': '⏳'}.get(status, '?')
+                    'timeout': '⌛', 'ssl_error': '🔒', 'error': '?', 'rate_limited': '⏳',
+                    'false_positive_timeout': '~'}.get(status, '?')
             duration_s = f"{duration:.1f}s"
             code_str = str(status_code or '-')
             print(f"  {icon} {status:20s} {code_str:>4s} {duration_s:6s} {url[:80]}", file=sys.stderr)
@@ -219,21 +245,22 @@ def format_report(results, broken, stats, total, data):
     lines.append(f"")
     lines.append(f"| Status | Count |")
     lines.append(f"|--------|------:|")
-    for label, key in [('✅ OK', 'ok'), ('↪️ Redirects', 'redirect'),
-                       ('⚠️ Server Errors (5xx)', 'server_error'),
-                       ('❌ Client Errors (4xx)', 'broken'),
-                       ('🌐 DNS Failures', 'dns_failure'),
-                       ('🔒 SSL Errors', 'ssl_error'),
-                       ('⌛ Timeouts', 'timeout'),
-                       ('🚫 Connection Refused', 'connection_refused'),
-                       ('🔄 Connection Reset', 'connection_reset'),
-                       ('⏳ Rate Limited', 'rate_limited'),
-                       ('❓ Other Errors', 'error')]:
+    for label, key in [('OK', 'ok'), ('Redirects', 'redirect'),
+                       ('Server Errors (5xx)', 'server_error'),
+                       ('Client Errors (4xx)', 'broken'),
+                       ('DNS Failures', 'dns_failure'),
+                       ('SSL Errors', 'ssl_error'),
+                       ('Timeouts', 'timeout'),
+                       ('Connection Refused', 'connection_refused'),
+                       ('Connection Reset', 'connection_reset'),
+                       ('Rate Limited', 'rate_limited'),
+                       ('False-Positive Timeouts', 'false_positive_timeout'),
+                       ('Other Errors', 'error')]:
         if stats.get(key, 0) > 0:
             lines.append(f"| {label} | {stats[key]} |")
 
     ok_pct = round(stats.get('ok', 0) / total * 100, 1)
-    bad_count = sum(v for k, v in stats.items() if k not in ('ok', 'redirect'))
+    bad_count = sum(v for k, v in stats.items() if k not in ('ok', 'redirect', 'false_positive_timeout'))
     lines.append(f"| **Total OK** | **{stats.get('ok', 0)} ({ok_pct}%)** |")
     lines.append(f"| **Total Issues** | **{bad_count}** |")
     lines.append(f"")
@@ -286,15 +313,17 @@ def format_brief(results, broken, stats, total, data):
     lines.append(f"Checked {total} URLs — {ok_count} OK, {bad_count} issues")
     lines.append(f"")
     lines.append(f"Breakdown:")
-    for label, key in [('✅ OK', 'ok'), ('↪️ Redirects', 'redirect'),
-                       ('⚠️ 5xx', 'server_error'), ('❌ 4xx', 'broken'),
-                       ('🌐 DNS fail', 'dns_failure'), ('⌛ Timeout', 'timeout'),
-                       ('🔒 SSL', 'ssl_error'), ('🚫 Conn refused', 'connection_refused'),
-                       ('❓ Other', 'error'), ('⏳ Rate limited', 'rate_limited')]:
+    for label, key in [('✅ OK', 'ok'), ('→→ Redirects', 'redirect'),
+                       ('⚠⃣ 5xx', 'server_error'), ('❌ 4xx', 'broken'),
+                       ('DNS fail', 'dns_failure'), ('⌛ Timeout', 'timeout'),
+                       ('SSL', 'ssl_error'), ('Conn refused', 'connection_refused'),
+                       ('Other', 'error'), ('Rate limited', 'rate_limited'),
+                       ('FP timeout', 'false_positive_timeout')]:
         if stats.get(key, 0) > 0:
             lines.append(f"  • {label}: {stats[key]}")
     lines.append(f"")
 
+    bad_count = sum(v for k, v in stats.items() if k not in ('ok', 'redirect', 'false_positive_timeout'))
     if bad_count > 0:
         # Show top broken links (limit to 15 for Telegram)
         status_order = ['broken', 'server_error', 'dns_failure', 'connection_refused',
@@ -346,7 +375,7 @@ def main():
         print(summary)
 
     # Exit code
-    bad_count = sum(v for k, v in stats.items() if k not in ('ok', 'redirect'))
+    bad_count = sum(v for k, v in stats.items() if k not in ('ok', 'redirect', 'false_positive_timeout'))
     if bad_count > 0:
         print(f"\n⚠️  {bad_count} link(s) need attention.", file=sys.stderr)
         sys.exit(2 if bad_count > 0 else 0)
