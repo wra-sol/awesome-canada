@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 46
-last_run: 2026-07-04T11:06:00Z
+stable_runs: 47
+last_run: 2026-07-04T12:00:00Z
 last_status: ok
-notes: Rebuilt with 959 resources — picked up new entries from data scouting. Build, push, Actions deploy all succeeded; live site returns HTTP 200 with 959 resources confirmed. All entries have dateAdded.
+notes: Rebuilt with 964 resources — added 5 Tier-1 depth entries for municipalities with only 1 existing entry. White Rock council voting records 2022-2026 (first White Rock depth entry; Feature Service with individual councillor votes), Strathcona County 2026 Property Tax Assessment (first Strathcona depth entry; parcel-level assessed values with building details), Airdrie Building and Trade Permits (first Airdrie depth entry; daily-updated feature service), Milton Transit GTFS (first Milton transit entry; direct .zip via metrolinx.tmix.se, verified as Milton Transit agency), Ajax Zoning (first Ajax depth entry; zone classifications with by-law links). All entries pass validation. Build, push, Actions deploy all succeeded.
