@@ -3311,11 +3311,14 @@
     "jurisdiction": "Quebec",
     "category": "employment",
     "type": "Regulator",
-    "description": "Quebec commission on labour standards, pay equity, occupational health, and work accidents",
-    "url": "https://www.cnesst.gouv.qc.ca/en",
+    "description": "Quebec commission on labour standards, pay equity, occupational health, and work accidents — open data portal with downloadable datasets on workplace injuries, active establishments, and accepted deaths",
+    "url": "https://www.donneesquebec.ca/recherche/dataset?organization=cnesst",
     "tags": [
       "Quebec",
-      "labour"
+      "labour",
+      "open data",
+      "CSV",
+      "workplace safety"
     ],
     "dateAdded": "2025-10-28"
   },
