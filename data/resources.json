@@ -14937,5 +14937,91 @@
       "api"
     ],
     "dateAdded": "2026-07-04"
+  },
+  {
+    "name": "Peterborough Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Peterborough",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Downloadable PDF budget books and financial reports for the City of Peterborough, including annual operating and capital budgets, financial statements, and interactive ConnectPtbo budget portals.",
+    "url": "https://www.peterborough.ca/council-city-hall/city-budget/budget-documents-and-financial-reports/",
+    "tags": [
+      "peterborough",
+      "budget",
+      "pdf",
+      "financial reports",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-06"
+  },
+  {
+    "name": "Grande Prairie Council Meeting Video Archive",
+    "level": "Municipal",
+    "jurisdiction": "Grande Prairie",
+    "category": "council",
+    "type": "Council video archive",
+    "description": "YouTube archive of Grande Prairie City Council and standing committee meetings including Investment & Strategy, Public & Protective Services, Financial & Administrative Services, and Operational Services committees.",
+    "url": "https://www.youtube.com/user/GrandePrairieCA/",
+    "tags": [
+      "grande prairie",
+      "council",
+      "video",
+      "youtube",
+      "meetings",
+      "committees"
+    ],
+    "dateAdded": "2026-07-06"
+  },
+  {
+    "name": "Maple Ridge Statement of Financial Information & Budget",
+    "level": "Municipal",
+    "jurisdiction": "Maple Ridge",
+    "category": "budget",
+    "type": "Financial documents",
+    "description": "Direct PDF downloads of Maple Ridge's Statement of Financial Information (SOFI), combined financial plan bylaws, capital works program, and pay transparency reports.",
+    "url": "https://www.mapleridge.ca/your-government/plans-strategies/financial-planning-reporting",
+    "tags": [
+      "maple ridge",
+      "budget",
+      "pdf",
+      "SOFI",
+      "financial statements"
+    ],
+    "dateAdded": "2026-07-06"
+  },
+  {
+    "name": "Niagara Falls Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Niagara Falls",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Niagara Falls operating, capital, water, wastewater, and parking budgets from 2024 to 2026, including mayor's proposed and adopted versions.",
+    "url": "https://niagarafalls.ca/city-government/budget-and-finances/budgets/",
+    "tags": [
+      "niagara falls",
+      "budget",
+      "pdf",
+      "financial reports"
+    ],
+    "dateAdded": "2026-07-06"
+  },
+  {
+    "name": "Saanich Zoning GIS Data",
+    "level": "Municipal",
+    "jurisdiction": "Saanich",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Downloadable GIS zoning data for the District of Saanich in Shapefile, geodatabase, and DWG formats with metadata PDF — direct ZIP downloads from the municipal GIS server.",
+    "url": "https://map.saanich.ca/gisdata/Zoning/ZoningSHP.zip",
+    "tags": [
+      "saanich",
+      "zoning",
+      "GIS",
+      "shapefile",
+      "zip",
+      "planning"
+    ],
+    "dateAdded": "2026-07-06"
   }
 ]
