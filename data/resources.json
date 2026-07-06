@@ -720,7 +720,7 @@
     "category": "benefits",
     "type": "GIS",
     "description": "London's interactive GIS mapping tool — property, zoning, infrastructure, and planning data",
-    "url": "https://london.ca/maps",
+    "url": "https://london.ca/living-london/maps",
     "tags": [
       "London",
       "maps",
@@ -5070,7 +5070,8 @@
       "register",
       "conservation"
     ],
-    "dateAdded": "2026-10-23"
+    "dateAdded": "2026-10-23",
+    "status": "dead"
   },
   {
     "name": "Ottawa Heritage Register (Not Designated)",
@@ -6016,7 +6017,7 @@
     "category": "lobbyist",
     "type": "Lobbyist registry",
     "description": "Search registered lobbyists, clients, and lobbying subjects in Alberta. Public read access to all filings under the Lobbyists Act.",
-    "url": "https://www.albertalobbyistregistry.ca/",
+    "url": "https://www.albertalobbyistregistry.ca/apex/f?p=171:1",
     "tags": [
       "alberta",
       "lobbyists",
@@ -10163,7 +10164,7 @@
     "category": "school-board",
     "type": "School boundary lookup",
     "description": "Search Peel Region addresses to find assigned PDSB schools — links to Directions boundary maps for elementary and secondary catchments.",
-    "url": "https://www.peelschools.org/schools/school-finder",
+    "url": "https://school-finder.peelschools.org",
     "tags": [
       "peel",
       "pdsb",
