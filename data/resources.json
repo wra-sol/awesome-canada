@@ -15026,5 +15026,95 @@
       "planning"
     ],
     "dateAdded": "2026-07-06"
+  },
+  {
+    "name": "Nanaimo — Council Meeting Video Archive (ISILive)",
+    "level": "Municipal",
+    "jurisdiction": "Nanaimo",
+    "category": "council",
+    "type": "Video archive",
+    "description": "ISILive video portal archiving City of Nanaimo Council, Committee, and Public Hearing meetings. Full-length recordings with searchable agendas and minutes linked alongside each video. Track council decisions, public delegations, and voting records without attending in person. First council depth entry for Nanaimo.",
+    "url": "https://video.isilive.ca/nanaimo/VICC.html",
+    "tags": [
+      "council",
+      "video archive",
+      "Nanaimo",
+      "meetings",
+      "ISILive",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-07-07"
+  },
+  {
+    "name": "Nanaimo — Annual Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Nanaimo",
+    "category": "budget",
+    "type": "Financial statements",
+    "description": "Downloadable PDF annual financial statements and annual reports for the City of Nanaimo from 2019 to present. Review consolidated financial position, revenue, expenses, and capital investments year-over-year. First budget depth entry for Nanaimo.",
+    "url": "https://www.nanaimo.ca/your-government/budget-finance/annual-financial-reports",
+    "tags": [
+      "budget",
+      "financial statements",
+      "annual reports",
+      "Nanaimo",
+      "pdf",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-07-07"
+  },
+  {
+    "name": "North Battleford — Audited Financial Statements & Annual Reports",
+    "level": "Municipal",
+    "jurisdiction": "North Battleford",
+    "category": "budget",
+    "type": "Financial statements",
+    "description": "Downloadable PDF audited financial statements and annual reports for the City of North Battleford from 2018 to present. Track municipal spending, revenue, debt, and capital investments over time. First budget depth entry beyond the existing budget documents page.",
+    "url": "https://www.cityofnb.ca/our-city-government/budgets-and-finances/financial-statements-and-reports/",
+    "tags": [
+      "budget",
+      "financial statements",
+      "annual reports",
+      "North Battleford",
+      "pdf",
+      "Saskatchewan"
+    ],
+    "dateAdded": "2026-07-07"
+  },
+  {
+    "name": "Courtenay — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Courtenay",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable eScribe portal for City of Courtenay council and committee agendas, minutes, and attachments. Calendar-based search with PDF and HTML agenda formats, plus links to meeting reports. First council depth entry for Courtenay.",
+    "url": "https://www.courtenay.ca/city-hall/mayor-and-council/council-meetings",
+    "tags": [
+      "council",
+      "agendas",
+      "minutes",
+      "Courtenay",
+      "eScribe",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-07-07"
+  },
+  {
+    "name": "Yarmouth — Audited Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Yarmouth",
+    "category": "budget",
+    "type": "Financial statements",
+    "description": "Downloadable PDF audited consolidated and non-consolidated financial statements for the Town of Yarmouth. Review municipal fiscal health, revenue, expenses, and asset management. First budget depth entry for Yarmouth.",
+    "url": "https://townofyarmouth.ca/departments/finance/audited-statements",
+    "tags": [
+      "budget",
+      "financial statements",
+      "audit",
+      "Yarmouth",
+      "pdf",
+      "Nova Scotia"
+    ],
+    "dateAdded": "2026-07-07"
   }
 ]

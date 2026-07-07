@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 49
-last_run: 2026-07-07T11:06:02Z
+stable_runs: 50
+last_run: 2026-07-07T12:00:00Z
 last_status: ok
-notes: Rebuilt with 969 resources — incorporated CNESST URL fix (Données Québec open data portal). Build, push, Actions deploy all succeeded. Site returns HTTP 200.
+notes: Rebuilt with 974 resources — added 5 Tier-1 depth entries for jurisdictions with only 1 existing entry. Nanaimo (BC) council video archive + annual financial reports, North Battleford (SK) audited financial statements, Courtenay (BC) eScribe council agendas/minutes, Yarmouth (NS) audited financial statements. Build, push, Actions deploy all succeeded. Site returns HTTP 200.
