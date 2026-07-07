@@ -720,7 +720,7 @@
     "category": "benefits",
     "type": "GIS",
     "description": "London's interactive GIS mapping tool — property, zoning, infrastructure, and planning data",
-    "url": "https://london.ca/maps",
+    "url": "https://london.ca/living-london/maps",
     "tags": [
       "London",
       "maps",
@@ -3311,11 +3311,14 @@
     "jurisdiction": "Quebec",
     "category": "employment",
     "type": "Regulator",
-    "description": "Quebec commission on labour standards, pay equity, occupational health, and work accidents",
-    "url": "https://www.cnesst.gouv.qc.ca/en",
+    "description": "Quebec commission on labour standards, pay equity, occupational health, and work accidents — open data portal with downloadable datasets on workplace injuries, active establishments, and accepted deaths",
+    "url": "https://www.donneesquebec.ca/recherche/dataset?organization=cnesst",
     "tags": [
       "Quebec",
-      "labour"
+      "labour",
+      "open data",
+      "CSV",
+      "workplace safety"
     ],
     "dateAdded": "2025-10-28"
   },
@@ -5070,7 +5073,8 @@
       "register",
       "conservation"
     ],
-    "dateAdded": "2026-10-23"
+    "dateAdded": "2026-10-23",
+    "status": "dead"
   },
   {
     "name": "Ottawa Heritage Register (Not Designated)",
@@ -6016,7 +6020,7 @@
     "category": "lobbyist",
     "type": "Lobbyist registry",
     "description": "Search registered lobbyists, clients, and lobbying subjects in Alberta. Public read access to all filings under the Lobbyists Act.",
-    "url": "https://www.albertalobbyistregistry.ca/",
+    "url": "https://www.albertalobbyistregistry.ca/apex/f?p=171:1",
     "tags": [
       "alberta",
       "lobbyists",
@@ -10163,7 +10167,7 @@
     "category": "school-board",
     "type": "School boundary lookup",
     "description": "Search Peel Region addresses to find assigned PDSB schools — links to Directions boundary maps for elementary and secondary catchments.",
-    "url": "https://www.peelschools.org/schools/school-finder",
+    "url": "https://school-finder.peelschools.org",
     "tags": [
       "peel",
       "pdsb",
@@ -14844,5 +14848,183 @@
       "transparency"
     ],
     "dateAdded": "2026-07-03"
+  },
+  {
+    "name": "White Rock — Council Voting Records 2022-2026",
+    "level": "Municipal",
+    "jurisdiction": "White Rock",
+    "category": "council",
+    "type": "Dataset",
+    "description": "Feature service with individual councillor voting records for regular council meetings 2022–2026. Query by meeting date, agenda item, or vote outcome to track how each councillor voted on specific bylaws, development applications, and budget items. Downloadable as CSV, GeoJSON, Shapefile, or via ArcGIS REST API.",
+    "url": "https://data.whiterockcity.ca/datasets/9f5cb40bda414278aef47f588f8cdd28/about",
+    "tags": [
+      "council",
+      "voting records",
+      "White Rock",
+      "csv",
+      "geojson",
+      "shapefile",
+      "api"
+    ],
+    "dateAdded": "2026-07-04"
+  },
+  {
+    "name": "Strathcona County — 2026 Property Tax Assessment",
+    "level": "Municipal",
+    "jurisdiction": "Strathcona County",
+    "category": "budget",
+    "type": "Dataset",
+    "description": "Parcel-level property tax assessment dataset for 2026 with assessed value, roll number, civic address, building details (square footage, bedrooms, bathrooms, garage, basement, fireplace), and geocoded coordinates. Downloadable as CSV, GeoJSON, Shapefile, or via ArcGIS REST API. Useful for real estate analysis, valuation research, and equity comparison.",
+    "url": "https://opendata-strathconacounty.hub.arcgis.com/datasets/211214c329394005a5a3c43a277b0d38/about",
+    "tags": [
+      "property tax",
+      "assessment",
+      "Strathcona County",
+      "csv",
+      "geojson",
+      "shapefile",
+      "api"
+    ],
+    "dateAdded": "2026-07-04"
+  },
+  {
+    "name": "Airdrie — Building and Trade Permits",
+    "level": "Municipal",
+    "jurisdiction": "Airdrie",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Daily-updated feature service of all building and trade permits issued in Airdrie. Filter by permit type, application status, construction value, issue date, contractor name, and geocoded location. Downloadable as CSV, GeoJSON, Shapefile, or via ArcGIS REST API.",
+    "url": "https://data-airdrie.opendata.arcgis.com/datasets/e658674f3860493da2ee2d55ff671bff/about",
+    "tags": [
+      "building permits",
+      "planning",
+      "Airdrie",
+      "csv",
+      "geojson",
+      "shapefile",
+      "api"
+    ],
+    "dateAdded": "2026-07-04"
+  },
+  {
+    "name": "Milton — GTFS Feed",
+    "level": "Municipal",
+    "jurisdiction": "Milton",
+    "category": "transit",
+    "type": "Dataset",
+    "description": "Direct GTFS.zip download for Milton Transit bus routes and stops. Includes 9 local bus routes (e.g., Trudeau, Thompson/Clark, Yates, Willmott) with schedules, stop locations, and route shapes. Use for transit app development, accessibility planning, or service frequency analysis. Updated periodically by Metrolinx on behalf of Milton Transit.",
+    "url": "https://discover-milton.hub.arcgis.com/datasets/6d91cda9496043a395710d0a73a7699f/about",
+    "tags": [
+      "transit",
+      "GTFS",
+      "Milton",
+      "zip",
+      "bus"
+    ],
+    "dateAdded": "2026-07-04"
+  },
+  {
+    "name": "Ajax — Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Ajax",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Municipal zoning boundary map for Ajax with zone classifications, by-law number references, permitted uses, development standards, and linked PDF documentation for each zone. Downloadable as GeoJSON, Shapefile, or queried via ArcGIS REST API. Essential for development feasibility research and property compliance checks.",
+    "url": "https://opendata.ajax.ca/datasets/6bf95ce2af484c3bb081b1475bfdb2e3/about",
+    "tags": [
+      "zoning",
+      "planning",
+      "Ajax",
+      "geojson",
+      "shapefile",
+      "api"
+    ],
+    "dateAdded": "2026-07-04"
+  },
+  {
+    "name": "Peterborough Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Peterborough",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Downloadable PDF budget books and financial reports for the City of Peterborough, including annual operating and capital budgets, financial statements, and interactive ConnectPtbo budget portals.",
+    "url": "https://www.peterborough.ca/council-city-hall/city-budget/budget-documents-and-financial-reports/",
+    "tags": [
+      "peterborough",
+      "budget",
+      "pdf",
+      "financial reports",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-06"
+  },
+  {
+    "name": "Grande Prairie Council Meeting Video Archive",
+    "level": "Municipal",
+    "jurisdiction": "Grande Prairie",
+    "category": "council",
+    "type": "Council video archive",
+    "description": "YouTube archive of Grande Prairie City Council and standing committee meetings including Investment & Strategy, Public & Protective Services, Financial & Administrative Services, and Operational Services committees.",
+    "url": "https://www.youtube.com/user/GrandePrairieCA/",
+    "tags": [
+      "grande prairie",
+      "council",
+      "video",
+      "youtube",
+      "meetings",
+      "committees"
+    ],
+    "dateAdded": "2026-07-06"
+  },
+  {
+    "name": "Maple Ridge Statement of Financial Information & Budget",
+    "level": "Municipal",
+    "jurisdiction": "Maple Ridge",
+    "category": "budget",
+    "type": "Financial documents",
+    "description": "Direct PDF downloads of Maple Ridge's Statement of Financial Information (SOFI), combined financial plan bylaws, capital works program, and pay transparency reports.",
+    "url": "https://www.mapleridge.ca/your-government/plans-strategies/financial-planning-reporting",
+    "tags": [
+      "maple ridge",
+      "budget",
+      "pdf",
+      "SOFI",
+      "financial statements"
+    ],
+    "dateAdded": "2026-07-06"
+  },
+  {
+    "name": "Niagara Falls Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Niagara Falls",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Niagara Falls operating, capital, water, wastewater, and parking budgets from 2024 to 2026, including mayor's proposed and adopted versions.",
+    "url": "https://niagarafalls.ca/city-government/budget-and-finances/budgets/",
+    "tags": [
+      "niagara falls",
+      "budget",
+      "pdf",
+      "financial reports"
+    ],
+    "dateAdded": "2026-07-06"
+  },
+  {
+    "name": "Saanich Zoning GIS Data",
+    "level": "Municipal",
+    "jurisdiction": "Saanich",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Downloadable GIS zoning data for the District of Saanich in Shapefile, geodatabase, and DWG formats with metadata PDF — direct ZIP downloads from the municipal GIS server.",
+    "url": "https://map.saanich.ca/gisdata/Zoning/ZoningSHP.zip",
+    "tags": [
+      "saanich",
+      "zoning",
+      "GIS",
+      "shapefile",
+      "zip",
+      "planning"
+    ],
+    "dateAdded": "2026-07-06"
   }
 ]
