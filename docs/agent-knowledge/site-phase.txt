@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 48
-last_run: 2026-07-06T12:00:00Z
+stable_runs: 49
+last_run: 2026-07-07T11:06:02Z
 last_status: ok
-notes: Rebuilt with 969 resources — added 5 Tier-1 depth entries for municipalities with only 1 existing entry. Peterborough Budget & Financial Reports (first Peterborough budget entry; direct PDF downloads of annual operating/capital budgets and ConnectPtbo interactive budget portals), Grande Prairie Council Meeting Video Archive (first Grande Prairie council entry; YouTube archive of council and standing committee meetings verified via RSS), Maple Ridge Statement of Financial Information & Budget (first Maple Ridge budget entry; direct PDFs of SOFI 2024, combined financial plan bylaws, and capital works program), Niagara Falls Budget & Financial Reports (first Niagara Falls budget entry; direct PDF downloads of operating, capital, water, wastewater, and parking budgets 2024-2026), Saanich Zoning GIS Data (first Saanich planning-zoning depth entry; direct ZIP downloads of Shapefile, geodatabase, and DWG zoning data from municipal GIS server). All entries pass validation. Build, push, Actions deploy all succeeded.
+notes: Rebuilt with 969 resources — incorporated CNESST URL fix (Données Québec open data portal). Build, push, Actions deploy all succeeded. Site returns HTTP 200.
