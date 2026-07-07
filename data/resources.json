@@ -2884,7 +2884,7 @@
     "category": "elections",
     "type": "Results",
     "description": "Official past federal election results by riding, with poll-by-poll maps",
-    "url": "https://www.elections.ca/content.aspx?section=res&dir=cir/list&document=index&lang=e",
+    "url": "https://www.elections.ca/content.aspx?section=res&dir=cir&document=index&lang=e",
     "tags": [
       "elections",
       "results"
@@ -2898,7 +2898,7 @@
     "category": "elections",
     "type": "Voter tool",
     "description": "Find your polling station, candidates, and election results",
-    "url": "https://www.elections.ca/content.aspx",
+    "url": "https://www.elections.ca/content.aspx?section=vot&document=index&lang=e",
     "tags": [
       "elections",
       "federal"
