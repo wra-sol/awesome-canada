@@ -15116,5 +15116,101 @@
       "Nova Scotia"
     ],
     "dateAdded": "2026-07-07"
+  },
+  {
+    "name": "Rimouski — GTFS Transit Data",
+    "level": "Municipal",
+    "jurisdiction": "Rimouski",
+    "category": "transit",
+    "type": "GTFS dataset",
+    "description": "Downloadable GTFS dataset for Citébus and Taxibus transit networks in Rimouski, including stop locations, routes, and schedules. Available in GTFS, CSV, GeoJSON, KML, and SHP formats via Données Québec.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/transport-collectif",
+    "tags": [
+      "Rimouski",
+      "GTFS",
+      "transit",
+      "citébus",
+      "Données Québec",
+      "Quebec",
+      "zip"
+    ],
+    "dateAdded": "2026-07-09"
+  },
+  {
+    "name": "Shawinigan — Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Shawinigan",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Downloadable PDF budget documents, capital plans (PQI), and audited financial statements for the City of Shawinigan. Includes annual budgets 2020–2025, mayor's budget speeches, and performance audits.",
+    "url": "https://www.shawinigan.ca/ville/budget-et-etats-financiers/",
+    "tags": [
+      "Shawinigan",
+      "budget",
+      "pdf",
+      "financial statements",
+      "PQI",
+      "Quebec"
+    ],
+    "dateAdded": "2026-07-09"
+  },
+  {
+    "name": "Welland — Council Agendas, Minutes & Web Streaming",
+    "level": "Municipal",
+    "jurisdiction": "Welland",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "eScribe portal and direct PDF downloads for Welland City Council agendas and minutes 2022–present, plus livestream archives and web streaming links for regular and special council meetings.",
+    "url": "https://www.welland.ca/council/AgendasMinutes.asp",
+    "tags": [
+      "Welland",
+      "council",
+      "agendas",
+      "minutes",
+      "video",
+      "eScribe",
+      "Ontario",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-09"
+  },
+  {
+    "name": "St. Catharines — Budgets & Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "St. Catharines",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of St. Catharines capital and operating budgets, multi-year budgets, and water/wastewater financial plans from 2017 to present. Track municipal spending, infrastructure investments, and fiscal forecasts year-over-year.",
+    "url": "https://www.stcatharines.ca/council-and-administration/budget-and-finances/budgets-and-financial-statements/",
+    "tags": [
+      "St. Catharines",
+      "budget",
+      "pdf",
+      "financial statements",
+      "capital budget",
+      "operating budget",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-09"
+  },
+  {
+    "name": "Oshawa — Council Meetings (eScribe + Video)",
+    "level": "Municipal",
+    "jurisdiction": "Oshawa",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "eScribe portal with searchable agendas, minutes, and video recordings for Oshawa City Council and committee meetings including Corporate and Finance Services, Economic and Development Services, and Planning Act meetings.",
+    "url": "https://www.oshawa.ca/council",
+    "tags": [
+      "Oshawa",
+      "council",
+      "agendas",
+      "minutes",
+      "video",
+      "eScribe",
+      "committees",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-09"
   }
 ]
