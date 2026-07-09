@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 51
-last_run: 2026-07-08T11:06:00Z
+stable_runs: 52
+last_run: 2026-07-09T11:05:00Z
 last_status: ok
-notes: Rebuilt with 974 resources — previous daily maintenance run added 5 Tier-1 depth entries (Nanaimo council video + financial reports, North Battleford audited statements, Courtenay council agendas, Yarmouth audited statements) plus 2 Elections Canada URL corrections. This run deployed those changes. Build, push, Actions deploy all succeeded. Site returns HTTP 200.
+notes: No new resources since last run. Build validated (974 resources, all dateAdded present, static assets intact). Actions deploy from previous run still current. Site returns HTTP 200. Content freshness and weekly enhancements not due (last enhancement run 2026-07-08).
