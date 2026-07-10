@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 54
-last_run: 2026-07-10T11:05:57Z
+stable_runs: 55
+last_run: 2026-07-10T12:00:00Z
 last_status: ok
-notes: No new resources since last run. Build validated (979 resources, all dateAdded present, static assets intact). Site returns HTTP 200. Previous Actions run (2026-07-09) failed due to GitHub runner acquisition issue (transient infrastructure), not code failure — site remains live from prior deployment. No changes to push.
+notes: Added 5 new Tier-1 depth entries. Total now 984 resources. Build validated, static assets intact. Site returns HTTP 200. Push to origin/master succeeded. New entries: Thunder Bay Building Feature Layer (open-data), Thunder Bay Heritage Register CSV (heritage), Estevan Annual Budget (budget), Lloydminster Budget & Capital Plans (budget), Medicine Hat Budget & Financial Plans (budget).
