@@ -15116,5 +15116,197 @@
       "Nova Scotia"
     ],
     "dateAdded": "2026-07-07"
+  },
+  {
+    "name": "Rimouski — GTFS Transit Data",
+    "level": "Municipal",
+    "jurisdiction": "Rimouski",
+    "category": "transit",
+    "type": "GTFS dataset",
+    "description": "Downloadable GTFS dataset for Citébus and Taxibus transit networks in Rimouski, including stop locations, routes, and schedules. Available in GTFS, CSV, GeoJSON, KML, and SHP formats via Données Québec.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/transport-collectif",
+    "tags": [
+      "Rimouski",
+      "GTFS",
+      "transit",
+      "citébus",
+      "Données Québec",
+      "Quebec",
+      "zip"
+    ],
+    "dateAdded": "2026-07-09"
+  },
+  {
+    "name": "Shawinigan — Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Shawinigan",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Downloadable PDF budget documents, capital plans (PQI), and audited financial statements for the City of Shawinigan. Includes annual budgets 2020–2025, mayor's budget speeches, and performance audits.",
+    "url": "https://www.shawinigan.ca/ville/budget-et-etats-financiers/",
+    "tags": [
+      "Shawinigan",
+      "budget",
+      "pdf",
+      "financial statements",
+      "PQI",
+      "Quebec"
+    ],
+    "dateAdded": "2026-07-09"
+  },
+  {
+    "name": "Welland — Council Agendas, Minutes & Web Streaming",
+    "level": "Municipal",
+    "jurisdiction": "Welland",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "eScribe portal and direct PDF downloads for Welland City Council agendas and minutes 2022–present, plus livestream archives and web streaming links for regular and special council meetings.",
+    "url": "https://www.welland.ca/council/AgendasMinutes.asp",
+    "tags": [
+      "Welland",
+      "council",
+      "agendas",
+      "minutes",
+      "video",
+      "eScribe",
+      "Ontario",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-09"
+  },
+  {
+    "name": "St. Catharines — Budgets & Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "St. Catharines",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of St. Catharines capital and operating budgets, multi-year budgets, and water/wastewater financial plans from 2017 to present. Track municipal spending, infrastructure investments, and fiscal forecasts year-over-year.",
+    "url": "https://www.stcatharines.ca/council-and-administration/budget-and-finances/budgets-and-financial-statements/",
+    "tags": [
+      "St. Catharines",
+      "budget",
+      "pdf",
+      "financial statements",
+      "capital budget",
+      "operating budget",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-09"
+  },
+  {
+    "name": "Oshawa — Council Meetings (eScribe + Video)",
+    "level": "Municipal",
+    "jurisdiction": "Oshawa",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "eScribe portal with searchable agendas, minutes, and video recordings for Oshawa City Council and committee meetings including Corporate and Finance Services, Economic and Development Services, and Planning Act meetings.",
+    "url": "https://www.oshawa.ca/council",
+    "tags": [
+      "Oshawa",
+      "council",
+      "agendas",
+      "minutes",
+      "video",
+      "eScribe",
+      "committees",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-09"
+  },
+  {
+    "name": "Thunder Bay — Building Feature Layer",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "open-data",
+    "type": "Dataset",
+    "description": "Feature layer of all buildings in Thunder Bay with structural and occupancy attributes. Downloadable as CSV, GeoJSON, Shapefile, KML, XLSX, GPKG, or GDB, and queryable via ArcGIS REST API. Useful for urban planning, property research, and GIS analysis.",
+    "url": "https://opendata-thunderbay.hub.arcgis.com/datasets/cc7cb51753384ca99e566834cd48924b_0",
+    "tags": [
+      "Thunder Bay",
+      "building",
+      "open data",
+      "CSV",
+      "GeoJSON",
+      "Shapefile",
+      "API",
+      "GIS"
+    ],
+    "dateAdded": "2026-07-10"
+  },
+  {
+    "name": "Thunder Bay — Heritage Register CSV",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "heritage",
+    "type": "Dataset",
+    "description": "CSV download of heritage-registered properties in Thunder Bay, including addresses, designation status, and heritage attributes. Useful for preservation research, development planning, and property due diligence.",
+    "url": "https://opendata-thunderbay.hub.arcgis.com/datasets/bd50ba0dc1534a13b4cb6f057646b049",
+    "tags": [
+      "Thunder Bay",
+      "heritage",
+      "CSV",
+      "properties",
+      "register",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-10"
+  },
+  {
+    "name": "Estevan — Annual Budget",
+    "level": "Municipal",
+    "jurisdiction": "Estevan",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of annual budget documents for the City of Estevan, including proposed and final budgets from 2021 to 2026. Useful for tracking municipal spending priorities, tax changes, and capital investments in this Saskatchewan energy-sector city.",
+    "url": "https://estevan.ca/annual-budget/",
+    "tags": [
+      "Estevan",
+      "budget",
+      "PDF",
+      "Saskatchewan",
+      "finance",
+      "transparency",
+      "capital"
+    ],
+    "dateAdded": "2026-07-10"
+  },
+  {
+    "name": "Lloydminster — Budget & Capital Plans",
+    "level": "Municipal",
+    "jurisdiction": "Lloydminster",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of approved operating budgets, capital budgets, and 10-year capital plans for the City of Lloydminster (2023–2026). Complements the existing accounts payable entry with forward-looking fiscal planning documents for this Saskatchewan–Alberta border city.",
+    "url": "https://www.lloydminster.ca/council-administration/finance/budget/",
+    "tags": [
+      "Lloydminster",
+      "budget",
+      "capital plan",
+      "PDF",
+      "Saskatchewan",
+      "Alberta",
+      "finance",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-10"
+  },
+  {
+    "name": "Medicine Hat — Budget & Financial Plans",
+    "level": "Municipal",
+    "jurisdiction": "Medicine Hat",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Medicine Hat budget briefings, highlights, business plans, and financial updates (2023–2026). Useful for analyzing municipal spending priorities, service levels, and fiscal health in this Alberta mid-size city.",
+    "url": "https://www.medicinehat.ca/government-city-hall/budgets-finance/budget-information/",
+    "tags": [
+      "Medicine Hat",
+      "budget",
+      "PDF",
+      "Alberta",
+      "finance",
+      "transparency",
+      "business plan"
+    ],
+    "dateAdded": "2026-07-10"
   }
 ]

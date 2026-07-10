@@ -15212,5 +15212,101 @@
       "Ontario"
     ],
     "dateAdded": "2026-07-09"
+  },
+  {
+    "name": "Thunder Bay — Building Feature Layer",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "open-data",
+    "type": "Dataset",
+    "description": "Feature layer of all buildings in Thunder Bay with structural and occupancy attributes. Downloadable as CSV, GeoJSON, Shapefile, KML, XLSX, GPKG, or GDB, and queryable via ArcGIS REST API. Useful for urban planning, property research, and GIS analysis.",
+    "url": "https://opendata-thunderbay.hub.arcgis.com/datasets/cc7cb51753384ca99e566834cd48924b_0",
+    "tags": [
+      "Thunder Bay",
+      "building",
+      "open data",
+      "CSV",
+      "GeoJSON",
+      "Shapefile",
+      "API",
+      "GIS"
+    ],
+    "dateAdded": "2026-07-10"
+  },
+  {
+    "name": "Thunder Bay — Heritage Register CSV",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "heritage",
+    "type": "Dataset",
+    "description": "CSV download of heritage-registered properties in Thunder Bay, including addresses, designation status, and heritage attributes. Useful for preservation research, development planning, and property due diligence.",
+    "url": "https://opendata-thunderbay.hub.arcgis.com/datasets/bd50ba0dc1534a13b4cb6f057646b049",
+    "tags": [
+      "Thunder Bay",
+      "heritage",
+      "CSV",
+      "properties",
+      "register",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-10"
+  },
+  {
+    "name": "Estevan — Annual Budget",
+    "level": "Municipal",
+    "jurisdiction": "Estevan",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of annual budget documents for the City of Estevan, including proposed and final budgets from 2021 to 2026. Useful for tracking municipal spending priorities, tax changes, and capital investments in this Saskatchewan energy-sector city.",
+    "url": "https://estevan.ca/annual-budget/",
+    "tags": [
+      "Estevan",
+      "budget",
+      "PDF",
+      "Saskatchewan",
+      "finance",
+      "transparency",
+      "capital"
+    ],
+    "dateAdded": "2026-07-10"
+  },
+  {
+    "name": "Lloydminster — Budget & Capital Plans",
+    "level": "Municipal",
+    "jurisdiction": "Lloydminster",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of approved operating budgets, capital budgets, and 10-year capital plans for the City of Lloydminster (2023–2026). Complements the existing accounts payable entry with forward-looking fiscal planning documents for this Saskatchewan–Alberta border city.",
+    "url": "https://www.lloydminster.ca/council-administration/finance/budget/",
+    "tags": [
+      "Lloydminster",
+      "budget",
+      "capital plan",
+      "PDF",
+      "Saskatchewan",
+      "Alberta",
+      "finance",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-10"
+  },
+  {
+    "name": "Medicine Hat — Budget & Financial Plans",
+    "level": "Municipal",
+    "jurisdiction": "Medicine Hat",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Medicine Hat budget briefings, highlights, business plans, and financial updates (2023–2026). Useful for analyzing municipal spending priorities, service levels, and fiscal health in this Alberta mid-size city.",
+    "url": "https://www.medicinehat.ca/government-city-hall/budgets-finance/budget-information/",
+    "tags": [
+      "Medicine Hat",
+      "budget",
+      "PDF",
+      "Alberta",
+      "finance",
+      "transparency",
+      "business plan"
+    ],
+    "dateAdded": "2026-07-10"
   }
 ]
