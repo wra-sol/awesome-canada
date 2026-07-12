@@ -1248,13 +1248,12 @@
     "category": "business",
     "type": "Procurement",
     "description": "Quebec's electronic tender system for public contracts with full search and alerts — currently offline as of May 2026",
-    "url": "https://www.seao.ca/",
+    "url": "https://seao.ca/",
     "tags": [
       "Quebec",
       "procurement"
     ],
-    "dateAdded": "2024-09-06",
-    "status": "dead"
+    "dateAdded": "2024-09-06"
   },
   {
     "name": "SaskTenders",
