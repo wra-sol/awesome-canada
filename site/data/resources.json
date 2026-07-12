@@ -15308,5 +15308,98 @@
       "business plan"
     ],
     "dateAdded": "2026-07-10"
+  },
+  {
+    "name": "Truro — Council Agendas & Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Truro",
+    "category": "council",
+    "type": "Council meeting agendas and minutes",
+    "description": "Yearly archives of Town of Truro council meeting agendas and minutes (2020–2026), downloadable as PDFs. Track council decisions, public hearings, and committee reports.",
+    "url": "https://truro.ca/government/council-agenda-and-minutes.html",
+    "tags": [
+      "truro",
+      "council-meetings",
+      "agendas",
+      "minutes",
+      "pdf",
+      "transparency",
+      "Nova Scotia"
+    ],
+    "dateAdded": "2026-07-11"
+  },
+  {
+    "name": "Truro — Financial Statements & Budget",
+    "level": "Municipal",
+    "jurisdiction": "Truro",
+    "category": "budget",
+    "type": "Audited financial statements and budget",
+    "description": "Town of Truro audited financial statements and budget presentations, including 2024–2025 consolidated financial statements. Download PDFs to analyze municipal fiscal health, revenue sources, and capital spending.",
+    "url": "https://truro.ca/town-services/financial-statements-budget.html",
+    "tags": [
+      "truro",
+      "budget",
+      "pdf",
+      "financial statements",
+      "transparency",
+      "Nova Scotia"
+    ],
+    "dateAdded": "2026-07-11"
+  },
+  {
+    "name": "Longueuil — Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Longueuil",
+    "category": "budget",
+    "type": "Consolidated budget and financial reports",
+    "description": "Ville de Longueuil consolidated budget page with links to agglomeration budget PDFs (2013–present), expense and revenue breakdowns, and the three-year capital investment plan. Analyze municipal spending priorities and tax allocation in this Quebec urban center.",
+    "url": "https://www.longueuil.quebec/fr/budget",
+    "tags": [
+      "longueuil",
+      "budget",
+      "pdf",
+      "Quebec",
+      "finance",
+      "transparency",
+      "capital plan"
+    ],
+    "dateAdded": "2026-07-11"
+  },
+  {
+    "name": "Summerside — Annual Budgets",
+    "level": "Municipal",
+    "jurisdiction": "Summerside",
+    "category": "budget",
+    "type": "Annual budget documents",
+    "description": "City of Summerside annual budget PDFs (2021–2027). Download to track municipal spending priorities, service allocations, and fiscal planning in Prince Edward Island's second-largest city.",
+    "url": "https://www.summerside.ca/city_governance/bylaws_policies_reports/annual_budgets",
+    "tags": [
+      "summerside",
+      "budget",
+      "pdf",
+      "Prince Edward Island",
+      "finance",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-11"
+  },
+  {
+    "name": "Summerside — Archived Council Agendas & Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Summerside",
+    "category": "council",
+    "type": "Council meeting agendas and minutes",
+    "description": "Archived City of Summerside council, planning board, and committee meeting agendas and minutes (2014–present), downloadable as PDFs. Track local government decisions, development approvals, and public hearings.",
+    "url": "https://www.summerside.ca/city_governance/council_chambers/archived_meeting_agendas_minutes",
+    "tags": [
+      "summerside",
+      "council-meetings",
+      "agendas",
+      "minutes",
+      "pdf",
+      "transparency",
+      "Prince Edward Island"
+    ],
+    "dateAdded": "2026-07-11"
   }
 ]
