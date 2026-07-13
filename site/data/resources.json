@@ -1248,13 +1248,12 @@
     "category": "business",
     "type": "Procurement",
     "description": "Quebec's electronic tender system for public contracts with full search and alerts — currently offline as of May 2026",
-    "url": "https://www.seao.ca/",
+    "url": "https://seao.ca/",
     "tags": [
       "Quebec",
       "procurement"
     ],
-    "dateAdded": "2024-09-06",
-    "status": "dead"
+    "dateAdded": "2024-09-06"
   },
   {
     "name": "SaskTenders",
@@ -5073,8 +5072,7 @@
       "register",
       "conservation"
     ],
-    "dateAdded": "2026-10-23",
-    "status": "dead"
+    "dateAdded": "2026-10-23"
   },
   {
     "name": "Ottawa Heritage Register (Not Designated)",
@@ -15401,5 +15399,96 @@
       "Prince Edward Island"
     ],
     "dateAdded": "2026-07-11"
+  },
+  {
+    "name": "North Battleford — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "North Battleford",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of North Battleford council agendas, minutes, and attachments on the public eScribe portal. Includes regular and special council meetings.",
+    "url": "https://pub-northbattleford.escribemeetings.com/",
+    "tags": [
+      "north battleford",
+      "saskatchewan",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes"
+    ],
+    "dateAdded": "2026-07-12"
+  },
+  {
+    "name": "Yorkton — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Yorkton",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Yorkton council agendas, minutes, and attachments on the public eScribe portal. Includes regular council meetings.",
+    "url": "https://pub-yorkton.escribemeetings.com/",
+    "tags": [
+      "yorkton",
+      "saskatchewan",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes"
+    ],
+    "dateAdded": "2026-07-12"
+  },
+  {
+    "name": "Grande Prairie — Open Budget",
+    "level": "Municipal",
+    "jurisdiction": "Grande Prairie",
+    "category": "budget",
+    "type": "Budget open data",
+    "description": "Interactive ArcGIS Hub portal for City of Grande Prairie budget and financial data. Explore revenue and expenditures by service area and department with CSV download, dashboards, and archive of multi-year budget highlights.",
+    "url": "https://openbudget-cityofgp.hub.arcgis.com/",
+    "tags": [
+      "grande prairie",
+      "alberta",
+      "budget",
+      "open data",
+      "arcgis hub",
+      "csv",
+      "dashboard"
+    ],
+    "dateAdded": "2026-07-12"
+  },
+  {
+    "name": "Prince George — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Prince George",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Prince George council agendas, minutes, and attachments on the public eScribe portal. Includes regular council, special council, budget council, and advisory committee meetings.",
+    "url": "https://pub-princegeorge.escribemeetings.com/",
+    "tags": [
+      "prince george",
+      "british columbia",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes"
+    ],
+    "dateAdded": "2026-07-12"
+  },
+  {
+    "name": "Richmond Hill — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Richmond Hill",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Richmond Hill council agendas, minutes, and attachments on the public eScribe portal. Includes council meetings, council public meetings, special council meetings, and inaugural council meetings.",
+    "url": "https://pub-richmondhill.escribemeetings.com/",
+    "tags": [
+      "richmond hill",
+      "ontario",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes"
+    ],
+    "dateAdded": "2026-07-12"
   }
 ]
