@@ -15489,5 +15489,102 @@
       "minutes"
     ],
     "dateAdded": "2026-07-12"
+  },
+  {
+    "name": "Kitchener — Building Permits",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "planning-zoning",
+    "type": "Feature Service",
+    "description": "Daily-updated building permits issued by the City of Kitchener. Downloadable as CSV, GeoJSON, Shapefile, or KML, and queryable via ArcGIS REST API. Each permit includes address, type, and status attributes useful for development tracking and urban planning research.",
+    "url": "https://open-kitchenergis.opendata.arcgis.com/datasets/c486d37abe2948d884a159cba20bec8c/about",
+    "tags": [
+      "Kitchener",
+      "Ontario",
+      "building permits",
+      "planning",
+      "CSV",
+      "GeoJSON",
+      "Shapefile",
+      "KML",
+      "api"
+    ],
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "name": "Airdrie — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Airdrie",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Airdrie council agendas, minutes, and attachments on the public eScribe portal. Includes Council Meeting, Council Budget Committee, and Special Council meetings with downloadable PDFs.",
+    "url": "https://pub-airdrie.escribemeetings.com/",
+    "tags": [
+      "airdrie",
+      "alberta",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "name": "Coquitlam — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Coquitlam",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Coquitlam council agendas, minutes, and attachments on the public eScribe portal. Includes Regular Council and Special Council meetings with downloadable PDFs.",
+    "url": "https://pub-coquitlam.escribemeetings.com/",
+    "tags": [
+      "coquitlam",
+      "british columbia",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "name": "Peterborough — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Peterborough",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Peterborough council agendas, minutes, and attachments on the public eScribe portal. Includes City Council Meeting, Council Compensation Committee, and Development Charges Complaint Hearing meetings with downloadable PDFs.",
+    "url": "https://pub-peterborough.escribemeetings.com/",
+    "tags": [
+      "peterborough",
+      "ontario",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "name": "Yellowknife — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Yellowknife",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Yellowknife council agendas, minutes, and attachments on the public eScribe portal. Includes Council Meeting and Special Council Meeting records with downloadable PDFs.",
+    "url": "https://pub-yellowknife.escribemeetings.com/",
+    "tags": [
+      "yellowknife",
+      "northwest territories",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-13"
   }
 ]
