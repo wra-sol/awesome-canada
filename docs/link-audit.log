@@ -1,0 +1,9 @@
+# awesome-canada Link Audit Log
+
+## 2026-07-04
+- **Audit type:** Proactive random sample (15/964 resources)
+- **Results:** 13 OK, 2 timeout (both canada.ca — confirmed false positives via GET retry)
+- **Actual broken links:** 0
+- **Action taken:** Patched `scripts/check-links.py` to handle `canada.ca` false positives via browser-UA GET retry + skip from broken list
+- **Commit:** (pending)
+
