@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 964 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 994 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,10 +23,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 152
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 62
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 69
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 54
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 153
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 63
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 80
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 69
 - [🪪 Government Services & ID](#government-services-and-id) — 33
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 13
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 15
@@ -40,7 +40,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 21
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 25
-- [🚌 Transit & Mobility](#transit-and-mobility) — 58
+- [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 53
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 26
@@ -49,7 +49,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 13
 - [🔬 Science, Research & Space](#science-research-and-space) — 12
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 14
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 15
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 14
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 12
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
@@ -201,6 +201,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Sarnia GeoHub | Sarnia · Municipal | Open Data Portal | ArcGIS Hub for City of Sarnia GIS layers — zoning, transportation, infrastructure, and interactive community maps with CSV/GeoJSON export. | https://city-of-sarnia.hub.arcgis.com/ |
 | SooMaps Open GIS Data Downloads | Sault Ste. Marie · Municipal | GIS data extracts | Official City of Sault Ste. Marie GIS extracts — addresses, streets, wards, bus stops, playgrounds, and heritage as CSV/JSON refreshed weekly. | https://github.com/cityssm/soomaps-data |
 | St. Catharines Open Data (Niagara) | St. Catharines · Municipal | Open data portal | St. Catharines datasets on Niagara Open Data — property, recreation, and civic layers. | https://niagaraopendata.ca/organization/city-of-st-catharines |
+| Thunder Bay — Building Feature Layer | Thunder Bay · Municipal | Dataset | Feature layer of all buildings in Thunder Bay with structural and occupancy attributes. Downloadable as CSV, GeoJSON, Shapefile, KML, XLSX, GPKG, or GDB, and queryable via ArcGIS REST API. Useful for urban planning, property research, and GIS analysis. | https://opendata-thunderbay.hub.arcgis.com/datasets/cc7cb51753384ca99e566834cd48924b_0 |
 | Thunder Bay Open Data Hub | Thunder Bay · Municipal | Open data hub | Municipal datasets for Thunder Bay including property parcels, building footprints, transit routes, parks, zoning, and infrastructure available for bulk download | https://opendata-thunderbay.hub.arcgis.com |
 | City of Timmins Open Data | Timmins · Municipal | Open Data Portal | Timmins municipal open data portal — infrastructure, planning, and community GIS datasets on ArcGIS Hub with export and API access. | https://timmins.opendata.arcgis.com/ |
 | 2026 City Budget | Toronto · Municipal | Budget portal | Official budget portal with accessible explainer content and documents | https://www.toronto.ca/Budget |
@@ -271,6 +272,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Kamloops Planning & Zoning Map | Kamloops · Municipal | Planning map | Zoning districts, development permit areas, and planning development layers for Kamloops via CityMap GIS services. | https://maps.kamloops.ca/arcgis/rest/services/CityMap/CityMap_PlanningDevelopment/MapServer |
 | Kelowna Building Permits Open Data | Kelowna · Municipal | Building permits | Building permit issuance data for Kelowna on the municipal open data hub — filter by date, type, and neighbourhood. | https://opendata.kelowna.ca/ |
 | New Westminster Open Data — Building & Plumbing Permits | New Westminster · Municipal | Dataset | Dataset of building and plumbing permits issued in the City of New Westminster, published as an ArcGIS Feature Service. Download as CSV, GeoJSON, or shapefile, or query via REST API to filter by permit type, status, date, and location. Useful for tracking construction activity, development trends, and neighbourhood change in Metro Vancouver. | https://opendata.newwestcity.ca/datasets/59558177b3944a51855cfada5e12acbc/about |
+| Saanich Zoning GIS Data | Saanich · Municipal | Zoning dataset | Downloadable GIS zoning data for the District of Saanich in Shapefile, geodatabase, and DWG formats with metadata PDF — direct ZIP downloads from the municipal GIS server. | https://map.saanich.ca/gisdata/Zoning/ZoningSHP.zip |
 | Vancouver Building Permits Issued | Vancouver · Municipal | Building permits dataset | Open data on issued building permits in Vancouver with project type, value, and address fields. | https://opendata.vancouver.ca/explore/dataset/issued-building-permits/ |
 | Vancouver Zoning & Land Use Districts | Vancouver · Municipal | Zoning dataset | Download zoning district boundaries and schedules from the Vancouver Open Data Portal for GIS analysis and property lookups. | https://opendata.vancouver.ca/explore/?disjunctive.zoning&sort=modified |
 | Victoria Building Permits Open Data | Victoria · Municipal | Building permits | Issued building and development permits on the City of Victoria open data catalogue with map and CSV export. | https://opendata.victoria.ca/browse?category=Planning |
@@ -307,7 +309,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ajax — Zoning | Ajax · Municipal | Dataset | Municipal zoning boundary map for Ajax with zone classifications, by-law number references, permitted uses, development standards, and linked PDF documentation for each zone. Downloadable as GeoJSON, Shapefile, or queried via ArcGIS REST API. Essential for development feasibility research and property compliance checks. | https://opendata.ajax.ca/datasets/6bf95ce2af484c3bb081b1475bfdb2e3/about |
-| Barrie Planning & Development Map | Barrie · Municipal | Planning map | Map layers for active building permits, zoning, official plan land use, and planning applications in Barrie. | https://gispublic.barrie.ca/arcgis/rest/services/Public/PlanningDevelopment_SM_Dynamic/MapServer |
+| Barrie Planning & Development Map | Barrie · Municipal | Planning map | Map layers for active building permits, zoning, official plan land use, and planning applications in Barrie — now hosted on the municipal open data hub. | https://geohub-barrie.hub.arcgis.com/ |
 | Belleville Parcels Open Data | Belleville · Municipal | Parcel dataset | City of Belleville property parcel layer with roll and addressing attributes — export CSV/GeoJSON or use ArcGIS Hub API. | https://opendata-bellevillegis.hub.arcgis.com/datasets/parcels-1 |
 | Clarington Municipal Planning Data Reports | Clarington · Municipal | Planning application statistics | Quarterly PDF reports of planning applications received and decided, housing units proposed and approved — per Ontario Regulation 73/23. | https://www.clarington.net/planning-and-development/municipal-planning-data-report/ |
 | Cornwall Official Plan Land Use Open Data | Cornwall · Municipal | Land use dataset | Official Plan Schedule 1 land-use polygons for Cornwall — download shapefile/GeoJSON or query via ArcGIS REST from the open data catalogue. | https://data-cornwallcity.opendata.arcgis.com/datasets/official-plan-schedule1-landuse |
@@ -372,7 +374,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Abbotsford Council — Agendas, Minutes & Video | Abbotsford · Municipal | Council meetings | City of Abbotsford council and committee meeting portal with downloadable PDF agendas and minutes via eScribe and CivicWeb document repositories, plus a live stream and recorded video of council meetings. Browse by meeting date to track motions, decisions, public hearings, and delegations; download the 2026 council meeting calendar as a PDF. | https://www.abbotsford.ca/city-hall/council-committee-meetings/agendas-minutes-and-videos |
 | Burnaby Council — eScribe Agendas, Minutes & Video | Burnaby · Municipal | Council meetings | City of Burnaby council meetings hub with an eScribe searchable agenda and minutes portal, live-streamed and recorded council meetings via the city's video system, and historical minutes back to 2015 through the Heritage Burnaby archive. Download 2026 council and advisory body meeting calendars as PDFs; browse agendas, minutes, and reports by meeting date to track votes, public hearings, and decisions. | https://www.burnaby.ca/our-city/meetings-and-public-hearings |
+| Courtenay — Council Agendas & Minutes (eScribe) | Courtenay · Municipal | Council meetings portal | Searchable eScribe portal for City of Courtenay council and committee agendas, minutes, and attachments. Calendar-based search with PDF and HTML agenda formats, plus links to meeting reports. First council depth entry for Courtenay. | https://www.courtenay.ca/city-hall/mayor-and-council/council-meetings |
 | Kelowna Council Meetings | Kelowna · Municipal | Council meetings | Kelowna City Council meeting schedules, agendas, minutes, and video recordings for council and standing committees. | https://www.kelowna.ca/city-hall/council/council-meetings |
+| Nanaimo — Council Meeting Video Archive (ISILive) | Nanaimo · Municipal | Video archive | ISILive video portal archiving City of Nanaimo Council, Committee, and Public Hearing meetings. Full-length recordings with searchable agendas and minutes linked alongside each video. Track council decisions, public delegations, and voting records without attending in person. First council depth entry for Nanaimo. | https://video.isilive.ca/nanaimo/VICC.html |
+| Prince George — Council Agendas & Minutes (eScribe) | Prince George · Municipal | Council meetings portal | Searchable City of Prince George council agendas, minutes, and attachments on the public eScribe portal. Includes regular council, special council, budget council, and advisory committee meetings. | https://pub-princegeorge.escribemeetings.com/ |
 | Vancouver Council Voting Records | Vancouver · Municipal | Vote dataset | Download individual council, committee, and public hearing votes as open data — filter by member, meeting date, and motion outcome. | https://opendata.vancouver.ca/explore/dataset/council-voting-records/ |
 | Victoria Council Meetings and Agendas | Victoria · Municipal | Council meetings | City of Victoria council and committee meeting calendars, agendas, minutes, and webcasts for current and archived sessions. | https://www.victoria.ca/city-government/mayor-council/council-committee-meetings |
 | White Rock — Council Voting Records 2022-2026 | White Rock · Municipal | Dataset | Feature service with individual councillor voting records for regular council meetings 2022–2026. Query by meeting date, agenda item, or vote outcome to track how each councillor voted on specific bylaws, development applications, and budget items. Downloadable as CSV, GeoJSON, Shapefile, or via ArcGIS REST API. | https://data.whiterockcity.ca/datasets/9f5cb40bda414278aef47f588f8cdd28/about |
@@ -385,6 +390,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Calgary Council and Committee Votes | Calgary · Municipal | Vote dataset | Open Calgary dataset of council and committee votes with motion text, outcomes, and member votes. API and CSV export available. | https://data.calgary.ca/Government/Council-and-Committee-Votes/ruq3-99hx |
 | Edmonton Council Meetings (eScribe) | Edmonton · Municipal | Agendas and minutes | Published council and committee agendas, minutes, and attachments with calendar search on the City of Edmonton eScribe portal. | https://pub-edmonton.escribemeetings.com/ |
 | Edmonton Council Voting Record (2021–2025) | Edmonton · Municipal | Vote dataset | Council and committee voting records with motion details from the Edmonton Open Data Portal — filter and export via Socrata API. | https://data.edmonton.ca/City-Administration/2021-2025-Council-And-Committee-Meetings-Voting-Re/ekzq-b4qg |
+| Grande Prairie Council Meeting Video Archive | Grande Prairie · Municipal | Council video archive | YouTube archive of Grande Prairie City Council and standing committee meetings including Investment & Strategy, Public & Protective Services, Financial & Administrative Services, and Operational Services committees. | https://www.youtube.com/user/GrandePrairieCA/ |
 | Medicine Hat City Council Meetings | Medicine Hat · Municipal | Council meetings | Medicine Hat City Council agendas, minutes, and meeting schedules. | https://www.medicinehat.ca/government-city-hall/mayor-city-council-administration/agendas-minutes/ |
 | Red Deer City Council Meetings | Red Deer · Municipal | Council meetings | Red Deer City Council agendas, minutes, and meeting video. | https://www.reddeer.ca/city-government/mayor-and-city-councillors/council-meetings-and-schedule/ |
 
@@ -393,9 +399,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Estevan — Council Agendas & Minutes | Estevan · Municipal | Council documents | Downloadable PDF agendas and minutes for Estevan City Council regular meetings. Current 2026 meetings available with archived records going back several years. First council democracy entry for this Saskatchewan energy-sector city. | https://estevan.ca/council-meetings-and-agendas-2-2/ |
+| North Battleford — Council Agendas & Minutes (eScribe) | North Battleford · Municipal | Council meetings portal | Searchable City of North Battleford council agendas, minutes, and attachments on the public eScribe portal. Includes regular and special council meetings. | https://pub-northbattleford.escribemeetings.com/ |
 | Regina Council Meetings | Regina · Municipal | Council meetings | Regina City Council meeting agendas, minutes, and video for council and board sessions. | https://www.regina.ca/city-government/city-council/council-meetings/ |
 | Saskatoon Council Meetings | Saskatoon · Municipal | Council meetings | Saskatoon City Council and committee agendas, minutes, and meeting videos with calendar search. | https://www.saskatoon.ca/council |
 | Weyburn — Council Meeting Video Archive | Weyburn · Municipal | Video archive | YouTube archive of Weyburn City Council regular and special meeting videos, with timestamps. Covers meetings from 2023–present. Useful for citizens, journalists, and researchers who want to review council deliberations, public hearings, and votes without attending in person. First council depth entry for Weyburn beyond its building permit reports. | https://www.youtube.com/channel/UCOEjIuL-2e_jCf2lJa2m02A |
+| Yorkton — Council Agendas & Minutes (eScribe) | Yorkton · Municipal | Council meetings portal | Searchable City of Yorkton council agendas, minutes, and attachments on the public eScribe portal. Includes regular council meetings. | https://pub-yorkton.escribemeetings.com/ |
 
 ### Manitoba
 
@@ -426,10 +434,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Kingston City Council — YouTube Video Archive | Kingston · Municipal | Video archive | Official YouTube channel archiving City of Kingston Council and Committee meetings from October 2014 to present. Includes full Council, Standing Committees, Committee of Adjustment, and Design Review Panel recordings. Searchable by date and keyword — essential for tracking municipal decisions, public delegations, and voting records. | https://www.youtube.com/c/KingstonCityCouncil |
 | London Council and Committee Meetings | London · Municipal | Agendas and minutes | Browse London City Council and standing committee agendas, minutes, and video recordings. | https://london.ca/government/council-civic-administration/city-council |
 | Mississauga Council and Committees — eScribe | Mississauga · Municipal | Agendas and minutes | Search council and committee agendas, minutes, and video for City of Mississauga meetings. | https://pub-mississauga.escribemeetings.com/ |
+| Oshawa — Council Meetings (eScribe + Video) | Oshawa · Municipal | Council meetings portal | eScribe portal with searchable agendas, minutes, and video recordings for Oshawa City Council and committee meetings including Corporate and Finance Services, Economic and Development Services, and Planning Act meetings. | https://www.oshawa.ca/council |
 | Ottawa Council Agendas and Minutes (eScribe) | Ottawa · Municipal | Agendas and minutes | Searchable council and committee agendas, minutes, attachments, and meeting videos with calendar filtering on the eScribe portal. | https://pub-ottawa.escribemeetings.com/ |
+| Richmond Hill — Council Agendas & Minutes (eScribe) | Richmond Hill · Municipal | Council meetings portal | Searchable City of Richmond Hill council agendas, minutes, and attachments on the public eScribe portal. Includes council meetings, council public meetings, special council meetings, and inaugural council meetings. | https://pub-richmondhill.escribemeetings.com/ |
 | Thunder Bay Council Meetings | Thunder Bay · Municipal | Council meetings | Thunder Bay City Council meeting agendas, minutes, and webcasts. | https://www.thunderbay.ca/en/city-hall/city-council-thunder-bay.aspx |
 | Timmins CivicWeb Council Portal | Timmins · Municipal | Council agendas and minutes | City of Timmins council calendar, agendas, minutes, resolutions, and by-laws — email subscription for new meeting packages. | https://timmins.civicweb.net/Portal/ |
 | Toronto Council Voting Records (TMMIS) | Toronto · Municipal | Vote records | Generate councillor attendance and voting records by meeting, committee, and date range; export results as CSV from TMMIS. | https://www.toronto.ca/legdocs/tmmis/votes-and-attendance.htm |
+| Welland — Council Agendas, Minutes & Web Streaming | Welland · Municipal | Council meetings portal | eScribe portal and direct PDF downloads for Welland City Council agendas and minutes 2022–present, plus livestream archives and web streaming links for regular and special council meetings. | https://www.welland.ca/council/AgendasMinutes.asp |
 | Whitby Find Your Ward | Whitby · Municipal | Interactive map | Address-based ward lookup tool for Whitby residents. Enter a civic address to identify your electoral ward and corresponding councillor. Useful for voter engagement, community organizing, campaigns, and understanding municipal representation boundaries. Hosted on the Whitby GeoHub ArcGIS platform. First council/democracy depth entry for Whitby beyond its GeoHub portal. | https://whitby.maps.arcgis.com/apps/instant/sidebar/index.html?appid=08adc676adc2432e85fc05fe43e18ebe |
 | Windsor Council Meetings — eScribe | Windsor · Municipal | Council meetings portal | Windsor City Council and standing committee agendas, minutes, and attachments on the public eScribe portal. | https://windsor.ca/city-hall/council-meetings |
 
@@ -442,7 +453,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Laval Council Meetings | Laval · Municipal | Council meetings | Ville de Laval council session agendas, minutes, and video for municipal council meetings. | https://www.laval.ca/conseil-municipal/seances |
 | Lévis — Ordres du jour du conseil | Lévis · Municipal | Council agendas | PDF agendas for City of Lévis council meetings — subscribe to email alerts when new agendas are published. | https://www.ville.levis.qc.ca/la-ville/conseil-municipal/ordres-du-jour/ |
 | Lévis — Procès-verbaux du conseil | Lévis · Municipal | Council minutes | Council minutes and decision summaries for Lévis — published the Wednesday after each council meeting with linked decision briefs. | https://www.ville.levis.qc.ca/la-ville/conseil-municipal/proces-verbaux/ |
-| Longueuil Council Meetings | Longueuil · Municipal | Council meetings | Ville de Longueuil municipal council session agendas, minutes, and video. | https://www.longueuil.quebec/fr/seances-du-conseil |
+| Longueuil Council Meetings | Longueuil · Municipal | Council meetings | Ville de Longueuil municipal council and committee meeting schedules, agendas, minutes, and video. | https://www.longueuil.quebec/fr/services/instances-decisionnelles |
 | Repentigny Council — Agendas & Minutes | Repentigny · Municipal | Council meetings | Downloadable PDF agendas (ordre du jour) and minutes (procès-verbal) for Repentigny city council meetings, including special sessions. Direct PDF links for each meeting from 2025–2026. Useful for tracking council decisions, by-law adoptions, and zoning approvals in this Lanaudière city. First council entry for Repentigny. | https://repentigny.ca/la-ville/vie-democratique/conseil-municipal |
 | Rouyn-Noranda Council Agendas & Minutes | Rouyn-Noranda · Municipal | Council meetings | Downloadable PDF agendas (ordre du jour) and minutes (procès-verbaux) for all regular Rouyn-Noranda city council meetings. Direct PDF links for each 2026 session with no login wall. Track motions, decisions, and debates in Quebec's Abitibi-Témiscamingue region. | https://www.rouyn-noranda.ca/ville/vie-democratique/seances-conseil |
 | Saguenay — Documents des conseils | Saguenay · Municipal | Council documents | Saguenay municipal and borough council agendas, minutes, and livestream archives for Chicoutimi, Jonquière, and La Baie. | https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/documents-des-conseils-et-avis-publics/documents-des-conseils |
@@ -468,6 +479,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | St. John's — Council eScribe Portal | St. John's · Municipal | eScribe portal | Searchable council and committee agendas and minutes for St. John's. Access current and archived meeting records via the city's eScribe portal. | https://apps.stjohns.ca/escribe/Escribe.aspx |
 | St. John's Council Meetings | St. John's · Municipal | Council meetings | St. John's City Council meeting agendas, minutes, and webcasts for council sessions. | https://www.stjohns.ca/en/city-hall/mayor-and-council.aspx |
 | Stratford Council Agendas & Minutes | Stratford · Municipal | Council meetings | eScribe-linked meeting calendar with searchable regular council, committee, and advisory committee meetings for the Town of Stratford, PEI. Each meeting links to downloadable PDF agendas and minutes via the eScribe portal. Includes finance, heritage, energy, and licensing committees. | https://calendar.stratford.ca/meetings |
+| Summerside — Archived Council Agendas & Minutes | Summerside · Municipal | Council meeting agendas and minutes | Archived City of Summerside council, planning board, and committee meeting agendas and minutes (2014–present), downloadable as PDFs. Track local government decisions, development approvals, and public hearings. | https://www.summerside.ca/city_governance/council_chambers/archived_meeting_agendas_minutes |
+| Truro — Council Agendas & Minutes | Truro · Municipal | Council meeting agendas and minutes | Yearly archives of Town of Truro council meeting agendas and minutes (2020–2026), downloadable as PDFs. Track council decisions, public hearings, and committee reports. | https://truro.ca/government/council-agenda-and-minutes.html |
 
 ### Northern Canada (YT, NT, NU)
 
@@ -482,6 +495,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Bid — Contract Awards | British Columbia · Provincial | Procurement awards | Search awarded BC public sector contracts and standing offers on BC Bid — filter by ministry, vendor, and date. | https://bcbid.gov.bc.ca/page.aspx/en/buy/contract-award |
+| Maple Ridge Statement of Financial Information & Budget | Maple Ridge · Municipal | Financial documents | Direct PDF downloads of Maple Ridge's Statement of Financial Information (SOFI), combined financial plan bylaws, capital works program, and pay transparency reports. | https://www.mapleridge.ca/your-government/plans-strategies/financial-planning-reporting |
+| Nanaimo — Annual Financial Reports | Nanaimo · Municipal | Financial statements | Downloadable PDF annual financial statements and annual reports for the City of Nanaimo from 2019 to present. Review consolidated financial position, revenue, expenses, and capital investments year-over-year. First budget depth entry for Nanaimo. | https://www.nanaimo.ca/your-government/budget-finance/annual-financial-reports |
 | Prince George Annual Reports & Corporate Plan | Prince George · Municipal | Annual reports | Direct PDF downloads of the City of Prince George audited annual reports and strategic corporate plans from 2022 through 2025. Track municipal financial performance, capital projects, and long-term planning priorities for northern British Columbia's largest city. | https://www.princegeorge.ca/city-hall/annual-report-strategic-plan-corporate-plan |
 | Vancouver Financial Transparency | Vancouver · Municipal | Financial reports | City of Vancouver financial transparency hub with annual reports, statements, and open financial datasets. | https://vancouver.ca/your-government/financial-transparency.aspx |
 
@@ -492,15 +507,20 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Calgary Open Budget | Calgary · Municipal | Budget open data | Approved operating and capital budget lines for the City of Calgary — filter by department, fund, and year with CSV/API export from Open Calgary. | https://data.calgary.ca/Government/Calgary-Open-Budget/fqax-i3nz |
 | Edmonton Approved Operating Budget — Expenses | Edmonton · Municipal | Budget dataset | Machine-readable approved operating budget expense lines by branch and service — download CSV or query Socrata API. | https://data.edmonton.ca/Financial/Approved-Operating-Budget-Expenses/da9s-v9j8 |
 | Edmonton Open Budget | Edmonton · Municipal | Budget dashboard | Interactive operating and capital budget explorer for City of Edmonton with revenues, expenditures, and year-over-year comparisons. | https://budget.edmonton.ca/ |
+| Grande Prairie — Open Budget | Grande Prairie · Municipal | Budget open data | Interactive ArcGIS Hub portal for City of Grande Prairie budget and financial data. Explore revenue and expenditures by service area and department with CSV download, dashboards, and archive of multi-year budget highlights. | https://openbudget-cityofgp.hub.arcgis.com/ |
+| Medicine Hat — Budget & Financial Plans | Medicine Hat · Municipal | Budget documents | Direct PDF downloads of Medicine Hat budget briefings, highlights, business plans, and financial updates (2023–2026). Useful for analyzing municipal spending priorities, service levels, and fiscal health in this Alberta mid-size city. | https://www.medicinehat.ca/government-city-hall/budgets-finance/budget-information/ |
 | Strathcona County — 2026 Property Tax Assessment | Strathcona County · Municipal | Dataset | Parcel-level property tax assessment dataset for 2026 with assessed value, roll number, civic address, building details (square footage, bedrooms, bathrooms, garage, basement, fireplace), and geocoded coordinates. Downloadable as CSV, GeoJSON, Shapefile, or via ArcGIS REST API. Useful for real estate analysis, valuation research, and equity comparison. | https://opendata-strathconacounty.hub.arcgis.com/datasets/211214c329394005a5a3c43a277b0d38/about |
 
 ### Saskatchewan
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Estevan — Annual Budget | Estevan · Municipal | Budget documents | Direct PDF downloads of annual budget documents for the City of Estevan, including proposed and final budgets from 2021 to 2026. Useful for tracking municipal spending priorities, tax changes, and capital investments in this Saskatchewan energy-sector city. | https://estevan.ca/annual-budget/ |
 | Lloydminster — Accounts Payable Reports | Lloydminster · Municipal | Vendor payment ledger | Monthly PDF accounts payable reports listing all vendor payments made by the City of Lloydminster. Updated monthly by the Finance department. Useful for tracking municipal spending, vendor relationships, and fiscal accountability. | https://www.lloydminster.ca/council-administration/finance/accounts-payable-reports/ |
+| Lloydminster — Budget & Capital Plans | Lloydminster · Municipal | Budget documents | Direct PDF downloads of approved operating budgets, capital budgets, and 10-year capital plans for the City of Lloydminster (2023–2026). Complements the existing accounts payable entry with forward-looking fiscal planning documents for this Saskatchewan–Alberta border city. | https://www.lloydminster.ca/council-administration/finance/budget/ |
 | Moose Jaw — Financial & Budget Reports | Moose Jaw · Municipal | Budget documents | Direct PDF downloads of Moose Jaw annual operating and capital budgets (2023–2025) plus quarterly financial reports (Q1–Q3 2025). Complements the existing Questica OpenBook interactive budget explorer with static document downloads for archival research and offline analysis. | https://moosejaw.ca/financial-budget-reports/ |
 | Moose Jaw Open Budget | Moose Jaw · Municipal | Budget explorer | Interactive budget explorer for the City of Moose Jaw showing operating and capital budgets for 2026-2030. Drill down into departments, revenues, and expenses, and export data. | https://moosejaw.openbook.questica.com |
+| North Battleford — Audited Financial Statements & Annual Reports | North Battleford · Municipal | Financial statements | Downloadable PDF audited financial statements and annual reports for the City of North Battleford from 2018 to present. Track municipal spending, revenue, debt, and capital investments over time. First budget depth entry beyond the existing budget documents page. | https://www.cityofnb.ca/our-city-government/budgets-and-finances/financial-statements-and-reports/ |
 | North Battleford — Budget Documents | North Battleford · Municipal | Budget documents | Direct PDF downloads of City of North Battleford approved budgets from 2018–2026, including operating and capital plans plus the 2025–2029 strategic plan. First budget transparency entry for this Saskatchewan mid-size city. | https://www.cityofnb.ca/our-city-government/budgets-and-finances/ |
 | Prince Albert Budget and Financial Documents | Prince Albert · Municipal | Budget documents | Access City of Prince Albert current and past budget books, annual reports, and public accounts. Includes detailed breakdowns for general, water, sanitation, airport, and land funds via Questica OpenBooks. | https://www.citypa.ca/city-hall/finances/ |
 | Saskatoon — Non-Standard Procurement (Sole Source) | Saskatoon · Municipal | Dataset | Dataset of non-standard procurements (sole-source contracts) over 5,000 for goods, services, and construction purchased by City of Saskatoon departments. Updated regularly. Available for CSV download and API access. | https://data-citysaskatoon.opendata.arcgis.com/datasets/9470d912e6204cb8964ff19e16cb8521_0/explore |
@@ -529,7 +549,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Public Sector Salary Disclosure | Ontario · Provincial | Salary disclosure | Searchable and downloadable public sector salary disclosure (Sunshine List) for Ontario employees earning over $100,000 — filter by organization, position, and year | https://www.ontario.ca/page/public-sector-salary-disclosure |
 | Brantford Budget and Finance | Brantford · Municipal | Budget documents | Download City of Brantford annual operating and capital budgets (2024-2026), multi-year budget plans, budget summaries, and the mayor's budget messages as direct PDFs. Includes capital budget summary and net operating budget breakdowns — useful for fiscal accountability and tracking spending priorities in Brantford, Ontario. | https://www.brantford.ca/your-government/city-budget/ |
 | Mississauga Procurement Awards Open Data | Mississauga · Municipal | Procurement awards | Awarded contracts and procurement results published on the Mississauga open data catalogue for vendor transparency. | https://data.mississauga.ca/browse?category=Finance |
+| Niagara Falls Budget & Financial Reports | Niagara Falls · Municipal | Budget documents | Direct PDF downloads of Niagara Falls operating, capital, water, wastewater, and parking budgets from 2024 to 2026, including mayor's proposed and adopted versions. | https://niagarafalls.ca/city-government/budget-and-finances/budgets/ |
 | Ottawa Spending and Budget Open Data | Ottawa · Municipal | Budget open data | City of Ottawa budget, spending, and financial datasets on the open data portal — operating and capital budget tables with API access. | https://open.ottawa.ca/browse?category=Budget+%26+Finance |
+| Peterborough Budget & Financial Reports | Peterborough · Municipal | Budget documents | Downloadable PDF budget books and financial reports for the City of Peterborough, including annual operating and capital budgets, financial statements, and interactive ConnectPtbo budget portals. | https://www.peterborough.ca/council-city-hall/city-budget/budget-documents-and-financial-reports/ |
+| St. Catharines — Budgets & Financial Statements | St. Catharines · Municipal | Budget documents | Direct PDF downloads of St. Catharines capital and operating budgets, multi-year budgets, and water/wastewater financial plans from 2017 to present. Track municipal spending, infrastructure investments, and fiscal forecasts year-over-year. | https://www.stcatharines.ca/council-and-administration/budget-and-finances/budgets-and-financial-statements/ |
 | City of Toronto Expense Reports | Toronto · Municipal | Expense disclosure | Councillor and senior staff expense reports published proactively — search and download hospitality, travel, and office spending. | https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-clerk/expense-reports/ |
 | City of Toronto Vendor Payments (Open Data) | Toronto · Municipal | Vendor payments | Quarterly open data releases of City of Toronto payments to vendors over reporting thresholds. | https://open.toronto.ca/dataset/payments-to-vendors/ |
 
@@ -541,9 +564,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Gatineau — Liste de contrats | Gatineau · Municipal | Contracts list | Published list of municipal contracts awarded by Ville de Gatineau — procurement transparency for vendors and researchers. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fliste_contrats |
 | Gatineau — Rémunération des élus | Gatineau · Municipal | Elected officials remuneration | Councillor and mayor salary and expense disclosure for Gatineau elected officials — published remuneration reports. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fremuneration_elus |
 | Laval Budget & Financial Reports | Laval · Municipal | Budget documents | Direct PDF downloads of Laval's annual operating budgets (2020–2026), three-year capital investment programs (PTI), consolidated financial reports (2019–2024), councillor remuneration disclosures (rémunération élus, 2019–2024), credit rating reports, and public accountability reports (reddition de comptes). Quebec's third-largest city (~440k population). First budget entry for Laval, covering both fiscal planning and salary transparency. | https://www.laval.ca/organisation-municipale/budgets-rapports-financiers/ |
+| Longueuil — Budget & Financial Reports | Longueuil · Municipal | Consolidated budget and financial reports | Ville de Longueuil consolidated budget page with links to agglomeration budget PDFs (2013–present), expense and revenue breakdowns, and the three-year capital investment plan. Analyze municipal spending priorities and tax allocation in this Quebec urban center. | https://www.longueuil.quebec/fr/budget |
 | Repentigny Budget & Finance | Repentigny · Municipal | Budget documents | Direct PDF downloads of Repentigny's annual municipal budgets from 2015 to 2026, including budget summaries and the mayor's budget speech. Useful for tracking spending priorities, tax rate changes, and capital project allocations over a decade. First budget entry for Repentigny. | https://repentigny.ca/la-ville/a-propos/finances |
 | Rimouski Budget & Financial Reports | Rimouski · Municipal | Budget documents | Direct PDF downloads of Rimouski's annual budgets (2022–2026), audited financial reports, mayor's financial situation report, salary and expense disclosure (rémunération et allocation de dépenses), public contracts list (liste des contrats), and three-year capital investment plan (PQI). Key proactive disclosure resource covering both budget and vendor payment transparency. First budget entry for Rimouski. | https://rimouski.ca/ville/administration/budget-et-rapports-financiers |
 | Rouyn-Noranda Budget & Financial Reports | Rouyn-Noranda · Municipal | Financial documents | Direct PDF downloads of Rouyn-Noranda's 2026 municipal budget, three-year capital investment plan (PTI 2026-2028), the mayor's financial situation report for 2025, and the consolidated financial report for 2025. Includes operating and capital budget breakdowns for Quebec's largest city in Abitibi-Témiscamingue. | https://www.rouyn-noranda.ca/ville/vie-democratique/budget-et-rapports-financiers |
+| Shawinigan — Budget & Financial Reports | Shawinigan · Municipal | Budget documents | Downloadable PDF budget documents, capital plans (PQI), and audited financial statements for the City of Shawinigan. Includes annual budgets 2020–2025, mayor's budget speeches, and performance audits. | https://www.shawinigan.ca/ville/budget-et-etats-financiers/ |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -564,6 +589,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Paradise — Cheque Register | Paradise · Municipal | Vendor payment ledger | Monthly PDF downloads of all vendor and supplier payments made by the Town of Paradise. Track municipal spending, identify top vendors, and analyze procurement patterns from January 2020 onward. | https://www.paradise.ca/government-engage/cheque-register/ |
 | St. John's — Weekly Payment Vouchers | St. John's · Municipal | Vendor payment ledger | Weekly PDF payment vouchers listing all vendor payments made by the City of St. John's from 2021 to present. Download by year to track municipal spending, identify top vendors, and analyze procurement patterns. | https://www.stjohns.ca/your-government/access-to-information-and-protection-of-privacy/proactive-disclosures |
 | Stratford — Town Council Expenses | Stratford · Municipal | Expense reports | Annual PDF downloads of Stratford Town Council expense claims and travel expenses, 2016–2025. Itemized spending reports for mayor and councillors. First budget transparency entry for this PEI municipality. | https://townofstratford.ca/government-services/town-governance/town-council-expenses/ |
+| Summerside — Annual Budgets | Summerside · Municipal | Annual budget documents | City of Summerside annual budget PDFs (2021–2027). Download to track municipal spending priorities, service allocations, and fiscal planning in Prince Edward Island's second-largest city. | https://www.summerside.ca/city_governance/bylaws_policies_reports/annual_budgets |
+| Truro — Financial Statements & Budget | Truro · Municipal | Audited financial statements and budget | Town of Truro audited financial statements and budget presentations, including 2024–2025 consolidated financial statements. Download PDFs to analyze municipal fiscal health, revenue sources, and capital spending. | https://truro.ca/town-services/financial-statements-budget.html |
+| Yarmouth — Audited Financial Statements | Yarmouth · Municipal | Financial statements | Downloadable PDF audited consolidated and non-consolidated financial statements for the Town of Yarmouth. Review municipal fiscal health, revenue, expenses, and asset management. First budget depth entry for Yarmouth. | https://townofyarmouth.ca/departments/finance/audited-statements |
 
 ### Northern Canada (YT, NT, NU)
 
@@ -769,7 +797,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| SEAO — Système électronique d'appels d'offres du Québec | Quebec · Provincial | Procurement | Quebec's electronic tender system for public contracts with full search and alerts — currently offline as of May 2026 | https://www.seao.ca/ |
+| SEAO — Système électronique d'appels d'offres du Québec | Quebec · Provincial | Procurement | Quebec's electronic tender system for public contracts with full search and alerts — currently offline as of May 2026 | https://seao.ca/ |
 
 ## 💼 Employment & Labour
 
@@ -810,7 +838,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| CNESST — Quebec Labour Standards | Quebec · Provincial | Regulator | Quebec commission on labour standards, pay equity, occupational health, and work accidents | https://www.cnesst.gouv.qc.ca/en |
+| CNESST — Quebec Labour Standards | Quebec · Provincial | Regulator | Quebec commission on labour standards, pay equity, occupational health, and work accidents — open data portal with downloadable datasets on workplace injuries, active establishments, and accepted deaths | https://www.donneesquebec.ca/recherche/dataset?organization=cnesst |
 
 ## 🎓 Education & Student Aid
 
@@ -900,7 +928,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario School Enrolment by Grade | Ontario · Provincial | Enrolment dataset | Annual school-level enrolment by grade from OnSIS October submission — filter by board, school type, and language. CSV download. | https://data.ontario.ca/dataset/school-enrolment-by-grade |
 | Ontario School Information and Demographics | Ontario · Provincial | School profiles dataset | Board and school contact data plus EQAO achievement indicators by school — download consolidated CSV for analysis. | https://data.ontario.ca/dataset/school-information-and-student-demographics |
 | Halton Catholic District School Board — School Finder | Halton · Regional | Boundary map | Interactive map to find Catholic school catchment boundaries, school locations, and program offerings across Halton Region (Burlington, Oakville, Milton, Halton Hills). | https://schoolplanning.hcdsb.org/find-your-school/ |
-| Peel District School Board School Finder | Peel · Regional | School boundary lookup | Search Peel Region addresses to find assigned PDSB schools — links to Directions boundary maps for elementary and secondary catchments. | https://school-finder.peelschools.org |
+| Peel District School Board School Finder | Peel · Regional | School boundary lookup | Search Peel Region addresses to find assigned PDSB schools — links to Directions boundary maps for elementary and secondary catchments. | https://www.peelschools.org/school-finder |
 | YRDSB School Locator | York Region · Regional | School boundary lookup | Enter a York Region street address to find designated elementary and secondary schools with links to boundary map PDFs. | https://schoollocator.yrdsb.ca/ |
 | Ottawa-Carleton District School Board School Locator | Ottawa · Municipal | School boundary lookup | OCDSB interactive school locator — find elementary and secondary schools by home address within Ottawa. | https://www.ocdsb.ca/our-schools/school-locator |
 | TDSB Open Data | Toronto · Municipal | School board open data | Toronto District School Board open data policy portal — research datasets, census results, and public reports where publishable. | https://www.tdsb.on.ca/Open-Data |
@@ -1350,6 +1378,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | STO — Outaouais Transit (Gatineau) | Quebec · Municipal | Transit | Société de transport de l'Outaouais trip planning and schedules for Gatineau | https://www.sto.ca/en/ |
 | RTC — Réseau de transport de la Capitale (Quebec City) | Quebec City · Municipal | Transit | Quebec City bus trip planning, schedules, and real-time arrivals | https://www.rtcquebec.ca/ |
 | RTC Québec — GTFS Open Data | Quebec City · Municipal | GTFS feed | Réseau de transport de la Capitale GTFS schedules and route shapes for Quebec City transit — direct download from RTC open data. | https://www.rtcquebec.ca/en/open-data |
+| Rimouski — GTFS Transit Data | Rimouski · Municipal | GTFS dataset | Downloadable GTFS dataset for Citébus and Taxibus transit networks in Rimouski, including stop locations, routes, and schedules. Available in GTFS, CSV, GeoJSON, KML, and SHP formats via Données Québec. | https://www.donneesquebec.ca/recherche/dataset/transport-collectif |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -1469,7 +1498,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario Trails Council | Ontario · Agency | Trails finder | Searchable directory of 2,300+ Ontario trails across hiking, biking, paddling, and skiing | https://ontariotrails.on.ca/ |
 | Ontario Parks | Ontario · Provincial | Park finder / booking | Park discovery, camping, maps, and trip planning | https://www.ontarioparks.ca/ |
-| Caledon Trails Open Data | Caledon · Municipal | Trails GIS dataset | Caledon trail network GIS layers on open data — download paths and recreation routes or query via municipal map services. | https://maps.caledon.ca/calgis/rest/services/External/Trails/MapServer |
+| Caledon Trails Open Data | Caledon · Municipal | Trails GIS dataset | Caledon trail network GIS layers on the municipal open data hub — download paths and recreation routes or explore via the geohub. | https://geohub-caledon.hub.arcgis.com/ |
 
 ### Quebec
 
@@ -1648,7 +1677,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Yukon Energy Map | Yukon · Provincial | Energy map | Yukon energy infrastructure, electricity generation, and transmission maps | https://yukon.ca/en |
+| Yukon Energy Map | Yukon · Provincial | Energy map | Yukon renewable energy infrastructure, electricity generation, and transmission maps. | https://yukon.ca/en/renewable-energy-map |
 
 ## 🌾 Agriculture, Food & Drink
 
@@ -1812,6 +1841,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ottawa Heritage Register (Not Designated) | Ottawa · Municipal | Heritage register layer | Query heritage register properties not yet designated — includes heritage statements, recognition status, and legal descriptions via Planning GIS. | https://maps.ottawa.ca/ArcGIS/rest/services/Planning/MapServer/60 |
 | SooMaps Heritage Sites Data | Sault Ste. Marie · Municipal | Heritage sites dataset | Weekly-refreshed CSV/JSON extracts of Sault Ste. Marie heritage sites from official GIS — sourced from city SooMaps open data program. | https://cityssm.github.io/soomaps-data/ |
 | St. Thomas Heritage Properties | St. Thomas · Municipal | Heritage property listing | Searchable listing of designated and listed heritage properties in St. Thomas with location and designation details. | https://www.stthomas.ca/visiting_us/heritage_properties |
+| Thunder Bay — Heritage Register CSV | Thunder Bay · Municipal | Dataset | CSV download of heritage-registered properties in Thunder Bay, including addresses, designation status, and heritage attributes. Useful for preservation research, development planning, and property due diligence. | https://opendata-thunderbay.hub.arcgis.com/datasets/bd50ba0dc1534a13b4cb6f057646b049 |
 | Toronto Heritage Register (Map) | Toronto · Municipal | Heritage map | Interactive map of properties on the City of Toronto Heritage Register — search by address for listed and designated sites. | https://www.toronto.ca/city-government/planning-development/heritage-preservation/heritage-register/ |
 
 ### Quebec
@@ -1953,7 +1983,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Competition Bureau Canada — Corporate Search | Canada · Federal | Corporate search | Search for registered businesses, corporate histories, and merger information | https://www.competitionbureau.gc.ca/eng/mergers-and-acquisitions |
 | National Do Not Call List | Canada · Agency | Service | Register Canadian phone numbers to reduce unwanted telemarketing calls | https://www.lnnte-dncl.gc.ca/ |
 | Office of the Privacy Commissioner of Canada | Canada · Agency | Regulator | Privacy complaints, PIPEDA guidance, and breach reporting for Canadians | https://www.priv.gc.ca/ |
-| Spam Reporting Centre — Fight Spam | Canada · Agency | Reporting | Report spam, phishing, and malicious electronic messages under CASL | https://www.fightspam.gc.ca/ |
+| Spam Reporting Centre — Fight Spam | Canada · Agency | Reporting | CRTC anti-spam information and guidance on reporting spam, phishing, and malicious electronic messages under CASL. | https://crtc.gc.ca/eng/internet/anti.htm |
 
 ### British Columbia
 
@@ -2019,9 +2049,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Parlinfo — Canadian Parliamentary Database | Canada · Federal | Database | Historical and current data on parliamentarians, parties, cabinet, and elections | https://lop.parl.ca/ParlInfo/ |
 | Senate of Canada | Canada · Federal | Legislative | Senate chamber business, committee reports, senators' biographies, and votes | https://sencanada.ca/ |
 | Canada Gazette — Government Consultations | Canada · Agency | Consultations | Browse active government consultations and provide feedback | https://gazette.gc.ca/ |
-| Elections Canada — Electoral Districts Map | Canada · Agency | Electoral map | Interactive map of federal electoral district boundaries | https://www.elections.ca/content2.aspx |
-| Elections Canada — Results Tool | Canada · Agency | Results | Official past federal election results by riding, with poll-by-poll maps | https://www.elections.ca/content.aspx?section=res&dir=cir/list&document=index&lang=e |
-| Elections Canada — Voter Information Service | Canada · Agency | Voter tool | Find your polling station, candidates, and election results | https://www.elections.ca/content.aspx |
+| Elections Canada — Electoral Districts Map | Canada · Agency | Electoral map | Interactive map of federal electoral district boundaries | https://www.elections.ca/content.aspx?section=res&dir=cir/maps2&document=index&lang=e |
+| Elections Canada — Results Tool | Canada · Agency | Results | Official past federal election results by riding, with poll-by-poll maps | https://www.elections.ca/content.aspx?section=res&dir=cir&document=index&lang=e |
+| Elections Canada — Voter Information Service | Canada · Agency | Voter tool | Find your polling station, candidates, and election results | https://www.elections.ca/content.aspx?section=vot&document=index&lang=e |
 
 ### British Columbia
 
@@ -2052,7 +2082,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Ontario Elections — Find Your Electoral District | Ontario · Agency | Voter tool | Find your provincial electoral district and candidates | https://www.ontario.ca/laws |
+| Ontario Elections — Find Your Electoral District | Ontario · Agency | Voter tool | Find your provincial electoral district, polling place, and candidates via the Ontario voter information service. | https://voterinformationservice.elections.on.ca/ |
 | Ontario Legislative Assembly — Hansard | Ontario · Agency | Legislative | Searchable record of debates and proceedings in the Ontario Legislature | https://www.ola.org/en |
 | Brampton Open Data | Brampton · Municipal | Open data portal | Civic data portal with mapping and city datasets | https://geohub.brampton.ca/ |
 | London Open Data | London · Municipal | Open data | City of London's open data portal — datasets, maps, and civic information for southwestern Ontario's largest city | https://london.ca/open-data |
