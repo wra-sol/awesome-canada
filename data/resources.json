@@ -15586,5 +15586,95 @@
       "pdf"
     ],
     "dateAdded": "2026-07-13"
+  },
+  {
+    "name": "Burnaby — Financial Plans & Annual Reports",
+    "level": "Municipal",
+    "jurisdiction": "Burnaby",
+    "category": "budget",
+    "type": "Financial reports",
+    "description": "Download multi-year City of Burnaby financial plans (2022–2030) and annual municipal reports as PDFs. Track capital and operating budgets, reserve funds, and fiscal sustainability over time.",
+    "url": "https://www.burnaby.ca/our-city/financial-and-annual-reports",
+    "tags": [
+      "Burnaby",
+      "budget",
+      "financial plan",
+      "annual report",
+      "PDF"
+    ],
+    "dateAdded": "2026-07-14"
+  },
+  {
+    "name": "Surrey — Issued Building Permits",
+    "level": "Municipal",
+    "jurisdiction": "Surrey",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Explore and download City of Surrey issued building permit data via ArcGIS Hub. Filter by date, type, and location; download as CSV, GeoJSON, or Shapefile to analyze construction trends and development activity.",
+    "url": "https://opendata-surrey.hub.arcgis.com/datasets/issued-building-permits/explore",
+    "tags": [
+      "Surrey",
+      "building permits",
+      "construction",
+      "CSV",
+      "GeoJSON",
+      "Shapefile"
+    ],
+    "dateAdded": "2026-07-14"
+  },
+  {
+    "name": "Whitehorse — Council Agendas & Minutes (InfoCouncil)",
+    "level": "Municipal",
+    "jurisdiction": "Whitehorse",
+    "category": "council",
+    "type": "Agendas and minutes",
+    "description": "Search and download PDF agendas, minutes, and attachments for City of Whitehorse council meetings from 2017 to present. Filter by year and month to track council decisions, public hearings, and bylaw approvals.",
+    "url": "https://whitehorse.infocouncil.biz/",
+    "tags": [
+      "Whitehorse",
+      "council",
+      "agendas",
+      "minutes",
+      "PDF"
+    ],
+    "dateAdded": "2026-07-14"
+  },
+  {
+    "name": "Markham — Interactive Zoning Map",
+    "level": "Municipal",
+    "jurisdiction": "Markham",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Search any Markham address to view zoning designations under the Comprehensive Zoning By-Law. Interactive ArcGIS Experience app showing permitted uses, development standards, and appeal status.",
+    "url": "https://experience.arcgis.com/experience/c0f5d5fa61004716b88adbc0c804614a",
+    "tags": [
+      "Markham",
+      "zoning",
+      "planning",
+      "arcgis",
+      "interactive map"
+    ],
+    "dateAdded": "2026-07-14"
+  },
+  {
+    "name": "Regina — Land Use and Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "Download Regina zoning and land use boundaries and code descriptions in multiple formats. Updated daily via the City of Regina open data portal. Useful for property analysis, development research, and GIS mapping.",
+    "url": "https://openregina.ca/dataset/land-use-and-zoning",
+    "tags": [
+      "Regina",
+      "zoning",
+      "land use",
+      "CSV",
+      "Shapefile",
+      "KML",
+      "JSON",
+      "XML",
+      "API"
+    ],
+    "dateAdded": "2026-07-14"
   }
 ]
