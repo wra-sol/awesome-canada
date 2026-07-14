@@ -8072,23 +8072,6 @@
     "dateAdded": "2028-07-08"
   },
   {
-    "name": "Saskatoon Open Data — Building and Development",
-    "level": "Municipal",
-    "jurisdiction": "Saskatoon",
-    "category": "open-data",
-    "type": "Planning datasets",
-    "description": "Saskatoon planning and development datasets including zoning and development activity on the city open data hub.",
-    "url": "https://opendata-saskatoon.spatial.epicore.com/",
-    "tags": [
-      "saskatoon",
-      "planning",
-      "open data",
-      "development"
-    ],
-    "dateAdded": "2028-07-11",
-    "status": "dead"
-  },
-  {
     "name": "SooMaps Open GIS Data Downloads",
     "level": "Municipal",
     "jurisdiction": "Sault Ste. Marie",
