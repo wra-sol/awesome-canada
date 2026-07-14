@@ -1344,8 +1344,8 @@
     "jurisdiction": "Canada",
     "category": "consumer",
     "type": "Reporting",
-    "description": "Report spam, phishing, and malicious electronic messages under CASL",
-    "url": "https://www.fightspam.gc.ca/",
+    "description": "CRTC anti-spam information and guidance on reporting spam, phishing, and malicious electronic messages under CASL.",
+    "url": "https://crtc.gc.ca/eng/internet/anti.htm",
     "tags": [
       "spam",
       "CASL"
@@ -1801,16 +1801,15 @@
     "jurisdiction": "Longueuil",
     "category": "council",
     "type": "Council meetings",
-    "description": "Ville de Longueuil municipal council session agendas, minutes, and video.",
-    "url": "https://www.longueuil.quebec/fr/seances-du-conseil",
+    "description": "Ville de Longueuil municipal council and committee meeting schedules, agendas, minutes, and video.",
+    "url": "https://www.longueuil.quebec/fr/services/instances-decisionnelles",
     "tags": [
       "longueuil",
       "quebec",
       "council",
       "agendas"
     ],
-    "dateAdded": "2024-12-23",
-    "status": "dead"
+    "dateAdded": "2024-12-23"
   },
   {
     "name": "Medicine Hat City Council Meetings",
@@ -2869,7 +2868,7 @@
     "category": "elections",
     "type": "Electoral map",
     "description": "Interactive map of federal electoral district boundaries",
-    "url": "https://www.elections.ca/content2.aspx",
+    "url": "https://www.elections.ca/content.aspx?section=res&dir=cir/maps2&document=index&lang=e",
     "tags": [
       "elections",
       "maps"
@@ -2910,8 +2909,8 @@
     "jurisdiction": "Ontario",
     "category": "elections",
     "type": "Voter tool",
-    "description": "Find your provincial electoral district and candidates",
-    "url": "https://www.ontario.ca/laws",
+    "description": "Find your provincial electoral district, polling place, and candidates via the Ontario voter information service.",
+    "url": "https://voterinformationservice.elections.on.ca/",
     "tags": [
       "elections",
       "Ontario"
@@ -9218,8 +9217,8 @@
     "jurisdiction": "Caledon",
     "category": "parks",
     "type": "Trails GIS dataset",
-    "description": "Caledon trail network GIS layers on open data — download paths and recreation routes or query via municipal map services.",
-    "url": "https://maps.caledon.ca/calgis/rest/services/External/Trails/MapServer",
+    "description": "Caledon trail network GIS layers on the municipal open data hub — download paths and recreation routes or explore via the geohub.",
+    "url": "https://geohub-caledon.hub.arcgis.com/",
     "tags": [
       "caledon",
       "trails",
@@ -9235,8 +9234,8 @@
     "jurisdiction": "Barrie",
     "category": "planning-zoning",
     "type": "Planning map",
-    "description": "Map layers for active building permits, zoning, official plan land use, and planning applications in Barrie.",
-    "url": "https://gispublic.barrie.ca/arcgis/rest/services/Public/PlanningDevelopment_SM_Dynamic/MapServer",
+    "description": "Map layers for active building permits, zoning, official plan land use, and planning applications in Barrie — now hosted on the municipal open data hub.",
+    "url": "https://geohub-barrie.hub.arcgis.com/",
     "tags": [
       "barrie",
       "planning",
@@ -10165,7 +10164,7 @@
     "category": "school-board",
     "type": "School boundary lookup",
     "description": "Search Peel Region addresses to find assigned PDSB schools — links to Directions boundary maps for elementary and secondary catchments.",
-    "url": "https://school-finder.peelschools.org",
+    "url": "https://www.peelschools.org/school-finder",
     "tags": [
       "peel",
       "pdsb",
@@ -12137,8 +12136,8 @@
     "jurisdiction": "Yukon",
     "category": "utilities",
     "type": "Energy map",
-    "description": "Yukon energy infrastructure, electricity generation, and transmission maps",
-    "url": "https://yukon.ca/en",
+    "description": "Yukon renewable energy infrastructure, electricity generation, and transmission maps.",
+    "url": "https://yukon.ca/en/renewable-energy-map",
     "tags": [
       "energy",
       "maps"
@@ -15490,5 +15489,102 @@
       "minutes"
     ],
     "dateAdded": "2026-07-12"
+  },
+  {
+    "name": "Kitchener — Building Permits",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "planning-zoning",
+    "type": "Feature Service",
+    "description": "Daily-updated building permits issued by the City of Kitchener. Downloadable as CSV, GeoJSON, Shapefile, or KML, and queryable via ArcGIS REST API. Each permit includes address, type, and status attributes useful for development tracking and urban planning research.",
+    "url": "https://open-kitchenergis.opendata.arcgis.com/datasets/c486d37abe2948d884a159cba20bec8c/about",
+    "tags": [
+      "Kitchener",
+      "Ontario",
+      "building permits",
+      "planning",
+      "CSV",
+      "GeoJSON",
+      "Shapefile",
+      "KML",
+      "api"
+    ],
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "name": "Airdrie — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Airdrie",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Airdrie council agendas, minutes, and attachments on the public eScribe portal. Includes Council Meeting, Council Budget Committee, and Special Council meetings with downloadable PDFs.",
+    "url": "https://pub-airdrie.escribemeetings.com/",
+    "tags": [
+      "airdrie",
+      "alberta",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "name": "Coquitlam — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Coquitlam",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Coquitlam council agendas, minutes, and attachments on the public eScribe portal. Includes Regular Council and Special Council meetings with downloadable PDFs.",
+    "url": "https://pub-coquitlam.escribemeetings.com/",
+    "tags": [
+      "coquitlam",
+      "british columbia",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "name": "Peterborough — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Peterborough",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Peterborough council agendas, minutes, and attachments on the public eScribe portal. Includes City Council Meeting, Council Compensation Committee, and Development Charges Complaint Hearing meetings with downloadable PDFs.",
+    "url": "https://pub-peterborough.escribemeetings.com/",
+    "tags": [
+      "peterborough",
+      "ontario",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-13"
+  },
+  {
+    "name": "Yellowknife — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Yellowknife",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Yellowknife council agendas, minutes, and attachments on the public eScribe portal. Includes Council Meeting and Special Council Meeting records with downloadable PDFs.",
+    "url": "https://pub-yellowknife.escribemeetings.com/",
+    "tags": [
+      "yellowknife",
+      "northwest territories",
+      "council",
+      "escribe",
+      "agendas",
+      "minutes",
+      "pdf"
+    ],
+    "dateAdded": "2026-07-13"
   }
 ]
