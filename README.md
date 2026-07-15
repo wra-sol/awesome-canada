@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 994 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1008 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -23,10 +23,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 153
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 63
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 80
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 69
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 154
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 67
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 88
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 70
 - [🪪 Government Services & ID](#government-services-and-id) — 33
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 13
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 15
@@ -94,8 +94,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Metro Vancouver Open Data Portal | Metro Vancouver · Regional | Open data hub | Regional GIS datasets including LiDAR point clouds, aerial orthoimagery, liquid and solid waste services, water services, regional parks, and Electoral Area A boundaries | https://open-data-portal-metrovancouver.hub.arcgis.com/ |
 | Abbotsford Open Data Hub | Abbotsford · Municipal | Open data hub | ArcGIS Hub for City of Abbotsford datasets — parks, transportation, boundaries, and municipal infrastructure with bulk download. | https://opendata-abbotsford.hub.arcgis.com/ |
 | Burnaby Open Data | Burnaby · Municipal | Open data portal | City of Burnaby maps and open data including zoning, parks, and civic datasets with download and API access. | https://www.burnaby.ca/City-Services/Maps-Open-Data.html |
+| Chilliwack Open Data Catalogue | Chilliwack · Municipal | Open data catalogue | City of Chilliwack open data catalogue with 41+ GIS datasets available in multiple formats including Shapefile, GeoDatabase, DWG, KML, JSON, CSV, and XLSX. Covers zoning, property, roads, parks, trails, addresses, and sanitary infrastructure. | https://www.chilliwack.com/main/page.cfm?id=2331 |
 | Coquitlam Open Data Portal | Coquitlam · Municipal | Open data portal | City of Coquitlam open data portal with planning, parks, transportation, and civic datasets. | https://data.coquitlam.ca/ |
 | Courtenay Open Data | Courtenay · Municipal | Open data hub | City of Courtenay ArcGIS open data portal with civic and planning datasets. | https://data-courtenay.opendata.arcgis.com/ |
+| Delta Open Data | Delta · Municipal | Open data hub | City of Delta ArcGIS Hub open data portal with 16 municipal datasets including building permits, business licences, property parcels, water mains, sanitary sewers, drainage, and rights-of-way. Download as CSV, GeoJSON, Shapefile, KML, or access via REST API. | https://opendata-deltabc.hub.arcgis.com/ |
 | Kamloops Open Data Hub | Kamloops · Municipal | Open data hub | ArcGIS open data for Kamloops with zoning, trails, parks, and city infrastructure layers. | https://mydata-kamloops.opendata.arcgis.com/ |
 | Kelowna Open Data Hub | Kelowna · Municipal | Open data hub | Download city datasets including zoning, property parcels, building footprints, tree inventory, parks, trails, and infrastructure as GeoJSON, shapefiles, or CSV | https://opendata-kelowna.hub.arcgis.com/ |
 | Township of Langley Open Data | Langley · Municipal | Open data hub | Township of Langley ArcGIS open data with property, parks, and municipal infrastructure layers. | https://data-tol.opendata.arcgis.com/ |
@@ -134,7 +136,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Regina Open Data | Regina · Municipal | Open data portal | CKAN open government portal for Regina with property, recreation, and civic datasets. | https://regina.opendata.arcgis.com/ |
 | Saskatoon Open Data | Saskatoon · Municipal | Open data portal | City of Saskatoon open data catalogue with transit GTFS, property, and civic datasets — browse and download via the municipal portal. | https://opendata.saskatoon.ca/ |
-| Saskatoon Open Data — Building and Development | Saskatoon · Municipal | Planning datasets | Saskatoon planning and development datasets including zoning and development activity on the city open data hub. | https://opendata-saskatoon.spatial.epicore.com/ |
 
 ### Manitoba
 
@@ -273,6 +274,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Kelowna Building Permits Open Data | Kelowna · Municipal | Building permits | Building permit issuance data for Kelowna on the municipal open data hub — filter by date, type, and neighbourhood. | https://opendata.kelowna.ca/ |
 | New Westminster Open Data — Building & Plumbing Permits | New Westminster · Municipal | Dataset | Dataset of building and plumbing permits issued in the City of New Westminster, published as an ArcGIS Feature Service. Download as CSV, GeoJSON, or shapefile, or query via REST API to filter by permit type, status, date, and location. Useful for tracking construction activity, development trends, and neighbourhood change in Metro Vancouver. | https://opendata.newwestcity.ca/datasets/59558177b3944a51855cfada5e12acbc/about |
 | Saanich Zoning GIS Data | Saanich · Municipal | Zoning dataset | Downloadable GIS zoning data for the District of Saanich in Shapefile, geodatabase, and DWG formats with metadata PDF — direct ZIP downloads from the municipal GIS server. | https://map.saanich.ca/gisdata/Zoning/ZoningSHP.zip |
+| Surrey — Issued Building Permits | Surrey · Municipal | Dataset | Explore and download City of Surrey issued building permit data via ArcGIS Hub. Filter by date, type, and location; download as CSV, GeoJSON, or Shapefile to analyze construction trends and development activity. | https://opendata-surrey.hub.arcgis.com/datasets/issued-building-permits/explore |
 | Vancouver Building Permits Issued | Vancouver · Municipal | Building permits dataset | Open data on issued building permits in Vancouver with project type, value, and address fields. | https://opendata.vancouver.ca/explore/dataset/issued-building-permits/ |
 | Vancouver Zoning & Land Use Districts | Vancouver · Municipal | Zoning dataset | Download zoning district boundaries and schedules from the Vancouver Open Data Portal for GIS analysis and property lookups. | https://opendata.vancouver.ca/explore/?disjunctive.zoning&sort=modified |
 | Victoria Building Permits Open Data | Victoria · Municipal | Building permits | Issued building and development permits on the City of Victoria open data catalogue with map and CSV export. | https://opendata.victoria.ca/browse?category=Planning |
@@ -294,6 +296,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Prince Albert Zoning Map | Prince Albert · Municipal | Zoning map | Interactive ArcGIS Experience zoning map for Prince Albert — search by address to view zoning districts, land use designations, and development regulations. | https://experience.arcgis.com/experience/a0a3210237cc40dcb613bf2f4a2072b2/page/Page/ |
+| Regina — Land Use and Zoning | Regina · Municipal | Dataset | Download Regina zoning and land use boundaries and code descriptions in multiple formats. Updated daily via the City of Regina open data portal. Useful for property analysis, development research, and GIS mapping. | https://openregina.ca/dataset/land-use-and-zoning |
 | Weyburn Building Permit Reports | Weyburn · Municipal | Building permits | Monthly building permit reports for the City of Weyburn, 2021–2026, plus annual summary reports back to 2018. Each monthly report lists permits issued by type, value, and location — track construction activity and development trends in southeast Saskatchewan. | https://www.weyburn.ca/services/building-planning/building-permit-reports/ |
 
 ### Manitoba
@@ -318,6 +321,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Hamilton Building Permits Open Data | Hamilton · Municipal | Building permits dataset | Issued building permits and related planning datasets on Open Hamilton — filter, map, and download via ArcGIS Hub. | https://open.hamilton.ca/datasets?q=building%20permit |
 | Hamilton Development Applications Open Data | Hamilton · Municipal | Development applications | Active development applications and planning status layers published on the City of Hamilton open data portal. | https://open.hamilton.ca/datasets?q=development%20application |
 | Kingston Building Permits — ArcGIS Hub | Kingston · Municipal | Dataset | Geocoded building permit dataset for City of Kingston showing active permits (last 3 years) and closed permits (last 18 months) with addresses, permit values, project descriptions, and status. Download as GeoJSON or explore on interactive map — useful for tracking construction activity and development in specific neighbourhoods. | https://maps-cityofkingston.hub.arcgis.com/datasets/cityofkingston::building-permits/about |
+| Kitchener — Building Permits | Kitchener · Municipal | Feature Service | Daily-updated building permits issued by the City of Kitchener. Downloadable as CSV, GeoJSON, Shapefile, or KML, and queryable via ArcGIS REST API. Each permit includes address, type, and status attributes useful for development tracking and urban planning research. | https://open-kitchenergis.opendata.arcgis.com/datasets/c486d37abe2948d884a159cba20bec8c/about |
+| Markham — Interactive Zoning Map | Markham · Municipal | Interactive map | Search any Markham address to view zoning designations under the Comprehensive Zoning By-Law. Interactive ArcGIS Experience app showing permitted uses, development standards, and appeal status. | https://experience.arcgis.com/experience/c0f5d5fa61004716b88adbc0c804614a |
 | Mississauga Building Permits Open Data | Mississauga · Municipal | Building permits | Search and download Mississauga building permit data from the open data catalogue with API access. | https://data.mississauga.ca/browse?category=Building+Permits |
 | Orillia Zone Mapping Feature Service | Orillia · Municipal | Zoning map service | Orillia zoning by-law zone polygons via County of Simcoe ArcGIS FeatureServer — query JSON/GeoJSON or export for GIS analysis. | https://maps.simcoe.ca/arcgis/rest/services/Orillia/Zone_Mapping/FeatureServer |
 | Ottawa Development Applications Map | Ottawa · Municipal | Development applications map | Query development applications subject to public consultation on a map; links to posting plans. ArcGIS REST supports JSON and GeoJSON export. | https://maps.ottawa.ca/arcgis/rest/services/Development_Applications/MapServer |
@@ -374,7 +379,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Abbotsford Council — Agendas, Minutes & Video | Abbotsford · Municipal | Council meetings | City of Abbotsford council and committee meeting portal with downloadable PDF agendas and minutes via eScribe and CivicWeb document repositories, plus a live stream and recorded video of council meetings. Browse by meeting date to track motions, decisions, public hearings, and delegations; download the 2026 council meeting calendar as a PDF. | https://www.abbotsford.ca/city-hall/council-committee-meetings/agendas-minutes-and-videos |
 | Burnaby Council — eScribe Agendas, Minutes & Video | Burnaby · Municipal | Council meetings | City of Burnaby council meetings hub with an eScribe searchable agenda and minutes portal, live-streamed and recorded council meetings via the city's video system, and historical minutes back to 2015 through the Heritage Burnaby archive. Download 2026 council and advisory body meeting calendars as PDFs; browse agendas, minutes, and reports by meeting date to track votes, public hearings, and decisions. | https://www.burnaby.ca/our-city/meetings-and-public-hearings |
+| Coquitlam — Council Agendas & Minutes (eScribe) | Coquitlam · Municipal | Council meetings portal | Searchable City of Coquitlam council agendas, minutes, and attachments on the public eScribe portal. Includes Regular Council and Special Council meetings with downloadable PDFs. | https://pub-coquitlam.escribemeetings.com/ |
 | Courtenay — Council Agendas & Minutes (eScribe) | Courtenay · Municipal | Council meetings portal | Searchable eScribe portal for City of Courtenay council and committee agendas, minutes, and attachments. Calendar-based search with PDF and HTML agenda formats, plus links to meeting reports. First council depth entry for Courtenay. | https://www.courtenay.ca/city-hall/mayor-and-council/council-meetings |
+| Delta Council Agendas & Minutes (eScribe) | Delta · Municipal | Meeting portal | eScribe public meeting portal for City of Delta council meetings. Searchable agendas, minutes, and attachments with PDF downloads. Browse upcoming and past regular and special council meetings. | https://pub-delta.escribemeetings.com/?FillWidth=1 |
 | Kelowna Council Meetings | Kelowna · Municipal | Council meetings | Kelowna City Council meeting schedules, agendas, minutes, and video recordings for council and standing committees. | https://www.kelowna.ca/city-hall/council/council-meetings |
 | Nanaimo — Council Meeting Video Archive (ISILive) | Nanaimo · Municipal | Video archive | ISILive video portal archiving City of Nanaimo Council, Committee, and Public Hearing meetings. Full-length recordings with searchable agendas and minutes linked alongside each video. Track council decisions, public delegations, and voting records without attending in person. First council depth entry for Nanaimo. | https://video.isilive.ca/nanaimo/VICC.html |
 | Prince George — Council Agendas & Minutes (eScribe) | Prince George · Municipal | Council meetings portal | Searchable City of Prince George council agendas, minutes, and attachments on the public eScribe portal. Includes regular council, special council, budget council, and advisory committee meetings. | https://pub-princegeorge.escribemeetings.com/ |
@@ -386,8 +393,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Airdrie — Council Agendas & Minutes (eScribe) | Airdrie · Municipal | Council meetings portal | Searchable City of Airdrie council agendas, minutes, and attachments on the public eScribe portal. Includes Council Meeting, Council Budget Committee, and Special Council meetings with downloadable PDFs. | https://pub-airdrie.escribemeetings.com/ |
 | Calgary Council Agendas, Minutes and Video | Calgary · Municipal | Agendas and minutes | Browse council and committee agendas, HTML minutes with timestamped video links, and the Council Vote Dashboard after minutes are confirmed. | https://www.calgary.ca/council/meetings/agenda-minutes.html |
 | Calgary Council and Committee Votes | Calgary · Municipal | Vote dataset | Open Calgary dataset of council and committee votes with motion text, outcomes, and member votes. API and CSV export available. | https://data.calgary.ca/Government/Council-and-Committee-Votes/ruq3-99hx |
+| Canmore Council Agendas, Minutes & Video | Canmore · Municipal | Meeting portal | Town of Canmore council meeting agendas, minutes, and video webcasts. Access current and archived council sessions, Planning Commission, and committee meetings. Meeting videos posted on the Town's YouTube channel. | https://www.canmore.ca/your-government/council/your-council/councilmeetings |
 | Edmonton Council Meetings (eScribe) | Edmonton · Municipal | Agendas and minutes | Published council and committee agendas, minutes, and attachments with calendar search on the City of Edmonton eScribe portal. | https://pub-edmonton.escribemeetings.com/ |
 | Edmonton Council Voting Record (2021–2025) | Edmonton · Municipal | Vote dataset | Council and committee voting records with motion details from the Edmonton Open Data Portal — filter and export via Socrata API. | https://data.edmonton.ca/City-Administration/2021-2025-Council-And-Committee-Meetings-Voting-Re/ekzq-b4qg |
 | Grande Prairie Council Meeting Video Archive | Grande Prairie · Municipal | Council video archive | YouTube archive of Grande Prairie City Council and standing committee meetings including Investment & Strategy, Public & Protective Services, Financial & Administrative Services, and Operational Services committees. | https://www.youtube.com/user/GrandePrairieCA/ |
@@ -436,6 +445,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Mississauga Council and Committees — eScribe | Mississauga · Municipal | Agendas and minutes | Search council and committee agendas, minutes, and video for City of Mississauga meetings. | https://pub-mississauga.escribemeetings.com/ |
 | Oshawa — Council Meetings (eScribe + Video) | Oshawa · Municipal | Council meetings portal | eScribe portal with searchable agendas, minutes, and video recordings for Oshawa City Council and committee meetings including Corporate and Finance Services, Economic and Development Services, and Planning Act meetings. | https://www.oshawa.ca/council |
 | Ottawa Council Agendas and Minutes (eScribe) | Ottawa · Municipal | Agendas and minutes | Searchable council and committee agendas, minutes, attachments, and meeting videos with calendar filtering on the eScribe portal. | https://pub-ottawa.escribemeetings.com/ |
+| Peterborough — Council Agendas & Minutes (eScribe) | Peterborough · Municipal | Council meetings portal | Searchable City of Peterborough council agendas, minutes, and attachments on the public eScribe portal. Includes City Council Meeting, Council Compensation Committee, and Development Charges Complaint Hearing meetings with downloadable PDFs. | https://pub-peterborough.escribemeetings.com/ |
+| Pickering Council Agendas & Minutes (eScribe) | Pickering · Municipal | Meeting portal | eScribe public meeting portal for City of Pickering council and committee meetings. Searchable agendas, minutes, and reports with PDF downloads. Covers regular council, executive committee, and special meetings. | https://pub-pickering.escribemeetings.com/?FillWidth=1 |
 | Richmond Hill — Council Agendas & Minutes (eScribe) | Richmond Hill · Municipal | Council meetings portal | Searchable City of Richmond Hill council agendas, minutes, and attachments on the public eScribe portal. Includes council meetings, council public meetings, special council meetings, and inaugural council meetings. | https://pub-richmondhill.escribemeetings.com/ |
 | Thunder Bay Council Meetings | Thunder Bay · Municipal | Council meetings | Thunder Bay City Council meeting agendas, minutes, and webcasts. | https://www.thunderbay.ca/en/city-hall/city-council-thunder-bay.aspx |
 | Timmins CivicWeb Council Portal | Timmins · Municipal | Council agendas and minutes | City of Timmins council calendar, agendas, minutes, resolutions, and by-laws — email subscription for new meeting packages. | https://timmins.civicweb.net/Portal/ |
@@ -487,6 +498,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Iqaluit Motion Registry Results | Iqaluit · Municipal | Council motions | Searchable, downloadable list of City of Iqaluit council motions with meeting numbers, dates, and PDF downloads. Track how specific issues were voted on and follow the history of council decisions. | https://iqaluit.ca/city-hall/city-council/motions/results |
+| Whitehorse — Council Agendas & Minutes (InfoCouncil) | Whitehorse · Municipal | Agendas and minutes | Search and download PDF agendas, minutes, and attachments for City of Whitehorse council meetings from 2017 to present. Filter by year and month to track council decisions, public hearings, and bylaw approvals. | https://whitehorse.infocouncil.biz/ |
+| Yellowknife — Council Agendas & Minutes (eScribe) | Yellowknife · Municipal | Council meetings portal | Searchable City of Yellowknife council agendas, minutes, and attachments on the public eScribe portal. Includes Council Meeting and Special Council Meeting records with downloadable PDFs. | https://pub-yellowknife.escribemeetings.com/ |
 
 ## 💳 Budget, Finance & Procurement
 
@@ -495,6 +508,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Bid — Contract Awards | British Columbia · Provincial | Procurement awards | Search awarded BC public sector contracts and standing offers on BC Bid — filter by ministry, vendor, and date. | https://bcbid.gov.bc.ca/page.aspx/en/buy/contract-award |
+| Burnaby — Financial Plans & Annual Reports | Burnaby · Municipal | Financial reports | Download multi-year City of Burnaby financial plans (2022–2030) and annual municipal reports as PDFs. Track capital and operating budgets, reserve funds, and fiscal sustainability over time. | https://www.burnaby.ca/our-city/financial-and-annual-reports |
 | Maple Ridge Statement of Financial Information & Budget | Maple Ridge · Municipal | Financial documents | Direct PDF downloads of Maple Ridge's Statement of Financial Information (SOFI), combined financial plan bylaws, capital works program, and pay transparency reports. | https://www.mapleridge.ca/your-government/plans-strategies/financial-planning-reporting |
 | Nanaimo — Annual Financial Reports | Nanaimo · Municipal | Financial statements | Downloadable PDF annual financial statements and annual reports for the City of Nanaimo from 2019 to present. Review consolidated financial position, revenue, expenses, and capital investments year-over-year. First budget depth entry for Nanaimo. | https://www.nanaimo.ca/your-government/budget-finance/annual-financial-reports |
 | Prince George Annual Reports & Corporate Plan | Prince George · Municipal | Annual reports | Direct PDF downloads of the City of Prince George audited annual reports and strategic corporate plans from 2022 through 2025. Track municipal financial performance, capital projects, and long-term planning priorities for northern British Columbia's largest city. | https://www.princegeorge.ca/city-hall/annual-report-strategic-plan-corporate-plan |
