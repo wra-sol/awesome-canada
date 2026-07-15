@@ -84,6 +84,8 @@ const JURISDICTION_TO_REGION = {
   'Courtenay':                 'bc',
   'White Rock':                'bc',
   'Maple Ridge':               'bc',
+  'Delta':                     'bc',
+  'Chilliwack':                'bc',
 
   'Alberta':                   'ab',
   'Calgary':                   'ab',
