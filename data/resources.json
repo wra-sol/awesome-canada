@@ -15757,5 +15757,100 @@
       "PDF"
     ],
     "dateAdded": "2026-07-15"
+  },
+  {
+    "name": "Miramichi — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Miramichi",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable eScribe portal for City of Miramichi council and committee agendas, minutes, and attachments. Covers Regular Council Meeting, Special Council Meeting, Council in Committee, and Public Presentation sessions. Calendar-based search with PDF downloads. First council entry for this northeastern New Brunswick city.",
+    "url": "https://pub-miramichi.escribemeetings.com",
+    "tags": [
+      "Miramichi",
+      "council",
+      "eScribe",
+      "agendas",
+      "minutes",
+      "PDF",
+      "New Brunswick"
+    ],
+    "dateAdded": "2026-07-16"
+  },
+  {
+    "name": "Prince Albert — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Prince Albert",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable eScribe portal for City of Prince Albert council and committee agendas, minutes, and attachments. Includes City Council Regular Meeting, Special Meeting, First Meeting, Budget Committee, Board of Revision, Community Services Advisory Committee, and Destination Marketing Levy Advisory Committee. Calendar-based search with PDF downloads. First council entry for this Saskatchewan city.",
+    "url": "https://pub-citypa.escribemeetings.com",
+    "tags": [
+      "Prince Albert",
+      "council",
+      "eScribe",
+      "agendas",
+      "minutes",
+      "PDF",
+      "Saskatchewan"
+    ],
+    "dateAdded": "2026-07-16"
+  },
+  {
+    "name": "Maple Ridge — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Maple Ridge",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable eScribe portal for City of Maple Ridge council and committee agendas, minutes, and attachments. Includes Regular Council, Committee of the Whole, Audit and Finance Committee, Advisory Design Panel, Agricultural Advisory Committee, Bicycle Advisory Committee, Board of Variance, Climate and Environment Advisory Committee, Community Heritage Commission, Corporate Governance and HR Committee, and others. First council entry for this Metro Vancouver city.",
+    "url": "https://pub-mapleridge.escribemeetings.com",
+    "tags": [
+      "Maple Ridge",
+      "council",
+      "eScribe",
+      "agendas",
+      "minutes",
+      "PDF",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-07-16"
+  },
+  {
+    "name": "Sarnia — Council Agendas & Minutes (CivicWeb)",
+    "level": "Municipal",
+    "jurisdiction": "Sarnia",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable CivicWeb document portal for City of Sarnia council and committee agendas, minutes, and reports. Browse by meeting date and document type to download PDF agendas and track motions, decisions, and public hearings. First council entry for this southwestern Ontario city.",
+    "url": "https://sarnia.civicweb.net/Portal/",
+    "tags": [
+      "Sarnia",
+      "council",
+      "CivicWeb",
+      "agendas",
+      "minutes",
+      "PDF",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-16"
+  },
+  {
+    "name": "Kamloops — Council Agendas & Minutes (CivicWeb)",
+    "level": "Municipal",
+    "jurisdiction": "Kamloops",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable CivicWeb document portal for City of Kamloops council and committee agendas, minutes, and reports. Browse by meeting date and document type to download PDF agendas, minutes, and attachments. Includes direct links to the Council Calendar and file repository. First council entry for this interior BC city.",
+    "url": "https://kamloops.civicweb.net",
+    "tags": [
+      "Kamloops",
+      "council",
+      "CivicWeb",
+      "agendas",
+      "minutes",
+      "PDF",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-07-16"
   }
 ]
