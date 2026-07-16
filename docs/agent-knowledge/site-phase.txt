@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 63
-last_run: 2026-07-15T12:30:00Z
+stable_runs: 65
+last_run: 2026-07-16T12:26:00Z
 last_status: ok
-notes: Site rebuilt with 1008 resources. Validation passes. Deploy succeeded. README regenerated. Site returns HTTP 200. Added 5 entries: Delta open data, Delta council eScribe, Chilliwack open data, Canmore council, Pickering council eScribe.
+notes: Site rebuilt with 1013 resources. Validation passes. Deploy succeeded. Site returns HTTP 200. Synced site/data/resources.json with data/resources.json. Added 5 municipal council portals (Miramichi, Prince Albert, Maple Ridge, Sarnia, Kamloops).
