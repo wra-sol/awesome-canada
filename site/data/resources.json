@@ -15659,5 +15659,103 @@
       "API"
     ],
     "dateAdded": "2026-07-14"
+  },
+  {
+    "name": "Delta Open Data",
+    "level": "Municipal",
+    "jurisdiction": "Delta",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "City of Delta ArcGIS Hub open data portal with 16 municipal datasets including building permits, business licences, property parcels, water mains, sanitary sewers, drainage, and rights-of-way. Download as CSV, GeoJSON, Shapefile, KML, or access via REST API.",
+    "url": "https://opendata-deltabc.hub.arcgis.com/",
+    "tags": [
+      "Delta",
+      "open data",
+      "ArcGIS Hub",
+      "building permits",
+      "business licences",
+      "CSV",
+      "GeoJSON",
+      "shapefile",
+      "KML",
+      "API"
+    ],
+    "dateAdded": "2026-07-15"
+  },
+  {
+    "name": "Delta Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Delta",
+    "category": "council",
+    "type": "Meeting portal",
+    "description": "eScribe public meeting portal for City of Delta council meetings. Searchable agendas, minutes, and attachments with PDF downloads. Browse upcoming and past regular and special council meetings.",
+    "url": "https://pub-delta.escribemeetings.com/?FillWidth=1",
+    "tags": [
+      "Delta",
+      "council",
+      "eScribe",
+      "agendas",
+      "minutes",
+      "PDF"
+    ],
+    "dateAdded": "2026-07-15"
+  },
+  {
+    "name": "Chilliwack Open Data Catalogue",
+    "level": "Municipal",
+    "jurisdiction": "Chilliwack",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "City of Chilliwack open data catalogue with 41+ GIS datasets available in multiple formats including Shapefile, GeoDatabase, DWG, KML, JSON, CSV, and XLSX. Covers zoning, property, roads, parks, trails, addresses, and sanitary infrastructure.",
+    "url": "https://www.chilliwack.com/main/page.cfm?id=2331",
+    "tags": [
+      "Chilliwack",
+      "open data",
+      "GIS",
+      "zoning",
+      "property",
+      "CSV",
+      "shapefile",
+      "KML",
+      "JSON"
+    ],
+    "dateAdded": "2026-07-15"
+  },
+  {
+    "name": "Canmore Council Agendas, Minutes & Video",
+    "level": "Municipal",
+    "jurisdiction": "Canmore",
+    "category": "council",
+    "type": "Meeting portal",
+    "description": "Town of Canmore council meeting agendas, minutes, and video webcasts. Access current and archived council sessions, Planning Commission, and committee meetings. Meeting videos posted on the Town's YouTube channel.",
+    "url": "https://www.canmore.ca/your-government/council/your-council/councilmeetings",
+    "tags": [
+      "Canmore",
+      "council",
+      "agendas",
+      "minutes",
+      "video",
+      "webcast",
+      "YouTube"
+    ],
+    "dateAdded": "2026-07-15"
+  },
+  {
+    "name": "Pickering Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Pickering",
+    "category": "council",
+    "type": "Meeting portal",
+    "description": "eScribe public meeting portal for City of Pickering council and committee meetings. Searchable agendas, minutes, and reports with PDF downloads. Covers regular council, executive committee, and special meetings.",
+    "url": "https://pub-pickering.escribemeetings.com/?FillWidth=1",
+    "tags": [
+      "Pickering",
+      "council",
+      "eScribe",
+      "agendas",
+      "minutes",
+      "PDF"
+    ],
+    "dateAdded": "2026-07-15"
   }
 ]
