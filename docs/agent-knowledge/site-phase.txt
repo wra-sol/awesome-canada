@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 66
-last_run: 2026-07-17T11:06:00Z
+stable_runs: 67
+last_run: 2026-07-17T12:00:00Z
 last_status: ok
-notes: Site rebuilt with 1013 resources. Validation passes. Deploy succeeded. Site returns HTTP 200. Synced site/data/resources.json with data/resources.json. No new resources since last run.
+notes: Site rebuilt with 1018 resources. Validation passes. Deploy succeeded. Site returns HTTP 200. Synced site/data/resources.json with data/resources.json. Added 5 Tier-1 depth entries — Oakville budget PDFs, and council eScribe portals for Lethbridge (AB), St. Catharines (ON), Moose Jaw (SK), and Mount Pearl (NL).
