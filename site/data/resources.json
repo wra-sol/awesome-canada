@@ -15852,5 +15852,100 @@
       "British Columbia"
     ],
     "dateAdded": "2026-07-16"
+  },
+  {
+    "name": "Oakville — Budget Documents",
+    "level": "Municipal",
+    "jurisdiction": "Oakville",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Town of Oakville operating and capital budgets, capital detail sheets, and forecast documents from 2018 to 2026. Track municipal spending priorities, service allocations, infrastructure investments, and multi-year fiscal planning.",
+    "url": "https://www.oakville.ca/town-hall/budget-finances/annual-budget/budget-documents/",
+    "tags": [
+      "Oakville",
+      "budget",
+      "operating budget",
+      "capital budget",
+      "pdf",
+      "Ontario",
+      "financial plan"
+    ],
+    "dateAdded": "2026-07-17"
+  },
+  {
+    "name": "Lethbridge — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Lethbridge",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Lethbridge council and committee agendas, minutes, and attachments on the public eScribe portal. Includes regular council, special council, and committee meetings with downloadable PDFs. First council entry for this southern Alberta city.",
+    "url": "https://pub-lethbridge.escribemeetings.com/",
+    "tags": [
+      "Lethbridge",
+      "council",
+      "eScribe",
+      "agendas",
+      "minutes",
+      "pdf",
+      "Alberta"
+    ],
+    "dateAdded": "2026-07-17"
+  },
+  {
+    "name": "St. Catharines — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "St. Catharines",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of St. Catharines council and committee agendas, minutes, and attachments on the public eScribe portal. Browse by meeting date to download PDF agendas, minutes, and reports. First council entry for this Niagara Region city.",
+    "url": "https://pub-stcatharines.escribemeetings.com/",
+    "tags": [
+      "St. Catharines",
+      "council",
+      "eScribe",
+      "agendas",
+      "minutes",
+      "pdf",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-17"
+  },
+  {
+    "name": "Moose Jaw — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Moose Jaw",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Moose Jaw council and committee agendas, minutes, and attachments on the public eScribe portal. Includes regular council, special council, and executive committee meetings with downloadable PDFs. First council entry for this Saskatchewan city.",
+    "url": "https://pub-moosejaw.escribemeetings.com/",
+    "tags": [
+      "Moose Jaw",
+      "council",
+      "eScribe",
+      "agendas",
+      "minutes",
+      "pdf",
+      "Saskatchewan"
+    ],
+    "dateAdded": "2026-07-17"
+  },
+  {
+    "name": "Mount Pearl — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Mount Pearl",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable City of Mount Pearl council and committee agendas, minutes, and attachments on the public eScribe portal. Includes regular council and special council meetings with downloadable PDFs. First council entry for this Newfoundland city.",
+    "url": "https://pub-mountpearl.escribemeetings.com/",
+    "tags": [
+      "Mount Pearl",
+      "council",
+      "eScribe",
+      "agendas",
+      "minutes",
+      "pdf",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-07-17"
   }
 ]
