@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 65
-last_run: 2026-07-16T12:26:00Z
+stable_runs: 66
+last_run: 2026-07-17T11:06:00Z
 last_status: ok
-notes: Site rebuilt with 1013 resources. Validation passes. Deploy succeeded. Site returns HTTP 200. Synced site/data/resources.json with data/resources.json. Added 5 municipal council portals (Miramichi, Prince Albert, Maple Ridge, Sarnia, Kamloops).
+notes: Site rebuilt with 1013 resources. Validation passes. Deploy succeeded. Site returns HTTP 200. Synced site/data/resources.json with data/resources.json. No new resources since last run.
