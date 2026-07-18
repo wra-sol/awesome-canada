@@ -86,6 +86,7 @@ const JURISDICTION_TO_REGION = {
   'Maple Ridge':               'bc',
   'Delta':                     'bc',
   'Chilliwack':                'bc',
+  'Penticton':                 'bc',
 
   'Alberta':                   'ab',
   'Calgary':                   'ab',
@@ -99,6 +100,7 @@ const JURISDICTION_TO_REGION = {
   'Medicine Hat':              'ab',
   'Banff':                     'ab',
   'Canmore':                   'ab',
+  'Okotoks':                   'ab',
 
   'Saskatchewan':              'sk',
   'Regina':                    'sk',
@@ -110,6 +112,7 @@ const JURISDICTION_TO_REGION = {
   "Weyburn":                   'sk',
   "North Battleford":          'sk',
   "Estevan":                   'sk',
+  "Humboldt":                  'sk',
 
   "Brandon":                   'mb',
   "Winnipeg":                  'mb',
@@ -177,6 +180,7 @@ const JURISDICTION_TO_REGION = {
   'Caledon':                   'on',
   'Sault Ste. Marie':          'on',
   'St. Thomas':                'on',
+  'Collingwood':               'on',
   'Clarington':                'on',
 
   'Quebec':                    'qc',
@@ -220,6 +224,7 @@ const JURISDICTION_TO_REGION = {
   'Yarmouth':                  'atlantic',
   'Bathurst':                  'atlantic',
   'New Glasgow':               'atlantic',
+  'Kentville':                 'atlantic',
 
   'Yukon':                     'north',
   'Northwest Territories':     'north',

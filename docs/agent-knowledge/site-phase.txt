@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 67
-last_run: 2026-07-17T12:00:00Z
+stable_runs: 69
+last_run: 2026-07-18T12:00:00Z
 last_status: ok
-notes: Site rebuilt with 1018 resources. Validation passes. Deploy succeeded. Site returns HTTP 200. Synced site/data/resources.json with data/resources.json. Added 5 Tier-1 depth entries — Oakville budget PDFs, and council eScribe portals for Lethbridge (AB), St. Catharines (ON), Moose Jaw (SK), and Mount Pearl (NL).
+notes: Added 5 new resources. Penticton (BC) — Zoning Dataset; Kentville (NS) — Council Minutes, Agendas & Records; Okotoks (AB) — Financial Statements; Humboldt (SK) — Council & Executive Committee Minutes and Agendas; Collingwood (ON) — Council & Committee Meetings (eScribe). Total now 1023 resources. Validation passes. data/resources.json and site/data/resources.json are identical. All 1023 resources have dateAdded.

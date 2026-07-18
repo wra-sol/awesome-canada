@@ -15947,5 +15947,99 @@
       "Newfoundland and Labrador"
     ],
     "dateAdded": "2026-07-17"
+  },
+  {
+    "name": "Penticton — Zoning Dataset",
+    "level": "Municipal",
+    "jurisdiction": "Penticton",
+    "category": "planning-zoning",
+    "type": "Dataset",
+    "description": "ArcGIS Feature Service of City of Penticton zoning boundaries and designations under the Official Community Plan. Download as CSV, GeoJSON, Shapefile, or KML, or query via REST API. Covers single-family, multi-family, commercial, industrial, and other zoning districts.",
+    "url": "https://open.penticton.ca/datasets/d6c0def107a44da88fc2dab285ed459b/about",
+    "tags": [
+      "Penticton",
+      "zoning",
+      "planning",
+      "CSV",
+      "GeoJSON",
+      "shapefile",
+      "KML",
+      "API",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-07-18"
+  },
+  {
+    "name": "Kentville — Council Minutes, Agendas & Records",
+    "level": "Municipal",
+    "jurisdiction": "Kentville",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable archive of Town of Kentville council and advisory committee agendas, minutes, and supporting documents. Filter by date and document category to download PDFs. Includes council expense accounts and public hearing minutes.",
+    "url": "https://kentville.ca/town-hall/council-and-committees/minutes-agendas-and-records",
+    "tags": [
+      "Kentville",
+      "council",
+      "agendas",
+      "minutes",
+      "pdf",
+      "Nova Scotia"
+    ],
+    "dateAdded": "2026-07-18"
+  },
+  {
+    "name": "Okotoks — Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Okotoks",
+    "category": "budget",
+    "type": "Financial statements",
+    "description": "Direct PDF downloads of Town of Okotoks audited consolidated financial statements from 2021 to 2025. Includes statement of financial position, operations, remeasurement gains and losses, and cash flows in accordance with Canadian public sector accounting standards.",
+    "url": "https://www.okotoks.ca/your-government/budget/financial-statements",
+    "tags": [
+      "Okotoks",
+      "budget",
+      "financial statements",
+      "pdf",
+      "audited",
+      "Alberta"
+    ],
+    "dateAdded": "2026-07-18"
+  },
+  {
+    "name": "Humboldt — Council & Executive Committee Minutes and Agendas",
+    "level": "Municipal",
+    "jurisdiction": "Humboldt",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Direct PDF downloads of City of Humboldt council and executive committee agendas and minutes. Includes regular council, special council, and executive committee meetings. Updated monthly with current agenda packages.",
+    "url": "https://humboldt.ca/council-and-executive-committee-minutes-and-agendas/",
+    "tags": [
+      "Humboldt",
+      "council",
+      "agendas",
+      "minutes",
+      "pdf",
+      "Saskatchewan"
+    ],
+    "dateAdded": "2026-07-18"
+  },
+  {
+    "name": "Collingwood — Council & Committee Meetings (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Collingwood",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Searchable eScribe portal for Town of Collingwood council and committee meetings. Browse by year to download PDF agendas, minutes, and reports. Complemented by council meeting calendar, attendance records, and voting record PDFs on the town website.",
+    "url": "https://pub-collingwood.escribemeetings.com/",
+    "tags": [
+      "Collingwood",
+      "council",
+      "eScribe",
+      "agendas",
+      "minutes",
+      "pdf",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-18"
   }
 ]
