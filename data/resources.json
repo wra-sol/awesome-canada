@@ -744,22 +744,6 @@
     "dateAdded": "2024-05-30"
   },
   {
-    "name": "Vaughan Maps — GeoVaughan",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "benefits",
-    "type": "GIS",
-    "description": "Interactive GIS map for the City of Vaughan — property, zoning, infrastructure, and planning data",
-    "url": "https://maps.vaughan.ca/",
-    "tags": [
-      "Vaughan",
-      "maps",
-      "GIS"
-    ],
-    "dateAdded": "2024-06-02",
-    "status": "dead"
-  },
-  {
     "name": "GeoOttawa",
     "level": "Municipal",
     "jurisdiction": "Ottawa",
@@ -986,23 +970,6 @@
       "open data"
     ],
     "dateAdded": "2024-07-14"
-  },
-  {
-    "name": "City of Toronto Expense Reports",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "budget",
-    "type": "Expense disclosure",
-    "description": "Councillor and senior staff expense reports published proactively — search and download hospitality, travel, and office spending.",
-    "url": "https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-clerk/expense-reports/",
-    "tags": [
-      "toronto",
-      "expenses",
-      "transparency",
-      "council"
-    ],
-    "dateAdded": "2024-07-17",
-    "status": "dead"
   },
   {
     "name": "City of Toronto Vendor Payments (Open Data)",
@@ -3629,24 +3596,6 @@
     "dateAdded": "2026-01-02"
   },
   {
-    "name": "Lévis Flood Zone Map Service",
-    "level": "Municipal",
-    "jurisdiction": "Lévis",
-    "category": "environment",
-    "type": "Flood zone map service",
-    "description": "Lévis flood plain and inundation zones via municipal ArcGIS MapServer — query JSON/GeoJSON for hazard mapping.",
-    "url": "https://cartes.ville.levis.qc.ca/arcgis/rest/services/Gociteweb/Hydrographie/MapServer/10",
-    "tags": [
-      "lévis",
-      "flood",
-      "environment",
-      "arcgis",
-      "geojson"
-    ],
-    "dateAdded": "2026-01-05",
-    "status": "dead"
-  },
-  {
     "name": "North Bay Drinking Water Quality Reports",
     "level": "Municipal",
     "jurisdiction": "North Bay",
@@ -6059,24 +6008,6 @@
     "dateAdded": "2027-05-18"
   },
   {
-    "name": "New Brunswick Registry of Lobbyists",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "lobbyist",
-    "type": "Lobbyist registry",
-    "description": "Search lobbyist registrations and returns filed with the Office of the Commissioner of Lobbyist Registration in New Brunswick.",
-    "url": "https://www.snb.ca/e/1000/lobbyists.htm",
-    "tags": [
-      "new brunswick",
-      "lobbyists",
-      "registry",
-      "search"
-    ],
-    "dateAdded": "2027-05-21",
-    "status": "dead",
-    "statusNote": "NB lobbyist registry page removed from snb.ca; no replacement found as of June 2026"
-  },
-  {
     "name": "Newfoundland and Labrador Lobbyist Registry Search",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",
@@ -6091,24 +6022,6 @@
       "search"
     ],
     "dateAdded": "2027-05-24"
-  },
-  {
-    "name": "Nova Scotia Lobbyist Registry",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "lobbyist",
-    "type": "Lobbyist registry",
-    "description": "Public registry of lobbyists registered under Nova Scotia’s Lobbyists Registration Act — search by lobbyist, client, and subject.",
-    "url": "https://www.novascotia.ca/snsmr/access/lobbyist.asp",
-    "tags": [
-      "nova scotia",
-      "lobbyists",
-      "registry",
-      "search"
-    ],
-    "dateAdded": "2027-05-27",
-    "status": "dead",
-    "statusNote": "NS lobbyist registry page removed from novascotia.ca; no replacement found as of June 2026"
   },
   {
     "name": "Ontario Lobbyist Registry — Public Search",
