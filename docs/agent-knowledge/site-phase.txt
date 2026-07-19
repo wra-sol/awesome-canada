@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 69
-last_run: 2026-07-18T12:00:00Z
+stable_runs: 70
+last_run: 2026-07-19T12:00:00Z
 last_status: ok
-notes: Added 5 new resources. Penticton (BC) — Zoning Dataset; Kentville (NS) — Council Minutes, Agendas & Records; Okotoks (AB) — Financial Statements; Humboldt (SK) — Council & Executive Committee Minutes and Agendas; Collingwood (ON) — Council & Committee Meetings (eScribe). Total now 1023 resources. Validation passes. data/resources.json and site/data/resources.json are identical. All 1023 resources have dateAdded.
+notes: Added 5 new resources. Sault Ste. Marie (ON) — Budget & Financial Statements; Milton (ON) — Financial Reports; Niagara Falls (ON) — Council Agendas, Minutes & Schedule; Saanich (BC) — Council Agendas & Minutes; Richmond Hill (ON) — Budget. Total now 1028 resources. Validation passes. data/resources.json and site/data/resources.json are identical. All 1028 resources have dateAdded.

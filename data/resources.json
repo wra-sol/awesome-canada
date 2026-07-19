@@ -16041,5 +16041,93 @@
       "Ontario"
     ],
     "dateAdded": "2026-07-18"
+  },
+  {
+    "name": "Sault Ste. Marie — Budget & Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Sault Ste. Marie",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of annual budgets, capital budgets, operating budget summaries, departmental budgets, and quarterly financial appendices for 2024–2026. Includes tax levy summaries and statements of financial information with council remuneration and expenses.",
+    "url": "https://saultstemarie.ca/government/budget-and-financial-statements/",
+    "tags": [
+      "sault ste marie",
+      "budget",
+      "financial statements",
+      "PDF",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-19"
+  },
+  {
+    "name": "Milton — Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Milton",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Town of Milton annual financial reports (audited statements) from 2019 to 2024, including assets, liabilities, net worth, revenue, and expenses. Useful for fiscal accountability and trend analysis.",
+    "url": "https://www.milton.ca/en/town-hall/financial-reports-plans-and-studies.aspx",
+    "tags": [
+      "milton",
+      "financial report",
+      "budget",
+      "PDF",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-19"
+  },
+  {
+    "name": "Niagara Falls — Council Agendas, Minutes & Schedule",
+    "level": "Municipal",
+    "jurisdiction": "Niagara Falls",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Access council meeting agendas, minutes, and video recordings via the City Council schedule portal and CivicWeb document repository. Subscribe to upcoming meetings and search historical records back to 2017.",
+    "url": "https://niagarafalls.ca/city-government/city-council-and-mayor/agendas-minutes-and-schedule/",
+    "tags": [
+      "niagara falls",
+      "council",
+      "agendas",
+      "minutes",
+      "video",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-19"
+  },
+  {
+    "name": "Saanich — Council Agendas & Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Saanich",
+    "category": "council",
+    "type": "Council meetings portal",
+    "description": "Meeting schedule, agendas, and minutes for District of Saanich Council and committees. Includes archived agendas and minutes from 2017 onward, a council voting dashboard, downloadable PDF meeting calendars, and live video streams.",
+    "url": "https://www.saanich.ca/EN/main/local-government/mayor-council/schedule-agendas-minutes.html",
+    "tags": [
+      "saanich",
+      "council",
+      "agendas",
+      "minutes",
+      "video",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-07-19"
+  },
+  {
+    "name": "Richmond Hill — Budget",
+    "level": "Municipal",
+    "jurisdiction": "Richmond Hill",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Richmond Hill’s annual budget documents, including the adopted operating budget, capital budget, budget book, and presentation slides. Covers the full budget cycle from draft to adoption.",
+    "url": "https://www.richmondhill.ca/en/learn-more/Budget.aspx",
+    "tags": [
+      "richmond hill",
+      "budget",
+      "capital budget",
+      "operating budget",
+      "PDF",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-19"
   }
 ]
