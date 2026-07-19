@@ -30,10 +30,20 @@ const __dirname = dirname(__filename);
 const ROOT = join(__dirname, '..');
 
 const REPO = 'wra-sol/awesome-canada';
-const TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
+let TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
 
 if (!TOKEN) {
-  console.error('Error: GITHUB_TOKEN or GH_TOKEN env var required');
+  // Fallback: try gh CLI auth token
+  try {
+    const { execSync } = await import('child_process');
+    TOKEN = execSync('gh auth token', { encoding: 'utf8', timeout: 5000 }).trim();
+  } catch (e) {
+    // gh not available or not authenticated
+  }
+}
+
+if (!TOKEN) {
+  console.error('Error: GITHUB_TOKEN or GH_TOKEN env var required, or gh CLI must be authenticated');
   process.exit(1);
 }
 
