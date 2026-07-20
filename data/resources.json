@@ -995,7 +995,7 @@
     "category": "budget",
     "type": "Financial reports",
     "description": "City of Vancouver financial transparency hub with annual reports, statements, and open financial datasets.",
-    "url": "https://vancouver.ca/your-government/financial-transparency.aspx",
+    "url": "https://vancouver.ca/your-government/financial-reports-and-information.aspx",
     "tags": [
       "vancouver",
       "budget",
@@ -1688,7 +1688,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Kelowna City Council meeting schedules, agendas, minutes, and video recordings for council and standing committees.",
-    "url": "https://www.kelowna.ca/city-hall/council/council-meetings",
+    "url": "https://www.kelowna.ca/city-hall/council/council-meetings-public-hearings",
     "tags": [
       "kelowna",
       "bc",
@@ -10697,7 +10697,7 @@
     "category": "transit",
     "type": "Transit",
     "description": "Guelph bus routes and trip planning",
-    "url": "https://www.guelph.ca/en/live-here/guelph-transit.aspx",
+    "url": "https://guelph.ca/living/getting-around/bus/",
     "tags": [
       "transit",
       "Guelph"
