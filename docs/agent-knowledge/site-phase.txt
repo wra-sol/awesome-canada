@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 71
-last_run: 2026-07-20T11:06:54Z
+stable_runs: 72
+last_run: 2026-07-20T12:22:37Z
 last_status: ok
-notes: Rebuilt site after dead-link audit removed 5 resources. Total now 1023 resources. Validation passes. All 1023 resources have dateAdded. Deploy succeeded via Actions (run 29737336519).
+notes: Added 5 Tier-1 gap-fill entries for mid-size cities with 1 existing entry and no council or budget coverage. Newmarket (ON) council eScribe, St. Albert (AB) council Legistar, Sherbrooke (QC) budget PDFs, Strathcona County (AB) council eScribe, Banff (AB) council eScribe. Total now 1028 resources. Validation passes. Push to origin/master succeeded.
