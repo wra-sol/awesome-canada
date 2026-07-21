@@ -5007,22 +5007,6 @@
     "dateAdded": "2026-10-20"
   },
   {
-    "name": "Ottawa Heritage Register",
-    "level": "Municipal",
-    "jurisdiction": "Ottawa",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "City of Ottawa heritage register and mapping of designated properties and heritage conservation districts.",
-    "url": "https://ottawa.ca/en/heritage-register",
-    "tags": [
-      "ottawa",
-      "heritage",
-      "register",
-      "conservation"
-    ],
-    "dateAdded": "2026-10-23"
-  },
-  {
     "name": "Ottawa Heritage Register (Not Designated)",
     "level": "Municipal",
     "jurisdiction": "Ottawa",
@@ -5958,22 +5942,6 @@
       "transparency"
     ],
     "dateAdded": "2027-05-09"
-  },
-  {
-    "name": "Alberta Lobbyist Registry",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "lobbyist",
-    "type": "Lobbyist registry",
-    "description": "Search registered lobbyists, clients, and lobbying subjects in Alberta. Public read access to all filings under the Lobbyists Act.",
-    "url": "https://www.albertalobbyistregistry.ca/apex/f?p=171:1",
-    "tags": [
-      "alberta",
-      "lobbyists",
-      "registry",
-      "search"
-    ],
-    "dateAdded": "2027-05-12"
   },
   {
     "name": "BC Lobbyists Registry — Open Data",
@@ -10928,20 +10896,6 @@
     "dateAdded": "2030-02-22"
   },
   {
-    "name": "Regina Transit",
-    "level": "Regional",
-    "jurisdiction": "Regina",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Regina Transit schedules and route information",
-    "url": "https://www.regina.ca/transportation-roads-parking/transit/",
-    "tags": [
-      "transit",
-      "Regina"
-    ],
-    "dateAdded": "2030-02-25"
-  },
-  {
     "name": "Grand River Transit — GTFS Open Data",
     "level": "Regional",
     "jurisdiction": "Waterloo",
@@ -12242,23 +12196,6 @@
     "dateAdded": "2030-11-16"
   },
   {
-    "name": "MSC GeoMet — AQHI Observations API",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "weather",
-    "type": "Air quality API",
-    "description": "OGC API collection for Air Quality Health Index observations — query station AQHI values programmatically via GeoMet.",
-    "url": "https://api.weather.gc.ca/collections/aqhi-observations",
-    "tags": [
-      "canada",
-      "aqhi",
-      "api",
-      "geomet",
-      "air quality"
-    ],
-    "dateAdded": "2030-11-19"
-  },
-  {
     "name": "MSC GeoMet — Weather and Climate API",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -12604,24 +12541,6 @@
       "Saskatchewan",
       "map",
       "interactive"
-    ],
-    "dateAdded": "2026-05-30"
-  },
-  {
-    "name": "Winnipeg School Division — Find a School",
-    "level": "Municipal",
-    "jurisdiction": "Winnipeg",
-    "category": "school-board",
-    "type": "School boundary lookup",
-    "description": "Mobile-friendly app to find designated schools within Winnipeg School Division boundaries by address. Covers division-wide program schools and is updated with the latest boundary information.",
-    "url": "https://winnipegsd.ca/find-a-school",
-    "tags": [
-      "Winnipeg",
-      "school boundaries",
-      "school finder",
-      "Manitoba",
-      "catchment",
-      "app"
     ],
     "dateAdded": "2026-05-30"
   },
@@ -14020,27 +13939,6 @@
     "dateAdded": "2026-06-26"
   },
   {
-    "name": "New Westminster Open Data — Building & Plumbing Permits",
-    "level": "Municipal",
-    "jurisdiction": "New Westminster",
-    "category": "planning-zoning",
-    "type": "Dataset",
-    "description": "Dataset of building and plumbing permits issued in the City of New Westminster, published as an ArcGIS Feature Service. Download as CSV, GeoJSON, or shapefile, or query via REST API to filter by permit type, status, date, and location. Useful for tracking construction activity, development trends, and neighbourhood change in Metro Vancouver.",
-    "url": "https://opendata.newwestcity.ca/datasets/59558177b3944a51855cfada5e12acbc/about",
-    "tags": [
-      "new westminster",
-      "british columbia",
-      "building permits",
-      "planning",
-      "construction",
-      "csv",
-      "geojson",
-      "shapefile",
-      "api"
-    ],
-    "dateAdded": "2026-06-26"
-  },
-  {
     "name": "Brantford Council Agendas and Minutes",
     "level": "Municipal",
     "jurisdiction": "Brantford",
@@ -14743,63 +14641,6 @@
     "dateAdded": "2026-07-03"
   },
   {
-    "name": "White Rock — Council Voting Records 2022-2026",
-    "level": "Municipal",
-    "jurisdiction": "White Rock",
-    "category": "council",
-    "type": "Dataset",
-    "description": "Feature service with individual councillor voting records for regular council meetings 2022–2026. Query by meeting date, agenda item, or vote outcome to track how each councillor voted on specific bylaws, development applications, and budget items. Downloadable as CSV, GeoJSON, Shapefile, or via ArcGIS REST API.",
-    "url": "https://data.whiterockcity.ca/datasets/9f5cb40bda414278aef47f588f8cdd28/about",
-    "tags": [
-      "council",
-      "voting records",
-      "White Rock",
-      "csv",
-      "geojson",
-      "shapefile",
-      "api"
-    ],
-    "dateAdded": "2026-07-04"
-  },
-  {
-    "name": "Strathcona County — 2026 Property Tax Assessment",
-    "level": "Municipal",
-    "jurisdiction": "Strathcona County",
-    "category": "budget",
-    "type": "Dataset",
-    "description": "Parcel-level property tax assessment dataset for 2026 with assessed value, roll number, civic address, building details (square footage, bedrooms, bathrooms, garage, basement, fireplace), and geocoded coordinates. Downloadable as CSV, GeoJSON, Shapefile, or via ArcGIS REST API. Useful for real estate analysis, valuation research, and equity comparison.",
-    "url": "https://opendata-strathconacounty.hub.arcgis.com/datasets/211214c329394005a5a3c43a277b0d38/about",
-    "tags": [
-      "property tax",
-      "assessment",
-      "Strathcona County",
-      "csv",
-      "geojson",
-      "shapefile",
-      "api"
-    ],
-    "dateAdded": "2026-07-04"
-  },
-  {
-    "name": "Airdrie — Building and Trade Permits",
-    "level": "Municipal",
-    "jurisdiction": "Airdrie",
-    "category": "planning-zoning",
-    "type": "Dataset",
-    "description": "Daily-updated feature service of all building and trade permits issued in Airdrie. Filter by permit type, application status, construction value, issue date, contractor name, and geocoded location. Downloadable as CSV, GeoJSON, Shapefile, or via ArcGIS REST API.",
-    "url": "https://data-airdrie.opendata.arcgis.com/datasets/e658674f3860493da2ee2d55ff671bff/about",
-    "tags": [
-      "building permits",
-      "planning",
-      "Airdrie",
-      "csv",
-      "geojson",
-      "shapefile",
-      "api"
-    ],
-    "dateAdded": "2026-07-04"
-  },
-  {
     "name": "Milton — GTFS Feed",
     "level": "Municipal",
     "jurisdiction": "Milton",
@@ -14813,24 +14654,6 @@
       "Milton",
       "zip",
       "bus"
-    ],
-    "dateAdded": "2026-07-04"
-  },
-  {
-    "name": "Ajax — Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Ajax",
-    "category": "planning-zoning",
-    "type": "Dataset",
-    "description": "Municipal zoning boundary map for Ajax with zone classifications, by-law number references, permitted uses, development standards, and linked PDF documentation for each zone. Downloadable as GeoJSON, Shapefile, or queried via ArcGIS REST API. Essential for development feasibility research and property compliance checks.",
-    "url": "https://opendata.ajax.ca/datasets/6bf95ce2af484c3bb081b1475bfdb2e3/about",
-    "tags": [
-      "zoning",
-      "planning",
-      "Ajax",
-      "geojson",
-      "shapefile",
-      "api"
     ],
     "dateAdded": "2026-07-04"
   },
@@ -15387,27 +15210,6 @@
     "dateAdded": "2026-07-12"
   },
   {
-    "name": "Kitchener — Building Permits",
-    "level": "Municipal",
-    "jurisdiction": "Kitchener",
-    "category": "planning-zoning",
-    "type": "Feature Service",
-    "description": "Daily-updated building permits issued by the City of Kitchener. Downloadable as CSV, GeoJSON, Shapefile, or KML, and queryable via ArcGIS REST API. Each permit includes address, type, and status attributes useful for development tracking and urban planning research.",
-    "url": "https://open-kitchenergis.opendata.arcgis.com/datasets/c486d37abe2948d884a159cba20bec8c/about",
-    "tags": [
-      "Kitchener",
-      "Ontario",
-      "building permits",
-      "planning",
-      "CSV",
-      "GeoJSON",
-      "Shapefile",
-      "KML",
-      "api"
-    ],
-    "dateAdded": "2026-07-13"
-  },
-  {
     "name": "Airdrie — Council Agendas & Minutes (eScribe)",
     "level": "Municipal",
     "jurisdiction": "Airdrie",
@@ -15860,27 +15662,6 @@
       "Newfoundland and Labrador"
     ],
     "dateAdded": "2026-07-17"
-  },
-  {
-    "name": "Penticton — Zoning Dataset",
-    "level": "Municipal",
-    "jurisdiction": "Penticton",
-    "category": "planning-zoning",
-    "type": "Dataset",
-    "description": "ArcGIS Feature Service of City of Penticton zoning boundaries and designations under the Official Community Plan. Download as CSV, GeoJSON, Shapefile, or KML, or query via REST API. Covers single-family, multi-family, commercial, industrial, and other zoning districts.",
-    "url": "https://open.penticton.ca/datasets/d6c0def107a44da88fc2dab285ed459b/about",
-    "tags": [
-      "Penticton",
-      "zoning",
-      "planning",
-      "CSV",
-      "GeoJSON",
-      "shapefile",
-      "KML",
-      "API",
-      "British Columbia"
-    ],
-    "dateAdded": "2026-07-18"
   },
   {
     "name": "Kentville — Council Minutes, Agendas & Records",
