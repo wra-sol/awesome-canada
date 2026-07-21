@@ -995,7 +995,7 @@
     "category": "budget",
     "type": "Financial reports",
     "description": "City of Vancouver financial transparency hub with annual reports, statements, and open financial datasets.",
-    "url": "https://vancouver.ca/your-government/financial-transparency.aspx",
+    "url": "https://vancouver.ca/your-government/financial-reports-and-information.aspx",
     "tags": [
       "vancouver",
       "budget",
@@ -1688,7 +1688,7 @@
     "category": "council",
     "type": "Council meetings",
     "description": "Kelowna City Council meeting schedules, agendas, minutes, and video recordings for council and standing committees.",
-    "url": "https://www.kelowna.ca/city-hall/council/council-meetings",
+    "url": "https://www.kelowna.ca/city-hall/council/council-meetings-public-hearings",
     "tags": [
       "kelowna",
       "bc",
@@ -10697,7 +10697,7 @@
     "category": "transit",
     "type": "Transit",
     "description": "Guelph bus routes and trip planning",
-    "url": "https://www.guelph.ca/en/live-here/guelph-transit.aspx",
+    "url": "https://guelph.ca/living/getting-around/bus/",
     "tags": [
       "transit",
       "Guelph"
@@ -16042,5 +16042,95 @@
       "Ontario"
     ],
     "dateAdded": "2026-07-19"
+  },
+  {
+    "name": "Newmarket — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Newmarket",
+    "category": "council",
+    "type": "Meeting portal",
+    "description": "eScribe portal for Newmarket Council and Committee of the Whole meetings. Searchable agendas, minutes, and reports with downloadable PDFs and livestream links.",
+    "url": "https://pub-newmarket.escribemeetings.com/",
+    "tags": [
+      "newmarket",
+      "council",
+      "agendas",
+      "minutes",
+      "eScribe",
+      "Ontario"
+    ],
+    "dateAdded": "2026-07-20"
+  },
+  {
+    "name": "St. Albert — Council Agendas & Minutes (Legistar)",
+    "level": "Municipal",
+    "jurisdiction": "St. Albert",
+    "category": "council",
+    "type": "Meeting portal",
+    "description": "Granicus Legistar calendar and document portal for St. Albert Council, Special Council, and Standing Committee meetings. Searchable agendas, minutes, video recordings, and legislation from 2016 to present.",
+    "url": "https://stalbert.ca.legistar.com/Calendar.aspx",
+    "tags": [
+      "st. albert",
+      "council",
+      "agendas",
+      "minutes",
+      "video",
+      "legistar",
+      "Alberta"
+    ],
+    "dateAdded": "2026-07-20"
+  },
+  {
+    "name": "Sherbrooke — Budget & Financial Reports",
+    "level": "Municipal",
+    "jurisdiction": "Sherbrooke",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Direct PDF downloads of Sherbrooke’s annual operating and capital budgets, budget presentations, and multi-year capital investment programs (2020–2026). Includes revenue breakdowns and spending projections.",
+    "url": "https://www.sherbrooke.ca/fr/vie-municipale/publications/budget",
+    "tags": [
+      "sherbrooke",
+      "budget",
+      "capital plan",
+      "PDF",
+      "Quebec"
+    ],
+    "dateAdded": "2026-07-20"
+  },
+  {
+    "name": "Strathcona County — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Strathcona County",
+    "category": "council",
+    "type": "Meeting portal",
+    "description": "eScribe portal for Strathcona County Council and Priorities Committee meetings. Searchable agendas, minutes, and meeting packages with downloadable PDFs and live webcast integration.",
+    "url": "https://pub-strathcona.escribemeetings.com/",
+    "tags": [
+      "strathcona county",
+      "council",
+      "agendas",
+      "minutes",
+      "eScribe",
+      "Alberta"
+    ],
+    "dateAdded": "2026-07-20"
+  },
+  {
+    "name": "Banff — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "Banff",
+    "category": "council",
+    "type": "Meeting portal",
+    "description": "eScribe portal for Banff Town Council, Annual Organizational Meeting, and Governance and Finance Committee meetings. Searchable agendas, minutes, and reports with downloadable PDFs.",
+    "url": "https://pub-banff.escribemeetings.com/",
+    "tags": [
+      "banff",
+      "council",
+      "agendas",
+      "minutes",
+      "eScribe",
+      "Alberta"
+    ],
+    "dateAdded": "2026-07-20"
   }
 ]
