@@ -15913,5 +15913,98 @@
       "Alberta"
     ],
     "dateAdded": "2026-07-20"
+  },
+  {
+    "name": "Newmarket — Consolidated Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Newmarket",
+    "category": "budget",
+    "type": "Financial report",
+    "description": "Town of Newmarket consolidated financial statements, management discussion and analysis, and BIA financial reports for 2024–2025. Downloadable PDFs.",
+    "url": "https://www.newmarket.ca/local-government/budgets-finances/financial-statements",
+    "tags": [
+      "pdf",
+      "newmarket",
+      "ontario",
+      "financial statements",
+      "budget",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-21"
+  },
+  {
+    "name": "Iqaluit — Budget and Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Iqaluit",
+    "category": "budget",
+    "type": "Financial report",
+    "description": "City of Iqaluit capital and operating budget amendments, consolidated financial statements, and councillor attendance reports. Downloadable PDFs.",
+    "url": "https://iqaluit.ca/reports-and-publications",
+    "tags": [
+      "pdf",
+      "iqaluit",
+      "nunavut",
+      "budget",
+      "financial statements",
+      "council"
+    ],
+    "dateAdded": "2026-07-21"
+  },
+  {
+    "name": "Paradise — Council Agendas and Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Paradise",
+    "category": "council",
+    "type": "Meeting documents",
+    "description": "Town of Paradise council meeting agendas and approved minutes from 2019 onward, posted as downloadable PDFs once adopted.",
+    "url": "https://www.paradise.ca/government-engage/council-meetings/council-minutes/",
+    "tags": [
+      "pdf",
+      "paradise",
+      "newfoundland",
+      "council",
+      "agendas",
+      "minutes",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-21"
+  },
+  {
+    "name": "Banff — Consolidated Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Banff",
+    "category": "budget",
+    "type": "Financial report",
+    "description": "Town of Banff audited consolidated financial statements for 2021–2025, including the Banff Housing Corporation and Banff Public Library. Downloadable PDFs.",
+    "url": "https://banff.ca/350/Financial-Reporting",
+    "tags": [
+      "pdf",
+      "banff",
+      "alberta",
+      "budget",
+      "financial statements",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-21"
+  },
+  {
+    "name": "Kitchener — Council Minutes and Reports (Laserfiche)",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "council",
+    "type": "Document repository",
+    "description": "City of Kitchener Laserfiche WebLink repository for council and committee meeting minutes, staff reports, and approved corporate policies. Searchable and downloadable.",
+    "url": "https://lf.kitchener.ca/WebLinkExt/Browse.aspx?dbid=0",
+    "tags": [
+      "pdf",
+      "kitchener",
+      "ontario",
+      "council",
+      "minutes",
+      "reports",
+      "laserfiche",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-21"
   }
 ]
