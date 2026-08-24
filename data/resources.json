@@ -16954,5 +16954,243 @@
       "geomagnetic",
       "forecast"
     ]
+  },
+  {
+    "name": "Canadian Drought Monitor",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Monitoring map",
+    "description": "Canada's official monthly drought maps from Agriculture and Agri-Food Canada, classifying conditions from abnormally dry to exceptional drought using vegetation, streamflow and climate indicators.",
+    "url": "https://agriculture.canada.ca/en/agricultural-production/weather/canadian-drought-monitor",
+    "tags": [
+      "drought",
+      "agriculture",
+      "monitoring",
+      "maps"
+    ]
+  },
+  {
+    "name": "Canada's Plant Hardiness Site",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Interactive map",
+    "description": "NRCan's interactive plant hardiness zone maps showing what can grow where, built from seven climate variables using 1991-2020 averages — essential for gardeners and growers.",
+    "url": "https://planthardiness.gc.ca/",
+    "tags": [
+      "gardening",
+      "hardiness zones",
+      "plants",
+      "climate"
+    ]
+  },
+  {
+    "name": "Toporama — Atlas of Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Interactive map",
+    "description": "Dynamic topographic map viewer covering all of Canada with toggleable layers (contours, hydrography, transportation), distance measurement, water flow tracing, and free data downloads.",
+    "url": "https://atlas.gc.ca/toporama/en/index.html",
+    "tags": [
+      "topographic maps",
+      "atlas",
+      "gis",
+      "nrcan"
+    ]
+  },
+  {
+    "name": "Statistics Canada — Personal Inflation Calculator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Calculator",
+    "description": "Enter your own spending by category to compute your personal inflation rate and chart it against the official CPI, updated monthly with each CPI release.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020015-eng.htm",
+    "tags": [
+      "inflation",
+      "cpi",
+      "calculator",
+      "statcan"
+    ]
+  },
+  {
+    "name": "Library and Archives Canada — Collection Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Archive search",
+    "description": "Single search across 26+ LAC databases: archival documents, genealogy sources, military service records, published books, maps, images and sound recordings.",
+    "url": "https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search",
+    "tags": [
+      "archives",
+      "genealogy",
+      "history",
+      "search"
+    ]
+  },
+  {
+    "name": "Library and Archives Canada — Census Records",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Genealogy database",
+    "description": "Free searchable Canadian census records from 1825 to 1931, searchable by name, province and district — the backbone of Canadian genealogy research.",
+    "url": "https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/censuses/Pages/censuses.aspx",
+    "tags": [
+      "census",
+      "genealogy",
+      "family history",
+      "records"
+    ]
+  },
+  {
+    "name": "Trade Data Online",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Data tool",
+    "description": "Generate custom reports on Canadian and US trade in goods with 200+ countries by HS product code or industry, with CSV and Excel export, from ISED.",
+    "url": "https://ised-isde.canada.ca/site/trade-data-online/en/overview",
+    "tags": [
+      "trade",
+      "imports",
+      "exports",
+      "statistics"
+    ]
+  },
+  {
+    "name": "Orders in Council Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Search database",
+    "description": "Privy Council Office's searchable database of all federal Orders in Council from 1990 to present, with full text from late 2002 onward, published three working days after approval.",
+    "url": "https://orders-in-council.canada.ca/",
+    "tags": [
+      "orders in council",
+      "government decisions",
+      "transparency"
+    ]
+  },
+  {
+    "name": "House of Commons — Vote Records",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Vote tracker",
+    "description": "Every recorded vote in the House of Commons with each MP's position, browsable by parliament and session and downloadable as open XML data.",
+    "url": "https://www.ourcommons.ca/members/en/votes",
+    "tags": [
+      "parliament",
+      "votes",
+      "mps",
+      "accountability"
+    ]
+  },
+  {
+    "name": "Consolidated Canadian Autonomous Sanctions List",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Sanctions list",
+    "description": "Global Affairs Canada's searchable consolidated list of all individuals and entities under Canadian autonomous sanctions, published in HTML, PDF and XML.",
+    "url": "https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/consolidated-consolide.aspx?lang=eng",
+    "tags": [
+      "sanctions",
+      "compliance",
+      "global affairs"
+    ]
+  },
+  {
+    "name": "Medical Devices Active Licence Listing (MDALL)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Licence search",
+    "description": "Health Canada's public register of all medical devices licensed for sale in Canada, searchable by company, device name, licence number or device identifier.",
+    "url": "https://health-products.canada.ca/mdall-limh/",
+    "tags": [
+      "medical devices",
+      "licences",
+      "health canada",
+      "search"
+    ]
+  },
+  {
+    "name": "Avalanche Canada — Forecasts",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Forecast map",
+    "description": "Daily avalanche danger forecasts on an interactive map with dynamic region boundaries set by forecasters, covering Canada's backcountry mountain regions.",
+    "url": "https://avalanche.ca/forecasts",
+    "tags": [
+      "avalanche",
+      "backcountry",
+      "safety",
+      "forecast"
+    ]
+  },
+  {
+    "name": "Canadian Hurricane Centre",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Forecast tool",
+    "description": "Track maps, information statements and technical discussions for tropical and post-tropical cyclones threatening Canada, active June through November.",
+    "url": "https://weather.gc.ca/hurricane/index_e.html",
+    "tags": [
+      "hurricane",
+      "tropical storms",
+      "forecast",
+      "marine"
+    ]
+  },
+  {
+    "name": "Statistics Canada — GeoSearch",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Interactive map",
+    "description": "Find any place in Canada by name, postal code, address or geographic code and get its census geography boundaries and basic demographic data on an interactive map.",
+    "url": "https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/index-eng.cfm",
+    "tags": [
+      "census geography",
+      "maps",
+      "demographics",
+      "lookup"
+    ]
+  },
+  {
+    "name": "First Nation Profiles Interactive Map",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Interactive map",
+    "description": "Indigenous Services Canada's map of First Nations communities across Canada, linked to profiles of governance, reserves, registered population and census statistics.",
+    "url": "https://geo.sac-isc.gc.ca/cippn-fnpim/index-eng.html",
+    "tags": [
+      "first nations",
+      "communities",
+      "map",
+      "profiles"
+    ]
+  },
+  {
+    "name": "TERMIUM Plus",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Language database",
+    "description": "The Government of Canada's terminology bank — millions of terms in English, French, Spanish and Portuguese from the Translation Bureau, one of the largest in the world.",
+    "url": "https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng",
+    "tags": [
+      "terminology",
+      "translation",
+      "french",
+      "language"
+    ]
   }
 ]
