@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1140 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1145 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,8 +26,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 168
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 81
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 169
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 82
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 126
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 91
 - [🪪 Government Services & ID](#government-services-and-id) — 34
@@ -47,10 +47,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 53
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 29
-- [🌦️ Weather & Climate](#weather-and-climate) — 10
+- [🌦️ Weather & Climate](#weather-and-climate) — 11
 - [⚡ Energy & Utilities](#energy-and-utilities) — 27
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 17
-- [🔬 Science, Research & Space](#science-research-and-space) — 18
+- [🔬 Science, Research & Space](#science-research-and-space) — 20
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 16
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
@@ -75,6 +75,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | GEO.ca | Canada · Federal | Geospatial portal | Canada's federal geospatial data portal, providing open access to authoritative geospatial information, maps, and datasets from federal sources. | https://geo.ca/ |
 | Government of Canada — Open Government Portal | Canada · Federal | Open data portal | Search 40,000+ federal datasets, reports, and geospatial layers with API access | https://search.open.canada.ca/opendata/ |
 | ISED API Catalogue | Canada · Federal | API catalogue | Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data. | https://api.ised-isde.canada.ca/en |
+| NRC Digital Repository | Canada · Federal | Research data repository | National Research Council's persistent archive of research datasets, corporate publications back to 1954, and special collections, searchable and openly accessible. | https://nrc-digital-repository.canada.ca/eng/list/collections/ |
 | Open Government Portal | Canada · Federal | Open data portal | Main federal portal for datasets, information, and downloadable public resources | https://open.canada.ca/ |
 | Open Maps | Canada · Federal | Geospatial portal | Federal map and geospatial data discovery portal | https://open.canada.ca/en/open-maps/ |
 | Open North | Canada · Federal | Civic tech nonprofit | Canadian nonprofit building open data standards and civic technology tools to help governments and communities share information and engage citizens | https://opennorth.ca/ |
@@ -280,6 +281,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Yellowknife Open Data | Yellowknife · Municipal | Open data portal | City of Yellowknife spatial open data for GIS users — zoning, infrastructure, and base map layers. | https://opendata.yellowknife.ca/ |
 
 ## 🏗️ Planning, Zoning & Development
+
+### Federal / National
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Codes Canada — CODES-GUIDES Online Library | Canada · Federal | Reference library | Free electronic access to the National Building Code, Fire Code, Plumbing Code, Energy Code and user's guides published by the NRC. | https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-guides-online-library |
 
 ### British Columbia
 
@@ -1734,6 +1741,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Air Quality Health Index (AQHI) — Observations Map | Canada · Federal | Air quality observations | Current AQHI readings and health risk levels at monitoring stations across Canada — map and station-level observations. | https://weather.gc.ca/airquality/pages/index_e.html |
 | MSC GeoMet — Weather and Climate API | Canada · Federal | Weather API | OGC API for Environment Canada weather, climate, and hydrometric layers — query forecasts, alerts, and station data programmatically. | https://api.weather.gc.ca/ |
+| Space Weather Canada | Canada · Federal | Forecast tool | Current conditions and short- and long-term forecasts of geomagnetic activity, aurora visibility, and solar and ionospheric data for Canadian regions. | https://www.spaceweather.gc.ca/index-en.php |
 
 ### British Columbia
 
@@ -1892,12 +1900,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canadian Astronomy Data Centre | Canada · Federal | Research data portal | NRC's open archive and science platform for astronomy data from Hubble, Gemini, CFHT, JCMT and other telescopes — petabytes of data served to astronomers worldwide. | https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/ |
 | Canadian Space Agency | Canada · Federal | Science portal | Missions, astronauts, educational material, media, and space updates | https://www.asc-csa.gc.ca/eng/ |
 | Canadian Space Agency — Mission Tracker | Canada · Federal | Tracker | Current and upcoming CSA-supported satellite missions, astronauts, and science payloads | https://www.asc-csa.gc.ca/eng/missions/ |
 | Canadian Space Agency — RADARSAT Constellation Data | Canada · Federal | Data | Earth-observation data from the RADARSAT Constellation Mission (RCM) | https://www.asc-csa.gc.ca/eng/satellites/radarsat/ |
 | National Research Council — IR Aerospace Research Centre | Canada · Federal | Research | NRC aerospace research facilities, services, and partnership programs | https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/aerospace-research-centre |
 | NRC — Sunrise/Sunset Calculator | Canada · Federal | Calculator | National Research Council calculator for sunrise, sunset and sun angles for any Canadian location and date, accurate to ±2 minutes and certifiable for legal purposes. | https://nrc.canada.ca/en/research-development/products-services/software-applications/sun-calculator/ |
 | NRC — Web Clock (Canada's Official Time) | Canada · Federal | Time tool | Official time across Canada's time zones, served live from the National Research Council's atomic clocks. | https://nrc.canada.ca/en/research-development/products-services/software-applications/web-clock-official-times-across-canada |
+| NRC Publications Archive | Canada · Federal | Research archive | Free full-text archive of National Research Council technical reports, conference papers and journal articles, including the free electronic editions of Codes Canada publications. | https://nrc-publications.canada.ca/eng/home/ |
 | NSERC — Natural Sciences and Engineering Research Council | Canada · Federal | Research funding | Federal agency that funds natural sciences and engineering research at Canadian universities and colleges | https://www.nserc-crsng.gc.ca/ |
 | Polar Knowledge Canada — CHARS | Canada · Federal | Research | Canadian High Arctic Research Station — northern science, Indigenous research, and community data | https://www.canada.ca/en/polar-knowledge.html |
 | NRC — Programs and Services | Canada · Crown Corp | Research | NRC research programs, technology platforms, and business innovation support | https://nrc.canada.ca/en |

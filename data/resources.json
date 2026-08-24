@@ -16879,5 +16879,80 @@
       "calgary",
       "calculator"
     ]
+  },
+  {
+    "name": "NRC Digital Repository",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Research data repository",
+    "description": "National Research Council's persistent archive of research datasets, corporate publications back to 1954, and special collections, searchable and openly accessible.",
+    "url": "https://nrc-digital-repository.canada.ca/eng/list/collections/",
+    "tags": [
+      "nrc",
+      "research data",
+      "datasets",
+      "archive"
+    ]
+  },
+  {
+    "name": "NRC Publications Archive",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research archive",
+    "description": "Free full-text archive of National Research Council technical reports, conference papers and journal articles, including the free electronic editions of Codes Canada publications.",
+    "url": "https://nrc-publications.canada.ca/eng/home/",
+    "tags": [
+      "nrc",
+      "publications",
+      "research",
+      "open access"
+    ]
+  },
+  {
+    "name": "Codes Canada — CODES-GUIDES Online Library",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "planning-zoning",
+    "type": "Reference library",
+    "description": "Free electronic access to the National Building Code, Fire Code, Plumbing Code, Energy Code and user's guides published by the NRC.",
+    "url": "https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-guides-online-library",
+    "tags": [
+      "building code",
+      "fire code",
+      "construction",
+      "standards"
+    ]
+  },
+  {
+    "name": "Canadian Astronomy Data Centre",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research data portal",
+    "description": "NRC's open archive and science platform for astronomy data from Hubble, Gemini, CFHT, JCMT and other telescopes — petabytes of data served to astronomers worldwide.",
+    "url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/",
+    "tags": [
+      "astronomy",
+      "telescope data",
+      "nrc",
+      "open data"
+    ]
+  },
+  {
+    "name": "Space Weather Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Forecast tool",
+    "description": "Current conditions and short- and long-term forecasts of geomagnetic activity, aurora visibility, and solar and ionospheric data for Canadian regions.",
+    "url": "https://www.spaceweather.gc.ca/index-en.php",
+    "tags": [
+      "space weather",
+      "aurora",
+      "geomagnetic",
+      "forecast"
+    ]
   }
 ]
