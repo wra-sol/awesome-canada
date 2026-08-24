@@ -1,0 +1,93 @@
+name: Process Community Issues
+
+# Listens for the GitHub issues created by the site's "Submit a Link" and
+# "Report Broken" forms (labels: submission / broken-link) and runs the
+# issue processor, which verifies URLs, updates data/resources.json,
+# comments on and closes the issues. A daily sweep catches anything a
+# transient failure left behind.
+
+on:
+  issues:
+    types: [opened, reopened, labeled]
+  schedule:
+    - cron: '30 4 * * *'   # daily catch-up sweep, after daily-clean (04:00 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  deployments: write
+
+concurrency:
+  group: process-issues
+  cancel-in-progress: false
+
+jobs:
+  process:
+    # On issue events, only react to labels the processor understands.
+    if: >
+      github.event_name != 'issues' ||
+      contains(join(github.event.issue.labels.*.name, ','), 'submission') ||
+      contains(join(github.event.issue.labels.*.name, ','), 'broken-link')
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.result.outputs.changed }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Configure git identity
+        run: |
+          git config user.name "awesome-canada-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Record starting commit
+        id: before
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Process open submissions and broken-link reports
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/process-issues.mjs
+
+      # The processor edits data/resources.json only — bring the derived
+      # files (kind facet, README tables) back in sync and fail loudly if
+      # an accepted submission doesn't validate.
+      - name: Regenerate derived files and validate
+        run: |
+          node scripts/assign-kinds.js
+          node scripts/generate-readme.js
+          node scripts/validate.js
+
+      - name: Commit regenerated files
+        run: |
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: regenerate derived files after issue processing"
+            git push origin master
+          fi
+
+      - name: Report whether master changed
+        id: result
+        run: |
+          if [ "$(git rev-parse HEAD)" = "${{ steps.before.outputs.sha }}" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  # Pushes made with GITHUB_TOKEN do not trigger other workflows, so the
+  # deploy that normally fires on data changes must be invoked explicitly.
+  deploy:
+    needs: process
+    if: needs.process.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy-cloudflare.yml
+    secrets: inherit
