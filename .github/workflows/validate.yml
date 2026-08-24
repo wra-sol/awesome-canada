@@ -1,16 +1,21 @@
 name: Validate Resources
 
+# GitHub Actions is permitted for tests only (hard repo rule).
+# All scheduled jobs live in the Cloudflare maintenance worker.
+
 on:
   push:
-    branches: [master]
+    branches: [main, master]
     paths:
       - 'data/**'
       - 'scripts/**'
+      - 'worker/**'
   pull_request:
     branches: [master]
     paths:
       - 'data/**'
       - 'scripts/**'
+      - 'worker/**'
 
 jobs:
   validate:
@@ -23,7 +28,25 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Validate resources
         run: node scripts/validate.js
+
+      - name: Worker catalog snapshot freshness
+        run: |
+          node -e "
+            const { CATEGORIES, REGIONS, JURISDICTION_TO_REGION } = require('./scripts/categories');
+            const snap = JSON.parse(require('fs').readFileSync('worker/categories.json', 'utf8'));
+            const a = JSON.stringify({ CATEGORIES, REGIONS, JURISDICTION_TO_REGION });
+            const b = JSON.stringify(snap);
+            if (a !== b) {
+              console.error('worker/categories.json is stale vs scripts/categories.js');
+              console.error('Regenerate with: node scripts/sync-worker-catalog.js');
+              process.exit(1);
+            }
+            console.log('snapshot fresh:', CATEGORIES.length, 'categories');
+          "
+
+      - name: Worker syntax check
+        run: node --check worker/src/maintenance.js && node --check worker/src/research.js

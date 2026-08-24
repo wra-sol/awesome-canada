@@ -36,3 +36,24 @@ fails the build and the previous deploy stays live.
 fallback (`workflow_dispatch`) using `wrangler pages deploy` with the
 `CLOUDFLARE_API_TOKEN` / `CLOUDFLARE_ACCOUNT_ID` secrets. Use it only if
 the git connection is down; day-to-day deploys are Cloudflare-side.
+
+## Scheduled jobs (2026-08-24 — hard rule: no GitHub Actions except tests)
+
+Nightly maintenance runs on the `awesome-canada-maintenance` Cloudflare Worker
+(`worker/`, cron triggers 04:00 + 05:00 UTC) instead of GitHub Actions:
+
+- **04:00 UTC clean** — checks every URL, removes entries failing 2 consecutive
+  hard checks (bot-blocks are soft), merges staged research entries, regenerates
+  README, single atomic commit to master → git integration deploys.
+- **05:00 UTC research** — deterministic probes (eScribe/CivicWeb/AllNetMeetings/
+  ArcGIS Hub OGC/Questica), stages verified candidates on the `research/staged`
+  branch and opens/updates the review PR.
+
+Secrets (`wrangler secret put`, run in `worker/`): `GH_TOKEN` (fine-grained PAT,
+Contents RW + Pull requests RW), `MAINTENANCE_TOKEN` (manual HTTP trigger auth).
+Manual smoke test without waiting for cron:
+
+    curl -X POST "https://awesome-canada-maintenance.<subdomain>.workers.dev/run/clean?limit=10&dry-run=1&token=$TOKEN"
+
+If `scripts/categories.js` changes, re-run `node scripts/sync-worker-catalog.js`;
+CI fails when the worker snapshot goes stale.

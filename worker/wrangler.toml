@@ -1,0 +1,19 @@
+name = "awesome-canada-maintenance"
+main = "src/index.js"
+compatibility_date = "2026-08-01"
+account_id = "ad5ec479b9a421faa2ed06c3d1c2b23a"
+
+[triggers]
+crons = ["0 4 * * *", "0 5 * * *"]
+
+[vars]
+GH_REPO = "wra-sol/awesome-canada"
+GH_BRANCH = "master"
+CLEAN_THRESHOLD = "2"
+MAX_CITIES = "25"
+
+# Secrets (set via `wrangler secret put`):
+#   GH_TOKEN           — fine-grained PAT: Contents RW on wra-sol/awesome-canada
+#                        (+ Pull requests RW for the research job)
+#   MAINTENANCE_TOKEN  — shared secret for manual /run/* HTTP triggers
+#   TRANSITLAND_API_KEY — optional, enables GTFS probe later

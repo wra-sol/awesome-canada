@@ -78,8 +78,6 @@ function main() {
   lines.push('');
   lines.push('[![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)');
   lines.push('[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.pages.dev/)');
-  lines.push('[![Daily Clean](https://github.com/wra-sol/awesome-canada/actions/workflows/daily-clean.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/daily-clean.yml)');
-  lines.push('[![Daily Research](https://github.com/wra-sol/awesome-canada/actions/workflows/daily-research.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/daily-research.yml)');
   lines.push('[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)');
   lines.push('[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)');
   lines.push('');
@@ -95,6 +93,7 @@ function main() {
   lines.push('');
   lines.push('- New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)');
   lines.push('- Schema and categories: [`scripts/categories.js`](scripts/categories.js)');
+  lines.push('- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC');
   lines.push('');
   lines.push('---');
   lines.push('');

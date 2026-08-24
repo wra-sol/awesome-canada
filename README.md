@@ -4,8 +4,6 @@
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
 [![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.pages.dev/)
-[![Daily Clean](https://github.com/wra-sol/awesome-canada/actions/workflows/daily-clean.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/daily-clean.yml)
-[![Daily Research](https://github.com/wra-sol/awesome-canada/actions/workflows/daily-research.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/daily-research.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
