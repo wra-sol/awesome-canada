@@ -83,3 +83,33 @@ Local dev: `.dev.vars` holds a dummy `LIKES_SALT`; apply the schema locally
 with `wrangler d1 execute awesome-canada-likes --local --file=schema.sql`,
 then `wrangler pages dev site`. Unit tests: `node --test`.
 Note: preview deployments share the production D1 database.
+
+## Submit / Report API (2026-08-24 — no-account submissions)
+
+`functions/api/submit.js` + `functions/api/report.js` (shared code in
+`functions/api/_submissions.js`, the `_` prefix keeps it un-routed) let
+visitors submit links and report broken ones **without a GitHub account**.
+The endpoints validate input, rate-limit, then open a GitHub issue that the
+existing `process-issues.mjs` automation triages — issue bodies reuse the
+issue templates' `### Field` markdown format, so both issue origins parse
+identically.
+
+One-time setup already done 2026-08-24 (repeat only for a new account):
+
+    CLOUDFLARE_ACCOUNT_ID=ad5ec479b9a421faa2ed06c3d1c2b23a
+    wrangler d1 execute awesome-canada-likes --remote --file=schema.sql   # adds submission_log
+    wrangler pages secret put GITHUB_ISSUE_TOKEN --project-name awesome-canada
+
+`GITHUB_ISSUE_TOKEN` is a fine-grained PAT with **Issues: Read & write** on
+`wra-sol/awesome-canada` (separate from the worker's `GH_TOKEN`, which is
+Contents/PRs scoped). Until the secret is set, the endpoints answer 503 and
+the forms degrade gracefully: they open GitHub with the visitor's answers
+pre-filled, exactly like the old flow.
+
+Anti-spam: honeypot `website` field (bots get a fake success, nothing is
+stored), per-visitor limits of 2 submissions + 3 reports per hour
+(5/10 per day) and a 40/hour global cap, all logged in the `submission_log`
+D1 table. Visitors are the same salted SHA-256(IP+UA) hash the likes API
+uses; no raw IPs or emails are stored. Category ids in `_submissions.js`
+mirror `scripts/categories.js` — `tests/submissions.test.js` fails CI if
+they drift.

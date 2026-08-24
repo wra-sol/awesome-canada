@@ -4,8 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Submit a Link — Awesome Canada</title>
-  <meta name="description" content="Suggest a new Canadian government data source for the Awesome Canada directory.">
+  <meta name="description" content="Suggest a new Canadian government data source for the Awesome Canada directory. No account needed.">
   <link rel="canonical" href="https://awesome-canada.ca/submit.html">
+  <meta name="theme-color" content="#FAFAF8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,20 +28,31 @@
             <span class="site-subtitle">Official Canadian tools, maps &amp; open data — curated and link-checked</span>
           </span>
         </a>
+        <nav class="site-nav" aria-label="Main">
+          <a href="./">Directory</a>
+          <a href="browse/">Browse</a>
+          <a href="submit.html" aria-current="page">Submit a link</a>
+          <a href="report.html">Report a broken link</a>
+        </nav>
       </div>
     </div>
   </header>
 
   <main class="container form-page">
     <h1 class="form-page-title">Submit a Link</h1>
-    <p class="form-page-intro">Know a Canadian government data source we’re missing? Suggest it below. We prioritize municipal and provincial resources that are actionable and hard to find.</p>
+    <p class="form-page-intro">Know a Canadian government data source we’re missing? Suggest it below — no account needed. We prioritize municipal and provincial resources that are actionable and hard to find.</p>
 
-    <form class="submit-form" id="submit-form" action="https://github.com/wra-sol/awesome-canada/issues/new" method="GET" target="_blank">
+    <form class="submit-form" id="submit-form" action="https://github.com/wra-sol/awesome-canada/issues/new" method="GET" target="_blank" novalidate>
       <input type="hidden" name="template" value="submit_link.yml">
+
+      <div class="hp-field" aria-hidden="true">
+        <label for="website">Leave this field empty</label>
+        <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+      </div>
 
       <div class="form-group">
         <label for="name">Resource Name <span class="required">*</span></label>
-        <input type="text" id="name" name="name" placeholder="e.g., Guelph Open Data — Building Permits" required>
+        <input type="text" id="name" name="name" placeholder="e.g., Guelph Open Data — Building Permits" required maxlength="120">
       </div>
 
       <div class="form-group">
@@ -64,7 +77,7 @@
 
         <div class="form-group">
           <label for="jurisdiction">Jurisdiction <span class="required">*</span></label>
-          <input type="text" id="jurisdiction" name="jurisdiction" placeholder="e.g., Guelph, Ontario" required>
+          <input type="text" id="jurisdiction" name="jurisdiction" placeholder="e.g., Guelph, Ontario" required maxlength="80">
         </div>
       </div>
 
@@ -88,19 +101,19 @@
           <option value="health-region">Health Regions & Local Health</option>
           <option value="benefits">Benefits & Social Services</option>
           <option value="housing">Housing & Real Estate</option>
-          <option value="transportation">Transportation & Roads</option>
+          <option value="transport-roads">Transportation & Roads</option>
           <option value="transit">Transit & Mobility</option>
-          <option value="aviation">Aviation, Marine & Rail</option>
+          <option value="aviation-marine">Aviation, Marine & Rail</option>
           <option value="parks">Parks, Trails & Outdoors</option>
           <option value="environment">Environment, Climate & Monitoring</option>
           <option value="weather">Weather & Climate</option>
-          <option value="energy">Energy & Utilities</option>
+          <option value="utilities">Energy & Utilities</option>
           <option value="agriculture">Agriculture, Food & Drink</option>
           <option value="science">Science, Research & Space</option>
-          <option value="heritage">Heritage, Culture & Arts</option>
-          <option value="heritage-register">Heritage Registers & Public Art</option>
+          <option value="culture">Heritage, Culture & Arts</option>
+          <option value="heritage">Heritage Registers & Public Art</option>
           <option value="lobbyist">Lobbyists, Ethics & Disclosure</option>
-          <option value="emergency">Emergency, Safety & Alerts</option>
+          <option value="safety">Emergency, Safety & Alerts</option>
           <option value="justice">Justice, Courts & Legal</option>
           <option value="consumer">Consumer Protection & Privacy</option>
           <option value="indigenous">Indigenous Services & Treaties</option>
@@ -112,34 +125,53 @@
 
       <div class="form-group">
         <label for="description">Description <span class="required">*</span></label>
-        <textarea id="description" name="description" rows="4" placeholder="What can someone DO with this link? Include data format if known (CSV, GeoJSON, GTFS, API, etc.)" required></textarea>
+        <textarea id="description" name="description" rows="4" placeholder="What can someone DO with this link? Include data format if known (CSV, GeoJSON, GTFS, API, etc.)" required maxlength="1000"></textarea>
         <small class="form-hint">Focus on utility, not just what it is.</small>
       </div>
 
       <div class="form-group">
         <label for="tags">Tags</label>
-        <input type="text" id="tags" name="tags" placeholder="guelph, building permits, csv, geocoded">
+        <input type="text" id="tags" name="tags" placeholder="guelph, building permits, csv, geocoded" maxlength="200">
         <small class="form-hint">Comma-separated keywords including region and data format.</small>
       </div>
 
       <div class="form-group">
         <label for="notes">Additional Notes</label>
-        <textarea id="notes" name="notes" rows="3" placeholder="Why is this hard to find or especially useful?"></textarea>
+        <textarea id="notes" name="notes" rows="3" placeholder="Why is this hard to find or especially useful?" maxlength="1000"></textarea>
       </div>
 
       <div class="form-actions">
-        <button type="submit" class="btn btn-primary">Submit to GitHub</button>
+        <button type="submit" class="btn btn-primary" id="submit-btn">Submit for review</button>
         <a href="index.html" class="btn btn-secondary">Cancel</a>
       </div>
 
-      <p class="form-note">You’ll be taken to GitHub to create an issue. A GitHub account is required. All submissions are reviewed before being added to the directory.</p>
+      <div class="form-status" id="form-status" role="alert"></div>
+
+      <p class="form-note">Every submission is reviewed by a maintainer before it’s added to the directory — you’ll find it in the list once accepted.
+        Trouble with the form? <a href="#" class="js-github-fallback">Submit via GitHub instead</a>.</p>
     </form>
+
+    <div class="form-status form-status-success" id="submit-success" hidden>
+      <strong>Thanks — your submission is in.</strong>
+      <p id="submit-success-detail">A maintainer will review it shortly. Accepted links usually appear in the directory within a day or two.</p>
+      <p><a href="index.html">Back to the directory</a> · <a href="#" class="js-track-issue" hidden>Track it on GitHub</a> · <a href="#" class="js-submit-another">Submit another link</a></p>
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container">
-      <p>Awesome Canada — <a href="https://github.com/wra-sol/awesome-canada">GitHub</a> — <a href="index.html">Directory</a></p>
+      <p class="footer-tagline">Every entry links to an official government or public-interest source, and links are checked daily.</p>
+      <nav class="footer-links" aria-label="Footer">
+        <a href="./">Search the directory</a>
+        <a href="browse/">Browse by category</a>
+        <a href="submit.html">Submit a link</a>
+        <a href="report.html">Report a broken link</a>
+        <a href="https://github.com/wra-sol/awesome-canada">GitHub</a>
+        <a href="data/resources.json">Data (JSON)</a>
+      </nav>
     </div>
   </footer>
+
+  <script src="js/forms.js"></script>
 </body>
 </html>

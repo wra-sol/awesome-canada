@@ -4,8 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Report Broken Link — Awesome Canada</title>
-  <meta name="description" content="Report a broken or changed link in the Awesome Canada directory.">
+  <meta name="description" content="Report a broken or changed link in the Awesome Canada directory. No account needed.">
   <link rel="canonical" href="https://awesome-canada.ca/report.html">
+  <meta name="theme-color" content="#FAFAF8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,20 +28,31 @@
             <span class="site-subtitle">Official Canadian tools, maps &amp; open data — curated and link-checked</span>
           </span>
         </a>
+        <nav class="site-nav" aria-label="Main">
+          <a href="./">Directory</a>
+          <a href="browse/">Browse</a>
+          <a href="submit.html">Submit a link</a>
+          <a href="report.html" aria-current="page">Report a broken link</a>
+        </nav>
       </div>
     </div>
   </header>
 
   <main class="container form-page">
     <h1 class="form-page-title">Report a Broken Link</h1>
-    <p class="form-page-intro">Found a link that’s not working, redirecting somewhere unexpected, or showing the wrong content? Let us know and we’ll investigate.</p>
+    <p class="form-page-intro">Found a link that’s not working, redirecting somewhere unexpected, or showing the wrong content? Let us know below — no account needed — and we’ll investigate.</p>
 
-    <form class="report-form" id="report-form" action="https://github.com/wra-sol/awesome-canada/issues/new" method="GET" target="_blank">
+    <form class="report-form" id="report-form" action="https://github.com/wra-sol/awesome-canada/issues/new" method="GET" target="_blank" novalidate>
       <input type="hidden" name="template" value="report_broken.yml">
+
+      <div class="hp-field" aria-hidden="true">
+        <label for="website">Leave this field empty</label>
+        <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+      </div>
 
       <div class="form-group">
         <label for="resource_name">Resource Name <span class="required">*</span></label>
-        <input type="text" id="resource_name" name="resource_name" placeholder="e.g., Guelph Open Data — Building Permits" required>
+        <input type="text" id="resource_name" name="resource_name" placeholder="e.g., Guelph Open Data — Building Permits" required maxlength="120">
       </div>
 
       <div class="form-group">
@@ -68,33 +81,41 @@
 
       <div class="form-group">
         <label for="details">Additional Details</label>
-        <textarea id="details" name="details" rows="3" placeholder="Any other context? When did you last see it working?"></textarea>
+        <textarea id="details" name="details" rows="3" placeholder="Any other context? When did you last see it working?" maxlength="1000"></textarea>
       </div>
 
       <div class="form-actions">
-        <button type="submit" class="btn btn-primary">Report on GitHub</button>
+        <button type="submit" class="btn btn-primary" id="submit-btn">Send report</button>
         <a href="index.html" class="btn btn-secondary">Cancel</a>
       </div>
 
-      <p class="form-note">You’ll be taken to GitHub to create an issue. A GitHub account is required. We review and fix reports as quickly as possible.</p>
+      <div class="form-status" id="form-status" role="alert"></div>
+
+      <p class="form-note">Reports are reviewed and fixed as quickly as possible — thank you for helping keep the directory accurate.
+        Trouble with the form? <a href="#" class="js-github-fallback">Report via GitHub instead</a>.</p>
     </form>
+
+    <div class="form-status form-status-success" id="submit-success" hidden>
+      <strong>Thanks — report received.</strong>
+      <p id="submit-success-detail">We’ll check the link and either fix it or find the resource’s new home.</p>
+      <p><a href="index.html">Back to the directory</a> · <a href="#" class="js-track-issue" hidden>Track it on GitHub</a> · <a href="#" class="js-submit-another">Report another link</a></p>
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container">
-      <p>Awesome Canada — <a href="https://github.com/wra-sol/awesome-canada">GitHub</a> — <a href="index.html">Directory</a> — <a href="submit.html">Submit a Link</a></p>
+      <p class="footer-tagline">Every entry links to an official government or public-interest source, and links are checked daily.</p>
+      <nav class="footer-links" aria-label="Footer">
+        <a href="./">Search the directory</a>
+        <a href="browse/">Browse by category</a>
+        <a href="submit.html">Submit a link</a>
+        <a href="report.html">Report a broken link</a>
+        <a href="https://github.com/wra-sol/awesome-canada">GitHub</a>
+        <a href="data/resources.json">Data (JSON)</a>
+      </nav>
     </div>
   </footer>
 
-  <script>
-    // Pre-fill from URL parameters
-    (function() {
-      const params = new URLSearchParams(window.location.search);
-      const nameField = document.getElementById('resource_name');
-      const urlField = document.getElementById('current_url');
-      if (params.get('resource_name')) nameField.value = params.get('resource_name');
-      if (params.get('current_url')) urlField.value = params.get('current_url');
-    })();
-  </script>
+  <script src="js/forms.js"></script>
 </body>
 </html>

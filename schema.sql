@@ -23,3 +23,16 @@ CREATE TABLE IF NOT EXISTS liked_resources (
   total          INTEGER NOT NULL DEFAULT 0,
   first_liked_at INTEGER NOT NULL
 );
+
+-- submission_log: rate-limit ledger for the no-account submit/report forms
+-- (functions/api/submit.js + functions/api/report.js). One row per accepted
+-- POST. visitor_hash is the same salted SHA-256(IP+UA) used for likes.
+CREATE TABLE IF NOT EXISTS submission_log (
+  id           INTEGER PRIMARY KEY AUTOINCREMENT,
+  kind         TEXT NOT NULL,             -- 'submission' | 'report'
+  visitor_hash TEXT NOT NULL,
+  created_at   INTEGER NOT NULL
+);
+
+CREATE INDEX IF NOT EXISTS idx_submission_visitor_time ON submission_log (visitor_hash, created_at);
+CREATE INDEX IF NOT EXISTS idx_submission_time ON submission_log (created_at);

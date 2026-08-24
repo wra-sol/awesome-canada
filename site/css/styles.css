@@ -910,8 +910,10 @@ main.container.browse-page {
    Form Pages (Submit / Report)
    ============================================ */
 
-.form-page {
+main.container.form-page {
+  display: block;
   max-width: 680px;
+  margin: 0 auto;
   padding-top: var(--space-8);
   padding-bottom: var(--space-8);
 }
@@ -1060,6 +1062,61 @@ main.container.browse-page {
   color: var(--color-slate);
   margin-top: var(--space-4);
   line-height: 1.5;
+}
+
+/* Submission status panels (submit / report) */
+.form-status {
+  display: none;
+  margin-top: var(--space-5);
+  padding: var(--space-4) var(--space-5);
+  border-radius: var(--radius-md);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.form-status.show {
+  display: block;
+}
+
+.form-status strong {
+  display: block;
+  margin-bottom: var(--space-1);
+  font-size: 15px;
+}
+
+.form-status a {
+  color: inherit;
+  font-weight: 600;
+}
+
+.form-status-success {
+  background: rgba(45, 106, 79, 0.1);
+  border: 1px solid rgba(45, 106, 79, 0.35);
+  color: var(--color-success);
+}
+
+.form-status-error {
+  background: rgba(155, 34, 38, 0.08);
+  border: 1px solid rgba(155, 34, 38, 0.3);
+  color: var(--color-danger);
+}
+
+/* Honeypot — visually hidden but present for bots */
+.hp-field {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.btn[aria-busy="true"] {
+  opacity: 0.7;
+  cursor: progress;
 }
 
 /* Responsive forms */

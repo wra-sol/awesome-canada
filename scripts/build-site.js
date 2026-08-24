@@ -55,6 +55,12 @@ ${jsonLd ? `  <script type="application/ld+json">${jsonLd}</script>\n` : ''}  <l
             <span class="site-subtitle">Official Canadian tools, maps &amp; open data — curated and link-checked</span>
           </span>
         </a>
+        <nav class="site-nav" aria-label="Main">
+          <a href="../">Directory</a>
+          <a href="../browse/" aria-current="page">Browse</a>
+          <a href="../submit.html">Submit a link</a>
+          <a href="../report.html">Report a broken link</a>
+        </nav>
       </div>
     </div>
   </header>
@@ -63,10 +69,14 @@ ${body}
   </main>
   <footer class="site-footer">
     <div class="container">
+      <p class="footer-tagline">Every entry links to an official government or public-interest source, and links are checked daily.</p>
       <nav class="footer-links" aria-label="Footer">
         <a href="../">Search the directory</a>
-        <a href="https://github.com/wra-sol/awesome-canada">GitHub</a>
+        <a href="../browse/">Browse by category</a>
         <a href="../submit.html">Submit a link</a>
+        <a href="../report.html">Report a broken link</a>
+        <a href="https://github.com/wra-sol/awesome-canada">GitHub</a>
+        <a href="../data/resources.json">Data (JSON)</a>
       </nav>
     </div>
   </footer>
