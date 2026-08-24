@@ -4,3 +4,8 @@ node_modules/
 /CLIPBOARD.md
 __pycache__/
 .wrangler/
+
+# Generated at build time by scripts/build-site.js
+site/browse/
+site/sitemap.xml
+site/data/meta.json

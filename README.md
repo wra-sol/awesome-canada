@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1117 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1194 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,41 +26,41 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 167
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 81
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 126
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 91
-- [🪪 Government Services & ID](#government-services-and-id) — 33
-- [💰 Taxes & Revenue](#taxes-and-revenue) — 13
-- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 16
-- [🏢 Business & Procurement](#business-and-procurement) — 18
-- [💼 Employment & Labour](#employment-and-labour) — 14
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 173
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 83
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 128
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 92
+- [🪪 Government Services & ID](#government-services-and-id) — 36
+- [💰 Taxes & Revenue](#taxes-and-revenue) — 16
+- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 21
+- [🏢 Business & Procurement](#business-and-procurement) — 25
+- [💼 Employment & Labour](#employment-and-labour) — 16
 - [🎓 Education & Student Aid](#education-and-student-aid) — 15
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 36
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 14
-- [🩺 Health & Wellness](#health-and-wellness) — 18
+- [🩺 Health & Wellness](#health-and-wellness) — 19
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 24
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 23
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 22
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 25
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 26
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 30
 - [🚌 Transit & Mobility](#transit-and-mobility) — 58
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 53
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 28
-- [🌦️ Weather & Climate](#weather-and-climate) — 10
-- [⚡ Energy & Utilities](#energy-and-utilities) — 27
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 17
-- [🔬 Science, Research & Space](#science-research-and-space) — 16
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 16
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 56
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 32
+- [🌦️ Weather & Climate](#weather-and-climate) — 12
+- [⚡ Energy & Utilities](#energy-and-utilities) — 29
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 19
+- [🔬 Science, Research & Space](#science-research-and-space) — 20
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 41
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 22
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 13
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 16
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 19
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 8
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 10
 - [🎖️ Veterans & Military](#veterans-and-military) — 7
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 27
-- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 7
+- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 8
 
 ---
 
@@ -70,10 +70,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canadian Geographical Names Database Search | Canada · Federal | Lookup tool | Query nearly 350,000 official Canadian place names by name, coordinates or area, with API access and downloadable datasets, maintained by NRCan. | https://geonames.nrcan.gc.ca/search-place-names/search |
 | Census Program | Canada · Federal | Census portal | Census profiles, maps, and reference materials | https://www12.statcan.gc.ca/census-recensement/index-eng.cfm |
+| EODMS — Earth Observation Data Management System | Canada · Federal | Imagery search | Search and order from NRCan's archive of satellite imagery and the National Air Photo Library — over 3 million historical aerial photos of Canada dating to the 1920s, with footprints on a map. | https://eodms-sgdot.nrcan-rncan.gc.ca/index-en.html |
 | GEO.ca | Canada · Federal | Geospatial portal | Canada's federal geospatial data portal, providing open access to authoritative geospatial information, maps, and datasets from federal sources. | https://geo.ca/ |
 | Government of Canada — Open Government Portal | Canada · Federal | Open data portal | Search 40,000+ federal datasets, reports, and geospatial layers with API access | https://search.open.canada.ca/opendata/ |
 | ISED API Catalogue | Canada · Federal | API catalogue | Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data. | https://api.ised-isde.canada.ca/en |
+| NRC Digital Repository | Canada · Federal | Research data repository | National Research Council's persistent archive of research datasets, corporate publications back to 1954, and special collections, searchable and openly accessible. | https://nrc-digital-repository.canada.ca/eng/list/collections/ |
 | Open Government Portal | Canada · Federal | Open data portal | Main federal portal for datasets, information, and downloadable public resources | https://open.canada.ca/ |
 | Open Maps | Canada · Federal | Geospatial portal | Federal map and geospatial data discovery portal | https://open.canada.ca/en/open-maps/ |
 | Open North | Canada · Federal | Civic tech nonprofit | Canadian nonprofit building open data standards and civic technology tools to help governments and communities share information and engage citizens | https://opennorth.ca/ |
@@ -83,9 +86,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Statistics Canada — Census Profile | Canada · Federal | Census search | Search detailed population, demographic, and housing profiles by postal code, city, or region | https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm |
 | Statistics Canada — Consumer Price Index Portal | Canada · Federal | Inflation data | Monthly CPI releases, inflation calculators, and interactive charts by component and province | https://www.statcan.gc.ca/en/subjects-start/prices_and_price_indexes/consumer_price_indexes |
 | Statistics Canada — Data Visualization Gallery | Canada · Federal | Data visualizations | Interactive dashboards, data explorers, and visual summaries across economy, society, and environment | https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020016-eng.htm |
+| Statistics Canada — GeoSearch | Canada · Federal | Interactive map | Find any place in Canada by name, postal code, address or geographic code and get its census geography boundaries and basic demographic data on an interactive map. | https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/index-eng.cfm |
 | Statistics Canada — The Daily | Canada · Federal | News/data feed | Daily releases of new statistics, economic indicators, and analytical reports from StatCan | https://www150.statcan.gc.ca/n1/dai-quo/index-eng.htm |
 | Statistics Canada — Web Data Service (WDS) API | Canada · Federal | API | REST API for accessing StatCan tables, metadata, and bulk downloads programmatically | https://www.statcan.gc.ca/en/developers/wds |
 | Statistics Canada Developers | Canada · Federal | Developer/data access | APIs and structured access for developers and researchers | https://www.statcan.gc.ca/en/developers |
+| Toporama — Atlas of Canada | Canada · Federal | Interactive map | Dynamic topographic map viewer covering all of Canada with toggleable layers (contours, hydrography, transportation), distance measurement, water flow tracing, and free data downloads. | https://atlas.gc.ca/toporama/en/index.html |
 | Canadian Urban Transit Association — Stats Dashboard | Canada · Agency | Transit data | National ridership, fare, and service data for Canadian transit systems | https://cutaactu.ca/ |
 
 ### British Columbia
@@ -94,6 +99,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | B.C. API Gateway | British Columbia · Provincial | API portal | British Columbia government API gateway for discovering, accessing, and managing provincial APIs and data services | https://api.gov.bc.ca/ |
 | DataBC | British Columbia · Provincial | Open data portal | Major open data and geospatial hub for BC | https://www2.gov.bc.ca/gov/content/data |
+| iMapBC | British Columbia · Provincial | Interactive map | Layer hundreds of BC Geographic Warehouse datasets on one map — parcels, Crown tenures, the Agricultural Land Reserve, mineral titles, forest and wildlife layers — with upload, query and share tools. | https://www2.gov.bc.ca/gov/content/data/geographic-data-services/web-based-mapping/imapbc |
 | Metro Vancouver Open Data Portal | Metro Vancouver · Regional | Open data hub | Regional GIS datasets including LiDAR point clouds, aerial orthoimagery, liquid and solid waste services, water services, regional parks, and Electoral Area A boundaries | https://open-data-portal-metrovancouver.hub.arcgis.com/ |
 | Abbotsford Open Data Hub | Abbotsford · Municipal | Open data hub | ArcGIS Hub for City of Abbotsford datasets — parks, transportation, boundaries, and municipal infrastructure with bulk download. | https://opendata-abbotsford.hub.arcgis.com/ |
 | Burnaby Open Data | Burnaby · Municipal | Open data portal | City of Burnaby maps and open data including zoning, parks, and civic datasets with download and API access. | https://www.burnaby.ca/City-Services/Maps-Open-Data.html |
@@ -280,6 +286,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## 🏗️ Planning, Zoning & Development
 
+### Federal / National
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Codes Canada — CODES-GUIDES Online Library | Canada · Federal | Reference library | Free electronic access to the National Building Code, Fire Code, Plumbing Code, Energy Code and user's guides published by the NRC. | https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-guides-online-library |
+
 ### British Columbia
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -380,6 +392,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Newfoundland and Labrador — Provincial Land Use Atlas | Newfoundland and Labrador · Provincial | Interactive map | Interactive map of Crown land titles and applications, municipal plans, protected road zoning and land use restrictions across the province, with topographic base maps and aerial photography. | https://geohub-gnl.hub.arcgis.com/app/provincial-land-use-atlas-lua |
 | CBRM Parcel Finder | Cape Breton · Municipal | Parcel map service | Cape Breton Regional Municipality parcel and property lookup via municipal GIS ParcelFinder map services. | https://gis2.cbrm.ns.ca/server/rest/services/ParcelFinder |
 | CBRM Planning GIS Services | Cape Breton · Municipal | Planning map services | CBRM planning department GIS map services — zoning and land-use layers via ArcGIS REST for Cape Breton Regional Municipality. | https://gis2.cbrm.ns.ca/server/rest/services/Planning |
 | Fredericton — Zoning By-law Dataset | Fredericton · Municipal | Dataset | Polygon GIS dataset of Fredericton zoning districts from the Zoning By-law, with zoning codes and descriptions. Downloadable as GeoJSON, Shapefile, or KML via ArcGIS Hub for use in mapping and development analysis. | https://data-fredericton.opendata.arcgis.com/datasets/zoning-by-law-z5 |
@@ -407,7 +420,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| House of Commons — Vote Records | Canada · Federal | Vote tracker | Every recorded vote in the House of Commons with each MP's position, browsable by parliament and session and downloadable as open XML data. | https://www.ourcommons.ca/members/en/votes |
 | LEGISinfo — Federal Bill Tracker | Canada · Federal | Legislation tracker | Tracks every federal bill through Parliament: full text at each stage, sponsor, legislative summaries, votes, coming-into-force data, with JSON/XML/RSS exports back to the 35th Parliament (1994). | https://www.parl.ca/legisinfo/en/bills |
+| Orders in Council Database | Canada · Federal | Search database | Privy Council Office's searchable database of all federal Orders in Council from 1990 to present, with full text from late 2002 onward, published three working days after approval. | https://orders-in-council.canada.ca/ |
 
 ### British Columbia
 
@@ -580,6 +595,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| GC InfoBase | Canada · Federal | Data visualization | Treasury Board's interactive explorer of federal finances, people and results — track spending from the government-wide view down to individual programs. | https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-eng.html |
 | Parliamentary Budget Officer — Reports & Costings | Canada · Federal | Budget watchdog | Independent budget analysis for Parliament: election platform costings, fiscal projections, departmental spending analyses, and custom costing requests. Complements the absence of federal line-by-line budget data tools. | https://www.pbo-dpb.gc.ca/ |
 
 ### British Columbia
@@ -734,6 +750,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Travel.gc.ca — Consent Letter for Children Travelling Abroad | Canada · Federal | Service | Template and guidance for consent letters when children travel abroad without both parents | https://travel.gc.ca/travelling/children/consent-letter |
 | Canada Council for the Arts — Discover | Canada · Crown Corp | Arts | Funding programs, arts research, and Canadian arts discovery | https://canadacouncil.ca/ |
 | Canada Foundation for Innovation — Research Infrastructure | Canada · Crown Corp | Research | Funding for research infrastructure across Canadian institutions | https://www.innovation.ca/ |
+| Canada Post — Find a Postal Code | Canada · Crown Corp | Lookup tool | Official postal code lookup by civic, rural route or post office box address, with address autocomplete. | https://www.canadapost-postescanada.ca/cpc/en/tools/find-a-postal-code.page |
 | Canada Post — Send, Ship, Track | Canada · Crown Corp | Shipping tool | Send mail, ship packages, calculate postage, and track shipments | https://www.canadapost.ca/ |
 | Canada Science and Technology Exhibition Centre | Canada · Crown Corp | Science outreach | Science and innovation exhibits and public programs | https://www.sciencetech.ca/ |
 | CBC — Gem Streaming | Canada · Crown Corp | Streaming | Free Canadian streaming of news, documentaries, and shows on CBC Gem | https://gem.cbc.ca/ |
@@ -753,6 +770,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alberta.ca Account | Alberta · Provincial | Authentication | Single sign-in used to access Alberta government online services like MyAlberta Digital ID | https://account.alberta.ca/ |
 | MyAlberta Digital ID | Alberta · Provincial | Digital ID | Verified digital identity used to access Alberta government services remotely | https://account.alberta.ca/signin |
+| Calgary — Impounded and Lost Pets | Calgary · Municipal | Lookup tool | Photos and descriptions of stray cats and dogs at Calgary Animal Services, updated every 15 minutes, so owners can spot their lost pet online. | https://www.calgary.ca/pets/lost-animals.html |
 
 ### Manitoba
 
@@ -767,6 +785,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario.ca Developer Hub | Ontario · Provincial | Developer portal | Ontario government developer hub with APIs, technical documentation, and code samples for building digital services | https://developer.ontario.ca/ |
 | ServiceOntario | Ontario · Provincial | Service portal | Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services | https://www.ontario.ca/page/serviceontario |
 | Brampton budget / Open Book resources | Brampton · Municipal | Transparency / budget | Budget transparency resources and project-oriented views | https://www.brampton.ca/EN/City-Hall/budget/ |
+| Toronto — Waste Wizard | Toronto · Municipal | Lookup tool | Type any of 2,500+ items to find out which bin it goes in and where to drop off hazardous waste — also in the TOwaste app with collection schedules. | https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/ |
 | Toronto 311 — Service Requests | Toronto · Municipal | Service | Report issues, request services, and track cases in Toronto via web, app, or phone | https://www.toronto.ca/home/311-toronto-at-your-service/ |
 
 ### Quebec
@@ -794,6 +813,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Canada Revenue Agency — My Business Account | Canada · Federal | Tax portal | Online business tax portal for GST/HST filing, payroll, and corporate returns | https://www.canada.ca/en/revenue-agency/services/e-services.html |
+| CBSA Duty and Taxes Estimator | Canada · Federal | Calculator | Estimate duties, GST and excise taxes owing on goods brought back to Canada for personal use before you reach the border. | https://www.cbsa-asfc.gc.ca/travel-voyage/dte-acl/est-cal-eng.html |
 | CRA — Express Notice of Assessment (NOA) | Canada · Federal | Service | Fast online delivery of your Notice of Assessment after filing your tax return | https://www.canada.ca/en/revenue-agency/services/e-services/about-express-noa.html |
 | CRA — Federal and Provincial Tax Brackets | Canada · Federal | Reference | Current and historical federal and provincial/territorial personal income tax rates | https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/canadian-income-tax-rates-individuals-current-previous-years.html |
 | CRA — GST/HST Calculator and Rates | Canada · Federal | Calculator | Look up the GST/HST rate that applies by province and calculate taxes on sales | https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html |
@@ -810,11 +830,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Property Transfer Tax Calculator | British Columbia · Provincial | Calculator | Calculate the provincial property transfer tax due when buying property or acquiring land in British Columbia | https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax |
 | Vancouver Property Tax Calculator | Vancouver · Municipal | Calculator | Estimate your annual property tax in Vancouver based on assessed value and property classification | https://vancouver.ca/home-property-development/property-taxes-and-assessments.aspx |
 
+### Alberta
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Calgary — Property Tax Calculator | Calgary · Municipal | Calculator | Estimate and breakdown of Calgary property taxes from assessed value, split between municipal and education shares. | https://www.calgary.ca/property-owners/taxes/calculator.html |
+
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Mississauga Property Tax Calculator | Mississauga · Municipal | Calculator | Calculate your annual property tax bill in Mississauga based on your property's assessed value | https://www.mississauga.ca/portal/residents/propertytax |
+| Toronto — Property Tax Calculator | Toronto · Municipal | Calculator | Instant estimate of Toronto residential property taxes from purchase price or MPAC assessed value. | https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-calculator/ |
 
 ### Quebec
 
@@ -828,14 +855,19 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Bank of Canada — Currency Converter | Canada · Federal | Calculator | Convert to and from Canadian dollars using the Bank of Canada's official daily exchange rates, with historical rates back to 2017. | https://www.bankofcanada.ca/rates/exchange/currency-converter/ |
 | Bank of Canada — Inflation Calculator | Canada · Federal | Calculator | Calculate the buying power of the Canadian dollar in any year from 1914 to today | https://www.bankofcanada.ca/rates/related/inflation-calculator/ |
 | Bank of Canada — Monetary Policy Report | Canada · Federal | Report | Quarterly report on inflation, growth, and interest-rate outlook with supporting data | https://www.bankofcanada.ca/publications/mpr/ |
 | Bank of Canada — Research and Publications | Canada · Federal | Research | Economic research, working papers, staff discussion papers, and data | https://www.bankofcanada.ca/publications/ |
+| Bank of Canada — Unclaimed Balances Search | Canada · Federal | Search database | Search $1.6 billion in dormant bank accounts, matured GICs, bank drafts and money orders turned over after 10 years of inactivity — small balances held 30 years, larger ones 100. | https://www.bankofcanada.ca/unclaimed-balances/ |
 | Bank of Canada — Valet API | Canada · Federal | API | Free REST API for Bank of Canada datasets: policy interest rate, exchange rates, CPI, money markets, and macro indicators with JSON/CSV output and interactive series builder. | https://www.bankofcanada.ca/valet/ |
 | CPP/QPP Statement of Contributions | Canada · Federal | Statement | View your CPP/QPP contribution history and estimated retirement benefit | https://www.canada.ca/en/services/benefits/publicpensions/cpp/statement-contributions.html |
+| FCAC — Account Comparison Tool | Canada · Federal | Comparator | Compare fees, interest rates and features across 250+ chequing and savings accounts from Canadian banks and credit unions. | https://itools-ioutils.fcac-acfc.gc.ca/ACT-OCC/SearchFilter-eng.aspx |
+| FCAC — Budget Planner | Canada · Federal | Budget tool | Interactive Financial Consumer Agency of Canada tool that builds a personalized budget with charts, comparisons to similar households, and a downloadable spreadsheet. | https://itools-ioutils.fcac-acfc.gc.ca/BP-PB/budget-planner |
 | FCAC — Credit Card Comparison Tool | Canada · Federal | Comparator | Compare fees, rewards, and interest rates across all federally regulated credit cards | https://itools-ioutils.fcac-acfc.gc.ca/CCCT-OCCC/SearchFilter-eng.aspx |
 | FCAC — Mortgage Calculator | Canada · Federal | Calculator | Official mortgage qualifier and payment calculator including stress-test scenarios | https://itools-ioutils.fcac-acfc.gc.ca/MC-CH/MCCalc-CHCalc-eng.aspx |
 | Financial Consumer Agency — Consumer Tools | Canada · Federal | Financial tools | Budget planner, credit card selector, bank account comparison, and financial literacy tools | https://www.canada.ca/en/financial-consumer-agency.html |
+| Statistics Canada — Personal Inflation Calculator | Canada · Federal | Calculator | Enter your own spending by category to compute your personal inflation rate and chart it against the official CPI, updated monthly with each CPI release. | https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020015-eng.htm |
 | Business Development Bank of Canada (BDC) | Canada · Crown Corp | Business financing | Federal crown corporation providing financing, advisory services, and venture capital to Canadian businesses | https://www.bdc.ca/ |
 | CDIC — Deposit Insurance Calculator | Canada · Crown Corp | Calculator | Calculate how much of your bank deposits are protected by CDIC coverage | https://www.cdic.ca/your-coverage/deposit-insurance-calculator/ |
 | Export Development Canada — Trade Intelligence | Canada · Crown Corp | Trade data | International trade data, market intelligence, and export tools | https://edc.ca/ |
@@ -868,12 +900,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BizPaL — Permits and Licences Finder | Canada · Federal | Finder | Generate a personalized list of federal, provincial, and municipal permits you need to operate a business | https://www.bizpal.ca/ |
 | Canada Business — Starting a Business | Canada · Federal | Guide | Official guide for starting a business in Canada — permits, taxes, licensing, and supports by province | https://www.canada.ca/en/services/business/start.html |
+| Canada's Business Registries — Multi-Jurisdiction Search | Canada · Federal | Registry search | Free basic search across the federal registry and eight provincial/territorial business registries from one page (not yet all 14 jurisdictions). | https://ised-isde.canada.ca/cbr-rec/en/search |
 | Canada's Business Registries (ISED) | Canada · Federal | Business registry search | Free cross-provincial business lookup aggregating the official registries of AB, BC, MB, NS, ON, QC, SK, and Corporations Canada — one search across jurisdictions. | https://ised-isde.canada.ca/cbr-rec/ |
 | CanadaBuys — Federal Tenders | Canada · Federal | Procurement | Modern federal procurement portal replacing buyandsell.gc.ca — browse and bid on tenders | https://canadabuys.canada.ca/en |
 | Canadian Intellectual Property Office (CIPO) | Canada · Federal | Service | Search and apply for patents, trademarks, copyrights, and industrial designs in Canada | https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en |
+| Canadian Patents Database | Canada · Federal | Search tool | Search over 2.6 million Canadian patent documents from 1869 to the present, with full-text and images, maintained by CIPO. | https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html |
+| Canadian Trademarks Database | Canada · Federal | Search tool | CIPO's searchable database of more than 1.4 million Canadian trademarks registered from 1865 to the present, updated weekly. | https://ised-isde.canada.ca/cipo/trademark-search/srch |
+| CFIA — Automated Import Reference System (AIRS) | Canada · Federal | Import tool | Question-and-answer tool that walks importers through the exact CFIA requirements, documents and HS codes for bringing food, plants and animals into Canada. | https://inspection.canada.ca/en/importing-food-plants-animals/airs |
+| Corporations Canada — Federal Corporation Search | Canada · Federal | Registry search | Confirm the existence and status of any federally incorporated business, not-for-profit, cooperative or board of trade by name, corporation number or business number. | https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html |
 | FedDev Ontario | Canada · Federal | Economic development | Federal economic development agency supporting business growth, innovation, and community economic development in southern Ontario | https://feddev-ontario.canada.ca/ |
 | Innovation Canada — Business Benefits Finder | Canada · Federal | Finder | Personalized search of federal, provincial, and regional business funding and support programs | https://ised-isde.canada.ca/ |
 | MERX — Canadian Procurement Platform | Canada · Federal | Procurement | Canada's largest electronic procurement platform — access federal, provincial, and municipal tender notices across all industries | https://www.merx.com/ |
+| Trade Data Online | Canada · Federal | Data tool | Generate custom reports on Canadian and US trade in goods with 200+ countries by HS product code or industry, with CSV and Excel export, from ISED. | https://ised-isde.canada.ca/site/trade-data-online/en/overview |
 | Canadian Commercial Corporation — Government Procurement | Canada · Crown Corp | Procurement | Procurement tools for businesses selling to governments domestically and internationally | https://www.ccc.ca/ |
 | Defence Construction Canada | Canada · Crown Corp | Procurement | Defence construction contracting and project management | https://www.dcc-cdc.gc.ca/ |
 
@@ -883,6 +921,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Bid — Provincial Procurement | British Columbia · Provincial | Procurement | BC's electronic tendering portal for public-sector opportunities across the province | https://www.bcbid.gov.bc.ca/ |
 | BC Business Registry — Corporate Online | British Columbia · Provincial | Business registry | Search BC corporate records, register a new business, and file annual reports through BC Corporate Online | https://www.corporateonline.gov.bc.ca/ |
+| OrgBook BC | British Columbia · Provincial | Registry search | Public verifiable-credential directory from BC Registries to confirm a business is legally incorporated and in good standing, with API access. | https://orgbook.gov.bc.ca/ |
 
 ### Alberta
 
@@ -924,6 +963,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Occupational Projection System (COPS) | Canada · Federal | Labour data | Ten-year occupational projections for job openings and job seekers across Canadian occupations | https://occupations.esdc.gc.ca/sppc-cops/ |
 | Employment and Social Development Canada — Labour Program | Canada · Federal | Regulator | Federal labour standards, occupational health and safety, workplace equity, and unjust-dismissal info | https://www.canada.ca/en/employment-social-development/corporate/portfolio/labour.html |
 | Employment Insurance (EI) — Apply Online | Canada · Federal | Service | Apply for Employment Insurance regular, sickness, maternity, parental, and caregiver benefits | https://www.canada.ca/en/services/benefits/ei.html |
+| Employment Insurance Benefits Estimator | Canada · Federal | Calculator | Anonymous Service Canada tool that estimates weekly EI benefit amounts and duration from salary and hours worked — no sign-in or personal information required. | https://estimateurae-eiestimator.service.canada.ca/en |
+| GC Jobs — Government of Canada Jobs | Canada · Federal | Job search | Search and apply for federal public service positions across all departments and agencies through the Public Service Commission's hiring portal. | https://www.canada.ca/en/services/jobs/opportunities/government.html |
 | Job Bank Canada — Job Search | Canada · Federal | Job search | Official job search tool with 56,000+ postings, filters by location, salary, hours, education | https://www.jobbank.gc.ca/findajob |
 | Job Bank Canada — Labour Market Information | Canada · Federal | Labour data | Employment trends, occupation outlook, and market data explorer | https://www.jobbank.gc.ca/trend-analysis |
 | Job Bank Canada — Wage Search | Canada · Federal | Wage comparison | Compare wages by occupation and location across Canada | https://www.jobbank.gc.ca/trend-analysis/search-wages |
@@ -1146,6 +1187,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | FluWatch — National Influenza Surveillance | Canada · Federal | Surveillance | National influenza surveillance program tracking flu activity across Canada | https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html |
 | Health Canada — Clinical Trials Database | Canada · Federal | Research database | Searchable registry of authorized and completed clinical trials in Canada | https://health-products.canada.ca/ctdb-bdec/ |
 | MedEffect Canada — Adverse Reaction Reporting | Canada · Federal | Reporting | Report and search adverse reactions to health products overseen by Health Canada | https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html |
+| Medical Devices Active Licence Listing (MDALL) | Canada · Federal | Licence search | Health Canada's public register of all medical devices licensed for sale in Canada, searchable by company, device name, licence number or device identifier. | https://health-products.canada.ca/mdall-limh/ |
 | Public Health Agency of Canada — Respiratory Virus Dashboard | Canada · Federal | Dashboard | Weekly surveillance of COVID-19, influenza, and RSV activity across Canada | https://health-infobase.canada.ca/respiratory-virus-detections/ |
 | Canadian Blood Services — Donate | Canada · Agency | Service | Book a blood donation, register as a stem-cell donor, and track My Donor account | https://blood.ca/ |
 
@@ -1262,6 +1304,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CPP Retirement Hub | Canada · Federal | Information hub | Central hub for Canada Pension Plan retirement planning — contributions, applying, and combining with other income | https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-hub.html |
 | Disability Tax Credit Certificate — Form T2201 | Canada · Federal | Form | Apply for the Disability Tax Credit, which unlocks RDSP, CCB disability supplement, and more | https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html |
 | Old Age Security (OAS) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for Old Age Security and Guaranteed Income Supplement | https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html |
+| Old Age Security Benefits Estimator | Canada · Federal | Calculator | Anonymous Service Canada estimator for OAS pension, Guaranteed Income Supplement, Allowance and Allowance for the Survivor amounts based on age, residency and income. | https://estimateursv-oasestimator.service.canada.ca/en/ |
 | Registered Disability Savings Plan (RDSP) | Canada · Federal | Savings plan | Overview, grants, and bonds available in the RDSP for eligible Canadians with disabilities | https://www.canada.ca/en/employment-social-development/programs/disability/savings.html |
 
 ### British Columbia
@@ -1319,10 +1362,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta Property Rights — Land Titles | Alberta · Provincial | Land registry | Alberta land titles search — property ownership records, title documents, and land ownership history | https://alta.registries.gov.ab.ca/ |
 | Alberta Residential Tenancy Dispute Resolution Service | Alberta · Provincial | Tribunal | Alberta alternative to court for tenancy disputes — applications, forms, and rules | https://www.alberta.ca/residential-tenancy-dispute-resolution-service |
 
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| SAMAView — Saskatchewan Assessments Online | Saskatchewan · Provincial | Property | Free search, view and comparison of individual property assessments across all SAMA client municipalities in Saskatchewan. | https://www.sama.sk.ca/property-owner-services/assessments-online-samaview |
+
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba Assessment Online | Manitoba · Provincial | Property | Search property assessment values and details for all Manitoba properties outside Winnipeg. | https://www.gov.mb.ca/mao/public/default.aspx |
 | Manitoba Residential Tenancies Branch | Manitoba · Provincial | Tribunal | Manitoba's branch for residential tenancy disputes, rent regulation, and guidance | https://www.gov.mb.ca/cca/rtb/ |
 
 ### Ontario
@@ -1345,9 +1395,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| New Brunswick — Property Assessment Online (PAOL) | New Brunswick · Provincial | Property | Search NB property assessments by address, PAN or PID, with four years of assessment history, recent sale prices and tax levy information on a provincial map. | https://paol-efel.snb.ca/ |
+| PVSC — Nova Scotia Assessment Search | Nova Scotia · Provincial | Property | Find any of Nova Scotia's 650,000+ property assessments by civic address, assessment account number, community or sale date. | https://www.pvsc.ca/find-assessment |
 | PEI Property Tax Calculator | PEI · Provincial | Calculator | Estimate annual property taxes for residential and commercial properties on Prince Edward Island | https://www.princeedwardisland.ca/en/service/property-tax |
 
 ## 🛣️ Transportation & Roads
+
+### Federal / National
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| CBSA Border Wait Times | Canada · Federal | Live wait times | Live estimated wait times at the 30 busiest US-to-Canada land border crossings, updated at least hourly. | https://www.cbsa-asfc.gc.ca/bwt-taf/menu-eng.html |
+| NRCan — Fuel Consumption Ratings Search Tool | Canada · Federal | Search tool | Compare fuel consumption and CO2 emissions of new light-duty vehicles sold in Canada, including hybrids and electric vehicles, with data back to 1995. | https://fcr-ccc.nrcan-rncan.gc.ca/en/Search |
 
 ### British Columbia
 
@@ -1387,6 +1446,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Photo Card | Ontario · Provincial | ID service | Apply for an Ontario Photo Card — government-issued photo ID for residents who don't have a driver's licence | https://www.ontario.ca/page/ontario-photo-card |
 | ServiceOntario — Vehicle Registration Renewal | Ontario · Provincial | Service | Renew Ontario vehicle registration, transfer ownership, and order licence plate stickers online | https://www.ontario.ca/page/renew-drivers-licence |
 | Ottawa Traffic, Parking and Road Bans | Ottawa · Municipal | Service | View real-time traffic conditions, road closures, parking restrictions, and seasonal road bans in Ottawa | https://traffic.ottawa.ca/ |
+| PlowTO — Snow Plow Tracker | Toronto · Municipal | Live map | Near-real-time GPS map of Toronto's salters, road plows, sidewalk plows and cycling-network plows, with colour-coded streets showing how recently each was serviced. | https://www.toronto.ca/services-payments/streets-parking-transportation/road-maintenance/winter-maintenance/plowto/ |
 
 ### Quebec
 
@@ -1395,6 +1455,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Quebec 511 | Quebec · Provincial | Road conditions map | Provincial road conditions, incidents, and closures | https://www.quebec511.info/en/ |
 | SAAQClic — Quebec Driver Services | Quebec · Provincial | Service | Quebec's online SAAQ portal for driver's licence, vehicle registration, and fines | https://saaq.gouv.qc.ca/en/online-services |
 | Allo-MTL — Montréal en temps réel | Montreal · Municipal | Real-time city map | Aggregates 20+ datasets: snow removal, parking signs, bike routes, trees, air quality, and more | https://donnees.montreal.ca/en/showcase/allo-mtl-montreal-temps-reel |
+| Montréal — Find a Towed Car | Montreal · Municipal | Lookup tool | Enter your licence plate or the spot where you parked to find out where the city towed your car during snow removal or roadwork. | https://montreal.ca/en/find-towed-car |
+| Montréal — Snow Removal Operations Map | Montreal · Municipal | Live map | See when your street is scheduled for snow clearing and loading, plus free incentive parking lots during operations — the map behind the INFO-Neige app. | https://montreal.ca/en/services/snow-removal-operations-map |
 | Saguenay Réseau routier — Données Québec | Saguenay · Municipal | Road network dataset | Saguenay municipal road centreline network — CSV, GeoJSON, and shapefile download from Données Québec. | https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay&q=r%C3%A9seau+routier |
 
 ### Atlantic Canada (NB, NS, PE, NL)
@@ -1586,6 +1648,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Pacific Rim National Park Reserve | Parks Canada · Federal | National park reserve | Vancouver Island's rugged Pacific coast, Long Beach, rainforests, and West Coast Trail | https://parks.canada.ca/pacificrim |
 | Parks Canada — National Parks System Map | Parks Canada · Federal | Interactive map | Map of all 39 national park and national marine conservation area regions across Canada | https://parks.canada.ca/pn-np/cnpn-cnnp/carte-map |
 | Parks Canada — Reservations | Parks Canada · Federal | Booking portal | Book camping, roofed accommodations, and permits across all national parks | https://parks.canada.ca/voyage-travel/reserve |
+| Parks Canada Reservation Service | Parks Canada · Federal | Booking service | Official reservations for campsites, backcountry zones, oTENTik tents, the West Coast Trail, Chilkoot Trail and shuttle services across national parks. | https://reservation.pc.gc.ca/ |
 | Point Pelee National Park | Parks Canada · Federal | National park | Southernmost mainland Canada — birding hotspot and monarch butterfly migration | https://parks.canada.ca/pelee |
 | Prince Albert National Park | Parks Canada · Federal | National park | Saskatchewan boreal forest park — lakes, wildlife, canoeing, and Grey Owl's cabin | https://parks.canada.ca/princealbert |
 | Pukaskwa National Park | Parks Canada · Federal | National park | Rugged Lake Superior wilderness, coastal hiking, and Indigenous heritage in Ontario | https://parks.canada.ca/pukaskwa |
@@ -1625,6 +1688,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario Trails Council | Ontario · Agency | Trails finder | Searchable directory of 2,300+ Ontario trails across hiking, biking, paddling, and skiing | https://ontariotrails.on.ca/ |
+| Fish ON-Line | Ontario · Provincial | Interactive map | Ontario's angler map of 20,000+ waterbodies: fish species observed, stocking records, regulations and sanctuaries, access points and lake depth contours. | https://www.ontario.ca/page/how-use-fish-line |
 | Ontario Parks | Ontario · Provincial | Park finder / booking | Park discovery, camping, maps, and trip planning | https://www.ontarioparks.ca/ |
 | Caledon Trails Open Data | Caledon · Municipal | Trails GIS dataset | Caledon trail network GIS layers on the municipal open data hub — download paths and recreation routes or explore via the geohub. | https://geohub-caledon.hub.arcgis.com/ |
 
@@ -1642,6 +1706,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NL Parks — Provincial Parks Directory | Newfoundland and Labrador · Provincial | Park finder | Search Newfoundland and Labrador provincial parks and outdoor destinations | https://www.gov.nl.ca/ecc/ |
 | PEI Parks | PEI · Provincial | Park finder | PEI provincial parks and beaches, camping and booking info | https://www.princeedwardisland.ca/en/topics/parks-and-environment |
 
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Nunavut Parks and Special Places | Nunavut · Provincial | Park finder | Government of Nunavut directory of the territory's 15 territorial parks and special places, from Sylvia Grinnell to Katannilik. | https://www.gov.nu.ca/en/department-environment/parks-and-special-places |
+
 ## 🌍 Environment, Climate & Monitoring
 
 ### Federal / National
@@ -1651,6 +1721,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Climate Data Online | Canada · Federal | Climate data | Daily, monthly, and hourly historical climate observations from ECCC stations | https://climate.weather.gc.ca/ |
 | Canadian Hydrographic Service — Tides & Water Levels Archive | Canada · Federal | Monitoring data | Historical, downloadable observed water-level data from 968 CHS gauges across Canada, plus real-time observations and predictions via the IWLS API, benchmarks, and Great Lakes monthly means since 1918. | https://www.tides.gc.ca/en/tides-and-water-levels-data-archive |
 | Canadian Ice Service | Canada · Federal | Marine/ice map | Super niche and very cool ice charts and marine ice information | https://ice-glaces.ec.gc.ca/ |
+| CHS — Tides, Currents and Water Levels | Canada · Federal | Prediction tool | Canadian Hydrographic Service predictions, observations and forecasts of tides and water levels for over 700 stations across Canada. | https://www.tides.gc.ca/en/tides-currents-and-water-levels |
 | ClimateData.ca | Canada · Federal | Climate tools | Downscaled climate projections, analysis tools, and scenario maps for Canada | https://climatedata.ca/ |
 | Environment and Climate Change Canada — MSC Datamart | Canada · Federal | Open data | Raw feeds of weather, water, climate, and air-quality data for developers and researchers | https://dd.weather.gc.ca/ |
 | Environment Canada — Marine Weather Forecast | Canada · Federal | Forecast | Marine forecasts for Canadian coastal waters, Great Lakes, and major lakes | https://weather.gc.ca/marine/index_e.html |
@@ -1672,6 +1743,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta Wildfire Status | Alberta · Provincial | Wildfire map | Live Alberta wildfire locations, sizes, causes, and fire bans | https://wildfire.alberta.ca/ |
+| Edmonton — Trees Map | Edmonton · Municipal | Interactive map | Map of 260,000+ city-maintained trees with species and location — the open-data inventory behind Edmonton's urban forest program. | https://data.edmonton.ca/Environmental-Services/Trees-Map/udbt-eiax |
 
 ### Saskatchewan
 
@@ -1694,8 +1766,15 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Toronto and Region Conservation Authority — Living Room | Toronto Region · Agency | Conservation authority | Rouge National Urban Park, conservation areas, maps, and environmental programs for the Toronto region | https://trca.ca/ |
 | Ontario — Environmental Registry (ERO) | Ontario · Provincial | Decision registry | Official public notice and comment registry for Ontario environmentally significant proposals: policies, permits (incl. water takings), and regulations open for comment, with ministry decisions posted. | https://ero.ontario.ca/ |
 | Ontario — Forest Fires Information | Ontario · Provincial | Wildfire map | Active Ontario forest fires, fire bans, and fire-weather conditions | https://www.ontario.ca/page/forest-fires |
+| Ontario — Well Records Search | Ontario · Provincial | Search database | Interactive map of every reported water well in Ontario from the Water Well Information System — click a well for its record, plus a companion map of active water-taking permits. | https://www.ontario.ca/page/well-records |
 | Ontario Provincial Stream Water Quality Monitoring Network (PWQMN) | Ontario · Provincial | Water quality dataset | Stream water quality monitoring data across Ontario rivers and streams. Parameters include nutrients (total and dissolved), metals, and chloride. CSV downloads available by year (2023, 2024). Spatial coordinates for all monitoring stations included. | https://data.ontario.ca/dataset/provincial-stream-water-quality-monitoring-network |
 | North Bay Drinking Water Quality Reports | North Bay · Municipal | Water quality reports | Annual and summary drinking water quality test results for City of North Bay municipal water system — PDF reports by year. | https://northbay.ca/services-payments/water-wastewater/drinking-water/ |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Québec — Flood Zone Maps (Zones Inondables) | Quebec · Provincial | Flood maps | Official interactive cartography of flood zones and watercourse mobility zones in force across Quebec, with new-generation maps rolling out from 2026. | https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur |
 
 ## 🌦️ Weather & Climate
 
@@ -1704,7 +1783,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Air Quality Health Index (AQHI) — Observations Map | Canada · Federal | Air quality observations | Current AQHI readings and health risk levels at monitoring stations across Canada — map and station-level observations. | https://weather.gc.ca/airquality/pages/index_e.html |
+| Canadian Hurricane Centre | Canada · Federal | Forecast tool | Track maps, information statements and technical discussions for tropical and post-tropical cyclones threatening Canada, active June through November. | https://weather.gc.ca/hurricane/index_e.html |
 | MSC GeoMet — Weather and Climate API | Canada · Federal | Weather API | OGC API for Environment Canada weather, climate, and hydrometric layers — query forecasts, alerts, and station data programmatically. | https://api.weather.gc.ca/ |
+| Space Weather Canada | Canada · Federal | Forecast tool | Current conditions and short- and long-term forecasts of geomagnetic activity, aurora visibility, and solar and ionospheric data for Canadian regions. | https://www.spaceweather.gc.ca/index-en.php |
 
 ### British Columbia
 
@@ -1758,6 +1839,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| AESO — Market and System Reporting | Alberta · Agency | Live grid data | Near-real-time Alberta electricity data: pool price, supply and demand, generation mix by fuel, and transmission outages from the provincial grid operator. | https://www.aeso.ca/market/market-and-system-reporting/ |
 | Alberta Energy Regulator | Alberta · Provincial | Regulator | Regulates the upstream oil, gas, and coal development in Alberta, including licensing, compliance, and environmental monitoring | https://aer.ca/ |
 | Alberta Utilities Commission — Consumer Services | Alberta · Provincial | Consumer protection | Alberta Utilities Commission consumer services — complaints, dispute resolution, and utility rate information for Alberta energy consumers | https://www.auc.ab.ca/ |
 | ATCO — Gas Outage Map and Emergency | Alberta · Provincial | Outage map | ATCO's gas and electric outage information — view current outages and report gas emergencies in Alberta | https://electric.atco.com/en-ca/power-outages.html |
@@ -1776,6 +1858,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| IESO — Power Data | Ontario · Agency | Live grid data | Ontario's grid operator publishes real-time electricity demand, supply mix, and market prices in 5-minute intervals, with a full historical data directory. | https://www.ieso.ca/power-data |
 | Hydro One — Outage Map | Ontario · Provincial | Outage map | Live outage map for Hydro One's rural and regional Ontario distribution network | https://www.hydroone.com/power-outages |
 | Ontario Energy Board | Ontario · Provincial | Regulator | Independent regulator of the electricity and natural gas sectors in Ontario, including utility rate decisions, consumer protection, and energy policy | https://www.oeb.ca/ |
 | Ontario Power Generation — Dam Safety and Water Management | Ontario · Provincial | Water management | OPG's dam safety monitoring, water level data, and water management information for Ontario's hydroelectric facilities | https://www.opg.com/power-safety/dams/ |
@@ -1811,6 +1894,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Agri-Food Data Canada | Canada · Federal | Research data | Agricultural research and producer data platform supporting Canadian farms and AI projects | https://agrifooddatacanada.ca/ |
 | Agriculture and Agri-Food Canada | Canada · Federal | Government department | Federal department supporting Canadian agriculture through research, policies, market development, and producer programs | https://agriculture.canada.ca/en |
+| Canada's Plant Hardiness Site | Canada · Federal | Interactive map | NRCan's interactive plant hardiness zone maps showing what can grow where, built from seven climate variables using 1991-2020 averages — essential for gardeners and growers. | https://planthardiness.gc.ca/ |
+| Canadian Drought Monitor | Canada · Federal | Monitoring map | Canada's official monthly drought maps from Agriculture and Agri-Food Canada, classifying conditions from abnormally dry to exceptional drought using vegetation, streamflow and climate indicators. | https://agriculture.canada.ca/en/agricultural-production/weather/canadian-drought-monitor |
 | Canadian Food Inspection Agency (CFIA) | Canada · Federal | Regulator | Federal food safety, plant and animal health regulator — recalls, inspections, and standards | https://inspection.canada.ca/ |
 | Canadian Grain Commission | Canada · Federal | Regulator | Canada's grain quality regulator — grading, testing, and producer protection services | https://www.grainscanada.gc.ca/ |
 | Canadian Wine Authority — VQA Wine Info | Canada · Federal | Wine info | Ontario's Vintners Quality Alliance wine standards, producer listings, and wine info | https://vqaontario.ca/ |
@@ -1863,10 +1948,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canadian Astronomy Data Centre | Canada · Federal | Research data portal | NRC's open archive and science platform for astronomy data from Hubble, Gemini, CFHT, JCMT and other telescopes — petabytes of data served to astronomers worldwide. | https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/ |
 | Canadian Space Agency | Canada · Federal | Science portal | Missions, astronauts, educational material, media, and space updates | https://www.asc-csa.gc.ca/eng/ |
 | Canadian Space Agency — Mission Tracker | Canada · Federal | Tracker | Current and upcoming CSA-supported satellite missions, astronauts, and science payloads | https://www.asc-csa.gc.ca/eng/missions/ |
 | Canadian Space Agency — RADARSAT Constellation Data | Canada · Federal | Data | Earth-observation data from the RADARSAT Constellation Mission (RCM) | https://www.asc-csa.gc.ca/eng/satellites/radarsat/ |
 | National Research Council — IR Aerospace Research Centre | Canada · Federal | Research | NRC aerospace research facilities, services, and partnership programs | https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/aerospace-research-centre |
+| NRC — Sunrise/Sunset Calculator | Canada · Federal | Calculator | National Research Council calculator for sunrise, sunset and sun angles for any Canadian location and date, accurate to ±2 minutes and certifiable for legal purposes. | https://nrc.canada.ca/en/research-development/products-services/software-applications/sun-calculator/ |
+| NRC — Web Clock (Canada's Official Time) | Canada · Federal | Time tool | Official time across Canada's time zones, served live from the National Research Council's atomic clocks. | https://nrc.canada.ca/en/research-development/products-services/software-applications/web-clock-official-times-across-canada |
+| NRC Publications Archive | Canada · Federal | Research archive | Free full-text archive of National Research Council technical reports, conference papers and journal articles, including the free electronic editions of Codes Canada publications. | https://nrc-publications.canada.ca/eng/home/ |
 | NSERC — Natural Sciences and Engineering Research Council | Canada · Federal | Research funding | Federal agency that funds natural sciences and engineering research at Canadian universities and colleges | https://www.nserc-crsng.gc.ca/ |
 | Polar Knowledge Canada — CHARS | Canada · Federal | Research | Canadian High Arctic Research Station — northern science, Indigenous research, and community data | https://www.canada.ca/en/polar-knowledge.html |
 | NRC — Programs and Services | Canada · Crown Corp | Research | NRC research programs, technology platforms, and business innovation support | https://nrc.canada.ca/en |
@@ -1918,6 +2007,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Historica Canada — Heritage Minutes | Canada · Federal | Educational videos | Educational video shorts on Canadian history moments and figures | https://www.historicacanada.ca/ |
 | National Film Board — Online Screening Room | Canada · Federal | Streaming | Free streaming of Canadian documentaries, animations, and interactive works | https://www.nfb.ca/ |
 | National Gallery of Canada — Collection Search | Canada · Federal | Art collection | Explore the national art collection online with high-resolution images | https://www.gallery.ca/ |
+| TERMIUM Plus | Canada · Federal | Language database | The Government of Canada's terminology bank — millions of terms in English, French, Spanish and Portuguese from the Translation Bureau, one of the largest in the world. | https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng |
 | Forillon National Park | Parks Canada · Federal | National park | Gaspé Peninsula tip, marine life, historic buildings, hiking | https://parks.canada.ca/forillon |
 | Fundy National Park | Parks Canada · Federal | National park | World's highest tides, bay of Fundy coastline, historic covered bridges | https://parks.canada.ca/fundy |
 | Gros Morne National Park | Parks Canada · Federal | National park | UNESCO World Heritage Site, dramatic fjords and tablelands, Newfoundland geology | https://parks.canada.ca/grosmorne |
@@ -1931,8 +2021,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Royal Canadian Mint — Coin Shop and History | Canada · Crown Corp | Cultural | Explore Canadian coinage, commemorative releases, and numismatic history | https://www.mint.ca/ |
 | Canada's Sports Hall of Fame | Canada · Agency | Museum | Canadian athlete biographies, sport history, and educational content | https://sportshall.ca/ |
 | Canadiana.ca — Heritage Digital Collection | Canada · Agency | Archive | Digitized historical Canadian publications, directories, and government documents | https://www.canadiana.ca/ |
+| Dictionary of Canadian Biography | Canada · Agency | Reference database | 9,000+ expert-written, fact-checked biographies spanning the years 1000 to 2000, free and bilingual, from the University of Toronto and Université Laval with federal support. | http://www.biographi.ca/en/ |
 | Hockey Hall of Fame | Canada · Agency | Museum | Inductee biographies, hockey history, and digital exhibits from the Hockey Hall of Fame | https://www.hhof.com/ |
 | National Centre for Truth and Reconciliation — Archives | Canada · Agency | Archive | Residential school records, survivor statements, and research for reconciliation | https://nctr.ca/records/ |
+| The Canadian Encyclopedia | Canada · Agency | Reference database | 26,000+ authored and fact-checked articles on Canada — the country's national encyclopedia, free and bilingual from Historica Canada. | https://www.thecanadianencyclopedia.ca/en |
 
 ### British Columbia
 
@@ -1971,12 +2063,16 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Artefacts Canada | Canada · Federal | Collections database | Search 4 million object records and 1 million images contributed by museums across Canada, maintained by the Canadian Heritage Information Network. | https://app.pch.gc.ca/application/artefacts_hum/indice_index.app?lang=en |
 | Canadian Register of Historic Places | Canada · Federal | Heritage register | Pan-Canadian register (federal-provincial partnership) documenting 12,000+ recognized historic places: federal heritage designations, provincial registers, and municipal landmarks with statements of significance. | https://www.historicplaces.ca/en/pages/1_home.aspx |
+| Library and Archives Canada — Census Records | Canada · Federal | Genealogy database | Free searchable Canadian census records from 1825 to 1931, searchable by name, province and district — the backbone of Canadian genealogy research. | https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/censuses/Pages/censuses.aspx |
+| Library and Archives Canada — Collection Search | Canada · Federal | Archive search | Single search across 26+ LAC databases: archival documents, genealogy sources, military service records, published books, maps, images and sound recordings. | https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search |
 
 ### British Columbia
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Archives — Genealogy Search | British Columbia · Provincial | Genealogy database | Royal BC Museum's searchable indexes of BC births (1854-1904), marriages (1871-1950) and deaths (1872-2005), with digitized registration images attached. | https://search-collections.royalbcmuseum.bc.ca/Genealogy |
 | Vancouver Heritage Sites | Vancouver · Municipal | Heritage register | Open data listing of Vancouver Heritage Register buildings, streetscapes, and landscape resources with evaluation categories. | https://opendata.vancouver.ca/explore/dataset/heritage-sites/ |
 
 ### Alberta
@@ -1985,6 +2081,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Calgary Heritage Inventory | Calgary · Municipal | Heritage inventory | Inventory of evaluated heritage resources in Calgary — search historic buildings and sites on Open Calgary. | https://data.calgary.ca/browse?category=Heritage |
 | Edmonton Register of Historic Resources | Edmonton · Municipal | Heritage register | Search Edmonton's Register of Historic Resources for municipally designated and inventoried heritage properties. | https://www.edmonton.ca/heritage |
+
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Winnipeg — Cemetery Burial Search | Winnipeg · Municipal | Search database | Search 124,000+ interment records from Winnipeg's three municipal cemeteries (Brookside, St. Vital, Transcona) with dates and exact section-lot-grave locations. | https://www.winnipeg.ca/services-programs/cemeteries/burial-search |
 
 ### Ontario
 
@@ -2007,6 +2109,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Répertoire du patrimoine culturel du Québec | Quebec · Provincial | Heritage register | Official register of Quebec's cultural heritage: classified and recognized buildings, archaeological sites, heritage districts, and intangible heritage, with legal status maps per municipality. | https://www.patrimoine-culturel.gouv.qc.ca/rpcq/ |
 | Montreal Protected Heritage Sites | Montreal · Municipal | Heritage dataset | Geographic and descriptive data on buildings and sites under Quebec Cultural Heritage Act on Montreal territory — polygon boundaries with RPCQ links. | https://donnees.montreal.ca/dataset/sites-immeubles-proteges-lpc |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Nova Scotia Archives — Vital Statistics Search | Nova Scotia · Provincial | Genealogy database | Free search of historical Nova Scotia births (1864-1876, 1909+), marriages (from 1763 bonds) and deaths, every name linked to the digitized original record. | https://archives.novascotia.ca/vital-statistics/ |
 
 ## 📋 Lobbyists, Ethics & Disclosure
 
@@ -2070,6 +2178,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alert Ready — National Public Alerting System | Canada · Federal | Alerts | Public alerts for life-threatening weather, Amber Alerts, and emergencies delivered via TV, radio, LTE | https://www.alertready.ca/ |
 | Canadian Centre for Cyber Security | Canada · Federal | Cyber security | Government of Canada lead for cyber security, providing guidance, tools, incident reporting, and threat intelligence for citizens and organizations | https://cyber.gc.ca/en |
+| Canadian Disaster Database | Canada · Federal | Search database | Public Safety Canada's searchable record of 1,000+ natural, technological and conflict disasters affecting Canadians since 1900, with fatalities, evacuations and cost estimates. | https://cdd.publicsafety.gc.ca/ |
 | Canadian Nuclear Safety Commission | Canada · Federal | Regulator | Federal regulator of nuclear power and materials in Canada, overseeing licensing, compliance, and public health and safety around nuclear facilities | https://www.cnsc-ccsn.gc.ca/eng/ |
 | Earthquakes Canada | Canada · Federal | Live map / science tool | Near-real-time earthquake tracking and event data | https://earthquakescanada.nrcan.gc.ca/ |
 | Health Canada — Canadian Cannabis Survey | Canada · Federal | Data | Annual cannabis use, perceptions, and harms reported by Canadians | https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/research-data.html |
@@ -2078,6 +2187,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Public Safety Canada — National Emergency Resources | Canada · Federal | Guide | Emergency preparedness guides, 72-hour kits, and hazard-specific response info | https://www.getprepared.gc.ca/ |
 | RCMP — Crime Mapping and Statistics | Canada · Federal | Data | RCMP crime data, police reported statistics, and operational updates | https://www.rcmp-grc.gc.ca/en/crime-statistics |
 | Recalls and Safety Alerts | Canada · Federal | Alert database | Useful public alert tool for recalls and safety notices | https://recalls-rappels.canada.ca/ |
+| Transport Canada — Motor Vehicle Safety Recalls Database | Canada · Federal | Recall search | Search safety recalls by make, model and year for Canadian-market vehicles, motorcycles, snowmobiles, trailers and child car seats. | https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/menu.aspx?lang=eng |
+| Avalanche Canada — Forecasts | Canada · Agency | Forecast map | Daily avalanche danger forecasts on an interactive map with dynamic region boundaries set by forecasters, covering Canada's backcountry mountain regions. | https://avalanche.ca/forecasts |
 | Canadian Centre for Occupational Health and Safety (CCOHS) | Canada · Agency | Resources | Workplace safety guides, OSH Answers fact sheets, and e-learning | https://www.ccohs.ca/ |
 
 ### Ontario
@@ -2093,6 +2204,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Child Support Table Look-up | Canada · Federal | Lookup tool | Department of Justice tool that calculates the base federal child support amount from the paying parent's gross income, number of children, and province. | https://www.justice.gc.ca/eng/fl-df/child-enfant/cst-orpe.html |
+| Consolidated Canadian Autonomous Sanctions List | Canada · Federal | Sanctions list | Global Affairs Canada's searchable consolidated list of all individuals and entities under Canadian autonomous sanctions, published in HTML, PDF and XML. | https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/consolidated-consolide.aspx?lang=eng |
 | Federal Court of Canada | Canada · Federal | Court | Federal Court decisions, forms, rules, and case filings | https://www.fct-cf.gc.ca/en/home |
 | Justice Canada — Laws of Canada | Canada · Federal | Legislation | Consolidated federal statutes and regulations — the Justice Laws Website | https://laws-lois.justice.gc.ca/ |
 | Public Prosecution Service of Canada | Canada · Federal | Agency | Federal prosecution policies, annual reports, and case information | https://www.ppsc-sppc.gc.ca/ |
@@ -2128,6 +2241,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| SOQUIJ — Décisions des tribunaux du Québec | Quebec · Crown Corp | Court decisions | Free public search of judgments from Quebec's judicial and administrative tribunals, updated daily by the province's legal information corporation; searchable with English keywords. | https://soquij.qc.ca/ |
 | Commission des services juridiques (Quebec) | Quebec · Provincial | Legal aid | Quebec legal aid eligibility and regional office finder | https://www.csj.qc.ca/ |
 
 ## 🛡️ Consumer Protection & Privacy
@@ -2175,7 +2289,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| ATRIS — Aboriginal and Treaty Rights Information System | Canada · Federal | Interactive map | CIRNAC's map-based system locating Indigenous communities and their potential or established Aboriginal and treaty rights, treaties, claims and court decisions — searchable by place, postal code or drawn area. | https://sidait-atris.rcaanc-cirnac.gc.ca/SIDAIT-GEO-ATRIS/index-eng.html |
 | Crown-Indigenous Relations — Specific Claims | Canada · Federal | Database | Search specific claim status, agreements, and modern treaty progress | https://www.rcaanc-cirnac.gc.ca/eng/1100100030291/1539609517566 |
+| First Nation Profiles Interactive Map | Canada · Federal | Interactive map | Indigenous Services Canada's map of First Nations communities across Canada, linked to profiles of governance, reserves, registered population and census statistics. | https://geo.sac-isc.gc.ca/cippn-fnpim/index-eng.html |
 | Indigenous Services Canada — Indian Register | Canada · Federal | Registry | Apply for Indian status and Secure Certificate of Indian Status (SCIS) | https://www.sac-isc.gc.ca/eng/1100100032424/1572457769548 |
 | Indigenous Services Canada — Jordan's Principle | Canada · Federal | Program | Jordan's Principle substantive-equality funding for First Nations children | https://www.sac-isc.gc.ca/eng/1568396296543/1582575228610 |
 | Assembly of First Nations | Canada · Agency | Organization | National advocacy organization of First Nations chiefs — resolutions, research, and programs | https://afn.ca/ |
@@ -2280,6 +2396,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CRTC — National Broadband Map | Canada · Federal | Map | Interactive map showing internet speeds and coverage across Canada | https://crtc.gc.ca/eng/internet/internet.htm |
 | ISED — Spectrum Management System | Canada · Federal | Licensing | Look up radio spectrum licence holders and technical info across Canada | https://sms-sgs.ic.gc.ca/ |
 | ISED Spectrum Management System | Canada · Federal | Licence database | Public access to Canada's radio spectrum licensing: search radio licences by frequency, location, or licensee, browse spectrum auction results, and download site data for every licensed transmitter in the country. | https://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/home |
+| National Broadband Map | Canada · Federal | Interactive map | ISED/CRTC interactive map of broadband internet availability by technology and speed across Canada, accurate to roughly 250 metres and updated twice yearly. | https://ised-isde.canada.ca/app/scr/sittibc/web/bbmap?lang=eng |
 
 ---
 

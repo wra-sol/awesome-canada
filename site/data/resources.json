@@ -17654,5 +17654,1220 @@
       "conservation"
     ],
     "dateAdded": "2033-03-02"
+  },
+  {
+    "name": "Old Age Security Benefits Estimator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Calculator",
+    "description": "Anonymous Service Canada estimator for OAS pension, Guaranteed Income Supplement, Allowance and Allowance for the Survivor amounts based on age, residency and income.",
+    "url": "https://estimateursv-oasestimator.service.canada.ca/en/",
+    "tags": [
+      "oas",
+      "pensions",
+      "seniors",
+      "estimator"
+    ],
+    "dateAdded": "2033-03-05"
+  },
+  {
+    "name": "Employment Insurance Benefits Estimator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Calculator",
+    "description": "Anonymous Service Canada tool that estimates weekly EI benefit amounts and duration from salary and hours worked — no sign-in or personal information required.",
+    "url": "https://estimateurae-eiestimator.service.canada.ca/en",
+    "tags": [
+      "ei",
+      "benefits",
+      "estimator",
+      "unemployment"
+    ],
+    "dateAdded": "2033-03-08"
+  },
+  {
+    "name": "Child Support Table Look-up",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Lookup tool",
+    "description": "Department of Justice tool that calculates the base federal child support amount from the paying parent's gross income, number of children, and province.",
+    "url": "https://www.justice.gc.ca/eng/fl-df/child-enfant/cst-orpe.html",
+    "tags": [
+      "child support",
+      "family law",
+      "calculator"
+    ],
+    "dateAdded": "2033-03-11"
+  },
+  {
+    "name": "CBSA Duty and Taxes Estimator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Estimate duties, GST and excise taxes owing on goods brought back to Canada for personal use before you reach the border.",
+    "url": "https://www.cbsa-asfc.gc.ca/travel-voyage/dte-acl/est-cal-eng.html",
+    "tags": [
+      "customs",
+      "duty",
+      "border",
+      "travel"
+    ],
+    "dateAdded": "2033-03-14"
+  },
+  {
+    "name": "CBSA Border Wait Times",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "transport-roads",
+    "type": "Live wait times",
+    "description": "Live estimated wait times at the 30 busiest US-to-Canada land border crossings, updated at least hourly.",
+    "url": "https://www.cbsa-asfc.gc.ca/bwt-taf/menu-eng.html",
+    "tags": [
+      "border",
+      "wait times",
+      "travel",
+      "live data"
+    ],
+    "dateAdded": "2033-03-17"
+  },
+  {
+    "name": "Canadian Trademarks Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Search tool",
+    "description": "CIPO's searchable database of more than 1.4 million Canadian trademarks registered from 1865 to the present, updated weekly.",
+    "url": "https://ised-isde.canada.ca/cipo/trademark-search/srch",
+    "tags": [
+      "trademarks",
+      "intellectual property",
+      "cipo",
+      "search"
+    ],
+    "dateAdded": "2033-03-20"
+  },
+  {
+    "name": "Canadian Patents Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Search tool",
+    "description": "Search over 2.6 million Canadian patent documents from 1869 to the present, with full-text and images, maintained by CIPO.",
+    "url": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html",
+    "tags": [
+      "patents",
+      "intellectual property",
+      "cipo",
+      "search"
+    ],
+    "dateAdded": "2033-03-23"
+  },
+  {
+    "name": "Corporations Canada — Federal Corporation Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Registry search",
+    "description": "Confirm the existence and status of any federally incorporated business, not-for-profit, cooperative or board of trade by name, corporation number or business number.",
+    "url": "https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html",
+    "tags": [
+      "corporations",
+      "registry",
+      "business search"
+    ],
+    "dateAdded": "2033-03-26"
+  },
+  {
+    "name": "Bank of Canada — Currency Converter",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Calculator",
+    "description": "Convert to and from Canadian dollars using the Bank of Canada's official daily exchange rates, with historical rates back to 2017.",
+    "url": "https://www.bankofcanada.ca/rates/exchange/currency-converter/",
+    "tags": [
+      "exchange rates",
+      "currency",
+      "converter"
+    ],
+    "dateAdded": "2033-03-29"
+  },
+  {
+    "name": "FCAC — Budget Planner",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Budget tool",
+    "description": "Interactive Financial Consumer Agency of Canada tool that builds a personalized budget with charts, comparisons to similar households, and a downloadable spreadsheet.",
+    "url": "https://itools-ioutils.fcac-acfc.gc.ca/BP-PB/budget-planner",
+    "tags": [
+      "budgeting",
+      "personal finance",
+      "planner"
+    ],
+    "dateAdded": "2033-04-01"
+  },
+  {
+    "name": "FCAC — Account Comparison Tool",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Comparator",
+    "description": "Compare fees, interest rates and features across 250+ chequing and savings accounts from Canadian banks and credit unions.",
+    "url": "https://itools-ioutils.fcac-acfc.gc.ca/ACT-OCC/SearchFilter-eng.aspx",
+    "tags": [
+      "bank accounts",
+      "comparison",
+      "fees"
+    ],
+    "dateAdded": "2033-04-04"
+  },
+  {
+    "name": "NRC — Sunrise/Sunset Calculator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Calculator",
+    "description": "National Research Council calculator for sunrise, sunset and sun angles for any Canadian location and date, accurate to ±2 minutes and certifiable for legal purposes.",
+    "url": "https://nrc.canada.ca/en/research-development/products-services/software-applications/sun-calculator/",
+    "tags": [
+      "sunrise",
+      "sunset",
+      "astronomy",
+      "nrc"
+    ],
+    "dateAdded": "2033-04-07"
+  },
+  {
+    "name": "NRC — Web Clock (Canada's Official Time)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Time tool",
+    "description": "Official time across Canada's time zones, served live from the National Research Council's atomic clocks.",
+    "url": "https://nrc.canada.ca/en/research-development/products-services/software-applications/web-clock-official-times-across-canada",
+    "tags": [
+      "time",
+      "atomic clock",
+      "nrc"
+    ],
+    "dateAdded": "2033-04-10"
+  },
+  {
+    "name": "CHS — Tides, Currents and Water Levels",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Prediction tool",
+    "description": "Canadian Hydrographic Service predictions, observations and forecasts of tides and water levels for over 700 stations across Canada.",
+    "url": "https://www.tides.gc.ca/en/tides-currents-and-water-levels",
+    "tags": [
+      "tides",
+      "water levels",
+      "marine",
+      "predictions"
+    ],
+    "dateAdded": "2033-04-13"
+  },
+  {
+    "name": "Canada Post — Find a Postal Code",
+    "level": "Crown Corp",
+    "jurisdiction": "Canada",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Official postal code lookup by civic, rural route or post office box address, with address autocomplete.",
+    "url": "https://www.canadapost-postescanada.ca/cpc/en/tools/find-a-postal-code.page",
+    "tags": [
+      "postal code",
+      "address",
+      "lookup"
+    ],
+    "dateAdded": "2033-04-16"
+  },
+  {
+    "name": "Transport Canada — Motor Vehicle Safety Recalls Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Recall search",
+    "description": "Search safety recalls by make, model and year for Canadian-market vehicles, motorcycles, snowmobiles, trailers and child car seats.",
+    "url": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/menu.aspx?lang=eng",
+    "tags": [
+      "recalls",
+      "vehicles",
+      "safety",
+      "search"
+    ],
+    "dateAdded": "2033-04-19"
+  },
+  {
+    "name": "NRCan — Fuel Consumption Ratings Search Tool",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "transport-roads",
+    "type": "Search tool",
+    "description": "Compare fuel consumption and CO2 emissions of new light-duty vehicles sold in Canada, including hybrids and electric vehicles, with data back to 1995.",
+    "url": "https://fcr-ccc.nrcan-rncan.gc.ca/en/Search",
+    "tags": [
+      "fuel economy",
+      "vehicles",
+      "emissions",
+      "comparison"
+    ],
+    "dateAdded": "2033-04-22"
+  },
+  {
+    "name": "Canadian Geographical Names Database Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Lookup tool",
+    "description": "Query nearly 350,000 official Canadian place names by name, coordinates or area, with API access and downloadable datasets, maintained by NRCan.",
+    "url": "https://geonames.nrcan.gc.ca/search-place-names/search",
+    "tags": [
+      "place names",
+      "geography",
+      "gazetteer",
+      "api"
+    ],
+    "dateAdded": "2033-04-25"
+  },
+  {
+    "name": "OrgBook BC",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "business",
+    "type": "Registry search",
+    "description": "Public verifiable-credential directory from BC Registries to confirm a business is legally incorporated and in good standing, with API access.",
+    "url": "https://orgbook.gov.bc.ca/",
+    "tags": [
+      "business registry",
+      "verification",
+      "bc",
+      "api"
+    ],
+    "dateAdded": "2033-04-28"
+  },
+  {
+    "name": "Manitoba Assessment Online",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "housing",
+    "type": "Property",
+    "description": "Search property assessment values and details for all Manitoba properties outside Winnipeg.",
+    "url": "https://www.gov.mb.ca/mao/public/default.aspx",
+    "tags": [
+      "property assessment",
+      "manitoba",
+      "search"
+    ],
+    "dateAdded": "2033-05-01"
+  },
+  {
+    "name": "PVSC — Nova Scotia Assessment Search",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "housing",
+    "type": "Property",
+    "description": "Find any of Nova Scotia's 650,000+ property assessments by civic address, assessment account number, community or sale date.",
+    "url": "https://www.pvsc.ca/find-assessment",
+    "tags": [
+      "property assessment",
+      "nova scotia",
+      "search"
+    ],
+    "dateAdded": "2033-05-04"
+  },
+  {
+    "name": "Toronto — Property Tax Calculator",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Instant estimate of Toronto residential property taxes from purchase price or MPAC assessed value.",
+    "url": "https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-calculator/",
+    "tags": [
+      "property tax",
+      "toronto",
+      "calculator"
+    ],
+    "dateAdded": "2033-05-07"
+  },
+  {
+    "name": "Calgary — Property Tax Calculator",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Estimate and breakdown of Calgary property taxes from assessed value, split between municipal and education shares.",
+    "url": "https://www.calgary.ca/property-owners/taxes/calculator.html",
+    "tags": [
+      "property tax",
+      "calgary",
+      "calculator"
+    ],
+    "dateAdded": "2033-05-10"
+  },
+  {
+    "name": "NRC Digital Repository",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Research data repository",
+    "description": "National Research Council's persistent archive of research datasets, corporate publications back to 1954, and special collections, searchable and openly accessible.",
+    "url": "https://nrc-digital-repository.canada.ca/eng/list/collections/",
+    "tags": [
+      "nrc",
+      "research data",
+      "datasets",
+      "archive"
+    ],
+    "dateAdded": "2033-05-13"
+  },
+  {
+    "name": "NRC Publications Archive",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research archive",
+    "description": "Free full-text archive of National Research Council technical reports, conference papers and journal articles, including the free electronic editions of Codes Canada publications.",
+    "url": "https://nrc-publications.canada.ca/eng/home/",
+    "tags": [
+      "nrc",
+      "publications",
+      "research",
+      "open access"
+    ],
+    "dateAdded": "2033-05-16"
+  },
+  {
+    "name": "Codes Canada — CODES-GUIDES Online Library",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "planning-zoning",
+    "type": "Reference library",
+    "description": "Free electronic access to the National Building Code, Fire Code, Plumbing Code, Energy Code and user's guides published by the NRC.",
+    "url": "https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-guides-online-library",
+    "tags": [
+      "building code",
+      "fire code",
+      "construction",
+      "standards"
+    ],
+    "dateAdded": "2033-05-19"
+  },
+  {
+    "name": "Canadian Astronomy Data Centre",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research data portal",
+    "description": "NRC's open archive and science platform for astronomy data from Hubble, Gemini, CFHT, JCMT and other telescopes — petabytes of data served to astronomers worldwide.",
+    "url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/",
+    "tags": [
+      "astronomy",
+      "telescope data",
+      "nrc",
+      "open data"
+    ],
+    "dateAdded": "2033-05-22"
+  },
+  {
+    "name": "Space Weather Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Forecast tool",
+    "description": "Current conditions and short- and long-term forecasts of geomagnetic activity, aurora visibility, and solar and ionospheric data for Canadian regions.",
+    "url": "https://www.spaceweather.gc.ca/index-en.php",
+    "tags": [
+      "space weather",
+      "aurora",
+      "geomagnetic",
+      "forecast"
+    ],
+    "dateAdded": "2033-05-25"
+  },
+  {
+    "name": "Canadian Drought Monitor",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Monitoring map",
+    "description": "Canada's official monthly drought maps from Agriculture and Agri-Food Canada, classifying conditions from abnormally dry to exceptional drought using vegetation, streamflow and climate indicators.",
+    "url": "https://agriculture.canada.ca/en/agricultural-production/weather/canadian-drought-monitor",
+    "tags": [
+      "drought",
+      "agriculture",
+      "monitoring",
+      "maps"
+    ],
+    "dateAdded": "2033-05-28"
+  },
+  {
+    "name": "Canada's Plant Hardiness Site",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Interactive map",
+    "description": "NRCan's interactive plant hardiness zone maps showing what can grow where, built from seven climate variables using 1991-2020 averages — essential for gardeners and growers.",
+    "url": "https://planthardiness.gc.ca/",
+    "tags": [
+      "gardening",
+      "hardiness zones",
+      "plants",
+      "climate"
+    ],
+    "dateAdded": "2033-05-31"
+  },
+  {
+    "name": "Toporama — Atlas of Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Interactive map",
+    "description": "Dynamic topographic map viewer covering all of Canada with toggleable layers (contours, hydrography, transportation), distance measurement, water flow tracing, and free data downloads.",
+    "url": "https://atlas.gc.ca/toporama/en/index.html",
+    "tags": [
+      "topographic maps",
+      "atlas",
+      "gis",
+      "nrcan"
+    ],
+    "dateAdded": "2033-06-03"
+  },
+  {
+    "name": "Statistics Canada — Personal Inflation Calculator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Calculator",
+    "description": "Enter your own spending by category to compute your personal inflation rate and chart it against the official CPI, updated monthly with each CPI release.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020015-eng.htm",
+    "tags": [
+      "inflation",
+      "cpi",
+      "calculator",
+      "statcan"
+    ],
+    "dateAdded": "2033-06-06"
+  },
+  {
+    "name": "Library and Archives Canada — Collection Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Archive search",
+    "description": "Single search across 26+ LAC databases: archival documents, genealogy sources, military service records, published books, maps, images and sound recordings.",
+    "url": "https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search",
+    "tags": [
+      "archives",
+      "genealogy",
+      "history",
+      "search"
+    ],
+    "dateAdded": "2033-06-09"
+  },
+  {
+    "name": "Library and Archives Canada — Census Records",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Genealogy database",
+    "description": "Free searchable Canadian census records from 1825 to 1931, searchable by name, province and district — the backbone of Canadian genealogy research.",
+    "url": "https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/censuses/Pages/censuses.aspx",
+    "tags": [
+      "census",
+      "genealogy",
+      "family history",
+      "records"
+    ],
+    "dateAdded": "2033-06-12"
+  },
+  {
+    "name": "Trade Data Online",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Data tool",
+    "description": "Generate custom reports on Canadian and US trade in goods with 200+ countries by HS product code or industry, with CSV and Excel export, from ISED.",
+    "url": "https://ised-isde.canada.ca/site/trade-data-online/en/overview",
+    "tags": [
+      "trade",
+      "imports",
+      "exports",
+      "statistics"
+    ],
+    "dateAdded": "2033-06-15"
+  },
+  {
+    "name": "Orders in Council Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Search database",
+    "description": "Privy Council Office's searchable database of all federal Orders in Council from 1990 to present, with full text from late 2002 onward, published three working days after approval.",
+    "url": "https://orders-in-council.canada.ca/",
+    "tags": [
+      "orders in council",
+      "government decisions",
+      "transparency"
+    ],
+    "dateAdded": "2033-06-18"
+  },
+  {
+    "name": "House of Commons — Vote Records",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Vote tracker",
+    "description": "Every recorded vote in the House of Commons with each MP's position, browsable by parliament and session and downloadable as open XML data.",
+    "url": "https://www.ourcommons.ca/members/en/votes",
+    "tags": [
+      "parliament",
+      "votes",
+      "mps",
+      "accountability"
+    ],
+    "dateAdded": "2033-06-21"
+  },
+  {
+    "name": "Consolidated Canadian Autonomous Sanctions List",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Sanctions list",
+    "description": "Global Affairs Canada's searchable consolidated list of all individuals and entities under Canadian autonomous sanctions, published in HTML, PDF and XML.",
+    "url": "https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/consolidated-consolide.aspx?lang=eng",
+    "tags": [
+      "sanctions",
+      "compliance",
+      "global affairs"
+    ],
+    "dateAdded": "2033-06-24"
+  },
+  {
+    "name": "Medical Devices Active Licence Listing (MDALL)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Licence search",
+    "description": "Health Canada's public register of all medical devices licensed for sale in Canada, searchable by company, device name, licence number or device identifier.",
+    "url": "https://health-products.canada.ca/mdall-limh/",
+    "tags": [
+      "medical devices",
+      "licences",
+      "health canada",
+      "search"
+    ],
+    "dateAdded": "2033-06-27"
+  },
+  {
+    "name": "Avalanche Canada — Forecasts",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Forecast map",
+    "description": "Daily avalanche danger forecasts on an interactive map with dynamic region boundaries set by forecasters, covering Canada's backcountry mountain regions.",
+    "url": "https://avalanche.ca/forecasts",
+    "tags": [
+      "avalanche",
+      "backcountry",
+      "safety",
+      "forecast"
+    ],
+    "dateAdded": "2033-06-30"
+  },
+  {
+    "name": "Canadian Hurricane Centre",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Forecast tool",
+    "description": "Track maps, information statements and technical discussions for tropical and post-tropical cyclones threatening Canada, active June through November.",
+    "url": "https://weather.gc.ca/hurricane/index_e.html",
+    "tags": [
+      "hurricane",
+      "tropical storms",
+      "forecast",
+      "marine"
+    ],
+    "dateAdded": "2033-07-03"
+  },
+  {
+    "name": "Statistics Canada — GeoSearch",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Interactive map",
+    "description": "Find any place in Canada by name, postal code, address or geographic code and get its census geography boundaries and basic demographic data on an interactive map.",
+    "url": "https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/index-eng.cfm",
+    "tags": [
+      "census geography",
+      "maps",
+      "demographics",
+      "lookup"
+    ],
+    "dateAdded": "2033-07-06"
+  },
+  {
+    "name": "First Nation Profiles Interactive Map",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Interactive map",
+    "description": "Indigenous Services Canada's map of First Nations communities across Canada, linked to profiles of governance, reserves, registered population and census statistics.",
+    "url": "https://geo.sac-isc.gc.ca/cippn-fnpim/index-eng.html",
+    "tags": [
+      "first nations",
+      "communities",
+      "map",
+      "profiles"
+    ],
+    "dateAdded": "2033-07-09"
+  },
+  {
+    "name": "TERMIUM Plus",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Language database",
+    "description": "The Government of Canada's terminology bank — millions of terms in English, French, Spanish and Portuguese from the Translation Bureau, one of the largest in the world.",
+    "url": "https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng",
+    "tags": [
+      "terminology",
+      "translation",
+      "french",
+      "language"
+    ],
+    "dateAdded": "2033-07-12"
+  },
+  {
+    "name": "SOQUIJ — Décisions des tribunaux du Québec",
+    "level": "Crown Corp",
+    "jurisdiction": "Quebec",
+    "category": "justice",
+    "type": "Court decisions",
+    "description": "Free public search of judgments from Quebec's judicial and administrative tribunals, updated daily by the province's legal information corporation; searchable with English keywords.",
+    "url": "https://soquij.qc.ca/",
+    "tags": [
+      "court decisions",
+      "quebec",
+      "legal",
+      "search"
+    ],
+    "dateAdded": "2033-07-15"
+  },
+  {
+    "name": "IESO — Power Data",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Live grid data",
+    "description": "Ontario's grid operator publishes real-time electricity demand, supply mix, and market prices in 5-minute intervals, with a full historical data directory.",
+    "url": "https://www.ieso.ca/power-data",
+    "tags": [
+      "electricity",
+      "grid",
+      "real-time",
+      "ontario"
+    ],
+    "dateAdded": "2033-07-18"
+  },
+  {
+    "name": "AESO — Market and System Reporting",
+    "level": "Agency",
+    "jurisdiction": "Alberta",
+    "category": "utilities",
+    "type": "Live grid data",
+    "description": "Near-real-time Alberta electricity data: pool price, supply and demand, generation mix by fuel, and transmission outages from the provincial grid operator.",
+    "url": "https://www.aeso.ca/market/market-and-system-reporting/",
+    "tags": [
+      "electricity",
+      "grid",
+      "real-time",
+      "alberta"
+    ],
+    "dateAdded": "2033-07-21"
+  },
+  {
+    "name": "GC InfoBase",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "budget",
+    "type": "Data visualization",
+    "description": "Treasury Board's interactive explorer of federal finances, people and results — track spending from the government-wide view down to individual programs.",
+    "url": "https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-eng.html",
+    "tags": [
+      "spending",
+      "budget",
+      "transparency",
+      "visualization"
+    ],
+    "dateAdded": "2033-07-24"
+  },
+  {
+    "name": "Parks Canada Reservation Service",
+    "level": "Federal",
+    "jurisdiction": "Parks Canada",
+    "category": "parks",
+    "type": "Booking service",
+    "description": "Official reservations for campsites, backcountry zones, oTENTik tents, the West Coast Trail, Chilkoot Trail and shuttle services across national parks.",
+    "url": "https://reservation.pc.gc.ca/",
+    "tags": [
+      "camping",
+      "reservations",
+      "national parks",
+      "backcountry"
+    ],
+    "dateAdded": "2033-07-27"
+  },
+  {
+    "name": "National Broadband Map",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Interactive map",
+    "description": "ISED/CRTC interactive map of broadband internet availability by technology and speed across Canada, accurate to roughly 250 metres and updated twice yearly.",
+    "url": "https://ised-isde.canada.ca/app/scr/sittibc/web/bbmap?lang=eng",
+    "tags": [
+      "broadband",
+      "internet",
+      "coverage",
+      "map"
+    ],
+    "dateAdded": "2033-07-30"
+  },
+  {
+    "name": "Canada's Business Registries — Multi-Jurisdiction Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Registry search",
+    "description": "Free basic search across the federal registry and eight provincial/territorial business registries from one page (not yet all 14 jurisdictions).",
+    "url": "https://ised-isde.canada.ca/cbr-rec/en/search",
+    "tags": [
+      "business registry",
+      "corporations",
+      "search",
+      "multi-jurisdiction"
+    ],
+    "dateAdded": "2033-08-02"
+  },
+  {
+    "name": "Montréal — Find a Towed Car",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "transport-roads",
+    "type": "Lookup tool",
+    "description": "Enter your licence plate or the spot where you parked to find out where the city towed your car during snow removal or roadwork.",
+    "url": "https://montreal.ca/en/find-towed-car",
+    "tags": [
+      "towing",
+      "parking",
+      "snow removal",
+      "montreal"
+    ],
+    "dateAdded": "2033-08-05"
+  },
+  {
+    "name": "Canadian Disaster Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Search database",
+    "description": "Public Safety Canada's searchable record of 1,000+ natural, technological and conflict disasters affecting Canadians since 1900, with fatalities, evacuations and cost estimates.",
+    "url": "https://cdd.publicsafety.gc.ca/",
+    "tags": [
+      "disasters",
+      "emergency",
+      "history",
+      "database"
+    ],
+    "dateAdded": "2033-08-08"
+  },
+  {
+    "name": "EODMS — Earth Observation Data Management System",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Imagery search",
+    "description": "Search and order from NRCan's archive of satellite imagery and the National Air Photo Library — over 3 million historical aerial photos of Canada dating to the 1920s, with footprints on a map.",
+    "url": "https://eodms-sgdot.nrcan-rncan.gc.ca/index-en.html",
+    "tags": [
+      "aerial photos",
+      "satellite imagery",
+      "historical",
+      "nrcan"
+    ],
+    "dateAdded": "2033-08-11"
+  },
+  {
+    "name": "ATRIS — Aboriginal and Treaty Rights Information System",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Interactive map",
+    "description": "CIRNAC's map-based system locating Indigenous communities and their potential or established Aboriginal and treaty rights, treaties, claims and court decisions — searchable by place, postal code or drawn area.",
+    "url": "https://sidait-atris.rcaanc-cirnac.gc.ca/SIDAIT-GEO-ATRIS/index-eng.html",
+    "tags": [
+      "treaties",
+      "consultation",
+      "indigenous rights",
+      "map"
+    ],
+    "dateAdded": "2033-08-14"
+  },
+  {
+    "name": "Nova Scotia Archives — Vital Statistics Search",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "heritage",
+    "type": "Genealogy database",
+    "description": "Free search of historical Nova Scotia births (1864-1876, 1909+), marriages (from 1763 bonds) and deaths, every name linked to the digitized original record.",
+    "url": "https://archives.novascotia.ca/vital-statistics/",
+    "tags": [
+      "genealogy",
+      "vital statistics",
+      "archives",
+      "nova scotia"
+    ],
+    "dateAdded": "2033-08-17"
+  },
+  {
+    "name": "BC Archives — Genealogy Search",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "heritage",
+    "type": "Genealogy database",
+    "description": "Royal BC Museum's searchable indexes of BC births (1854-1904), marriages (1871-1950) and deaths (1872-2005), with digitized registration images attached.",
+    "url": "https://search-collections.royalbcmuseum.bc.ca/Genealogy",
+    "tags": [
+      "genealogy",
+      "vital statistics",
+      "archives",
+      "bc"
+    ],
+    "dateAdded": "2033-08-20"
+  },
+  {
+    "name": "Dictionary of Canadian Biography",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Reference database",
+    "description": "9,000+ expert-written, fact-checked biographies spanning the years 1000 to 2000, free and bilingual, from the University of Toronto and Université Laval with federal support.",
+    "url": "http://www.biographi.ca/en/",
+    "tags": [
+      "biography",
+      "history",
+      "reference",
+      "bilingual"
+    ],
+    "dateAdded": "2033-08-23"
+  },
+  {
+    "name": "The Canadian Encyclopedia",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Reference database",
+    "description": "26,000+ authored and fact-checked articles on Canada — the country's national encyclopedia, free and bilingual from Historica Canada.",
+    "url": "https://www.thecanadianencyclopedia.ca/en",
+    "tags": [
+      "encyclopedia",
+      "history",
+      "reference",
+      "education"
+    ],
+    "dateAdded": "2033-08-26"
+  },
+  {
+    "name": "New Brunswick — Property Assessment Online (PAOL)",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "housing",
+    "type": "Property",
+    "description": "Search NB property assessments by address, PAN or PID, with four years of assessment history, recent sale prices and tax levy information on a provincial map.",
+    "url": "https://paol-efel.snb.ca/",
+    "tags": [
+      "property assessment",
+      "new brunswick",
+      "search"
+    ],
+    "dateAdded": "2033-08-29"
+  },
+  {
+    "name": "Nunavut Parks and Special Places",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "parks",
+    "type": "Park finder",
+    "description": "Government of Nunavut directory of the territory's 15 territorial parks and special places, from Sylvia Grinnell to Katannilik.",
+    "url": "https://www.gov.nu.ca/en/department-environment/parks-and-special-places",
+    "tags": [
+      "territorial parks",
+      "nunavut",
+      "outdoors"
+    ],
+    "dateAdded": "2033-09-01"
+  },
+  {
+    "name": "Newfoundland and Labrador — Provincial Land Use Atlas",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Interactive map of Crown land titles and applications, municipal plans, protected road zoning and land use restrictions across the province, with topographic base maps and aerial photography.",
+    "url": "https://geohub-gnl.hub.arcgis.com/app/provincial-land-use-atlas-lua",
+    "tags": [
+      "land use",
+      "crown land",
+      "zoning",
+      "map"
+    ],
+    "dateAdded": "2033-09-04"
+  },
+  {
+    "name": "CFIA — Automated Import Reference System (AIRS)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Import tool",
+    "description": "Question-and-answer tool that walks importers through the exact CFIA requirements, documents and HS codes for bringing food, plants and animals into Canada.",
+    "url": "https://inspection.canada.ca/en/importing-food-plants-animals/airs",
+    "tags": [
+      "imports",
+      "food",
+      "cfia",
+      "requirements"
+    ],
+    "dateAdded": "2033-09-07"
+  },
+  {
+    "name": "PlowTO — Snow Plow Tracker",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "transport-roads",
+    "type": "Live map",
+    "description": "Near-real-time GPS map of Toronto's salters, road plows, sidewalk plows and cycling-network plows, with colour-coded streets showing how recently each was serviced.",
+    "url": "https://www.toronto.ca/services-payments/streets-parking-transportation/road-maintenance/winter-maintenance/plowto/",
+    "tags": [
+      "snow",
+      "plow tracker",
+      "winter",
+      "live data"
+    ],
+    "dateAdded": "2033-09-10"
+  },
+  {
+    "name": "Montréal — Snow Removal Operations Map",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "transport-roads",
+    "type": "Live map",
+    "description": "See when your street is scheduled for snow clearing and loading, plus free incentive parking lots during operations — the map behind the INFO-Neige app.",
+    "url": "https://montreal.ca/en/services/snow-removal-operations-map",
+    "tags": [
+      "snow removal",
+      "parking",
+      "winter",
+      "montreal"
+    ],
+    "dateAdded": "2033-09-13"
+  },
+  {
+    "name": "Winnipeg — Cemetery Burial Search",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "heritage",
+    "type": "Search database",
+    "description": "Search 124,000+ interment records from Winnipeg's three municipal cemeteries (Brookside, St. Vital, Transcona) with dates and exact section-lot-grave locations.",
+    "url": "https://www.winnipeg.ca/services-programs/cemeteries/burial-search",
+    "tags": [
+      "cemetery",
+      "burials",
+      "genealogy",
+      "winnipeg"
+    ],
+    "dateAdded": "2033-09-16"
+  },
+  {
+    "name": "Toronto — Waste Wizard",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Type any of 2,500+ items to find out which bin it goes in and where to drop off hazardous waste — also in the TOwaste app with collection schedules.",
+    "url": "https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/",
+    "tags": [
+      "recycling",
+      "waste",
+      "garbage",
+      "lookup"
+    ],
+    "dateAdded": "2033-09-19"
+  },
+  {
+    "name": "Bank of Canada — Unclaimed Balances Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Search database",
+    "description": "Search $1.6 billion in dormant bank accounts, matured GICs, bank drafts and money orders turned over after 10 years of inactivity — small balances held 30 years, larger ones 100.",
+    "url": "https://www.bankofcanada.ca/unclaimed-balances/",
+    "tags": [
+      "unclaimed money",
+      "dormant accounts",
+      "search"
+    ],
+    "dateAdded": "2033-09-22"
+  },
+  {
+    "name": "Fish ON-Line",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "parks",
+    "type": "Interactive map",
+    "description": "Ontario's angler map of 20,000+ waterbodies: fish species observed, stocking records, regulations and sanctuaries, access points and lake depth contours.",
+    "url": "https://www.ontario.ca/page/how-use-fish-line",
+    "tags": [
+      "fishing",
+      "stocking",
+      "lakes",
+      "ontario"
+    ],
+    "dateAdded": "2033-09-25"
+  },
+  {
+    "name": "Calgary — Impounded and Lost Pets",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Photos and descriptions of stray cats and dogs at Calgary Animal Services, updated every 15 minutes, so owners can spot their lost pet online.",
+    "url": "https://www.calgary.ca/pets/lost-animals.html",
+    "tags": [
+      "pets",
+      "animal services",
+      "lost and found",
+      "calgary"
+    ],
+    "dateAdded": "2033-09-28"
+  },
+  {
+    "name": "iMapBC",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Interactive map",
+    "description": "Layer hundreds of BC Geographic Warehouse datasets on one map — parcels, Crown tenures, the Agricultural Land Reserve, mineral titles, forest and wildlife layers — with upload, query and share tools.",
+    "url": "https://www2.gov.bc.ca/gov/content/data/geographic-data-services/web-based-mapping/imapbc",
+    "tags": [
+      "gis",
+      "mapping",
+      "crown land",
+      "bc"
+    ],
+    "dateAdded": "2033-10-01"
+  },
+  {
+    "name": "Edmonton — Trees Map",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "environment",
+    "type": "Interactive map",
+    "description": "Map of 260,000+ city-maintained trees with species and location — the open-data inventory behind Edmonton's urban forest program.",
+    "url": "https://data.edmonton.ca/Environmental-Services/Trees-Map/udbt-eiax",
+    "tags": [
+      "trees",
+      "urban forest",
+      "open data",
+      "edmonton"
+    ],
+    "dateAdded": "2033-10-04"
+  },
+  {
+    "name": "GC Jobs — Government of Canada Jobs",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Job search",
+    "description": "Search and apply for federal public service positions across all departments and agencies through the Public Service Commission's hiring portal.",
+    "url": "https://www.canada.ca/en/services/jobs/opportunities/government.html",
+    "tags": [
+      "jobs",
+      "public service",
+      "federal",
+      "careers"
+    ],
+    "dateAdded": "2033-10-07"
+  },
+  {
+    "name": "Ontario — Well Records Search",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Search database",
+    "description": "Interactive map of every reported water well in Ontario from the Water Well Information System — click a well for its record, plus a companion map of active water-taking permits.",
+    "url": "https://www.ontario.ca/page/well-records",
+    "tags": [
+      "groundwater",
+      "wells",
+      "water",
+      "ontario"
+    ],
+    "dateAdded": "2033-10-10"
+  },
+  {
+    "name": "SAMAView — Saskatchewan Assessments Online",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "housing",
+    "type": "Property",
+    "description": "Free search, view and comparison of individual property assessments across all SAMA client municipalities in Saskatchewan.",
+    "url": "https://www.sama.sk.ca/property-owner-services/assessments-online-samaview",
+    "tags": [
+      "property assessment",
+      "saskatchewan",
+      "search"
+    ],
+    "dateAdded": "2033-10-13"
+  },
+  {
+    "name": "Québec — Flood Zone Maps (Zones Inondables)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "environment",
+    "type": "Flood maps",
+    "description": "Official interactive cartography of flood zones and watercourse mobility zones in force across Quebec, with new-generation maps rolling out from 2026.",
+    "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur",
+    "tags": [
+      "flood zones",
+      "water",
+      "maps",
+      "quebec"
+    ],
+    "dateAdded": "2033-10-16"
+  },
+  {
+    "name": "Artefacts Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Collections database",
+    "description": "Search 4 million object records and 1 million images contributed by museums across Canada, maintained by the Canadian Heritage Information Network.",
+    "url": "https://app.pch.gc.ca/application/artefacts_hum/indice_index.app?lang=en",
+    "tags": [
+      "museums",
+      "artifacts",
+      "collections",
+      "heritage"
+    ],
+    "dateAdded": "2033-10-19"
   }
 ]
