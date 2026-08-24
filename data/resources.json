@@ -17192,5 +17192,140 @@
       "french",
       "language"
     ]
+  },
+  {
+    "name": "SOQUIJ — Décisions des tribunaux du Québec",
+    "level": "Crown Corp",
+    "jurisdiction": "Quebec",
+    "category": "justice",
+    "type": "Court decisions",
+    "description": "Free public search of judgments from Quebec's judicial and administrative tribunals, updated daily by the province's legal information corporation; searchable with English keywords.",
+    "url": "https://soquij.qc.ca/",
+    "tags": [
+      "court decisions",
+      "quebec",
+      "legal",
+      "search"
+    ]
+  },
+  {
+    "name": "IESO — Power Data",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Live grid data",
+    "description": "Ontario's grid operator publishes real-time electricity demand, supply mix, and market prices in 5-minute intervals, with a full historical data directory.",
+    "url": "https://www.ieso.ca/power-data",
+    "tags": [
+      "electricity",
+      "grid",
+      "real-time",
+      "ontario"
+    ]
+  },
+  {
+    "name": "AESO — Market and System Reporting",
+    "level": "Agency",
+    "jurisdiction": "Alberta",
+    "category": "utilities",
+    "type": "Live grid data",
+    "description": "Near-real-time Alberta electricity data: pool price, supply and demand, generation mix by fuel, and transmission outages from the provincial grid operator.",
+    "url": "https://www.aeso.ca/market/market-and-system-reporting/",
+    "tags": [
+      "electricity",
+      "grid",
+      "real-time",
+      "alberta"
+    ]
+  },
+  {
+    "name": "GC InfoBase",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "budget",
+    "type": "Data visualization",
+    "description": "Treasury Board's interactive explorer of federal finances, people and results — track spending from the government-wide view down to individual programs.",
+    "url": "https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-eng.html",
+    "tags": [
+      "spending",
+      "budget",
+      "transparency",
+      "visualization"
+    ]
+  },
+  {
+    "name": "Parks Canada Reservation Service",
+    "level": "Federal",
+    "jurisdiction": "Parks Canada",
+    "category": "parks",
+    "type": "Booking service",
+    "description": "Official reservations for campsites, backcountry zones, oTENTik tents, the West Coast Trail, Chilkoot Trail and shuttle services across national parks.",
+    "url": "https://reservation.pc.gc.ca/",
+    "tags": [
+      "camping",
+      "reservations",
+      "national parks",
+      "backcountry"
+    ]
+  },
+  {
+    "name": "National Broadband Map",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Interactive map",
+    "description": "ISED/CRTC interactive map of broadband internet availability by technology and speed across Canada, accurate to roughly 250 metres and updated twice yearly.",
+    "url": "https://ised-isde.canada.ca/app/scr/sittibc/web/bbmap?lang=eng",
+    "tags": [
+      "broadband",
+      "internet",
+      "coverage",
+      "map"
+    ]
+  },
+  {
+    "name": "Canada's Business Registries — Multi-Jurisdiction Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Registry search",
+    "description": "Free basic search across the federal registry and eight provincial/territorial business registries from one page (not yet all 14 jurisdictions).",
+    "url": "https://ised-isde.canada.ca/cbr-rec/en/search",
+    "tags": [
+      "business registry",
+      "corporations",
+      "search",
+      "multi-jurisdiction"
+    ]
+  },
+  {
+    "name": "Montréal — Find a Towed Car",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "transport-roads",
+    "type": "Lookup tool",
+    "description": "Enter your licence plate or the spot where you parked to find out where the city towed your car during snow removal or roadwork.",
+    "url": "https://montreal.ca/en/find-towed-car",
+    "tags": [
+      "towing",
+      "parking",
+      "snow removal",
+      "montreal"
+    ]
+  },
+  {
+    "name": "Canadian Disaster Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Search database",
+    "description": "Public Safety Canada's searchable record of 1,000+ natural, technological and conflict disasters affecting Canadians since 1900, with fatalities, evacuations and cost estimates.",
+    "url": "https://cdd.publicsafety.gc.ca/",
+    "tags": [
+      "disasters",
+      "emergency",
+      "history",
+      "database"
+    ]
   }
 ]

@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1161 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1170 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -29,11 +29,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 171
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 82
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 128
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 91
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 92
 - [🪪 Government Services & ID](#government-services-and-id) — 34
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 16
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 20
-- [🏢 Business & Procurement](#business-and-procurement) — 23
+- [🏢 Business & Procurement](#business-and-procurement) — 24
 - [💼 Employment & Labour](#employment-and-labour) — 15
 - [🎓 Education & Student Aid](#education-and-student-aid) — 15
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 36
@@ -42,25 +42,25 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 24
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 24
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 27
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 28
 - [🚌 Transit & Mobility](#transit-and-mobility) — 58
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 53
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 54
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 29
 - [🌦️ Weather & Climate](#weather-and-climate) — 12
-- [⚡ Energy & Utilities](#energy-and-utilities) — 27
+- [⚡ Energy & Utilities](#energy-and-utilities) — 29
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 19
 - [🔬 Science, Research & Space](#science-research-and-space) — 20
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 39
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 18
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 15
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 18
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 16
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 19
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 9
 - [🎖️ Veterans & Military](#veterans-and-military) — 7
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 27
-- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 7
+- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 8
 
 ---
 
@@ -592,6 +592,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| GC InfoBase | Canada · Federal | Data visualization | Treasury Board's interactive explorer of federal finances, people and results — track spending from the government-wide view down to individual programs. | https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-eng.html |
 | Parliamentary Budget Officer — Reports & Costings | Canada · Federal | Budget watchdog | Independent budget analysis for Parliament: election platform costings, fiscal projections, departmental spending analyses, and custom costing requests. Complements the absence of federal line-by-line budget data tools. | https://www.pbo-dpb.gc.ca/ |
 
 ### British Columbia
@@ -893,6 +894,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BizPaL — Permits and Licences Finder | Canada · Federal | Finder | Generate a personalized list of federal, provincial, and municipal permits you need to operate a business | https://www.bizpal.ca/ |
 | Canada Business — Starting a Business | Canada · Federal | Guide | Official guide for starting a business in Canada — permits, taxes, licensing, and supports by province | https://www.canada.ca/en/services/business/start.html |
+| Canada's Business Registries — Multi-Jurisdiction Search | Canada · Federal | Registry search | Free basic search across the federal registry and eight provincial/territorial business registries from one page (not yet all 14 jurisdictions). | https://ised-isde.canada.ca/cbr-rec/en/search |
 | Canada's Business Registries (ISED) | Canada · Federal | Business registry search | Free cross-provincial business lookup aggregating the official registries of AB, BC, MB, NS, ON, QC, SK, and Corporations Canada — one search across jurisdictions. | https://ised-isde.canada.ca/cbr-rec/ |
 | CanadaBuys — Federal Tenders | Canada · Federal | Procurement | Modern federal procurement portal replacing buyandsell.gc.ca — browse and bid on tenders | https://canadabuys.canada.ca/en |
 | Canadian Intellectual Property Office (CIPO) | Canada · Federal | Service | Search and apply for patents, trademarks, copyrights, and industrial designs in Canada | https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en |
@@ -1437,6 +1439,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Quebec 511 | Quebec · Provincial | Road conditions map | Provincial road conditions, incidents, and closures | https://www.quebec511.info/en/ |
 | SAAQClic — Quebec Driver Services | Quebec · Provincial | Service | Quebec's online SAAQ portal for driver's licence, vehicle registration, and fines | https://saaq.gouv.qc.ca/en/online-services |
 | Allo-MTL — Montréal en temps réel | Montreal · Municipal | Real-time city map | Aggregates 20+ datasets: snow removal, parking signs, bike routes, trees, air quality, and more | https://donnees.montreal.ca/en/showcase/allo-mtl-montreal-temps-reel |
+| Montréal — Find a Towed Car | Montreal · Municipal | Lookup tool | Enter your licence plate or the spot where you parked to find out where the city towed your car during snow removal or roadwork. | https://montreal.ca/en/find-towed-car |
 | Saguenay Réseau routier — Données Québec | Saguenay · Municipal | Road network dataset | Saguenay municipal road centreline network — CSV, GeoJSON, and shapefile download from Données Québec. | https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay&q=r%C3%A9seau+routier |
 
 ### Atlantic Canada (NB, NS, PE, NL)
@@ -1628,6 +1631,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Pacific Rim National Park Reserve | Parks Canada · Federal | National park reserve | Vancouver Island's rugged Pacific coast, Long Beach, rainforests, and West Coast Trail | https://parks.canada.ca/pacificrim |
 | Parks Canada — National Parks System Map | Parks Canada · Federal | Interactive map | Map of all 39 national park and national marine conservation area regions across Canada | https://parks.canada.ca/pn-np/cnpn-cnnp/carte-map |
 | Parks Canada — Reservations | Parks Canada · Federal | Booking portal | Book camping, roofed accommodations, and permits across all national parks | https://parks.canada.ca/voyage-travel/reserve |
+| Parks Canada Reservation Service | Parks Canada · Federal | Booking service | Official reservations for campsites, backcountry zones, oTENTik tents, the West Coast Trail, Chilkoot Trail and shuttle services across national parks. | https://reservation.pc.gc.ca/ |
 | Point Pelee National Park | Parks Canada · Federal | National park | Southernmost mainland Canada — birding hotspot and monarch butterfly migration | https://parks.canada.ca/pelee |
 | Prince Albert National Park | Parks Canada · Federal | National park | Saskatchewan boreal forest park — lakes, wildlife, canoeing, and Grey Owl's cabin | https://parks.canada.ca/princealbert |
 | Pukaskwa National Park | Parks Canada · Federal | National park | Rugged Lake Superior wilderness, coastal hiking, and Indigenous heritage in Ontario | https://parks.canada.ca/pukaskwa |
@@ -1803,6 +1807,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| AESO — Market and System Reporting | Alberta · Agency | Live grid data | Near-real-time Alberta electricity data: pool price, supply and demand, generation mix by fuel, and transmission outages from the provincial grid operator. | https://www.aeso.ca/market/market-and-system-reporting/ |
 | Alberta Energy Regulator | Alberta · Provincial | Regulator | Regulates the upstream oil, gas, and coal development in Alberta, including licensing, compliance, and environmental monitoring | https://aer.ca/ |
 | Alberta Utilities Commission — Consumer Services | Alberta · Provincial | Consumer protection | Alberta Utilities Commission consumer services — complaints, dispute resolution, and utility rate information for Alberta energy consumers | https://www.auc.ab.ca/ |
 | ATCO — Gas Outage Map and Emergency | Alberta · Provincial | Outage map | ATCO's gas and electric outage information — view current outages and report gas emergencies in Alberta | https://electric.atco.com/en-ca/power-outages.html |
@@ -1821,6 +1826,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| IESO — Power Data | Ontario · Agency | Live grid data | Ontario's grid operator publishes real-time electricity demand, supply mix, and market prices in 5-minute intervals, with a full historical data directory. | https://www.ieso.ca/power-data |
 | Hydro One — Outage Map | Ontario · Provincial | Outage map | Live outage map for Hydro One's rural and regional Ontario distribution network | https://www.hydroone.com/power-outages |
 | Ontario Energy Board | Ontario · Provincial | Regulator | Independent regulator of the electricity and natural gas sectors in Ontario, including utility rate decisions, consumer protection, and energy policy | https://www.oeb.ca/ |
 | Ontario Power Generation — Dam Safety and Water Management | Ontario · Provincial | Water management | OPG's dam safety monitoring, water level data, and water management information for Ontario's hydroelectric facilities | https://www.opg.com/power-safety/dams/ |
@@ -2124,6 +2130,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alert Ready — National Public Alerting System | Canada · Federal | Alerts | Public alerts for life-threatening weather, Amber Alerts, and emergencies delivered via TV, radio, LTE | https://www.alertready.ca/ |
 | Canadian Centre for Cyber Security | Canada · Federal | Cyber security | Government of Canada lead for cyber security, providing guidance, tools, incident reporting, and threat intelligence for citizens and organizations | https://cyber.gc.ca/en |
+| Canadian Disaster Database | Canada · Federal | Search database | Public Safety Canada's searchable record of 1,000+ natural, technological and conflict disasters affecting Canadians since 1900, with fatalities, evacuations and cost estimates. | https://cdd.publicsafety.gc.ca/ |
 | Canadian Nuclear Safety Commission | Canada · Federal | Regulator | Federal regulator of nuclear power and materials in Canada, overseeing licensing, compliance, and public health and safety around nuclear facilities | https://www.cnsc-ccsn.gc.ca/eng/ |
 | Earthquakes Canada | Canada · Federal | Live map / science tool | Near-real-time earthquake tracking and event data | https://earthquakescanada.nrcan.gc.ca/ |
 | Health Canada — Canadian Cannabis Survey | Canada · Federal | Data | Annual cannabis use, perceptions, and harms reported by Canadians | https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/research-data.html |
@@ -2186,6 +2193,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| SOQUIJ — Décisions des tribunaux du Québec | Quebec · Crown Corp | Court decisions | Free public search of judgments from Quebec's judicial and administrative tribunals, updated daily by the province's legal information corporation; searchable with English keywords. | https://soquij.qc.ca/ |
 | Commission des services juridiques (Quebec) | Quebec · Provincial | Legal aid | Quebec legal aid eligibility and regional office finder | https://www.csj.qc.ca/ |
 
 ## 🛡️ Consumer Protection & Privacy
@@ -2339,6 +2347,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CRTC — National Broadband Map | Canada · Federal | Map | Interactive map showing internet speeds and coverage across Canada | https://crtc.gc.ca/eng/internet/internet.htm |
 | ISED — Spectrum Management System | Canada · Federal | Licensing | Look up radio spectrum licence holders and technical info across Canada | https://sms-sgs.ic.gc.ca/ |
 | ISED Spectrum Management System | Canada · Federal | Licence database | Public access to Canada's radio spectrum licensing: search radio licences by frequency, location, or licensee, browse spectrum auction results, and download site data for every licensed transmitter in the country. | https://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/home |
+| National Broadband Map | Canada · Federal | Interactive map | ISED/CRTC interactive map of broadband internet availability by technology and speed across Canada, accurate to roughly 250 metres and updated twice yearly. | https://ised-isde.canada.ca/app/scr/sittibc/web/bbmap?lang=eng |
 
 ---
 
