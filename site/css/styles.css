@@ -401,6 +401,17 @@ main.container {
   white-space: nowrap;
 }
 
+.badge-kind {
+  background: none;
+  border: 1px solid rgba(212, 162, 74, 0.5);
+  color: #8B6A1F;
+}
+
+@media (prefers-color-scheme: dark) {
+  .badge-kind { color: var(--color-amber); }
+  .badge-category { color: var(--color-amber); }
+}
+
 .badge-level {
   background: rgba(90, 101, 112, 0.1);
   color: var(--color-slate);

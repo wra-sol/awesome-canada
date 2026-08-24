@@ -14,6 +14,7 @@ const {
   CATEGORY_IDS,
   JURISDICTION_TO_REGION,
 } = require('./categories');
+const { KIND_IDS, KINDS } = require('./kinds');
 
 const newResources = require('./new-resources');
 
@@ -61,6 +62,9 @@ function validateEntry(entry, index) {
     errors.push(`Entry ${index}: tags must be an array`);
   } else if (entry.tags.length === 0) {
     errors.push(`Entry ${index}: tags array cannot be empty`);
+  }
+  if (entry.kind !== undefined && !KIND_IDS.has(entry.kind)) {
+    errors.push(`Entry ${index}: invalid kind '${entry.kind}' (must be one of: ${Object.keys(KINDS).join(', ')}) — see scripts/kinds.js; run scripts/assign-kinds.js to auto-classify`);
   }
 
   return errors;
