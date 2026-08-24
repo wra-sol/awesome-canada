@@ -9,6 +9,7 @@
 const fs = require('fs');
 const path = require('path');
 const { CATEGORIES } = require('./categories');
+const { KINDS, classify } = require('./kinds');
 
 const SITE_DIR = path.join(__dirname, '..', 'site');
 const DATA_FILE = path.join(__dirname, '..', 'data', 'resources.json');
@@ -195,6 +196,9 @@ function main() {
       const pseudoDate = new Date(2024, 0, 1 + (i * 3));
       r.dateAdded = pseudoDate.toISOString().split('T')[0];
     }
+    // Ensure every entry ships with a kind, deriving it for entries added
+    // without one so the site's Format facet stays complete.
+    r.kind = classify(r);
   });
 
   // Ensure site directories exist
@@ -211,7 +215,8 @@ function main() {
   fs.writeFileSync(path.join(SITE_DIR, 'data', 'meta.json'), JSON.stringify({
     count: resources.length,
     generated: now,
-    categories: categoryTitles
+    categories: categoryTitles,
+    kinds: KINDS
   }, null, 2));
   console.log('✅ Wrote site/data/meta.json');
 

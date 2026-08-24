@@ -11,6 +11,7 @@
   let allResources = [];
   let filteredResources = [];
   let categoryTitles = {};
+  let kindTitles = {};
   let currentPage = 1;
   let currentView = 'grid';
 
@@ -25,6 +26,7 @@
   const statsBar = document.getElementById('resource-count');
   const filtersToggle = document.getElementById('filters-toggle');
   const filtersPanel = document.getElementById('filters-panel');
+  const filterKind = document.getElementById('filter-kind');
   const filterLevel = document.getElementById('filter-level');
   const filterCategory = document.getElementById('filter-category');
   const filterRegion = document.getElementById('filter-region');
@@ -34,6 +36,7 @@
 
   // Active filters
   const activeFilters = {
+    kind: new Set(),
     level: new Set(),
     category: new Set(),
     region: new Set(),
@@ -48,6 +51,7 @@
     .then(([data, meta]) => {
       allResources = data.map((r, i) => ({ ...r, _id: i }));
       categoryTitles = meta.categories || {};
+      kindTitles = meta.kinds || {};
       initFilters();
       readStateFromUrl();
       applyFilters();
@@ -61,6 +65,10 @@
     return categoryTitles[id] || id;
   }
 
+  function kindLabel(id) {
+    return kindTitles[id] || id;
+  }
+
   // ---- URL state ----
   function readStateFromUrl() {
     const p = new URLSearchParams(location.search);
@@ -68,7 +76,7 @@
     searchInput.value = p.get('q') || '';
     searchClear.classList.toggle('visible', activeFilters.search.length > 0);
 
-    for (const [param, key] of [['level', 'level'], ['cat', 'category'], ['region', 'region']]) {
+    for (const [param, key] of [['kind', 'kind'], ['level', 'level'], ['cat', 'category'], ['region', 'region']]) {
       (p.get(param) || '').split('|').filter(Boolean).forEach(v => activeFilters[key].add(v));
     }
     document.querySelectorAll('.filter-checkboxes input[type="checkbox"]').forEach(cb => {
@@ -86,6 +94,7 @@
   function writeStateToUrl() {
     const p = new URLSearchParams();
     if (activeFilters.search) p.set('q', searchInput.value.trim());
+    if (activeFilters.kind.size) p.set('kind', [...activeFilters.kind].join('|'));
     if (activeFilters.level.size) p.set('level', [...activeFilters.level].join('|'));
     if (activeFilters.category.size) p.set('cat', [...activeFilters.category].join('|'));
     if (activeFilters.region.size) p.set('region', [...activeFilters.region].join('|'));
@@ -98,6 +107,7 @@
 
   // Init filter UI
   function initFilters() {
+    renderCheckboxes(filterKind, countBy(allResources, 'kind'), 'kind', kindLabel);
     renderCheckboxes(filterLevel, countBy(allResources, 'level'), 'level', v => v);
     renderCheckboxes(filterCategory, countBy(allResources, 'category'), 'category', catLabel);
     renderCheckboxes(filterRegion, countBy(allResources, 'jurisdiction'), 'region', v => v);
@@ -185,6 +195,7 @@
   emptyReset.addEventListener('click', resetAll);
 
   function resetAll() {
+    activeFilters.kind.clear();
     activeFilters.level.clear();
     activeFilters.category.clear();
     activeFilters.region.clear();
@@ -211,6 +222,7 @@
   // Apply filters + sort + paginate
   function applyFilters() {
     filteredResources = allResources.filter(r => {
+      if (activeFilters.kind.size > 0 && !activeFilters.kind.has(r.kind)) return false;
       if (activeFilters.level.size > 0 && !activeFilters.level.has(r.level)) return false;
       if (activeFilters.category.size > 0 && !activeFilters.category.has(r.category)) return false;
       if (activeFilters.region.size > 0 && !activeFilters.region.has(r.jurisdiction)) return false;
@@ -282,6 +294,7 @@
             <svg class="card-link-icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" d="M6.5 3.5h-3v9h9v-3M9.5 2.5h4v4M13 3 7.5 8.5"/></svg>
           </div>
           <div class="card-badges">
+            <span class="badge badge-kind">${escapeHtml(kindLabel(r.kind))}</span>
             <span class="badge badge-level">${escapeHtml(r.level)}</span>
             <span class="badge badge-category">${escapeHtml(catLabel(r.category))}</span>
             <span class="badge badge-jurisdiction">${escapeHtml(r.jurisdiction)}</span>
