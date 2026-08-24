@@ -166,6 +166,54 @@
     ]
   },
   {
+    "name": "MASC — Management Plus Municipal Yield Data",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "agriculture",
+    "type": "Yield statistics",
+    "description": "Manitoba Agricultural Services Corporation's Management Plus: actual insured crop yields by municipality, crop type, and year — granular farm production data unavailable anywhere else.",
+    "url": "https://www.masc.mb.ca/masc.nsf/mmpp_index.html",
+    "tags": [
+      "crop insurance",
+      "crop yields",
+      "manitoba",
+      "municipal data"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "OMAFA — Field Crops Statistics",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Statistics",
+    "description": "Ontario Ministry of Agriculture field crop area, yield, and production estimates by county and crop, with multi-year statistical archives.",
+    "url": "https://www.omafra.gov.on.ca/english/stats/crops/index.html",
+    "tags": [
+      "field crops",
+      "ontario",
+      "statistics",
+      "yields"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "La Financière agricole du Québec (FADQ)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "agriculture",
+    "type": "Agri-food insurance & data",
+    "description": "Quebec's agricultural finance agency: crop insurance program data, farm financing programs, and statistical publications on Quebec farm production and compensation.",
+    "url": "https://www.fadq.qc.ca/",
+    "tags": [
+      "agri-food",
+      "crop insurance",
+      "financiere agricole",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Saskatchewan Land",
     "level": "Provincial",
     "jurisdiction": "Saskatchewan",
@@ -177,6 +225,22 @@
       "agriculture",
       "SK"
     ]
+  },
+  {
+    "name": "Saskatchewan Ministry of Agriculture — Crop Report",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "agriculture",
+    "type": "Weekly report",
+    "description": "Weekly growing-season crop reports: moisture, crop development, disease, and harvest progress by region, plus year-end statistics archives.",
+    "url": "https://www.saskatchewan.ca/crop-report",
+    "tags": [
+      "agronomy",
+      "crop report",
+      "harvest",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Canadian Coast Guard — Marine Communications",
@@ -5365,6 +5429,54 @@
     ]
   },
   {
+    "name": "Manitoba Student Aid",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "education",
+    "type": "Student assistance",
+    "description": "Manitoba's provincial student financial assistance program: apply for loans and grants, estimate awards, and manage repayment.",
+    "url": "https://www.edu.gov.mb.ca/msa/",
+    "tags": [
+      "grants",
+      "loans",
+      "manitoba",
+      "student aid"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "New Brunswick Student Financial Services",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "education",
+    "type": "Student assistance",
+    "description": "NB student loans and grants portal: eligibility, application, and repayment for provincial and Canada-New Brunswick integrated loans.",
+    "url": "https://www2.gnb.ca/content/gnb/en/services/services_renderer.201437.html",
+    "tags": [
+      "loans",
+      "new brunswick",
+      "student aid"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "EQAO — Standardized Assessment Results",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "Test results",
+    "description": "Education Quality and Accountability Office: provincial test results for Grades 3, 6, 9, and OSSLT literacy, with school- and board-level reports downloadable as datasets.",
+    "url": "https://www.eqao.com/",
+    "tags": [
+      "eqao",
+      "literacy",
+      "ontario",
+      "school results",
+      "testing"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "OSAP — Ontario Student Assistance Program",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -5376,6 +5488,22 @@
       "Ontario",
       "students"
     ]
+  },
+  {
+    "name": "Skilled Trades Ontario — Apprenticeship Registry",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "Trades certification",
+    "description": "Official body for Ontario apprenticeship and trade certification: apprentice registration, trade exam schedules, certified rosters, and apprenticeship completion data.",
+    "url": "https://www.skilledtradesontario.ca/",
+    "tags": [
+      "apprenticeship",
+      "certification",
+      "ontario",
+      "trades"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Aide financière aux études (Quebec)",

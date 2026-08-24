@@ -15,7 +15,7 @@ const DATA = path.join(__dirname, '..', 'data', 'resources.json');
 
 function orderedEntry(e) {
   // Stable field order for readability in diffs.
-  return {
+  const out = {
     name: e.name,
     level: e.level,
     jurisdiction: e.jurisdiction,
@@ -25,6 +25,8 @@ function orderedEntry(e) {
     url: e.url,
     tags: e.tags,
   };
+  if (e.dateAdded) out.dateAdded = e.dateAdded;
+  return out;
 }
 
 function main() {

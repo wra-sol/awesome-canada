@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1109 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1117 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -32,7 +32,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 16
 - [🏢 Business & Procurement](#business-and-procurement) — 18
 - [💼 Employment & Labour](#employment-and-labour) — 14
-- [🎓 Education & Student Aid](#education-and-student-aid) — 11
+- [🎓 Education & Student Aid](#education-and-student-aid) — 15
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 36
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 14
 - [🩺 Health & Wellness](#health-and-wellness) — 18
@@ -46,7 +46,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 28
 - [🌦️ Weather & Climate](#weather-and-climate) — 10
 - [⚡ Energy & Utilities](#energy-and-utilities) — 27
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 13
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 17
 - [🔬 Science, Research & Space](#science-research-and-space) — 16
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 16
@@ -977,19 +977,33 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta Student Aid | Alberta · Provincial | Student aid | Apply for Alberta loans, grants, and scholarships with an account dashboard | https://studentaid.alberta.ca/ |
 | ApplyAlberta | Alberta · Provincial | Service | Central application service for Alberta post-secondary institutions | https://www.applyalberta.ca/ |
 
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Manitoba Student Aid | Manitoba · Provincial | Student assistance | Manitoba's provincial student financial assistance program: apply for loans and grants, estimate awards, and manage repayment. | https://www.edu.gov.mb.ca/msa/ |
+
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | OCAS — Ontario College Application | Ontario · Agency | Service | Central application portal for Ontario's public colleges | https://www.ontariocolleges.ca/ |
 | OUAC — Ontario Universities' Application Centre | Ontario · Agency | Service | Apply online to Ontario universities using a single OUAC application | https://www.ouac.on.ca/ |
+| EQAO — Standardized Assessment Results | Ontario · Provincial | Test results | Education Quality and Accountability Office: provincial test results for Grades 3, 6, 9, and OSSLT literacy, with school- and board-level reports downloadable as datasets. | https://www.eqao.com/ |
 | OSAP — Ontario Student Assistance Program | Ontario · Provincial | Student aid | Apply for Ontario student loans and grants, estimate aid, and track your application status | https://www.ontario.ca/page/osap-ontario-student-assistance-program |
+| Skilled Trades Ontario — Apprenticeship Registry | Ontario · Provincial | Trades certification | Official body for Ontario apprenticeship and trade certification: apprentice registration, trade exam schedules, certified rosters, and apprenticeship completion data. | https://www.skilledtradesontario.ca/ |
 
 ### Quebec
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Aide financière aux études (Quebec) | Quebec · Provincial | Student aid | Quebec's loans and bursaries program for full- and part-time post-secondary students | https://www.quebec.ca/education/aide-financiere-aux-etudes |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| New Brunswick Student Financial Services | New Brunswick · Provincial | Student assistance | NB student loans and grants portal: eligibility, application, and repayment for provincial and Canada-New Brunswick integrated loans. | https://www2.gnb.ca/content/gnb/en/services/services_renderer.201437.html |
 
 ## 🎒 Schools, Education & Boards
 
@@ -1811,24 +1825,28 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Saskatchewan Land | Saskatchewan · Provincial | Land maps | Crown land information, agricultural land, and land use data | https://www.saskatchewan.ca/business/agriculture-natural-resources-and-industry |
+| Saskatchewan Ministry of Agriculture — Crop Report | Saskatchewan · Provincial | Weekly report | Weekly growing-season crop reports: moisture, crop development, disease, and harvest progress by region, plus year-end statistics archives. | https://www.saskatchewan.ca/crop-report |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Manitoba Liquor and Lotteries | Manitoba · Crown Corp | Retail | Manitoba's crown retailer with liquor product and lottery services | https://www.mbll.ca/ |
+| MASC — Management Plus Municipal Yield Data | Manitoba · Provincial | Yield statistics | Manitoba Agricultural Services Corporation's Management Plus: actual insured crop yields by municipality, crop type, and year — granular farm production data unavailable anywhere else. | https://www.masc.mb.ca/masc.nsf/mmpp_index.html |
 
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | LCBO — Ontario Liquor Retailer | Ontario · Crown Corp | Retail | Search LCBO product catalogue, store availability, and specialty releases | https://www.lcbo.com/ |
+| OMAFA — Field Crops Statistics | Ontario · Provincial | Statistics | Ontario Ministry of Agriculture field crop area, yield, and production estimates by county and crop, with multi-year statistical archives. | https://www.omafra.gov.on.ca/english/stats/crops/index.html |
 
 ### Quebec
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | SAQ — Société des alcools du Québec | Quebec · Crown Corp | Retail | Browse SAQ spirits and wines with inventory, food pairings, and specialty imports | https://www.saq.com/en |
+| La Financière agricole du Québec (FADQ) | Quebec · Provincial | Agri-food insurance & data | Quebec's agricultural finance agency: crop insurance program data, farm financing programs, and statistical publications on Quebec farm production and compensation. | https://www.fadq.qc.ca/ |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
