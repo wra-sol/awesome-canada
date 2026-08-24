@@ -696,5 +696,294 @@ module.exports = [
       "verified"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Airdrie — Airdrie Land Use Districts",
+    "level": "Municipal",
+    "jurisdiction": "Airdrie",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Airdrie Land Use Districts — Feature Service on the Airdrie open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://data-airdrie.opendata.arcgis.com/datasets/5dd3c1196f4248e5ac218674c7513a5d/about",
+    "tags": [
+      "airdrie",
+      "land use",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Brampton — Current Zoning Final",
+    "level": "Municipal",
+    "jurisdiction": "Brampton",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Current Zoning Final — Feature Service on the Brampton open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://brampton.opendata.arcgis.com/datasets/227cea1df40a452d80211352510522e7/about",
+    "tags": [
+      "brampton",
+      "land use",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Burlington — Zoning ByLaw",
+    "level": "Municipal",
+    "jurisdiction": "Burlington",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Zoning ByLaw — Feature Service on the Burlington open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://navburl-burlington.opendata.arcgis.com/datasets/41ddbd93d8d14293b4608ac9a7fc1bd4/about",
+    "tags": [
+      "burlington",
+      "land use",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Canmore — Canmore_Land_Use_Districts",
+    "level": "Municipal",
+    "jurisdiction": "Canmore",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Canmore_Land_Use_Districts — Feature Service on the Canmore open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://opendata-canmore.opendata.arcgis.com/datasets/a0117c599e95492e97d67a8a26e60e13/about",
+    "tags": [
+      "canmore",
+      "land use",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Courtenay — Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Courtenay",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Zoning — Feature Service on the Courtenay open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://data-courtenay.opendata.arcgis.com/datasets/bd116205a44543848799b311f5740098/about",
+    "tags": [
+      "courtenay",
+      "land use",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Delta — Building Permits",
+    "level": "Municipal",
+    "jurisdiction": "Delta",
+    "category": "planning-zoning",
+    "type": "Building permits dataset",
+    "description": "Building Permits — Feature Service on the Delta open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://opendata-deltabc.hub.arcgis.com/datasets/11be3157551143288da19b4a3f14b301/about",
+    "tags": [
+      "delta",
+      "land use",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Halifax — Zoning Boundaries",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Zoning Boundaries — Feature Service on the Halifax open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://data-hrm.hub.arcgis.com/datasets/11adc4e1e52a45b5b9f6bc63ef6e0883/about",
+    "tags": [
+      "halifax",
+      "land use",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Huron County — Planning_Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Huron County",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Planning_Zoning — Feature Service on the Huron County open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://data-huron.opendata.arcgis.com/datasets/6b395e0a540043b5a1780618ea8b5d22/about",
+    "tags": [
+      "huroncounty",
+      "land use",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Langley — Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Langley",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Zoning — Feature Service on the Langley open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://data-tol.opendata.arcgis.com/datasets/053600a55cd24e91aea299efda1fba4b/about",
+    "tags": [
+      "land use",
+      "langley",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Milton — Rural Zoning (By-law 144-2003)",
+    "level": "Municipal",
+    "jurisdiction": "Milton",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Rural Zoning (By-law 144-2003) — Feature Service on the Milton open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://discover-milton.hub.arcgis.com/datasets/48a3f0c2ddb143acb2d8b36d99606f4e/about",
+    "tags": [
+      "land use",
+      "milton",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Oakville — Zoning By Law 2014-014",
+    "level": "Municipal",
+    "jurisdiction": "Oakville",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Zoning By Law 2014-014 — Feature Service on the Oakville open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://portal-exploreoakville.opendata.arcgis.com/datasets/54d77fc2abd34bc694b4ea1e57e2fa1c/about",
+    "tags": [
+      "land use",
+      "oakville",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Oshawa — Oshawa Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Oshawa",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Oshawa Zoning — Feature Service on the Oshawa open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://city-oshawa.opendata.arcgis.com/datasets/dee9180066de48c684a34ab6c35ac62a/about",
+    "tags": [
+      "land use",
+      "oshawa",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Peterborough — Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Peterborough",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Zoning — Feature Service on the Peterborough open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://data-ptbo.opendata.arcgis.com/datasets/05dd127dbd1a4a3b83566d0fde6b576b/about",
+    "tags": [
+      "land use",
+      "peterborough",
+      "planning",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Prince George — Zoning Bylaw 7850 Class",
+    "level": "Municipal",
+    "jurisdiction": "Prince George",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Zoning Bylaw 7850 Class — Feature Service on the Prince George open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://data-cityofpg.opendata.arcgis.com/datasets/88d25f411d9647e692ddf4da01fa1b8a/about",
+    "tags": [
+      "land use",
+      "planning",
+      "princegeorge",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Rouyn-Noranda — Plan de zonage",
+    "level": "Municipal",
+    "jurisdiction": "Rouyn-Noranda",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Plan de zonage — Feature Service on the Rouyn-Noranda open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://donnees-ouvertes-vrn.opendata.arcgis.com/datasets/4a69c2484a2540de9f9eb58b908d4d0f/about",
+    "tags": [
+      "land use",
+      "planning",
+      "rouyn-noranda",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Summerside — Zoning View",
+    "level": "Municipal",
+    "jurisdiction": "Summerside",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Zoning View — Feature Service on the Summerside open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://summerside.opendata.arcgis.com/datasets/f6357d6615734a7cb5d895b159eccdc5/about",
+    "tags": [
+      "land use",
+      "planning",
+      "summerside",
+      "verified",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Whistler — Zoning",
+    "level": "Municipal",
+    "jurisdiction": "Whistler",
+    "category": "planning-zoning",
+    "type": "Zoning dataset",
+    "description": "Zoning — Feature Service on the Whistler open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
+    "url": "https://portal-rmow.opendata.arcgis.com/datasets/c2e167bd30f44bd0a95e9d91c37aa65f/about",
+    "tags": [
+      "land use",
+      "planning",
+      "verified",
+      "whistler",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
   }
 ];
