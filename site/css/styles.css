@@ -126,8 +126,8 @@ body {
 }
 
 .brand-mark {
-  width: 40px;
-  height: 40px;
+  height: 44px;
+  width: auto;
   flex-shrink: 0;
   color: var(--color-amber);
   transition: transform 200ms ease;
@@ -687,8 +687,8 @@ mark.hl {
 }
 
 .empty-icon {
-  width: 56px;
   height: 56px;
+  width: auto;
   color: var(--color-border);
   fill: currentColor;
   margin-bottom: var(--space-4);

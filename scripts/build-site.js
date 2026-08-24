@@ -30,13 +30,13 @@ function browsePageShell({ title, description, canonicalPath, body, jsonLd }) {
   <title>${escapeHtml(title)}</title>
   <meta name="description" content="${escapeHtml(description)}">
   <link rel="canonical" href="${BASE_URL}${canonicalPath}">
-  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg?v=2">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Awesome Canada">
   <meta property="og:title" content="${escapeHtml(title)}">
   <meta property="og:description" content="${escapeHtml(description)}">
   <meta property="og:url" content="${BASE_URL}${canonicalPath}">
-  <meta property="og:image" content="${BASE_URL}/og-image.png">
+  <meta property="og:image" content="${BASE_URL}/og-image.png?v=2">
 ${jsonLd ? `  <script type="application/ld+json">${jsonLd}</script>\n` : ''}  <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -47,8 +47,88 @@ ${jsonLd ? `  <script type="application/ld+json">${jsonLd}</script>\n` : ''}  <l
     <div class="container">
       <div class="header-top">
         <a href="../" class="brand" aria-label="Awesome Canada home">
-          <svg class="brand-mark" viewBox="0 0 100 100" aria-hidden="true" focusable="false">
-            <path fill="currentColor" d="M50 4 55 15 65 9 61.5 23 77 14 72.5 30 90 33 73 45 85 62 61 55 63 73 55 65 54 82 53 96 47 96 46 82 45 65 37 73 39 55 15 62 27 45 10 33 27.5 30 23 14 38.5 23 35 9 45 15 Z"/>
+          <svg class="brand-mark" viewBox="0 0 88 100" aria-hidden="true" focusable="false">
+            <g stroke="currentColor" stroke-width="2.2" fill="currentColor" stroke-linecap="round">
+        <line x1="43.8" y1="0.0" x2="43.8" y2="19.1"/>
+        <line x1="27.9" y1="14.2" x2="43.8" y2="19.1"/>
+        <line x1="27.9" y1="14.2" x2="43.8" y2="34.9"/>
+        <line x1="27.9" y1="14.2" x2="31.8" y2="39.5"/>
+        <line x1="59.7" y1="14.2" x2="43.8" y2="19.1"/>
+        <line x1="59.7" y1="14.2" x2="43.8" y2="34.9"/>
+        <line x1="59.7" y1="14.2" x2="55.8" y2="39.4"/>
+        <line x1="43.8" y1="19.1" x2="43.8" y2="34.9"/>
+        <line x1="17.7" y1="28.0" x2="31.8" y2="39.5"/>
+        <line x1="17.7" y1="28.0" x2="20.7" y2="45.3"/>
+        <line x1="69.9" y1="28.0" x2="55.8" y2="39.4"/>
+        <line x1="69.9" y1="28.0" x2="66.9" y2="45.3"/>
+        <line x1="0.4" y1="30.2" x2="20.7" y2="45.3"/>
+        <line x1="0.4" y1="30.2" x2="5.3" y2="45.6"/>
+        <line x1="87.1" y1="30.2" x2="66.9" y2="45.3"/>
+        <line x1="87.1" y1="30.2" x2="82.2" y2="45.6"/>
+        <line x1="43.8" y1="34.9" x2="31.8" y2="39.5"/>
+        <line x1="43.8" y1="34.9" x2="55.8" y2="39.4"/>
+        <line x1="43.8" y1="34.9" x2="31.9" y2="55.0"/>
+        <line x1="43.8" y1="34.9" x2="55.7" y2="55.0"/>
+        <line x1="43.8" y1="34.9" x2="43.8" y2="63.1"/>
+        <line x1="31.8" y1="39.5" x2="20.7" y2="45.3"/>
+        <line x1="55.8" y1="39.4" x2="66.9" y2="45.3"/>
+        <line x1="20.7" y1="45.3" x2="0.0" y2="50.9"/>
+        <line x1="20.7" y1="45.3" x2="31.9" y2="55.0"/>
+        <line x1="20.7" y1="45.3" x2="20.7" y2="65.4"/>
+        <line x1="66.9" y1="45.3" x2="87.5" y2="50.9"/>
+        <line x1="66.9" y1="45.3" x2="55.7" y2="55.0"/>
+        <line x1="66.9" y1="45.3" x2="66.8" y2="65.4"/>
+        <line x1="5.3" y1="45.6" x2="0.0" y2="50.9"/>
+        <line x1="82.2" y1="45.6" x2="87.5" y2="50.9"/>
+        <line x1="87.5" y1="50.9" x2="66.8" y2="65.4"/>
+        <line x1="0.0" y1="50.9" x2="20.7" y2="65.4"/>
+        <line x1="31.9" y1="55.0" x2="43.8" y2="63.1"/>
+        <line x1="31.9" y1="55.0" x2="37.0" y2="70.3"/>
+        <line x1="31.9" y1="55.0" x2="19.5" y2="75.9"/>
+        <line x1="55.7" y1="55.0" x2="43.8" y2="63.1"/>
+        <line x1="55.7" y1="55.0" x2="50.6" y2="70.3"/>
+        <line x1="55.7" y1="55.0" x2="68.1" y2="75.9"/>
+        <line x1="43.8" y1="63.1" x2="37.0" y2="70.3"/>
+        <line x1="43.8" y1="63.1" x2="50.6" y2="70.3"/>
+        <line x1="43.8" y1="63.1" x2="43.8" y2="86.5"/>
+        <line x1="20.7" y1="65.4" x2="19.5" y2="75.9"/>
+        <line x1="66.8" y1="65.4" x2="68.1" y2="75.9"/>
+        <line x1="37.0" y1="70.3" x2="19.5" y2="75.9"/>
+        <line x1="37.0" y1="70.3" x2="43.8" y2="86.5"/>
+        <line x1="50.6" y1="70.3" x2="68.1" y2="75.9"/>
+        <line x1="50.6" y1="70.3" x2="43.8" y2="86.5"/>
+        <line x1="43.8" y1="86.5" x2="43.8" y2="92.9"/>
+        <line x1="43.8" y1="92.9" x2="43.8" y2="100.0"/>
+        <circle cx="43.8" cy="0.0" r="1.8"/>
+        <circle cx="27.9" cy="14.2" r="1.8"/>
+        <circle cx="59.7" cy="14.2" r="1.8"/>
+        <circle cx="43.8" cy="19.1" r="1.8"/>
+        <circle cx="17.7" cy="28.0" r="1.8"/>
+        <circle cx="69.9" cy="28.0" r="1.8"/>
+        <circle cx="0.4" cy="30.2" r="1.8"/>
+        <circle cx="87.1" cy="30.2" r="1.8"/>
+        <circle cx="43.8" cy="34.9" r="1.8"/>
+        <circle cx="31.8" cy="39.5" r="1.8"/>
+        <circle cx="55.8" cy="39.4" r="1.8"/>
+        <circle cx="20.7" cy="45.3" r="1.8"/>
+        <circle cx="66.9" cy="45.3" r="1.8"/>
+        <circle cx="5.3" cy="45.6" r="1.8"/>
+        <circle cx="82.2" cy="45.6" r="1.8"/>
+        <circle cx="87.5" cy="50.9" r="1.8"/>
+        <circle cx="0.0" cy="50.9" r="1.8"/>
+        <circle cx="31.9" cy="55.0" r="1.8"/>
+        <circle cx="55.7" cy="55.0" r="1.8"/>
+        <circle cx="43.8" cy="63.1" r="1.8"/>
+        <circle cx="20.7" cy="65.4" r="1.8"/>
+        <circle cx="66.8" cy="65.4" r="1.8"/>
+        <circle cx="37.0" cy="70.3" r="1.8"/>
+        <circle cx="50.6" cy="70.3" r="1.8"/>
+        <circle cx="19.5" cy="75.9" r="1.8"/>
+        <circle cx="68.1" cy="75.9" r="1.8"/>
+        <circle cx="43.8" cy="86.5" r="1.8"/>
+        <circle cx="43.8" cy="92.9" r="1.8"/>
+        <circle cx="43.8" cy="100.0" r="1.8"/>
+      </g>
           </svg>
           <span class="brand-text">
             <span class="site-title">Awesome Canada</span>
@@ -174,6 +254,80 @@ ${urls.map(u => `  <url><loc>${u}</loc><lastmod>${today}</lastmod></url>`).join(
   fs.writeFileSync(path.join(SITE_DIR, 'sitemap.xml'), xml);
 }
 
+function buildLlmsTxt(resources) {
+  const today = new Date().toISOString().split('T')[0];
+  const byCategory = new Map(CATEGORIES.map(c => [c.id, []]));
+  for (const r of resources) {
+    (byCategory.get(r.category) || byCategory.get('open-data'))?.push(r);
+  }
+
+  const entryLine = r => {
+    const bits = [
+      r.jurisdiction,
+      r.level,
+      r.type,
+      (r.tags || []).slice(0, 4).join(', '),
+    ].filter(Boolean).join(' · ');
+    const desc = (r.description || '').replace(/\s+/g, ' ').trim();
+    return `- [${r.name}](${r.url}) — ${bits} — ${desc}`;
+  };
+
+  // llms.txt — curated index (llmstxt.org format)
+  const sections = CATEGORIES
+    .filter(c => (byCategory.get(c.id) || []).length > 0)
+    .map(c => {
+      const items = byCategory.get(c.id);
+      return `- [${c.title}](https://awesome-canada.ca/browse/${c.id}.html): ${items.length} resources`;
+    })
+    .join('\n');
+
+  const llms = `# Awesome Canada
+
+> A curated, link-checked directory of ${resources.length} official Canadian government resources: open data portals, interactive maps, calculators, registries and civic tools from federal, provincial, territorial and municipal governments.
+
+Every entry links to an official government or public-interest source and is checked daily by automated link-rot tooling. Entries carry a jurisdiction (e.g. Canada, Ontario, Toronto), level of government, format, category and tags. The directory is maintained in the open at github.com/wra-sol/awesome-canada.
+
+## Catalog
+
+- [Full catalog as JSON](https://awesome-canada.ca/data/resources.json): every entry as structured JSON — name, url, jurisdiction, level, category, type, description, tags, dateAdded
+- [Full catalog as plain text](https://awesome-canada.ca/llms-full.txt): the same catalog in LLM-friendly markdown, grouped by category
+
+## Browse by category
+
+${sections}
+
+## Site
+
+- [Directory](https://awesome-canada.ca/): searchable, filterable directory with likes and trending rankings
+- [Browse](https://awesome-canada.ca/browse/): static pages per category
+- [Submit a link](https://awesome-canada.ca/submit.html): suggest an official Canadian government resource
+- [Report a broken link](https://awesome-canada.ca/report.html)
+
+Generated ${today}.
+`;
+  fs.writeFileSync(path.join(SITE_DIR, 'llms.txt'), llms);
+
+  // llms-full.txt — the whole catalog, grouped by category
+  const fullSections = CATEGORIES
+    .filter(c => (byCategory.get(c.id) || []).length > 0)
+    .map(c => {
+      const items = byCategory.get(c.id);
+      return `## ${c.title} (${items.length})\n\n${items.map(entryLine).join('\n')}`;
+    })
+    .join('\n\n');
+
+  const full = `# Awesome Canada — full catalog (${resources.length} resources)
+
+Official Canadian government resources, verified daily. Format per entry:
+- [Name](url) — jurisdiction · level · format · tags — description
+
+Generated ${today} from data/resources.json.
+
+${fullSections}
+`;
+  fs.writeFileSync(path.join(SITE_DIR, 'llms-full.txt'), full);
+}
+
 function main() {
   console.log('🔨 Building Awesome Canada site...\n');
 
@@ -233,7 +387,8 @@ function main() {
   // Generate crawlable browse pages + sitemap
   const urls = buildBrowsePages(resources);
   buildSitemap(urls);
-  console.log(`✅ Generated ${urls.length - 1} browse pages + sitemap.xml`);
+  buildLlmsTxt(resources);
+  console.log(`✅ Generated ${urls.length - 1} browse pages + sitemap.xml + llms.txt + llms-full.txt`);
 
   // Create .nojekyll
   fs.writeFileSync(NOJEKYLL_FILE, '');
