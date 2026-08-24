@@ -17475,5 +17475,154 @@
       "cfia",
       "requirements"
     ]
+  },
+  {
+    "name": "PlowTO — Snow Plow Tracker",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "transport-roads",
+    "type": "Live map",
+    "description": "Near-real-time GPS map of Toronto's salters, road plows, sidewalk plows and cycling-network plows, with colour-coded streets showing how recently each was serviced.",
+    "url": "https://www.toronto.ca/services-payments/streets-parking-transportation/road-maintenance/winter-maintenance/plowto/",
+    "tags": [
+      "snow",
+      "plow tracker",
+      "winter",
+      "live data"
+    ]
+  },
+  {
+    "name": "Montréal — Snow Removal Operations Map",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "transport-roads",
+    "type": "Live map",
+    "description": "See when your street is scheduled for snow clearing and loading, plus free incentive parking lots during operations — the map behind the INFO-Neige app.",
+    "url": "https://montreal.ca/en/services/snow-removal-operations-map",
+    "tags": [
+      "snow removal",
+      "parking",
+      "winter",
+      "montreal"
+    ]
+  },
+  {
+    "name": "Winnipeg — Cemetery Burial Search",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "heritage",
+    "type": "Search database",
+    "description": "Search 124,000+ interment records from Winnipeg's three municipal cemeteries (Brookside, St. Vital, Transcona) with dates and exact section-lot-grave locations.",
+    "url": "https://www.winnipeg.ca/services-programs/cemeteries/burial-search",
+    "tags": [
+      "cemetery",
+      "burials",
+      "genealogy",
+      "winnipeg"
+    ]
+  },
+  {
+    "name": "Toronto — Waste Wizard",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Type any of 2,500+ items to find out which bin it goes in and where to drop off hazardous waste — also in the TOwaste app with collection schedules.",
+    "url": "https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/",
+    "tags": [
+      "recycling",
+      "waste",
+      "garbage",
+      "lookup"
+    ]
+  },
+  {
+    "name": "Bank of Canada — Unclaimed Balances Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Search database",
+    "description": "Search $1.6 billion in dormant bank accounts, matured GICs, bank drafts and money orders turned over after 10 years of inactivity — small balances held 30 years, larger ones 100.",
+    "url": "https://www.bankofcanada.ca/unclaimed-balances/",
+    "tags": [
+      "unclaimed money",
+      "dormant accounts",
+      "search"
+    ]
+  },
+  {
+    "name": "Fish ON-Line",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "parks",
+    "type": "Interactive map",
+    "description": "Ontario's angler map of 20,000+ waterbodies: fish species observed, stocking records, regulations and sanctuaries, access points and lake depth contours.",
+    "url": "https://www.ontario.ca/page/how-use-fish-line",
+    "tags": [
+      "fishing",
+      "stocking",
+      "lakes",
+      "ontario"
+    ]
+  },
+  {
+    "name": "Calgary — Impounded and Lost Pets",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Photos and descriptions of stray cats and dogs at Calgary Animal Services, updated every 15 minutes, so owners can spot their lost pet online.",
+    "url": "https://www.calgary.ca/pets/lost-animals.html",
+    "tags": [
+      "pets",
+      "animal services",
+      "lost and found",
+      "calgary"
+    ]
+  },
+  {
+    "name": "iMapBC",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Interactive map",
+    "description": "Layer hundreds of BC Geographic Warehouse datasets on one map — parcels, Crown tenures, the Agricultural Land Reserve, mineral titles, forest and wildlife layers — with upload, query and share tools.",
+    "url": "https://www2.gov.bc.ca/gov/content/data/geographic-data-services/web-based-mapping/imapbc",
+    "tags": [
+      "gis",
+      "mapping",
+      "crown land",
+      "bc"
+    ]
+  },
+  {
+    "name": "Edmonton — Trees Map",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "environment",
+    "type": "Interactive map",
+    "description": "Map of 260,000+ city-maintained trees with species and location — the open-data inventory behind Edmonton's urban forest program.",
+    "url": "https://data.edmonton.ca/Environmental-Services/Trees-Map/udbt-eiax",
+    "tags": [
+      "trees",
+      "urban forest",
+      "open data",
+      "edmonton"
+    ]
+  },
+  {
+    "name": "GC Jobs — Government of Canada Jobs",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Job search",
+    "description": "Search and apply for federal public service positions across all departments and agencies through the Public Service Commission's hiring portal.",
+    "url": "https://www.canada.ca/en/services/jobs/opportunities/government.html",
+    "tags": [
+      "jobs",
+      "public service",
+      "federal",
+      "careers"
+    ]
   }
 ]

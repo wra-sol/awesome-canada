@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1180 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1190 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,15 +26,15 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 172
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 173
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 83
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 128
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 92
-- [🪪 Government Services & ID](#government-services-and-id) — 34
+- [🪪 Government Services & ID](#government-services-and-id) — 36
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 16
-- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 20
+- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 21
 - [🏢 Business & Procurement](#business-and-procurement) — 25
-- [💼 Employment & Labour](#employment-and-labour) — 15
+- [💼 Employment & Labour](#employment-and-labour) — 16
 - [🎓 Education & Student Aid](#education-and-student-aid) — 15
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 36
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 14
@@ -42,17 +42,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 24
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 25
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 28
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 30
 - [🚌 Transit & Mobility](#transit-and-mobility) — 58
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 55
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 29
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 56
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 30
 - [🌦️ Weather & Climate](#weather-and-climate) — 12
 - [⚡ Energy & Utilities](#energy-and-utilities) — 29
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 19
 - [🔬 Science, Research & Space](#science-research-and-space) — 20
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 41
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 20
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 21
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 16
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 19
@@ -99,6 +99,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | B.C. API Gateway | British Columbia · Provincial | API portal | British Columbia government API gateway for discovering, accessing, and managing provincial APIs and data services | https://api.gov.bc.ca/ |
 | DataBC | British Columbia · Provincial | Open data portal | Major open data and geospatial hub for BC | https://www2.gov.bc.ca/gov/content/data |
+| iMapBC | British Columbia · Provincial | Interactive map | Layer hundreds of BC Geographic Warehouse datasets on one map — parcels, Crown tenures, the Agricultural Land Reserve, mineral titles, forest and wildlife layers — with upload, query and share tools. | https://www2.gov.bc.ca/gov/content/data/geographic-data-services/web-based-mapping/imapbc |
 | Metro Vancouver Open Data Portal | Metro Vancouver · Regional | Open data hub | Regional GIS datasets including LiDAR point clouds, aerial orthoimagery, liquid and solid waste services, water services, regional parks, and Electoral Area A boundaries | https://open-data-portal-metrovancouver.hub.arcgis.com/ |
 | Abbotsford Open Data Hub | Abbotsford · Municipal | Open data hub | ArcGIS Hub for City of Abbotsford datasets — parks, transportation, boundaries, and municipal infrastructure with bulk download. | https://opendata-abbotsford.hub.arcgis.com/ |
 | Burnaby Open Data | Burnaby · Municipal | Open data portal | City of Burnaby maps and open data including zoning, parks, and civic datasets with download and API access. | https://www.burnaby.ca/City-Services/Maps-Open-Data.html |
@@ -769,6 +770,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alberta.ca Account | Alberta · Provincial | Authentication | Single sign-in used to access Alberta government online services like MyAlberta Digital ID | https://account.alberta.ca/ |
 | MyAlberta Digital ID | Alberta · Provincial | Digital ID | Verified digital identity used to access Alberta government services remotely | https://account.alberta.ca/signin |
+| Calgary — Impounded and Lost Pets | Calgary · Municipal | Lookup tool | Photos and descriptions of stray cats and dogs at Calgary Animal Services, updated every 15 minutes, so owners can spot their lost pet online. | https://www.calgary.ca/pets/lost-animals.html |
 
 ### Manitoba
 
@@ -783,6 +785,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario.ca Developer Hub | Ontario · Provincial | Developer portal | Ontario government developer hub with APIs, technical documentation, and code samples for building digital services | https://developer.ontario.ca/ |
 | ServiceOntario | Ontario · Provincial | Service portal | Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services | https://www.ontario.ca/page/serviceontario |
 | Brampton budget / Open Book resources | Brampton · Municipal | Transparency / budget | Budget transparency resources and project-oriented views | https://www.brampton.ca/EN/City-Hall/budget/ |
+| Toronto — Waste Wizard | Toronto · Municipal | Lookup tool | Type any of 2,500+ items to find out which bin it goes in and where to drop off hazardous waste — also in the TOwaste app with collection schedules. | https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/ |
 | Toronto 311 — Service Requests | Toronto · Municipal | Service | Report issues, request services, and track cases in Toronto via web, app, or phone | https://www.toronto.ca/home/311-toronto-at-your-service/ |
 
 ### Quebec
@@ -856,6 +859,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Bank of Canada — Inflation Calculator | Canada · Federal | Calculator | Calculate the buying power of the Canadian dollar in any year from 1914 to today | https://www.bankofcanada.ca/rates/related/inflation-calculator/ |
 | Bank of Canada — Monetary Policy Report | Canada · Federal | Report | Quarterly report on inflation, growth, and interest-rate outlook with supporting data | https://www.bankofcanada.ca/publications/mpr/ |
 | Bank of Canada — Research and Publications | Canada · Federal | Research | Economic research, working papers, staff discussion papers, and data | https://www.bankofcanada.ca/publications/ |
+| Bank of Canada — Unclaimed Balances Search | Canada · Federal | Search database | Search $1.6 billion in dormant bank accounts, matured GICs, bank drafts and money orders turned over after 10 years of inactivity — small balances held 30 years, larger ones 100. | https://www.bankofcanada.ca/unclaimed-balances/ |
 | Bank of Canada — Valet API | Canada · Federal | API | Free REST API for Bank of Canada datasets: policy interest rate, exchange rates, CPI, money markets, and macro indicators with JSON/CSV output and interactive series builder. | https://www.bankofcanada.ca/valet/ |
 | CPP/QPP Statement of Contributions | Canada · Federal | Statement | View your CPP/QPP contribution history and estimated retirement benefit | https://www.canada.ca/en/services/benefits/publicpensions/cpp/statement-contributions.html |
 | FCAC — Account Comparison Tool | Canada · Federal | Comparator | Compare fees, interest rates and features across 250+ chequing and savings accounts from Canadian banks and credit unions. | https://itools-ioutils.fcac-acfc.gc.ca/ACT-OCC/SearchFilter-eng.aspx |
@@ -960,6 +964,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Employment and Social Development Canada — Labour Program | Canada · Federal | Regulator | Federal labour standards, occupational health and safety, workplace equity, and unjust-dismissal info | https://www.canada.ca/en/employment-social-development/corporate/portfolio/labour.html |
 | Employment Insurance (EI) — Apply Online | Canada · Federal | Service | Apply for Employment Insurance regular, sickness, maternity, parental, and caregiver benefits | https://www.canada.ca/en/services/benefits/ei.html |
 | Employment Insurance Benefits Estimator | Canada · Federal | Calculator | Anonymous Service Canada tool that estimates weekly EI benefit amounts and duration from salary and hours worked — no sign-in or personal information required. | https://estimateurae-eiestimator.service.canada.ca/en |
+| GC Jobs — Government of Canada Jobs | Canada · Federal | Job search | Search and apply for federal public service positions across all departments and agencies through the Public Service Commission's hiring portal. | https://www.canada.ca/en/services/jobs/opportunities/government.html |
 | Job Bank Canada — Job Search | Canada · Federal | Job search | Official job search tool with 56,000+ postings, filters by location, salary, hours, education | https://www.jobbank.gc.ca/findajob |
 | Job Bank Canada — Labour Market Information | Canada · Federal | Labour data | Employment trends, occupation outlook, and market data explorer | https://www.jobbank.gc.ca/trend-analysis |
 | Job Bank Canada — Wage Search | Canada · Federal | Wage comparison | Compare wages by occupation and location across Canada | https://www.jobbank.gc.ca/trend-analysis/search-wages |
@@ -1435,6 +1440,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Photo Card | Ontario · Provincial | ID service | Apply for an Ontario Photo Card — government-issued photo ID for residents who don't have a driver's licence | https://www.ontario.ca/page/ontario-photo-card |
 | ServiceOntario — Vehicle Registration Renewal | Ontario · Provincial | Service | Renew Ontario vehicle registration, transfer ownership, and order licence plate stickers online | https://www.ontario.ca/page/renew-drivers-licence |
 | Ottawa Traffic, Parking and Road Bans | Ottawa · Municipal | Service | View real-time traffic conditions, road closures, parking restrictions, and seasonal road bans in Ottawa | https://traffic.ottawa.ca/ |
+| PlowTO — Snow Plow Tracker | Toronto · Municipal | Live map | Near-real-time GPS map of Toronto's salters, road plows, sidewalk plows and cycling-network plows, with colour-coded streets showing how recently each was serviced. | https://www.toronto.ca/services-payments/streets-parking-transportation/road-maintenance/winter-maintenance/plowto/ |
 
 ### Quebec
 
@@ -1444,6 +1450,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | SAAQClic — Quebec Driver Services | Quebec · Provincial | Service | Quebec's online SAAQ portal for driver's licence, vehicle registration, and fines | https://saaq.gouv.qc.ca/en/online-services |
 | Allo-MTL — Montréal en temps réel | Montreal · Municipal | Real-time city map | Aggregates 20+ datasets: snow removal, parking signs, bike routes, trees, air quality, and more | https://donnees.montreal.ca/en/showcase/allo-mtl-montreal-temps-reel |
 | Montréal — Find a Towed Car | Montreal · Municipal | Lookup tool | Enter your licence plate or the spot where you parked to find out where the city towed your car during snow removal or roadwork. | https://montreal.ca/en/find-towed-car |
+| Montréal — Snow Removal Operations Map | Montreal · Municipal | Live map | See when your street is scheduled for snow clearing and loading, plus free incentive parking lots during operations — the map behind the INFO-Neige app. | https://montreal.ca/en/services/snow-removal-operations-map |
 | Saguenay Réseau routier — Données Québec | Saguenay · Municipal | Road network dataset | Saguenay municipal road centreline network — CSV, GeoJSON, and shapefile download from Données Québec. | https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay&q=r%C3%A9seau+routier |
 
 ### Atlantic Canada (NB, NS, PE, NL)
@@ -1675,6 +1682,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario Trails Council | Ontario · Agency | Trails finder | Searchable directory of 2,300+ Ontario trails across hiking, biking, paddling, and skiing | https://ontariotrails.on.ca/ |
+| Fish ON-Line | Ontario · Provincial | Interactive map | Ontario's angler map of 20,000+ waterbodies: fish species observed, stocking records, regulations and sanctuaries, access points and lake depth contours. | https://www.ontario.ca/page/how-use-fish-line |
 | Ontario Parks | Ontario · Provincial | Park finder / booking | Park discovery, camping, maps, and trip planning | https://www.ontarioparks.ca/ |
 | Caledon Trails Open Data | Caledon · Municipal | Trails GIS dataset | Caledon trail network GIS layers on the municipal open data hub — download paths and recreation routes or explore via the geohub. | https://geohub-caledon.hub.arcgis.com/ |
 
@@ -1729,6 +1737,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta Wildfire Status | Alberta · Provincial | Wildfire map | Live Alberta wildfire locations, sizes, causes, and fire bans | https://wildfire.alberta.ca/ |
+| Edmonton — Trees Map | Edmonton · Municipal | Interactive map | Map of 260,000+ city-maintained trees with species and location — the open-data inventory behind Edmonton's urban forest program. | https://data.edmonton.ca/Environmental-Services/Trees-Map/udbt-eiax |
 
 ### Saskatchewan
 
@@ -2058,6 +2067,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Calgary Heritage Inventory | Calgary · Municipal | Heritage inventory | Inventory of evaluated heritage resources in Calgary — search historic buildings and sites on Open Calgary. | https://data.calgary.ca/browse?category=Heritage |
 | Edmonton Register of Historic Resources | Edmonton · Municipal | Heritage register | Search Edmonton's Register of Historic Resources for municipally designated and inventoried heritage properties. | https://www.edmonton.ca/heritage |
+
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Winnipeg — Cemetery Burial Search | Winnipeg · Municipal | Search database | Search 124,000+ interment records from Winnipeg's three municipal cemeteries (Brookside, St. Vital, Transcona) with dates and exact section-lot-grave locations. | https://www.winnipeg.ca/services-programs/cemeteries/burial-search |
 
 ### Ontario
 
