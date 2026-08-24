@@ -15,6 +15,8 @@ const {
   JURISDICTION_TO_REGION,
 } = require('./categories');
 
+const newResources = require('./new-resources');
+
 const VALID_LEVELS = ['Federal', 'Provincial', 'Municipal', 'Regional', 'Agency', 'Crown Corp'];
 const VALID_JURISDICTIONS = Object.keys(JURISDICTION_TO_REGION);
 const REQUIRED_FIELDS = ['name', 'level', 'jurisdiction', 'category', 'type', 'description', 'url', 'tags'];
@@ -77,6 +79,7 @@ function validate() {
   }
 
   console.log(`Total entries: ${data.length}\n`);
+  console.log(`Staged entries in new-resources.js: ${newResources.length}\n`);
 
   const allErrors = [];
   const byLevel = {};
@@ -122,6 +125,21 @@ function validate() {
   console.log('-'.repeat(40));
   const topJur = Object.entries(byJurisdiction).sort((a, b) => b[1] - a[1]).slice(0, 20);
   for (const [j, count] of topJur) console.log(`  ${j}: ${count}`);
+
+  // Validate the staging queue (new-resources.js) with the same schema rules.
+  const existingUrls = new Set(
+    data.map((e) => String(e.url || '').toLowerCase().replace(/\/+$/, ''))
+  );
+  for (let i = 0; i < newResources.length; i++) {
+    const entry = newResources[i];
+    for (const err of validateEntry(entry, `staged-${i}`)) {
+      allErrors.push(`[staging] ${err}`);
+    }
+    const key = String(entry.url || '').toLowerCase().replace(/\/+$/, '');
+    if (key && existingUrls.has(key)) {
+      console.log(`  [staging] note: already in catalog (migrate.js will skip): ${entry.url}`);
+    }
+  }
 
   if (allErrors.length > 0) {
     console.error('\nVALIDATION ERRORS:');

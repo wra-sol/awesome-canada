@@ -2,7 +2,9 @@
 
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
-[![CI](https://github.com/awesome-canada/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/awesome-canada/awesome-canada/actions/workflows/validate.yml)
+[![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
+[![Deploy](https://github.com/wra-sol/awesome-canada/actions/workflows/deploy-cloudflare.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/deploy-cloudflare.yml)
+[![Daily Clean](https://github.com/wra-sol/awesome-canada/actions/workflows/daily-clean.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/daily-clean.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 

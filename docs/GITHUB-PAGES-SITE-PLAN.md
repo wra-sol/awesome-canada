@@ -2,7 +2,7 @@
 
 **Goal:** A fast, searchable, filterable directory website for awesome-canada resources, deployed to GitHub Pages.
 
-**Status:** Planning  
+**Status:** Superseded — site now deploys to **Cloudflare Pages** (`awesome-canada.pages.dev`) via `.github/workflows/deploy-cloudflare.yml`. Kept for history.  
 **Stack:** Static HTML/JS/CSS (no build framework — vanilla for longevity)  
 **Data Source:** `data/resources.json` (source of truth)  
 **Deploy Target:** GitHub Pages via `gh-pages` branch  

@@ -1,0 +1,121 @@
+name: Daily Research
+
+on:
+  schedule:
+    - cron: '0 5 * * *'   # 05:00 UTC daily, after the cleaning job
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: "daily-research"
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run discovery probes
+        run: python3 scripts/discover-candidates.py
+
+      - name: Stage verified candidates
+        run: node scripts/stage-candidates.js
+
+      - name: Commit staging branch
+        id: commit
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BRANCH=research/staged
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # If the previous research PR was already merged, retire the old branch
+          MERGED_COUNT=$(gh pr list --head "$BRANCH" --state merged --json number | node -e "let d='';process.stdin.on('data',c=>d+=c).on('end',()=>console.log(JSON.parse(d).length))")
+          if [ "$MERGED_COUNT" != "0" ] && git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+            echo "Previous research PR was merged — starting a fresh branch"
+            git push origin --delete "$BRANCH" || true
+          fi
+
+          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+            git checkout -B "$BRANCH" "origin/$BRANCH"
+            git merge --no-edit origin/master || {
+              echo "⚠️ Merge conflict with master — abandoning rolling branch";
+              git merge --abort
+              git checkout -B "$BRANCH" origin/master
+            }
+          else
+            git checkout -B "$BRANCH" origin/master
+          fi
+
+          git add scripts/new-resources.js scripts/candidates.json docs/reports/
+          if git diff --cached --quiet; then
+            echo "No changes to stage"
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          DATE=$(date -u '+%Y-%m-%d')
+          NEW=$(node -e "try{console.log(JSON.parse(require('fs').readFileSync('scripts/candidates.json')).length)}catch{console.log(0)}")
+          git commit -m "research: stage $NEW candidate resource(s) [$DATE]"
+          git push origin "$BRANCH"
+          echo "has_changes=true" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update research PR
+        if: steps.commit.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BRANCH=research/staged
+          DATE=$(date -u '+%Y-%m-%d')
+
+          cat > /tmp/pr-body.md <<EOF
+          ## 🔭 Daily research candidates — ${DATE}
+
+          Automated discovery run per \`docs/DATA-SCOUTING-STRATEGY.md\`. Probes checked the documented hosting patterns (eScribe, CivicWeb, AllNetMeetings, ArcGIS Hub OGC API) against mid-size jurisdictions missing Tier‑1 coverage. Every URL was verified live (HTTP 200) before staging.
+
+          ### Pipeline reminder
+          1. **You review** descriptions/URLs below and merge this PR
+          2. The nightly **cleaning job** runs \`migrate.js\`, folding staged entries into \`data/resources.json\`, regenerates the README, validates, commits, and auto-deploys to Cloudflare Pages
+
+          ### Review guidance
+          - Spot-check that each portal actually belongs to the named city
+          - Placeholder ArcGIS hubs are already rejected (401 on items API)
+          - Edit descriptions directly in this PR if you can enrich them
+
+          $(node -e "
+            const c = JSON.parse(require('fs').readFileSync('scripts/candidates.json','utf8'));
+            if (!c.length) { console.log('_No new candidates in this run._'); }
+            for (const e of c) console.log('- **' + e.name + '** — `' + e.url + '`');
+          ")
+          EOF
+
+          EXISTING=$(gh pr list --head "$BRANCH" --state open --json number | node -e "let d='';process.stdin.on('data',c=>d+=c).on('end',()=>console.log(JSON.parse(d).length))")
+          if [ "$EXISTING" != "0" ]; then
+            gh pr edit "$BRANCH" --body-file /tmp/pr-body.md --title "Research: new resource candidates (${DATE})"
+            echo "Updated existing research PR"
+          else
+            gh pr create \
+              --base master \
+              --head "$BRANCH" \
+              --title "Research: new resource candidates (${DATE})" \
+              --body-file /tmp/pr-body.md
+            echo "Created research PR"
+          fi

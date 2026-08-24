@@ -1,0 +1,80 @@
+name: Daily Link Cleaning
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # 04:00 UTC daily, before the research job
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Check links but do not modify anything'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "daily-maintenance"
+  cancel-in-progress: false
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Clean dead links
+        run: python3 scripts/daily-clean.py ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Merge staged research resources
+        if: ${{ !inputs.dry_run }}
+        run: |
+          COUNT=$(node -e "const n=require('./scripts/new-resources'); console.log(n.length);")
+          echo "Staged entries in new-resources.js: $COUNT"
+          if [ "$COUNT" -gt 0 ]; then
+            node scripts/migrate.js
+          fi
+
+      - name: Regenerate README
+        if: ${{ !inputs.dry_run }}
+        run: node scripts/generate-readme.js
+
+      - name: Validate data
+        if: ${{ !inputs.dry_run }}
+        run: node scripts/validate.js
+
+      - name: Commit and push
+        id: commit
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "chore(maintenance): daily link clean + data refresh [$TIMESTAMP]"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Nothing to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  deploy:
+    needs: clean
+    if: ${{ needs.clean.outputs.changed == 'true' }}
+    uses: ./.github/workflows/deploy-cloudflare.yml
+    secrets: inherit

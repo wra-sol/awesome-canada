@@ -16006,5 +16006,96 @@
       "transparency"
     ],
     "dateAdded": "2026-07-21"
+  },
+  {
+    "name": "Langley — Budget and Financial Plan",
+    "level": "Municipal",
+    "jurisdiction": "Langley",
+    "category": "budget",
+    "type": "Financial plan",
+    "description": "Township of Langley five-year financial plan with direct PDF downloads of operating and capital budget slides, approved changes, and capital investment plans.",
+    "url": "https://www.tol.ca/en/the-township/budget-and-financial-plan-2025.aspx",
+    "tags": [
+      "pdf",
+      "langley",
+      "british columbia",
+      "budget",
+      "capital plan",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-22"
+  },
+  {
+    "name": "Kentville — Budget & Financial Statements",
+    "level": "Municipal",
+    "jurisdiction": "Kentville",
+    "category": "budget",
+    "type": "Financial report",
+    "description": "Town of Kentville direct PDF downloads of approved operating budgets, five-year capital investment plans, and audited consolidated financial statements.",
+    "url": "https://kentville.ca/town-files/rates-and-finances",
+    "tags": [
+      "pdf",
+      "kentville",
+      "nova scotia",
+      "budget",
+      "financial statements",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-22"
+  },
+  {
+    "name": "Timmins — Budget Documents",
+    "level": "Municipal",
+    "jurisdiction": "Timmins",
+    "category": "budget",
+    "type": "Budget package",
+    "description": "City of Timmins direct PDF downloads of Council Budget Packages, Water & Wastewater Budget Packages, and Other Funds budgets for 2024–2026.",
+    "url": "https://www.timmins.ca/our_services/finance/budget_documents",
+    "tags": [
+      "pdf",
+      "timmins",
+      "ontario",
+      "budget",
+      "water",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-22"
+  },
+  {
+    "name": "Gander — Budget & Finance",
+    "level": "Municipal",
+    "jurisdiction": "Gander",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Town of Gander direct PDF downloads of municipal budgets, tax rates and fees, and schedule of rates for 2022–2026.",
+    "url": "https://www.gandercanada.com/municipal-government/budget-finance/",
+    "tags": [
+      "pdf",
+      "gander",
+      "newfoundland and labrador",
+      "budget",
+      "tax rates",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-22"
+  },
+  {
+    "name": "Rimouski — Council Agendas & Minutes",
+    "level": "Municipal",
+    "jurisdiction": "Rimouski",
+    "category": "council",
+    "type": "Meeting documents",
+    "description": "Ville de Rimouski council meeting agendas (ordres du jour), approved minutes (procès-verbaux), and live webcast archives. Downloadable PDFs.",
+    "url": "https://rimouski.ca/ville/democratie/seances-du-conseil",
+    "tags": [
+      "pdf",
+      "rimouski",
+      "quebec",
+      "council",
+      "agendas",
+      "minutes",
+      "transparency"
+    ],
+    "dateAdded": "2026-07-22"
   }
 ]

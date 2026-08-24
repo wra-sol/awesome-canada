@@ -145,7 +145,7 @@ This directory **prioritizes municipal and provincial data sources** — but fed
 
 - Total resources: **1026**
 - Municipal + provincial + regional: **~70%** of catalog
-- Live site: [wra-sol.github.io/awesome-canada](https://wra-sol.github.io/awesome-canada/) — searchable, filterable directory
+- Live site: [awesome-canada.pages.dev](https://awesome-canada.pages.dev/) — searchable, filterable directory (Cloudflare Pages; GitHub Pages retired 2026-08)
 - Priority categories deepened: `planning-zoning` (68), `council` (108), `lobbyist` (14), `heritage` registers (15), `health-region` (24), `transit` GTFS (59), `weather` (11), `budget` (81), `school-board` (37), `open-data` (154), `environment` (26)
 - Provincial lobbyist registries now cover ON, QC, AB, BC, SK, MB, NB, NS, NL, PEI
 - **All 4 previously zero-entry Quebec mid-size cities now have entries** — Rouyn-Noranda (ArcGIS Hub open data portal with 19 datasets), Shawinigan (council agendas/minutes PDFs), Repentigny (council + budget PDFs), Rimouski (budget + financial reports PDFs). No jurisdictions remain at zero entries.
