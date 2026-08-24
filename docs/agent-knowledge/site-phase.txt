@@ -1,5 +1,5 @@
 phase: 2
-stable_runs: 75
-last_run: 2026-07-22T12:00:00Z
+stable_runs: 76
+last_run: 2026-08-24T02:30:00Z
 last_status: ok
-notes: Added 5 Tier-1 gap-fill entries for municipalities with 1-2 existing entries. Langley — Budget and Financial Plan (BC), Kentville — Budget & Financial Statements (NS), Timmins — Budget Documents (ON), Gander — Budget & Finance (NL), Rimouski — Council Agendas & Minutes (QC). Total now 1026 resources. Validation passes.
+notes: First automated scouting run — 29 verified entries added (12 ArcGIS Hub open-data portals, 17 council portals) via scripts/discover-candidates.py full 137-city gap sweep; every URL ownership-checked before staging (Yorkton hub + St. Thomas eScribe + Woodstock Catalis rejected). Hosting migrated to Cloudflare Pages (awesome-canada.pages.dev); nightly clean (04:00 UTC) and research (05:00 UTC) jobs wired. Total now 1055 resources. Validation passes.
