@@ -985,5 +985,347 @@ module.exports = [
       "zoning"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Bank of Canada — Valet API",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "API",
+    "description": "Free REST API for Bank of Canada datasets: policy interest rate, exchange rates, CPI, money markets, and macro indicators with JSON/CSV output and interactive series builder.",
+    "url": "https://www.bankofcanada.ca/valet/",
+    "tags": [
+      "api",
+      "bank of canada",
+      "cpi",
+      "exchange rates",
+      "interest rates"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Office of the Commissioner of Lobbying — Lobbyist Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Searchable federal registry of in-house and consultant lobbyists: who is lobbying which officials, on what subject, for whom, and when. Note: site blocks automated requests; browse manually.",
+    "url": "https://lobbycanada.gc.ca/",
+    "tags": [
+      "federal",
+      "lobbying",
+      "registry",
+      "transparency"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Parliamentary Budget Officer — Reports & Costings",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "budget",
+    "type": "Budget watchdog",
+    "description": "Independent budget analysis for Parliament: election platform costings, fiscal projections, departmental spending analyses, and custom costing requests. Complements the absence of federal line-by-line budget data tools.",
+    "url": "https://www.pbo-dpb.gc.ca/",
+    "tags": [
+      "budget",
+      "costings",
+      "fiscal",
+      "parliament",
+      "pbo"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "LEGISinfo — Federal Bill Tracker",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Legislation tracker",
+    "description": "Tracks every federal bill through Parliament: full text at each stage, sponsor, legislative summaries, votes, coming-into-force data, with JSON/XML/RSS exports back to the 35th Parliament (1994).",
+    "url": "https://www.parl.ca/legisinfo/en/bills",
+    "tags": [
+      "bills",
+      "legislation",
+      "open data",
+      "parliament",
+      "rss"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Elections Canada — Political Contributions Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Contributions database",
+    "description": "Searchable database of contributions to federal political parties, riding associations, and candidates — donor names, amounts, and dates, as reviewed by Elections Canada.",
+    "url": "https://www.elections.ca/wpapps/WPF/EN/CCS/Index?returntype=1",
+    "tags": [
+      "campaign finance",
+      "contributions",
+      "donors",
+      "elections"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Elections Canada — Political Financing Open Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Dataset bundle",
+    "description": "Bulk CSV downloads of political financing data dating back to 1993: reviewed and as-filed contribution details for all political entities, plus financial returns.",
+    "url": "https://www.elections.ca/content.aspx?section=fin&dir=oda&document=index&lang=e",
+    "tags": [
+      "bulk download",
+      "campaign finance",
+      "csv",
+      "elections"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Elections Canada — Political Entity Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Registry",
+    "description": "Current and historical registry of federal political parties, riding associations, candidates, and third parties registered with Elections Canada.",
+    "url": "https://www.elections.ca/WPAPPS/WPR/EN",
+    "tags": [
+      "elections",
+      "political parties",
+      "registry",
+      "third parties"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Canadian Hydrographic Service — Tides & Water Levels Archive",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Monitoring data",
+    "description": "Historical, downloadable observed water-level data from 968 CHS gauges across Canada, plus real-time observations and predictions via the IWLS API, benchmarks, and Great Lakes monthly means since 1918.",
+    "url": "https://www.tides.gc.ca/en/tides-and-water-levels-data-archive",
+    "tags": [
+      "coastal",
+      "great lakes",
+      "hydrography",
+      "tides",
+      "water levels"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Health Canada — Recalls & Safety Alerts",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Alerts database",
+    "description": "Searchable national database of consumer product, food, and health product recalls and safety alerts, filterable by category, date, and brand.",
+    "url": "https://healthycanadians.gc.ca/recall-alert-rappel-avis/index-eng.php",
+    "tags": [
+      "consumer products",
+      "food safety",
+      "health",
+      "recalls"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Impact Assessment Agency — Canadian Impact Assessment Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Project registry",
+    "description": "Official registry of federally designated projects under the Impact Assessment Act: proposals, assessments in progress, conditions, and decisions, searchable by region, type, and status.",
+    "url": "https://iaac-aeic.gc.ca/050/evaluations",
+    "tags": [
+      "environment",
+      "impact assessment",
+      "major projects",
+      "regulatory"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Canadian Register of Historic Places",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Pan-Canadian register (federal-provincial partnership) documenting 12,000+ recognized historic places: federal heritage designations, provincial registers, and municipal landmarks with statements of significance.",
+    "url": "https://www.historicplaces.ca/en/pages/1_home.aspx",
+    "tags": [
+      "conservation",
+      "heritage",
+      "historic places",
+      "register"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "CRTC — Internet & Broadband Coverage",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Coverage data",
+    "description": "Regulatory data and maps on Canadian broadband availability, speeds, and service quality — the basis for CRTC connectivity targets and funding decisions.",
+    "url": "https://crtc.gc.ca/eng/internet/internet.htm",
+    "tags": [
+      "broadband",
+      "coverage",
+      "crtc",
+      "internet",
+      "telecom"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Canada's Business Registries (ISED)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Business registry search",
+    "description": "Free cross-provincial business lookup aggregating the official registries of AB, BC, MB, NS, ON, QC, SK, and Corporations Canada — one search across jurisdictions.",
+    "url": "https://ised-isde.canada.ca/cbr-rec/",
+    "tags": [
+      "business registry",
+      "corporations",
+      "cross-provincial",
+      "search"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Ontario — Environmental Registry (ERO)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Decision registry",
+    "description": "Official public notice and comment registry for Ontario environmentally significant proposals: policies, permits (incl. water takings), and regulations open for comment, with ministry decisions posted.",
+    "url": "https://ero.ontario.ca/",
+    "tags": [
+      "environment",
+      "permits",
+      "public comments",
+      "regulation"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Ontario Land Tribunal — Decisions",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "planning-zoning",
+    "type": "Tribunal decisions",
+    "description": "Full-text decisions of the OLT and predecessors (OMB, LPAT, ERT) on land-use planning appeals, zoning by-laws, official plan amendments, and heritage disputes; searchable by municipality and keyword. Case status portal covers active files.",
+    "url": "https://olt.gov.on.ca/decisions/",
+    "tags": [
+      "decisions",
+      "olt",
+      "omb",
+      "planning appeals",
+      "zoning"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Ontario — Political Contributions Search",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "elections",
+    "type": "Contributions database",
+    "description": "Searchable register of provincial political contributions (414,000+ records) — donors to Ontario parties, candidates, and associations with downloadable results.",
+    "url": "https://finances.elections.on.ca/en/contributions",
+    "tags": [
+      "campaign finance",
+      "donors",
+      "elections",
+      "ontario"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "British Columbia — Political Contributions Search (FRPC)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "elections",
+    "type": "Contributions database",
+    "description": "Elections BC's Financial Reports and Political Contributions system: combined contribution searches over $250 by contributor class (individual, corporation, union) with bulk download options.",
+    "url": "https://contributions.electionsbc.gov.bc.ca/pcs/sa1asearch.aspx",
+    "tags": [
+      "bc",
+      "campaign finance",
+      "donors",
+      "elections"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Saskatchewan — Contribution Search Tool",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "elections",
+    "type": "Contributions database",
+    "description": "Elections Saskatchewan's searchable political contribution tool with per-party, per-year filtering and downloadable fiscal-period returns from 2016 onward.",
+    "url": "https://www.elections.sk.ca/reports-data/candidate-political-party-finances/contribution-search-tool/",
+    "tags": [
+      "campaign finance",
+      "donors",
+      "elections",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "GeoNova — Nova Scotia Geospatial Data",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "open-data",
+    "type": "Geospatial portal",
+    "description": "Nova Scotia's provincial geospatial data clearinghouse: property-related fabric, topographic layers, imagery, and administrative boundaries with WMS/WFS services and downloads.",
+    "url": "https://geonova.novascotia.ca/",
+    "tags": [
+      "geospatial",
+      "gis",
+      "maps",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Ontario — OnLand Property Records",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "housing",
+    "type": "Land registry",
+    "description": "Ontario's official electronic land registration system: title searches, parcel registers, and property imagery for land titles and registry act properties across the province.",
+    "url": "https://www.onland.ca/",
+    "tags": [
+      "land titles",
+      "ontario",
+      "property records",
+      "title search"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Québec — Registre des entreprises",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "business",
+    "type": "Business registry",
+    "description": "Quebec's official enterprise registry: search corporations, sole proprietorships, and nonprofits by name or NEQ number for status, directors, and filings. Note: site blocks automated requests; browse manually.",
+    "url": "https://www.registreentreprises.gouv.qc.ca/",
+    "tags": [
+      "corporations",
+      "entreprises",
+      "quebec",
+      "registry"
+    ],
+    "dateAdded": "2026-08-24"
   }
 ];

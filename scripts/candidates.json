@@ -1,290 +1,343 @@
 [
   {
-    "name": "Airdrie \u2014 Airdrie Land Use Districts",
-    "level": "Municipal",
-    "jurisdiction": "Airdrie",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Airdrie Land Use Districts \u2014 Feature Service on the Airdrie open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-airdrie.opendata.arcgis.com/datasets/5dd3c1196f4248e5ac218674c7513a5d/about",
+    "name": "Bank of Canada \u2014 Valet API",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "API",
+    "description": "Free REST API for Bank of Canada datasets: policy interest rate, exchange rates, CPI, money markets, and macro indicators with JSON/CSV output and interactive series builder.",
+    "url": "https://www.bankofcanada.ca/valet/",
     "tags": [
-      "airdrie",
-      "land use",
-      "planning",
-      "verified",
+      "api",
+      "bank of canada",
+      "cpi",
+      "exchange rates",
+      "interest rates"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Office of the Commissioner of Lobbying \u2014 Lobbyist Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Searchable federal registry of in-house and consultant lobbyists: who is lobbying which officials, on what subject, for whom, and when. Note: site blocks automated requests; browse manually.",
+    "url": "https://lobbycanada.gc.ca/",
+    "tags": [
+      "federal",
+      "lobbying",
+      "registry",
+      "transparency"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Parliamentary Budget Officer \u2014 Reports & Costings",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "budget",
+    "type": "Budget watchdog",
+    "description": "Independent budget analysis for Parliament: election platform costings, fiscal projections, departmental spending analyses, and custom costing requests. Complements the absence of federal line-by-line budget data tools.",
+    "url": "https://www.pbo-dpb.gc.ca/",
+    "tags": [
+      "budget",
+      "costings",
+      "fiscal",
+      "parliament",
+      "pbo"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "LEGISinfo \u2014 Federal Bill Tracker",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Legislation tracker",
+    "description": "Tracks every federal bill through Parliament: full text at each stage, sponsor, legislative summaries, votes, coming-into-force data, with JSON/XML/RSS exports back to the 35th Parliament (1994).",
+    "url": "https://www.parl.ca/legisinfo/en/bills",
+    "tags": [
+      "bills",
+      "legislation",
+      "open data",
+      "parliament",
+      "rss"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Elections Canada \u2014 Political Contributions Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Contributions database",
+    "description": "Searchable database of contributions to federal political parties, riding associations, and candidates \u2014 donor names, amounts, and dates, as reviewed by Elections Canada.",
+    "url": "https://www.elections.ca/wpapps/WPF/EN/CCS/Index?returntype=1",
+    "tags": [
+      "campaign finance",
+      "contributions",
+      "donors",
+      "elections"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Elections Canada \u2014 Political Financing Open Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Dataset bundle",
+    "description": "Bulk CSV downloads of political financing data dating back to 1993: reviewed and as-filed contribution details for all political entities, plus financial returns.",
+    "url": "https://www.elections.ca/content.aspx?section=fin&dir=oda&document=index&lang=e",
+    "tags": [
+      "bulk download",
+      "campaign finance",
+      "csv",
+      "elections"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Elections Canada \u2014 Political Entity Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Registry",
+    "description": "Current and historical registry of federal political parties, riding associations, candidates, and third parties registered with Elections Canada.",
+    "url": "https://www.elections.ca/WPAPPS/WPR/EN",
+    "tags": [
+      "elections",
+      "political parties",
+      "registry",
+      "third parties"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Canadian Hydrographic Service \u2014 Tides & Water Levels Archive",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Monitoring data",
+    "description": "Historical, downloadable observed water-level data from 968 CHS gauges across Canada, plus real-time observations and predictions via the IWLS API, benchmarks, and Great Lakes monthly means since 1918.",
+    "url": "https://www.tides.gc.ca/en/tides-and-water-levels-data-archive",
+    "tags": [
+      "coastal",
+      "great lakes",
+      "hydrography",
+      "tides",
+      "water levels"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Health Canada \u2014 Recalls & Safety Alerts",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Alerts database",
+    "description": "Searchable national database of consumer product, food, and health product recalls and safety alerts, filterable by category, date, and brand.",
+    "url": "https://healthycanadians.gc.ca/recall-alert-rappel-avis/index-eng.php",
+    "tags": [
+      "consumer products",
+      "food safety",
+      "health",
+      "recalls"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Impact Assessment Agency \u2014 Canadian Impact Assessment Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Project registry",
+    "description": "Official registry of federally designated projects under the Impact Assessment Act: proposals, assessments in progress, conditions, and decisions, searchable by region, type, and status.",
+    "url": "https://iaac-aeic.gc.ca/050/evaluations",
+    "tags": [
+      "environment",
+      "impact assessment",
+      "major projects",
+      "regulatory"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Canadian Register of Historic Places",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Pan-Canadian register (federal-provincial partnership) documenting 12,000+ recognized historic places: federal heritage designations, provincial registers, and municipal landmarks with statements of significance.",
+    "url": "https://www.historicplaces.ca/en/pages/1_home.aspx",
+    "tags": [
+      "conservation",
+      "heritage",
+      "historic places",
+      "register"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "CRTC \u2014 Internet & Broadband Coverage",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Coverage data",
+    "description": "Regulatory data and maps on Canadian broadband availability, speeds, and service quality \u2014 the basis for CRTC connectivity targets and funding decisions.",
+    "url": "https://crtc.gc.ca/eng/internet/internet.htm",
+    "tags": [
+      "broadband",
+      "coverage",
+      "crtc",
+      "internet",
+      "telecom"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Canada's Business Registries (ISED)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Business registry search",
+    "description": "Free cross-provincial business lookup aggregating the official registries of AB, BC, MB, NS, ON, QC, SK, and Corporations Canada \u2014 one search across jurisdictions.",
+    "url": "https://ised-isde.canada.ca/cbr-rec/",
+    "tags": [
+      "business registry",
+      "corporations",
+      "cross-provincial",
+      "search"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Ontario \u2014 Environmental Registry (ERO)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Decision registry",
+    "description": "Official public notice and comment registry for Ontario environmentally significant proposals: policies, permits (incl. water takings), and regulations open for comment, with ministry decisions posted.",
+    "url": "https://ero.ontario.ca/",
+    "tags": [
+      "environment",
+      "permits",
+      "public comments",
+      "regulation"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Ontario Land Tribunal \u2014 Decisions",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "planning-zoning",
+    "type": "Tribunal decisions",
+    "description": "Full-text decisions of the OLT and predecessors (OMB, LPAT, ERT) on land-use planning appeals, zoning by-laws, official plan amendments, and heritage disputes; searchable by municipality and keyword. Case status portal covers active files.",
+    "url": "https://olt.gov.on.ca/decisions/",
+    "tags": [
+      "decisions",
+      "olt",
+      "omb",
+      "planning appeals",
       "zoning"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Brampton \u2014 Current Zoning Final",
-    "level": "Municipal",
-    "jurisdiction": "Brampton",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Current Zoning Final \u2014 Feature Service on the Brampton open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://brampton.opendata.arcgis.com/datasets/227cea1df40a452d80211352510522e7/about",
+    "name": "Ontario \u2014 Political Contributions Search",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "elections",
+    "type": "Contributions database",
+    "description": "Searchable register of provincial political contributions (414,000+ records) \u2014 donors to Ontario parties, candidates, and associations with downloadable results.",
+    "url": "https://finances.elections.on.ca/en/contributions",
     "tags": [
-      "brampton",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
+      "campaign finance",
+      "donors",
+      "elections",
+      "ontario"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Burlington \u2014 Zoning ByLaw",
-    "level": "Municipal",
-    "jurisdiction": "Burlington",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning ByLaw \u2014 Feature Service on the Burlington open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://navburl-burlington.opendata.arcgis.com/datasets/41ddbd93d8d14293b4608ac9a7fc1bd4/about",
+    "name": "British Columbia \u2014 Political Contributions Search (FRPC)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "elections",
+    "type": "Contributions database",
+    "description": "Elections BC's Financial Reports and Political Contributions system: combined contribution searches over $250 by contributor class (individual, corporation, union) with bulk download options.",
+    "url": "https://contributions.electionsbc.gov.bc.ca/pcs/sa1asearch.aspx",
     "tags": [
-      "burlington",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
+      "bc",
+      "campaign finance",
+      "donors",
+      "elections"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Canmore \u2014 Canmore_Land_Use_Districts",
-    "level": "Municipal",
-    "jurisdiction": "Canmore",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Canmore_Land_Use_Districts \u2014 Feature Service on the Canmore open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://opendata-canmore.opendata.arcgis.com/datasets/a0117c599e95492e97d67a8a26e60e13/about",
+    "name": "Saskatchewan \u2014 Contribution Search Tool",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "elections",
+    "type": "Contributions database",
+    "description": "Elections Saskatchewan's searchable political contribution tool with per-party, per-year filtering and downloadable fiscal-period returns from 2016 onward.",
+    "url": "https://www.elections.sk.ca/reports-data/candidate-political-party-finances/contribution-search-tool/",
     "tags": [
-      "canmore",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
+      "campaign finance",
+      "donors",
+      "elections",
+      "saskatchewan"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Courtenay \u2014 Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Courtenay",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning \u2014 Feature Service on the Courtenay open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-courtenay.opendata.arcgis.com/datasets/bd116205a44543848799b311f5740098/about",
+    "name": "GeoNova \u2014 Nova Scotia Geospatial Data",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "open-data",
+    "type": "Geospatial portal",
+    "description": "Nova Scotia's provincial geospatial data clearinghouse: property-related fabric, topographic layers, imagery, and administrative boundaries with WMS/WFS services and downloads.",
+    "url": "https://geonova.novascotia.ca/",
     "tags": [
-      "courtenay",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
+      "geospatial",
+      "gis",
+      "maps",
+      "nova scotia"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Delta \u2014 Building Permits",
-    "level": "Municipal",
-    "jurisdiction": "Delta",
-    "category": "planning-zoning",
-    "type": "Building permits dataset",
-    "description": "Building Permits \u2014 Feature Service on the Delta open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://opendata-deltabc.hub.arcgis.com/datasets/11be3157551143288da19b4a3f14b301/about",
+    "name": "Ontario \u2014 OnLand Property Records",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "housing",
+    "type": "Land registry",
+    "description": "Ontario's official electronic land registration system: title searches, parcel registers, and property imagery for land titles and registry act properties across the province.",
+    "url": "https://www.onland.ca/",
     "tags": [
-      "delta",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
+      "land titles",
+      "ontario",
+      "property records",
+      "title search"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Halifax \u2014 Zoning Boundaries",
-    "level": "Municipal",
-    "jurisdiction": "Halifax",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning Boundaries \u2014 Feature Service on the Halifax open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-hrm.hub.arcgis.com/datasets/11adc4e1e52a45b5b9f6bc63ef6e0883/about",
+    "name": "Qu\u00e9bec \u2014 Registre des entreprises",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "business",
+    "type": "Business registry",
+    "description": "Quebec's official enterprise registry: search corporations, sole proprietorships, and nonprofits by name or NEQ number for status, directors, and filings. Note: site blocks automated requests; browse manually.",
+    "url": "https://www.registreentreprises.gouv.qc.ca/",
     "tags": [
-      "halifax",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Huron County \u2014 Planning_Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Huron County",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Planning_Zoning \u2014 Feature Service on the Huron County open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-huron.opendata.arcgis.com/datasets/6b395e0a540043b5a1780618ea8b5d22/about",
-    "tags": [
-      "huroncounty",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Langley \u2014 Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Langley",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning \u2014 Feature Service on the Langley open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-tol.opendata.arcgis.com/datasets/053600a55cd24e91aea299efda1fba4b/about",
-    "tags": [
-      "land use",
-      "langley",
-      "planning",
-      "verified",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Milton \u2014 Rural Zoning (By-law 144-2003)",
-    "level": "Municipal",
-    "jurisdiction": "Milton",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Rural Zoning (By-law 144-2003) \u2014 Feature Service on the Milton open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://discover-milton.hub.arcgis.com/datasets/48a3f0c2ddb143acb2d8b36d99606f4e/about",
-    "tags": [
-      "land use",
-      "milton",
-      "planning",
-      "verified",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Oakville \u2014 Zoning By Law 2014-014",
-    "level": "Municipal",
-    "jurisdiction": "Oakville",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning By Law 2014-014 \u2014 Feature Service on the Oakville open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://portal-exploreoakville.opendata.arcgis.com/datasets/54d77fc2abd34bc694b4ea1e57e2fa1c/about",
-    "tags": [
-      "land use",
-      "oakville",
-      "planning",
-      "verified",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Oshawa \u2014 Oshawa Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Oshawa",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Oshawa Zoning \u2014 Feature Service on the Oshawa open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://city-oshawa.opendata.arcgis.com/datasets/dee9180066de48c684a34ab6c35ac62a/about",
-    "tags": [
-      "land use",
-      "oshawa",
-      "planning",
-      "verified",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Peterborough \u2014 Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Peterborough",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning \u2014 Feature Service on the Peterborough open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-ptbo.opendata.arcgis.com/datasets/05dd127dbd1a4a3b83566d0fde6b576b/about",
-    "tags": [
-      "land use",
-      "peterborough",
-      "planning",
-      "verified",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Prince George \u2014 Zoning Bylaw 7850 Class",
-    "level": "Municipal",
-    "jurisdiction": "Prince George",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning Bylaw 7850 Class \u2014 Feature Service on the Prince George open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-cityofpg.opendata.arcgis.com/datasets/88d25f411d9647e692ddf4da01fa1b8a/about",
-    "tags": [
-      "land use",
-      "planning",
-      "princegeorge",
-      "verified",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Rouyn-Noranda \u2014 Plan de zonage",
-    "level": "Municipal",
-    "jurisdiction": "Rouyn-Noranda",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Plan de zonage \u2014 Feature Service on the Rouyn-Noranda open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://donnees-ouvertes-vrn.opendata.arcgis.com/datasets/4a69c2484a2540de9f9eb58b908d4d0f/about",
-    "tags": [
-      "land use",
-      "planning",
-      "rouyn-noranda",
-      "verified",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Summerside \u2014 Zoning View",
-    "level": "Municipal",
-    "jurisdiction": "Summerside",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning View \u2014 Feature Service on the Summerside open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://summerside.opendata.arcgis.com/datasets/f6357d6615734a7cb5d895b159eccdc5/about",
-    "tags": [
-      "land use",
-      "planning",
-      "summerside",
-      "verified",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Whistler \u2014 Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Whistler",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning \u2014 Feature Service on the Whistler open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://portal-rmow.opendata.arcgis.com/datasets/c2e167bd30f44bd0a95e9d91c37aa65f/about",
-    "tags": [
-      "land use",
-      "planning",
-      "verified",
-      "whistler",
-      "zoning"
+      "corporations",
+      "entreprises",
+      "quebec",
+      "registry"
     ],
     "dateAdded": "2026-08-24"
   }
