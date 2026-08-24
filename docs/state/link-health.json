@@ -1,0 +1,152 @@
+{
+  "https://inspection.canada.ca/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.grainscanada.gc.ca/": {
+    "failures": 0,
+    "status": "server_error",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.bcliquorstores.com/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.mynslc.com/": {
+    "failures": 0,
+    "status": "blocked",
+    "last_checked": "2026-08-24"
+  },
+  "https://vqaontario.ca/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.mbll.ca/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.lcbo.com/": {
+    "failures": 0,
+    "status": "blocked",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.fcc-fac.ca/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://agrifooddatacanada.ca/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.omafra.gov.on.ca/english/stats/crops/index.html": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.saskatchewan.ca/business/agriculture-natural-resources-and-industry": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.marineatlantic.ca/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing": {
+    "failures": 0,
+    "status": "blocked",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.saq.com/en": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.viarail.ca/en/plan": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.masc.mb.ca/masc.nsf/mmpp_index.html": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.navcanada.ca/en/aeronautical-information/": {
+    "failures": 0,
+    "status": "blocked",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.navcanada.ca/en/flight-planning/": {
+    "failures": 0,
+    "status": "blocked",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.yvr.ca/": {
+    "failures": 0,
+    "status": "blocked",
+    "last_checked": "2026-08-24"
+  },
+  "https://plan.navcanada.ca/wxrecall/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.saskatchewan.ca/crop-report": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.fadq.qc.ca/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.canada.ca/coast-guard": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.admtl.com/en": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.traversiers.com/en/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.torontopearson.com/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.rupertport.com/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.notmar.gc.ca/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  },
+  "https://agriculture.canada.ca/en": {
+    "failures": 0,
+    "status": "network_error",
+    "last_checked": "2026-08-24"
+  },
+  "https://www.ontario.ca/foodland/": {
+    "failures": 0,
+    "status": "ok",
+    "last_checked": "2026-08-24"
+  }
+}
