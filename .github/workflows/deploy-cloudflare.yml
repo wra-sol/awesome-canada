@@ -1,13 +1,11 @@
-name: Deploy Site to Cloudflare Pages
+name: Deploy Site to Cloudflare Pages (manual fallback)
+
+# Day-to-day deploys are handled by Cloudflare Pages' git-connected builds —
+# Cloudflare watches this repo and builds on every push (see
+# docs/DEPLOYMENT.md). This workflow is a manual fallback for when the git
+# connection is unavailable.
 
 on:
-  push:
-    branches: [main, master]
-    paths:
-      - 'data/resources.json'
-      - 'site/**'
-      - 'scripts/build-site.js'
-      - '.github/workflows/deploy-cloudflare.yml'
   workflow_dispatch:
   workflow_call:
 
@@ -31,11 +29,11 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Build site
-        run: node scripts/build-site.js
-
       - name: Validate data
         run: node scripts/validate.js
+
+      - name: Build site
+        run: node scripts/build-site.js
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3

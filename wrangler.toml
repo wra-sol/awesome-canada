@@ -1,0 +1,8 @@
+# Cloudflare Pages project configuration.
+# Deploys are git-connected: Cloudflare watches this repo and builds on every
+# push (see docs/DEPLOYMENT.md). This file also lets `wrangler pages deploy`
+# find the right project/output for the manual fallback workflow.
+
+name = "awesome-canada"
+pages_build_output_dir = "site"
+compatibility_date = "2026-08-24"
