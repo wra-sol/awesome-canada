@@ -1,6 +1,7 @@
 /**
  * Awesome Canada Directory — Client-side app
- * Loads resources.json, provides search, filter, sort, pagination.
+ * Loads resources.json + meta.json, provides search, filter, sort, pagination.
+ * Filter/search/sort/view state is mirrored into the URL so views are shareable.
  */
 
 (function () {
@@ -9,6 +10,7 @@
   const ITEMS_PER_PAGE = 24;
   let allResources = [];
   let filteredResources = [];
+  let categoryTitles = {};
   let currentPage = 1;
   let currentView = 'grid';
 
@@ -39,27 +41,66 @@
   };
 
   // Load data
-  fetch('data/resources.json')
-    .then(r => r.json())
-    .then(data => {
+  Promise.all([
+    fetch('data/resources.json').then(r => r.json()),
+    fetch('data/meta.json').then(r => r.json()).catch(() => ({ categories: {} }))
+  ])
+    .then(([data, meta]) => {
       allResources = data.map((r, i) => ({ ...r, _id: i }));
+      categoryTitles = meta.categories || {};
       initFilters();
+      readStateFromUrl();
       applyFilters();
     })
     .catch(err => {
       console.error('Failed to load resources:', err);
-      gridEl.innerHTML = '<p style="text-align:center;padding:40px;color:var(--color-slate)">Failed to load resources. Please refresh.</p>';
+      gridEl.innerHTML = '<div class="noscript-note"><p>Could not load the directory data. Please refresh, or <a href="https://github.com/wra-sol/awesome-canada#readme">read the list on GitHub</a>.</p></div>';
     });
+
+  function catLabel(id) {
+    return categoryTitles[id] || id;
+  }
+
+  // ---- URL state ----
+  function readStateFromUrl() {
+    const p = new URLSearchParams(location.search);
+    activeFilters.search = (p.get('q') || '').toLowerCase();
+    searchInput.value = p.get('q') || '';
+    searchClear.classList.toggle('visible', activeFilters.search.length > 0);
+
+    for (const [param, key] of [['level', 'level'], ['cat', 'category'], ['region', 'region']]) {
+      (p.get(param) || '').split('|').filter(Boolean).forEach(v => activeFilters[key].add(v));
+    }
+    document.querySelectorAll('.filter-checkboxes input[type="checkbox"]').forEach(cb => {
+      cb.checked = activeFilters[cb.dataset.filter].has(cb.value);
+    });
+
+    if (p.get('sort') && [...sortSelect.options].some(o => o.value === p.get('sort'))) {
+      sortSelect.value = p.get('sort');
+    }
+    if (p.get('view') === 'table') setView('table');
+    const page = parseInt(p.get('page'), 10);
+    if (!isNaN(page) && page > 0) currentPage = page;
+  }
+
+  function writeStateToUrl() {
+    const p = new URLSearchParams();
+    if (activeFilters.search) p.set('q', searchInput.value.trim());
+    if (activeFilters.level.size) p.set('level', [...activeFilters.level].join('|'));
+    if (activeFilters.category.size) p.set('cat', [...activeFilters.category].join('|'));
+    if (activeFilters.region.size) p.set('region', [...activeFilters.region].join('|'));
+    if (sortSelect.value !== 'name-asc') p.set('sort', sortSelect.value);
+    if (currentView !== 'grid') p.set('view', currentView);
+    if (currentPage > 1) p.set('page', String(currentPage));
+    const qs = p.toString();
+    history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+  }
 
   // Init filter UI
   function initFilters() {
-    const levels = countBy(allResources, 'level');
-    const categories = countBy(allResources, 'category');
-    const regions = countBy(allResources, 'jurisdiction');
-
-    renderCheckboxes(filterLevel, levels, 'level');
-    renderCheckboxes(filterCategory, categories, 'category');
-    renderCheckboxes(filterRegion, regions, 'region');
+    renderCheckboxes(filterLevel, countBy(allResources, 'level'), 'level', v => v);
+    renderCheckboxes(filterCategory, countBy(allResources, 'category'), 'category', catLabel);
+    renderCheckboxes(filterRegion, countBy(allResources, 'jurisdiction'), 'region', v => v);
   }
 
   function countBy(arr, key) {
@@ -71,13 +112,13 @@
     return Object.entries(counts).sort((a, b) => b[1] - a[1]);
   }
 
-  function renderCheckboxes(container, items, filterKey) {
+  function renderCheckboxes(container, items, filterKey, labelFn) {
     container.innerHTML = '';
     items.forEach(([value, count]) => {
       const label = document.createElement('label');
       label.innerHTML = `
         <input type="checkbox" value="${escapeHtml(value)}" data-filter="${filterKey}">
-        <span>${escapeHtml(value)}</span>
+        <span>${escapeHtml(labelFn(value))}</span>
         <span class="filter-count">${count}</span>
       `;
       container.appendChild(label);
@@ -122,12 +163,20 @@
   });
 
   // View toggle
+  function setView(view) {
+    currentView = view;
+    viewBtns.forEach(b => {
+      const active = b.dataset.view === view;
+      b.classList.toggle('active', active);
+      b.setAttribute('aria-pressed', String(active));
+    });
+  }
+
   viewBtns.forEach(btn => {
     btn.addEventListener('click', () => {
-      viewBtns.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      currentView = btn.dataset.view;
+      setView(btn.dataset.view);
       renderResults();
+      writeStateToUrl();
     });
   });
 
@@ -162,13 +211,9 @@
   // Apply filters + sort + paginate
   function applyFilters() {
     filteredResources = allResources.filter(r => {
-      // Level
       if (activeFilters.level.size > 0 && !activeFilters.level.has(r.level)) return false;
-      // Category
       if (activeFilters.category.size > 0 && !activeFilters.category.has(r.category)) return false;
-      // Region
       if (activeFilters.region.size > 0 && !activeFilters.region.has(r.jurisdiction)) return false;
-      // Search
       if (activeFilters.search) {
         const q = activeFilters.search;
         const text = `${r.name} ${r.description} ${r.tags?.join(' ') || ''}`.toLowerCase();
@@ -177,7 +222,6 @@
       return true;
     });
 
-    // Sort
     const sortVal = sortSelect.value;
     const [field, dir] = sortVal.split('-');
     filteredResources.sort((a, b) => {
@@ -194,6 +238,7 @@
 
     statsBar.textContent = `${filteredResources.length} of ${allResources.length} resources`;
     renderResults();
+    writeStateToUrl();
   }
 
   function renderResults() {
@@ -221,7 +266,7 @@
       renderGrid(pageItems);
     } else {
       gridEl.style.display = 'none';
-      tableEl.style.display = 'table';
+      tableEl.style.display = 'block';
       renderTable(pageItems);
     }
 
@@ -234,11 +279,11 @@
         <a class="card-main-link" href="${escapeHtml(r.url)}" target="_blank" rel="noopener">
           <div class="card-header">
             <div class="card-title">${highlight(escapeHtml(r.name), activeFilters.search)}</div>
-            <span class="card-link-icon">↗</span>
+            <svg class="card-link-icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" d="M6.5 3.5h-3v9h9v-3M9.5 2.5h4v4M13 3 7.5 8.5"/></svg>
           </div>
           <div class="card-badges">
             <span class="badge badge-level">${escapeHtml(r.level)}</span>
-            <span class="badge badge-category">${escapeHtml(r.category)}</span>
+            <span class="badge badge-category">${escapeHtml(catLabel(r.category))}</span>
             <span class="badge badge-jurisdiction">${escapeHtml(r.jurisdiction)}</span>
           </div>
           <div class="card-description">${highlight(escapeHtml(r.description), activeFilters.search)}</div>
@@ -247,9 +292,7 @@
           <div class="card-tags">
             ${(r.tags || []).slice(0, 4).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
           </div>
-          <a class="card-report" href="report.html?resource_name=${encodeURIComponent(r.name)}&current_url=${encodeURIComponent(r.url)}" title="Report this link as broken">
-            <span>⚠</span> Report
-          </a>
+          <a class="card-report" href="report.html?resource_name=${encodeURIComponent(r.name)}&current_url=${encodeURIComponent(r.url)}" title="Report this link as broken">Report</a>
         </div>
       </div>
     `).join('');
@@ -265,7 +308,7 @@
             <th>Category</th>
             <th>Level</th>
             <th>Description</th>
-            <th></th>
+            <th><span class="sr-only">Report</span></th>
           </tr>
         </thead>
         <tbody>
@@ -277,11 +320,11 @@
                 </a>
               </td>
               <td>${escapeHtml(r.jurisdiction)}</td>
-              <td>${escapeHtml(r.category)}</td>
+              <td>${escapeHtml(catLabel(r.category))}</td>
               <td>${escapeHtml(r.level)}</td>
               <td>${highlight(escapeHtml(r.description), activeFilters.search)}</td>
               <td>
-                <a class="table-report" href="report.html?resource_name=${encodeURIComponent(r.name)}&current_url=${encodeURIComponent(r.url)}" title="Report this link as broken">⚠</a>
+                <a class="table-report" href="report.html?resource_name=${encodeURIComponent(r.name)}&current_url=${encodeURIComponent(r.url)}" title="Report this link as broken">Report</a>
               </td>
             </tr>
           `).join('')}
@@ -304,28 +347,22 @@
     }
 
     let html = '';
-
-    // Prev
     html += `<button class="page-btn" ${currentPage === 1 ? 'disabled' : ''} data-page="${currentPage - 1}">← Prev</button>`;
 
-    // First + ellipsis
     if (startPage > 1) {
       html += `<button class="page-btn" data-page="1">1</button>`;
-      if (startPage > 2) html += `<span class="page-btn" style="border:none;cursor:default">…</span>`;
+      if (startPage > 2) html += `<span class="page-ellipsis">…</span>`;
     }
 
-    // Pages
     for (let i = startPage; i <= endPage; i++) {
-      html += `<button class="page-btn ${i === currentPage ? 'active' : ''}" data-page="${i}">${i}</button>`;
+      html += `<button class="page-btn ${i === currentPage ? 'active' : ''}" data-page="${i}" ${i === currentPage ? 'aria-current="page"' : ''}>${i}</button>`;
     }
 
-    // Last + ellipsis
     if (endPage < totalPages) {
-      if (endPage < totalPages - 1) html += `<span class="page-btn" style="border:none;cursor:default">…</span>`;
+      if (endPage < totalPages - 1) html += `<span class="page-ellipsis">…</span>`;
       html += `<button class="page-btn" data-page="${totalPages}">${totalPages}</button>`;
     }
 
-    // Next
     html += `<button class="page-btn" ${currentPage === totalPages ? 'disabled' : ''} data-page="${currentPage + 1}">Next →</button>`;
 
     paginationEl.innerHTML = html;
@@ -336,6 +373,7 @@
         if (!isNaN(p) && p !== currentPage) {
           currentPage = p;
           renderResults();
+          writeStateToUrl();
           window.scrollTo({ top: 0, behavior: 'smooth' });
         }
       });
@@ -351,7 +389,7 @@
   function highlight(text, query) {
     if (!query) return text;
     const re = new RegExp('(' + escapeRegExp(query) + ')', 'gi');
-    return text.replace(re, '<mark style="background:rgba(212,162,74,0.25);padding:1px 2px;border-radius:2px">$1</mark>');
+    return text.replace(re, '<mark class="hl">$1</mark>');
   }
 
   function escapeRegExp(str) {
