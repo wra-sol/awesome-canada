@@ -36,7 +36,7 @@ function browsePageShell({ title, description, canonicalPath, body, jsonLd }) {
   <meta property="og:title" content="${escapeHtml(title)}">
   <meta property="og:description" content="${escapeHtml(description)}">
   <meta property="og:url" content="${BASE_URL}${canonicalPath}">
-  <meta property="og:image" content="${BASE_URL}/og-image.png?v=2">
+  <meta property="og:image" content="${BASE_URL}/og-image.png?v=3">
 ${jsonLd ? `  <script type="application/ld+json">${jsonLd}</script>\n` : ''}  <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
