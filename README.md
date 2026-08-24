@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1421 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1445 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,14 +25,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 185
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 191
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 86
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 128
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 102
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 104
 - [🪪 Government Services & ID](#government-services-and-id) — 38
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 21
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 30
-- [🏢 Business & Procurement](#business-and-procurement) — 37
+- [🏢 Business & Procurement](#business-and-procurement) — 45
 - [💼 Employment & Labour](#employment-and-labour) — 21
 - [🎓 Education & Student Aid](#education-and-student-aid) — 18
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 38
@@ -49,7 +49,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌦️ Weather & Climate](#weather-and-climate) — 12
 - [⚡ Energy & Utilities](#energy-and-utilities) — 34
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 21
-- [🔬 Science, Research & Space](#science-research-and-space) — 32
+- [🔬 Science, Research & Space](#science-research-and-space) — 33
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 44
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 32
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
@@ -59,7 +59,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 19
 - [🎖️ Veterans & Military](#veterans-and-military) — 13
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 41
-- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 11
+- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 18
 
 ---
 
@@ -81,6 +81,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | ISED API Catalogue | Canada · Federal | API catalogue | Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data. | https://api.ised-isde.canada.ca/en |
 | National Defence — Open Data Datasets | Canada · Federal | Open data collection | Browse and download National Defence datasets on the Open Government portal — personnel statistics, pay scales, performance indicators, and more, many in CSV. | https://open.canada.ca/data/en/organization/dnd-mdn |
 | NRC Digital Repository | Canada · Federal | Research data repository | National Research Council's persistent archive of research datasets, corporate publications back to 1954, and special collections, searchable and openly accessible. | https://nrc-digital-repository.canada.ca/eng/list/collections/ |
+| Open Government — Briefing Note Titles Search | Canada · Federal | Search tool | Search titles and reference numbers of briefing notes sent to federal ministers and deputy heads since 2019 — then file an ATI request for any of interest. | https://search.open.canada.ca/briefing_titles/ |
+| Open Government — Completed Access to Information Requests Search | Canada · Federal | Search tool | Search summaries of completed ATI requests across federal institutions since 2020 and informally request a free copy of any released records package. | https://open.canada.ca/en/access-to-information |
+| Open Government — Open Resource Exchange | Canada · Federal | Code catalogue | Search open source code, software, and standards used or developed by Canadian federal, provincial, and municipal governments, with links to each project's repository. | https://code.open.canada.ca/en/index.html |
+| Open Government — Portal Analytics Dashboard | Canada · Federal | Analytics dashboard | Explore monthly statistics on open.canada.ca usage — portal visits by region, top 25 downloaded datasets, and dataset growth since 2013. | https://open.canada.ca/en/content/open-government-analytics |
 | Open Government Portal | Canada · Federal | Open data portal | Main federal portal for datasets, information, and downloadable public resources | https://open.canada.ca/ |
 | Open Maps | Canada · Federal | Geospatial portal | Federal map and geospatial data discovery portal | https://open.canada.ca/en/open-maps/ |
 | Open North | Canada · Federal | Civic tech nonprofit | Canadian nonprofit building open data standards and civic technology tools to help governments and communities share information and engage citizens | https://opennorth.ca/ |
@@ -94,6 +98,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Statistics Canada — The Daily | Canada · Federal | News/data feed | Daily releases of new statistics, economic indicators, and analytical reports from StatCan | https://www150.statcan.gc.ca/n1/dai-quo/index-eng.htm |
 | Statistics Canada — Web Data Service (WDS) API | Canada · Federal | API | REST API for accessing StatCan tables, metadata, and bulk downloads programmatically | https://www.statcan.gc.ca/en/developers/wds |
 | Statistics Canada Developers | Canada · Federal | Developer/data access | APIs and structured access for developers and researchers | https://www.statcan.gc.ca/en/developers |
+| TBS — GC Service Inventory Dataset | Canada · Federal | Open dataset | Download CSVs listing every service federal departments deliver — volumes, online availability, service standards, and performance results from 2018 onward. | https://open.canada.ca/data/en/dataset/3ac0d080-6149-499a-8b06-7ce5f00ec56c |
 | Toporama — Atlas of Canada | Canada · Federal | Interactive map | Dynamic topographic map viewer covering all of Canada with toggleable layers (contours, hydrography, transportation), distance measurement, water flow tracing, and free data downloads. | https://atlas.gc.ca/toporama/en/index.html |
 | Canadian Urban Transit Association — Stats Dashboard | Canada · Agency | Transit data | National ridership, fare, and service data for Canadian transit systems | https://cutaactu.ca/ |
 
@@ -102,6 +107,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | B.C. API Gateway | British Columbia · Provincial | API portal | British Columbia government API gateway for discovering, accessing, and managing provincial APIs and data services | https://api.gov.bc.ca/ |
+| British Columbia — BC Address Geocoder API | British Columbia · Provincial | REST API | Standardize, validate, and geocode any B.C. address in real time via a free REST API — includes reverse geocoding, intersections, and parcel lookups. | https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder |
 | DataBC | British Columbia · Provincial | Open data portal | Major open data and geospatial hub for BC | https://www2.gov.bc.ca/gov/content/data |
 | iMapBC | British Columbia · Provincial | Interactive map | Layer hundreds of BC Geographic Warehouse datasets on one map — parcels, Crown tenures, the Agricultural Land Reserve, mineral titles, forest and wildlife layers — with upload, query and share tools. | https://www2.gov.bc.ca/gov/content/data/geographic-data-services/web-based-mapping/imapbc |
 | Metro Vancouver Open Data Portal | Metro Vancouver · Regional | Open data hub | Regional GIS datasets including LiDAR point clouds, aerial orthoimagery, liquid and solid waste services, water services, regional parks, and Electoral Area A boundaries | https://open-data-portal-metrovancouver.hub.arcgis.com/ |
@@ -611,6 +617,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Department of Finance — Fiscal Reference Tables | Canada · Federal | Dataset | Annual Excel and PDF tables covering federal, provincial-territorial and local government finances — revenues, expenses, debt and G7 comparisons. | https://www.canada.ca/en/department-finance/services/publications/fiscal-reference-tables.html |
 | GC InfoBase | Canada · Federal | Data visualization | Treasury Board's interactive explorer of federal finances, people and results — track spending from the government-wide view down to individual programs. | https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-eng.html |
+| Open Government — Government Travel Expenses Search | Canada · Federal | Search tool | Search proactively disclosed travel expense reports of ministers, senior officials, and staff across federal institutions by name, department, and date. | https://search.open.canada.ca/travel/ |
 | Parliamentary Budget Officer — Reports & Costings | Canada · Federal | Budget watchdog | Independent budget analysis for Parliament: election platform costings, fiscal projections, departmental spending analyses, and custom costing requests. Complements the absence of federal line-by-line budget data tools. | https://www.pbo-dpb.gc.ca/ |
 
 ### British Columbia
@@ -703,6 +710,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | MAMH — Profil financier des municipalités | Quebec · Provincial | Financial reports | Ministry of Municipal Affairs annual financial profile of each Quebec municipality: fiscal data, debt/taxation ratios, peer-group comparisons and indices; PDFs per municipality plus CSV/XLSX open data. | https://www.quebec.ca/gouvernement/gestion-municipale/finances-fiscalite-municipales/information-financiere/publications-financieres/profil-financier |
+| Quebec — Tableau de bord des projets en ressources informationnelles | Quebec · Provincial | Public dashboard | Track the health, cost, and schedule of every Quebec government IT project over $500,000 in a dashboard updated daily, filterable by department and portfolio. | https://www.tableaudebordprojetsri.gouv.qc.ca/tableau-de-bord |
 | Quebec SEAO — Open Contracting Data | Quebec · Provincial | Procurement open data | Weekly JSON/XML open data on Quebec public tenders and awarded contracts including municipalities — OCDS-inspired format since 2021. | https://www.donneesquebec.ca/recherche/fr/dataset/d23b2e02-085d-43e5-9e6e-e1d558ebfdd5 |
 | Gatineau — Liste de contrats | Gatineau · Municipal | Contracts list | Published list of municipal contracts awarded by Ville de Gatineau — procurement transparency for vendors and researchers. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fliste_contrats |
 | Gatineau — Rémunération des élus | Gatineau · Municipal | Elected officials remuneration | Councillor and mayor salary and expense disclosure for Gatineau elected officials — published remuneration reports. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fremuneration_elus |
@@ -963,10 +971,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Patents Database | Canada · Federal | Search tool | Search over 2.6 million Canadian patent documents from 1869 to the present, with full-text and images, maintained by CIPO. | https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html |
 | Canadian Trademarks Database | Canada · Federal | Search tool | CIPO's searchable database of more than 1.4 million Canadian trademarks registered from 1865 to the present, updated weekly. | https://ised-isde.canada.ca/cipo/trademark-search/srch |
 | CFIA — Automated Import Reference System (AIRS) | Canada · Federal | Import tool | Question-and-answer tool that walks importers through the exact CFIA requirements, documents and HS codes for bringing food, plants and animals into Canada. | https://inspection.canada.ca/en/importing-food-plants-animals/airs |
+| CIPO — Canadian Copyrights Database | Canada · Federal | Searchable database | Search Canadian copyright registrations from 1991 onward by title, owner name, or registration number and view registration details. | https://www.ic.gc.ca/app/opic-cipo/cpyrghts/dsplySrch.do?lang=eng |
 | CIPO — Canadian Industrial Designs Database | Canada · Federal | Searchable IP database | Search all registered Canadian industrial designs by title, owner, classification, or registration date, with drawings and status for each design. | https://www.ic.gc.ca/app/opic-cipo/id/bscSrch.do?lang=eng |
+| CIPO — Goods and Services Manual | Canada · Federal | Trademark filing tool | Search CIPO's pre-approved goods and services terms and use the Classify List feature to assign Nice classes before filing a Canadian trademark application. | https://www.ic.gc.ca/app/scr/ic/cgs/ext/home.html |
 | Corporations Canada — Federal Corporation Search | Canada · Federal | Registry search | Confirm the existence and status of any federally incorporated business, not-for-profit, cooperative or board of trade by name, corporation number or business number. | https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html |
+| Corporations Canada — Nuans Name Search | Canada · Federal | Name search service | Run pre-searches and order official Nuans reports comparing a proposed corporate name against Canada's database of existing corporate names and trademarks. | https://ised-isde.canada.ca/site/nuans-corporate-name-trademark-reports/en/nuansr-corporate-name-and-trademark-reports |
 | FedDev Ontario | Canada · Federal | Economic development | Federal economic development agency supporting business growth, innovation, and community economic development in southern Ontario | https://feddev-ontario.canada.ca/ |
 | Innovation Canada — Business Benefits Finder | Canada · Federal | Finder | Personalized search of federal, provincial, and regional business funding and support programs | https://ised-isde.canada.ca/ |
+| ISED — Canadian Importers Database | Canada · Federal | Searchable database | Look up which companies import specific goods into Canada — search by product, city, or country to get lists of major importers based on CBSA customs data. | https://ised-isde.canada.ca/app/ixb/cid-bdic/searchProduct.html |
+| ISED — Canadian Industry Statistics | Canada · Federal | Statistics tool | Generate industry snapshots by NAICS code or keyword — GDP, employment, number of businesses, trade, and financial performance trends for any Canadian industry. | https://ised-isde.canada.ca/app/ixb/cis/search-recherche |
+| ISED — ExploreIP: Canada's IP Marketplace | Canada · Federal | Searchable marketplace | Search thousands of patents held by Canadian governments, universities, and hospitals that are available to license or commercialize, and contact the IP holders directly. | https://ised-isde.canada.ca/ipm-mcpi/ |
+| ISED — Financial Performance Data (SME Benchmarking) | Canada · Federal | Benchmarking tool | Build financial benchmark reports for 1,000+ industries — revenues, expenses, profit margins, and balance-sheet ratios — and compare your small business against industry averages. | https://ised-isde.canada.ca/site/financial-performance-data/en |
 | MERX — Canadian Procurement Platform | Canada · Federal | Procurement | Canada's largest electronic procurement platform — access federal, provincial, and municipal tender notices across all industries | https://www.merx.com/ |
 | OSB — Bankruptcy and Insolvency Records Search | Canada · Federal | Searchable records database | Search every bankruptcy and proposal filed in Canada since 1978, receiverships since 1993, and CCAA records (free); other searches cost $8 per name. | https://www.ic.gc.ca/app/scr/bsf-osb/ins/login.html |
 | OSB — Licensed Insolvency Trustee Registry | Canada · Federal | Licence registry | Look up every Licensed Insolvency Trustee in Canada — active, semi-active, and inactive — to verify a trustee's licence before engaging them. | https://www.ic.gc.ca/app/scr/tds/web/complete |
@@ -975,6 +990,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Commercial Corporation — Government Procurement | Canada · Crown Corp | Procurement | Procurement tools for businesses selling to governments domestically and internationally | https://www.ccc.ca/ |
 | Defence Construction Canada | Canada · Crown Corp | Procurement | Defence construction contracting and project management | https://www.dcc-cdc.gc.ca/ |
 | Competition Bureau — Report of Merger Reviews | Canada · Agency | Enforcement register | Browse the weekly-updated register of ongoing and concluded merger reviews under the Competition Act, including pre-merger notifications and advance ruling requests. | https://competition-bureau.canada.ca/en/mergers-and-acquisitions/report-concluded-merger-reviews |
+| CPATA — Public Register of Patent and Trademark Agents | Canada · Agency | Professional register | Look up any licensed Canadian patent or trademark agent by name, city, or employer and verify their current licence status with the College's regulator register. | https://registre-public-register.cpata-cabamc.ca/ |
 
 ### British Columbia
 
@@ -2158,6 +2174,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | DRDC — Defence Research Reports | Canada · Federal | Research database | Search 16,000+ unclassified Defence Research and Development Canada reports and download full-text PDFs of Canadian defence science and technology research. | https://pubs.drdc-rddc.gc.ca/pubdocs/pcow1_e.html |
 | Library and Archives Canada — Theses Canada | Canada · Federal | Theses portal | Search 425,000+ Canadian university theses and dissertations back to 1965 and read 200,000+ of them free in full text. | https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/search-theses-canada.aspx |
 | National Research Council — IR Aerospace Research Centre | Canada · Federal | Research | NRC aerospace research facilities, services, and partnership programs | https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/aerospace-research-centre |
+| NRC — Certified Reference Materials Catalogue | Canada · Federal | Catalogue and store | Browse and order NRC's SI-traceable certified reference materials for food, environment, health, and critical-minerals lab work, with certificates for each material. | https://nrc.canada.ca/en/certifications-evaluations-standards/certified-reference-materials/list |
 | NRC — Sunrise/Sunset Calculator | Canada · Federal | Calculator | National Research Council calculator for sunrise, sunset and sun angles for any Canadian location and date, accurate to ±2 minutes and certifiable for legal purposes. | https://nrc.canada.ca/en/research-development/products-services/software-applications/sun-calculator/ |
 | NRC — Web Clock (Canada's Official Time) | Canada · Federal | Time tool | Official time across Canada's time zones, served live from the National Research Council's atomic clocks. | https://nrc.canada.ca/en/research-development/products-services/software-applications/web-clock-official-times-across-canada |
 | NRC Publications Archive | Canada · Federal | Research archive | Free full-text archive of National Research Council technical reports, conference papers and journal articles, including the free electronic editions of Codes Canada publications. | https://nrc-publications.canada.ca/eng/home/ |
@@ -2732,17 +2749,44 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canada.ca Design System — Templates and Patterns | Canada · Federal | Design system | Download user-tested Canada.ca page templates, design patterns, and style specifications to build compliant Government of Canada web content. | https://design.canada.ca/ |
 | Canada's Connectivity Strategy — Project Map & Reports | Canada · Federal | Program data | Federal broadband program transparency: funded connectivity projects, target speeds, households connected, and progress reporting toward universal rural internet. | https://ised-isde.canada.ca/site/canada-connectivity-strategy/en |
 | Canadian Digital Service | Canada · Federal | Agency | CDS — builds and supports digital government services across federal departments | https://digital.canada.ca/ |
 | Canadian Digital Service — GitHub Organization | Canada · Federal | Open source code | Nearly 300 open-source repositories behind GC Notify, GC Forms and GC Design System components — read, fork and reuse real production government service code. | https://github.com/cds-snc |
 | CRTC — Broadband Internet Service Complaints | Canada · Federal | Complaint | Submit complaints about broadband, wireless, or TV providers via the CCTS | https://www.ccts-cprst.ca/ |
 | CRTC — Communications Monitoring Report | Canada · Federal | Report | Annual data on Canadian broadcasting, wireless, and internet markets | https://crtc.gc.ca/eng/publications/reports/policymonitoring/2023/index.htm |
 | CRTC — National Broadband Map | Canada · Federal | Map | Interactive map showing internet speeds and coverage across Canada | https://crtc.gc.ca/eng/internet/internet.htm |
+| CRTC — Registered Telecommunications Providers List | Canada · Federal | Registration list | Look up companies registered with the CRTC to provide telecom services in Canada, including carriers, resellers, and high-speed internet resellers. | https://applications.crtc.gc.ca/portail-portal/eng/listes-lists/registration/5 |
 | Government of Canada — GitHub Organization | Canada · Federal | Open source code | Browse, fork and reuse 70+ official open-source repositories — the Canada.ca design system, the domain-security Tracker, and the Open Resource Exchange. | https://github.com/canada-ca |
+| ISED — Radio Equipment List (REL) | Canada · Federal | Certification database | Search all radio equipment certified for sale and use in Canada by certification number, company, or model to confirm a device meets ISED radio standards. | https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?lang=en |
 | ISED — Spectrum Management System | Canada · Federal | Licensing | Look up radio spectrum licence holders and technical info across Canada | https://sms-sgs.ic.gc.ca/ |
 | ISED Spectrum Management System | Canada · Federal | Licence database | Public access to Canada's radio spectrum licensing: search radio licences by frequency, location, or licensee, browse spectrum auction results, and download site data for every licensed transmitter in the country. | https://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/home |
 | National Broadband Map | Canada · Federal | Interactive map | ISED/CRTC interactive map of broadband internet availability by technology and speed across Canada, accurate to roughly 250 metres and updated twice yearly. | https://ised-isde.canada.ca/app/scr/sittibc/web/bbmap?lang=eng |
 | CRTC — Decisions, Notices and Orders | Canada · Agency | Regulatory decisions index | Search and browse daily-updated indexes of CRTC broadcasting, telecom, and enforcement decisions, notices, and orders dating back to 1984. | https://crtc.gc.ca/eng/dno.htm |
+
+### British Columbia
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| British Columbia — B.C. Design System | British Columbia · Provincial | Design system | Grab B.C. government design tokens and React components (npm, Figma, Storybook) to prototype and build accessible provincial digital products. | https://designsystem.gov.bc.ca/ |
+
+### Alberta
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Alberta — Government of Alberta Design System | Alberta · Provincial | Design system | Build Alberta government services with the GoA design system's component libraries for web components, React, and Angular, plus usage and accessibility guidance. | https://design.alberta.ca/ |
+
+### Ontario
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Ontario — Ontario Design System | Ontario · Provincial | Design system | Use Ontario government web components, styles, and Figma kits — installable via npm or CDN — to build accessible ontario.ca-consistent digital services. | https://designsystem.ontario.ca/ |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Quebec — Système de design gouvernemental | Quebec · Provincial | Design system | Download Québec.ca-aligned UI components, page models, and the HTML/CSS/JS development kit to build accessible Quebec government interfaces. | https://design.quebec.ca/ |
 
 ---
 
