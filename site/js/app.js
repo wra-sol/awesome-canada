@@ -21,6 +21,7 @@
   let likeCounts = {};             // url -> all-time like count (server)
   let cooldowns = readCooldowns(); // url -> epoch ms when re-like allowed
   const topCache = {};             // window -> Promise of [{url, count}]
+  let trendingWindow = 'day';      // active trending strip window
 
   // DOM refs
   const gridEl = document.getElementById('resources-grid');
