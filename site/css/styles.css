@@ -1033,3 +1033,308 @@ main.container.browse-page {
     width: 100%;
   }
 }
+
+/* ============================================
+   Likes & Trending
+   ============================================ */
+
+/* Like button (grid cards + table rows) */
+.card-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.like-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1);
+  font-family: var(--font-body);
+  font-size: 12px;
+  color: var(--color-slate);
+  background: none;
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+  padding: 4px 8px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 150ms ease, border-color 150ms ease, background 150ms ease;
+}
+
+/* Hit-area expansion to >=44px without visual bulk */
+.like-btn::after {
+  content: '';
+  position: absolute;
+  inset: -7px;
+}
+
+.like-btn svg {
+  width: 14px;
+  height: 14px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.5;
+  transition: fill 150ms ease, stroke 150ms ease;
+}
+
+.like-btn:hover {
+  color: var(--color-amber);
+  background: rgba(212, 162, 74, 0.1);
+}
+
+.like-btn:focus-visible {
+  outline: 2px solid var(--color-amber);
+  outline-offset: 2px;
+}
+
+.like-btn.liked {
+  color: var(--color-amber);
+}
+
+.like-btn.liked svg {
+  fill: var(--color-amber);
+  stroke: var(--color-amber);
+}
+
+.like-btn.busy {
+  opacity: 0.55;
+  pointer-events: none;
+}
+
+@keyframes like-pulse {
+  0% { transform: scale(1); }
+  40% { transform: scale(1.35); }
+  100% { transform: scale(1); }
+}
+
+.like-btn.pulse svg {
+  animation: like-pulse 350ms ease-out;
+}
+
+.table-likes {
+  width: 70px;
+  text-align: center;
+}
+
+/* Trending strip */
+.trending {
+  background: var(--color-cream);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-4) var(--space-5);
+  margin-bottom: var(--space-5);
+}
+
+.trending-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  margin-bottom: var(--space-3);
+}
+
+.trending-title {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.trending-title svg {
+  width: 15px;
+  height: 15px;
+  fill: var(--color-amber);
+}
+
+.trending-tabs {
+  display: inline-flex;
+  gap: var(--space-1);
+}
+
+.trending-tab {
+  font-family: var(--font-body);
+  font-size: 12.5px;
+  color: var(--color-slate);
+  background: none;
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 8px 12px;
+  cursor: pointer;
+  position: relative;
+  transition: color 150ms ease, background 150ms ease;
+}
+
+.trending-tab::after {
+  content: '';
+  position: absolute;
+  inset: -4px -2px;
+}
+
+.trending-tab:hover {
+  color: var(--color-charcoal);
+  background: rgba(26, 26, 26, 0.05);
+}
+
+.trending-tab.active {
+  color: var(--color-charcoal);
+  background: rgba(212, 162, 74, 0.18);
+  font-weight: 600;
+}
+
+.trending-tab:focus-visible {
+  outline: 2px solid var(--color-amber);
+  outline-offset: 2px;
+}
+
+.trending-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: var(--space-2);
+}
+
+.trending-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  text-align: left;
+  font-family: var(--font-body);
+  font-size: 13px;
+  line-height: 1.35;
+  color: var(--color-charcoal);
+  background: var(--color-warm-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  cursor: pointer;
+  min-height: 44px;
+  transition: border-color 150ms ease, transform 150ms ease;
+}
+
+.trending-item:hover {
+  border-color: var(--color-amber);
+}
+
+.trending-item:focus-visible {
+  outline: 2px solid var(--color-amber);
+  outline-offset: 2px;
+}
+
+.trending-rank {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--color-amber);
+  font-weight: 500;
+  min-width: 16px;
+}
+
+.trending-name {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  font-weight: 500;
+}
+
+.trending-jurisdiction {
+  font-size: 11px;
+  color: var(--color-slate);
+  white-space: nowrap;
+}
+
+.trending-count {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--color-amber);
+  white-space: nowrap;
+}
+
+.trending-count svg {
+  width: 11px;
+  height: 11px;
+  fill: var(--color-amber);
+}
+
+.trending-empty {
+  font-size: 13px;
+  color: var(--color-slate);
+  padding: var(--space-2) 0;
+}
+
+/* Skeleton shimmer while trending loads */
+@keyframes trend-shimmer {
+  from { background-position: 200% 0; }
+  to { background-position: -200% 0; }
+}
+
+.trend-skel {
+  height: 46px;
+  border-radius: var(--radius-sm);
+  background: linear-gradient(
+    90deg,
+    rgba(26, 26, 26, 0.04) 25%,
+    rgba(26, 26, 26, 0.09) 50%,
+    rgba(26, 26, 26, 0.04) 75%
+  );
+  background-size: 200% 100%;
+  animation: trend-shimmer 1.4s ease infinite;
+}
+
+@media (prefers-color-scheme: dark) {
+  .trend-skel {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.05) 25%,
+      rgba(255, 255, 255, 0.11) 50%,
+      rgba(255, 255, 255, 0.05) 75%
+    );
+    background-size: 200% 100%;
+  }
+}
+
+/* Toast (like feedback / errors) */
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: 24px;
+  transform: translate(-50%, 16px);
+  max-width: min(90vw, 420px);
+  background: var(--color-charcoal);
+  color: var(--color-warm-white);
+  font-size: 13.5px;
+  line-height: 1.45;
+  padding: 10px 16px;
+  border-radius: var(--radius-md);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.22);
+  opacity: 0;
+  pointer-events: none;
+  z-index: 1000;
+  transition: opacity 200ms ease, transform 200ms ease;
+}
+
+.toast.show {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .like-btn.pulse svg,
+  .trend-skel {
+    animation: none;
+  }
+
+  .toast,
+  .like-btn,
+  .like-btn svg,
+  .trending-item,
+  .trending-tab {
+    transition: none;
+  }
+}

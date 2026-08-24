@@ -8,12 +8,19 @@
   'use strict';
 
   const ITEMS_PER_PAGE = 24;
+  const COOLDOWN_KEY = 'ac-like-cooldowns';
+  const SEED_KEY = 'ac-shuffle-seed';
   let allResources = [];
   let filteredResources = [];
   let categoryTitles = {};
   let kindTitles = {};
   let currentPage = 1;
   let currentView = 'grid';
+
+  // Likes state
+  let likeCounts = {};             // url -> all-time like count (server)
+  let cooldowns = readCooldowns(); // url -> epoch ms when re-like allowed
+  const topCache = {};             // window -> Promise of [{url, count}]
 
   // DOM refs
   const gridEl = document.getElementById('resources-grid');
@@ -33,6 +40,9 @@
   const resetBtn = document.getElementById('filters-reset');
   const emptyReset = document.getElementById('empty-reset');
   const viewBtns = document.querySelectorAll('.view-btn');
+  const trendingEl = document.getElementById('trending');
+  const trendingItemsEl = document.getElementById('trending-items');
+  const trendingTabs = document.querySelectorAll('.trending-tab');
 
   // Active filters
   const activeFilters = {
@@ -46,13 +56,16 @@
   // Load data
   Promise.all([
     fetch('data/resources.json').then(r => r.json()),
-    fetch('data/meta.json').then(r => r.json()).catch(() => ({ categories: {} }))
+    fetch('data/meta.json').then(r => r.json()).catch(() => ({ categories: {} })),
+    fetch('api/likes/all').then(r => r.ok ? r.json() : { counts: {} }).catch(() => ({ counts: {} }))
   ])
-    .then(([data, meta]) => {
+    .then(([data, meta, likes]) => {
       allResources = data.map((r, i) => ({ ...r, _id: i }));
       categoryTitles = meta.categories || {};
       kindTitles = meta.kinds || {};
+      likeCounts = likes.counts || {};
       initFilters();
+      initTrending();
       readStateFromUrl();
       applyFilters();
     })
@@ -98,7 +111,7 @@
     if (activeFilters.level.size) p.set('level', [...activeFilters.level].join('|'));
     if (activeFilters.category.size) p.set('cat', [...activeFilters.category].join('|'));
     if (activeFilters.region.size) p.set('region', [...activeFilters.region].join('|'));
-    if (sortSelect.value !== 'name-asc') p.set('sort', sortSelect.value);
+    if (sortSelect.value !== 'random') p.set('sort', sortSelect.value);
     if (currentView !== 'grid') p.set('view', currentView);
     if (currentPage > 1) p.set('page', String(currentPage));
     const qs = p.toString();
@@ -168,6 +181,7 @@
 
   // Sort
   sortSelect.addEventListener('change', () => {
+    if (sortSelect.value.startsWith('likes-')) likesSortToken++; // supersede in-flight sorts
     currentPage = 1;
     applyFilters();
   });
@@ -202,7 +216,7 @@
     activeFilters.search = '';
     searchInput.value = '';
     searchClear.classList.remove('visible');
-    sortSelect.value = 'name-asc';
+    sortSelect.value = 'random';
 
     document.querySelectorAll('.filter-checkboxes input[type="checkbox"]').forEach(cb => {
       cb.checked = false;
@@ -235,18 +249,7 @@
     });
 
     const sortVal = sortSelect.value;
-    const [field, dir] = sortVal.split('-');
-    filteredResources.sort((a, b) => {
-      let va = (a[field] || '').toString().toLowerCase();
-      let vb = (b[field] || '').toString().toLowerCase();
-      if (field === 'date') {
-        va = a.dateAdded || '2000-01-01';
-        vb = b.dateAdded || '2000-01-01';
-      }
-      if (va < vb) return dir === 'asc' ? -1 : 1;
-      if (va > vb) return dir === 'asc' ? 1 : -1;
-      return 0;
-    });
+    sortResources(filteredResources, sortVal);
 
     statsBar.textContent = `${filteredResources.length} of ${allResources.length} resources`;
     renderResults();
@@ -305,7 +308,10 @@
           <div class="card-tags">
             ${(r.tags || []).slice(0, 4).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
           </div>
-          <a class="card-report" href="report.html?resource_name=${encodeURIComponent(r.name)}&current_url=${encodeURIComponent(r.url)}" title="Report this link as broken">Report</a>
+          <div class="card-actions">
+            ${likeBtnHtml(r)}
+            <a class="card-report" href="report.html?resource_name=${encodeURIComponent(r.name)}&current_url=${encodeURIComponent(r.url)}" title="Report this link as broken">Report</a>
+          </div>
         </div>
       </div>
     `).join('');
@@ -321,6 +327,7 @@
             <th>Category</th>
             <th>Level</th>
             <th>Description</th>
+            <th>Likes</th>
             <th><span class="sr-only">Report</span></th>
           </tr>
         </thead>
@@ -336,6 +343,7 @@
               <td>${escapeHtml(catLabel(r.category))}</td>
               <td>${escapeHtml(r.level)}</td>
               <td>${highlight(escapeHtml(r.description), activeFilters.search)}</td>
+              <td class="table-likes">${likeBtnHtml(r)}</td>
               <td>
                 <a class="table-report" href="report.html?resource_name=${encodeURIComponent(r.name)}&current_url=${encodeURIComponent(r.url)}" title="Report this link as broken">Report</a>
               </td>
@@ -391,6 +399,295 @@
         }
       });
     });
+  }
+
+  // ---- Likes: sorting ----
+
+  // Sort dropdown values: random (default), legacy field sorts, likes-<window>.
+  let likesSortToken = 0;
+  const topData = {}; // window -> ranked [{url, count}] once loaded
+
+  function ensureTop(win) {
+    if (!topCache[win]) {
+      topCache[win] = fetch(`api/likes/top?window=${encodeURIComponent(win)}&limit=500`)
+        .then(r => (r.ok ? r.json() : { items: [] }))
+        .then(d => {
+          topData[win] = (d.items || []).map(it => ({ url: it.url, count: it.count }));
+          return topData[win];
+        })
+        .catch(() => []);
+    }
+    return topCache[win];
+  }
+
+  function sortResources(arr, sortVal) {
+    if (sortVal === 'random') {
+      weightedShuffle(arr);
+      return;
+    }
+    if (sortVal.startsWith('likes-')) {
+      const win = sortVal.slice(6);
+      if (!topData[win]) {
+        const myToken = ++likesSortToken;
+        ensureTop(win).then(items => {
+          // Re-apply once ranking arrives — only if this sort is still active
+          // and no newer likes-sort selection superseded it.
+          if (items.length && sortSelect.value === sortVal && likesSortToken === myToken) {
+            applyFilters();
+          }
+        });
+      }
+      const counts = new Map((topData[win] || []).map(i => [i.url, i.count]));
+      arr.sort((a, b) =>
+        (counts.get(b.url) || 0) - (counts.get(a.url) || 0) ||
+        (a.name || '').localeCompare(b.name || '')
+      );
+      return;
+    }
+    const idx = sortVal.lastIndexOf('-');
+    const field = sortVal.slice(0, idx);
+    const dir = sortVal.slice(idx + 1);
+    arr.sort((a, b) => {
+      let va = (a[field] || '').toString().toLowerCase();
+      let vb = (b[field] || '').toString().toLowerCase();
+      if (field === 'date') {
+        va = a.dateAdded || '2000-01-01';
+        vb = b.dateAdded || '2000-01-01';
+      }
+      if (va < vb) return dir === 'asc' ? -1 : 1;
+      if (va > vb) return dir === 'asc' ? 1 : -1;
+      return 0;
+    });
+  }
+
+  // Weighted-random ordering (Efraimidis–Spirakis): P(first) ∝ weight,
+  // weight = 1 + all-time likes. Deterministic per visit seed + weights, so
+  // pagination and filtering don't reshuffle; each new visit reshuffles.
+  function sessionSeed() {
+    let s = sessionStorage.getItem(SEED_KEY);
+    if (!s) {
+      s = String(crypto.getRandomValues(new Uint32Array(1))[0]);
+      sessionStorage.setItem(SEED_KEY, s);
+    }
+    return s;
+  }
+
+  function fnv1a(str) {
+    let h = 0x811c9dc5;
+    for (let i = 0; i < str.length; i++) {
+      h ^= str.charCodeAt(i);
+      h = Math.imul(h, 0x01000193);
+    }
+    return h >>> 0;
+  }
+
+  function mulberry32(seed) {
+    let a = seed >>> 0;
+    return function () {
+      a |= 0; a = (a + 0x6D2B79F5) | 0;
+      let t = Math.imul(a ^ (a >>> 15), 1 | a);
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+  }
+
+  function weightedShuffle(arr) {
+    const seed = sessionSeed();
+    const scored = arr.map(r => {
+      const w = 1 + (likeCounts[r.url] || 0);
+      const u = mulberry32(fnv1a(`${seed}|${r.url}`))();
+      return { r, key: Math.pow(u, 1 / w) };
+    });
+    scored.sort((a, b) => b.key - a.key);
+    for (let i = 0; i < arr.length; i++) arr[i] = scored[i].r;
+  }
+
+  // ---- Likes: voting ----
+
+  function readCooldowns() {
+    try { return JSON.parse(localStorage.getItem(COOLDOWN_KEY) || '{}'); }
+    catch { return {}; }
+  }
+
+  function saveCooldowns() {
+    try { localStorage.setItem(COOLDOWN_KEY, JSON.stringify(cooldowns)); } catch { /* private mode */ }
+  }
+
+  function isLiked(url) {
+    return Number(cooldowns[url]) > Date.now();
+  }
+
+  function fmtCount(n) {
+    if (n >= 10000) return `${Math.round(n / 1000)}k`;
+    if (n >= 1000) return `${(n / 1000).toFixed(1)}k`;
+    return String(n);
+  }
+
+  const HEART_SVG = '<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 13.8C4.6 11.4 2 9 2 6.3 2 4.4 3.5 3 5.3 3c1.1 0 2.1.5 2.7 1.4C8.6 3.5 9.6 3 10.7 3 12.5 3 14 4.4 14 6.3c0 2.7-2.6 5.1-6 7.5Z"/></svg>';
+
+  function likeBtnHtml(r) {
+    const liked = isLiked(r.url);
+    const n = likeCounts[r.url] || 0;
+    return `<button type="button" class="like-btn${liked ? ' liked' : ''}" data-url="${escapeHtml(r.url)}"` +
+      ` aria-pressed="${liked}" aria-label="Like ${escapeHtml(r.name)}"` +
+      ` title="${liked ? 'You liked this — thanks!' : 'Like this resource'}">` +
+      `${HEART_SVG}<span class="like-count">${n ? fmtCount(n) : 'Like'}</span></button>`;
+  }
+
+  function paintLikeButtons(url, pulse) {
+    document.querySelectorAll('.like-btn').forEach(btn => {
+      if (btn.dataset.url !== url) return;
+      const liked = isLiked(url);
+      const n = likeCounts[url] || 0;
+      btn.classList.remove('busy');
+      btn.classList.toggle('liked', liked);
+      btn.setAttribute('aria-pressed', String(liked));
+      btn.title = liked ? 'You liked this — thanks!' : 'Like this resource';
+      btn.querySelector('.like-count').textContent = n ? fmtCount(n) : 'Like';
+      if (pulse) {
+        btn.classList.remove('pulse');
+        void btn.offsetWidth; // restart animation
+        btn.classList.add('pulse');
+      }
+    });
+  }
+
+  let toastEl;
+  function toast(msg) {
+    if (!toastEl) {
+      toastEl = document.createElement('div');
+      toastEl.className = 'toast';
+      toastEl.setAttribute('role', 'status');
+      toastEl.setAttribute('aria-live', 'polite');
+      document.body.appendChild(toastEl);
+    }
+    toastEl.textContent = msg;
+    toastEl.classList.add('show');
+    clearTimeout(toastEl._t);
+    toastEl._t = setTimeout(() => toastEl.classList.remove('show'), 4000);
+  }
+
+  async function likeResource(btn) {
+    const url = btn.dataset.url;
+    if (btn.classList.contains('busy')) return;
+    if (isLiked(url)) {
+      const hrs = Math.max(1, Math.round((cooldowns[url] - Date.now()) / 3600000));
+      toast(`You already liked this — again in ~${hrs}h`);
+      return;
+    }
+    btn.classList.add('busy');
+
+    const prev = likeCounts[url] || 0;
+    likeCounts[url] = prev + 1; // optimistic
+    paintLikeButtons(url);
+
+    try {
+      const res = await fetch('api/likes', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ url }),
+      });
+      const d = await res.json().catch(() => ({}));
+      if (res.ok && d.ok) {
+        likeCounts[url] = d.count;
+        cooldowns[url] = d.nextEligibleAt;
+        saveCooldowns();
+        paintLikeButtons(url, true);
+      } else if (d.error === 'cooldown' && d.nextEligibleAt) {
+        likeCounts[url] = prev;
+        cooldowns[url] = d.nextEligibleAt;
+        saveCooldowns();
+        paintLikeButtons(url);
+        toast('Already counted — you liked this just now');
+      } else {
+        likeCounts[url] = prev;
+        paintLikeButtons(url);
+        toast(d.error === 'rate_limited'
+          ? 'Too many likes right now — try again in a bit'
+          : 'Could not save your like — please try again');
+      }
+    } catch {
+      likeCounts[url] = prev;
+      paintLikeButtons(url);
+      toast('Could not save your like — check your connection');
+    }
+  }
+
+  function onResultsClick(e) {
+    const btn = e.target.closest('.like-btn');
+    if (btn) {
+      e.preventDefault();
+      likeResource(btn);
+      return;
+    }
+    const tItem = e.target.closest('.trending-item');
+    if (tItem) filterToResource(tItem.dataset.url);
+  }
+
+  gridEl.addEventListener('click', onResultsClick);
+  tableEl.addEventListener('click', onResultsClick);
+
+  function filterToResource(url) {
+    const r = allResources.find(x => x.url === url);
+    if (!r) return;
+    activeFilters.search = r.name.toLowerCase();
+    searchInput.value = r.name;
+    searchClear.classList.add('visible');
+    currentPage = 1;
+    applyFilters();
+    document.querySelector('.results-header').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  // ---- Trending strip ----
+
+  function initTrending() {
+    trendingEl.hidden = false;
+    trendingTabs.forEach(tab => {
+      tab.addEventListener('click', () => setTrendingWindow(tab.dataset.window));
+    });
+    loadTrending();
+  }
+
+  function setTrendingWindow(win) {
+    if (win === trendingWindow) return;
+    trendingWindow = win;
+    trendingTabs.forEach(t => {
+      const active = t.dataset.window === win;
+      t.classList.toggle('active', active);
+      t.setAttribute('aria-pressed', String(active));
+    });
+    loadTrending();
+  }
+
+  function loadTrending() {
+    trendingItemsEl.innerHTML =
+      '<div class="trend-skel"></div><div class="trend-skel"></div><div class="trend-skel"></div>' +
+      '<div class="trend-skel"></div><div class="trend-skel"></div><div class="trend-skel"></div>';
+    ensureTop(trendingWindow).then(() => {
+      if (document.querySelector(`.trending-tab[data-window="${trendingWindow}"]`)?.classList.contains('active')) {
+        renderTrending();
+      }
+    });
+  }
+
+  function renderTrending() {
+    const items = (topData[trendingWindow] || []).slice(0, 6);
+    if (!items.length) {
+      const label = { hour: 'in the past hour', day: 'today', month: 'this month', all: 'yet' }[trendingWindow];
+      trendingItemsEl.innerHTML =
+        `<p class="trending-empty">No likes ${label}. Explore below and heart what you find useful.</p>`;
+      return;
+    }
+    trendingItemsEl.innerHTML = items.map((it, i) => {
+      const r = allResources.find(x => x.url === it.url);
+      if (!r) return '';
+      return `<button type="button" class="trending-item" data-url="${escapeHtml(it.url)}"` +
+        ` title="Show ${escapeHtml(r.name)} in the directory">` +
+        `<span class="trending-rank">${i + 1}</span>` +
+        `<span class="trending-name">${highlight(escapeHtml(r.name), '')}</span>` +
+        `<span class="trending-jurisdiction">${escapeHtml(r.jurisdiction)}</span>` +
+        `<span class="trending-count">${HEART_SVG}${fmtCount(it.count)}</span></button>`;
+    }).join('');
   }
 
   // Helpers

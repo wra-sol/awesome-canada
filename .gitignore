@@ -10,3 +10,4 @@ site/browse/
 site/sitemap.xml
 site/data/meta.json
 worker/.dev.vars
+.dev.vars

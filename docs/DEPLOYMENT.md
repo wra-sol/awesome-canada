@@ -57,3 +57,29 @@ Manual smoke test without waiting for cron:
 
 If `scripts/categories.js` changes, re-run `node scripts/sync-worker-catalog.js`;
 CI fails when the worker snapshot goes stale.
+
+## Likes API (2026-08-24)
+
+`functions/api/likes/[[path]].js` is a Pages Function deployed automatically by
+the git integration (no build changes, no Actions). Storage is D1 database
+`awesome-canada-likes`, bound as `LIKES_DB` in the root `wrangler.toml`;
+visitor hashing needs the Pages secret `LIKES_SALT`.
+
+Routes (same-origin only):
+
+    POST /api/likes            {url} — like; 24h re-like cooldown, 30/hour burst cap
+    GET  /api/likes/all        {counts:{url:total}, totalLikes}
+    GET  /api/likes/top        ?window=hour|day|month|all&limit=N
+
+One-time setup already done 2026-08-24 (repeat only for a new account;
+account ID for this project lives in CLIPBOARD.md):
+
+    CLOUDFLARE_ACCOUNT_ID=<your-account-id>
+    wrangler d1 create awesome-canada-likes
+    wrangler d1 execute awesome-canada-likes --remote --file=schema.sql
+    wrangler pages secret put LIKES_SALT --project-name awesome-canada
+
+Local dev: `.dev.vars` holds a dummy `LIKES_SALT`; apply the schema locally
+with `wrangler d1 execute awesome-canada-likes --local --file=schema.sql`,
+then `wrangler pages dev site`. Unit tests: `node --test`.
+Note: preview deployments share the production D1 database.

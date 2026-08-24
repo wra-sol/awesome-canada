@@ -6,3 +6,11 @@
 name = "awesome-canada"
 pages_build_output_dir = "site"
 compatibility_date = "2026-08-24"
+
+# Likes storage (functions/api/likes). Created 2026-08-24:
+#   wrangler d1 create awesome-canada-likes
+#   wrangler d1 execute awesome-canada-likes --remote --file=schema.sql
+[[d1_databases]]
+binding = "LIKES_DB"
+database_name = "awesome-canada-likes"
+database_id = "1e2a3aa3-85f5-4b28-9188-0c3b726c73e1"
