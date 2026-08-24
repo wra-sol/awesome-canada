@@ -16545,5 +16545,339 @@
       "water levels",
       "conservation"
     ]
+  },
+  {
+    "name": "Old Age Security Benefits Estimator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Calculator",
+    "description": "Anonymous Service Canada estimator for OAS pension, Guaranteed Income Supplement, Allowance and Allowance for the Survivor amounts based on age, residency and income.",
+    "url": "https://estimateursv-oasestimator.service.canada.ca/en/",
+    "tags": [
+      "oas",
+      "pensions",
+      "seniors",
+      "estimator"
+    ]
+  },
+  {
+    "name": "Employment Insurance Benefits Estimator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Calculator",
+    "description": "Anonymous Service Canada tool that estimates weekly EI benefit amounts and duration from salary and hours worked — no sign-in or personal information required.",
+    "url": "https://estimateurae-eiestimator.service.canada.ca/en",
+    "tags": [
+      "ei",
+      "benefits",
+      "estimator",
+      "unemployment"
+    ]
+  },
+  {
+    "name": "Child Support Table Look-up",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Lookup tool",
+    "description": "Department of Justice tool that calculates the base federal child support amount from the paying parent's gross income, number of children, and province.",
+    "url": "https://www.justice.gc.ca/eng/fl-df/child-enfant/cst-orpe.html",
+    "tags": [
+      "child support",
+      "family law",
+      "calculator"
+    ]
+  },
+  {
+    "name": "CBSA Duty and Taxes Estimator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Estimate duties, GST and excise taxes owing on goods brought back to Canada for personal use before you reach the border.",
+    "url": "https://www.cbsa-asfc.gc.ca/travel-voyage/dte-acl/est-cal-eng.html",
+    "tags": [
+      "customs",
+      "duty",
+      "border",
+      "travel"
+    ]
+  },
+  {
+    "name": "CBSA Border Wait Times",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "transport-roads",
+    "type": "Live wait times",
+    "description": "Live estimated wait times at the 30 busiest US-to-Canada land border crossings, updated at least hourly.",
+    "url": "https://www.cbsa-asfc.gc.ca/bwt-taf/menu-eng.html",
+    "tags": [
+      "border",
+      "wait times",
+      "travel",
+      "live data"
+    ]
+  },
+  {
+    "name": "Canadian Trademarks Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Search tool",
+    "description": "CIPO's searchable database of more than 1.4 million Canadian trademarks registered from 1865 to the present, updated weekly.",
+    "url": "https://ised-isde.canada.ca/cipo/trademark-search/srch",
+    "tags": [
+      "trademarks",
+      "intellectual property",
+      "cipo",
+      "search"
+    ]
+  },
+  {
+    "name": "Canadian Patents Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Search tool",
+    "description": "Search over 2.6 million Canadian patent documents from 1869 to the present, with full-text and images, maintained by CIPO.",
+    "url": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html",
+    "tags": [
+      "patents",
+      "intellectual property",
+      "cipo",
+      "search"
+    ]
+  },
+  {
+    "name": "Corporations Canada — Federal Corporation Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Registry search",
+    "description": "Confirm the existence and status of any federally incorporated business, not-for-profit, cooperative or board of trade by name, corporation number or business number.",
+    "url": "https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html",
+    "tags": [
+      "corporations",
+      "registry",
+      "business search"
+    ]
+  },
+  {
+    "name": "Bank of Canada — Currency Converter",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Calculator",
+    "description": "Convert to and from Canadian dollars using the Bank of Canada's official daily exchange rates, with historical rates back to 2017.",
+    "url": "https://www.bankofcanada.ca/rates/exchange/currency-converter/",
+    "tags": [
+      "exchange rates",
+      "currency",
+      "converter"
+    ]
+  },
+  {
+    "name": "FCAC — Budget Planner",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Budget tool",
+    "description": "Interactive Financial Consumer Agency of Canada tool that builds a personalized budget with charts, comparisons to similar households, and a downloadable spreadsheet.",
+    "url": "https://itools-ioutils.fcac-acfc.gc.ca/BP-PB/budget-planner",
+    "tags": [
+      "budgeting",
+      "personal finance",
+      "planner"
+    ]
+  },
+  {
+    "name": "FCAC — Account Comparison Tool",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Comparator",
+    "description": "Compare fees, interest rates and features across 250+ chequing and savings accounts from Canadian banks and credit unions.",
+    "url": "https://itools-ioutils.fcac-acfc.gc.ca/ACT-OCC/SearchFilter-eng.aspx",
+    "tags": [
+      "bank accounts",
+      "comparison",
+      "fees"
+    ]
+  },
+  {
+    "name": "NRC — Sunrise/Sunset Calculator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Calculator",
+    "description": "National Research Council calculator for sunrise, sunset and sun angles for any Canadian location and date, accurate to ±2 minutes and certifiable for legal purposes.",
+    "url": "https://nrc.canada.ca/en/research-development/products-services/software-applications/sun-calculator/",
+    "tags": [
+      "sunrise",
+      "sunset",
+      "astronomy",
+      "nrc"
+    ]
+  },
+  {
+    "name": "NRC — Web Clock (Canada's Official Time)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Time tool",
+    "description": "Official time across Canada's time zones, served live from the National Research Council's atomic clocks.",
+    "url": "https://nrc.canada.ca/en/research-development/products-services/software-applications/web-clock-official-times-across-canada",
+    "tags": [
+      "time",
+      "atomic clock",
+      "nrc"
+    ]
+  },
+  {
+    "name": "CHS — Tides, Currents and Water Levels",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Prediction tool",
+    "description": "Canadian Hydrographic Service predictions, observations and forecasts of tides and water levels for over 700 stations across Canada.",
+    "url": "https://www.tides.gc.ca/en/tides-currents-and-water-levels",
+    "tags": [
+      "tides",
+      "water levels",
+      "marine",
+      "predictions"
+    ]
+  },
+  {
+    "name": "Canada Post — Find a Postal Code",
+    "level": "Crown Corp",
+    "jurisdiction": "Canada",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Official postal code lookup by civic, rural route or post office box address, with address autocomplete.",
+    "url": "https://www.canadapost-postescanada.ca/cpc/en/tools/find-a-postal-code.page",
+    "tags": [
+      "postal code",
+      "address",
+      "lookup"
+    ]
+  },
+  {
+    "name": "Transport Canada — Motor Vehicle Safety Recalls Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Recall search",
+    "description": "Search safety recalls by make, model and year for Canadian-market vehicles, motorcycles, snowmobiles, trailers and child car seats.",
+    "url": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/menu.aspx?lang=eng",
+    "tags": [
+      "recalls",
+      "vehicles",
+      "safety",
+      "search"
+    ]
+  },
+  {
+    "name": "NRCan — Fuel Consumption Ratings Search Tool",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "transport-roads",
+    "type": "Search tool",
+    "description": "Compare fuel consumption and CO2 emissions of new light-duty vehicles sold in Canada, including hybrids and electric vehicles, with data back to 1995.",
+    "url": "https://fcr-ccc.nrcan-rncan.gc.ca/en/Search",
+    "tags": [
+      "fuel economy",
+      "vehicles",
+      "emissions",
+      "comparison"
+    ]
+  },
+  {
+    "name": "Canadian Geographical Names Database Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Lookup tool",
+    "description": "Query nearly 350,000 official Canadian place names by name, coordinates or area, with API access and downloadable datasets, maintained by NRCan.",
+    "url": "https://geonames.nrcan.gc.ca/search-place-names/search",
+    "tags": [
+      "place names",
+      "geography",
+      "gazetteer",
+      "api"
+    ]
+  },
+  {
+    "name": "OrgBook BC",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "business",
+    "type": "Registry search",
+    "description": "Public verifiable-credential directory from BC Registries to confirm a business is legally incorporated and in good standing, with API access.",
+    "url": "https://orgbook.gov.bc.ca/",
+    "tags": [
+      "business registry",
+      "verification",
+      "bc",
+      "api"
+    ]
+  },
+  {
+    "name": "Manitoba Assessment Online",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "housing",
+    "type": "Property",
+    "description": "Search property assessment values and details for all Manitoba properties outside Winnipeg.",
+    "url": "https://www.gov.mb.ca/mao/public/default.aspx",
+    "tags": [
+      "property assessment",
+      "manitoba",
+      "search"
+    ]
+  },
+  {
+    "name": "PVSC — Nova Scotia Assessment Search",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "housing",
+    "type": "Property",
+    "description": "Find any of Nova Scotia's 650,000+ property assessments by civic address, assessment account number, community or sale date.",
+    "url": "https://www.pvsc.ca/find-assessment",
+    "tags": [
+      "property assessment",
+      "nova scotia",
+      "search"
+    ]
+  },
+  {
+    "name": "Toronto — Property Tax Calculator",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Instant estimate of Toronto residential property taxes from purchase price or MPAC assessed value.",
+    "url": "https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-calculator/",
+    "tags": [
+      "property tax",
+      "toronto",
+      "calculator"
+    ]
+  },
+  {
+    "name": "Calgary — Property Tax Calculator",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Estimate and breakdown of Calgary property taxes from assessed value, split between municipal and education shares.",
+    "url": "https://www.calgary.ca/property-owners/taxes/calculator.html",
+    "tags": [
+      "property tax",
+      "calgary",
+      "calculator"
+    ]
   }
 ]
