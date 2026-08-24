@@ -8133,6 +8133,22 @@
     "dateAdded": "2028-03-04"
   },
   {
+    "name": "Répertoire du patrimoine culturel du Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Official register of Quebec's cultural heritage: classified and recognized buildings, archaeological sites, heritage districts, and intangible heritage, with legal status maps per municipality.",
+    "url": "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/",
+    "tags": [
+      "bilingual",
+      "heritage register",
+      "patrimoine",
+      "quebec"
+    ],
+    "dateAdded": "2028-03-07"
+  },
+  {
     "name": "Burlington Heritage Register",
     "level": "Municipal",
     "jurisdiction": "Burlington",
@@ -8145,7 +8161,7 @@
       "heritage",
       "register"
     ],
-    "dateAdded": "2028-03-07"
+    "dateAdded": "2028-03-10"
   },
   {
     "name": "Calgary Heritage Inventory",
@@ -8161,7 +8177,7 @@
       "historic buildings",
       "open data"
     ],
-    "dateAdded": "2028-03-10"
+    "dateAdded": "2028-03-13"
   },
   {
     "name": "Cornwall Heritage Designated Sites Open Data",
@@ -8178,7 +8194,7 @@
       "open data",
       "geojson"
     ],
-    "dateAdded": "2028-03-13"
+    "dateAdded": "2028-03-16"
   },
   {
     "name": "Edmonton Register of Historic Resources",
@@ -8194,7 +8210,7 @@
       "historic resources",
       "register"
     ],
-    "dateAdded": "2028-03-16"
+    "dateAdded": "2028-03-19"
   },
   {
     "name": "Hamilton Heritage Properties — Open Data",
@@ -8210,7 +8226,7 @@
       "open data",
       "gis"
     ],
-    "dateAdded": "2028-03-19"
+    "dateAdded": "2028-03-22"
   },
   {
     "name": "Kingston Heritage Register",
@@ -8226,7 +8242,7 @@
       "register",
       "ontario heritage act"
     ],
-    "dateAdded": "2028-03-22"
+    "dateAdded": "2028-03-25"
   },
   {
     "name": "London Register of Cultural Heritage Resources — CityMap",
@@ -8242,7 +8258,7 @@
       "register",
       "map"
     ],
-    "dateAdded": "2028-03-25"
+    "dateAdded": "2028-03-28"
   },
   {
     "name": "Montreal Protected Heritage Sites",
@@ -8259,7 +8275,7 @@
       "geojson",
       "quebec"
     ],
-    "dateAdded": "2028-03-28"
+    "dateAdded": "2028-03-31"
   },
   {
     "name": "Ottawa Heritage Register (Not Designated)",
@@ -8276,7 +8292,7 @@
       "arcgis",
       "planning"
     ],
-    "dateAdded": "2028-03-31"
+    "dateAdded": "2028-04-03"
   },
   {
     "name": "SooMaps Heritage Sites Data",
@@ -8293,7 +8309,7 @@
       "json",
       "open data"
     ],
-    "dateAdded": "2028-04-03"
+    "dateAdded": "2028-04-06"
   },
   {
     "name": "St. Thomas Heritage Properties",
@@ -8308,7 +8324,7 @@
       "heritage",
       "designated properties"
     ],
-    "dateAdded": "2028-04-06"
+    "dateAdded": "2028-04-09"
   },
   {
     "name": "Thunder Bay — Heritage Register CSV",
@@ -8326,7 +8342,7 @@
       "register",
       "Ontario"
     ],
-    "dateAdded": "2028-04-09"
+    "dateAdded": "2028-04-12"
   },
   {
     "name": "Toronto Heritage Register (Map)",
@@ -8342,7 +8358,7 @@
       "register",
       "map"
     ],
-    "dateAdded": "2028-04-12"
+    "dateAdded": "2028-04-15"
   },
   {
     "name": "Vancouver Heritage Sites",
@@ -8359,7 +8375,7 @@
       "open data",
       "csv"
     ],
-    "dateAdded": "2028-04-15"
+    "dateAdded": "2028-04-18"
   },
   {
     "name": "Canada Greener Homes Initiative",
@@ -8376,7 +8392,7 @@
       "retrofit",
       "grants"
     ],
-    "dateAdded": "2028-04-18"
+    "dateAdded": "2028-04-21"
   },
   {
     "name": "First Home Savings Account (FHSA)",
@@ -8390,7 +8406,7 @@
       "FHSA",
       "savings"
     ],
-    "dateAdded": "2028-04-21"
+    "dateAdded": "2028-04-24"
   },
   {
     "name": "Government of Canada Financial Tools and Calculators",
@@ -8406,7 +8422,7 @@
       "mortgage",
       "retirement"
     ],
-    "dateAdded": "2028-04-24"
+    "dateAdded": "2028-04-27"
   },
   {
     "name": "Home Buyers' Plan (HBP) — RRSP Withdrawal",
@@ -8420,7 +8436,7 @@
       "RRSP",
       "home buying"
     ],
-    "dateAdded": "2028-04-27"
+    "dateAdded": "2028-04-30"
   },
   {
     "name": "Underused Housing Tax — Overview",
@@ -8434,7 +8450,7 @@
       "housing",
       "tax"
     ],
-    "dateAdded": "2028-04-30"
+    "dateAdded": "2028-05-03"
   },
   {
     "name": "Canada Lands Company — Property Portfolio",
@@ -8448,7 +8464,7 @@
       "real estate",
       "federal"
     ],
-    "dateAdded": "2028-05-03"
+    "dateAdded": "2028-05-06"
   },
   {
     "name": "CMHC — Mortgage Calculator",
@@ -8462,7 +8478,7 @@
       "mortgage",
       "calculator"
     ],
-    "dateAdded": "2028-05-06"
+    "dateAdded": "2028-05-09"
   },
   {
     "name": "CMHC Housing Affordability Tracker",
@@ -8476,7 +8492,7 @@
       "housing",
       "affordability"
     ],
-    "dateAdded": "2028-05-09"
+    "dateAdded": "2028-05-12"
   },
   {
     "name": "Canadian Real Estate Association — Stats",
@@ -8490,7 +8506,7 @@
       "real estate",
       "market"
     ],
-    "dateAdded": "2028-05-12"
+    "dateAdded": "2028-05-15"
   },
   {
     "name": "Toronto Community Housing — Directory",
@@ -8504,7 +8520,7 @@
       "housing",
       "Toronto"
     ],
-    "dateAdded": "2028-05-15"
+    "dateAdded": "2028-05-18"
   },
   {
     "name": "Alberta Property Rights — Land Titles",
@@ -8519,7 +8535,7 @@
       "land",
       "property"
     ],
-    "dateAdded": "2028-05-18"
+    "dateAdded": "2028-05-21"
   },
   {
     "name": "Alberta Residential Tenancy Dispute Resolution Service",
@@ -8533,7 +8549,7 @@
       "Alberta",
       "tenant"
     ],
-    "dateAdded": "2028-05-21"
+    "dateAdded": "2028-05-24"
   },
   {
     "name": "BC Assessment — Property Search",
@@ -8548,7 +8564,7 @@
       "property",
       "assessment"
     ],
-    "dateAdded": "2028-05-24"
+    "dateAdded": "2028-05-27"
   },
   {
     "name": "BC Residential Tenancy Branch",
@@ -8562,7 +8578,7 @@
       "BC",
       "tenant"
     ],
-    "dateAdded": "2028-05-27"
+    "dateAdded": "2028-05-30"
   },
   {
     "name": "Manitoba Residential Tenancies Branch",
@@ -8576,7 +8592,7 @@
       "Manitoba",
       "tenant"
     ],
-    "dateAdded": "2028-05-30"
+    "dateAdded": "2028-06-02"
   },
   {
     "name": "Landlord and Tenant Board (LTB) Ontario",
@@ -8590,7 +8606,7 @@
       "Ontario",
       "tenant"
     ],
-    "dateAdded": "2028-06-02"
+    "dateAdded": "2028-06-05"
   },
   {
     "name": "Ontario — OnLand Property Records",
@@ -8606,7 +8622,7 @@
       "property records",
       "title search"
     ],
-    "dateAdded": "2028-06-05"
+    "dateAdded": "2028-06-08"
   },
   {
     "name": "Ontario Property Assessment — MPAC",
@@ -8621,7 +8637,7 @@
       "property",
       "assessment"
     ],
-    "dateAdded": "2028-06-08"
+    "dateAdded": "2028-06-11"
   },
   {
     "name": "PEI Property Tax Calculator",
@@ -8636,7 +8652,7 @@
       "property",
       "calculator"
     ],
-    "dateAdded": "2028-06-11"
+    "dateAdded": "2028-06-14"
   },
   {
     "name": "Tribunal administratif du logement (TAL) Quebec",
@@ -8650,7 +8666,7 @@
       "Quebec",
       "tenant"
     ],
-    "dateAdded": "2028-06-14"
+    "dateAdded": "2028-06-17"
   },
   {
     "name": "Vancouver Active Condo Listings — City Data",
@@ -8665,7 +8681,7 @@
       "housing",
       "open data"
     ],
-    "dateAdded": "2028-06-17"
+    "dateAdded": "2028-06-20"
   },
   {
     "name": "Windsor Property Tax Calculator",
@@ -8680,7 +8696,7 @@
       "property",
       "calculator"
     ],
-    "dateAdded": "2028-06-20"
+    "dateAdded": "2028-06-23"
   },
   {
     "name": "Express Entry — Create an Express Entry Profile",
@@ -8695,7 +8711,7 @@
       "express entry",
       "IRCC"
     ],
-    "dateAdded": "2028-06-23"
+    "dateAdded": "2028-06-26"
   },
   {
     "name": "Express Entry — Eligibility Checker",
@@ -8710,7 +8726,7 @@
       "express entry",
       "IRCC"
     ],
-    "dateAdded": "2028-06-26"
+    "dateAdded": "2028-06-29"
   },
   {
     "name": "Immigration, Refugees and Citizenship Canada — Come to Canada Tool",
@@ -8725,7 +8741,7 @@
       "eligibility",
       "IRCC"
     ],
-    "dateAdded": "2028-06-29"
+    "dateAdded": "2028-07-02"
   },
   {
     "name": "IRCC — Application Processing Times",
@@ -8739,7 +8755,7 @@
       "immigration",
       "IRCC"
     ],
-    "dateAdded": "2028-07-02"
+    "dateAdded": "2028-07-05"
   },
   {
     "name": "IRCC — Express Entry Rounds of Invitations",
@@ -8753,7 +8769,7 @@
       "Express Entry",
       "IRCC"
     ],
-    "dateAdded": "2028-07-05"
+    "dateAdded": "2028-07-08"
   },
   {
     "name": "IRCC — Medical Requirements and Panel Physicians",
@@ -8767,7 +8783,7 @@
       "IRCC",
       "medical"
     ],
-    "dateAdded": "2028-07-08"
+    "dateAdded": "2028-07-11"
   },
   {
     "name": "IRCC — Post-Graduation Work Permit",
@@ -8781,7 +8797,7 @@
       "PGWP",
       "work"
     ],
-    "dateAdded": "2028-07-11"
+    "dateAdded": "2028-07-14"
   },
   {
     "name": "IRCC — Provincial Nominee Program (PNP) Directory",
@@ -8795,7 +8811,7 @@
       "PNP",
       "immigration"
     ],
-    "dateAdded": "2028-07-14"
+    "dateAdded": "2028-07-17"
   },
   {
     "name": "IRCC — Study Permit Application",
@@ -8809,7 +8825,7 @@
       "study",
       "permit"
     ],
-    "dateAdded": "2028-07-17"
+    "dateAdded": "2028-07-20"
   },
   {
     "name": "Alberta Advantage Immigration Program",
@@ -8823,7 +8839,7 @@
       "Alberta",
       "PNP"
     ],
-    "dateAdded": "2028-07-20"
+    "dateAdded": "2028-07-23"
   },
   {
     "name": "BC Provincial Nominee Program",
@@ -8837,7 +8853,7 @@
       "BC",
       "PNP"
     ],
-    "dateAdded": "2028-07-23"
+    "dateAdded": "2028-07-26"
   },
   {
     "name": "Manitoba Provincial Nominee Program",
@@ -8851,7 +8867,7 @@
       "Manitoba",
       "PNP"
     ],
-    "dateAdded": "2028-07-26"
+    "dateAdded": "2028-07-29"
   },
   {
     "name": "Ontario Immigrant Nominee Program (OINP)",
@@ -8865,7 +8881,7 @@
       "Ontario",
       "PNP"
     ],
-    "dateAdded": "2028-07-29"
+    "dateAdded": "2028-08-01"
   },
   {
     "name": "Quebec Immigration — Mon projet Québec",
@@ -8879,7 +8895,7 @@
       "Quebec",
       "immigration"
     ],
-    "dateAdded": "2028-08-01"
+    "dateAdded": "2028-08-04"
   },
   {
     "name": "Crown-Indigenous Relations — Specific Claims",
@@ -8893,7 +8909,7 @@
       "Indigenous",
       "claims"
     ],
-    "dateAdded": "2028-08-04"
+    "dateAdded": "2028-08-07"
   },
   {
     "name": "Indigenous Services Canada — Indian Register",
@@ -8907,7 +8923,7 @@
       "Indigenous",
       "status"
     ],
-    "dateAdded": "2028-08-07"
+    "dateAdded": "2028-08-10"
   },
   {
     "name": "Indigenous Services Canada — Jordan's Principle",
@@ -8921,7 +8937,7 @@
       "Indigenous",
       "children"
     ],
-    "dateAdded": "2028-08-10"
+    "dateAdded": "2028-08-13"
   },
   {
     "name": "Assembly of First Nations",
@@ -8934,7 +8950,7 @@
     "tags": [
       "First Nations"
     ],
-    "dateAdded": "2028-08-13"
+    "dateAdded": "2028-08-16"
   },
   {
     "name": "First Nations Information Governance Centre",
@@ -8948,7 +8964,7 @@
       "Indigenous",
       "data"
     ],
-    "dateAdded": "2028-08-16"
+    "dateAdded": "2028-08-19"
   },
   {
     "name": "Inuit Tapiriit Kanatami",
@@ -8961,7 +8977,7 @@
     "tags": [
       "Inuit"
     ],
-    "dateAdded": "2028-08-19"
+    "dateAdded": "2028-08-22"
   },
   {
     "name": "Métis National Council",
@@ -8974,7 +8990,7 @@
     "tags": [
       "Métis"
     ],
-    "dateAdded": "2028-08-22"
+    "dateAdded": "2028-08-25"
   },
   {
     "name": "Pauktuutit Inuit Women of Canada",
@@ -8988,7 +9004,7 @@
       "Inuit",
       "women"
     ],
-    "dateAdded": "2028-08-25"
+    "dateAdded": "2028-08-28"
   },
   {
     "name": "Federal Court of Canada",
@@ -9001,7 +9017,7 @@
     "tags": [
       "federal court"
     ],
-    "dateAdded": "2028-08-28"
+    "dateAdded": "2028-08-31"
   },
   {
     "name": "Justice Canada — Laws of Canada",
@@ -9015,7 +9031,7 @@
       "statutes",
       "legal"
     ],
-    "dateAdded": "2028-08-31"
+    "dateAdded": "2028-09-03"
   },
   {
     "name": "Public Prosecution Service of Canada",
@@ -9028,7 +9044,7 @@
     "tags": [
       "prosecution"
     ],
-    "dateAdded": "2028-09-03"
+    "dateAdded": "2028-09-06"
   },
   {
     "name": "Supreme Court of Canada — Judgments",
@@ -9042,7 +9058,7 @@
       "SCC",
       "judgments"
     ],
-    "dateAdded": "2028-09-06"
+    "dateAdded": "2028-09-09"
   },
   {
     "name": "Tax Court of Canada",
@@ -9056,7 +9072,7 @@
       "tax",
       "court"
     ],
-    "dateAdded": "2028-09-09"
+    "dateAdded": "2028-09-12"
   },
   {
     "name": "Courts of Ontario — Case Search",
@@ -9070,7 +9086,7 @@
       "justice",
       "Ontario"
     ],
-    "dateAdded": "2028-09-12"
+    "dateAdded": "2028-09-15"
   },
   {
     "name": "Ontario Court of Appeal — Decisions",
@@ -9084,7 +9100,7 @@
       "justice",
       "Ontario"
     ],
-    "dateAdded": "2028-09-15"
+    "dateAdded": "2028-09-18"
   },
   {
     "name": "Ontario Human Rights Tribunal — Decisions",
@@ -9098,7 +9114,7 @@
       "justice",
       "Ontario"
     ],
-    "dateAdded": "2028-09-18"
+    "dateAdded": "2028-09-21"
   },
   {
     "name": "CanLII — Canadian Legal Information Institute",
@@ -9112,7 +9128,7 @@
       "case law",
       "legal"
     ],
-    "dateAdded": "2028-09-21"
+    "dateAdded": "2028-09-24"
   },
   {
     "name": "Ontario Rental Housing Tribunal — Rent Increases",
@@ -9127,7 +9143,7 @@
       "rent",
       "Ontario"
     ],
-    "dateAdded": "2028-09-24"
+    "dateAdded": "2028-09-27"
   },
   {
     "name": "Legal Aid Alberta",
@@ -9141,7 +9157,7 @@
       "Alberta",
       "legal aid"
     ],
-    "dateAdded": "2028-09-27"
+    "dateAdded": "2028-09-30"
   },
   {
     "name": "Legal Services Society — Legal Aid BC",
@@ -9155,7 +9171,7 @@
       "BC",
       "legal aid"
     ],
-    "dateAdded": "2028-09-30"
+    "dateAdded": "2028-10-03"
   },
   {
     "name": "Legal Aid Ontario",
@@ -9169,7 +9185,7 @@
       "Ontario",
       "legal aid"
     ],
-    "dateAdded": "2028-10-03"
+    "dateAdded": "2028-10-06"
   },
   {
     "name": "Ontario Courts Public Portal",
@@ -9185,7 +9201,7 @@
       "justice",
       "digital service"
     ],
-    "dateAdded": "2028-10-06"
+    "dateAdded": "2028-10-09"
   },
   {
     "name": "Tribunals Ontario — Online Hearing Portal",
@@ -9199,7 +9215,7 @@
       "Ontario",
       "tribunal"
     ],
-    "dateAdded": "2028-10-09"
+    "dateAdded": "2028-10-12"
   },
   {
     "name": "Commission des services juridiques (Quebec)",
@@ -9213,7 +9229,7 @@
       "Quebec",
       "legal aid"
     ],
-    "dateAdded": "2028-10-12"
+    "dateAdded": "2028-10-15"
   },
   {
     "name": "Federal Lobbying Registrations — Open Data",
@@ -9230,7 +9246,7 @@
       "federal",
       "transparency"
     ],
-    "dateAdded": "2028-10-15"
+    "dateAdded": "2028-10-18"
   },
   {
     "name": "Office of the Commissioner of Lobbying — Lobbyist Registry",
@@ -9246,7 +9262,7 @@
       "registry",
       "transparency"
     ],
-    "dateAdded": "2028-10-18"
+    "dateAdded": "2028-10-21"
   },
   {
     "name": "BC Lobbyists Registry — Open Data",
@@ -9263,7 +9279,7 @@
       "transparency",
       "open data"
     ],
-    "dateAdded": "2028-10-21"
+    "dateAdded": "2028-10-24"
   },
   {
     "name": "Manitoba Lobbyists Registry",
@@ -9278,7 +9294,7 @@
       "lobbyists",
       "registry"
     ],
-    "dateAdded": "2028-10-24"
+    "dateAdded": "2028-10-27"
   },
   {
     "name": "Newfoundland and Labrador Lobbyist Registry Search",
@@ -9294,7 +9310,7 @@
       "registry",
       "search"
     ],
-    "dateAdded": "2028-10-27"
+    "dateAdded": "2028-10-30"
   },
   {
     "name": "Ontario Lobbyist Registry — Public Search",
@@ -9311,7 +9327,7 @@
       "search",
       "transparency"
     ],
-    "dateAdded": "2028-10-30"
+    "dateAdded": "2028-11-02"
   },
   {
     "name": "Prince Edward Island Lobbyist Registry",
@@ -9326,7 +9342,7 @@
       "lobbyists",
       "registry"
     ],
-    "dateAdded": "2028-11-02"
+    "dateAdded": "2028-11-05"
   },
   {
     "name": "Carrefour Lobby Québec",
@@ -9342,7 +9358,7 @@
       "registry",
       "transparency"
     ],
-    "dateAdded": "2028-11-05"
+    "dateAdded": "2028-11-08"
   },
   {
     "name": "Saskatchewan Lobbyist Registry",
@@ -9358,7 +9374,7 @@
       "registry",
       "search"
     ],
-    "dateAdded": "2028-11-08"
+    "dateAdded": "2028-11-11"
   },
   {
     "name": "Calgary Lobbyist Information",
@@ -9374,7 +9390,7 @@
       "open data",
       "api"
     ],
-    "dateAdded": "2028-11-11"
+    "dateAdded": "2028-11-14"
   },
   {
     "name": "Ottawa Lobbyist Registry",
@@ -9390,7 +9406,7 @@
       "registry",
       "search"
     ],
-    "dateAdded": "2028-11-14"
+    "dateAdded": "2028-11-17"
   },
   {
     "name": "Toronto Lobbyist Registry — Open Data",
@@ -9406,7 +9422,7 @@
       "open data",
       "csv"
     ],
-    "dateAdded": "2028-11-17"
+    "dateAdded": "2028-11-20"
   },
   {
     "name": "Census Program",
@@ -9420,7 +9436,7 @@
       "census",
       "demographics"
     ],
-    "dateAdded": "2028-11-20"
+    "dateAdded": "2028-11-23"
   },
   {
     "name": "GEO.ca",
@@ -9436,7 +9452,7 @@
       "open data",
       "federal"
     ],
-    "dateAdded": "2028-11-23"
+    "dateAdded": "2028-11-26"
   },
   {
     "name": "Government of Canada — Open Government Portal",
@@ -9450,7 +9466,7 @@
       "open data",
       "federal"
     ],
-    "dateAdded": "2028-11-26"
+    "dateAdded": "2028-11-29"
   },
   {
     "name": "ISED API Catalogue",
@@ -9466,7 +9482,7 @@
       "business",
       "federal"
     ],
-    "dateAdded": "2028-11-29"
+    "dateAdded": "2028-12-02"
   },
   {
     "name": "Open Government Portal",
@@ -9480,7 +9496,7 @@
       "open data",
       "federal"
     ],
-    "dateAdded": "2028-12-02"
+    "dateAdded": "2028-12-05"
   },
   {
     "name": "Open Maps",
@@ -9494,7 +9510,7 @@
       "maps",
       "geospatial"
     ],
-    "dateAdded": "2028-12-05"
+    "dateAdded": "2028-12-08"
   },
   {
     "name": "Open North",
@@ -9511,7 +9527,7 @@
       "nonprofit",
       "transparency"
     ],
-    "dateAdded": "2028-12-08"
+    "dateAdded": "2028-12-11"
   },
   {
     "name": "Proactive Publication of Government Contracts",
@@ -9525,7 +9541,7 @@
       "transparency",
       "contracts"
     ],
-    "dateAdded": "2028-12-11"
+    "dateAdded": "2028-12-14"
   },
   {
     "name": "Project Browser — Global Affairs Canada",
@@ -9542,7 +9558,7 @@
       "federal",
       "open data"
     ],
-    "dateAdded": "2028-12-14"
+    "dateAdded": "2028-12-17"
   },
   {
     "name": "Statistics Canada",
@@ -9557,7 +9573,7 @@
       "census",
       "data"
     ],
-    "dateAdded": "2028-12-17"
+    "dateAdded": "2028-12-20"
   },
   {
     "name": "Statistics Canada — Census Profile",
@@ -9571,7 +9587,7 @@
       "census",
       "demographics"
     ],
-    "dateAdded": "2028-12-20"
+    "dateAdded": "2028-12-23"
   },
   {
     "name": "Statistics Canada — Consumer Price Index Portal",
@@ -9586,7 +9602,7 @@
       "prices",
       "economy"
     ],
-    "dateAdded": "2028-12-23"
+    "dateAdded": "2028-12-26"
   },
   {
     "name": "Statistics Canada — Data Visualization Gallery",
@@ -9601,7 +9617,7 @@
       "statistics",
       "visualizations"
     ],
-    "dateAdded": "2028-12-26"
+    "dateAdded": "2028-12-29"
   },
   {
     "name": "Statistics Canada — The Daily",
@@ -9615,7 +9631,7 @@
       "statistics",
       "news"
     ],
-    "dateAdded": "2028-12-29"
+    "dateAdded": "2029-01-01"
   },
   {
     "name": "Statistics Canada — Web Data Service (WDS) API",
@@ -9630,7 +9646,7 @@
       "developers",
       "statistics"
     ],
-    "dateAdded": "2029-01-01"
+    "dateAdded": "2029-01-04"
   },
   {
     "name": "Statistics Canada Developers",
@@ -9644,7 +9660,7 @@
       "developers",
       "api"
     ],
-    "dateAdded": "2029-01-04"
+    "dateAdded": "2029-01-07"
   },
   {
     "name": "Canadian Urban Transit Association — Stats Dashboard",
@@ -9658,7 +9674,7 @@
       "transit",
       "data"
     ],
-    "dateAdded": "2029-01-07"
+    "dateAdded": "2029-01-10"
   },
   {
     "name": "Alberta Open Government Portal",
@@ -9674,7 +9690,7 @@
       "government",
       "transparency"
     ],
-    "dateAdded": "2029-01-10"
+    "dateAdded": "2029-01-13"
   },
   {
     "name": "B.C. API Gateway",
@@ -9690,7 +9706,7 @@
       "BC",
       "open data"
     ],
-    "dateAdded": "2029-01-13"
+    "dateAdded": "2029-01-16"
   },
   {
     "name": "DataBC",
@@ -9704,7 +9720,7 @@
       "open data",
       "BC"
     ],
-    "dateAdded": "2029-01-16"
+    "dateAdded": "2029-01-19"
   },
   {
     "name": "Manitoba — Data MB (Geospatial Open Data Portal)",
@@ -9725,7 +9741,7 @@
       "portal",
       "ArcGIS Hub"
     ],
-    "dateAdded": "2029-01-19"
+    "dateAdded": "2029-01-22"
   },
   {
     "name": "New Brunswick — GeoNB Map Viewer",
@@ -9744,7 +9760,7 @@
       "land use",
       "environment"
     ],
-    "dateAdded": "2029-01-22"
+    "dateAdded": "2029-01-25"
   },
   {
     "name": "Newfoundland and Labrador — Municipalities and Local Service Districts",
@@ -9764,7 +9780,7 @@
       "boundaries",
       "open data"
     ],
-    "dateAdded": "2029-01-25"
+    "dateAdded": "2029-01-28"
   },
   {
     "name": "Newfoundland and Labrador — Provincial Electoral Districts (2015)",
@@ -9783,7 +9799,7 @@
       "elections",
       "open data"
     ],
-    "dateAdded": "2029-01-28"
+    "dateAdded": "2029-01-31"
   },
   {
     "name": "Newfoundland and Labrador Geospatial Open Data",
@@ -9800,7 +9816,7 @@
       "geospatial",
       "shapefile"
     ],
-    "dateAdded": "2029-01-31"
+    "dateAdded": "2029-02-03"
   },
   {
     "name": "Newfoundland and Labrador Open Data",
@@ -9815,7 +9831,7 @@
       "open data",
       "datasets"
     ],
-    "dateAdded": "2029-02-03"
+    "dateAdded": "2029-02-06"
   },
   {
     "name": "Newfoundland and Labrador Statistics Agency",
@@ -9830,7 +9846,7 @@
       "statistics",
       "data"
     ],
-    "dateAdded": "2029-02-06"
+    "dateAdded": "2029-02-09"
   },
   {
     "name": "Northwest Territories Open Data",
@@ -9845,7 +9861,7 @@
       "open data",
       "territorial"
     ],
-    "dateAdded": "2029-02-09"
+    "dateAdded": "2029-02-12"
   },
   {
     "name": "GeoNova — Nova Scotia Geospatial Data",
@@ -9861,7 +9877,7 @@
       "maps",
       "nova scotia"
     ],
-    "dateAdded": "2029-02-12"
+    "dateAdded": "2029-02-15"
   },
   {
     "name": "Nova Scotia Open Data",
@@ -9875,7 +9891,7 @@
       "open data",
       "NS"
     ],
-    "dateAdded": "2029-02-15"
+    "dateAdded": "2029-02-18"
   },
   {
     "name": "Nunavut Open Data Portal",
@@ -9890,7 +9906,7 @@
       "open data",
       "territorial"
     ],
-    "dateAdded": "2029-02-18"
+    "dateAdded": "2029-02-21"
   },
   {
     "name": "Ontario Data Catalogue",
@@ -9904,7 +9920,7 @@
       "open data",
       "Ontario"
     ],
-    "dateAdded": "2029-02-21"
+    "dateAdded": "2029-02-24"
   },
   {
     "name": "PEI Open Data",
@@ -9918,7 +9934,7 @@
       "open data",
       "PEI"
     ],
-    "dateAdded": "2029-02-24"
+    "dateAdded": "2029-02-27"
   },
   {
     "name": "Prince Edward Island Open Data Portal",
@@ -9933,7 +9949,7 @@
       "open data",
       "datasets"
     ],
-    "dateAdded": "2029-02-27"
+    "dateAdded": "2029-03-02"
   },
   {
     "name": "Données Québec",
@@ -9947,7 +9963,7 @@
       "open data",
       "Quebec"
     ],
-    "dateAdded": "2029-03-02"
+    "dateAdded": "2029-03-05"
   },
   {
     "name": "Yukon Open Data",
@@ -9962,7 +9978,7 @@
       "open data",
       "datasets"
     ],
-    "dateAdded": "2029-03-05"
+    "dateAdded": "2029-03-08"
   },
   {
     "name": "Durham Region Open Data",
@@ -9979,7 +9995,7 @@
       "arcgis hub",
       "regional"
     ],
-    "dateAdded": "2029-03-08"
+    "dateAdded": "2029-03-11"
   },
   {
     "name": "Durham Region Open Data Portal",
@@ -9995,7 +10011,7 @@
       "Ontario",
       "GIS"
     ],
-    "dateAdded": "2029-03-11"
+    "dateAdded": "2029-03-14"
   },
   {
     "name": "Halton Region Open Data Portal",
@@ -10011,7 +10027,7 @@
       "Ontario",
       "GIS"
     ],
-    "dateAdded": "2029-03-14"
+    "dateAdded": "2029-03-17"
   },
   {
     "name": "Metro Vancouver Open Data Portal",
@@ -10027,7 +10043,7 @@
       "gis",
       "bc"
     ],
-    "dateAdded": "2029-03-17"
+    "dateAdded": "2029-03-20"
   },
   {
     "name": "Niagara Open Data",
@@ -10044,7 +10060,7 @@
       "ckan",
       "gtfs"
     ],
-    "dateAdded": "2029-03-20"
+    "dateAdded": "2029-03-23"
   },
   {
     "name": "Simcoe County Open Data Hub (Orillia region)",
@@ -10060,7 +10076,7 @@
       "open data",
       "arcgis hub"
     ],
-    "dateAdded": "2029-03-23"
+    "dateAdded": "2029-03-26"
   },
   {
     "name": "Peel Region Open Data",
@@ -10076,7 +10092,7 @@
       "open data",
       "regional"
     ],
-    "dateAdded": "2029-03-26"
+    "dateAdded": "2029-03-29"
   },
   {
     "name": "Peel Region Open Data Portal",
@@ -10092,7 +10108,7 @@
       "Ontario",
       "GIS"
     ],
-    "dateAdded": "2029-03-29"
+    "dateAdded": "2029-04-01"
   },
   {
     "name": "County of Elgin GeoHub (St. Thomas area)",
@@ -10108,7 +10124,7 @@
       "open data",
       "arcgis hub"
     ],
-    "dateAdded": "2029-04-01"
+    "dateAdded": "2029-04-04"
   },
   {
     "name": "Region of Waterloo Open Data",
@@ -10125,7 +10141,7 @@
       "arcgis",
       "gtfs"
     ],
-    "dateAdded": "2029-04-04"
+    "dateAdded": "2029-04-07"
   },
   {
     "name": "Oxford County Open Data Hub",
@@ -10141,7 +10157,7 @@
       "open data",
       "arcgis hub"
     ],
-    "dateAdded": "2029-04-07"
+    "dateAdded": "2029-04-10"
   },
   {
     "name": "York Region Insights Open Data",
@@ -10157,7 +10173,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-04-10"
+    "dateAdded": "2029-04-13"
   },
   {
     "name": "York Region Open Data Portal",
@@ -10173,7 +10189,7 @@
       "Ontario",
       "GIS"
     ],
-    "dateAdded": "2029-04-13"
+    "dateAdded": "2029-04-16"
   },
   {
     "name": "Abbotsford Open Data Hub",
@@ -10189,7 +10205,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-04-16"
+    "dateAdded": "2029-04-19"
   },
   {
     "name": "Airdrie Open Data",
@@ -10206,7 +10222,7 @@
       "arcgis",
       "gtfs"
     ],
-    "dateAdded": "2029-04-19"
+    "dateAdded": "2029-04-22"
   },
   {
     "name": "Ajax Open Data",
@@ -10221,7 +10237,7 @@
       "ontario",
       "open data"
     ],
-    "dateAdded": "2029-04-22"
+    "dateAdded": "2029-04-25"
   },
   {
     "name": "Banff Open Data",
@@ -10237,7 +10253,7 @@
       "open data",
       "parks"
     ],
-    "dateAdded": "2029-04-25"
+    "dateAdded": "2029-04-28"
   },
   {
     "name": "Barrie Open Data Portal",
@@ -10253,7 +10269,7 @@
       "Ontario",
       "GIS"
     ],
-    "dateAdded": "2029-04-28"
+    "dateAdded": "2029-05-01"
   },
   {
     "name": "Bathurst Open Data Portal (ArcGIS Hub)",
@@ -10271,7 +10287,7 @@
       "open data",
       "verified"
     ],
-    "dateAdded": "2029-05-01"
+    "dateAdded": "2029-05-04"
   },
   {
     "name": "City of Belleville Open Data",
@@ -10287,7 +10303,7 @@
       "arcgis hub",
       "parcels"
     ],
-    "dateAdded": "2029-05-04"
+    "dateAdded": "2029-05-07"
   },
   {
     "name": "Brampton Open Data Portal (ArcGIS Hub)",
@@ -10305,7 +10321,7 @@
       "open data",
       "verified"
     ],
-    "dateAdded": "2029-05-07"
+    "dateAdded": "2029-05-10"
   },
   {
     "name": "Brandon Open Data",
@@ -10320,7 +10336,7 @@
       "manitoba",
       "open data"
     ],
-    "dateAdded": "2029-05-10"
+    "dateAdded": "2029-05-13"
   },
   {
     "name": "Burlington Open Data",
@@ -10336,7 +10352,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-05-13"
+    "dateAdded": "2029-05-16"
   },
   {
     "name": "Burnaby Open Data",
@@ -10352,7 +10368,7 @@
       "open data",
       "gis"
     ],
-    "dateAdded": "2029-05-16"
+    "dateAdded": "2029-05-19"
   },
   {
     "name": "Town of Caledon Open Data",
@@ -10368,7 +10384,7 @@
       "arcgis hub",
       "peel"
     ],
-    "dateAdded": "2029-05-19"
+    "dateAdded": "2029-05-22"
   },
   {
     "name": "Calgary Open Data overview",
@@ -10382,7 +10398,7 @@
       "open data",
       "Calgary"
     ],
-    "dateAdded": "2029-05-22"
+    "dateAdded": "2029-05-25"
   },
   {
     "name": "Open Calgary",
@@ -10396,7 +10412,7 @@
       "open data",
       "Calgary"
     ],
-    "dateAdded": "2029-05-25"
+    "dateAdded": "2029-05-28"
   },
   {
     "name": "Cambridge GeoHub",
@@ -10412,7 +10428,7 @@
       "open data",
       "gis"
     ],
-    "dateAdded": "2029-05-28"
+    "dateAdded": "2029-05-31"
   },
   {
     "name": "Canmore Open Data",
@@ -10428,7 +10444,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-05-31"
+    "dateAdded": "2029-06-03"
   },
   {
     "name": "Cape Breton — The Data Zone",
@@ -10444,7 +10460,7 @@
       "open data",
       "gis"
     ],
-    "dateAdded": "2029-06-03"
+    "dateAdded": "2029-06-06"
   },
   {
     "name": "CBRM GIS REST Services",
@@ -10461,7 +10477,7 @@
       "arcgis",
       "api"
     ],
-    "dateAdded": "2029-06-06"
+    "dateAdded": "2029-06-09"
   },
   {
     "name": "Chilliwack Open Data Catalogue",
@@ -10482,7 +10498,7 @@
       "KML",
       "JSON"
     ],
-    "dateAdded": "2029-06-09"
+    "dateAdded": "2029-06-12"
   },
   {
     "name": "Coquitlam Open Data Portal",
@@ -10498,7 +10514,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-06-12"
+    "dateAdded": "2029-06-15"
   },
   {
     "name": "City of Cornwall Open Data",
@@ -10514,7 +10530,7 @@
       "arcgis hub",
       "geojson"
     ],
-    "dateAdded": "2029-06-15"
+    "dateAdded": "2029-06-18"
   },
   {
     "name": "Cornwall Address Points Open Data",
@@ -10531,7 +10547,7 @@
       "open data",
       "csv"
     ],
-    "dateAdded": "2029-06-18"
+    "dateAdded": "2029-06-21"
   },
   {
     "name": "Courtenay Open Data",
@@ -10547,7 +10563,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-06-21"
+    "dateAdded": "2029-06-24"
   },
   {
     "name": "Delta Open Data",
@@ -10569,7 +10585,7 @@
       "KML",
       "API"
     ],
-    "dateAdded": "2029-06-24"
+    "dateAdded": "2029-06-27"
   },
   {
     "name": "East Hants Open Data",
@@ -10585,7 +10601,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-06-27"
+    "dateAdded": "2029-06-30"
   },
   {
     "name": "Edmonton Open Data Portal",
@@ -10599,7 +10615,7 @@
       "open data",
       "Edmonton"
     ],
-    "dateAdded": "2029-06-30"
+    "dateAdded": "2029-07-03"
   },
   {
     "name": "Fredericton Open Data Portal",
@@ -10615,7 +10631,7 @@
       "gis",
       "nb"
     ],
-    "dateAdded": "2029-07-03"
+    "dateAdded": "2029-07-06"
   },
   {
     "name": "Grande Prairie Open Data",
@@ -10631,7 +10647,7 @@
       "open data",
       "socrata"
     ],
-    "dateAdded": "2029-07-06"
+    "dateAdded": "2029-07-09"
   },
   {
     "name": "Greater Sudbury Open Data",
@@ -10646,7 +10662,7 @@
       "ontario",
       "open data"
     ],
-    "dateAdded": "2029-07-09"
+    "dateAdded": "2029-07-12"
   },
   {
     "name": "Grey County Open Data",
@@ -10662,7 +10678,7 @@
       "open data",
       "gis"
     ],
-    "dateAdded": "2029-07-12"
+    "dateAdded": "2029-07-15"
   },
   {
     "name": "Guelph Open Data Portal",
@@ -10678,7 +10694,7 @@
       "Ontario",
       "GIS"
     ],
-    "dateAdded": "2029-07-15"
+    "dateAdded": "2029-07-18"
   },
   {
     "name": "Haldimand County Open Data",
@@ -10693,7 +10709,7 @@
       "ontario",
       "open data"
     ],
-    "dateAdded": "2029-07-18"
+    "dateAdded": "2029-07-21"
   },
   {
     "name": "Halifax Open Data",
@@ -10707,7 +10723,7 @@
       "open data",
       "Halifax"
     ],
-    "dateAdded": "2029-07-21"
+    "dateAdded": "2029-07-24"
   },
   {
     "name": "Hamilton Open Data",
@@ -10721,7 +10737,7 @@
       "open data",
       "Hamilton"
     ],
-    "dateAdded": "2029-07-24"
+    "dateAdded": "2029-07-27"
   },
   {
     "name": "Hamilton Red Light Camera Locations",
@@ -10737,7 +10753,7 @@
       "safety",
       "open data"
     ],
-    "dateAdded": "2029-07-27"
+    "dateAdded": "2029-07-30"
   },
   {
     "name": "Huron County Open Data",
@@ -10753,7 +10769,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-07-30"
+    "dateAdded": "2029-08-02"
   },
   {
     "name": "Kamloops Open Data Hub",
@@ -10769,7 +10785,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-08-02"
+    "dateAdded": "2029-08-05"
   },
   {
     "name": "Kelowna Open Data Hub",
@@ -10787,7 +10803,7 @@
       "zoning",
       "property"
     ],
-    "dateAdded": "2029-08-05"
+    "dateAdded": "2029-08-08"
   },
   {
     "name": "Kingston Open Data Hub",
@@ -10803,7 +10819,7 @@
       "gis",
       "on"
     ],
-    "dateAdded": "2029-08-08"
+    "dateAdded": "2029-08-11"
   },
   {
     "name": "Kitchener Open Data Portal",
@@ -10819,7 +10835,7 @@
       "Ontario",
       "GIS"
     ],
-    "dateAdded": "2029-08-11"
+    "dateAdded": "2029-08-14"
   },
   {
     "name": "Kitchener Open GIS Hub",
@@ -10835,7 +10851,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-08-14"
+    "dateAdded": "2029-08-17"
   },
   {
     "name": "Township of Langley Open Data",
@@ -10851,7 +10867,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-08-17"
+    "dateAdded": "2029-08-20"
   },
   {
     "name": "Lethbridge Open Data Portal",
@@ -10867,7 +10883,7 @@
       "gis",
       "ab"
     ],
-    "dateAdded": "2029-08-20"
+    "dateAdded": "2029-08-23"
   },
   {
     "name": "Ville de Lévis — Données Québec",
@@ -10884,7 +10900,7 @@
       "données québec",
       "geojson"
     ],
-    "dateAdded": "2029-08-23"
+    "dateAdded": "2029-08-26"
   },
   {
     "name": "London Open Data Catalogue",
@@ -10899,7 +10915,7 @@
       "ontario",
       "open data"
     ],
-    "dateAdded": "2029-08-26"
+    "dateAdded": "2029-08-29"
   },
   {
     "name": "Longueuil Open Data Portal (ArcGIS Hub)",
@@ -10917,7 +10933,7 @@
       "open data",
       "verified"
     ],
-    "dateAdded": "2029-08-29"
+    "dateAdded": "2029-09-01"
   },
   {
     "name": "Maple Ridge OpenGov",
@@ -10932,7 +10948,7 @@
       "bc",
       "open data"
     ],
-    "dateAdded": "2029-09-01"
+    "dateAdded": "2029-09-04"
   },
   {
     "name": "Markham Open Data",
@@ -10948,7 +10964,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-09-04"
+    "dateAdded": "2029-09-07"
   },
   {
     "name": "Markham Open Data Portal",
@@ -10964,7 +10980,7 @@
       "Ontario",
       "GIS"
     ],
-    "dateAdded": "2029-09-07"
+    "dateAdded": "2029-09-10"
   },
   {
     "name": "Medicine Hat Open Data",
@@ -10979,7 +10995,7 @@
       "alberta",
       "open data"
     ],
-    "dateAdded": "2029-09-10"
+    "dateAdded": "2029-09-13"
   },
   {
     "name": "Milton Open Data Hub",
@@ -10995,7 +11011,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-09-13"
+    "dateAdded": "2029-09-16"
   },
   {
     "name": "Miramichi Open Data",
@@ -11011,7 +11027,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-09-16"
+    "dateAdded": "2029-09-19"
   },
   {
     "name": "Mississauga Open Data",
@@ -11025,7 +11041,7 @@
       "open data",
       "GTA"
     ],
-    "dateAdded": "2029-09-19"
+    "dateAdded": "2029-09-22"
   },
   {
     "name": "Moncton Open Data Catalogue (ArcGIS Hub)",
@@ -11041,7 +11057,7 @@
       "open data",
       "arcgis hub"
     ],
-    "dateAdded": "2029-09-22"
+    "dateAdded": "2029-09-25"
   },
   {
     "name": "Moncton Open Data Hub",
@@ -11059,7 +11075,7 @@
       "transit",
       "trails"
     ],
-    "dateAdded": "2029-09-25"
+    "dateAdded": "2029-09-28"
   },
   {
     "name": "Montreal Open Data Portal",
@@ -11075,7 +11091,7 @@
       "open data",
       "ckan"
     ],
-    "dateAdded": "2029-09-28"
+    "dateAdded": "2029-10-01"
   },
   {
     "name": "Mount Pearl — Interactive GIS Map",
@@ -11093,7 +11109,7 @@
       "Mount Pearl",
       "interactive map"
     ],
-    "dateAdded": "2029-10-01"
+    "dateAdded": "2029-10-04"
   },
   {
     "name": "Nanaimo Open Data Catalogue",
@@ -11108,7 +11124,7 @@
       "bc",
       "open data"
     ],
-    "dateAdded": "2029-10-04"
+    "dateAdded": "2029-10-07"
   },
   {
     "name": "New Westminster Open Data",
@@ -11123,7 +11139,7 @@
       "bc",
       "open data"
     ],
-    "dateAdded": "2029-10-07"
+    "dateAdded": "2029-10-10"
   },
   {
     "name": "Newmarket Open Data",
@@ -11138,7 +11154,7 @@
       "ontario",
       "open data"
     ],
-    "dateAdded": "2029-10-10"
+    "dateAdded": "2029-10-13"
   },
   {
     "name": "Niagara Falls Open Data",
@@ -11153,7 +11169,7 @@
       "ontario",
       "open data"
     ],
-    "dateAdded": "2029-10-13"
+    "dateAdded": "2029-10-16"
   },
   {
     "name": "Norfolk County Open Data",
@@ -11169,7 +11185,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-10-16"
+    "dateAdded": "2029-10-19"
   },
   {
     "name": "Explore North Bay GIS Portal",
@@ -11185,7 +11201,7 @@
       "arcgis hub",
       "gis"
     ],
-    "dateAdded": "2029-10-19"
+    "dateAdded": "2029-10-22"
   },
   {
     "name": "Oakville Explore Open Data",
@@ -11201,7 +11217,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-10-22"
+    "dateAdded": "2029-10-25"
   },
   {
     "name": "Okotoks Open Data Portal (ArcGIS Hub)",
@@ -11219,7 +11235,7 @@
       "open data",
       "verified"
     ],
-    "dateAdded": "2029-10-25"
+    "dateAdded": "2029-10-28"
   },
   {
     "name": "City of Orillia Open Data",
@@ -11234,7 +11250,7 @@
       "open data",
       "simcoe"
     ],
-    "dateAdded": "2029-10-28"
+    "dateAdded": "2029-10-31"
   },
   {
     "name": "Oshawa Open Data",
@@ -11250,7 +11266,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-10-31"
+    "dateAdded": "2029-11-03"
   },
   {
     "name": "Ottawa Budget Explorer",
@@ -11264,7 +11280,7 @@
       "budget",
       "transparency"
     ],
-    "dateAdded": "2029-11-03"
+    "dateAdded": "2029-11-06"
   },
   {
     "name": "Ottawa Budget Explorer datasets",
@@ -11278,7 +11294,7 @@
       "open data",
       "budget"
     ],
-    "dateAdded": "2029-11-06"
+    "dateAdded": "2029-11-09"
   },
   {
     "name": "Ottawa Open Data",
@@ -11292,7 +11308,7 @@
       "open data",
       "Ottawa"
     ],
-    "dateAdded": "2029-11-09"
+    "dateAdded": "2029-11-12"
   },
   {
     "name": "Peterborough Open Data",
@@ -11308,7 +11324,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-11-12"
+    "dateAdded": "2029-11-15"
   },
   {
     "name": "Pickering Open Data",
@@ -11323,7 +11339,7 @@
       "ontario",
       "open data"
     ],
-    "dateAdded": "2029-11-15"
+    "dateAdded": "2029-11-18"
   },
   {
     "name": "Prince Albert Open Data Portal (ArcGIS Hub)",
@@ -11341,7 +11357,7 @@
       "princealbert",
       "verified"
     ],
-    "dateAdded": "2029-11-18"
+    "dateAdded": "2029-11-21"
   },
   {
     "name": "Prince George Open Data",
@@ -11357,7 +11373,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-11-21"
+    "dateAdded": "2029-11-24"
   },
   {
     "name": "Red Deer Open Data",
@@ -11372,7 +11388,7 @@
       "alberta",
       "open data"
     ],
-    "dateAdded": "2029-11-24"
+    "dateAdded": "2029-11-27"
   },
   {
     "name": "Regina Open Data",
@@ -11388,7 +11404,7 @@
       "open data",
       "ckan"
     ],
-    "dateAdded": "2029-11-27"
+    "dateAdded": "2029-11-30"
   },
   {
     "name": "Repentigny Open Data Portal (ArcGIS Hub)",
@@ -11406,7 +11422,7 @@
       "repentigny",
       "verified"
     ],
-    "dateAdded": "2029-11-30"
+    "dateAdded": "2029-12-03"
   },
   {
     "name": "Richmond Hill Open Data Portal",
@@ -11422,7 +11438,7 @@
       "Ontario",
       "GIS"
     ],
-    "dateAdded": "2029-12-03"
+    "dateAdded": "2029-12-06"
   },
   {
     "name": "Rimouski Open Data Portal (ArcGIS Hub)",
@@ -11440,7 +11456,7 @@
       "rimouski",
       "verified"
     ],
-    "dateAdded": "2029-12-06"
+    "dateAdded": "2029-12-09"
   },
   {
     "name": "Rouyn-Noranda Open Data Portal (ArcGIS Hub)",
@@ -11461,7 +11477,7 @@
       "api",
       "Abitibi"
     ],
-    "dateAdded": "2029-12-09"
+    "dateAdded": "2029-12-12"
   },
   {
     "name": "Saanich Open Data Catalogue",
@@ -11477,7 +11493,7 @@
       "open data",
       "gis"
     ],
-    "dateAdded": "2029-12-12"
+    "dateAdded": "2029-12-15"
   },
   {
     "name": "Saguenay Bâtiments — Données Québec",
@@ -11494,7 +11510,7 @@
       "geojson",
       "shapefile"
     ],
-    "dateAdded": "2029-12-15"
+    "dateAdded": "2029-12-18"
   },
   {
     "name": "Ville de Saguenay — Données Québec",
@@ -11510,7 +11526,7 @@
       "open data",
       "données québec"
     ],
-    "dateAdded": "2029-12-18"
+    "dateAdded": "2029-12-21"
   },
   {
     "name": "Saint John Open Data Catalogue",
@@ -11526,7 +11542,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2029-12-21"
+    "dateAdded": "2029-12-24"
   },
   {
     "name": "Sarnia GeoHub",
@@ -11542,7 +11558,7 @@
       "arcgis hub",
       "gis"
     ],
-    "dateAdded": "2029-12-24"
+    "dateAdded": "2029-12-27"
   },
   {
     "name": "Saskatoon Open Data",
@@ -11558,7 +11574,7 @@
       "open data",
       "gtfs"
     ],
-    "dateAdded": "2029-12-27"
+    "dateAdded": "2029-12-30"
   },
   {
     "name": "SooMaps Open GIS Data Downloads",
@@ -11576,7 +11592,7 @@
       "addresses",
       "wards"
     ],
-    "dateAdded": "2029-12-30"
+    "dateAdded": "2030-01-02"
   },
   {
     "name": "Selkirk Open Data Portal (ArcGIS Hub)",
@@ -11594,7 +11610,7 @@
       "selkirk",
       "verified"
     ],
-    "dateAdded": "2030-01-02"
+    "dateAdded": "2030-01-05"
   },
   {
     "name": "Shawinigan Open Data Portal (ArcGIS Hub)",
@@ -11612,7 +11628,7 @@
       "shawinigan",
       "verified"
     ],
-    "dateAdded": "2030-01-05"
+    "dateAdded": "2030-01-08"
   },
   {
     "name": "Sherbrooke — Buildings Open Dataset",
@@ -11631,7 +11647,7 @@
       "CSV",
       "urban planning"
     ],
-    "dateAdded": "2030-01-08"
+    "dateAdded": "2030-01-11"
   },
   {
     "name": "St. Albert Open Data",
@@ -11647,7 +11663,7 @@
       "open data",
       "gtfs"
     ],
-    "dateAdded": "2030-01-11"
+    "dateAdded": "2030-01-14"
   },
   {
     "name": "St. Catharines Open Data (Niagara)",
@@ -11663,7 +11679,7 @@
       "open data",
       "niagara"
     ],
-    "dateAdded": "2030-01-14"
+    "dateAdded": "2030-01-17"
   },
   {
     "name": "St. John's Open Data Portal (ArcGIS Hub)",
@@ -11681,7 +11697,7 @@
       "stjohns",
       "verified"
     ],
-    "dateAdded": "2030-01-17"
+    "dateAdded": "2030-01-20"
   },
   {
     "name": "Strathcona County Open Data",
@@ -11698,7 +11714,7 @@
       "socrata",
       "gtfs"
     ],
-    "dateAdded": "2030-01-20"
+    "dateAdded": "2030-01-23"
   },
   {
     "name": "Summerside Open Data Portal (ArcGIS Hub)",
@@ -11716,7 +11732,7 @@
       "summerside",
       "verified"
     ],
-    "dateAdded": "2030-01-23"
+    "dateAdded": "2030-01-26"
   },
   {
     "name": "Surrey Open Data",
@@ -11733,7 +11749,7 @@
       "ckan",
       "geojson"
     ],
-    "dateAdded": "2030-01-26"
+    "dateAdded": "2030-01-29"
   },
   {
     "name": "Thompson Open Data Portal (ArcGIS Hub)",
@@ -11751,7 +11767,7 @@
       "thompson",
       "verified"
     ],
-    "dateAdded": "2030-01-29"
+    "dateAdded": "2030-02-01"
   },
   {
     "name": "Thunder Bay — Building Feature Layer",
@@ -11771,7 +11787,7 @@
       "API",
       "GIS"
     ],
-    "dateAdded": "2030-02-01"
+    "dateAdded": "2030-02-04"
   },
   {
     "name": "Thunder Bay Open Data Hub",
@@ -11787,7 +11803,7 @@
       "gis",
       "on"
     ],
-    "dateAdded": "2030-02-04"
+    "dateAdded": "2030-02-07"
   },
   {
     "name": "City of Timmins Open Data",
@@ -11803,7 +11819,7 @@
       "northern ontario",
       "arcgis"
     ],
-    "dateAdded": "2030-02-07"
+    "dateAdded": "2030-02-10"
   },
   {
     "name": "2026 City Budget",
@@ -11817,7 +11833,7 @@
       "budget",
       "transparency"
     ],
-    "dateAdded": "2030-02-10"
+    "dateAdded": "2030-02-13"
   },
   {
     "name": "Toronto Maps / data and research hub",
@@ -11831,7 +11847,7 @@
       "maps",
       "research"
     ],
-    "dateAdded": "2030-02-13"
+    "dateAdded": "2030-02-16"
   },
   {
     "name": "Toronto Open Data Portal",
@@ -11845,7 +11861,7 @@
       "open data",
       "Toronto"
     ],
-    "dateAdded": "2030-02-16"
+    "dateAdded": "2030-02-19"
   },
   {
     "name": "Ville de Trois-Rivières — Données Québec",
@@ -11861,7 +11877,7 @@
       "open data",
       "données québec"
     ],
-    "dateAdded": "2030-02-19"
+    "dateAdded": "2030-02-22"
   },
   {
     "name": "Interactive Truro — Open Data Hub",
@@ -11877,7 +11893,7 @@
       "open data",
       "arcgis hub"
     ],
-    "dateAdded": "2030-02-22"
+    "dateAdded": "2030-02-25"
   },
   {
     "name": "Vaughan Open Data Portal",
@@ -11893,7 +11909,7 @@
       "Ontario",
       "GIS"
     ],
-    "dateAdded": "2030-02-25"
+    "dateAdded": "2030-02-28"
   },
   {
     "name": "Victoria Open Data — Parks and Recreation",
@@ -11909,7 +11925,7 @@
       "open data",
       "recreation"
     ],
-    "dateAdded": "2030-02-28"
+    "dateAdded": "2030-03-03"
   },
   {
     "name": "Victoria Open Data Catalogue",
@@ -11923,7 +11939,7 @@
       "open data",
       "Victoria"
     ],
-    "dateAdded": "2030-03-03"
+    "dateAdded": "2030-03-06"
   },
   {
     "name": "Waterloo City Open Data",
@@ -11939,7 +11955,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2030-03-06"
+    "dateAdded": "2030-03-09"
   },
   {
     "name": "Welland Open Data",
@@ -11955,7 +11971,7 @@
       "open data",
       "niagara"
     ],
-    "dateAdded": "2030-03-09"
+    "dateAdded": "2030-03-12"
   },
   {
     "name": "Whistler Open Data Portal",
@@ -11971,7 +11987,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2030-03-12"
+    "dateAdded": "2030-03-15"
   },
   {
     "name": "Whitby GeoHub",
@@ -11987,7 +12003,7 @@
       "arcgis hub",
       "durham"
     ],
-    "dateAdded": "2030-03-15"
+    "dateAdded": "2030-03-18"
   },
   {
     "name": "White Rock Open Data",
@@ -12003,7 +12019,7 @@
       "open data",
       "ckan"
     ],
-    "dateAdded": "2030-03-18"
+    "dateAdded": "2030-03-21"
   },
   {
     "name": "Whitehorse Open Data",
@@ -12019,7 +12035,7 @@
       "open data",
       "shapefile"
     ],
-    "dateAdded": "2030-03-21"
+    "dateAdded": "2030-03-24"
   },
   {
     "name": "Windsor Open Data",
@@ -12034,7 +12050,7 @@
       "ontario",
       "open data"
     ],
-    "dateAdded": "2030-03-24"
+    "dateAdded": "2030-03-27"
   },
   {
     "name": "Winnipeg Crime Stat — Open Data",
@@ -12050,7 +12066,7 @@
       "police",
       "open data"
     ],
-    "dateAdded": "2030-03-27"
+    "dateAdded": "2030-03-30"
   },
   {
     "name": "Winnipeg Open Data Portal",
@@ -12064,7 +12080,7 @@
       "open data",
       "Winnipeg"
     ],
-    "dateAdded": "2030-03-30"
+    "dateAdded": "2030-04-02"
   },
   {
     "name": "Yellowknife Open Data",
@@ -12080,7 +12096,7 @@
       "open data",
       "gis"
     ],
-    "dateAdded": "2030-04-02"
+    "dateAdded": "2030-04-05"
   },
   {
     "name": "Aulavik National Park",
@@ -12094,7 +12110,7 @@
       "parks",
       "remote"
     ],
-    "dateAdded": "2030-04-05"
+    "dateAdded": "2030-04-08"
   },
   {
     "name": "Auyuittuq National Park",
@@ -12108,7 +12124,7 @@
       "parks",
       "Nunavut"
     ],
-    "dateAdded": "2030-04-08"
+    "dateAdded": "2030-04-11"
   },
   {
     "name": "Banff National Park",
@@ -12122,7 +12138,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-04-11"
+    "dateAdded": "2030-04-14"
   },
   {
     "name": "Bruce Peninsula National Park",
@@ -12136,7 +12152,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-04-14"
+    "dateAdded": "2030-04-17"
   },
   {
     "name": "Cape Breton Highlands National Park",
@@ -12150,7 +12166,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-04-17"
+    "dateAdded": "2030-04-20"
   },
   {
     "name": "Elk Island National Park",
@@ -12164,7 +12180,7 @@
       "parks",
       "Alberta"
     ],
-    "dateAdded": "2030-04-20"
+    "dateAdded": "2030-04-23"
   },
   {
     "name": "Fathom Five National Marine Reserve",
@@ -12178,7 +12194,7 @@
       "marine",
       "conservation"
     ],
-    "dateAdded": "2030-04-23"
+    "dateAdded": "2030-04-26"
   },
   {
     "name": "Georgian Bay Islands National Park",
@@ -12192,7 +12208,7 @@
       "parks",
       "Ontario"
     ],
-    "dateAdded": "2030-04-26"
+    "dateAdded": "2030-04-29"
   },
   {
     "name": "Glacier National Park",
@@ -12206,7 +12222,7 @@
       "parks",
       "BC"
     ],
-    "dateAdded": "2030-04-29"
+    "dateAdded": "2030-05-02"
   },
   {
     "name": "Grasslands National Park",
@@ -12220,7 +12236,7 @@
       "parks",
       "Saskatchewan"
     ],
-    "dateAdded": "2030-05-02"
+    "dateAdded": "2030-05-05"
   },
   {
     "name": "Gulf Islands National Park Reserve",
@@ -12235,7 +12251,7 @@
       "outdoors",
       "BC"
     ],
-    "dateAdded": "2030-05-05"
+    "dateAdded": "2030-05-08"
   },
   {
     "name": "Gwaii Haanas National Marine Conservation Area",
@@ -12249,7 +12265,7 @@
       "parks",
       "marine"
     ],
-    "dateAdded": "2030-05-08"
+    "dateAdded": "2030-05-11"
   },
   {
     "name": "Ivvavik National Park",
@@ -12263,7 +12279,7 @@
       "parks",
       "remote"
     ],
-    "dateAdded": "2030-05-11"
+    "dateAdded": "2030-05-14"
   },
   {
     "name": "Jasper National Park",
@@ -12277,7 +12293,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-05-14"
+    "dateAdded": "2030-05-17"
   },
   {
     "name": "Kejimkujik National Park",
@@ -12291,7 +12307,7 @@
       "parks",
       "Nova Scotia"
     ],
-    "dateAdded": "2030-05-17"
+    "dateAdded": "2030-05-20"
   },
   {
     "name": "Kootenay National Park",
@@ -12305,7 +12321,7 @@
       "parks",
       "BC"
     ],
-    "dateAdded": "2030-05-20"
+    "dateAdded": "2030-05-23"
   },
   {
     "name": "Kouchibouguac National Park",
@@ -12319,7 +12335,7 @@
       "parks",
       "New Brunswick"
     ],
-    "dateAdded": "2030-05-23"
+    "dateAdded": "2030-05-26"
   },
   {
     "name": "La Mauricie National Park",
@@ -12333,7 +12349,7 @@
       "parks",
       "Quebec"
     ],
-    "dateAdded": "2030-05-26"
+    "dateAdded": "2030-05-29"
   },
   {
     "name": "Mingan Archipelago National Park Reserve",
@@ -12347,7 +12363,7 @@
       "parks",
       "Quebec"
     ],
-    "dateAdded": "2030-05-29"
+    "dateAdded": "2030-06-01"
   },
   {
     "name": "Mount Revelstoke National Park",
@@ -12361,7 +12377,7 @@
       "parks",
       "BC"
     ],
-    "dateAdded": "2030-06-01"
+    "dateAdded": "2030-06-04"
   },
   {
     "name": "Pacific Rim National Park Reserve",
@@ -12375,7 +12391,7 @@
       "parks",
       "BC"
     ],
-    "dateAdded": "2030-06-04"
+    "dateAdded": "2030-06-07"
   },
   {
     "name": "Parks Canada — National Parks System Map",
@@ -12389,7 +12405,7 @@
       "maps",
       "parks"
     ],
-    "dateAdded": "2030-06-07"
+    "dateAdded": "2030-06-10"
   },
   {
     "name": "Parks Canada — Reservations",
@@ -12403,7 +12419,7 @@
       "booking",
       "parks"
     ],
-    "dateAdded": "2030-06-10"
+    "dateAdded": "2030-06-13"
   },
   {
     "name": "Point Pelee National Park",
@@ -12417,7 +12433,7 @@
       "parks",
       "Ontario"
     ],
-    "dateAdded": "2030-06-13"
+    "dateAdded": "2030-06-16"
   },
   {
     "name": "Prince Albert National Park",
@@ -12431,7 +12447,7 @@
       "parks",
       "Saskatchewan"
     ],
-    "dateAdded": "2030-06-16"
+    "dateAdded": "2030-06-19"
   },
   {
     "name": "Pukaskwa National Park",
@@ -12445,7 +12461,7 @@
       "parks",
       "Ontario"
     ],
-    "dateAdded": "2030-06-19"
+    "dateAdded": "2030-06-22"
   },
   {
     "name": "Qausuittuq National Park",
@@ -12459,7 +12475,7 @@
       "parks",
       "remote"
     ],
-    "dateAdded": "2030-06-22"
+    "dateAdded": "2030-06-25"
   },
   {
     "name": "Quttinirpaaq National Park",
@@ -12473,7 +12489,7 @@
       "parks",
       "remote"
     ],
-    "dateAdded": "2030-06-25"
+    "dateAdded": "2030-06-28"
   },
   {
     "name": "Riding Mountain National Park",
@@ -12487,7 +12503,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-06-28"
+    "dateAdded": "2030-07-01"
   },
   {
     "name": "Rouge National Urban Park",
@@ -12501,7 +12517,7 @@
       "parks",
       "Toronto"
     ],
-    "dateAdded": "2030-07-01"
+    "dateAdded": "2030-07-04"
   },
   {
     "name": "Sirmilik National Park",
@@ -12515,7 +12531,7 @@
       "parks",
       "Nunavut"
     ],
-    "dateAdded": "2030-07-04"
+    "dateAdded": "2030-07-07"
   },
   {
     "name": "Terra Nova National Park",
@@ -12529,7 +12545,7 @@
       "parks",
       "Newfoundland and Labrador"
     ],
-    "dateAdded": "2030-07-07"
+    "dateAdded": "2030-07-10"
   },
   {
     "name": "Thousand Islands National Park",
@@ -12543,7 +12559,7 @@
       "parks",
       "Ontario"
     ],
-    "dateAdded": "2030-07-10"
+    "dateAdded": "2030-07-13"
   },
   {
     "name": "Tuktut Nogait National Park",
@@ -12557,7 +12573,7 @@
       "parks",
       "Northwest Territories"
     ],
-    "dateAdded": "2030-07-13"
+    "dateAdded": "2030-07-16"
   },
   {
     "name": "Ukkusiksalik National Park",
@@ -12571,7 +12587,7 @@
       "parks",
       "Nunavut"
     ],
-    "dateAdded": "2030-07-16"
+    "dateAdded": "2030-07-19"
   },
   {
     "name": "Vuntut National Park",
@@ -12585,7 +12601,7 @@
       "parks",
       "Yukon"
     ],
-    "dateAdded": "2030-07-19"
+    "dateAdded": "2030-07-22"
   },
   {
     "name": "Waterton Lakes National Park",
@@ -12599,7 +12615,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-07-22"
+    "dateAdded": "2030-07-25"
   },
   {
     "name": "Wood Buffalo National Park",
@@ -12613,7 +12629,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-07-25"
+    "dateAdded": "2030-07-28"
   },
   {
     "name": "Yoho National Park",
@@ -12627,7 +12643,7 @@
       "parks",
       "BC"
     ],
-    "dateAdded": "2030-07-28"
+    "dateAdded": "2030-07-31"
   },
   {
     "name": "Ontario Trails Council",
@@ -12641,7 +12657,7 @@
       "Ontario",
       "trails"
     ],
-    "dateAdded": "2030-07-31"
+    "dateAdded": "2030-08-03"
   },
   {
     "name": "Alberta Parks",
@@ -12655,7 +12671,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-08-03"
+    "dateAdded": "2030-08-06"
   },
   {
     "name": "Public Land Recreation Maps",
@@ -12669,7 +12685,7 @@
       "maps",
       "outdoors"
     ],
-    "dateAdded": "2030-08-06"
+    "dateAdded": "2030-08-09"
   },
   {
     "name": "Public Land Use",
@@ -12683,7 +12699,7 @@
       "outdoors",
       "public land"
     ],
-    "dateAdded": "2030-08-09"
+    "dateAdded": "2030-08-12"
   },
   {
     "name": "BC Parks",
@@ -12697,7 +12713,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-08-12"
+    "dateAdded": "2030-08-15"
   },
   {
     "name": "BC Parks Find a Park",
@@ -12711,7 +12727,7 @@
       "parks",
       "finder"
     ],
-    "dateAdded": "2030-08-15"
+    "dateAdded": "2030-08-18"
   },
   {
     "name": "BC Parks Maps",
@@ -12725,7 +12741,7 @@
       "maps",
       "parks"
     ],
-    "dateAdded": "2030-08-18"
+    "dateAdded": "2030-08-21"
   },
   {
     "name": "Recreation Sites and Trails B.C.",
@@ -12740,7 +12756,7 @@
       "trails",
       "maps"
     ],
-    "dateAdded": "2030-08-21"
+    "dateAdded": "2030-08-24"
   },
   {
     "name": "NL Parks — Provincial Parks Directory",
@@ -12754,7 +12770,7 @@
       "parks",
       "NL"
     ],
-    "dateAdded": "2030-08-24"
+    "dateAdded": "2030-08-27"
   },
   {
     "name": "Ontario Parks",
@@ -12768,7 +12784,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-08-27"
+    "dateAdded": "2030-08-30"
   },
   {
     "name": "PEI Parks",
@@ -12782,7 +12798,7 @@
       "parks",
       "PEI"
     ],
-    "dateAdded": "2030-08-30"
+    "dateAdded": "2030-09-02"
   },
   {
     "name": "Sépaq",
@@ -12796,7 +12812,7 @@
       "parks",
       "outdoors"
     ],
-    "dateAdded": "2030-09-02"
+    "dateAdded": "2030-09-05"
   },
   {
     "name": "Sépaq — Quebec Parks Online Reservations",
@@ -12810,7 +12826,7 @@
       "Quebec",
       "camping"
     ],
-    "dateAdded": "2030-09-05"
+    "dateAdded": "2030-09-08"
   },
   {
     "name": "Caledon Trails Open Data",
@@ -12827,7 +12843,7 @@
       "gis",
       "arcgis"
     ],
-    "dateAdded": "2030-09-08"
+    "dateAdded": "2030-09-11"
   },
   {
     "name": "Ontario Land Tribunal — Decisions",
@@ -12844,7 +12860,7 @@
       "planning appeals",
       "zoning"
     ],
-    "dateAdded": "2030-09-11"
+    "dateAdded": "2030-09-14"
   },
   {
     "name": "Abbotsford Development Data — Development Application Tracker",
@@ -12865,7 +12881,7 @@
       "csv",
       "pdf"
     ],
-    "dateAdded": "2030-09-14"
+    "dateAdded": "2030-09-17"
   },
   {
     "name": "Airdrie — Airdrie Land Use Districts",
@@ -12882,7 +12898,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2030-09-17"
+    "dateAdded": "2030-09-20"
   },
   {
     "name": "Barrie Planning & Development Map",
@@ -12899,7 +12915,7 @@
       "building permits",
       "arcgis"
     ],
-    "dateAdded": "2030-09-20"
+    "dateAdded": "2030-09-23"
   },
   {
     "name": "Belleville Parcels Open Data",
@@ -12915,7 +12931,7 @@
       "property",
       "open data"
     ],
-    "dateAdded": "2030-09-23"
+    "dateAdded": "2030-09-26"
   },
   {
     "name": "Brampton — Current Zoning Final",
@@ -12932,7 +12948,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2030-09-26"
+    "dateAdded": "2030-09-29"
   },
   {
     "name": "Burlington — Zoning ByLaw",
@@ -12949,7 +12965,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2030-09-29"
+    "dateAdded": "2030-10-02"
   },
   {
     "name": "Calgary Building Permits",
@@ -12966,7 +12982,7 @@
       "api",
       "csv"
     ],
-    "dateAdded": "2030-10-02"
+    "dateAdded": "2030-10-05"
   },
   {
     "name": "Canmore — Canmore_Land_Use_Districts",
@@ -12983,7 +12999,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2030-10-05"
+    "dateAdded": "2030-10-08"
   },
   {
     "name": "CBRM Parcel Finder",
@@ -12999,7 +13015,7 @@
       "property",
       "gis"
     ],
-    "dateAdded": "2030-10-08"
+    "dateAdded": "2030-10-11"
   },
   {
     "name": "CBRM Planning GIS Services",
@@ -13015,7 +13031,7 @@
       "zoning",
       "arcgis"
     ],
-    "dateAdded": "2030-10-11"
+    "dateAdded": "2030-10-14"
   },
   {
     "name": "Clarington Municipal Planning Data Reports",
@@ -13032,7 +13048,7 @@
       "housing",
       "planning"
     ],
-    "dateAdded": "2030-10-14"
+    "dateAdded": "2030-10-17"
   },
   {
     "name": "Coquitlam Planning and Development Open Data",
@@ -13049,7 +13065,7 @@
       "development",
       "arcgis"
     ],
-    "dateAdded": "2030-10-17"
+    "dateAdded": "2030-10-20"
   },
   {
     "name": "Cornwall Official Plan Land Use Open Data",
@@ -13066,7 +13082,7 @@
       "zoning",
       "shapefile"
     ],
-    "dateAdded": "2030-10-20"
+    "dateAdded": "2030-10-23"
   },
   {
     "name": "Courtenay — Zoning",
@@ -13083,7 +13099,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2030-10-23"
+    "dateAdded": "2030-10-26"
   },
   {
     "name": "Dauphin — Monthly Building Statistics",
@@ -13101,7 +13117,7 @@
       "PDF",
       "monthly"
     ],
-    "dateAdded": "2030-10-26"
+    "dateAdded": "2030-10-29"
   },
   {
     "name": "Delta — Building Permits",
@@ -13118,7 +13134,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2030-10-29"
+    "dateAdded": "2030-11-01"
   },
   {
     "name": "Edmonton Development Permits Open Data",
@@ -13134,7 +13150,7 @@
       "planning",
       "open data"
     ],
-    "dateAdded": "2030-11-01"
+    "dateAdded": "2030-11-04"
   },
   {
     "name": "Edmonton Zoning Map — Development Permits",
@@ -13150,7 +13166,7 @@
       "zoning",
       "arcgis"
     ],
-    "dateAdded": "2030-11-04"
+    "dateAdded": "2030-11-07"
   },
   {
     "name": "Fredericton — Zoning By-law Dataset",
@@ -13168,7 +13184,7 @@
       "shapefile",
       "land use"
     ],
-    "dateAdded": "2030-11-07"
+    "dateAdded": "2030-11-10"
   },
   {
     "name": "Gander Interactive GIS Map",
@@ -13187,7 +13203,7 @@
       "Gander",
       "Newfoundland and Labrador"
     ],
-    "dateAdded": "2030-11-10"
+    "dateAdded": "2030-11-13"
   },
   {
     "name": "Gatineau — Statistiques sur les permis de construction",
@@ -13203,7 +13219,7 @@
       "statistics",
       "construction"
     ],
-    "dateAdded": "2030-11-13"
+    "dateAdded": "2030-11-16"
   },
   {
     "name": "Greater Sudbury Open Data — Building Permits",
@@ -13223,7 +13239,7 @@
       "shapefile",
       "api"
     ],
-    "dateAdded": "2030-11-16"
+    "dateAdded": "2030-11-19"
   },
   {
     "name": "Greater Sudbury Open Data — Zoning",
@@ -13244,7 +13260,7 @@
       "shapefile",
       "api"
     ],
-    "dateAdded": "2030-11-19"
+    "dateAdded": "2030-11-22"
   },
   {
     "name": "Halifax — Zoning Boundaries",
@@ -13261,7 +13277,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2030-11-22"
+    "dateAdded": "2030-11-25"
   },
   {
     "name": "Hamilton Building Permits Open Data",
@@ -13277,7 +13293,7 @@
       "open data",
       "arcgis"
     ],
-    "dateAdded": "2030-11-25"
+    "dateAdded": "2030-11-28"
   },
   {
     "name": "Hamilton Development Applications Open Data",
@@ -13293,7 +13309,7 @@
       "planning",
       "open data"
     ],
-    "dateAdded": "2030-11-28"
+    "dateAdded": "2030-12-01"
   },
   {
     "name": "Huron County — Planning_Zoning",
@@ -13310,7 +13326,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2030-12-01"
+    "dateAdded": "2030-12-04"
   },
   {
     "name": "Kamloops Planning & Zoning Map",
@@ -13327,7 +13343,7 @@
       "arcgis",
       "bc"
     ],
-    "dateAdded": "2030-12-04"
+    "dateAdded": "2030-12-07"
   },
   {
     "name": "Kelowna Building Permits Open Data",
@@ -13343,7 +13359,7 @@
       "building permits",
       "open data"
     ],
-    "dateAdded": "2030-12-07"
+    "dateAdded": "2030-12-10"
   },
   {
     "name": "Kingston Building Permits — ArcGIS Hub",
@@ -13362,7 +13378,7 @@
       "geojson",
       "shapefile"
     ],
-    "dateAdded": "2030-12-10"
+    "dateAdded": "2030-12-13"
   },
   {
     "name": "Langley — Zoning",
@@ -13379,7 +13395,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2030-12-13"
+    "dateAdded": "2030-12-16"
   },
   {
     "name": "Lévis Zonage — Données Québec",
@@ -13396,7 +13412,7 @@
       "geojson",
       "shapefile"
     ],
-    "dateAdded": "2030-12-16"
+    "dateAdded": "2030-12-19"
   },
   {
     "name": "Longueuil — Industrial Zones",
@@ -13416,7 +13432,7 @@
       "zip",
       "land use"
     ],
-    "dateAdded": "2030-12-19"
+    "dateAdded": "2030-12-22"
   },
   {
     "name": "Markham — Interactive Zoning Map",
@@ -13433,7 +13449,7 @@
       "arcgis",
       "interactive map"
     ],
-    "dateAdded": "2030-12-22"
+    "dateAdded": "2030-12-25"
   },
   {
     "name": "Milton — Rural Zoning (By-law 144-2003)",
@@ -13450,7 +13466,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2030-12-25"
+    "dateAdded": "2030-12-28"
   },
   {
     "name": "Mississauga Building Permits Open Data",
@@ -13466,7 +13482,7 @@
       "open data",
       "api"
     ],
-    "dateAdded": "2030-12-28"
+    "dateAdded": "2030-12-31"
   },
   {
     "name": "Moncton Development Applications Map",
@@ -13482,7 +13498,7 @@
       "planning",
       "arcgis"
     ],
-    "dateAdded": "2030-12-31"
+    "dateAdded": "2031-01-03"
   },
   {
     "name": "Montreal Building Permits Open Data",
@@ -13498,7 +13514,7 @@
       "open data",
       "quebec"
     ],
-    "dateAdded": "2031-01-03"
+    "dateAdded": "2031-01-06"
   },
   {
     "name": "New Glasgow Ward Map",
@@ -13515,7 +13531,7 @@
       "elections",
       "boundaries"
     ],
-    "dateAdded": "2031-01-06"
+    "dateAdded": "2031-01-09"
   },
   {
     "name": "Corner Brook Land Use Planning Registry",
@@ -13532,7 +13548,7 @@
       "municipal plan",
       "kmz"
     ],
-    "dateAdded": "2031-01-09"
+    "dateAdded": "2031-01-12"
   },
   {
     "name": "Oakville — Zoning By Law 2014-014",
@@ -13549,7 +13565,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2031-01-12"
+    "dateAdded": "2031-01-15"
   },
   {
     "name": "Orillia Zone Mapping Feature Service",
@@ -13566,7 +13582,7 @@
       "featureserver",
       "geojson"
     ],
-    "dateAdded": "2031-01-15"
+    "dateAdded": "2031-01-18"
   },
   {
     "name": "Oshawa — Oshawa Zoning",
@@ -13583,7 +13599,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2031-01-18"
+    "dateAdded": "2031-01-21"
   },
   {
     "name": "Ottawa Development Applications Map",
@@ -13600,7 +13616,7 @@
       "arcgis",
       "geojson"
     ],
-    "dateAdded": "2031-01-21"
+    "dateAdded": "2031-01-24"
   },
   {
     "name": "Ottawa Zoning Map Service",
@@ -13617,7 +13633,7 @@
       "arcgis",
       "shapefile"
     ],
-    "dateAdded": "2031-01-24"
+    "dateAdded": "2031-01-27"
   },
   {
     "name": "Peterborough — Zoning",
@@ -13634,7 +13650,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2031-01-27"
+    "dateAdded": "2031-01-30"
   },
   {
     "name": "Prince Albert Zoning Map",
@@ -13651,7 +13667,7 @@
       "ArcGIS",
       "Saskatchewan"
     ],
-    "dateAdded": "2031-01-30"
+    "dateAdded": "2031-02-02"
   },
   {
     "name": "Prince George — Zoning Bylaw 7850 Class",
@@ -13668,7 +13684,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2031-02-02"
+    "dateAdded": "2031-02-05"
   },
   {
     "name": "Quebec City Building Permits Open Data",
@@ -13683,7 +13699,7 @@
       "building permits",
       "open data"
     ],
-    "dateAdded": "2031-02-05"
+    "dateAdded": "2031-02-08"
   },
   {
     "name": "Red Deer Open Data — Building Permits",
@@ -13701,7 +13717,7 @@
       "json",
       "api"
     ],
-    "dateAdded": "2031-02-08"
+    "dateAdded": "2031-02-11"
   },
   {
     "name": "Red Deer Open Data — Zoning",
@@ -13720,7 +13736,7 @@
       "gis",
       "api"
     ],
-    "dateAdded": "2031-02-11"
+    "dateAdded": "2031-02-14"
   },
   {
     "name": "Regina — Land Use and Zoning",
@@ -13741,7 +13757,7 @@
       "XML",
       "API"
     ],
-    "dateAdded": "2031-02-14"
+    "dateAdded": "2031-02-17"
   },
   {
     "name": "Rouyn-Noranda — Plan de zonage",
@@ -13758,7 +13774,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2031-02-17"
+    "dateAdded": "2031-02-20"
   },
   {
     "name": "Saanich Zoning GIS Data",
@@ -13776,7 +13792,7 @@
       "zip",
       "planning"
     ],
-    "dateAdded": "2031-02-20"
+    "dateAdded": "2031-02-23"
   },
   {
     "name": "Saguenay Zonage — Données Québec",
@@ -13793,7 +13809,7 @@
       "geojson",
       "csv"
     ],
-    "dateAdded": "2031-02-23"
+    "dateAdded": "2031-02-26"
   },
   {
     "name": "Saint John — Building Permits Dataset",
@@ -13811,7 +13827,7 @@
       "shapefile",
       "construction"
     ],
-    "dateAdded": "2031-02-26"
+    "dateAdded": "2031-03-01"
   },
   {
     "name": "Saint John — Zoning Dataset",
@@ -13829,7 +13845,7 @@
       "shapefile",
       "land use"
     ],
-    "dateAdded": "2031-03-01"
+    "dateAdded": "2031-03-04"
   },
   {
     "name": "Sarnia Residential Development Pipeline Dashboard",
@@ -13845,7 +13861,7 @@
       "zoning",
       "housing units"
     ],
-    "dateAdded": "2031-03-04"
+    "dateAdded": "2031-03-07"
   },
   {
     "name": "St. Albert Open Data — Weekly Development Permit Decisions",
@@ -13866,7 +13882,7 @@
       "shapefile",
       "api"
     ],
-    "dateAdded": "2031-03-07"
+    "dateAdded": "2031-03-10"
   },
   {
     "name": "St. John's MapCentre",
@@ -13886,7 +13902,7 @@
       "St. John's",
       "interactive map"
     ],
-    "dateAdded": "2031-03-10"
+    "dateAdded": "2031-03-13"
   },
   {
     "name": "St. John's Permits Issued",
@@ -13905,7 +13921,7 @@
       "St. John's",
       "Newfoundland and Labrador"
     ],
-    "dateAdded": "2031-03-13"
+    "dateAdded": "2031-03-16"
   },
   {
     "name": "St. Thomas CMAP Interactive City Maps",
@@ -13921,7 +13937,7 @@
       "maps",
       "planning"
     ],
-    "dateAdded": "2031-03-16"
+    "dateAdded": "2031-03-19"
   },
   {
     "name": "Steinbach — Property & Development Info Map (Zoning)",
@@ -13939,7 +13955,7 @@
       "planning",
       "ArcGIS"
     ],
-    "dateAdded": "2031-03-19"
+    "dateAdded": "2031-03-22"
   },
   {
     "name": "Summerside — Zoning View",
@@ -13956,7 +13972,7 @@
       "verified",
       "zoning"
     ],
-    "dateAdded": "2031-03-22"
+    "dateAdded": "2031-03-25"
   },
   {
     "name": "Surrey — Issued Building Permits",
@@ -13974,7 +13990,7 @@
       "GeoJSON",
       "Shapefile"
     ],
-    "dateAdded": "2031-03-25"
+    "dateAdded": "2031-03-28"
   },
   {
     "name": "Toronto Application Information Centre",
@@ -13990,7 +14006,7 @@
       "committee of adjustment",
       "development applications"
     ],
-    "dateAdded": "2031-03-28"
+    "dateAdded": "2031-03-31"
   },
   {
     "name": "Toronto Building Permits — Cleared Permits",
@@ -14007,7 +14023,7 @@
       "json",
       "construction"
     ],
-    "dateAdded": "2031-03-31"
+    "dateAdded": "2031-04-03"
   },
   {
     "name": "Toronto Development Applications (IBMS)",
@@ -14024,7 +14040,7 @@
       "arcgis",
       "api"
     ],
-    "dateAdded": "2031-04-03"
+    "dateAdded": "2031-04-06"
   },
   {
     "name": "Toronto Zoning By-law Map",
@@ -14040,7 +14056,7 @@
       "arcgis",
       "geojson"
     ],
-    "dateAdded": "2031-04-06"
+    "dateAdded": "2031-04-09"
   },
   {
     "name": "Trois-Rivières Zonage — Données Québec",
@@ -14057,7 +14073,7 @@
       "csv",
       "geojson"
     ],
-    "dateAdded": "2031-04-09"
+    "dateAdded": "2031-04-12"
   },
   {
     "name": "Vancouver Building Permits Issued",
@@ -14073,7 +14089,7 @@
       "construction",
       "csv"
     ],
-    "dateAdded": "2031-04-12"
+    "dateAdded": "2031-04-15"
   },
   {
     "name": "Vancouver Zoning & Land Use Districts",
@@ -14090,7 +14106,7 @@
       "open data",
       "geojson"
     ],
-    "dateAdded": "2031-04-15"
+    "dateAdded": "2031-04-18"
   },
   {
     "name": "Victoria Building Permits Open Data",
@@ -14106,7 +14122,7 @@
       "building permits",
       "open data"
     ],
-    "dateAdded": "2031-04-18"
+    "dateAdded": "2031-04-21"
   },
   {
     "name": "Weyburn Building Permit Reports",
@@ -14124,7 +14140,7 @@
       "PDF",
       "planning"
     ],
-    "dateAdded": "2031-04-21"
+    "dateAdded": "2031-04-24"
   },
   {
     "name": "Whistler — Zoning",
@@ -14141,7 +14157,7 @@
       "whistler",
       "zoning"
     ],
-    "dateAdded": "2031-04-24"
+    "dateAdded": "2031-04-27"
   },
   {
     "name": "Whitby Zoning By-law Interactive Map",
@@ -14160,7 +14176,7 @@
       "planning",
       "ArcGIS"
     ],
-    "dateAdded": "2031-04-27"
+    "dateAdded": "2031-04-30"
   },
   {
     "name": "WhitehorseMap",
@@ -14179,7 +14195,7 @@
       "Whitehorse",
       "Yukon"
     ],
-    "dateAdded": "2031-04-30"
+    "dateAdded": "2031-05-03"
   },
   {
     "name": "Winnipeg Building Permits Open Data",
@@ -14194,7 +14210,7 @@
       "building permits",
       "open data"
     ],
-    "dateAdded": "2031-05-03"
+    "dateAdded": "2031-05-06"
   },
   {
     "name": "Oxford County Zoning Open Data (Woodstock)",
@@ -14211,7 +14227,7 @@
       "arcgis",
       "open data"
     ],
-    "dateAdded": "2031-05-06"
+    "dateAdded": "2031-05-09"
   },
   {
     "name": "Yarmouth Interactive Zoning Map",
@@ -14228,7 +14244,7 @@
       "map",
       "planning"
     ],
-    "dateAdded": "2031-05-09"
+    "dateAdded": "2031-05-12"
   },
   {
     "name": "Alert Ready — National Public Alerting System",
@@ -14242,7 +14258,7 @@
       "alerts",
       "emergency"
     ],
-    "dateAdded": "2031-05-12"
+    "dateAdded": "2031-05-15"
   },
   {
     "name": "Canadian Centre for Cyber Security",
@@ -14258,7 +14274,7 @@
       "threats",
       "federal"
     ],
-    "dateAdded": "2031-05-15"
+    "dateAdded": "2031-05-18"
   },
   {
     "name": "Canadian Nuclear Safety Commission",
@@ -14274,7 +14290,7 @@
       "regulator",
       "federal"
     ],
-    "dateAdded": "2031-05-18"
+    "dateAdded": "2031-05-21"
   },
   {
     "name": "Earthquakes Canada",
@@ -14289,7 +14305,7 @@
       "maps",
       "realtime"
     ],
-    "dateAdded": "2031-05-21"
+    "dateAdded": "2031-05-24"
   },
   {
     "name": "Health Canada — Canadian Cannabis Survey",
@@ -14303,7 +14319,7 @@
       "cannabis",
       "health"
     ],
-    "dateAdded": "2031-05-24"
+    "dateAdded": "2031-05-27"
   },
   {
     "name": "Health Canada — Recalls & Safety Alerts",
@@ -14319,7 +14335,7 @@
       "health",
       "recalls"
     ],
-    "dateAdded": "2031-05-27"
+    "dateAdded": "2031-05-30"
   },
   {
     "name": "National Wildland Fire Information System",
@@ -14334,7 +14350,7 @@
       "emergency",
       "realtime"
     ],
-    "dateAdded": "2031-05-30"
+    "dateAdded": "2031-06-02"
   },
   {
     "name": "Public Safety Canada — National Emergency Resources",
@@ -14347,7 +14363,7 @@
     "tags": [
       "preparedness"
     ],
-    "dateAdded": "2031-06-02"
+    "dateAdded": "2031-06-05"
   },
   {
     "name": "RCMP — Crime Mapping and Statistics",
@@ -14361,7 +14377,7 @@
       "policing",
       "data"
     ],
-    "dateAdded": "2031-06-05"
+    "dateAdded": "2031-06-08"
   },
   {
     "name": "Recalls and Safety Alerts",
@@ -14375,7 +14391,7 @@
       "safety",
       "recalls"
     ],
-    "dateAdded": "2031-06-08"
+    "dateAdded": "2031-06-11"
   },
   {
     "name": "Canadian Centre for Occupational Health and Safety (CCOHS)",
@@ -14389,7 +14405,7 @@
       "safety",
       "workplace"
     ],
-    "dateAdded": "2031-06-11"
+    "dateAdded": "2031-06-14"
   },
   {
     "name": "Ontario Wildfire Map (Interactive)",
@@ -14403,7 +14419,7 @@
       "Ontario",
       "wildfire"
     ],
-    "dateAdded": "2031-06-14"
+    "dateAdded": "2031-06-17"
   },
   {
     "name": "Toronto Police — Crime Dashboard",
@@ -14417,7 +14433,7 @@
       "Toronto",
       "crime"
     ],
-    "dateAdded": "2031-06-17"
+    "dateAdded": "2031-06-20"
   },
   {
     "name": "Open Database of Educational Facilities (ODEF)",
@@ -14434,7 +14450,7 @@
       "csv",
       "statcan"
     ],
-    "dateAdded": "2031-06-20"
+    "dateAdded": "2031-06-23"
   },
   {
     "name": "Alberta Education — School Directory and Maps",
@@ -14450,7 +14466,7 @@
       "directory",
       "education"
     ],
-    "dateAdded": "2031-06-23"
+    "dateAdded": "2031-06-26"
   },
   {
     "name": "BC Public Schools — Location Data",
@@ -14465,7 +14481,7 @@
       "schools",
       "geojson"
     ],
-    "dateAdded": "2031-06-26"
+    "dateAdded": "2031-06-29"
   },
   {
     "name": "BC School Districts (Spatial)",
@@ -14482,7 +14498,7 @@
       "shapefile",
       "wms"
     ],
-    "dateAdded": "2031-06-29"
+    "dateAdded": "2031-07-02"
   },
   {
     "name": "New Brunswick Anglophone School District Boundaries",
@@ -14500,7 +14516,7 @@
       "districts",
       "New Brunswick"
     ],
-    "dateAdded": "2031-07-02"
+    "dateAdded": "2031-07-05"
   },
   {
     "name": "New Brunswick School Directory",
@@ -14518,7 +14534,7 @@
       "pdf",
       "download"
     ],
-    "dateAdded": "2031-07-05"
+    "dateAdded": "2031-07-08"
   },
   {
     "name": "Nova Scotia — School Board Zones (English)",
@@ -14537,7 +14553,7 @@
       "KML",
       "boundaries"
     ],
-    "dateAdded": "2031-07-08"
+    "dateAdded": "2031-07-11"
   },
   {
     "name": "Nova Scotia — School Board Zones (French)",
@@ -14558,7 +14574,7 @@
       "KML",
       "boundaries"
     ],
-    "dateAdded": "2031-07-11"
+    "dateAdded": "2031-07-14"
   },
   {
     "name": "Ontario Public School Contact Information",
@@ -14574,7 +14590,7 @@
       "directory",
       "csv"
     ],
-    "dateAdded": "2031-07-14"
+    "dateAdded": "2031-07-17"
   },
   {
     "name": "Ontario School Board Boundaries — Scholars GeoPortal",
@@ -14591,7 +14607,7 @@
       "shapefile",
       "gis"
     ],
-    "dateAdded": "2031-07-17"
+    "dateAdded": "2031-07-20"
   },
   {
     "name": "Ontario School Enrolment by Grade",
@@ -14608,7 +14624,7 @@
       "csv",
       "education"
     ],
-    "dateAdded": "2031-07-20"
+    "dateAdded": "2031-07-23"
   },
   {
     "name": "Ontario School Information and Demographics",
@@ -14625,7 +14641,7 @@
       "demographics",
       "csv"
     ],
-    "dateAdded": "2031-07-23"
+    "dateAdded": "2031-07-26"
   },
   {
     "name": "Prince Edward Island — School Zoning and Transportation Portal",
@@ -14644,7 +14660,7 @@
       "boundary map",
       "transportation"
     ],
-    "dateAdded": "2031-07-26"
+    "dateAdded": "2031-07-29"
   },
   {
     "name": "Québec — School Board and Service Centre Territories",
@@ -14664,7 +14680,7 @@
       "CSV",
       "boundaries"
     ],
-    "dateAdded": "2031-07-29"
+    "dateAdded": "2031-08-01"
   },
   {
     "name": "Quebec School Network Locations",
@@ -14681,7 +14697,7 @@
       "csv",
       "education"
     ],
-    "dateAdded": "2031-08-01"
+    "dateAdded": "2031-08-04"
   },
   {
     "name": "Halton Catholic District School Board — School Finder",
@@ -14700,7 +14716,7 @@
       "map",
       "interactive"
     ],
-    "dateAdded": "2031-08-04"
+    "dateAdded": "2031-08-07"
   },
   {
     "name": "Hanover School Division — Catchment Maps",
@@ -14720,7 +14736,7 @@
       "Steinbach",
       "education"
     ],
-    "dateAdded": "2031-08-07"
+    "dateAdded": "2031-08-10"
   },
   {
     "name": "Anglophone East School District — Which School Do I Attend?",
@@ -14738,7 +14754,7 @@
       "eligibility",
       "catchment"
     ],
-    "dateAdded": "2031-08-10"
+    "dateAdded": "2031-08-13"
   },
   {
     "name": "Anglophone North School District — Which School Do I Attend?",
@@ -14756,7 +14772,7 @@
       "eligibility",
       "catchment"
     ],
-    "dateAdded": "2031-08-13"
+    "dateAdded": "2031-08-16"
   },
   {
     "name": "Anglophone South School District — Which School Do I Attend?",
@@ -14774,7 +14790,7 @@
       "eligibility",
       "catchment"
     ],
-    "dateAdded": "2031-08-16"
+    "dateAdded": "2031-08-19"
   },
   {
     "name": "Anglophone West School District — Which School Do I Attend?",
@@ -14792,7 +14808,7 @@
       "eligibility",
       "catchment"
     ],
-    "dateAdded": "2031-08-19"
+    "dateAdded": "2031-08-22"
   },
   {
     "name": "Francophone Sud School District — Which School Do I Attend?",
@@ -14811,7 +14827,7 @@
       "catchment",
       "French"
     ],
-    "dateAdded": "2031-08-22"
+    "dateAdded": "2031-08-25"
   },
   {
     "name": "Peel District School Board School Finder",
@@ -14828,7 +14844,7 @@
       "mississauga",
       "brampton"
     ],
-    "dateAdded": "2031-08-25"
+    "dateAdded": "2031-08-28"
   },
   {
     "name": "YRDSB School Locator",
@@ -14845,7 +14861,7 @@
       "catchment",
       "locator"
     ],
-    "dateAdded": "2031-08-28"
+    "dateAdded": "2031-08-31"
   },
   {
     "name": "Calgary Board of Education — Find a School",
@@ -14862,7 +14878,7 @@
       "CBE",
       "boundary map"
     ],
-    "dateAdded": "2031-08-31"
+    "dateAdded": "2031-09-03"
   },
   {
     "name": "Calgary Board of Education — School Directory",
@@ -14878,7 +14894,7 @@
       "schools",
       "directory"
     ],
-    "dateAdded": "2031-09-03"
+    "dateAdded": "2031-09-06"
   },
   {
     "name": "Edmonton Catholic School District — School Finder",
@@ -14896,7 +14912,7 @@
       "map",
       "interactive"
     ],
-    "dateAdded": "2031-09-06"
+    "dateAdded": "2031-09-09"
   },
   {
     "name": "Halifax Regional Centre for Education — School Finder",
@@ -14913,7 +14929,7 @@
       "education",
       "boundary map"
     ],
-    "dateAdded": "2031-09-09"
+    "dateAdded": "2031-09-12"
   },
   {
     "name": "Ottawa-Carleton District School Board School Locator",
@@ -14929,7 +14945,7 @@
       "school boundaries",
       "locator"
     ],
-    "dateAdded": "2031-09-12"
+    "dateAdded": "2031-09-15"
   },
   {
     "name": "Regina Catholic Schools — School Finder",
@@ -14948,7 +14964,7 @@
       "map",
       "interactive"
     ],
-    "dateAdded": "2031-09-15"
+    "dateAdded": "2031-09-18"
   },
   {
     "name": "Regina Public Schools — School Finder",
@@ -14966,7 +14982,7 @@
       "catchment",
       "locator"
     ],
-    "dateAdded": "2031-09-18"
+    "dateAdded": "2031-09-21"
   },
   {
     "name": "TDSB Open Data",
@@ -14983,7 +14999,7 @@
       "open data",
       "education"
     ],
-    "dateAdded": "2031-09-21"
+    "dateAdded": "2031-09-24"
   },
   {
     "name": "Toronto District School Board Find Your School",
@@ -14999,7 +15015,7 @@
       "school boundaries",
       "catchment"
     ],
-    "dateAdded": "2031-09-24"
+    "dateAdded": "2031-09-27"
   },
   {
     "name": "Vancouver School Board — School Information",
@@ -15015,7 +15031,7 @@
       "schools",
       "directory"
     ],
-    "dateAdded": "2031-09-27"
+    "dateAdded": "2031-09-30"
   },
   {
     "name": "Louis Riel School Division — School Finder",
@@ -15034,7 +15050,7 @@
       "app",
       "interactive"
     ],
-    "dateAdded": "2031-09-30"
+    "dateAdded": "2031-10-03"
   },
   {
     "name": "Pembina Trails School Division — School Locator",
@@ -15053,7 +15069,7 @@
       "app",
       "interactive"
     ],
-    "dateAdded": "2031-10-03"
+    "dateAdded": "2031-10-06"
   },
   {
     "name": "Canadian Space Agency",
@@ -15067,7 +15083,7 @@
       "space",
       "science"
     ],
-    "dateAdded": "2031-10-06"
+    "dateAdded": "2031-10-09"
   },
   {
     "name": "Canadian Space Agency — Mission Tracker",
@@ -15081,7 +15097,7 @@
       "space",
       "science"
     ],
-    "dateAdded": "2031-10-09"
+    "dateAdded": "2031-10-12"
   },
   {
     "name": "Canadian Space Agency — RADARSAT Constellation Data",
@@ -15095,7 +15111,7 @@
       "earth observation",
       "satellites"
     ],
-    "dateAdded": "2031-10-12"
+    "dateAdded": "2031-10-15"
   },
   {
     "name": "National Research Council — IR Aerospace Research Centre",
@@ -15109,7 +15125,7 @@
       "aerospace",
       "research"
     ],
-    "dateAdded": "2031-10-15"
+    "dateAdded": "2031-10-18"
   },
   {
     "name": "NSERC — Natural Sciences and Engineering Research Council",
@@ -15127,7 +15143,7 @@
       "engineering",
       "federal"
     ],
-    "dateAdded": "2031-10-18"
+    "dateAdded": "2031-10-21"
   },
   {
     "name": "Polar Knowledge Canada — CHARS",
@@ -15141,7 +15157,7 @@
       "arctic",
       "science"
     ],
-    "dateAdded": "2031-10-21"
+    "dateAdded": "2031-10-24"
   },
   {
     "name": "NRC — Programs and Services",
@@ -15155,7 +15171,7 @@
       "research",
       "science"
     ],
-    "dateAdded": "2031-10-24"
+    "dateAdded": "2031-10-27"
   },
   {
     "name": "Genome Canada",
@@ -15169,7 +15185,7 @@
       "genomics",
       "research"
     ],
-    "dateAdded": "2031-10-27"
+    "dateAdded": "2031-10-30"
   },
   {
     "name": "Ocean Networks Canada",
@@ -15183,7 +15199,7 @@
       "ocean",
       "data"
     ],
-    "dateAdded": "2031-10-30"
+    "dateAdded": "2031-11-02"
   },
   {
     "name": "Perimeter Institute — Public Science",
@@ -15197,7 +15213,7 @@
       "physics",
       "education"
     ],
-    "dateAdded": "2031-11-02"
+    "dateAdded": "2031-11-05"
   },
   {
     "name": "SNOLAB — Underground Physics",
@@ -15211,7 +15227,7 @@
       "physics",
       "research"
     ],
-    "dateAdded": "2031-11-05"
+    "dateAdded": "2031-11-08"
   },
   {
     "name": "TRIUMF — Canada's Particle Accelerator",
@@ -15225,7 +15241,73 @@
       "physics",
       "research"
     ],
-    "dateAdded": "2031-11-08"
+    "dateAdded": "2031-11-11"
+  },
+  {
+    "name": "Alberta Geological Survey — AGS Data & Maps",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "science",
+    "type": "Research database",
+    "description": "Geological mapping, groundwater, landslide, and energy-resource geology datasets for Alberta, including interactive maps and open-file reports.",
+    "url": "https://ags.aer.ca/",
+    "tags": [
+      "alberta",
+      "energy",
+      "geology",
+      "groundwater"
+    ],
+    "dateAdded": "2031-11-14"
+  },
+  {
+    "name": "BC Geological Survey",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "science",
+    "type": "Research database",
+    "description": "Provincial geoscience publications, mineral occurrence database (MINFILE), assessment reports, and interactive MapPlace mapping for British Columbia's rocks and resources.",
+    "url": "https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey",
+    "tags": [
+      "bc",
+      "geology",
+      "mapping",
+      "minfile",
+      "mining"
+    ],
+    "dateAdded": "2031-11-17"
+  },
+  {
+    "name": "GeologyOntario — Ontario Geological Survey Database",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "science",
+    "type": "Research database",
+    "description": "Massive geoscience archive: bedrock and surficial mapping, drill core logs, assessment report files, and mineral occurrence databases for Ontario — free downloads spanning a century of survey work.",
+    "url": "https://www.geologyontario.mndm.gov.on.ca/",
+    "tags": [
+      "geology",
+      "mapping",
+      "minerals",
+      "ontario",
+      "research"
+    ],
+    "dateAdded": "2031-11-20"
+  },
+  {
+    "name": "SIGEOM — Québec Geoscientific Data",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "science",
+    "type": "Research database",
+    "description": "Québec's mineral deposit, drilling, geochemistry, and geological map database — full government assessment files downloadable since the 1800s; the backbone of northern mining exploration research.",
+    "url": "https://sigeom.mines.gouv.qc.ca/",
+    "tags": [
+      "geology",
+      "geoscience",
+      "mining",
+      "quebec"
+    ],
+    "dateAdded": "2031-11-23"
   },
   {
     "name": "Canada Revenue Agency — My Business Account",
@@ -15239,7 +15321,7 @@
       "business",
       "tax"
     ],
-    "dateAdded": "2031-11-11"
+    "dateAdded": "2031-11-26"
   },
   {
     "name": "CRA — Express Notice of Assessment (NOA)",
@@ -15254,7 +15336,7 @@
       "NOA",
       "CRA"
     ],
-    "dateAdded": "2031-11-14"
+    "dateAdded": "2031-11-29"
   },
   {
     "name": "CRA — Federal and Provincial Tax Brackets",
@@ -15269,7 +15351,7 @@
       "tax",
       "rates"
     ],
-    "dateAdded": "2031-11-17"
+    "dateAdded": "2031-12-02"
   },
   {
     "name": "CRA — GST/HST Calculator and Rates",
@@ -15284,7 +15366,7 @@
       "HST",
       "tax"
     ],
-    "dateAdded": "2031-11-20"
+    "dateAdded": "2031-12-05"
   },
   {
     "name": "CRA — List of Charities and Giving",
@@ -15298,7 +15380,7 @@
       "charities",
       "tax"
     ],
-    "dateAdded": "2031-11-23"
+    "dateAdded": "2031-12-08"
   },
   {
     "name": "CRA — My Account for Individuals",
@@ -15313,7 +15395,7 @@
       "tax",
       "account"
     ],
-    "dateAdded": "2031-11-26"
+    "dateAdded": "2031-12-11"
   },
   {
     "name": "CRA — NETFILE Certified Software List",
@@ -15328,7 +15410,7 @@
       "filing",
       "tax"
     ],
-    "dateAdded": "2031-11-29"
+    "dateAdded": "2031-12-14"
   },
   {
     "name": "CRA — Payroll Deductions Online Calculator (PDOC)",
@@ -15343,7 +15425,7 @@
       "payroll",
       "calculator"
     ],
-    "dateAdded": "2031-12-02"
+    "dateAdded": "2031-12-17"
   },
   {
     "name": "Taxpayers' Ombudsperson",
@@ -15357,7 +15439,7 @@
       "CRA",
       "ombudsman"
     ],
-    "dateAdded": "2031-12-05"
+    "dateAdded": "2031-12-20"
   },
   {
     "name": "BC Property Transfer Tax Calculator",
@@ -15372,7 +15454,7 @@
       "property",
       "calculator"
     ],
-    "dateAdded": "2031-12-08"
+    "dateAdded": "2031-12-23"
   },
   {
     "name": "Revenu Québec — Mon dossier",
@@ -15386,7 +15468,7 @@
       "Quebec",
       "tax"
     ],
-    "dateAdded": "2031-12-11"
+    "dateAdded": "2031-12-26"
   },
   {
     "name": "Mississauga Property Tax Calculator",
@@ -15401,7 +15483,7 @@
       "property",
       "calculator"
     ],
-    "dateAdded": "2031-12-14"
+    "dateAdded": "2031-12-29"
   },
   {
     "name": "Vancouver Property Tax Calculator",
@@ -15416,7 +15498,23 @@
       "property",
       "calculator"
     ],
-    "dateAdded": "2031-12-17"
+    "dateAdded": "2032-01-01"
+  },
+  {
+    "name": "Canada's Connectivity Strategy — Project Map & Reports",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Program data",
+    "description": "Federal broadband program transparency: funded connectivity projects, target speeds, households connected, and progress reporting toward universal rural internet.",
+    "url": "https://ised-isde.canada.ca/site/canada-connectivity-strategy/en",
+    "tags": [
+      "broadband",
+      "connectivity",
+      "funding",
+      "rural internet"
+    ],
+    "dateAdded": "2032-01-04"
   },
   {
     "name": "Canadian Digital Service",
@@ -15430,7 +15528,7 @@
       "digital",
       "government"
     ],
-    "dateAdded": "2031-12-20"
+    "dateAdded": "2032-01-07"
   },
   {
     "name": "CRTC — Broadband Internet Service Complaints",
@@ -15444,7 +15542,7 @@
       "CRTC",
       "complaints"
     ],
-    "dateAdded": "2031-12-23"
+    "dateAdded": "2032-01-10"
   },
   {
     "name": "CRTC — Communications Monitoring Report",
@@ -15458,7 +15556,7 @@
       "CRTC",
       "data"
     ],
-    "dateAdded": "2031-12-26"
+    "dateAdded": "2032-01-13"
   },
   {
     "name": "CRTC — National Broadband Map",
@@ -15472,7 +15570,7 @@
       "broadband",
       "map"
     ],
-    "dateAdded": "2031-12-29"
+    "dateAdded": "2032-01-16"
   },
   {
     "name": "ISED — Spectrum Management System",
@@ -15486,7 +15584,23 @@
       "spectrum",
       "licensing"
     ],
-    "dateAdded": "2032-01-01"
+    "dateAdded": "2032-01-19"
+  },
+  {
+    "name": "ISED Spectrum Management System",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Licence database",
+    "description": "Public access to Canada's radio spectrum licensing: search radio licences by frequency, location, or licensee, browse spectrum auction results, and download site data for every licensed transmitter in the country.",
+    "url": "https://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/home",
+    "tags": [
+      "ised",
+      "radio licences",
+      "spectrum",
+      "telecom"
+    ],
+    "dateAdded": "2032-01-22"
   },
   {
     "name": "Canadian Public Transit Network Database",
@@ -15503,7 +15617,7 @@
       "statcan",
       "national"
     ],
-    "dateAdded": "2032-01-04"
+    "dateAdded": "2032-01-25"
   },
   {
     "name": "BC Transit Open Data (GTFS)",
@@ -15519,7 +15633,7 @@
       "transit",
       "bctransit"
     ],
-    "dateAdded": "2032-01-07"
+    "dateAdded": "2032-01-28"
   },
   {
     "name": "Brampton Transit",
@@ -15533,7 +15647,7 @@
       "transit",
       "Brampton"
     ],
-    "dateAdded": "2032-01-10"
+    "dateAdded": "2032-01-31"
   },
   {
     "name": "BC Transit — Trip Planner",
@@ -15547,7 +15661,7 @@
       "transit",
       "BC"
     ],
-    "dateAdded": "2032-01-13"
+    "dateAdded": "2032-02-03"
   },
   {
     "name": "Burlington Transit",
@@ -15561,7 +15675,7 @@
       "transit",
       "Burlington"
     ],
-    "dateAdded": "2032-01-16"
+    "dateAdded": "2032-02-06"
   },
   {
     "name": "Edmonton Transit Service (ETS)",
@@ -15575,7 +15689,7 @@
       "transit",
       "Edmonton"
     ],
-    "dateAdded": "2032-01-19"
+    "dateAdded": "2032-02-09"
   },
   {
     "name": "Guelph Transit",
@@ -15589,7 +15703,7 @@
       "transit",
       "Guelph"
     ],
-    "dateAdded": "2032-01-22"
+    "dateAdded": "2032-02-12"
   },
   {
     "name": "Halifax Transit GTFS",
@@ -15605,7 +15719,7 @@
       "transit",
       "open data"
     ],
-    "dateAdded": "2032-01-25"
+    "dateAdded": "2032-02-15"
   },
   {
     "name": "Hamilton Street Railway (HSR)",
@@ -15619,7 +15733,7 @@
       "transit",
       "Hamilton"
     ],
-    "dateAdded": "2032-01-28"
+    "dateAdded": "2032-02-18"
   },
   {
     "name": "London Transit",
@@ -15633,7 +15747,7 @@
       "transit",
       "London"
     ],
-    "dateAdded": "2032-01-31"
+    "dateAdded": "2032-02-21"
   },
   {
     "name": "TransLink GTFS Data",
@@ -15650,7 +15764,7 @@
       "real-time",
       "transit"
     ],
-    "dateAdded": "2032-02-03"
+    "dateAdded": "2032-02-24"
   },
   {
     "name": "TransLink Trip Planner",
@@ -15664,7 +15778,7 @@
       "transit",
       "Vancouver"
     ],
-    "dateAdded": "2032-02-06"
+    "dateAdded": "2032-02-27"
   },
   {
     "name": "exo — Greater Montreal Commuter Rail and Bus",
@@ -15678,7 +15792,7 @@
       "Montreal",
       "rail"
     ],
-    "dateAdded": "2032-02-09"
+    "dateAdded": "2032-03-01"
   },
   {
     "name": "Exo GTFS (Montreal Region)",
@@ -15695,7 +15809,7 @@
       "commuter",
       "quebec"
     ],
-    "dateAdded": "2032-02-12"
+    "dateAdded": "2032-03-04"
   },
   {
     "name": "Metrolinx Triplinx",
@@ -15709,7 +15823,7 @@
       "transit",
       "trip planner"
     ],
-    "dateAdded": "2032-02-15"
+    "dateAdded": "2032-03-07"
   },
   {
     "name": "Durham Region Transit",
@@ -15723,7 +15837,7 @@
       "Durham",
       "transit"
     ],
-    "dateAdded": "2032-02-18"
+    "dateAdded": "2032-03-10"
   },
   {
     "name": "Durham Region Transit — GTFS",
@@ -15739,7 +15853,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2032-02-21"
+    "dateAdded": "2032-03-13"
   },
   {
     "name": "GO Transit — Trip Planner",
@@ -15753,7 +15867,7 @@
       "transit",
       "GTA"
     ],
-    "dateAdded": "2032-02-24"
+    "dateAdded": "2032-03-16"
   },
   {
     "name": "PRESTO Fare Calculator",
@@ -15767,7 +15881,7 @@
       "transit",
       "fare"
     ],
-    "dateAdded": "2032-02-27"
+    "dateAdded": "2032-03-19"
   },
   {
     "name": "York Region Transit (YRT/Viva)",
@@ -15781,7 +15895,7 @@
       "GTA",
       "transit"
     ],
-    "dateAdded": "2032-03-01"
+    "dateAdded": "2032-03-22"
   },
   {
     "name": "OC Transpo — Trip Planner",
@@ -15795,7 +15909,7 @@
       "transit",
       "Ottawa"
     ],
-    "dateAdded": "2032-03-04"
+    "dateAdded": "2032-03-25"
   },
   {
     "name": "OC Transpo GTFS Feed",
@@ -15812,7 +15926,7 @@
       "OC Transpo",
       "real-time"
     ],
-    "dateAdded": "2032-03-07"
+    "dateAdded": "2032-03-28"
   },
   {
     "name": "Grand River Transit — GTFS Open Data",
@@ -15829,7 +15943,7 @@
       "open data",
       "real-time"
     ],
-    "dateAdded": "2032-03-10"
+    "dateAdded": "2032-03-31"
   },
   {
     "name": "Grand River Transit (Waterloo Region)",
@@ -15843,7 +15957,7 @@
       "Waterloo",
       "transit"
     ],
-    "dateAdded": "2032-03-13"
+    "dateAdded": "2032-04-03"
   },
   {
     "name": "Windsor Transit",
@@ -15857,7 +15971,7 @@
       "transit",
       "Windsor"
     ],
-    "dateAdded": "2032-03-16"
+    "dateAdded": "2032-04-06"
   },
   {
     "name": "York Region Transit — GTFS Open Data",
@@ -15873,7 +15987,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2032-03-19"
+    "dateAdded": "2032-04-09"
   },
   {
     "name": "Barrie Transit GTFS",
@@ -15888,7 +16002,7 @@
       "gtfs",
       "transit"
     ],
-    "dateAdded": "2032-03-22"
+    "dateAdded": "2032-04-12"
   },
   {
     "name": "Brampton Transit — GTFS (GeoHub)",
@@ -15904,7 +16018,7 @@
       "gtfs",
       "geohub"
     ],
-    "dateAdded": "2032-03-25"
+    "dateAdded": "2032-04-15"
   },
   {
     "name": "Burlington Transit — GTFS",
@@ -15920,7 +16034,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2032-03-28"
+    "dateAdded": "2032-04-18"
   },
   {
     "name": "Calgary Transit GTFS",
@@ -15936,7 +16050,7 @@
       "transit",
       "csv"
     ],
-    "dateAdded": "2032-03-31"
+    "dateAdded": "2032-04-21"
   },
   {
     "name": "Edmonton ETS GTFS",
@@ -15952,7 +16066,7 @@
       "ets",
       "transit"
     ],
-    "dateAdded": "2032-04-03"
+    "dateAdded": "2032-04-24"
   },
   {
     "name": "Guelph Transit — GTFS Open Data",
@@ -15968,7 +16082,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2032-04-06"
+    "dateAdded": "2032-04-27"
   },
   {
     "name": "Guelph Transit GTFS",
@@ -15986,7 +16100,7 @@
       "schedules",
       "routes"
     ],
-    "dateAdded": "2032-04-09"
+    "dateAdded": "2032-04-30"
   },
   {
     "name": "Hamilton Street Railway GTFS",
@@ -16002,7 +16116,7 @@
       "transit",
       "hsr"
     ],
-    "dateAdded": "2032-04-12"
+    "dateAdded": "2032-05-03"
   },
   {
     "name": "Kingston Transit GTFS",
@@ -16020,7 +16134,7 @@
       "schedules",
       "routes"
     ],
-    "dateAdded": "2032-04-15"
+    "dateAdded": "2032-05-06"
   },
   {
     "name": "Lethbridge Transit GTFS",
@@ -16039,7 +16153,7 @@
       "routes",
       "zip"
     ],
-    "dateAdded": "2032-04-18"
+    "dateAdded": "2032-05-09"
   },
   {
     "name": "London Transit Commission GTFS",
@@ -16055,7 +16169,7 @@
       "transit",
       "ontario"
     ],
-    "dateAdded": "2032-04-21"
+    "dateAdded": "2032-05-12"
   },
   {
     "name": "Milton — GTFS Feed",
@@ -16072,7 +16186,7 @@
       "zip",
       "bus"
     ],
-    "dateAdded": "2032-04-24"
+    "dateAdded": "2032-05-15"
   },
   {
     "name": "MiWay — GTFS Developer Download",
@@ -16088,7 +16202,7 @@
       "gtfs",
       "real-time"
     ],
-    "dateAdded": "2032-04-27"
+    "dateAdded": "2032-05-18"
   },
   {
     "name": "MiWay — Mississauga Transit",
@@ -16102,7 +16216,7 @@
       "transit",
       "Mississauga"
     ],
-    "dateAdded": "2032-04-30"
+    "dateAdded": "2032-05-21"
   },
   {
     "name": "STM Info outils / network maps",
@@ -16116,7 +16230,7 @@
       "transit",
       "Montreal"
     ],
-    "dateAdded": "2032-05-03"
+    "dateAdded": "2032-05-24"
   },
   {
     "name": "STM Montreal GTFS",
@@ -16133,7 +16247,7 @@
       "transit",
       "api"
     ],
-    "dateAdded": "2032-05-06"
+    "dateAdded": "2032-05-27"
   },
   {
     "name": "North Bay Transit GTFS",
@@ -16151,7 +16265,7 @@
       "schedules",
       "routes"
     ],
-    "dateAdded": "2032-05-09"
+    "dateAdded": "2032-05-30"
   },
   {
     "name": "Oakville Transit GTFS",
@@ -16169,7 +16283,7 @@
       "schedules",
       "routes"
     ],
-    "dateAdded": "2032-05-12"
+    "dateAdded": "2032-06-02"
   },
   {
     "name": "Thunder Bay Transit",
@@ -16183,7 +16297,7 @@
       "transit",
       "Northern Ontario"
     ],
-    "dateAdded": "2032-05-15"
+    "dateAdded": "2032-06-05"
   },
   {
     "name": "STO — GTFS Open Data (Gatineau)",
@@ -16200,7 +16314,7 @@
       "quebec",
       "open data"
     ],
-    "dateAdded": "2032-05-18"
+    "dateAdded": "2032-06-08"
   },
   {
     "name": "STO — Outaouais Transit (Gatineau)",
@@ -16214,7 +16328,7 @@
       "Gatineau",
       "transit"
     ],
-    "dateAdded": "2032-05-21"
+    "dateAdded": "2032-06-11"
   },
   {
     "name": "RTC — Réseau de transport de la Capitale (Quebec City)",
@@ -16228,7 +16342,7 @@
       "Quebec City",
       "transit"
     ],
-    "dateAdded": "2032-05-24"
+    "dateAdded": "2032-06-14"
   },
   {
     "name": "RTC Québec — GTFS Open Data",
@@ -16244,7 +16358,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2032-05-27"
+    "dateAdded": "2032-06-17"
   },
   {
     "name": "Rimouski — GTFS Transit Data",
@@ -16263,7 +16377,7 @@
       "Quebec",
       "zip"
     ],
-    "dateAdded": "2032-05-30"
+    "dateAdded": "2032-06-20"
   },
   {
     "name": "Saskatoon Transit",
@@ -16277,7 +16391,7 @@
       "Saskatoon",
       "transit"
     ],
-    "dateAdded": "2032-06-02"
+    "dateAdded": "2032-06-23"
   },
   {
     "name": "Saskatoon Transit Open Data",
@@ -16293,7 +16407,7 @@
       "real-time",
       "transit"
     ],
-    "dateAdded": "2032-06-05"
+    "dateAdded": "2032-06-26"
   },
   {
     "name": "Toronto Bike Share station map",
@@ -16307,7 +16421,7 @@
       "transit",
       "bikes"
     ],
-    "dateAdded": "2032-06-08"
+    "dateAdded": "2032-06-29"
   },
   {
     "name": "Toronto TTC GTFS Feed",
@@ -16324,7 +16438,7 @@
       "transit",
       "api"
     ],
-    "dateAdded": "2032-06-11"
+    "dateAdded": "2032-07-02"
   },
   {
     "name": "TTC Service Advisories / maps",
@@ -16338,7 +16452,7 @@
       "transit",
       "Toronto"
     ],
-    "dateAdded": "2032-06-14"
+    "dateAdded": "2032-07-05"
   },
   {
     "name": "Transit Windsor — GTFS",
@@ -16354,7 +16468,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2032-06-17"
+    "dateAdded": "2032-07-08"
   },
   {
     "name": "Winnipeg Transit — Trip Planner",
@@ -16368,7 +16482,7 @@
       "Winnipeg",
       "transit"
     ],
-    "dateAdded": "2032-06-20"
+    "dateAdded": "2032-07-11"
   },
   {
     "name": "Winnipeg Transit GTFS",
@@ -16384,7 +16498,7 @@
       "transit",
       "open data"
     ],
-    "dateAdded": "2032-06-23"
+    "dateAdded": "2032-07-14"
   },
   {
     "name": "511 Alberta",
@@ -16398,7 +16512,7 @@
       "roads",
       "transportation"
     ],
-    "dateAdded": "2032-06-26"
+    "dateAdded": "2032-07-17"
   },
   {
     "name": "DriveBC",
@@ -16412,7 +16526,7 @@
       "roads",
       "transportation"
     ],
-    "dateAdded": "2032-06-29"
+    "dateAdded": "2032-07-20"
   },
   {
     "name": "ICBC — Driver Licensing",
@@ -16426,7 +16540,7 @@
       "BC",
       "licence"
     ],
-    "dateAdded": "2032-07-02"
+    "dateAdded": "2032-07-23"
   },
   {
     "name": "Manitoba Public Insurance — Driver Services",
@@ -16440,7 +16554,7 @@
       "Manitoba",
       "licence"
     ],
-    "dateAdded": "2032-07-05"
+    "dateAdded": "2032-07-26"
   },
   {
     "name": "New Brunswick 511",
@@ -16454,7 +16568,7 @@
       "roads",
       "NB"
     ],
-    "dateAdded": "2032-07-08"
+    "dateAdded": "2032-07-29"
   },
   {
     "name": "Service New Brunswick — Driver and Vehicle Services",
@@ -16468,7 +16582,7 @@
       "New Brunswick",
       "licence"
     ],
-    "dateAdded": "2032-07-11"
+    "dateAdded": "2032-08-01"
   },
   {
     "name": "511 Northwest Territories",
@@ -16482,7 +16596,7 @@
       "NWT",
       "road conditions"
     ],
-    "dateAdded": "2032-07-14"
+    "dateAdded": "2032-08-04"
   },
   {
     "name": "Nova Scotia Registry of Motor Vehicles",
@@ -16496,7 +16610,7 @@
       "Nova Scotia",
       "licence"
     ],
-    "dateAdded": "2032-07-17"
+    "dateAdded": "2032-08-07"
   },
   {
     "name": "511 Ontario",
@@ -16510,7 +16624,7 @@
       "roads",
       "transportation"
     ],
-    "dateAdded": "2032-07-20"
+    "dateAdded": "2032-08-10"
   },
   {
     "name": "Ontario — Driver's Licence",
@@ -16525,7 +16639,7 @@
       "drivers",
       "licence"
     ],
-    "dateAdded": "2032-07-23"
+    "dateAdded": "2032-08-13"
   },
   {
     "name": "Ontario — Licence Plate Sticker Renewal",
@@ -16540,7 +16654,7 @@
       "vehicles",
       "registration"
     ],
-    "dateAdded": "2032-07-26"
+    "dateAdded": "2032-08-16"
   },
   {
     "name": "Ontario Photo Card",
@@ -16555,7 +16669,7 @@
       "ID",
       "services"
     ],
-    "dateAdded": "2032-07-29"
+    "dateAdded": "2032-08-19"
   },
   {
     "name": "ServiceOntario — Vehicle Registration Renewal",
@@ -16570,7 +16684,7 @@
       "vehicles",
       "services"
     ],
-    "dateAdded": "2032-08-01"
+    "dateAdded": "2032-08-22"
   },
   {
     "name": "Access PEI — Driver and Vehicle Services",
@@ -16584,7 +16698,7 @@
       "PEI",
       "licence"
     ],
-    "dateAdded": "2032-08-04"
+    "dateAdded": "2032-08-25"
   },
   {
     "name": "Quebec 511",
@@ -16598,7 +16712,7 @@
       "roads",
       "transportation"
     ],
-    "dateAdded": "2032-08-07"
+    "dateAdded": "2032-08-28"
   },
   {
     "name": "SAAQClic — Quebec Driver Services",
@@ -16612,7 +16726,7 @@
       "Quebec",
       "licence"
     ],
-    "dateAdded": "2032-08-10"
+    "dateAdded": "2032-08-31"
   },
   {
     "name": "Saskatchewan 511",
@@ -16626,7 +16740,7 @@
       "roads",
       "SK"
     ],
-    "dateAdded": "2032-08-13"
+    "dateAdded": "2032-09-03"
   },
   {
     "name": "SGI — Saskatchewan Driver and Vehicle Services",
@@ -16640,7 +16754,7 @@
       "Saskatchewan",
       "licence"
     ],
-    "dateAdded": "2032-08-16"
+    "dateAdded": "2032-09-06"
   },
   {
     "name": "NT Drive Yukon — 511 Yukon",
@@ -16654,7 +16768,7 @@
       "Yukon",
       "road conditions"
     ],
-    "dateAdded": "2032-08-19"
+    "dateAdded": "2032-09-09"
   },
   {
     "name": "Yukon — Driver Licensing",
@@ -16668,7 +16782,7 @@
       "Yukon",
       "licence"
     ],
-    "dateAdded": "2032-08-22"
+    "dateAdded": "2032-09-12"
   },
   {
     "name": "Calgary 311 — Service Requests",
@@ -16683,7 +16797,7 @@
       "311",
       "service"
     ],
-    "dateAdded": "2032-08-25"
+    "dateAdded": "2032-09-15"
   },
   {
     "name": "CalTRACS",
@@ -16697,7 +16811,7 @@
       "transportation",
       "data"
     ],
-    "dateAdded": "2032-08-28"
+    "dateAdded": "2032-09-18"
   },
   {
     "name": "Allo-MTL — Montréal en temps réel",
@@ -16712,7 +16826,7 @@
       "maps",
       "Montreal"
     ],
-    "dateAdded": "2032-08-31"
+    "dateAdded": "2032-09-21"
   },
   {
     "name": "Ottawa Traffic, Parking and Road Bans",
@@ -16727,7 +16841,7 @@
       "traffic",
       "roads"
     ],
-    "dateAdded": "2032-09-03"
+    "dateAdded": "2032-09-24"
   },
   {
     "name": "Saguenay Réseau routier — Données Québec",
@@ -16744,7 +16858,7 @@
       "open data",
       "geojson"
     ],
-    "dateAdded": "2032-09-06"
+    "dateAdded": "2032-09-27"
   },
   {
     "name": "Canada Energy Regulator — Energy Futures",
@@ -16758,7 +16872,7 @@
       "energy",
       "scenarios"
     ],
-    "dateAdded": "2032-09-09"
+    "dateAdded": "2032-09-30"
   },
   {
     "name": "Canada Energy Regulator — Pipeline Profiles",
@@ -16772,7 +16886,7 @@
       "energy",
       "pipelines"
     ],
-    "dateAdded": "2032-09-12"
+    "dateAdded": "2032-10-03"
   },
   {
     "name": "Water Office",
@@ -16786,7 +16900,7 @@
       "water",
       "environment"
     ],
-    "dateAdded": "2032-09-15"
+    "dateAdded": "2032-10-06"
   },
   {
     "name": "Manitoba Hydro — Outage Map",
@@ -16800,7 +16914,7 @@
       "Manitoba",
       "outages"
     ],
-    "dateAdded": "2032-09-18"
+    "dateAdded": "2032-10-09"
   },
   {
     "name": "Alberta Energy Regulator",
@@ -16816,7 +16930,7 @@
       "regulator",
       "oil and gas"
     ],
-    "dateAdded": "2032-09-21"
+    "dateAdded": "2032-10-12"
   },
   {
     "name": "Alberta Utilities Commission — Consumer Services",
@@ -16831,7 +16945,7 @@
       "utilities",
       "consumer"
     ],
-    "dateAdded": "2032-09-24"
+    "dateAdded": "2032-10-15"
   },
   {
     "name": "ATCO — Gas Outage Map and Emergency",
@@ -16846,7 +16960,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2032-09-27"
+    "dateAdded": "2032-10-18"
   },
   {
     "name": "Utilities Consumer Advocate Alberta",
@@ -16861,7 +16975,7 @@
       "utilities",
       "consumer"
     ],
-    "dateAdded": "2032-09-30"
+    "dateAdded": "2032-10-21"
   },
   {
     "name": "BC Hydro — Planned Outages and Outage List",
@@ -16876,7 +16990,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2032-10-03"
+    "dateAdded": "2032-10-24"
   },
   {
     "name": "BC Hydro — Power Outage Map",
@@ -16891,7 +17005,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2032-10-06"
+    "dateAdded": "2032-10-27"
   },
   {
     "name": "BC Hydro — Report an Outage",
@@ -16906,7 +17020,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2032-10-09"
+    "dateAdded": "2032-10-30"
   },
   {
     "name": "FortisBC — Gas Outage Map",
@@ -16921,7 +17035,7 @@
       "utilities",
       "gas"
     ],
-    "dateAdded": "2032-10-12"
+    "dateAdded": "2032-11-02"
   },
   {
     "name": "Nova Scotia Power — Outage Map",
@@ -16935,7 +17049,7 @@
       "Nova Scotia",
       "outages"
     ],
-    "dateAdded": "2032-10-15"
+    "dateAdded": "2032-11-05"
   },
   {
     "name": "Hydro One — Outage Map",
@@ -16949,7 +17063,7 @@
       "Ontario",
       "outages"
     ],
-    "dateAdded": "2032-10-18"
+    "dateAdded": "2032-11-08"
   },
   {
     "name": "Ontario Energy Board",
@@ -16965,7 +17079,7 @@
       "regulator",
       "utilities"
     ],
-    "dateAdded": "2032-10-21"
+    "dateAdded": "2032-11-11"
   },
   {
     "name": "Ontario Power Generation — Dam Safety and Water Management",
@@ -16980,7 +17094,7 @@
       "utilities",
       "water"
     ],
-    "dateAdded": "2032-10-24"
+    "dateAdded": "2032-11-14"
   },
   {
     "name": "Ontario Power Generation — Nuclear Monitoring Dashboard",
@@ -16995,7 +17109,7 @@
       "nuclear",
       "utilities"
     ],
-    "dateAdded": "2032-10-27"
+    "dateAdded": "2032-11-17"
   },
   {
     "name": "Maritime Electric — Outage Map",
@@ -17009,7 +17123,7 @@
       "PEI",
       "outages"
     ],
-    "dateAdded": "2032-10-30"
+    "dateAdded": "2032-11-20"
   },
   {
     "name": "Hydro-Québec — Report an Outage and Mobile App",
@@ -17024,7 +17138,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2032-11-02"
+    "dateAdded": "2032-11-23"
   },
   {
     "name": "Yukon Energy Map",
@@ -17038,7 +17152,7 @@
       "energy",
       "maps"
     ],
-    "dateAdded": "2032-11-05"
+    "dateAdded": "2032-11-26"
   },
   {
     "name": "Alectra — Outage Map",
@@ -17052,7 +17166,7 @@
       "GTA",
       "outages"
     ],
-    "dateAdded": "2032-11-08"
+    "dateAdded": "2032-11-29"
   },
   {
     "name": "Calgary Electric Utility — ENMAX Outages",
@@ -17067,7 +17181,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2032-11-11"
+    "dateAdded": "2032-12-02"
   },
   {
     "name": "Edmonton Electric Utility — EPCOR Outages",
@@ -17082,7 +17196,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2032-11-14"
+    "dateAdded": "2032-12-05"
   },
   {
     "name": "Edmonton Maps",
@@ -17096,7 +17210,7 @@
       "maps",
       "GIS"
     ],
-    "dateAdded": "2032-11-17"
+    "dateAdded": "2032-12-08"
   },
   {
     "name": "Hydro Ottawa — Outage Map",
@@ -17110,7 +17224,7 @@
       "Ottawa",
       "outages"
     ],
-    "dateAdded": "2032-11-20"
+    "dateAdded": "2032-12-11"
   },
   {
     "name": "Toronto Hydro — Outage Map",
@@ -17125,7 +17239,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2032-11-23"
+    "dateAdded": "2032-12-14"
   },
   {
     "name": "Vancouver VanMap",
@@ -17139,7 +17253,7 @@
       "maps",
       "GIS"
     ],
-    "dateAdded": "2032-11-26"
+    "dateAdded": "2032-12-17"
   },
   {
     "name": "Canadian Armed Forces — Forces.ca Careers",
@@ -17153,7 +17267,7 @@
       "military",
       "careers"
     ],
-    "dateAdded": "2032-11-29"
+    "dateAdded": "2032-12-20"
   },
   {
     "name": "Canadian Forces Morale and Welfare Services",
@@ -17167,7 +17281,7 @@
       "military",
       "family"
     ],
-    "dateAdded": "2032-12-02"
+    "dateAdded": "2032-12-23"
   },
   {
     "name": "Canadian Military History — Directorate of History and Heritage",
@@ -17181,7 +17295,23 @@
       "history",
       "military"
     ],
-    "dateAdded": "2032-12-05"
+    "dateAdded": "2032-12-26"
+  },
+  {
+    "name": "Canadian Virtual War Memorial",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Memorial registry",
+    "description": "Searchable registry of Canada's war dead — over 120,000 records with photographs, service numbers, units, and burial locations, maintained by Veterans Affairs. Community photo submissions accepted.",
+    "url": "https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial",
+    "tags": [
+      "genealogy",
+      "military history",
+      "remembrance",
+      "war memorial"
+    ],
+    "dateAdded": "2032-12-29"
   },
   {
     "name": "Veterans Affairs Canada — Benefits Navigator",
@@ -17195,7 +17325,7 @@
       "veterans",
       "benefits"
     ],
-    "dateAdded": "2032-12-08"
+    "dateAdded": "2033-01-01"
   },
   {
     "name": "Veterans Affairs Canada — My VAC Account",
@@ -17209,7 +17339,7 @@
       "veterans",
       "services"
     ],
-    "dateAdded": "2032-12-11"
+    "dateAdded": "2033-01-04"
   },
   {
     "name": "War Memorials in Canada",
@@ -17223,7 +17353,7 @@
       "veterans",
       "heritage"
     ],
-    "dateAdded": "2032-12-14"
+    "dateAdded": "2033-01-07"
   },
   {
     "name": "Air Quality Health Index (AQHI) — Observations Map",
@@ -17239,7 +17369,7 @@
       "aqhi",
       "health"
     ],
-    "dateAdded": "2032-12-17"
+    "dateAdded": "2033-01-10"
   },
   {
     "name": "MSC GeoMet — Weather and Climate API",
@@ -17256,7 +17386,7 @@
       "climate",
       "geomet"
     ],
-    "dateAdded": "2032-12-20"
+    "dateAdded": "2033-01-13"
   },
   {
     "name": "Alberta Climate Information Service (ACIS) — Weather Station Data Viewer",
@@ -17275,7 +17405,7 @@
       "CSV",
       "interactive map"
     ],
-    "dateAdded": "2032-12-23"
+    "dateAdded": "2033-01-16"
   },
   {
     "name": "Alberta River Basins — Flow and Forecast",
@@ -17291,7 +17421,7 @@
       "flood",
       "hydrology"
     ],
-    "dateAdded": "2032-12-26"
+    "dateAdded": "2033-01-19"
   },
   {
     "name": "BC Meteorological Station Data Portal (PCIC)",
@@ -17311,7 +17441,7 @@
       "climate",
       "environment"
     ],
-    "dateAdded": "2032-12-29"
+    "dateAdded": "2033-01-22"
   },
   {
     "name": "BC River Forecast Centre — Open Data",
@@ -17328,7 +17458,7 @@
       "forecast",
       "open data"
     ],
-    "dateAdded": "2033-01-01"
+    "dateAdded": "2033-01-25"
   },
   {
     "name": "Manitoba Ag Weather Station Network — Data MB Download",
@@ -17347,7 +17477,7 @@
       "GeoJSON",
       "download"
     ],
-    "dateAdded": "2033-01-04"
+    "dateAdded": "2033-01-28"
   },
   {
     "name": "Manitoba Flood Information",
@@ -17363,7 +17493,7 @@
       "hydrology",
       "warnings"
     ],
-    "dateAdded": "2033-01-07"
+    "dateAdded": "2033-01-31"
   },
   {
     "name": "Ontario Flood Forecasting and Warning",
@@ -17379,7 +17509,7 @@
       "forecast",
       "warnings"
     ],
-    "dateAdded": "2033-01-10"
+    "dateAdded": "2033-02-03"
   },
   {
     "name": "Ontario Low Water Response",
@@ -17395,6 +17525,6 @@
       "water levels",
       "conservation"
     ],
-    "dateAdded": "2033-01-13"
+    "dateAdded": "2033-02-06"
   }
 ]

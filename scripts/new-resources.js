@@ -1327,5 +1327,217 @@ module.exports = [
       "registry"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "ISED Spectrum Management System",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Licence database",
+    "description": "Public access to Canada's radio spectrum licensing: search radio licences by frequency, location, or licensee, browse spectrum auction results, and download site data for every licensed transmitter in the country.",
+    "url": "https://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/home",
+    "tags": [
+      "ised",
+      "radio licences",
+      "spectrum",
+      "telecom"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Canada's Connectivity Strategy — Project Map & Reports",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Program data",
+    "description": "Federal broadband program transparency: funded connectivity projects, target speeds, households connected, and progress reporting toward universal rural internet.",
+    "url": "https://ised-isde.canada.ca/site/canada-connectivity-strategy/en",
+    "tags": [
+      "broadband",
+      "connectivity",
+      "funding",
+      "rural internet"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Canadian Virtual War Memorial",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Memorial registry",
+    "description": "Searchable registry of Canada's war dead — over 120,000 records with photographs, service numbers, units, and burial locations, maintained by Veterans Affairs. Community photo submissions accepted.",
+    "url": "https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial",
+    "tags": [
+      "genealogy",
+      "military history",
+      "remembrance",
+      "war memorial"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Meteorological Service of Canada — GeoMet Open Data API",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "API",
+    "description": "Open geospatial API serving Environment Canada weather radar, satellite layers, air quality, and climate archives as OGC standards (WMS/WFS) — free for apps, maps, and analysis without key registration.",
+    "url": "https://api.weather.gc.ca/",
+    "tags": [
+      "api",
+      "ogc",
+      "open data",
+      "radar",
+      "weather"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "MSC Datamart — Raw Weather Data Server",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Bulk data server",
+    "description": "Environment Canada's bulk distribution server: raw observations, forecasts, radar imagery, lightning, and hydrometric bulletins across hundreds of directories — the firehose behind weather.gc.ca.",
+    "url": "https://dd.weather.gc.ca/",
+    "tags": [
+      "bulk download",
+      "forecasts",
+      "meteorology",
+      "observations"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Water Survey of Canada — Real-time Hydrometric Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Monitoring network",
+    "description": "Live and historical water level and flow data for ~2,800 hydrometric stations nationwide, with real-time map views, CSV downloads, and station metadata.",
+    "url": "https://wateroffice.ec.gc.ca/",
+    "tags": [
+      "hydrology",
+      "monitoring",
+      "river flow",
+      "water levels"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "BC River Forecast Centre",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "weather",
+    "type": "Flood forecasting",
+    "description": "Snowpack bulletins (84 snow courses + 60 pillows), freshet forecasts, 7-day streamflow hazard outlooks, and live flood warnings/advisories for BC rivers — with model forecast maps (CLEVER, COFFEE, ELF).",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre",
+    "tags": [
+      "british columbia",
+      "flood",
+      "freshet",
+      "snowpack",
+      "streamflow"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Alberta Rivers — Flood & Drought Forecasting",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "weather",
+    "type": "Forecasting portal",
+    "description": "Provincial river forecasting platform: flood advisories, water supply outlooks, station data, and basin conditions for Alberta's major river systems.",
+    "url": "https://rivers.alberta.ca/",
+    "tags": [
+      "alberta",
+      "drought",
+      "flood",
+      "river basins"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "GeologyOntario — Ontario Geological Survey Database",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "science",
+    "type": "Research database",
+    "description": "Massive geoscience archive: bedrock and surficial mapping, drill core logs, assessment report files, and mineral occurrence databases for Ontario — free downloads spanning a century of survey work.",
+    "url": "https://www.geologyontario.mndm.gov.on.ca/",
+    "tags": [
+      "geology",
+      "mapping",
+      "minerals",
+      "ontario",
+      "research"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "SIGEOM — Québec Geoscientific Data",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "science",
+    "type": "Research database",
+    "description": "Québec's mineral deposit, drilling, geochemistry, and geological map database — full government assessment files downloadable since the 1800s; the backbone of northern mining exploration research.",
+    "url": "https://sigeom.mines.gouv.qc.ca/",
+    "tags": [
+      "geology",
+      "geoscience",
+      "mining",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Alberta Geological Survey — AGS Data & Maps",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "science",
+    "type": "Research database",
+    "description": "Geological mapping, groundwater, landslide, and energy-resource geology datasets for Alberta, including interactive maps and open-file reports.",
+    "url": "https://ags.aer.ca/",
+    "tags": [
+      "alberta",
+      "energy",
+      "geology",
+      "groundwater"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "BC Geological Survey",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "science",
+    "type": "Research database",
+    "description": "Provincial geoscience publications, mineral occurrence database (MINFILE), assessment reports, and interactive MapPlace mapping for British Columbia's rocks and resources.",
+    "url": "https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey",
+    "tags": [
+      "bc",
+      "geology",
+      "mapping",
+      "minfile",
+      "mining"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Répertoire du patrimoine culturel du Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Official register of Quebec's cultural heritage: classified and recognized buildings, archaeological sites, heritage districts, and intangible heritage, with legal status maps per municipality.",
+    "url": "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/",
+    "tags": [
+      "bilingual",
+      "heritage register",
+      "patrimoine",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-24"
   }
 ];

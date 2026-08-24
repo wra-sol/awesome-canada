@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1101 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1109 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -47,17 +47,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌦️ Weather & Climate](#weather-and-climate) — 10
 - [⚡ Energy & Utilities](#energy-and-utilities) — 27
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 13
-- [🔬 Science, Research & Space](#science-research-and-space) — 12
+- [🔬 Science, Research & Space](#science-research-and-space) — 16
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 38
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 15
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 16
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 13
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 16
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 8
-- [🎖️ Veterans & Military](#veterans-and-military) — 6
+- [🎖️ Veterans & Military](#veterans-and-military) — 7
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 27
-- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 5
+- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 7
 
 ---
 
@@ -1855,6 +1855,30 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | SNOLAB — Underground Physics | Canada · Agency | Research | SNOLAB Sudbury underground lab — dark-matter and neutrino physics research | https://www.snolab.ca/ |
 | TRIUMF — Canada's Particle Accelerator | Canada · Agency | Research | TRIUMF UBC-based subatomic and nuclear research lab — public science content and tours | https://www.triumf.ca/ |
 
+### British Columbia
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| BC Geological Survey | British Columbia · Provincial | Research database | Provincial geoscience publications, mineral occurrence database (MINFILE), assessment reports, and interactive MapPlace mapping for British Columbia's rocks and resources. | https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey |
+
+### Alberta
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Alberta Geological Survey — AGS Data & Maps | Alberta · Provincial | Research database | Geological mapping, groundwater, landslide, and energy-resource geology datasets for Alberta, including interactive maps and open-file reports. | https://ags.aer.ca/ |
+
+### Ontario
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| GeologyOntario — Ontario Geological Survey Database | Ontario · Provincial | Research database | Massive geoscience archive: bedrock and surficial mapping, drill core logs, assessment report files, and mineral occurrence databases for Ontario — free downloads spanning a century of survey work. | https://www.geologyontario.mndm.gov.on.ca/ |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| SIGEOM — Québec Geoscientific Data | Quebec · Provincial | Research database | Québec's mineral deposit, drilling, geochemistry, and geological map database — full government assessment files downloadable since the 1800s; the backbone of northern mining exploration research. | https://sigeom.mines.gouv.qc.ca/ |
+
 ## 🎭 Heritage, Culture & Arts
 
 ### Federal / National
@@ -1960,6 +1984,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Répertoire du patrimoine culturel du Québec | Quebec · Provincial | Heritage register | Official register of Quebec's cultural heritage: classified and recognized buildings, archaeological sites, heritage districts, and intangible heritage, with legal status maps per municipality. | https://www.patrimoine-culturel.gouv.qc.ca/rpcq/ |
 | Montreal Protected Heritage Sites | Montreal · Municipal | Heritage dataset | Geographic and descriptive data on buildings and sites under Quebec Cultural Heritage Act on Montreal territory — polygon boundaries with RPCQ links. | https://donnees.montreal.ca/dataset/sites-immeubles-proteges-lpc |
 
 ## 📋 Lobbyists, Ethics & Disclosure
@@ -2147,6 +2172,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Armed Forces — Forces.ca Careers | Canada · Federal | Careers | CAF occupations, enrolment steps, and serving-member resources | https://forces.ca/ |
 | Canadian Forces Morale and Welfare Services | Canada · Federal | Services | CFMWS programs, family services, CANEX discounts, and SISIP financial services | https://www.cfmws.ca/ |
 | Canadian Military History — Directorate of History and Heritage | Canada · Federal | Archive | Canadian Forces history, regiments, and heritage publications | https://www.canada.ca/en/department-national-defence/services/military-history.html |
+| Canadian Virtual War Memorial | Canada · Federal | Memorial registry | Searchable registry of Canada's war dead — over 120,000 records with photographs, service numbers, units, and burial locations, maintained by Veterans Affairs. Community photo submissions accepted. | https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial |
 | Veterans Affairs Canada — Benefits Navigator | Canada · Federal | Finder | Interactive guide to VAC benefits based on your service background and needs | https://www.veterans.gc.ca/en/benefits-navigator |
 | Veterans Affairs Canada — My VAC Account | Canada · Federal | Secure portal | Secure portal for veterans to apply for benefits, track claims, and manage services | https://www.veterans.gc.ca/en/contact-us/my-vac-account |
 | War Memorials in Canada | Canada · Federal | Searchable database | Searchable database of Canadian war memorials, cenotaphs, and commemorative monuments | https://www.veterans.gc.ca/eng/remembrance/memorials |
@@ -2226,11 +2252,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canada's Connectivity Strategy — Project Map & Reports | Canada · Federal | Program data | Federal broadband program transparency: funded connectivity projects, target speeds, households connected, and progress reporting toward universal rural internet. | https://ised-isde.canada.ca/site/canada-connectivity-strategy/en |
 | Canadian Digital Service | Canada · Federal | Agency | CDS — builds and supports digital government services across federal departments | https://digital.canada.ca/ |
 | CRTC — Broadband Internet Service Complaints | Canada · Federal | Complaint | Submit complaints about broadband, wireless, or TV providers via the CCTS | https://www.ccts-cprst.ca/ |
 | CRTC — Communications Monitoring Report | Canada · Federal | Report | Annual data on Canadian broadcasting, wireless, and internet markets | https://crtc.gc.ca/eng/publications/reports/policymonitoring/2023/index.htm |
 | CRTC — National Broadband Map | Canada · Federal | Map | Interactive map showing internet speeds and coverage across Canada | https://crtc.gc.ca/eng/internet/internet.htm |
 | ISED — Spectrum Management System | Canada · Federal | Licensing | Look up radio spectrum licence holders and technical info across Canada | https://sms-sgs.ic.gc.ca/ |
+| ISED Spectrum Management System | Canada · Federal | Licence database | Public access to Canada's radio spectrum licensing: search radio licences by frequency, location, or licensee, browse spectrum auction results, and download site data for every licensed transmitter in the country. | https://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/home |
 
 ---
 

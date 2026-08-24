@@ -1,343 +1,213 @@
 [
   {
-    "name": "Bank of Canada \u2014 Valet API",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "finance",
-    "type": "API",
-    "description": "Free REST API for Bank of Canada datasets: policy interest rate, exchange rates, CPI, money markets, and macro indicators with JSON/CSV output and interactive series builder.",
-    "url": "https://www.bankofcanada.ca/valet/",
-    "tags": [
-      "api",
-      "bank of canada",
-      "cpi",
-      "exchange rates",
-      "interest rates"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Office of the Commissioner of Lobbying \u2014 Lobbyist Registry",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "lobbyist",
-    "type": "Lobbyist registry",
-    "description": "Searchable federal registry of in-house and consultant lobbyists: who is lobbying which officials, on what subject, for whom, and when. Note: site blocks automated requests; browse manually.",
-    "url": "https://lobbycanada.gc.ca/",
-    "tags": [
-      "federal",
-      "lobbying",
-      "registry",
-      "transparency"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Parliamentary Budget Officer \u2014 Reports & Costings",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "budget",
-    "type": "Budget watchdog",
-    "description": "Independent budget analysis for Parliament: election platform costings, fiscal projections, departmental spending analyses, and custom costing requests. Complements the absence of federal line-by-line budget data tools.",
-    "url": "https://www.pbo-dpb.gc.ca/",
-    "tags": [
-      "budget",
-      "costings",
-      "fiscal",
-      "parliament",
-      "pbo"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "LEGISinfo \u2014 Federal Bill Tracker",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "council",
-    "type": "Legislation tracker",
-    "description": "Tracks every federal bill through Parliament: full text at each stage, sponsor, legislative summaries, votes, coming-into-force data, with JSON/XML/RSS exports back to the 35th Parliament (1994).",
-    "url": "https://www.parl.ca/legisinfo/en/bills",
-    "tags": [
-      "bills",
-      "legislation",
-      "open data",
-      "parliament",
-      "rss"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Elections Canada \u2014 Political Contributions Search",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "elections",
-    "type": "Contributions database",
-    "description": "Searchable database of contributions to federal political parties, riding associations, and candidates \u2014 donor names, amounts, and dates, as reviewed by Elections Canada.",
-    "url": "https://www.elections.ca/wpapps/WPF/EN/CCS/Index?returntype=1",
-    "tags": [
-      "campaign finance",
-      "contributions",
-      "donors",
-      "elections"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Elections Canada \u2014 Political Financing Open Data",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "elections",
-    "type": "Dataset bundle",
-    "description": "Bulk CSV downloads of political financing data dating back to 1993: reviewed and as-filed contribution details for all political entities, plus financial returns.",
-    "url": "https://www.elections.ca/content.aspx?section=fin&dir=oda&document=index&lang=e",
-    "tags": [
-      "bulk download",
-      "campaign finance",
-      "csv",
-      "elections"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Elections Canada \u2014 Political Entity Registry",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "elections",
-    "type": "Registry",
-    "description": "Current and historical registry of federal political parties, riding associations, candidates, and third parties registered with Elections Canada.",
-    "url": "https://www.elections.ca/WPAPPS/WPR/EN",
-    "tags": [
-      "elections",
-      "political parties",
-      "registry",
-      "third parties"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Canadian Hydrographic Service \u2014 Tides & Water Levels Archive",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "environment",
-    "type": "Monitoring data",
-    "description": "Historical, downloadable observed water-level data from 968 CHS gauges across Canada, plus real-time observations and predictions via the IWLS API, benchmarks, and Great Lakes monthly means since 1918.",
-    "url": "https://www.tides.gc.ca/en/tides-and-water-levels-data-archive",
-    "tags": [
-      "coastal",
-      "great lakes",
-      "hydrography",
-      "tides",
-      "water levels"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Health Canada \u2014 Recalls & Safety Alerts",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "safety",
-    "type": "Alerts database",
-    "description": "Searchable national database of consumer product, food, and health product recalls and safety alerts, filterable by category, date, and brand.",
-    "url": "https://healthycanadians.gc.ca/recall-alert-rappel-avis/index-eng.php",
-    "tags": [
-      "consumer products",
-      "food safety",
-      "health",
-      "recalls"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Impact Assessment Agency \u2014 Canadian Impact Assessment Registry",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "environment",
-    "type": "Project registry",
-    "description": "Official registry of federally designated projects under the Impact Assessment Act: proposals, assessments in progress, conditions, and decisions, searchable by region, type, and status.",
-    "url": "https://iaac-aeic.gc.ca/050/evaluations",
-    "tags": [
-      "environment",
-      "impact assessment",
-      "major projects",
-      "regulatory"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Canadian Register of Historic Places",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "Pan-Canadian register (federal-provincial partnership) documenting 12,000+ recognized historic places: federal heritage designations, provincial registers, and municipal landmarks with statements of significance.",
-    "url": "https://www.historicplaces.ca/en/pages/1_home.aspx",
-    "tags": [
-      "conservation",
-      "heritage",
-      "historic places",
-      "register"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "CRTC \u2014 Internet & Broadband Coverage",
+    "name": "ISED Spectrum Management System",
     "level": "Federal",
     "jurisdiction": "Canada",
     "category": "telecom",
-    "type": "Coverage data",
-    "description": "Regulatory data and maps on Canadian broadband availability, speeds, and service quality \u2014 the basis for CRTC connectivity targets and funding decisions.",
-    "url": "https://crtc.gc.ca/eng/internet/internet.htm",
+    "type": "Licence database",
+    "description": "Public access to Canada's radio spectrum licensing: search radio licences by frequency, location, or licensee, browse spectrum auction results, and download site data for every licensed transmitter in the country.",
+    "url": "https://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/home",
     "tags": [
-      "broadband",
-      "coverage",
-      "crtc",
-      "internet",
+      "ised",
+      "radio licences",
+      "spectrum",
       "telecom"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Canada's Business Registries (ISED)",
+    "name": "Canada's Connectivity Strategy \u2014 Project Map & Reports",
     "level": "Federal",
     "jurisdiction": "Canada",
-    "category": "business",
-    "type": "Business registry search",
-    "description": "Free cross-provincial business lookup aggregating the official registries of AB, BC, MB, NS, ON, QC, SK, and Corporations Canada \u2014 one search across jurisdictions.",
-    "url": "https://ised-isde.canada.ca/cbr-rec/",
+    "category": "telecom",
+    "type": "Program data",
+    "description": "Federal broadband program transparency: funded connectivity projects, target speeds, households connected, and progress reporting toward universal rural internet.",
+    "url": "https://ised-isde.canada.ca/site/canada-connectivity-strategy/en",
     "tags": [
-      "business registry",
-      "corporations",
-      "cross-provincial",
-      "search"
+      "broadband",
+      "connectivity",
+      "funding",
+      "rural internet"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Ontario \u2014 Environmental Registry (ERO)",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
+    "name": "Canadian Virtual War Memorial",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Memorial registry",
+    "description": "Searchable registry of Canada's war dead \u2014 over 120,000 records with photographs, service numbers, units, and burial locations, maintained by Veterans Affairs. Community photo submissions accepted.",
+    "url": "https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial",
+    "tags": [
+      "genealogy",
+      "military history",
+      "remembrance",
+      "war memorial"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Meteorological Service of Canada \u2014 GeoMet Open Data API",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "API",
+    "description": "Open geospatial API serving Environment Canada weather radar, satellite layers, air quality, and climate archives as OGC standards (WMS/WFS) \u2014 free for apps, maps, and analysis without key registration.",
+    "url": "https://api.weather.gc.ca/",
+    "tags": [
+      "api",
+      "ogc",
+      "open data",
+      "radar",
+      "weather"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "MSC Datamart \u2014 Raw Weather Data Server",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Bulk data server",
+    "description": "Environment Canada's bulk distribution server: raw observations, forecasts, radar imagery, lightning, and hydrometric bulletins across hundreds of directories \u2014 the firehose behind weather.gc.ca.",
+    "url": "https://dd.weather.gc.ca/",
+    "tags": [
+      "bulk download",
+      "forecasts",
+      "meteorology",
+      "observations"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Water Survey of Canada \u2014 Real-time Hydrometric Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
     "category": "environment",
-    "type": "Decision registry",
-    "description": "Official public notice and comment registry for Ontario environmentally significant proposals: policies, permits (incl. water takings), and regulations open for comment, with ministry decisions posted.",
-    "url": "https://ero.ontario.ca/",
+    "type": "Monitoring network",
+    "description": "Live and historical water level and flow data for ~2,800 hydrometric stations nationwide, with real-time map views, CSV downloads, and station metadata.",
+    "url": "https://wateroffice.ec.gc.ca/",
     "tags": [
-      "environment",
-      "permits",
-      "public comments",
-      "regulation"
+      "hydrology",
+      "monitoring",
+      "river flow",
+      "water levels"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Ontario Land Tribunal \u2014 Decisions",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "planning-zoning",
-    "type": "Tribunal decisions",
-    "description": "Full-text decisions of the OLT and predecessors (OMB, LPAT, ERT) on land-use planning appeals, zoning by-laws, official plan amendments, and heritage disputes; searchable by municipality and keyword. Case status portal covers active files.",
-    "url": "https://olt.gov.on.ca/decisions/",
-    "tags": [
-      "decisions",
-      "olt",
-      "omb",
-      "planning appeals",
-      "zoning"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Ontario \u2014 Political Contributions Search",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "elections",
-    "type": "Contributions database",
-    "description": "Searchable register of provincial political contributions (414,000+ records) \u2014 donors to Ontario parties, candidates, and associations with downloadable results.",
-    "url": "https://finances.elections.on.ca/en/contributions",
-    "tags": [
-      "campaign finance",
-      "donors",
-      "elections",
-      "ontario"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "British Columbia \u2014 Political Contributions Search (FRPC)",
+    "name": "BC River Forecast Centre",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
-    "category": "elections",
-    "type": "Contributions database",
-    "description": "Elections BC's Financial Reports and Political Contributions system: combined contribution searches over $250 by contributor class (individual, corporation, union) with bulk download options.",
-    "url": "https://contributions.electionsbc.gov.bc.ca/pcs/sa1asearch.aspx",
+    "category": "weather",
+    "type": "Flood forecasting",
+    "description": "Snowpack bulletins (84 snow courses + 60 pillows), freshet forecasts, 7-day streamflow hazard outlooks, and live flood warnings/advisories for BC rivers \u2014 with model forecast maps (CLEVER, COFFEE, ELF).",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre",
     "tags": [
-      "bc",
-      "campaign finance",
-      "donors",
-      "elections"
+      "british columbia",
+      "flood",
+      "freshet",
+      "snowpack",
+      "streamflow"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Saskatchewan \u2014 Contribution Search Tool",
+    "name": "Alberta Rivers \u2014 Flood & Drought Forecasting",
     "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "elections",
-    "type": "Contributions database",
-    "description": "Elections Saskatchewan's searchable political contribution tool with per-party, per-year filtering and downloadable fiscal-period returns from 2016 onward.",
-    "url": "https://www.elections.sk.ca/reports-data/candidate-political-party-finances/contribution-search-tool/",
+    "jurisdiction": "Alberta",
+    "category": "weather",
+    "type": "Forecasting portal",
+    "description": "Provincial river forecasting platform: flood advisories, water supply outlooks, station data, and basin conditions for Alberta's major river systems.",
+    "url": "https://rivers.alberta.ca/",
     "tags": [
-      "campaign finance",
-      "donors",
-      "elections",
-      "saskatchewan"
+      "alberta",
+      "drought",
+      "flood",
+      "river basins"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "GeoNova \u2014 Nova Scotia Geospatial Data",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "open-data",
-    "type": "Geospatial portal",
-    "description": "Nova Scotia's provincial geospatial data clearinghouse: property-related fabric, topographic layers, imagery, and administrative boundaries with WMS/WFS services and downloads.",
-    "url": "https://geonova.novascotia.ca/",
-    "tags": [
-      "geospatial",
-      "gis",
-      "maps",
-      "nova scotia"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "Ontario \u2014 OnLand Property Records",
+    "name": "GeologyOntario \u2014 Ontario Geological Survey Database",
     "level": "Provincial",
     "jurisdiction": "Ontario",
-    "category": "housing",
-    "type": "Land registry",
-    "description": "Ontario's official electronic land registration system: title searches, parcel registers, and property imagery for land titles and registry act properties across the province.",
-    "url": "https://www.onland.ca/",
+    "category": "science",
+    "type": "Research database",
+    "description": "Massive geoscience archive: bedrock and surficial mapping, drill core logs, assessment report files, and mineral occurrence databases for Ontario \u2014 free downloads spanning a century of survey work.",
+    "url": "https://www.geologyontario.mndm.gov.on.ca/",
     "tags": [
-      "land titles",
+      "geology",
+      "mapping",
+      "minerals",
       "ontario",
-      "property records",
-      "title search"
+      "research"
     ],
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Qu\u00e9bec \u2014 Registre des entreprises",
+    "name": "SIGEOM \u2014 Qu\u00e9bec Geoscientific Data",
     "level": "Provincial",
     "jurisdiction": "Quebec",
-    "category": "business",
-    "type": "Business registry",
-    "description": "Quebec's official enterprise registry: search corporations, sole proprietorships, and nonprofits by name or NEQ number for status, directors, and filings. Note: site blocks automated requests; browse manually.",
-    "url": "https://www.registreentreprises.gouv.qc.ca/",
+    "category": "science",
+    "type": "Research database",
+    "description": "Qu\u00e9bec's mineral deposit, drilling, geochemistry, and geological map database \u2014 full government assessment files downloadable since the 1800s; the backbone of northern mining exploration research.",
+    "url": "https://sigeom.mines.gouv.qc.ca/",
     "tags": [
-      "corporations",
-      "entreprises",
-      "quebec",
-      "registry"
+      "geology",
+      "geoscience",
+      "mining",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Alberta Geological Survey \u2014 AGS Data & Maps",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "science",
+    "type": "Research database",
+    "description": "Geological mapping, groundwater, landslide, and energy-resource geology datasets for Alberta, including interactive maps and open-file reports.",
+    "url": "https://ags.aer.ca/",
+    "tags": [
+      "alberta",
+      "energy",
+      "geology",
+      "groundwater"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "BC Geological Survey",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "science",
+    "type": "Research database",
+    "description": "Provincial geoscience publications, mineral occurrence database (MINFILE), assessment reports, and interactive MapPlace mapping for British Columbia's rocks and resources.",
+    "url": "https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey",
+    "tags": [
+      "bc",
+      "geology",
+      "mapping",
+      "minfile",
+      "mining"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "R\u00e9pertoire du patrimoine culturel du Qu\u00e9bec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Official register of Quebec's cultural heritage: classified and recognized buildings, archaeological sites, heritage districts, and intangible heritage, with legal status maps per municipality.",
+    "url": "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/",
+    "tags": [
+      "bilingual",
+      "heritage register",
+      "patrimoine",
+      "quebec"
     ],
     "dateAdded": "2026-08-24"
   }
