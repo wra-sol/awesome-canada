@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1170 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1180 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,14 +26,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 171
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 82
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 172
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 83
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 128
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 92
 - [🪪 Government Services & ID](#government-services-and-id) — 34
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 16
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 20
-- [🏢 Business & Procurement](#business-and-procurement) — 24
+- [🏢 Business & Procurement](#business-and-procurement) — 25
 - [💼 Employment & Labour](#employment-and-labour) — 15
 - [🎓 Education & Student Aid](#education-and-student-aid) — 15
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 36
@@ -41,23 +41,23 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🩺 Health & Wellness](#health-and-wellness) — 19
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 24
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 24
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 25
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 28
 - [🚌 Transit & Mobility](#transit-and-mobility) — 58
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 54
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 55
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 29
 - [🌦️ Weather & Climate](#weather-and-climate) — 12
 - [⚡ Energy & Utilities](#energy-and-utilities) — 29
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 19
 - [🔬 Science, Research & Space](#science-research-and-space) — 20
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 39
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 18
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 41
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 20
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 16
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 19
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 12
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 9
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 10
 - [🎖️ Veterans & Military](#veterans-and-military) — 7
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 27
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 8
@@ -72,6 +72,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Canadian Geographical Names Database Search | Canada · Federal | Lookup tool | Query nearly 350,000 official Canadian place names by name, coordinates or area, with API access and downloadable datasets, maintained by NRCan. | https://geonames.nrcan.gc.ca/search-place-names/search |
 | Census Program | Canada · Federal | Census portal | Census profiles, maps, and reference materials | https://www12.statcan.gc.ca/census-recensement/index-eng.cfm |
+| EODMS — Earth Observation Data Management System | Canada · Federal | Imagery search | Search and order from NRCan's archive of satellite imagery and the National Air Photo Library — over 3 million historical aerial photos of Canada dating to the 1920s, with footprints on a map. | https://eodms-sgdot.nrcan-rncan.gc.ca/index-en.html |
 | GEO.ca | Canada · Federal | Geospatial portal | Canada's federal geospatial data portal, providing open access to authoritative geospatial information, maps, and datasets from federal sources. | https://geo.ca/ |
 | Government of Canada — Open Government Portal | Canada · Federal | Open data portal | Search 40,000+ federal datasets, reports, and geospatial layers with API access | https://search.open.canada.ca/opendata/ |
 | ISED API Catalogue | Canada · Federal | API catalogue | Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data. | https://api.ised-isde.canada.ca/en |
@@ -390,6 +391,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Newfoundland and Labrador — Provincial Land Use Atlas | Newfoundland and Labrador · Provincial | Interactive map | Interactive map of Crown land titles and applications, municipal plans, protected road zoning and land use restrictions across the province, with topographic base maps and aerial photography. | https://geohub-gnl.hub.arcgis.com/app/provincial-land-use-atlas-lua |
 | CBRM Parcel Finder | Cape Breton · Municipal | Parcel map service | Cape Breton Regional Municipality parcel and property lookup via municipal GIS ParcelFinder map services. | https://gis2.cbrm.ns.ca/server/rest/services/ParcelFinder |
 | CBRM Planning GIS Services | Cape Breton · Municipal | Planning map services | CBRM planning department GIS map services — zoning and land-use layers via ArcGIS REST for Cape Breton Regional Municipality. | https://gis2.cbrm.ns.ca/server/rest/services/Planning |
 | Fredericton — Zoning By-law Dataset | Fredericton · Municipal | Dataset | Polygon GIS dataset of Fredericton zoning districts from the Zoning By-law, with zoning codes and descriptions. Downloadable as GeoJSON, Shapefile, or KML via ArcGIS Hub for use in mapping and development analysis. | https://data-fredericton.opendata.arcgis.com/datasets/zoning-by-law-z5 |
@@ -900,6 +902,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Intellectual Property Office (CIPO) | Canada · Federal | Service | Search and apply for patents, trademarks, copyrights, and industrial designs in Canada | https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en |
 | Canadian Patents Database | Canada · Federal | Search tool | Search over 2.6 million Canadian patent documents from 1869 to the present, with full-text and images, maintained by CIPO. | https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html |
 | Canadian Trademarks Database | Canada · Federal | Search tool | CIPO's searchable database of more than 1.4 million Canadian trademarks registered from 1865 to the present, updated weekly. | https://ised-isde.canada.ca/cipo/trademark-search/srch |
+| CFIA — Automated Import Reference System (AIRS) | Canada · Federal | Import tool | Question-and-answer tool that walks importers through the exact CFIA requirements, documents and HS codes for bringing food, plants and animals into Canada. | https://inspection.canada.ca/en/importing-food-plants-animals/airs |
 | Corporations Canada — Federal Corporation Search | Canada · Federal | Registry search | Confirm the existence and status of any federally incorporated business, not-for-profit, cooperative or board of trade by name, corporation number or business number. | https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html |
 | FedDev Ontario | Canada · Federal | Economic development | Federal economic development agency supporting business growth, innovation, and community economic development in southern Ontario | https://feddev-ontario.canada.ca/ |
 | Innovation Canada — Business Benefits Finder | Canada · Federal | Finder | Personalized search of federal, provincial, and regional business funding and support programs | https://ised-isde.canada.ca/ |
@@ -1381,6 +1384,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| New Brunswick — Property Assessment Online (PAOL) | New Brunswick · Provincial | Property | Search NB property assessments by address, PAN or PID, with four years of assessment history, recent sale prices and tax levy information on a provincial map. | https://paol-efel.snb.ca/ |
 | PVSC — Nova Scotia Assessment Search | Nova Scotia · Provincial | Property | Find any of Nova Scotia's 650,000+ property assessments by civic address, assessment account number, community or sale date. | https://www.pvsc.ca/find-assessment |
 | PEI Property Tax Calculator | PEI · Provincial | Calculator | Estimate annual property taxes for residential and commercial properties on Prince Edward Island | https://www.princeedwardisland.ca/en/service/property-tax |
 
@@ -1688,6 +1692,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NL Parks — Provincial Parks Directory | Newfoundland and Labrador · Provincial | Park finder | Search Newfoundland and Labrador provincial parks and outdoor destinations | https://www.gov.nl.ca/ecc/ |
 | PEI Parks | PEI · Provincial | Park finder | PEI provincial parks and beaches, camping and booking info | https://www.princeedwardisland.ca/en/topics/parks-and-environment |
 
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Nunavut Parks and Special Places | Nunavut · Provincial | Park finder | Government of Nunavut directory of the territory's 15 territorial parks and special places, from Sylvia Grinnell to Katannilik. | https://www.gov.nu.ca/en/department-environment/parks-and-special-places |
+
 ## 🌍 Environment, Climate & Monitoring
 
 ### Federal / National
@@ -1989,8 +1999,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Royal Canadian Mint — Coin Shop and History | Canada · Crown Corp | Cultural | Explore Canadian coinage, commemorative releases, and numismatic history | https://www.mint.ca/ |
 | Canada's Sports Hall of Fame | Canada · Agency | Museum | Canadian athlete biographies, sport history, and educational content | https://sportshall.ca/ |
 | Canadiana.ca — Heritage Digital Collection | Canada · Agency | Archive | Digitized historical Canadian publications, directories, and government documents | https://www.canadiana.ca/ |
+| Dictionary of Canadian Biography | Canada · Agency | Reference database | 9,000+ expert-written, fact-checked biographies spanning the years 1000 to 2000, free and bilingual, from the University of Toronto and Université Laval with federal support. | http://www.biographi.ca/en/ |
 | Hockey Hall of Fame | Canada · Agency | Museum | Inductee biographies, hockey history, and digital exhibits from the Hockey Hall of Fame | https://www.hhof.com/ |
 | National Centre for Truth and Reconciliation — Archives | Canada · Agency | Archive | Residential school records, survivor statements, and research for reconciliation | https://nctr.ca/records/ |
+| The Canadian Encyclopedia | Canada · Agency | Reference database | 26,000+ authored and fact-checked articles on Canada — the country's national encyclopedia, free and bilingual from Historica Canada. | https://www.thecanadianencyclopedia.ca/en |
 
 ### British Columbia
 
@@ -2037,6 +2049,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Archives — Genealogy Search | British Columbia · Provincial | Genealogy database | Royal BC Museum's searchable indexes of BC births (1854-1904), marriages (1871-1950) and deaths (1872-2005), with digitized registration images attached. | https://search-collections.royalbcmuseum.bc.ca/Genealogy |
 | Vancouver Heritage Sites | Vancouver · Municipal | Heritage register | Open data listing of Vancouver Heritage Register buildings, streetscapes, and landscape resources with evaluation categories. | https://opendata.vancouver.ca/explore/dataset/heritage-sites/ |
 
 ### Alberta
@@ -2067,6 +2080,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Répertoire du patrimoine culturel du Québec | Quebec · Provincial | Heritage register | Official register of Quebec's cultural heritage: classified and recognized buildings, archaeological sites, heritage districts, and intangible heritage, with legal status maps per municipality. | https://www.patrimoine-culturel.gouv.qc.ca/rpcq/ |
 | Montreal Protected Heritage Sites | Montreal · Municipal | Heritage dataset | Geographic and descriptive data on buildings and sites under Quebec Cultural Heritage Act on Montreal territory — polygon boundaries with RPCQ links. | https://donnees.montreal.ca/dataset/sites-immeubles-proteges-lpc |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Nova Scotia Archives — Vital Statistics Search | Nova Scotia · Provincial | Genealogy database | Free search of historical Nova Scotia births (1864-1876, 1909+), marriages (from 1763 bonds) and deaths, every name linked to the digitized original record. | https://archives.novascotia.ca/vital-statistics/ |
 
 ## 📋 Lobbyists, Ethics & Disclosure
 
@@ -2241,6 +2260,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| ATRIS — Aboriginal and Treaty Rights Information System | Canada · Federal | Interactive map | CIRNAC's map-based system locating Indigenous communities and their potential or established Aboriginal and treaty rights, treaties, claims and court decisions — searchable by place, postal code or drawn area. | https://sidait-atris.rcaanc-cirnac.gc.ca/SIDAIT-GEO-ATRIS/index-eng.html |
 | Crown-Indigenous Relations — Specific Claims | Canada · Federal | Database | Search specific claim status, agreements, and modern treaty progress | https://www.rcaanc-cirnac.gc.ca/eng/1100100030291/1539609517566 |
 | First Nation Profiles Interactive Map | Canada · Federal | Interactive map | Indigenous Services Canada's map of First Nations communities across Canada, linked to profiles of governance, reserves, registered population and census statistics. | https://geo.sac-isc.gc.ca/cippn-fnpim/index-eng.html |
 | Indigenous Services Canada — Indian Register | Canada · Federal | Registry | Apply for Indian status and Secure Certificate of Indian Status (SCIS) | https://www.sac-isc.gc.ca/eng/1100100032424/1572457769548 |

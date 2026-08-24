@@ -17327,5 +17327,153 @@
       "history",
       "database"
     ]
+  },
+  {
+    "name": "EODMS — Earth Observation Data Management System",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Imagery search",
+    "description": "Search and order from NRCan's archive of satellite imagery and the National Air Photo Library — over 3 million historical aerial photos of Canada dating to the 1920s, with footprints on a map.",
+    "url": "https://eodms-sgdot.nrcan-rncan.gc.ca/index-en.html",
+    "tags": [
+      "aerial photos",
+      "satellite imagery",
+      "historical",
+      "nrcan"
+    ]
+  },
+  {
+    "name": "ATRIS — Aboriginal and Treaty Rights Information System",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Interactive map",
+    "description": "CIRNAC's map-based system locating Indigenous communities and their potential or established Aboriginal and treaty rights, treaties, claims and court decisions — searchable by place, postal code or drawn area.",
+    "url": "https://sidait-atris.rcaanc-cirnac.gc.ca/SIDAIT-GEO-ATRIS/index-eng.html",
+    "tags": [
+      "treaties",
+      "consultation",
+      "indigenous rights",
+      "map"
+    ]
+  },
+  {
+    "name": "Nova Scotia Archives — Vital Statistics Search",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "heritage",
+    "type": "Genealogy database",
+    "description": "Free search of historical Nova Scotia births (1864-1876, 1909+), marriages (from 1763 bonds) and deaths, every name linked to the digitized original record.",
+    "url": "https://archives.novascotia.ca/vital-statistics/",
+    "tags": [
+      "genealogy",
+      "vital statistics",
+      "archives",
+      "nova scotia"
+    ]
+  },
+  {
+    "name": "BC Archives — Genealogy Search",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "heritage",
+    "type": "Genealogy database",
+    "description": "Royal BC Museum's searchable indexes of BC births (1854-1904), marriages (1871-1950) and deaths (1872-2005), with digitized registration images attached.",
+    "url": "https://search-collections.royalbcmuseum.bc.ca/Genealogy",
+    "tags": [
+      "genealogy",
+      "vital statistics",
+      "archives",
+      "bc"
+    ]
+  },
+  {
+    "name": "Dictionary of Canadian Biography",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Reference database",
+    "description": "9,000+ expert-written, fact-checked biographies spanning the years 1000 to 2000, free and bilingual, from the University of Toronto and Université Laval with federal support.",
+    "url": "http://www.biographi.ca/en/",
+    "tags": [
+      "biography",
+      "history",
+      "reference",
+      "bilingual"
+    ]
+  },
+  {
+    "name": "The Canadian Encyclopedia",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Reference database",
+    "description": "26,000+ authored and fact-checked articles on Canada — the country's national encyclopedia, free and bilingual from Historica Canada.",
+    "url": "https://www.thecanadianencyclopedia.ca/en",
+    "tags": [
+      "encyclopedia",
+      "history",
+      "reference",
+      "education"
+    ]
+  },
+  {
+    "name": "New Brunswick — Property Assessment Online (PAOL)",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "housing",
+    "type": "Property",
+    "description": "Search NB property assessments by address, PAN or PID, with four years of assessment history, recent sale prices and tax levy information on a provincial map.",
+    "url": "https://paol-efel.snb.ca/",
+    "tags": [
+      "property assessment",
+      "new brunswick",
+      "search"
+    ]
+  },
+  {
+    "name": "Nunavut Parks and Special Places",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "parks",
+    "type": "Park finder",
+    "description": "Government of Nunavut directory of the territory's 15 territorial parks and special places, from Sylvia Grinnell to Katannilik.",
+    "url": "https://www.gov.nu.ca/en/department-environment/parks-and-special-places",
+    "tags": [
+      "territorial parks",
+      "nunavut",
+      "outdoors"
+    ]
+  },
+  {
+    "name": "Newfoundland and Labrador — Provincial Land Use Atlas",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Interactive map of Crown land titles and applications, municipal plans, protected road zoning and land use restrictions across the province, with topographic base maps and aerial photography.",
+    "url": "https://geohub-gnl.hub.arcgis.com/app/provincial-land-use-atlas-lua",
+    "tags": [
+      "land use",
+      "crown land",
+      "zoning",
+      "map"
+    ]
+  },
+  {
+    "name": "CFIA — Automated Import Reference System (AIRS)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Import tool",
+    "description": "Question-and-answer tool that walks importers through the exact CFIA requirements, documents and HS codes for bringing food, plants and animals into Canada.",
+    "url": "https://inspection.canada.ca/en/importing-food-plants-animals/airs",
+    "tags": [
+      "imports",
+      "food",
+      "cfia",
+      "requirements"
+    ]
   }
 ]
