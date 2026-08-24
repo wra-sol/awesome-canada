@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://awesome-canada.pages.dev/sitemap.xml
+Sitemap: https://awesome-canada.ca/sitemap.xml

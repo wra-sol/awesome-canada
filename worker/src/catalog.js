@@ -65,7 +65,7 @@ export function generateReadme(data) {
   lines.push('> A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.');
   lines.push('');
   lines.push('[![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)');
-  lines.push('[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.pages.dev&label=live)](https://awesome-canada.pages.dev/)');
+  lines.push('[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)');
   lines.push('[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)');
   lines.push('[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)');
   lines.push('');

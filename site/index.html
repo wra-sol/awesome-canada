@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Awesome Canada — Canadian Government Tools, Maps &amp; Open Data</title>
   <meta name="description" content="A curated, link-checked directory of 1,100+ official Canadian government resources: open data portals, interactive maps, calculators, registries and civic tools from federal, provincial, territorial and municipal governments.">
-  <link rel="canonical" href="https://awesome-canada.pages.dev/">
+  <link rel="canonical" href="https://awesome-canada.ca/">
   <meta name="theme-color" content="#FAFAF8" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
 
@@ -13,14 +13,14 @@
   <meta property="og:site_name" content="Awesome Canada">
   <meta property="og:title" content="Awesome Canada — Canadian Government Tools, Maps & Open Data">
   <meta property="og:description" content="A curated, link-checked directory of 1,100+ official Canadian government resources: open data, maps, calculators, registries and civic tools across every level of government.">
-  <meta property="og:url" content="https://awesome-canada.pages.dev/">
-  <meta property="og:image" content="https://awesome-canada.pages.dev/og-image.png">
+  <meta property="og:url" content="https://awesome-canada.ca/">
+  <meta property="og:image" content="https://awesome-canada.ca/og-image.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Awesome Canada — Canadian Government Tools, Maps & Open Data">
   <meta name="twitter:description" content="A curated, link-checked directory of 1,100+ official Canadian government resources across every level of government.">
-  <meta name="twitter:image" content="https://awesome-canada.pages.dev/og-image.png">
+  <meta name="twitter:image" content="https://awesome-canada.ca/og-image.png">
 
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -32,13 +32,13 @@
       {
         "@type": "WebSite",
         "name": "Awesome Canada",
-        "url": "https://awesome-canada.pages.dev/",
+        "url": "https://awesome-canada.ca/",
         "description": "A curated, link-checked directory of official Canadian government tools, maps, calculators and open data.",
         "potentialAction": {
           "@type": "SearchAction",
           "target": {
             "@type": "EntryPoint",
-            "urlTemplate": "https://awesome-canada.pages.dev/?q={search_term_string}"
+            "urlTemplate": "https://awesome-canada.ca/?q={search_term_string}"
           },
           "query-input": "required name=search_term_string"
         }
@@ -47,13 +47,13 @@
         "@type": "Dataset",
         "name": "Awesome Canada resource catalogue",
         "description": "Structured catalogue of official Canadian government digital resources: open data portals, interactive maps, calculators, registries and civic tools, with jurisdiction, government level, category and tags for each entry.",
-        "url": "https://awesome-canada.pages.dev/",
+        "url": "https://awesome-canada.ca/",
         "license": "https://github.com/wra-sol/awesome-canada/blob/master/LICENSE",
         "creator": { "@type": "Organization", "name": "Awesome Canada", "url": "https://github.com/wra-sol/awesome-canada" },
         "distribution": {
           "@type": "DataDownload",
           "encodingFormat": "application/json",
-          "contentUrl": "https://awesome-canada.pages.dev/data/resources.json"
+          "contentUrl": "https://awesome-canada.ca/data/resources.json"
         }
       }
     ]
@@ -71,13 +71,19 @@
       <div class="header-top">
         <a href="./" class="brand" aria-label="Awesome Canada home">
           <svg class="brand-mark" viewBox="0 0 100 100" aria-hidden="true" focusable="false">
-            <path fill="currentColor" d="M50 4 57 18 66 13 63 26 76 22 72 34 88 32 83 44 94 50 72 62 77 74 58 68 56 84 52 82 52 96 48 96 48 82 44 84 42 68 23 74 28 62 6 50 17 44 12 32 28 34 24 22 37 26 34 13 43 18 Z"/>
+            <path fill="currentColor" d="M50 4 55 15 65 9 61.5 23 77 14 72.5 30 90 33 73 45 85 62 61 55 63 73 55 65 54 82 53 96 47 96 46 82 45 65 37 73 39 55 15 62 27 45 10 33 27.5 30 23 14 38.5 23 35 9 45 15 Z"/>
           </svg>
           <span class="brand-text">
             <span class="site-title">Awesome Canada</span>
             <span class="site-subtitle">Official Canadian tools, maps &amp; open data — curated and link-checked</span>
           </span>
         </a>
+        <nav class="site-nav" aria-label="Main">
+          <a href="./" aria-current="page">Directory</a>
+          <a href="browse/">Browse</a>
+          <a href="submit.html">Submit a link</a>
+          <a href="report.html">Report a broken link</a>
+        </nav>
       </div>
       <div class="search-bar">
         <svg class="search-icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false">
@@ -174,7 +180,7 @@
 
       <div class="empty-state" id="empty-state" style="display:none;">
         <svg class="empty-icon" viewBox="0 0 100 100" aria-hidden="true" focusable="false">
-          <path fill="currentColor" d="M50 4 57 18 66 13 63 26 76 22 72 34 88 32 83 44 94 50 72 62 77 74 58 68 56 84 52 82 52 96 48 96 48 82 44 84 42 68 23 74 28 62 6 50 17 44 12 32 28 34 24 22 37 26 34 13 43 18 Z"/>
+          <path fill="currentColor" d="M50 4 55 15 65 9 61.5 23 77 14 72.5 30 90 33 73 45 85 62 61 55 63 73 55 65 54 82 53 96 47 96 46 82 45 65 37 73 39 55 15 62 27 45 10 33 27.5 30 23 14 38.5 23 35 9 45 15 Z"/>
         </svg>
         <h2>Nothing matches</h2>
         <p>Try a different search, or clear the filters below.</p>
@@ -195,11 +201,12 @@
     <div class="container">
       <p class="footer-tagline">Every entry links to an official government or public-interest source, and links are checked daily.</p>
       <nav class="footer-links" aria-label="Footer">
+        <a href="./">Search the directory</a>
         <a href="browse/">Browse by category</a>
-        <a href="https://github.com/wra-sol/awesome-canada">GitHub</a>
-        <a href="data/resources.json">Data (JSON)</a>
         <a href="submit.html">Submit a link</a>
         <a href="report.html">Report a broken link</a>
+        <a href="https://github.com/wra-sol/awesome-canada">GitHub</a>
+        <a href="data/resources.json">Data (JSON)</a>
       </nav>
     </div>
   </footer>
