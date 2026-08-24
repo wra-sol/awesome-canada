@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1190 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1194 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -41,18 +41,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🩺 Health & Wellness](#health-and-wellness) — 19
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 24
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 25
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 26
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 30
 - [🚌 Transit & Mobility](#transit-and-mobility) — 58
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 16
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 56
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 30
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 32
 - [🌦️ Weather & Climate](#weather-and-climate) — 12
 - [⚡ Energy & Utilities](#energy-and-utilities) — 29
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 19
 - [🔬 Science, Research & Space](#science-research-and-space) — 20
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 41
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 21
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 22
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 16
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 19
@@ -1362,6 +1362,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta Property Rights — Land Titles | Alberta · Provincial | Land registry | Alberta land titles search — property ownership records, title documents, and land ownership history | https://alta.registries.gov.ab.ca/ |
 | Alberta Residential Tenancy Dispute Resolution Service | Alberta · Provincial | Tribunal | Alberta alternative to court for tenancy disputes — applications, forms, and rules | https://www.alberta.ca/residential-tenancy-dispute-resolution-service |
 
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| SAMAView — Saskatchewan Assessments Online | Saskatchewan · Provincial | Property | Free search, view and comparison of individual property assessments across all SAMA client municipalities in Saskatchewan. | https://www.sama.sk.ca/property-owner-services/assessments-online-samaview |
+
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -1760,8 +1766,15 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Toronto and Region Conservation Authority — Living Room | Toronto Region · Agency | Conservation authority | Rouge National Urban Park, conservation areas, maps, and environmental programs for the Toronto region | https://trca.ca/ |
 | Ontario — Environmental Registry (ERO) | Ontario · Provincial | Decision registry | Official public notice and comment registry for Ontario environmentally significant proposals: policies, permits (incl. water takings), and regulations open for comment, with ministry decisions posted. | https://ero.ontario.ca/ |
 | Ontario — Forest Fires Information | Ontario · Provincial | Wildfire map | Active Ontario forest fires, fire bans, and fire-weather conditions | https://www.ontario.ca/page/forest-fires |
+| Ontario — Well Records Search | Ontario · Provincial | Search database | Interactive map of every reported water well in Ontario from the Water Well Information System — click a well for its record, plus a companion map of active water-taking permits. | https://www.ontario.ca/page/well-records |
 | Ontario Provincial Stream Water Quality Monitoring Network (PWQMN) | Ontario · Provincial | Water quality dataset | Stream water quality monitoring data across Ontario rivers and streams. Parameters include nutrients (total and dissolved), metals, and chloride. CSV downloads available by year (2023, 2024). Spatial coordinates for all monitoring stations included. | https://data.ontario.ca/dataset/provincial-stream-water-quality-monitoring-network |
 | North Bay Drinking Water Quality Reports | North Bay · Municipal | Water quality reports | Annual and summary drinking water quality test results for City of North Bay municipal water system — PDF reports by year. | https://northbay.ca/services-payments/water-wastewater/drinking-water/ |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Québec — Flood Zone Maps (Zones Inondables) | Quebec · Provincial | Flood maps | Official interactive cartography of flood zones and watercourse mobility zones in force across Quebec, with new-generation maps rolling out from 2026. | https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur |
 
 ## 🌦️ Weather & Climate
 
@@ -2050,6 +2063,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Artefacts Canada | Canada · Federal | Collections database | Search 4 million object records and 1 million images contributed by museums across Canada, maintained by the Canadian Heritage Information Network. | https://app.pch.gc.ca/application/artefacts_hum/indice_index.app?lang=en |
 | Canadian Register of Historic Places | Canada · Federal | Heritage register | Pan-Canadian register (federal-provincial partnership) documenting 12,000+ recognized historic places: federal heritage designations, provincial registers, and municipal landmarks with statements of significance. | https://www.historicplaces.ca/en/pages/1_home.aspx |
 | Library and Archives Canada — Census Records | Canada · Federal | Genealogy database | Free searchable Canadian census records from 1825 to 1931, searchable by name, province and district — the backbone of Canadian genealogy research. | https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/censuses/Pages/censuses.aspx |
 | Library and Archives Canada — Collection Search | Canada · Federal | Archive search | Single search across 26+ LAC databases: archival documents, genealogy sources, military service records, published books, maps, images and sound recordings. | https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search |

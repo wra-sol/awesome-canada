@@ -17624,5 +17624,64 @@
       "federal",
       "careers"
     ]
+  },
+  {
+    "name": "Ontario — Well Records Search",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Search database",
+    "description": "Interactive map of every reported water well in Ontario from the Water Well Information System — click a well for its record, plus a companion map of active water-taking permits.",
+    "url": "https://www.ontario.ca/page/well-records",
+    "tags": [
+      "groundwater",
+      "wells",
+      "water",
+      "ontario"
+    ]
+  },
+  {
+    "name": "SAMAView — Saskatchewan Assessments Online",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "housing",
+    "type": "Property",
+    "description": "Free search, view and comparison of individual property assessments across all SAMA client municipalities in Saskatchewan.",
+    "url": "https://www.sama.sk.ca/property-owner-services/assessments-online-samaview",
+    "tags": [
+      "property assessment",
+      "saskatchewan",
+      "search"
+    ]
+  },
+  {
+    "name": "Québec — Flood Zone Maps (Zones Inondables)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "environment",
+    "type": "Flood maps",
+    "description": "Official interactive cartography of flood zones and watercourse mobility zones in force across Quebec, with new-generation maps rolling out from 2026.",
+    "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur",
+    "tags": [
+      "flood zones",
+      "water",
+      "maps",
+      "quebec"
+    ]
+  },
+  {
+    "name": "Artefacts Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Collections database",
+    "description": "Search 4 million object records and 1 million images contributed by museums across Canada, maintained by the Canadian Heritage Information Network.",
+    "url": "https://app.pch.gc.ca/application/artefacts_hum/indice_index.app?lang=en",
+    "tags": [
+      "museums",
+      "artifacts",
+      "collections",
+      "heritage"
+    ]
   }
 ]
