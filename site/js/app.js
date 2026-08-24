@@ -622,15 +622,27 @@
       return;
     }
     const tItem = e.target.closest('.trending-item');
-    if (tItem) filterToResource(tItem.dataset.url);
+    if (tItem) {
+      if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button !== 0) return;
+      e.preventDefault();
+      filterToResource(tItem.dataset.url);
+    }
   }
 
   gridEl.addEventListener('click', onResultsClick);
   tableEl.addEventListener('click', onResultsClick);
+  trendingItemsEl.addEventListener('click', onResultsClick);
 
   function filterToResource(url) {
     const r = allResources.find(x => x.url === url);
     if (!r) return;
+    activeFilters.kind.clear();
+    activeFilters.level.clear();
+    activeFilters.category.clear();
+    activeFilters.region.clear();
+    document.querySelectorAll('.filter-checkboxes input[type="checkbox"]').forEach(cb => {
+      cb.checked = false;
+    });
     activeFilters.search = r.name.toLowerCase();
     searchInput.value = r.name;
     searchClear.classList.add('visible');
@@ -682,12 +694,14 @@
     trendingItemsEl.innerHTML = items.map((it, i) => {
       const r = allResources.find(x => x.url === it.url);
       if (!r) return '';
-      return `<button type="button" class="trending-item" data-url="${escapeHtml(it.url)}"` +
+      return `<a class="trending-item" href="?q=${encodeURIComponent(r.name)}" data-url="${escapeHtml(it.url)}"` +
         ` title="Show ${escapeHtml(r.name)} in the directory">` +
         `<span class="trending-rank">${i + 1}</span>` +
+        `<span class="trending-main">` +
         `<span class="trending-name">${highlight(escapeHtml(r.name), '')}</span>` +
-        `<span class="trending-jurisdiction">${escapeHtml(r.jurisdiction)}</span>` +
-        `<span class="trending-count">${HEART_SVG}${fmtCount(it.count)}</span></button>`;
+        `<span class="trending-meta">${escapeHtml(r.jurisdiction)}</span>` +
+        `</span>` +
+        `<span class="trending-count" title="${fmtCount(it.count)} likes">${HEART_SVG}${fmtCount(it.count)}</span></a>`;
     }).join('');
   }
 
