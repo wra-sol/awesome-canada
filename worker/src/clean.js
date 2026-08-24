@@ -71,6 +71,10 @@ async function checkUrl(url, timeoutMs = 8000) {
 }
 
 export async function runClean(env, { limit = null, dryRun = false } = {}) {
+  if (limit && !dryRun) {
+    // A limited run would replace the full state file with a partial one.
+    throw new Error('limit requires dry-run mode (state would be clobbered)');
+  }
   const threshold = parseInt(env.CLEAN_THRESHOLD || '2', 10);
   const today = new Date().toISOString().slice(0, 10);
 
@@ -179,7 +183,8 @@ export async function runClean(env, { limit = null, dryRun = false } = {}) {
         `- checked ${summary.checked} URLs, ${summary.unhealthy} unhealthy\n` +
         `- removed ${summary.removed} dead entr${summary.removed === 1 ? 'y' : 'ies'}\n` +
         `- merged ${summary.merged_staged} staged resource${summary.merged_staged === 1 ? '' : 's'}\n` +
-        `- catalog now ${finalData.length} entries`
+        `- catalog now ${finalData.length} entries`,
+      files
     );
     console.log(`[clean] committed ${sha}`);
   } else {

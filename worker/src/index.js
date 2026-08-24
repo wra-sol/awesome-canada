@@ -32,8 +32,13 @@ async function handleRun(request, env, kind) {
     dryRun: url.searchParams.get('dry-run') === '1',
   };
   console.log(`[http] manual ${kind} limit=${opts.limit || opts.maxCities || 'all'} dryRun=${opts.dryRun}`);
-  if (kind === 'clean') return json(await runClean(env, opts));
-  return json(await runResearch(env, opts));
+  try {
+    if (kind === 'clean') return json(await runClean(env, opts));
+    return json(await runResearch(env, opts));
+  } catch (e) {
+    console.error(`[http] ${kind} FAILED: ${e.message}\n${e.stack}`);
+    return json({ error: e.message, stack: (e.stack || '').split('\n').slice(0, 5) }, 500);
+  }
 }
 
 export default {

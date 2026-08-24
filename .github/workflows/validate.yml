@@ -49,4 +49,9 @@ jobs:
           "
 
       - name: Worker syntax check
-        run: node --check worker/src/maintenance.js && node --check worker/src/research.js
+        run: |
+          node --input-type=module --check < worker/src/index.js
+          node --input-type=module --check < worker/src/clean.js
+          node --input-type=module --check < worker/src/research.js
+          node --input-type=module --check < worker/src/catalog.js
+          node --input-type=module --check < worker/src/github.js

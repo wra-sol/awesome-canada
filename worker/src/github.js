@@ -45,9 +45,16 @@ function encodePath(p) {
 }
 
 async function blob(env, content) {
+  // UTF-8-safe base64 without legacy globals (unescape doesn't exist in workerd).
+  const bytes = new TextEncoder().encode(content);
+  let binary = '';
+  const CHUNK = 0x8000;
+  for (let i = 0; i < bytes.length; i += CHUNK) {
+    binary += String.fromCharCode(...bytes.subarray(i, i + CHUNK));
+  }
   const res = await gh(env)(`/repos/${env.GH_REPO}/git/blobs`, {
     method: 'POST',
-    body: JSON.stringify({ content: btoa(unescape(encodeURIComponent(content))), encoding: 'base64' }),
+    body: JSON.stringify({ content: btoa(binary), encoding: 'base64' }),
   });
   return (await res.json()).sha;
 }
