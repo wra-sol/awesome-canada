@@ -51,4 +51,11 @@ User-agent: Amazonbot
 Allow: /
 Disallow: /api/
 
+# xAI / Grok
+User-agent: xAI-SearchBot
+User-agent: GrokBot
+User-agent: xAI-Bot
+Allow: /
+Disallow: /api/
+
 Sitemap: https://awesome-canada.ca/sitemap.xml
