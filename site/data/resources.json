@@ -20863,24 +20863,6 @@
     "kind": "tool"
   },
   {
-    "name": "DRDC — Defence Research Reports",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "science",
-    "type": "Research database",
-    "description": "Search 16,000+ unclassified Defence Research and Development Canada reports and download full-text PDFs of Canadian defence science and technology research.",
-    "url": "https://pubs.drdc-rddc.gc.ca/pubdocs/pcow1_e.html",
-    "tags": [
-      "defence",
-      "research",
-      "science",
-      "publications",
-      "drdc"
-    ],
-    "dateAdded": "2034-01-20",
-    "kind": "data"
-  },
-  {
     "name": "Library and Archives Canada — Theses Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -20895,7 +20877,7 @@
       "universities",
       "lac"
     ],
-    "dateAdded": "2034-01-23",
+    "dateAdded": "2034-01-20",
     "kind": "documents"
   },
   {
@@ -20910,7 +20892,7 @@
       "aerospace",
       "research"
     ],
-    "dateAdded": "2034-01-26",
+    "dateAdded": "2034-01-23",
     "kind": "website"
   },
   {
@@ -20928,7 +20910,7 @@
       "chemistry",
       "nrc"
     ],
-    "dateAdded": "2034-01-29",
+    "dateAdded": "2034-01-26",
     "kind": "website"
   },
   {
@@ -20945,7 +20927,7 @@
       "astronomy",
       "nrc"
     ],
-    "dateAdded": "2034-02-01",
+    "dateAdded": "2034-01-29",
     "kind": "tool"
   },
   {
@@ -20961,7 +20943,7 @@
       "atomic clock",
       "nrc"
     ],
-    "dateAdded": "2034-02-04",
+    "dateAdded": "2034-02-01",
     "kind": "tool"
   },
   {
@@ -20978,7 +20960,7 @@
       "research",
       "open access"
     ],
-    "dateAdded": "2034-02-07",
+    "dateAdded": "2034-02-04",
     "kind": "documents"
   },
   {
@@ -20996,7 +20978,7 @@
       "geology",
       "mineral-exploration"
     ],
-    "dateAdded": "2034-02-10",
+    "dateAdded": "2034-02-07",
     "kind": "data"
   },
   {
@@ -21013,7 +20995,7 @@
       "nserc",
       "science"
     ],
-    "dateAdded": "2034-02-13",
+    "dateAdded": "2034-02-10",
     "kind": "tool"
   },
   {
@@ -21032,7 +21014,7 @@
       "engineering",
       "federal"
     ],
-    "dateAdded": "2034-02-16",
+    "dateAdded": "2034-02-13",
     "kind": "website"
   },
   {
@@ -21047,7 +21029,7 @@
       "arctic",
       "science"
     ],
-    "dateAdded": "2034-02-19",
+    "dateAdded": "2034-02-16",
     "kind": "website"
   },
   {
@@ -21064,7 +21046,7 @@
       "humanities",
       "grants"
     ],
-    "dateAdded": "2034-02-22",
+    "dateAdded": "2034-02-19",
     "kind": "tool"
   },
   {
@@ -21079,7 +21061,7 @@
       "research",
       "science"
     ],
-    "dateAdded": "2034-02-25",
+    "dateAdded": "2034-02-22",
     "kind": "website"
   },
   {
@@ -21096,7 +21078,7 @@
       "datasets",
       "universities"
     ],
-    "dateAdded": "2034-02-28",
+    "dateAdded": "2034-02-25",
     "kind": "data"
   },
   {
@@ -21113,7 +21095,7 @@
       "facilities",
       "collaboration"
     ],
-    "dateAdded": "2034-03-03",
+    "dateAdded": "2034-02-28",
     "kind": "tool"
   },
   {
@@ -21130,7 +21112,7 @@
       "datasets",
       "open science"
     ],
-    "dateAdded": "2034-03-06",
+    "dateAdded": "2034-03-03",
     "kind": "data"
   },
   {
@@ -21145,7 +21127,7 @@
       "genomics",
       "research"
     ],
-    "dateAdded": "2034-03-09",
+    "dateAdded": "2034-03-06",
     "kind": "website"
   },
   {
@@ -21162,7 +21144,7 @@
       "datasets",
       "search"
     ],
-    "dateAdded": "2034-03-12",
+    "dateAdded": "2034-03-09",
     "kind": "data"
   },
   {
@@ -21177,7 +21159,7 @@
       "ocean",
       "data"
     ],
-    "dateAdded": "2034-03-15",
+    "dateAdded": "2034-03-12",
     "kind": "website"
   },
   {
@@ -21192,7 +21174,7 @@
       "physics",
       "education"
     ],
-    "dateAdded": "2034-03-18",
+    "dateAdded": "2034-03-15",
     "kind": "website"
   },
   {
@@ -21207,7 +21189,7 @@
       "physics",
       "research"
     ],
-    "dateAdded": "2034-03-21",
+    "dateAdded": "2034-03-18",
     "kind": "website"
   },
   {
@@ -21222,7 +21204,7 @@
       "physics",
       "research"
     ],
-    "dateAdded": "2034-03-24",
+    "dateAdded": "2034-03-21",
     "kind": "website"
   },
   {
@@ -21239,7 +21221,7 @@
       "geology",
       "groundwater"
     ],
-    "dateAdded": "2034-03-27",
+    "dateAdded": "2034-03-24",
     "kind": "data"
   },
   {
@@ -21257,7 +21239,7 @@
       "minfile",
       "mining"
     ],
-    "dateAdded": "2034-03-30",
+    "dateAdded": "2034-03-27",
     "kind": "data"
   },
   {
@@ -21275,7 +21257,7 @@
       "ontario",
       "research"
     ],
-    "dateAdded": "2034-04-02",
+    "dateAdded": "2034-03-30",
     "kind": "data"
   },
   {
@@ -21292,7 +21274,7 @@
       "mining",
       "quebec"
     ],
-    "dateAdded": "2034-04-05",
+    "dateAdded": "2034-04-02",
     "kind": "data"
   },
   {
@@ -21307,7 +21289,7 @@
       "business",
       "tax"
     ],
-    "dateAdded": "2034-04-08",
+    "dateAdded": "2034-04-05",
     "kind": "website"
   },
   {
@@ -21324,7 +21306,7 @@
       "border",
       "travel"
     ],
-    "dateAdded": "2034-04-11",
+    "dateAdded": "2034-04-08",
     "kind": "tool"
   },
   {
@@ -21340,7 +21322,7 @@
       "NOA",
       "CRA"
     ],
-    "dateAdded": "2034-04-14",
+    "dateAdded": "2034-04-11",
     "kind": "website"
   },
   {
@@ -21356,7 +21338,7 @@
       "tax",
       "rates"
     ],
-    "dateAdded": "2034-04-17",
+    "dateAdded": "2034-04-14",
     "kind": "website"
   },
   {
@@ -21372,7 +21354,7 @@
       "HST",
       "tax"
     ],
-    "dateAdded": "2034-04-20",
+    "dateAdded": "2034-04-17",
     "kind": "tool"
   },
   {
@@ -21387,7 +21369,7 @@
       "charities",
       "tax"
     ],
-    "dateAdded": "2034-04-23",
+    "dateAdded": "2034-04-20",
     "kind": "tool"
   },
   {
@@ -21403,7 +21385,7 @@
       "tax",
       "account"
     ],
-    "dateAdded": "2034-04-26",
+    "dateAdded": "2034-04-23",
     "kind": "website"
   },
   {
@@ -21419,7 +21401,7 @@
       "filing",
       "tax"
     ],
-    "dateAdded": "2034-04-29",
+    "dateAdded": "2034-04-26",
     "kind": "tool"
   },
   {
@@ -21435,7 +21417,7 @@
       "payroll",
       "calculator"
     ],
-    "dateAdded": "2034-05-02",
+    "dateAdded": "2034-04-29",
     "kind": "tool"
   },
   {
@@ -21453,7 +21435,7 @@
       "csv",
       "xlsx"
     ],
-    "dateAdded": "2034-05-05",
+    "dateAdded": "2034-05-02",
     "kind": "data"
   },
   {
@@ -21468,7 +21450,7 @@
       "CRA",
       "ombudsman"
     ],
-    "dateAdded": "2034-05-08",
+    "dateAdded": "2034-05-05",
     "kind": "website"
   },
   {
@@ -21484,7 +21466,7 @@
       "property",
       "calculator"
     ],
-    "dateAdded": "2034-05-11",
+    "dateAdded": "2034-05-08",
     "kind": "tool"
   },
   {
@@ -21499,7 +21481,7 @@
       "Quebec",
       "tax"
     ],
-    "dateAdded": "2034-05-14",
+    "dateAdded": "2034-05-11",
     "kind": "website"
   },
   {
@@ -21516,7 +21498,7 @@
       "search",
       "calgary"
     ],
-    "dateAdded": "2034-05-17",
+    "dateAdded": "2034-05-14",
     "kind": "tool"
   },
   {
@@ -21532,7 +21514,7 @@
       "calgary",
       "calculator"
     ],
-    "dateAdded": "2034-05-20",
+    "dateAdded": "2034-05-17",
     "kind": "tool"
   },
   {
@@ -21549,7 +21531,7 @@
       "portal",
       "edmonton"
     ],
-    "dateAdded": "2034-05-23",
+    "dateAdded": "2034-05-20",
     "kind": "website"
   },
   {
@@ -21565,7 +21547,7 @@
       "property",
       "calculator"
     ],
-    "dateAdded": "2034-05-26",
+    "dateAdded": "2034-05-23",
     "kind": "tool"
   },
   {
@@ -21581,7 +21563,7 @@
       "toronto",
       "calculator"
     ],
-    "dateAdded": "2034-05-29",
+    "dateAdded": "2034-05-26",
     "kind": "tool"
   },
   {
@@ -21598,7 +21580,7 @@
       "billing",
       "toronto"
     ],
-    "dateAdded": "2034-06-01",
+    "dateAdded": "2034-05-29",
     "kind": "tool"
   },
   {
@@ -21614,7 +21596,7 @@
       "property",
       "calculator"
     ],
-    "dateAdded": "2034-06-04",
+    "dateAdded": "2034-06-01",
     "kind": "tool"
   },
   {
@@ -21631,7 +21613,7 @@
       "search",
       "winnipeg"
     ],
-    "dateAdded": "2034-06-07",
+    "dateAdded": "2034-06-04",
     "kind": "tool"
   },
   {
@@ -21649,7 +21631,7 @@
       "developers",
       "accessibility"
     ],
-    "dateAdded": "2034-06-10",
+    "dateAdded": "2034-06-07",
     "kind": "website"
   },
   {
@@ -21666,7 +21648,7 @@
       "funding",
       "rural internet"
     ],
-    "dateAdded": "2034-06-13",
+    "dateAdded": "2034-06-10",
     "kind": "website"
   },
   {
@@ -21681,7 +21663,7 @@
       "digital",
       "government"
     ],
-    "dateAdded": "2034-06-16",
+    "dateAdded": "2034-06-13",
     "kind": "website"
   },
   {
@@ -21698,7 +21680,7 @@
       "cds",
       "digital government"
     ],
-    "dateAdded": "2034-06-19",
+    "dateAdded": "2034-06-16",
     "kind": "website"
   },
   {
@@ -21713,7 +21695,7 @@
       "CRTC",
       "complaints"
     ],
-    "dateAdded": "2034-06-22",
+    "dateAdded": "2034-06-19",
     "kind": "website"
   },
   {
@@ -21728,7 +21710,7 @@
       "CRTC",
       "data"
     ],
-    "dateAdded": "2034-06-25",
+    "dateAdded": "2034-06-22",
     "kind": "documents"
   },
   {
@@ -21743,7 +21725,7 @@
       "broadband",
       "map"
     ],
-    "dateAdded": "2034-06-28",
+    "dateAdded": "2034-06-25",
     "kind": "website"
   },
   {
@@ -21761,7 +21743,7 @@
       "carriers",
       "internet"
     ],
-    "dateAdded": "2034-07-01",
+    "dateAdded": "2034-06-28",
     "kind": "website"
   },
   {
@@ -21778,7 +21760,7 @@
       "code",
       "digital government"
     ],
-    "dateAdded": "2034-07-04",
+    "dateAdded": "2034-07-01",
     "kind": "website"
   },
   {
@@ -21796,7 +21778,7 @@
       "wireless",
       "devices"
     ],
-    "dateAdded": "2034-07-07",
+    "dateAdded": "2034-07-04",
     "kind": "tool"
   },
   {
@@ -21811,7 +21793,7 @@
       "spectrum",
       "licensing"
     ],
-    "dateAdded": "2034-07-10",
+    "dateAdded": "2034-07-07",
     "kind": "website"
   },
   {
@@ -21828,7 +21810,7 @@
       "spectrum",
       "telecom"
     ],
-    "dateAdded": "2034-07-13",
+    "dateAdded": "2034-07-10",
     "kind": "tool"
   },
   {
@@ -21845,7 +21827,7 @@
       "coverage",
       "map"
     ],
-    "dateAdded": "2034-07-16",
+    "dateAdded": "2034-07-13",
     "kind": "map"
   },
   {
@@ -21863,7 +21845,7 @@
       "regulation",
       "crtc"
     ],
-    "dateAdded": "2034-07-19",
+    "dateAdded": "2034-07-16",
     "kind": "website"
   },
   {
@@ -21881,7 +21863,7 @@
       "accessibility",
       "web"
     ],
-    "dateAdded": "2034-07-22",
+    "dateAdded": "2034-07-19",
     "kind": "website"
   },
   {
@@ -21899,7 +21881,7 @@
       "developers",
       "accessibility"
     ],
-    "dateAdded": "2034-07-25",
+    "dateAdded": "2034-07-22",
     "kind": "website"
   },
   {
@@ -21917,7 +21899,7 @@
       "accessibility",
       "web"
     ],
-    "dateAdded": "2034-07-28",
+    "dateAdded": "2034-07-25",
     "kind": "website"
   },
   {
@@ -21935,7 +21917,7 @@
       "accessibility",
       "quebec-ca"
     ],
-    "dateAdded": "2034-07-31",
+    "dateAdded": "2034-07-28",
     "kind": "website"
   },
   {
@@ -21953,7 +21935,7 @@
       "statcan",
       "national"
     ],
-    "dateAdded": "2034-08-03",
+    "dateAdded": "2034-07-31",
     "kind": "data"
   },
   {
@@ -21970,7 +21952,7 @@
       "transit",
       "bctransit"
     ],
-    "dateAdded": "2034-08-06",
+    "dateAdded": "2034-08-03",
     "kind": "data"
   },
   {
@@ -21985,7 +21967,7 @@
       "transit",
       "Brampton"
     ],
-    "dateAdded": "2034-08-09",
+    "dateAdded": "2034-08-06",
     "kind": "website"
   },
   {
@@ -22000,7 +21982,7 @@
       "transit",
       "BC"
     ],
-    "dateAdded": "2034-08-12",
+    "dateAdded": "2034-08-09",
     "kind": "tool"
   },
   {
@@ -22015,7 +21997,7 @@
       "transit",
       "Burlington"
     ],
-    "dateAdded": "2034-08-15",
+    "dateAdded": "2034-08-12",
     "kind": "website"
   },
   {
@@ -22030,7 +22012,7 @@
       "transit",
       "Edmonton"
     ],
-    "dateAdded": "2034-08-18",
+    "dateAdded": "2034-08-15",
     "kind": "website"
   },
   {
@@ -22045,7 +22027,7 @@
       "transit",
       "Guelph"
     ],
-    "dateAdded": "2034-08-21",
+    "dateAdded": "2034-08-18",
     "kind": "website"
   },
   {
@@ -22062,7 +22044,7 @@
       "transit",
       "open data"
     ],
-    "dateAdded": "2034-08-24",
+    "dateAdded": "2034-08-21",
     "kind": "data"
   },
   {
@@ -22077,7 +22059,7 @@
       "transit",
       "Hamilton"
     ],
-    "dateAdded": "2034-08-27",
+    "dateAdded": "2034-08-24",
     "kind": "website"
   },
   {
@@ -22092,7 +22074,7 @@
       "transit",
       "London"
     ],
-    "dateAdded": "2034-08-30",
+    "dateAdded": "2034-08-27",
     "kind": "website"
   },
   {
@@ -22110,7 +22092,7 @@
       "real-time",
       "transit"
     ],
-    "dateAdded": "2034-09-02",
+    "dateAdded": "2034-08-30",
     "kind": "data"
   },
   {
@@ -22125,7 +22107,7 @@
       "transit",
       "Vancouver"
     ],
-    "dateAdded": "2034-09-05",
+    "dateAdded": "2034-09-02",
     "kind": "tool"
   },
   {
@@ -22140,7 +22122,7 @@
       "Montreal",
       "rail"
     ],
-    "dateAdded": "2034-09-08",
+    "dateAdded": "2034-09-05",
     "kind": "tool"
   },
   {
@@ -22158,7 +22140,7 @@
       "commuter",
       "quebec"
     ],
-    "dateAdded": "2034-09-11",
+    "dateAdded": "2034-09-08",
     "kind": "data"
   },
   {
@@ -22173,7 +22155,7 @@
       "transit",
       "trip planner"
     ],
-    "dateAdded": "2034-09-14",
+    "dateAdded": "2034-09-11",
     "kind": "tool"
   },
   {
@@ -22188,7 +22170,7 @@
       "Durham",
       "transit"
     ],
-    "dateAdded": "2034-09-17",
+    "dateAdded": "2034-09-14",
     "kind": "website"
   },
   {
@@ -22205,7 +22187,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2034-09-20",
+    "dateAdded": "2034-09-17",
     "kind": "data"
   },
   {
@@ -22220,7 +22202,7 @@
       "transit",
       "GTA"
     ],
-    "dateAdded": "2034-09-23",
+    "dateAdded": "2034-09-20",
     "kind": "tool"
   },
   {
@@ -22235,7 +22217,7 @@
       "transit",
       "fare"
     ],
-    "dateAdded": "2034-09-26",
+    "dateAdded": "2034-09-23",
     "kind": "tool"
   },
   {
@@ -22250,7 +22232,7 @@
       "GTA",
       "transit"
     ],
-    "dateAdded": "2034-09-29",
+    "dateAdded": "2034-09-26",
     "kind": "website"
   },
   {
@@ -22265,7 +22247,7 @@
       "transit",
       "Ottawa"
     ],
-    "dateAdded": "2034-10-02",
+    "dateAdded": "2034-09-29",
     "kind": "tool"
   },
   {
@@ -22283,7 +22265,7 @@
       "OC Transpo",
       "real-time"
     ],
-    "dateAdded": "2034-10-05",
+    "dateAdded": "2034-10-02",
     "kind": "data"
   },
   {
@@ -22301,7 +22283,7 @@
       "open data",
       "real-time"
     ],
-    "dateAdded": "2034-10-08",
+    "dateAdded": "2034-10-05",
     "kind": "data"
   },
   {
@@ -22316,7 +22298,7 @@
       "Waterloo",
       "transit"
     ],
-    "dateAdded": "2034-10-11",
+    "dateAdded": "2034-10-08",
     "kind": "website"
   },
   {
@@ -22331,7 +22313,7 @@
       "transit",
       "Windsor"
     ],
-    "dateAdded": "2034-10-14",
+    "dateAdded": "2034-10-11",
     "kind": "website"
   },
   {
@@ -22348,7 +22330,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2034-10-17",
+    "dateAdded": "2034-10-14",
     "kind": "data"
   },
   {
@@ -22364,7 +22346,7 @@
       "gtfs",
       "transit"
     ],
-    "dateAdded": "2034-10-20",
+    "dateAdded": "2034-10-17",
     "kind": "data"
   },
   {
@@ -22381,7 +22363,7 @@
       "gtfs",
       "geohub"
     ],
-    "dateAdded": "2034-10-23",
+    "dateAdded": "2034-10-20",
     "kind": "data"
   },
   {
@@ -22398,7 +22380,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2034-10-26",
+    "dateAdded": "2034-10-23",
     "kind": "data"
   },
   {
@@ -22415,7 +22397,7 @@
       "transit",
       "csv"
     ],
-    "dateAdded": "2034-10-29",
+    "dateAdded": "2034-10-26",
     "kind": "data"
   },
   {
@@ -22432,7 +22414,7 @@
       "ets",
       "transit"
     ],
-    "dateAdded": "2034-11-01",
+    "dateAdded": "2034-10-29",
     "kind": "data"
   },
   {
@@ -22449,7 +22431,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2034-11-04",
+    "dateAdded": "2034-11-01",
     "kind": "data"
   },
   {
@@ -22468,7 +22450,7 @@
       "schedules",
       "routes"
     ],
-    "dateAdded": "2034-11-07",
+    "dateAdded": "2034-11-04",
     "kind": "data"
   },
   {
@@ -22485,7 +22467,7 @@
       "transit",
       "hsr"
     ],
-    "dateAdded": "2034-11-10",
+    "dateAdded": "2034-11-07",
     "kind": "data"
   },
   {
@@ -22504,7 +22486,7 @@
       "schedules",
       "routes"
     ],
-    "dateAdded": "2034-11-13",
+    "dateAdded": "2034-11-10",
     "kind": "data"
   },
   {
@@ -22524,7 +22506,7 @@
       "routes",
       "zip"
     ],
-    "dateAdded": "2034-11-16",
+    "dateAdded": "2034-11-13",
     "kind": "data"
   },
   {
@@ -22541,7 +22523,7 @@
       "transit",
       "ontario"
     ],
-    "dateAdded": "2034-11-19",
+    "dateAdded": "2034-11-16",
     "kind": "data"
   },
   {
@@ -22559,7 +22541,7 @@
       "zip",
       "bus"
     ],
-    "dateAdded": "2034-11-22",
+    "dateAdded": "2034-11-19",
     "kind": "data"
   },
   {
@@ -22576,7 +22558,7 @@
       "gtfs",
       "real-time"
     ],
-    "dateAdded": "2034-11-25",
+    "dateAdded": "2034-11-22",
     "kind": "data"
   },
   {
@@ -22591,7 +22573,7 @@
       "transit",
       "Mississauga"
     ],
-    "dateAdded": "2034-11-28",
+    "dateAdded": "2034-11-25",
     "kind": "website"
   },
   {
@@ -22606,7 +22588,7 @@
       "transit",
       "Montreal"
     ],
-    "dateAdded": "2034-12-01",
+    "dateAdded": "2034-11-28",
     "kind": "website"
   },
   {
@@ -22624,7 +22606,7 @@
       "transit",
       "api"
     ],
-    "dateAdded": "2034-12-04",
+    "dateAdded": "2034-12-01",
     "kind": "data"
   },
   {
@@ -22643,7 +22625,7 @@
       "schedules",
       "routes"
     ],
-    "dateAdded": "2034-12-07",
+    "dateAdded": "2034-12-04",
     "kind": "data"
   },
   {
@@ -22662,7 +22644,7 @@
       "schedules",
       "routes"
     ],
-    "dateAdded": "2034-12-10",
+    "dateAdded": "2034-12-07",
     "kind": "data"
   },
   {
@@ -22677,7 +22659,7 @@
       "transit",
       "Northern Ontario"
     ],
-    "dateAdded": "2034-12-13",
+    "dateAdded": "2034-12-10",
     "kind": "website"
   },
   {
@@ -22695,7 +22677,7 @@
       "quebec",
       "open data"
     ],
-    "dateAdded": "2034-12-16",
+    "dateAdded": "2034-12-13",
     "kind": "data"
   },
   {
@@ -22710,7 +22692,7 @@
       "Gatineau",
       "transit"
     ],
-    "dateAdded": "2034-12-19",
+    "dateAdded": "2034-12-16",
     "kind": "website"
   },
   {
@@ -22725,7 +22707,7 @@
       "Quebec City",
       "transit"
     ],
-    "dateAdded": "2034-12-22",
+    "dateAdded": "2034-12-19",
     "kind": "website"
   },
   {
@@ -22742,7 +22724,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2034-12-25",
+    "dateAdded": "2034-12-22",
     "kind": "data"
   },
   {
@@ -22762,7 +22744,7 @@
       "Quebec",
       "zip"
     ],
-    "dateAdded": "2034-12-28",
+    "dateAdded": "2034-12-25",
     "kind": "data"
   },
   {
@@ -22777,7 +22759,7 @@
       "Saskatoon",
       "transit"
     ],
-    "dateAdded": "2034-12-31",
+    "dateAdded": "2034-12-28",
     "kind": "website"
   },
   {
@@ -22794,7 +22776,7 @@
       "real-time",
       "transit"
     ],
-    "dateAdded": "2035-01-03",
+    "dateAdded": "2034-12-31",
     "kind": "data"
   },
   {
@@ -22809,7 +22791,7 @@
       "transit",
       "bikes"
     ],
-    "dateAdded": "2035-01-06",
+    "dateAdded": "2035-01-03",
     "kind": "website"
   },
   {
@@ -22827,7 +22809,7 @@
       "transit",
       "api"
     ],
-    "dateAdded": "2035-01-09",
+    "dateAdded": "2035-01-06",
     "kind": "data"
   },
   {
@@ -22842,7 +22824,7 @@
       "transit",
       "Toronto"
     ],
-    "dateAdded": "2035-01-12",
+    "dateAdded": "2035-01-09",
     "kind": "tool"
   },
   {
@@ -22859,7 +22841,7 @@
       "gtfs",
       "open data"
     ],
-    "dateAdded": "2035-01-15",
+    "dateAdded": "2035-01-12",
     "kind": "data"
   },
   {
@@ -22874,7 +22856,7 @@
       "Winnipeg",
       "transit"
     ],
-    "dateAdded": "2035-01-18",
+    "dateAdded": "2035-01-15",
     "kind": "tool"
   },
   {
@@ -22891,7 +22873,7 @@
       "transit",
       "open data"
     ],
-    "dateAdded": "2035-01-21",
+    "dateAdded": "2035-01-18",
     "kind": "data"
   },
   {
@@ -22908,7 +22890,7 @@
       "travel",
       "live data"
     ],
-    "dateAdded": "2035-01-24",
+    "dateAdded": "2035-01-21",
     "kind": "website"
   },
   {
@@ -22925,7 +22907,7 @@
       "emissions",
       "comparison"
     ],
-    "dateAdded": "2035-01-27",
+    "dateAdded": "2035-01-24",
     "kind": "tool"
   },
   {
@@ -22943,7 +22925,7 @@
       "traffic",
       "fatalities"
     ],
-    "dateAdded": "2035-01-30",
+    "dateAdded": "2035-01-27",
     "kind": "tool"
   },
   {
@@ -22958,7 +22940,7 @@
       "roads",
       "transportation"
     ],
-    "dateAdded": "2035-02-02",
+    "dateAdded": "2035-01-30",
     "kind": "map"
   },
   {
@@ -22973,7 +22955,7 @@
       "roads",
       "transportation"
     ],
-    "dateAdded": "2035-02-05",
+    "dateAdded": "2035-02-02",
     "kind": "map"
   },
   {
@@ -22988,7 +22970,7 @@
       "BC",
       "licence"
     ],
-    "dateAdded": "2035-02-08",
+    "dateAdded": "2035-02-05",
     "kind": "website"
   },
   {
@@ -23007,7 +22989,7 @@
       "traffic",
       "alerts"
     ],
-    "dateAdded": "2035-02-11",
+    "dateAdded": "2035-02-08",
     "kind": "map"
   },
   {
@@ -23022,7 +23004,7 @@
       "Manitoba",
       "licence"
     ],
-    "dateAdded": "2035-02-14",
+    "dateAdded": "2035-02-11",
     "kind": "website"
   },
   {
@@ -23037,7 +23019,7 @@
       "roads",
       "NB"
     ],
-    "dateAdded": "2035-02-17",
+    "dateAdded": "2035-02-14",
     "kind": "map"
   },
   {
@@ -23052,7 +23034,7 @@
       "New Brunswick",
       "licence"
     ],
-    "dateAdded": "2035-02-20",
+    "dateAdded": "2035-02-17",
     "kind": "website"
   },
   {
@@ -23072,7 +23054,7 @@
       "traffic",
       "api"
     ],
-    "dateAdded": "2035-02-23",
+    "dateAdded": "2035-02-20",
     "kind": "map"
   },
   {
@@ -23087,7 +23069,7 @@
       "NWT",
       "road conditions"
     ],
-    "dateAdded": "2035-02-26",
+    "dateAdded": "2035-02-23",
     "kind": "website"
   },
   {
@@ -23106,7 +23088,7 @@
       "ferries",
       "real-time"
     ],
-    "dateAdded": "2035-03-01",
+    "dateAdded": "2035-02-26",
     "kind": "map"
   },
   {
@@ -23121,7 +23103,7 @@
       "Nova Scotia",
       "licence"
     ],
-    "dateAdded": "2035-03-04",
+    "dateAdded": "2035-03-01",
     "kind": "tool"
   },
   {
@@ -23136,7 +23118,7 @@
       "roads",
       "transportation"
     ],
-    "dateAdded": "2035-03-07",
+    "dateAdded": "2035-03-04",
     "kind": "map"
   },
   {
@@ -23152,7 +23134,7 @@
       "drivers",
       "licence"
     ],
-    "dateAdded": "2035-03-10",
+    "dateAdded": "2035-03-07",
     "kind": "website"
   },
   {
@@ -23168,7 +23150,7 @@
       "vehicles",
       "registration"
     ],
-    "dateAdded": "2035-03-13",
+    "dateAdded": "2035-03-10",
     "kind": "website"
   },
   {
@@ -23184,7 +23166,7 @@
       "ID",
       "services"
     ],
-    "dateAdded": "2035-03-16",
+    "dateAdded": "2035-03-13",
     "kind": "website"
   },
   {
@@ -23200,7 +23182,7 @@
       "vehicles",
       "services"
     ],
-    "dateAdded": "2035-03-19",
+    "dateAdded": "2035-03-16",
     "kind": "website"
   },
   {
@@ -23215,7 +23197,7 @@
       "PEI",
       "licence"
     ],
-    "dateAdded": "2035-03-22",
+    "dateAdded": "2035-03-19",
     "kind": "website"
   },
   {
@@ -23234,7 +23216,7 @@
       "highways",
       "winter-driving"
     ],
-    "dateAdded": "2035-03-25",
+    "dateAdded": "2035-03-22",
     "kind": "map"
   },
   {
@@ -23249,7 +23231,7 @@
       "roads",
       "transportation"
     ],
-    "dateAdded": "2035-03-28",
+    "dateAdded": "2035-03-25",
     "kind": "map"
   },
   {
@@ -23264,7 +23246,7 @@
       "Quebec",
       "licence"
     ],
-    "dateAdded": "2035-03-31",
+    "dateAdded": "2035-03-28",
     "kind": "website"
   },
   {
@@ -23279,7 +23261,7 @@
       "roads",
       "SK"
     ],
-    "dateAdded": "2035-04-03",
+    "dateAdded": "2035-03-31",
     "kind": "map"
   },
   {
@@ -23294,7 +23276,7 @@
       "Saskatchewan",
       "licence"
     ],
-    "dateAdded": "2035-04-06",
+    "dateAdded": "2035-04-03",
     "kind": "website"
   },
   {
@@ -23309,7 +23291,7 @@
       "Yukon",
       "road conditions"
     ],
-    "dateAdded": "2035-04-09",
+    "dateAdded": "2035-04-06",
     "kind": "website"
   },
   {
@@ -23324,7 +23306,7 @@
       "Yukon",
       "licence"
     ],
-    "dateAdded": "2035-04-12",
+    "dateAdded": "2035-04-09",
     "kind": "website"
   },
   {
@@ -23342,7 +23324,7 @@
       "real-time",
       "calgary"
     ],
-    "dateAdded": "2035-04-15",
+    "dateAdded": "2035-04-12",
     "kind": "website"
   },
   {
@@ -23358,7 +23340,7 @@
       "311",
       "service"
     ],
-    "dateAdded": "2035-04-18",
+    "dateAdded": "2035-04-15",
     "kind": "website"
   },
   {
@@ -23373,7 +23355,7 @@
       "transportation",
       "data"
     ],
-    "dateAdded": "2035-04-21",
+    "dateAdded": "2035-04-18",
     "kind": "tool"
   },
   {
@@ -23391,7 +23373,7 @@
       "map",
       "edmonton"
     ],
-    "dateAdded": "2035-04-24",
+    "dateAdded": "2035-04-21",
     "kind": "website"
   },
   {
@@ -23407,7 +23389,7 @@
       "maps",
       "Montreal"
     ],
-    "dateAdded": "2035-04-27",
+    "dateAdded": "2035-04-24",
     "kind": "website"
   },
   {
@@ -23424,7 +23406,7 @@
       "snow removal",
       "montreal"
     ],
-    "dateAdded": "2035-04-30",
+    "dateAdded": "2035-04-27",
     "kind": "tool"
   },
   {
@@ -23441,7 +23423,7 @@
       "winter",
       "montreal"
     ],
-    "dateAdded": "2035-05-03",
+    "dateAdded": "2035-04-30",
     "kind": "map"
   },
   {
@@ -23457,7 +23439,7 @@
       "traffic",
       "roads"
     ],
-    "dateAdded": "2035-05-06",
+    "dateAdded": "2035-05-03",
     "kind": "website"
   },
   {
@@ -23475,7 +23457,7 @@
       "open data",
       "geojson"
     ],
-    "dateAdded": "2035-05-09",
+    "dateAdded": "2035-05-06",
     "kind": "data"
   },
   {
@@ -23492,7 +23474,7 @@
       "winter",
       "live data"
     ],
-    "dateAdded": "2035-05-12",
+    "dateAdded": "2035-05-09",
     "kind": "map"
   },
   {
@@ -23510,7 +23492,7 @@
       "map",
       "toronto"
     ],
-    "dateAdded": "2035-05-15",
+    "dateAdded": "2035-05-12",
     "kind": "website"
   },
   {
@@ -23528,7 +23510,7 @@
       "lookup",
       "winnipeg"
     ],
-    "dateAdded": "2035-05-18",
+    "dateAdded": "2035-05-15",
     "kind": "tool"
   },
   {
@@ -23543,7 +23525,7 @@
       "energy",
       "scenarios"
     ],
-    "dateAdded": "2035-05-21",
+    "dateAdded": "2035-05-18",
     "kind": "website"
   },
   {
@@ -23561,7 +23543,7 @@
       "safety",
       "csv"
     ],
-    "dateAdded": "2035-05-24",
+    "dateAdded": "2035-05-21",
     "kind": "tool"
   },
   {
@@ -23576,7 +23558,7 @@
       "energy",
       "pipelines"
     ],
-    "dateAdded": "2035-05-27",
+    "dateAdded": "2035-05-24",
     "kind": "website"
   },
   {
@@ -23593,7 +23575,7 @@
       "api",
       "dashboards"
     ],
-    "dateAdded": "2035-05-30",
+    "dateAdded": "2035-05-27",
     "kind": "data"
   },
   {
@@ -23610,7 +23592,7 @@
       "licensing",
       "map"
     ],
-    "dateAdded": "2035-06-02",
+    "dateAdded": "2035-05-30",
     "kind": "map"
   },
   {
@@ -23625,7 +23607,7 @@
       "water",
       "environment"
     ],
-    "dateAdded": "2035-06-05",
+    "dateAdded": "2035-06-02",
     "kind": "tool"
   },
   {
@@ -23640,7 +23622,7 @@
       "Manitoba",
       "outages"
     ],
-    "dateAdded": "2035-06-08",
+    "dateAdded": "2035-06-05",
     "kind": "map"
   },
   {
@@ -23657,7 +23639,7 @@
       "real-time",
       "alberta"
     ],
-    "dateAdded": "2035-06-11",
+    "dateAdded": "2035-06-08",
     "kind": "data"
   },
   {
@@ -23675,7 +23657,7 @@
       "map",
       "safety"
     ],
-    "dateAdded": "2035-06-14",
+    "dateAdded": "2035-06-11",
     "kind": "map"
   },
   {
@@ -23693,7 +23675,7 @@
       "regulation",
       "cnsc"
     ],
-    "dateAdded": "2035-06-17",
+    "dateAdded": "2035-06-14",
     "kind": "website"
   },
   {
@@ -23710,7 +23692,7 @@
       "real-time",
       "ontario"
     ],
-    "dateAdded": "2035-06-20",
+    "dateAdded": "2035-06-17",
     "kind": "data"
   },
   {
@@ -23727,7 +23709,7 @@
       "regulator",
       "oil and gas"
     ],
-    "dateAdded": "2035-06-23",
+    "dateAdded": "2035-06-20",
     "kind": "website"
   },
   {
@@ -23743,7 +23725,7 @@
       "utilities",
       "consumer"
     ],
-    "dateAdded": "2035-06-26",
+    "dateAdded": "2035-06-23",
     "kind": "website"
   },
   {
@@ -23759,7 +23741,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2035-06-29",
+    "dateAdded": "2035-06-26",
     "kind": "map"
   },
   {
@@ -23775,7 +23757,7 @@
       "utilities",
       "consumer"
     ],
-    "dateAdded": "2035-07-02",
+    "dateAdded": "2035-06-29",
     "kind": "website"
   },
   {
@@ -23791,7 +23773,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2035-07-05",
+    "dateAdded": "2035-07-02",
     "kind": "website"
   },
   {
@@ -23807,7 +23789,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2035-07-08",
+    "dateAdded": "2035-07-05",
     "kind": "map"
   },
   {
@@ -23823,7 +23805,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2035-07-11",
+    "dateAdded": "2035-07-08",
     "kind": "website"
   },
   {
@@ -23839,7 +23821,7 @@
       "utilities",
       "gas"
     ],
-    "dateAdded": "2035-07-14",
+    "dateAdded": "2035-07-11",
     "kind": "map"
   },
   {
@@ -23854,7 +23836,7 @@
       "Nova Scotia",
       "outages"
     ],
-    "dateAdded": "2035-07-17",
+    "dateAdded": "2035-07-14",
     "kind": "map"
   },
   {
@@ -23869,7 +23851,7 @@
       "Ontario",
       "outages"
     ],
-    "dateAdded": "2035-07-20",
+    "dateAdded": "2035-07-17",
     "kind": "map"
   },
   {
@@ -23886,7 +23868,7 @@
       "regulator",
       "utilities"
     ],
-    "dateAdded": "2035-07-23",
+    "dateAdded": "2035-07-20",
     "kind": "website"
   },
   {
@@ -23902,7 +23884,7 @@
       "utilities",
       "water"
     ],
-    "dateAdded": "2035-07-26",
+    "dateAdded": "2035-07-23",
     "kind": "website"
   },
   {
@@ -23918,7 +23900,7 @@
       "nuclear",
       "utilities"
     ],
-    "dateAdded": "2035-07-29",
+    "dateAdded": "2035-07-26",
     "kind": "tool"
   },
   {
@@ -23933,7 +23915,7 @@
       "PEI",
       "outages"
     ],
-    "dateAdded": "2035-08-01",
+    "dateAdded": "2035-07-29",
     "kind": "map"
   },
   {
@@ -23949,7 +23931,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2035-08-04",
+    "dateAdded": "2035-08-01",
     "kind": "website"
   },
   {
@@ -23964,7 +23946,7 @@
       "energy",
       "maps"
     ],
-    "dateAdded": "2035-08-07",
+    "dateAdded": "2035-08-04",
     "kind": "website"
   },
   {
@@ -23979,7 +23961,7 @@
       "GTA",
       "outages"
     ],
-    "dateAdded": "2035-08-10",
+    "dateAdded": "2035-08-07",
     "kind": "map"
   },
   {
@@ -23995,7 +23977,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2035-08-13",
+    "dateAdded": "2035-08-10",
     "kind": "map"
   },
   {
@@ -24011,7 +23993,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2035-08-16",
+    "dateAdded": "2035-08-13",
     "kind": "map"
   },
   {
@@ -24026,7 +24008,7 @@
       "maps",
       "GIS"
     ],
-    "dateAdded": "2035-08-19",
+    "dateAdded": "2035-08-16",
     "kind": "map"
   },
   {
@@ -24041,7 +24023,7 @@
       "Ottawa",
       "outages"
     ],
-    "dateAdded": "2035-08-22",
+    "dateAdded": "2035-08-19",
     "kind": "map"
   },
   {
@@ -24057,7 +24039,7 @@
       "utilities",
       "outages"
     ],
-    "dateAdded": "2035-08-25",
+    "dateAdded": "2035-08-22",
     "kind": "map"
   },
   {
@@ -24072,7 +24054,7 @@
       "maps",
       "GIS"
     ],
-    "dateAdded": "2035-08-28",
+    "dateAdded": "2035-08-25",
     "kind": "map"
   },
   {
@@ -24087,7 +24069,7 @@
       "military",
       "careers"
     ],
-    "dateAdded": "2035-08-31",
+    "dateAdded": "2035-08-28",
     "kind": "website"
   },
   {
@@ -24102,7 +24084,7 @@
       "military",
       "family"
     ],
-    "dateAdded": "2035-09-03",
+    "dateAdded": "2035-08-31",
     "kind": "website"
   },
   {
@@ -24117,7 +24099,7 @@
       "history",
       "military"
     ],
-    "dateAdded": "2035-09-06",
+    "dateAdded": "2035-09-03",
     "kind": "documents"
   },
   {
@@ -24135,7 +24117,7 @@
       "research",
       "archive"
     ],
-    "dateAdded": "2035-09-09",
+    "dateAdded": "2035-09-06",
     "kind": "documents"
   },
   {
@@ -24152,7 +24134,7 @@
       "remembrance",
       "war memorial"
     ],
-    "dateAdded": "2035-09-12",
+    "dateAdded": "2035-09-09",
     "kind": "tool"
   },
   {
@@ -24170,7 +24152,7 @@
       "battle honours",
       "heritage"
     ],
-    "dateAdded": "2035-09-15",
+    "dateAdded": "2035-09-12",
     "kind": "tool"
   },
   {
@@ -24188,7 +24170,7 @@
       "deployments",
       "defence"
     ],
-    "dateAdded": "2035-09-18",
+    "dateAdded": "2035-09-15",
     "kind": "tool"
   },
   {
@@ -24206,7 +24188,7 @@
       "service records",
       "archives"
     ],
-    "dateAdded": "2035-09-21",
+    "dateAdded": "2035-09-18",
     "kind": "tool"
   },
   {
@@ -24221,7 +24203,7 @@
       "veterans",
       "benefits"
     ],
-    "dateAdded": "2035-09-24",
+    "dateAdded": "2035-09-21",
     "kind": "tool"
   },
   {
@@ -24239,7 +24221,7 @@
       "fallen",
       "search"
     ],
-    "dateAdded": "2035-09-27",
+    "dateAdded": "2035-09-24",
     "kind": "tool"
   },
   {
@@ -24254,7 +24236,7 @@
       "veterans",
       "services"
     ],
-    "dateAdded": "2035-09-30",
+    "dateAdded": "2035-09-27",
     "kind": "website"
   },
   {
@@ -24269,7 +24251,7 @@
       "veterans",
       "heritage"
     ],
-    "dateAdded": "2035-10-03",
+    "dateAdded": "2035-09-30",
     "kind": "tool"
   },
   {
@@ -24287,7 +24269,7 @@
       "war diaries",
       "remembrance"
     ],
-    "dateAdded": "2035-10-06",
+    "dateAdded": "2035-10-03",
     "kind": "map"
   },
   {
@@ -24304,7 +24286,7 @@
       "aqhi",
       "health"
     ],
-    "dateAdded": "2035-10-09",
+    "dateAdded": "2035-10-06",
     "kind": "website"
   },
   {
@@ -24321,7 +24303,7 @@
       "forecast",
       "marine"
     ],
-    "dateAdded": "2035-10-12",
+    "dateAdded": "2035-10-09",
     "kind": "tool"
   },
   {
@@ -24339,7 +24321,7 @@
       "climate",
       "geomet"
     ],
-    "dateAdded": "2035-10-15",
+    "dateAdded": "2035-10-12",
     "kind": "api"
   },
   {
@@ -24356,7 +24338,7 @@
       "geomagnetic",
       "forecast"
     ],
-    "dateAdded": "2035-10-18",
+    "dateAdded": "2035-10-15",
     "kind": "tool"
   },
   {
@@ -24376,7 +24358,7 @@
       "CSV",
       "interactive map"
     ],
-    "dateAdded": "2035-10-21",
+    "dateAdded": "2035-10-18",
     "kind": "data"
   },
   {
@@ -24393,7 +24375,7 @@
       "flood",
       "hydrology"
     ],
-    "dateAdded": "2035-10-24",
+    "dateAdded": "2035-10-21",
     "kind": "website"
   },
   {
@@ -24414,7 +24396,7 @@
       "climate",
       "environment"
     ],
-    "dateAdded": "2035-10-27",
+    "dateAdded": "2035-10-24",
     "kind": "data"
   },
   {
@@ -24432,7 +24414,7 @@
       "forecast",
       "open data"
     ],
-    "dateAdded": "2035-10-30",
+    "dateAdded": "2035-10-27",
     "kind": "data"
   },
   {
@@ -24452,7 +24434,7 @@
       "GeoJSON",
       "download"
     ],
-    "dateAdded": "2035-11-02",
+    "dateAdded": "2035-10-30",
     "kind": "data"
   },
   {
@@ -24469,7 +24451,7 @@
       "hydrology",
       "warnings"
     ],
-    "dateAdded": "2035-11-05",
+    "dateAdded": "2035-11-02",
     "kind": "website"
   },
   {
@@ -24486,7 +24468,7 @@
       "forecast",
       "warnings"
     ],
-    "dateAdded": "2035-11-08",
+    "dateAdded": "2035-11-05",
     "kind": "website"
   },
   {
@@ -24503,7 +24485,7 @@
       "water levels",
       "conservation"
     ],
-    "dateAdded": "2035-11-11",
+    "dateAdded": "2035-11-08",
     "kind": "website"
   }
 ]

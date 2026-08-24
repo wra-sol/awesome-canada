@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1445 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1444 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -49,7 +49,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌦️ Weather & Climate](#weather-and-climate) — 12
 - [⚡ Energy & Utilities](#energy-and-utilities) — 34
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 21
-- [🔬 Science, Research & Space](#science-research-and-space) — 33
+- [🔬 Science, Research & Space](#science-research-and-space) — 32
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 44
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 32
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
@@ -2171,7 +2171,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Space Agency — Open Data Portal | Canada · Federal | Open data catalogue | Download RADARSAT-1/RCM Earth-observation imagery (TIFF), Antarctica/Africa mosaics and NEOSSat astronomy datasets; CKAN API access. | https://donnees-data.asc-csa.gc.ca/en/dataset/ |
 | Canadian Space Agency — RADARSAT Constellation Data | Canada · Federal | Data | Earth-observation data from the RADARSAT Constellation Mission (RCM) | https://www.asc-csa.gc.ca/eng/satellites/radarsat/ |
 | CIHR — Funding Decisions Database | Canada · Federal | Research grants database | Search funded health-research grants and awards by researcher, institution, competition or keyword, with dollar amounts committed over the life of each grant. | https://webapps.cihr-irsc.gc.ca/decisions/p/main.html?lang=en |
-| DRDC — Defence Research Reports | Canada · Federal | Research database | Search 16,000+ unclassified Defence Research and Development Canada reports and download full-text PDFs of Canadian defence science and technology research. | https://pubs.drdc-rddc.gc.ca/pubdocs/pcow1_e.html |
 | Library and Archives Canada — Theses Canada | Canada · Federal | Theses portal | Search 425,000+ Canadian university theses and dissertations back to 1965 and read 200,000+ of them free in full text. | https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/search-theses-canada.aspx |
 | National Research Council — IR Aerospace Research Centre | Canada · Federal | Research | NRC aerospace research facilities, services, and partnership programs | https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/aerospace-research-centre |
 | NRC — Certified Reference Materials Catalogue | Canada · Federal | Catalogue and store | Browse and order NRC's SI-traceable certified reference materials for food, environment, health, and critical-minerals lab work, with certificates for each material. | https://nrc.canada.ca/en/certifications-evaluations-standards/certified-reference-materials/list |
