@@ -516,5 +516,185 @@ module.exports = [
       "orillia"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Burlington — OpenBook Budget Explorer (Questica)",
+    "level": "Municipal",
+    "jurisdiction": "Burlington",
+    "category": "budget",
+    "type": "Budget transparency portal",
+    "description": "Interactive Questica OpenBook budget transparency portal for Burlington — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected).",
+    "url": "https://burlington.openbook.questica.com/",
+    "tags": [
+      "budget",
+      "burlington",
+      "capital",
+      "finance",
+      "open book",
+      "operating",
+      "questica",
+      "verified"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Cambridge — OpenBook Budget Explorer (Questica)",
+    "level": "Municipal",
+    "jurisdiction": "Cambridge",
+    "category": "budget",
+    "type": "Budget transparency portal",
+    "description": "Interactive Questica OpenBook budget transparency portal for Cambridge — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected).",
+    "url": "https://cambridge.openbook.questica.com/",
+    "tags": [
+      "budget",
+      "cambridge",
+      "capital",
+      "finance",
+      "open book",
+      "operating",
+      "questica",
+      "verified"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Coquitlam — OpenBook Budget Explorer (Questica)",
+    "level": "Municipal",
+    "jurisdiction": "Coquitlam",
+    "category": "budget",
+    "type": "Budget transparency portal",
+    "description": "Interactive Questica OpenBook budget transparency portal for Coquitlam — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected).",
+    "url": "https://coquitlam.openbook.questica.com/",
+    "tags": [
+      "budget",
+      "capital",
+      "coquitlam",
+      "finance",
+      "open book",
+      "operating",
+      "questica",
+      "verified"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Grey County — OpenBook Budget Explorer (Questica)",
+    "level": "Municipal",
+    "jurisdiction": "Grey County",
+    "category": "budget",
+    "type": "Budget transparency portal",
+    "description": "Interactive Questica OpenBook budget transparency portal for Grey County — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected).",
+    "url": "https://greycounty.openbook.questica.com/",
+    "tags": [
+      "budget",
+      "capital",
+      "finance",
+      "greycounty",
+      "open book",
+      "operating",
+      "questica",
+      "verified"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Haldimand County — OpenBook Budget Explorer (Questica)",
+    "level": "Municipal",
+    "jurisdiction": "Haldimand County",
+    "category": "budget",
+    "type": "Budget transparency portal",
+    "description": "Interactive Questica OpenBook budget transparency portal for Haldimand County — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected).",
+    "url": "https://haldimandcounty.openbook.questica.com/",
+    "tags": [
+      "budget",
+      "capital",
+      "finance",
+      "haldimandcounty",
+      "open book",
+      "operating",
+      "questica",
+      "verified"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Hamilton — OpenBook Budget Explorer (Questica)",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "budget",
+    "type": "Budget transparency portal",
+    "description": "Interactive Questica OpenBook budget transparency portal for Hamilton — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected).",
+    "url": "https://hamilton.openbook.questica.com/",
+    "tags": [
+      "budget",
+      "capital",
+      "finance",
+      "hamilton",
+      "open book",
+      "operating",
+      "questica",
+      "verified"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Kitchener — OpenBook Budget Explorer (Questica)",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "budget",
+    "type": "Budget transparency portal",
+    "description": "Interactive Questica OpenBook budget transparency portal for Kitchener — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected).",
+    "url": "https://kitchener.openbook.questica.com/",
+    "tags": [
+      "budget",
+      "capital",
+      "finance",
+      "kitchener",
+      "open book",
+      "operating",
+      "questica",
+      "verified"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Orillia — OpenBook Budget Explorer (Questica)",
+    "level": "Municipal",
+    "jurisdiction": "Orillia",
+    "category": "budget",
+    "type": "Budget transparency portal",
+    "description": "Interactive Questica OpenBook budget transparency portal for Orillia — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected).",
+    "url": "https://orillia.openbook.questica.com/",
+    "tags": [
+      "budget",
+      "capital",
+      "finance",
+      "open book",
+      "operating",
+      "orillia",
+      "questica",
+      "verified"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Oshawa — OpenBook Budget Explorer (Questica)",
+    "level": "Municipal",
+    "jurisdiction": "Oshawa",
+    "category": "budget",
+    "type": "Budget transparency portal",
+    "description": "Interactive Questica OpenBook budget transparency portal for Oshawa — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected).",
+    "url": "https://oshawa.openbook.questica.com/",
+    "tags": [
+      "budget",
+      "capital",
+      "finance",
+      "open book",
+      "operating",
+      "oshawa",
+      "questica",
+      "verified"
+    ],
+    "dateAdded": "2026-08-24"
   }
 ];

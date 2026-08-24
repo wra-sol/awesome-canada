@@ -48,7 +48,7 @@ DATA_FILE = REPO_ROOT / 'data' / 'resources.json'
 CANDIDATES_FILE = REPO_ROOT / 'scripts' / 'candidates.json'
 REPORTS_DIR = REPO_ROOT / 'docs' / 'reports'
 
-TIER1_CATEGORIES = ['council', 'budget', 'planning-zoning', 'open-data']
+TIER1_CATEGORIES = ['council', 'budget', 'planning-zoning', 'open-data', 'transit']
 
 REGION_NAMES = {
     'bc': 'British Columbia', 'ab': 'Alberta', 'sk': 'Saskatchewan',
@@ -197,12 +197,137 @@ def make_candidate(city, category, ctype, name, url, description, tag_words):
     }
 
 
+def _no_redirect_opener():
+    """Opener that refuses to follow redirects — placeholder tenants redirect
+    to missing.html which returns HTTP 200."""
+    import urllib.request
+    import ssl as _ssl
+
+    class NoRedirect(urllib.request.HTTPRedirectHandler):
+        def redirect_request(self, *a, **k):
+            return None
+
+    ctx = _ssl.create_default_context()
+    return urllib.request.build_opener(NoRedirect,
+                                       urllib.request.HTTPSHandler(context=ctx))
+
+
+_OPENER = _no_redirect_opener()
+
+
+def _fetch_page(url, limit=300000):
+    import urllib.request
+    req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT_BROWSER})
+    with _OPENER.open(req, timeout=12) as r:
+        return r.status, r.read(limit).decode('utf-8', 'replace')
+
+
+def probe_questica(city):
+    """Questica OpenBook budget transparency portals (documented pattern:
+    [city].openbook.questica.com).
+
+    Strict verification: *.openbook.questica.com is WILDCARD DNS — any
+    subdomain 302s to a branded missing.html that returns HTTP 200. A real
+    portal serves 200 directly on first request AND contains the full city
+    name in the page body.
+    """
+    slug = slugify(city)
+    url = f'https://{slug}.openbook.questica.com/'
+    try:
+        status, html = _fetch_page(url)
+    except Exception:
+        return None
+    if status != 200:
+        return None
+    needle = slug.replace('.', '')
+    if needle not in html.lower().replace("'", ''):
+        return None
+    return make_candidate(
+        city, 'budget', 'Budget transparency portal',
+        f'{city} — OpenBook Budget Explorer (Questica)', url,
+        f'Interactive Questica OpenBook budget transparency portal for {city} — '
+        f'explore operating and capital budgets by department, project, and year, '
+        f'with drill-down visuals and CSV export. Verified live (direct 200, '
+        f'city-named tenant; wildcard placeholders redirect and were rejected).',
+        ['budget', 'finance', 'open book', 'questica', 'operating', 'capital'])
+
+
+def probe_transitland(city):
+    """Transitland GTFS feed lookup (documented technique: mid-size agencies
+    that don't publicize their feed URLs).
+
+    The Transitland v2 API requires an API key (free) — set TRANSITLAND_API_KEY.
+    Without a key this probe silently skips.
+    """
+    import json as _json
+    import urllib.request
+    api_key = os.environ.get('TRANSITLAND_API_KEY')
+    if not api_key:
+        return None
+    try:
+        api = ('https://transit.land/api/v2/rest/operators?per_page=5&apikey='
+               + urllib.parse.quote(api_key) + '&q=' + urllib.parse.quote(f'{city}'))
+        req = urllib.request.Request(api, headers={'User-Agent': USER_AGENT_BROWSER})
+        with urllib.request.urlopen(req, timeout=12) as resp:
+            ops = _json.load(resp).get('operators', [])
+        match = None
+        for op in ops:
+            name = str(op.get('name', ''))
+            short = str(op.get('short_name', ''))
+            if city.lower().replace(' ', '') in (name.lower().replace(' ', '')
+                                                 + short.lower().replace(' ', '')):
+                match = op
+                break
+        if not match:
+            return None
+        onestop = match.get('onestop_id')
+        if not onestop:
+            return None
+        api2 = (f'https://transit.land/api/v2/rest/feeds?apikey='
+                + urllib.parse.quote(api_key)
+                + f'&operator_onestop_id={urllib.parse.quote(onestop)}')
+        req2 = urllib.request.Request(api2, headers={'User-Agent': USER_AGENT_BROWSER})
+        with urllib.request.urlopen(req2, timeout=12) as resp2:
+            feeds = _json.load(resp2).get('feeds', [])
+        zip_url = None
+        for feed in feeds:
+            urls = feed.get('urls') or {}
+            for candidate_url in (urls.get('direct_download'), urls.get('static_current'),
+                                  urls.get('latest')):
+                if candidate_url and '.zip' in candidate_url.lower():
+                    zip_url = candidate_url
+                    break
+            if zip_url:
+                break
+        if not zip_url:
+            return None
+        # Verify the resolved URL actually serves a ZIP (PK magic bytes).
+        req3 = urllib.request.Request(zip_url, headers={'User-Agent': USER_AGENT_BROWSER,
+                                                        'Range': 'bytes=0-3'})
+        with urllib.request.urlopen(req3, timeout=15) as resp3:
+            magic = resp3.read(4)
+        if magic[:2] != b'PK':
+            return None
+        return make_candidate(
+            city, 'transit', 'GTFS feed',
+            f'{city} Transit — GTFS Feed (direct download)', zip_url,
+            f'Direct GTFS schedule download ({zip_url.rsplit("/", 1)[-1]}) for the {city} '
+            f'transit operator, resolved and ownership-matched via the Transitland registry '
+            f'and verified live (ZIP magic-byte check). Suitable for trip planners and '
+            f'transit analysis.',
+            ['gtfs', 'transit', 'bus', 'schedule', 'open data'])
+    except Exception:
+        return None
+
+
 # Each probe: (label, tier-1 category whose absence justifies the probe, fn(city, gap_info))
 PROBES = [
     ('eScribe', 'council', lambda city, gi: probe_escribe(city)),
     ('CivicWeb', 'council', lambda city, gi: probe_civicweb(city)),
     ('AllNetMeetings', 'council', lambda city, gi: probe_allnetmeetings(city)),
     ('ArcGIS Hub', 'open-data', probe_arcgis_hub),
+    ('Questica OpenBook', 'budget', probe_questica),
+    ('Transitland GTFS', 'transit', lambda city, gi: probe_transitland(city)),
 ]
 
 
