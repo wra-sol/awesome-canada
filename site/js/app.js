@@ -66,6 +66,7 @@
       kindTitles = meta.kinds || {};
       likeCounts = likes.counts || {};
       initFilters();
+      initDaily();
       initTrending();
       readStateFromUrl();
       applyFilters();
@@ -652,6 +653,34 @@
   }
 
   // ---- Trending strip ----
+
+  // Resource of the day — deterministic per UTC day, same for every visitor
+  function initDaily() {
+    const dailyEl = document.getElementById('daily');
+    const bodyEl = document.getElementById('daily-body');
+    if (!dailyEl || !bodyEl || !allResources.length) return;
+    const pool = allResources.filter(r => r.description);
+    if (!pool.length) return;
+    const dayIndex = Math.floor(Date.now() / 86400e3);
+    const r = pool[dayIndex % pool.length];
+    const count = likeCounts[r.url];
+    bodyEl.innerHTML =
+      '<div class="daily-card">' +
+        '<div class="daily-name"><a href="' + escapeHtml(r.url) + '" target="_blank" rel="noopener">' + escapeHtml(r.name) + '</a></div>' +
+        '<div class="card-badges">' +
+          '<span class="badge badge-kind">' + escapeHtml(kindLabel(r.kind)) + '</span>' +
+          '<span class="badge badge-level">' + escapeHtml(r.level) + '</span>' +
+          '<span class="badge badge-category">' + escapeHtml(catLabel(r.category)) + '</span>' +
+          '<span class="badge badge-jurisdiction">' + escapeHtml(r.jurisdiction) + '</span>' +
+        '</div>' +
+        '<p class="daily-desc">' + escapeHtml(r.description) + '</p>' +
+        '<div class="daily-actions">' +
+          '<a class="daily-visit" href="?q=' + encodeURIComponent(r.name) + '" title="Show this resource in the directory">Find it in the directory</a>' +
+          (typeof count === 'number' ? '<span class="trending-count" title="' + fmtCount(count) + ' likes">' + HEART_SVG + fmtCount(count) + '</span>' : '') +
+        '</div>' +
+      '</div>';
+    dailyEl.hidden = false;
+  }
 
   function initTrending() {
     trendingEl.hidden = false;

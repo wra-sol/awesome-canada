@@ -277,7 +277,7 @@ main.container {
   gap: var(--space-2);
   font-size: 13px;
   cursor: pointer;
-  padding: var(--space-1) 0;
+  padding: var(--space-3) 0;
   color: var(--color-charcoal);
 }
 
@@ -566,6 +566,25 @@ main.container {
   border: 0;
 }
 
+.skip-link {
+  position: fixed;
+  top: var(--space-2);
+  left: var(--space-2);
+  z-index: 2000;
+  background: var(--color-charcoal);
+  color: var(--color-warm-white);
+  font-size: 14px;
+  font-weight: 600;
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  transform: translateY(calc(-100% - var(--space-3)));
+}
+
+.skip-link:focus {
+  transform: none;
+}
+
 /* Table view */
 .resources-table {
   width: 100%;
@@ -771,6 +790,10 @@ main.container.browse-page {
   margin-bottom: var(--space-6);
 }
 
+.browse-intro a {
+  color: var(--color-amber-ink);
+}
+
 .browse-section {
   margin-bottom: var(--space-6);
 }
@@ -822,6 +845,17 @@ main.container.browse-page {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: var(--space-2) var(--space-5);
+}
+
+.browse-cat-grid a {
+  color: var(--color-charcoal);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.browse-cat-grid a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--color-amber);
 }
 
 @media (max-width: 640px) {
@@ -924,6 +958,16 @@ main.container.form-page {
   color: var(--color-slate);
   margin-bottom: var(--space-6);
   line-height: 1.6;
+}
+
+.error-code {
+  font-family: var(--font-mono);
+  font-size: clamp(72px, 14vw, 120px);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  color: var(--color-amber-ink);
+  user-select: none;
 }
 
 .site-title-link {
@@ -1392,6 +1436,86 @@ main.container.form-page {
   font-size: 13px;
   color: var(--color-slate);
   padding: var(--space-2) 0;
+}
+
+/* Resource of the day */
+.page-heading {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-bottom: var(--space-4);
+}
+
+.daily {
+  background: var(--color-cream);
+  border: 1px solid var(--color-border);
+  border-left: 3px solid var(--color-amber);
+  border-radius: var(--radius-md);
+  padding: var(--space-4) var(--space-5);
+  margin-bottom: var(--space-5);
+}
+
+.daily-title {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: var(--space-3);
+}
+
+.daily-title svg {
+  width: 15px;
+  height: 15px;
+  fill: var(--color-amber);
+}
+
+.daily-card {
+  background: var(--color-warm-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-3) var(--space-4);
+}
+
+.daily-name {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: var(--space-2);
+}
+
+.daily-name a {
+  color: var(--color-charcoal);
+  text-decoration: none;
+}
+
+.daily-name a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--color-amber);
+}
+
+.daily-desc {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--color-slate);
+  margin-top: var(--space-2);
+}
+
+.daily-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  margin-top: var(--space-3);
+}
+
+.daily-visit {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-amber-ink);
+  text-decoration: none;
+}
+
+.daily-visit:hover {
+  text-decoration: underline;
 }
 
 /* Skeleton shimmer while trending loads */

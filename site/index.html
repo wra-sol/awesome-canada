@@ -6,6 +6,16 @@
   <title>Awesome Canada — Canadian Government Tools, Maps &amp; Open Data</title>
   <meta name="description" content="A curated, link-checked directory of 1,500+ official Canadian government resources: open data portals, interactive maps, calculators, registries and civic tools from federal, provincial, territorial and municipal governments.">
   <link rel="canonical" href="https://awesome-canada.ca/">
+    <meta property="og:site_name" content="Awesome Canada">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Awesome Canada — Canadian Government Tools, Maps & Open Data">
+  <meta property="og:description" content="1,500+ curated official Canadian government resources: open data, maps, calculators and civic tools. Link-checked daily.">
+  <meta property="og:url" content="https://awesome-canada.ca/">
+  <meta property="og:image" content="https://awesome-canada.ca/og-image.png?v=3">
+  <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebSite","name":"Awesome Canada","url":"https://awesome-canada.ca/","description":"1,500+ curated official Canadian government resources: open data, maps, calculators and civic tools. Link-checked daily.","potentialAction":{"@type":"SearchAction","target":"https://awesome-canada.ca/?q={search_term_string}","query-input":"required name=search_term_string"}}
+  </script>
   <meta name="theme-color" content="#FAFAF8" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
 
@@ -63,9 +73,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/styles.css?v=c47f8ee">
+  <link rel="stylesheet" href="css/styles.css?v=20260825">
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="container">
       <div class="header-top">
@@ -179,7 +190,7 @@
     </div>
   </header>
 
-  <main class="container">
+  <main class="container" id="main">
     <aside class="filters-sidebar" id="filters-sidebar">
       <button class="filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="filters-panel">
         <span class="filters-toggle-text">Filters</span>
@@ -187,19 +198,19 @@
       </button>
       <div class="filters-panel" id="filters-panel">
         <div class="filter-group">
-          <h3 class="filter-heading">Format</h3>
+          <h2 class="filter-heading">Format</h2>
           <div class="filter-checkboxes" id="filter-kind"></div>
         </div>
         <div class="filter-group">
-          <h3 class="filter-heading">Level of government</h3>
+          <h2 class="filter-heading">Level of government</h2>
           <div class="filter-checkboxes" id="filter-level"></div>
         </div>
         <div class="filter-group">
-          <h3 class="filter-heading">Category</h3>
+          <h2 class="filter-heading">Category</h2>
           <div class="filter-checkboxes" id="filter-category"></div>
         </div>
         <div class="filter-group">
-          <h3 class="filter-heading">Region</h3>
+          <h2 class="filter-heading">Region</h2>
           <div class="filter-checkboxes" id="filter-region"></div>
         </div>
         <button class="filters-reset" id="filters-reset">Reset all filters</button>
@@ -207,6 +218,7 @@
     </aside>
 
     <section class="results">
+      <h1 class="page-heading">Official Canadian government tools, maps &amp; open data — curated and link-checked daily.</h1>
       <section class="trending" id="trending" hidden aria-label="Trending resources">
         <div class="trending-header">
           <h2 class="trending-title">
@@ -221,6 +233,14 @@
           </div>
         </div>
         <div class="trending-items" id="trending-items"></div>
+      </section>
+
+      <section class="daily" id="daily" hidden aria-labelledby="daily-title">
+        <h2 class="daily-title" id="daily-title">
+          <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 0l2 5.3L16 6l-4 3.4L13.2 15 8 12.1 2.8 15 4 9.4 0 6l6-.7z"/></svg>
+          Resource of the day
+        </h2>
+        <div id="daily-body"></div>
       </section>
 
       <div class="results-header">
@@ -371,6 +391,6 @@
     </div>
   </footer>
 
-  <script src="js/app.js?v=2af5974"></script>
+  <script src="js/app.js?v=20260825"></script>
 </body>
 </html>

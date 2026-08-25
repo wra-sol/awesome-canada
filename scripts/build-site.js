@@ -37,12 +37,14 @@ function browsePageShell({ title, description, canonicalPath, body, jsonLd }) {
   <meta property="og:description" content="${escapeHtml(description)}">
   <meta property="og:url" content="${BASE_URL}${canonicalPath}">
   <meta property="og:image" content="${BASE_URL}/og-image.png?v=3">
+  <meta name="twitter:card" content="summary_large_image">
 ${jsonLd ? `  <script type="application/ld+json">${jsonLd}</script>\n` : ''}  <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/styles.css">
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="container">
       <div class="header-top">
@@ -144,7 +146,7 @@ ${jsonLd ? `  <script type="application/ld+json">${jsonLd}</script>\n` : ''}  <l
       </div>
     </div>
   </header>
-  <main class="container browse-page">
+  <main class="container browse-page" id="main">
 ${body}
   </main>
   <footer class="site-footer">

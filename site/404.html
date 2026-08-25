@@ -3,14 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Report Broken Link — Awesome Canada</title>
-  <meta name="description" content="Report a broken or changed link in the Awesome Canada directory. No account needed.">
-  <link rel="canonical" href="https://awesome-canada.ca/report.html">
-    <meta property="og:site_name" content="Awesome Canada">
+  <meta name="robots" content="noindex">
+  <title>Page not found — Awesome Canada</title>
+  <meta name="description" content="The page you’re after doesn’t exist — but 1,500+ curated Canadian government resources are here and link-checked daily.">
+  <meta property="og:site_name" content="Awesome Canada">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Report Broken Link — Awesome Canada">
-  <meta property="og:description" content="Report a broken or outdated link in the Awesome Canada directory. No account needed.">
-  <meta property="og:url" content="https://awesome-canada.ca/report.html">
+  <meta property="og:title" content="Page not found — Awesome Canada">
+  <meta property="og:description" content="The page you’re after doesn’t exist — but 1,500+ curated Canadian government resources are here and link-checked daily.">
   <meta property="og:image" content="https://awesome-canada.ca/og-image.png?v=3">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="theme-color" content="#FAFAF8" media="(prefers-color-scheme: light)">
@@ -119,78 +118,29 @@
         <nav class="site-nav" aria-label="Main">
           <a href="./">Directory</a>
           <a href="browse/">Browse</a>
-          <a href="submit.html">Submit a link</a>
-          <a href="report.html" aria-current="page">Report a broken link</a>
+          <a href="submit.html" aria-current="page">Submit a link</a>
+          <a href="report.html">Report a broken link</a>
         </nav>
       </div>
     </div>
   </header>
 
+  
   <main class="container form-page" id="main">
-    <h1 class="form-page-title">Report a Broken Link</h1>
-    <p class="form-page-intro">Found a link that’s not working, redirecting somewhere unexpected, or showing the wrong content? Let us know below — no account needed — and we’ll investigate.</p>
-
-    <form class="report-form" id="report-form" action="https://github.com/wra-sol/awesome-canada/issues/new" method="GET" target="_blank" novalidate>
-      <input type="hidden" name="template" value="report_broken.yml">
-
-      <div class="hp-field" aria-hidden="true">
-        <label for="website">Leave this field empty</label>
-        <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
-      </div>
-
-      <div class="form-group">
-        <label for="resource_name">Resource Name <span class="required">*</span></label>
-        <input type="text" id="resource_name" name="resource_name" placeholder="e.g., Guelph Open Data — Building Permits" required maxlength="120">
-      </div>
-
-      <div class="form-group">
-        <label for="current_url">Current URL in Directory <span class="required">*</span></label>
-        <input type="url" id="current_url" name="current_url" placeholder="https://..." required>
-      </div>
-
-      <div class="form-group">
-        <label for="issue_type">What happened? <span class="required">*</span></label>
-        <select id="issue_type" name="issue_type" required>
-          <option value="">Select...</option>
-          <option value="Page not found (404)">Page not found (404)</option>
-          <option value="Redirects to a different page">Redirects to a different page</option>
-          <option value="Site down / timeout">Site down / timeout</option>
-          <option value="Content changed / no longer the right resource">Content changed / no longer the right resource</option>
-          <option value="Requires login now">Requires login now</option>
-          <option value="Other">Other</option>
-        </select>
-      </div>
-
-      <div class="form-group">
-        <label for="new_url">New URL (if known)</label>
-        <input type="url" id="new_url" name="new_url" placeholder="https://...">
-        <small class="form-hint">If the resource moved, paste the new location here. We’ll verify it.</small>
-      </div>
-
-      <div class="form-group">
-        <label for="details">Additional Details</label>
-        <textarea id="details" name="details" rows="3" placeholder="Any other context? When did you last see it working?" maxlength="1000"></textarea>
-      </div>
-
-      <div class="form-actions">
-        <button type="submit" class="btn btn-primary" id="submit-btn">Send report</button>
-        <a href="index.html" class="btn btn-secondary">Cancel</a>
-      </div>
-
-      <div class="form-status" id="form-status" role="alert"></div>
-
-      <p class="form-note">Reports are reviewed and fixed as quickly as possible — thank you for helping keep the directory accurate.
-        Trouble with the form? <a href="#" class="js-github-fallback">Report via GitHub instead</a>.</p>
-    </form>
-
-    <div class="form-status form-status-success" id="submit-success" hidden>
-      <strong>Thanks — report received.</strong>
-      <p id="submit-success-detail">We’ll check the link and either fix it or find the resource’s new home.</p>
-      <p><a href="index.html">Back to the directory</a> · <a href="#" class="js-track-issue" hidden>Track it on GitHub</a> · <a href="#" class="js-submit-another">Report another link</a></p>
+    <p class="error-code" aria-hidden="true">404</p>
+    <h1 class="form-page-title">Sorry, eh — this page wandered off with the caribou.</h1>
+    <p class="form-page-intro">Somewhere between St. John’s and Victoria, this URL lost its toque.
+      The page you’re after doesn’t exist (or got renamed) — but the other
+      <strong>1,500+</strong> entries are all here and link-checked daily.</p>
+    <div class="form-actions">
+      <a class="btn btn-primary" href="./">Search the directory</a>
+      <a class="btn btn-secondary" href="browse/">Browse by category</a>
     </div>
+    <p class="form-note">Looking for something specific? The
+      <a href="./">search bar</a> knows every entry by name, tag and description.</p>
   </main>
 
-  <footer class="site-footer">
+<footer class="site-footer">
     <div class="container">
       <p class="footer-tagline">Every entry links to an official government or public-interest source, and links are checked daily.</p>
       <nav class="footer-links" aria-label="Footer">
@@ -205,5 +155,3 @@
   </footer>
 
   <script src="js/forms.js?v=2af5974"></script>
-</body>
-</html>
