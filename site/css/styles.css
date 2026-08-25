@@ -1558,6 +1558,23 @@ main.container.form-page {
   outline-offset: 2px;
 }
 
+@media (max-width: 640px) {
+  .daily-name {
+    max-width: none;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .daily-meta {
+    white-space: normal;
+  }
+
+  .daily-desc {
+    flex-basis: 100%;
+    white-space: normal;
+  }
+}
+
 /* Skeleton shimmer while trending loads */
 @keyframes trend-shimmer {
   from { background-position: 200% 0; }
