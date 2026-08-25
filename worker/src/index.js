@@ -8,10 +8,15 @@
  * HTTP surface (for smoke tests / manual runs), guarded by MAINTENANCE_TOKEN:
  *   POST /run/clean   ?limit=25&dry-run=1
  *   POST /run/research?limit=5&dry-run=1
+ *
+ * GitHub webhook receiver (HMAC-signed via GH_WEBHOOK_SECRET):
+ *   POST /webhook/github  — triages new broken-link reports in place
  */
 
 import { runClean } from './clean.js';
 import { runResearch } from './research.js';
+import { handleWebhook } from './reports.js';
+import { issueClient } from './github.js';
 
 function json(obj, status = 200) {
   return new Response(JSON.stringify(obj, null, 2) + '\n', {
@@ -65,6 +70,14 @@ export default {
     if (request.method === 'POST' && url.pathname === '/run/research') {
       return handleRun(request, env, 'research');
     }
-    return json({ ok: true, service: 'awesome-canada-maintenance', routes: ['POST /run/clean', 'POST /run/research'] });
+    if (request.method === 'POST' && url.pathname === '/webhook/github') {
+      const r = await handleWebhook(request, env, issueClient(env));
+      return json(r.body, r.status);
+    }
+    return json({
+      ok: true,
+      service: 'awesome-canada-maintenance',
+      routes: ['POST /run/clean', 'POST /run/research', 'POST /webhook/github'],
+    });
   },
 };

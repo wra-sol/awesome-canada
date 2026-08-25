@@ -129,3 +129,42 @@ export async function branchExists(env, branch) {
     return false;
   }
 }
+
+// --- Issue triage (reports.js webhook) ---
+// GH_TOKEN may lack Issues:RW; callers pass a token that has it.
+
+function issueApi(env) {
+  const token = env.GH_ISSUES_TOKEN || env.GH_TOKEN;
+  if (!token) throw new Error('no GitHub token with Issues access (set GH_ISSUES_TOKEN)');
+  return async (path, opts = {}) => {
+    const res = await fetch(`${API}/repos/${env.GH_REPO}${path}`, {
+      ...opts,
+      headers: {
+        Authorization: `Bearer ${token}`,
+        Accept: 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+        'User-Agent': 'awesome-canada-maintenance-worker',
+        ...(opts.body ? { 'Content-Type': 'application/json' } : {}),
+      },
+    });
+    if (!res.ok) {
+      const text = await res.text().catch(() => '');
+      throw new Error(`GitHub ${opts.method || 'POST'} issues${path} -> ${res.status}: ${text.slice(0, 200)}`);
+    }
+    return res;
+  };
+}
+
+export function issueClient(env) {
+  const api = issueApi(env);
+  return {
+    async comment(number, body) {
+      await api(`/issues/${number}/comments`, { method: 'POST', body: JSON.stringify({ body }) });
+      return { posted: true };
+    },
+    async replaceLabels(number, labels) {
+      await api(`/issues/${number}/labels`, { method: 'PUT', body: JSON.stringify({ labels }) });
+      return { applied: labels };
+    },
+  };
+}

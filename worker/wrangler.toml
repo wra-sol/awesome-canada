@@ -17,3 +17,7 @@ MAX_CITIES = "25"
 #                        (+ Pull requests RW for the research job)
 #   MAINTENANCE_TOKEN  — shared secret for manual /run/* HTTP triggers
 #   TRANSITLAND_API_KEY — optional, enables GTFS probe later
+#   GH_WEBHOOK_SECRET  — shared HMAC secret for the /webhook/github receiver
+#                        (must match the repo webhook config)
+#   GH_ISSUES_TOKEN    — optional; PAT with Issues RW, used to comment/relabel
+#                        reports if GH_TOKEN lacks Issues permission
