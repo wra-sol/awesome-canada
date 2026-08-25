@@ -6182,6 +6182,24 @@
     ]
   },
   {
+    "name": "Canada Council Art Bank — Collection Search & Open Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Collection search",
+    "description": "Search the world's largest contemporary Canadian art collection — 17,000+ works by 3,000+ artists; full collection dataset downloadable as CSV or Excel via Canada Council data tables.",
+    "url": "https://artbank.ca/",
+    "tags": [
+      "art",
+      "collection",
+      "csv",
+      "excel",
+      "open data",
+      "indigenous artists"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "Canadian Conservation Institute — CCI Notes",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -6347,6 +6365,23 @@
       "art",
       "culture"
     ]
+  },
+  {
+    "name": "Telefilm Canada — Funded Projects Directory",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Funding registry",
+    "description": "Searchable directory of every Canadian feature film financed by Telefilm since FY2013-14 across development, production, marketing and Talent to Watch programs, filterable by fiscal year.",
+    "url": "https://telefilm.ca/en/who-we-are/directories/funded-projects-directory",
+    "tags": [
+      "film",
+      "funding",
+      "registry",
+      "search",
+      "cinema"
+    ],
+    "dateAdded": "2026-08-25"
   },
   {
     "name": "TERMIUM Plus",
@@ -7834,6 +7869,24 @@
     ]
   },
   {
+    "name": "Canada Industrial Relations Board — Decisions Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Decisions database",
+    "description": "Search CIRB reasons for decision, certification orders and OHS Tribunal records under the Canada Labour Code and Status of the Artist Act; advanced filters, RSS and email alerts.",
+    "url": "https://decisia.lexum.com/cirb-ccri/en/nav.do",
+    "tags": [
+      "labour law",
+      "canada labour code",
+      "certification",
+      "decisions",
+      "rss",
+      "html"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "Canadian Occupational Projection System (COPS)",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -7886,6 +7939,58 @@
       "estimator",
       "unemployment"
     ]
+  },
+  {
+    "name": "ESDC Labour Program — Equi'Vision Employment Equity Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Dashboard",
+    "description": "Search and compare workforce representation rates and hourly/bonus/overtime pay gaps by employer, sector, or location for 530+ federally regulated private-sector employers; interactive Power BI.",
+    "url": "https://equivision.services.gc.ca/",
+    "tags": [
+      "pay equity",
+      "employment equity",
+      "pay gaps",
+      "dashboard",
+      "interactive",
+      "power bi"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "ESDC Labour Program — Minimum Wage Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Lookup tool",
+    "description": "Look up current and forthcoming general minimum wage rates for every province and territory, special rates for students and specific occupations, plus historical rates back to 1965 via custom search.",
+    "url": "https://minwage-salairemin.service.canada.ca/en/index.html",
+    "tags": [
+      "minimum wage",
+      "wages",
+      "labour standards",
+      "history",
+      "custom search"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "ESDC Labour Program — Negotech Collective Agreements Library",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Lookup tool",
+    "description": "Full-text search of federal and provincial collective agreements by employer, union, NAICS industry, NOC occupation, dates, employee count and jurisdiction; multiple renewals, PDF downloads.",
+    "url": "https://negotech.service.canada.ca/search/index.html",
+    "tags": [
+      "collective agreements",
+      "labour relations",
+      "unions",
+      "search",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25"
   },
   {
     "name": "GC Jobs — Government of Canada Jobs",
@@ -7981,6 +8086,23 @@
     ]
   },
   {
+    "name": "Service Canada — Wage Earner Protection Program Application",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Apply online",
+    "description": "Apply online within 56 days for up to $9,275 (2026) in unpaid wages, vacation pay and severance owed when an employer goes bankrupt or into receivership; eligibility and payment details.",
+    "url": "https://www.canada.ca/en/employment-social-development/services/wage-earner-protection/employee.html",
+    "tags": [
+      "unpaid wages",
+      "bankruptcy",
+      "insolvency",
+      "apply online",
+      "workers"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "Employment Standards Act Ontario — Tools",
     "level": "Federal",
     "jurisdiction": "Ontario",
@@ -8039,6 +8161,23 @@
     ]
   },
   {
+    "name": "WCB-Alberta — Premium Rate Manual Search",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "employment",
+    "type": "Lookup tool",
+    "description": "Search or browse all WCB-Alberta industry classification codes and current premium rates per $100 of assessable earnings by sector, rate group and industry; keyword or code search.",
+    "url": "https://rm.wcb.ab.ca/WCB.RateManual.WebServer/",
+    "tags": [
+      "premium rates",
+      "industry classification",
+      "workers compensation",
+      "employers",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "WorkBC Job Board — Search Jobs",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -8067,6 +8206,41 @@
     ]
   },
   {
+    "name": "WorkSafeBC — Industry Health & Safety Data Dashboards",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Dashboard",
+    "description": "Interactive dashboards of BC injury rates, claim costs, inspections, orders and penalties by industry over 10 years; filter serious injuries and deaths by region, occupation and age.",
+    "url": "https://www.worksafebc.com/en/about-us/data-insights/industry-health-safety-data",
+    "tags": [
+      "workplace safety",
+      "injury data",
+      "claims",
+      "inspections",
+      "statistics",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Manitoba Workplace Safety and Health — Stop Work Orders, Penalties & Convictions",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "employment",
+    "type": "Enforcement database",
+    "description": "Published lists of Manitoba WSH stop work orders, administrative penalties and court convictions under the Workplace Safety and Health Act, browsable to check any employer's enforcement history.",
+    "url": "https://www.gov.mb.ca/labour/safety/compliance.html",
+    "tags": [
+      "workplace safety",
+      "enforcement",
+      "stop work orders",
+      "convictions",
+      "administrative penalties"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "WCB Manitoba",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -8082,6 +8256,25 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Post-Secondary Education, Training and Labour (PETL) — NBjobs Hiring Demand Bulletins & LMI",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "employment",
+    "type": "Dashboard",
+    "description": "PETL-run labour market hub: regional online job-ad hiring demand dashboards, labour force statistics, sector profiles and outlook reports based on live job-postings data.",
+    "url": "https://www.nbjobs.ca/stats/hiringdemand",
+    "tags": [
+      "labour market",
+      "job postings",
+      "hiring demand",
+      "new brunswick",
+      "dashboard",
+      "pdf",
+      "reports"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "WorkSafeNB",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -8093,6 +8286,23 @@
       "workers compensation",
       "claims",
       "workplace safety"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Department of Labour, Skills and Immigration — Licensed Foreign Worker Recruiter Registry",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "employment",
+    "type": "Registry",
+    "description": "Public registry of every Foreign Worker Recruiter Licence issued by the Labour Standards Division: licensee, business, expiry date, conditions, with each licence as a downloadable PDF.",
+    "url": "https://novascotia.ca/lae/employmentrights/fw/licensedrecruiters.asp",
+    "tags": [
+      "foreign workers",
+      "recruiter licences",
+      "labour standards",
+      "employer registry",
+      "pdf"
     ],
     "dateAdded": "2026-08-25"
   },
@@ -8171,6 +8381,42 @@
     ]
   },
   {
+    "name": "CNESST — Online Complaint Filing (Dépôt d'une plainte)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "employment",
+    "type": "Self-service portal",
+    "description": "Start an official CNESST complaint online: guided eligibility questionnaire routes unpaid wages, harassment, reprisal and other labour standards recours.",
+    "url": "https://www.cnesst.gouv.qc.ca/fr/service-clientele/plaintes-recours/depot-plainte",
+    "tags": [
+      "quebec",
+      "cnesst",
+      "labour standards",
+      "complaint",
+      "filing",
+      "self-service"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "CNESST — Premium Rate Lookup (Taux de prime)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "employment",
+    "type": "Lookup tool",
+    "description": "Look up Quebec workplace-safety insurance premium rates per $100 payroll by classification unit; official annual Table des taux PDF and rate components.",
+    "url": "https://www.cnesst.gouv.qc.ca/fr/demarches-formulaires/employeurs/assurance-sante-securite-travail/tarification/taux-prime",
+    "tags": [
+      "quebec",
+      "cnesst",
+      "insurance rates",
+      "employers",
+      "pdf",
+      "lookup"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "CNESST — Quebec Labour Standards",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -8203,6 +8449,24 @@
     ]
   },
   {
+    "name": "Saskatchewan WCB — Classification Index & Premium Rates",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "employment",
+    "type": "Lookup tool",
+    "description": "Filterable online index of every Saskatchewan WCB industry class code (10 schedules, 50 groups) with current-year premium rates, plus downloadable 2026 premium rate summary sheet PDF.",
+    "url": "https://www.wcbsask.com/classification",
+    "tags": [
+      "premium rates",
+      "industry classification",
+      "workers compensation",
+      "employers",
+      "pdf",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "Saskatchewan Workers' Compensation Board",
     "level": "Provincial",
     "jurisdiction": "Saskatchewan",
@@ -8214,6 +8478,23 @@
       "workers compensation",
       "claims",
       "workplace safety"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "SaskJobs — Provincial Job Search Board",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "employment",
+    "type": "Job search board",
+    "description": "Government-run Saskatchewan job board with ~9,600 live postings searchable by occupation, region and community via interactive map; covers health, trades, sales, oil/gas and more.",
+    "url": "https://www.saskjobs.ca/",
+    "tags": [
+      "job search",
+      "job board",
+      "hiring",
+      "labour market",
+      "lookup tool"
     ],
     "dateAdded": "2026-08-25"
   },
@@ -9938,6 +10219,23 @@
     ]
   },
   {
+    "name": "Post-Secondary Education, Training and Labour (PETL) — Employment Standards Online Complaint Form",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "gov-services",
+    "type": "Self-service portal",
+    "description": "File an Employment Standards Act complaint online without paper: unpaid wages, overtime, vacation pay, termination pay and more, routed directly to PETL investigators.",
+    "url": "https://www.gnb.ca/en/topic/jobs-workplaces/labour-market-workforce/employment-standards/employment-standards-complaint.html",
+    "tags": [
+      "employment standards",
+      "wage complaints",
+      "self-service",
+      "online form",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "Northwest Territories Geological Survey",
     "level": "Provincial",
     "jurisdiction": "Northwest Territories",
@@ -11237,6 +11535,41 @@
     ]
   },
   {
+    "name": "Canadian Conservation Institute — Agents of Deterioration",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Reference",
+    "description": "Comprehensive illustrated reference on the 10 primary agents of deterioration (light, pests, water, theft, fire...) threatening heritage collections, with risk-assessment and prevention guidance.",
+    "url": "https://www.canada.ca/en/conservation-institute/services/agents-deterioration.html",
+    "tags": [
+      "conservation",
+      "museums",
+      "preventive conservation",
+      "reference",
+      "heritage"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Canadian Conservation Institute — Light Damage Calculator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Interactive tool",
+    "description": "Estimate how colourants and museum collections fade under any lighting scenario: pick a colourant or collection type, set lux/hours, view predicted colour swatches. Three interactive variants.",
+    "url": "https://app.pch.gc.ca/application/cdl-ldc/description-about.app?lang=en",
+    "tags": [
+      "heritage",
+      "conservation",
+      "museums",
+      "lighting",
+      "interactive",
+      "collections"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "Canadian Heraldic Authority — Public Register of Arms, Flags and Badges",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -11266,6 +11599,41 @@
       "historic places",
       "register"
     ]
+  },
+  {
+    "name": "Canadian War Museum — Online Exhibitions",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Virtual exhibits",
+    "description": "Two dozen free online exhibitions from Canada's national military museum: veterans' oral histories, D-Day, First World War, war art, naval history, medals and propaganda poster archives.",
+    "url": "https://www.warmuseum.ca/dod/online-exhibitions",
+    "tags": [
+      "virtual exhibits",
+      "military history",
+      "oral histories",
+      "war art",
+      "veterans"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Library and Archives Canada — Canadian Directories Collection (1790–1906)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Full-text archive",
+    "description": "Full-text keyword search across ~95 digitized pre-1901 Canadian city, county and provincial directories (incl. Ottawa and Halifax runs); hits link directly to scanned directory pages.",
+    "url": "https://www.bac-lac.gc.ca/eng/discover/directories-collection/pages/directories-collection.aspx",
+    "tags": [
+      "directories",
+      "local history",
+      "full-text",
+      "pdf",
+      "genealogy",
+      "search"
+    ],
+    "dateAdded": "2026-08-25"
   },
   {
     "name": "Library and Archives Canada — Census Records",
@@ -11311,6 +11679,23 @@
       "history",
       "search"
     ]
+  },
+  {
+    "name": "Library and Archives Canada — Home Children Database (1869–1932)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Genealogy database",
+    "description": "Search 245,000+ indexed names of British Home Children by surname, given name, ship and year of arrival; entries link to passenger lists, inspection reports and Immigration Branch files.",
+    "url": "https://www.bac-lac.gc.ca/eng/discover/immigration/immigration-records/home-children-1869-1930/immigration-records/pages/immigration-records.aspx",
+    "tags": [
+      "genealogy",
+      "home children",
+      "immigration",
+      "database",
+      "search"
+    ],
+    "dateAdded": "2026-08-25"
   },
   {
     "name": "Library and Archives Canada — Land Grants of Western Canada",
@@ -12340,6 +12725,24 @@
       "study",
       "permit"
     ]
+  },
+  {
+    "name": "Pier 21 — Passenger List Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Lookup tool",
+    "description": "Searchable, sortable index of 100,000+ passenger arrivals at Pier 21 (1928–1971 gateway era): name, honourific, departure date and ship, for genealogy and immigration-history research.",
+    "url": "https://pier21.ca/immigration-records/passenger-list-database",
+    "tags": [
+      "genealogy",
+      "passenger lists",
+      "ships",
+      "halifax",
+      "lookup",
+      "records"
+    ],
+    "dateAdded": "2026-08-25"
   },
   {
     "name": "Alberta Advantage Immigration Program",
@@ -13598,6 +14001,26 @@
     ]
   },
   {
+    "name": "National Capital Commission — NCC Hub Open Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Open data",
+    "description": "NCC's official ArcGIS Hub (21 datasets): download CSV, GeoJSON, KML or query REST/WFS APIs for Rideau Canal Skateway ice conditions, Greenbelt land-use designations, NCR boundaries.",
+    "url": "https://ncc-hub-ncc-ccn.hub.arcgis.com/",
+    "tags": [
+      "geojson",
+      "csv",
+      "arcgis rest",
+      "wfs",
+      "trails",
+      "greenbelt",
+      "gatineau park",
+      "ottawa"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "National Defence — Open Data Datasets",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -14304,6 +14727,40 @@
     "dateAdded": "2026-08-24"
   },
   {
+    "name": "MLITSD — Employment Standards Claims Report",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data",
+    "description": "CSV downloads of Ontario ESA claims received/resolved and dollars assessed by ministry officers, fiscal 2012-2025, refreshed yearly.",
+    "url": "https://data.ontario.ca/dataset/8d8c31d3-4ec8-4684-b817-39ce2884bb2f",
+    "tags": [
+      "ontario",
+      "labour",
+      "employment standards",
+      "claims",
+      "csv"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "MLITSD — Occupational Health and Safety Inspections Report",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data",
+    "description": "CSV of MLITSD proactive OHS field-visit inspection counts by enforcement program area, fiscal 2011-2025, updated yearly.",
+    "url": "https://data.ontario.ca/dataset/occupational-health-and-safety-inspections-report",
+    "tags": [
+      "ontario",
+      "occupational health and safety",
+      "inspections",
+      "csv",
+      "open data"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "Ontario Data Catalogue",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -14342,6 +14799,25 @@
       "open data",
       "datasets"
     ]
+  },
+  {
+    "name": "CNESST — Lésions professionnelles Accepted Claims Dataset",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "open-data",
+    "type": "Open data",
+    "description": "Download annual CSV/XLSX files (2014-2023) of accepted Quebec work-injury claims by region, sector, and injury type; CKAN datastore API available.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/0e3ba082-a963-4771-95a2-accc43ae244c",
+    "tags": [
+      "quebec",
+      "cnesst",
+      "workplace injuries",
+      "workers compensation",
+      "csv",
+      "xlsx",
+      "api"
+    ],
+    "dateAdded": "2026-08-25"
   },
   {
     "name": "Données Québec",
@@ -19158,6 +19634,23 @@
     ]
   },
   {
+    "name": "WorkplaceNL — Certification Training Registry (CTR) Course Marketplace",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "safety",
+    "type": "Lookup tool",
+    "description": "Search the marketplace of WorkplaceNL-approved OHS training providers and courses, with workers' certification records stored electronically.",
+    "url": "https://ctr.bluedrop.io/",
+    "tags": [
+      "ohs training",
+      "certification",
+      "approved providers",
+      "workplace safety",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "NWT Wildfire Update (ECC)",
     "level": "Provincial",
     "jurisdiction": "Northwest Territories",
@@ -19238,6 +19731,23 @@
       "map"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Workers' Safety and Compensation Board (WSCB) — WHS Regulations Search",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "safety",
+    "type": "Lookup tool",
+    "description": "Full-text browse/search of Yukon's Occupational Health and Safety Regulations in 19 parts plus WHMIS, diving and radiation rules — the board's consolidated HTML regulations library.",
+    "url": "https://www.wcb.yk.ca/regulations",
+    "tags": [
+      "occupational health and safety",
+      "regulations",
+      "workplace safety",
+      "yukon",
+      "html"
+    ],
+    "dateAdded": "2026-08-25"
   },
   {
     "name": "Yukon Wildfires Map (Wildland Fire Management)",
@@ -20174,6 +20684,26 @@
       "cihr",
       "grants"
     ]
+  },
+  {
+    "name": "Ingenium — Collection API",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Collection API",
+    "description": "REST API over Ingenium's 150,000+ science-and-tech artifacts (agriculture, aviation, science museums): search, record lookup, more-like-this. Free API key; OpenAPI docs; bulk CSV/XML export.",
+    "url": "https://api.ingeniumcanada.org/en/api_docs/",
+    "tags": [
+      "api",
+      "museum",
+      "collection",
+      "open data",
+      "csv",
+      "xml",
+      "aviation",
+      "agriculture"
+    ],
+    "dateAdded": "2026-08-25"
   },
   {
     "name": "Library and Archives Canada — Theses Canada",

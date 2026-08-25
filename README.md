@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1559 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1589 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,18 +25,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 199
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 203
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 86
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 129
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 116
-- [🪪 Government Services & ID](#government-services-and-id) — 40
+- [🪪 Government Services & ID](#government-services-and-id) — 41
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 22
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 31
 - [🏢 Business & Procurement](#business-and-procurement) — 46
-- [💼 Employment & Labour](#employment-and-labour) — 27
+- [💼 Employment & Labour](#employment-and-labour) — 41
 - [🎓 Education & Student Aid](#education-and-student-aid) — 24
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 38
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 16
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 17
 - [🩺 Health & Wellness](#health-and-wellness) — 51
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 25
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
@@ -49,11 +49,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌦️ Weather & Climate](#weather-and-climate) — 12
 - [⚡ Energy & Utilities](#energy-and-utilities) — 34
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 26
-- [🔬 Science, Research & Space](#science-research-and-space) — 34
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 49
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 36
+- [🔬 Science, Research & Space](#science-research-and-space) — 35
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 51
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 41
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 47
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 49
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 40
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 22
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 19
@@ -79,6 +79,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Government of Canada — Open Government Portal | Canada · Federal | Open data portal | Search 40,000+ federal datasets, reports, and geospatial layers with API access | https://search.open.canada.ca/opendata/ |
 | Infrastructure Canada — Approved Projects Dataset | Canada · Federal | Open data | Downloadable register of infrastructure projects approved by Infrastructure Canada/Housing, Infrastructure and Communities Canada, with funding, location and status fields; weekly-updated CSV, XLSX and JSON. | https://open.canada.ca/data/en/dataset/beee0771-dab9-4be8-9b80-f8e8b3fdfd9d |
 | ISED API Catalogue | Canada · Federal | API catalogue | Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data. | https://api.ised-isde.canada.ca/en |
+| National Capital Commission — NCC Hub Open Data | Canada · Federal | Open data | NCC's official ArcGIS Hub (21 datasets): download CSV, GeoJSON, KML or query REST/WFS APIs for Rideau Canal Skateway ice conditions, Greenbelt land-use designations, NCR boundaries. | https://ncc-hub-ncc-ccn.hub.arcgis.com/ |
 | National Defence — Open Data Datasets | Canada · Federal | Open data collection | Browse and download National Defence datasets on the Open Government portal — personnel statistics, pay scales, performance indicators, and more, many in CSV. | https://open.canada.ca/data/en/organization/dnd-mdn |
 | NRC Digital Repository | Canada · Federal | Research data repository | National Research Council's persistent archive of research datasets, corporate publications back to 1954, and special collections, searchable and openly accessible. | https://nrc-digital-repository.canada.ca/eng/list/collections/ |
 | Open Government — Briefing Note Titles Search | Canada · Federal | Search tool | Search titles and reference numbers of briefing notes sent to federal ministers and deputy heads since 2019 — then file an ATI request for any of interest. | https://search.open.canada.ca/briefing_titles/ |
@@ -178,6 +179,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ministry of Finance — Ontario Population Projections | Ontario · Provincial | Statistical dashboard | Annual projections to 2051 for Ontario, 49 census divisions, health units and regions under reference/low/high scenarios; charts online plus XLSX table downloads. | https://www.ontario.ca/page/ontario-population-projections |
+| MLITSD — Employment Standards Claims Report | Ontario · Provincial | Open data | CSV downloads of Ontario ESA claims received/resolved and dollars assessed by ministry officers, fiscal 2012-2025, refreshed yearly. | https://data.ontario.ca/dataset/8d8c31d3-4ec8-4684-b817-39ce2884bb2f |
+| MLITSD — Occupational Health and Safety Inspections Report | Ontario · Provincial | Open data | CSV of MLITSD proactive OHS field-visit inspection counts by enforcement program area, fiscal 2011-2025, updated yearly. | https://data.ontario.ca/dataset/occupational-health-and-safety-inspections-report |
 | Ontario Data Catalogue | Ontario · Provincial | Open data portal | Large and very usable provincial open data catalogue | https://data.ontario.ca/ |
 | Durham Region Open Data | Clarington · Regional | Regional open data portal | Regional Municipality of Durham open data — boundaries, infrastructure, and regional datasets covering Clarington and other lower-tier municipalities. | https://opendata.durham.ca/ |
 | Durham Region Open Data Portal | Durham · Regional | Open data portal | Open data portal for the Regional Municipality of Durham — transportation, environment, and community data | https://opendata-durham.hub.arcgis.com/ |
@@ -247,6 +250,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| CNESST — Lésions professionnelles Accepted Claims Dataset | Quebec · Provincial | Open data | Download annual CSV/XLSX files (2014-2023) of accepted Quebec work-injury claims by region, sector, and injury type; CKAN datastore API available. | https://www.donneesquebec.ca/recherche/dataset/0e3ba082-a963-4771-95a2-accc43ae244c |
 | Données Québec | Quebec · Provincial | Open data portal | Strong open data portal with datasets, apps, and interactive map components | https://www.donneesquebec.ca/ |
 | MAMH — Répertoire des municipalités du Québec | Quebec · Provincial | Reference dataset | Daily-updated directory of every Quebec municipality and MRC: contacts, mayors and councillors, population decrees, regional affiliations and inactive organizations. Bulk XML downloads with related reference files. | https://www.donneesquebec.ca/recherche/dataset/repertoire-des-municipalites-du-quebec |
 | Gatineau — Atlas de Gatineau | Gatineau · Municipal | Interactive GIS atlas | Explore Gatineau geospatial data — toggle map layers, view aerial photography, and overlay your own Shapefile, CSV or KML data on the city's interactive atlas. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fcartes%2Fcarte_interactive_atlas_gatineau |
@@ -856,6 +860,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | New Brunswick Geological Survey | New Brunswick · Provincial | Geology maps | Interactive geological maps, mineral deposits, and geoscience data for NB | https://www2.gnb.ca/content/gnb/en/departments/10.html |
+| Post-Secondary Education, Training and Labour (PETL) — Employment Standards Online Complaint Form | New Brunswick · Provincial | Self-service portal | File an Employment Standards Act complaint online without paper: unpaid wages, overtime, vacation pay, termination pay and more, routed directly to PETL investigators. | https://www.gnb.ca/en/topic/jobs-workplaces/labour-market-workforce/employment-standards/employment-standards-complaint.html |
 
 ### Northern Canada (YT, NT, NU)
 
@@ -1084,10 +1089,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canada Industrial Relations Board — Decisions Database | Canada · Federal | Decisions database | Search CIRB reasons for decision, certification orders and OHS Tribunal records under the Canada Labour Code and Status of the Artist Act; advanced filters, RSS and email alerts. | https://decisia.lexum.com/cirb-ccri/en/nav.do |
 | Canadian Occupational Projection System (COPS) | Canada · Federal | Labour data | Ten-year occupational projections for job openings and job seekers across Canadian occupations | https://occupations.esdc.gc.ca/sppc-cops/ |
 | Employment and Social Development Canada — Labour Program | Canada · Federal | Regulator | Federal labour standards, occupational health and safety, workplace equity, and unjust-dismissal info | https://www.canada.ca/en/employment-social-development/corporate/portfolio/labour.html |
 | Employment Insurance (EI) — Apply Online | Canada · Federal | Service | Apply for Employment Insurance regular, sickness, maternity, parental, and caregiver benefits | https://www.canada.ca/en/services/benefits/ei.html |
 | Employment Insurance Benefits Estimator | Canada · Federal | Calculator | Anonymous Service Canada tool that estimates weekly EI benefit amounts and duration from salary and hours worked — no sign-in or personal information required. | https://estimateurae-eiestimator.service.canada.ca/en |
+| ESDC Labour Program — Equi'Vision Employment Equity Dashboard | Canada · Federal | Dashboard | Search and compare workforce representation rates and hourly/bonus/overtime pay gaps by employer, sector, or location for 530+ federally regulated private-sector employers; interactive Power BI. | https://equivision.services.gc.ca/ |
+| ESDC Labour Program — Minimum Wage Database | Canada · Federal | Lookup tool | Look up current and forthcoming general minimum wage rates for every province and territory, special rates for students and specific occupations, plus historical rates back to 1965 via custom search. | https://minwage-salairemin.service.canada.ca/en/index.html |
+| ESDC Labour Program — Negotech Collective Agreements Library | Canada · Federal | Lookup tool | Full-text search of federal and provincial collective agreements by employer, union, NAICS industry, NOC occupation, dates, employee count and jurisdiction; multiple renewals, PDF downloads. | https://negotech.service.canada.ca/search/index.html |
 | GC Jobs — Government of Canada Jobs | Canada · Federal | Job search | Search and apply for federal public service positions across all departments and agencies through the Public Service Commission's hiring portal. | https://www.canada.ca/en/services/jobs/opportunities/government.html |
 | Job Bank Canada — Job Search | Canada · Federal | Job search | Official job search tool with 56,000+ postings, filters by location, salary, hours, education | https://www.jobbank.gc.ca/findajob |
 | Job Bank Canada — Labour Market Information | Canada · Federal | Labour data | Employment trends, occupation outlook, and market data explorer | https://www.jobbank.gc.ca/trend-analysis |
@@ -1095,6 +1104,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | National Occupational Classification (NOC) | Canada · Federal | Classification | Search Canada's standard occupational taxonomy used for job postings, immigration, and LMI | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/6-months-work-experience.html |
 | Record of Employment (ROE) Web | Canada · Federal | Service | Online employer portal for submitting Records of Employment electronically to Service Canada | https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/roe-secure-online.html |
 | Red Seal Program — Skilled Trades | Canada · Federal | Certification | National Red Seal standard for skilled trades — occupation list, exams, and recognized trades | https://red-seal.ca/ |
+| Service Canada — Wage Earner Protection Program Application | Canada · Federal | Apply online | Apply online within 56 days for up to $9,275 (2026) in unpaid wages, vacation pay and severance owed when an employer goes bankrupt or into receivership; eligibility and payment details. | https://www.canada.ca/en/employment-social-development/services/wage-earner-protection/employee.html |
 
 ### British Columbia
 
@@ -1102,6 +1112,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | WorkBC Job Board — Search Jobs | British Columbia · Provincial | Job search board | Provincial government job board with thousands of postings searchable by keyword, region, industry, occupation and wage, plus high-opportunity occupations and 10-year Labour Market Outlook data. | https://www.workbc.ca/find-job/search-jobs |
 | WorkSafeBC | British Columbia · Provincial | Regulator | BC's workers' compensation and occupational health and safety regulator | https://www.worksafebc.com/ |
+| WorkSafeBC — Industry Health & Safety Data Dashboards | British Columbia · Provincial | Dashboard | Interactive dashboards of BC injury rates, claim costs, inspections, orders and penalties by industry over 10 years; filter serious injuries and deaths by region, occupation and age. | https://www.worksafebc.com/en/about-us/data-insights/industry-health-safety-data |
 
 ### Alberta
 
@@ -1109,18 +1120,22 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alberta Labour Statistics | Alberta · Provincial | Statistics portal | Office of Statistics and Information labour data: monthly labour market notes, 10-year occupational outlook, wage and salary survey, job vacancies and economic dashboard indicators. | https://www.alberta.ca/labour-statistics |
 | WCB Alberta | Alberta · Provincial | Regulator | Alberta's workers' compensation board — claims, employer accounts, and prevention resources | https://www.wcb.ab.ca/ |
+| WCB-Alberta — Premium Rate Manual Search | Alberta · Provincial | Lookup tool | Search or browse all WCB-Alberta industry classification codes and current premium rates per $100 of assessable earnings by sector, rate group and industry; keyword or code search. | https://rm.wcb.ab.ca/WCB.RateManual.WebServer/ |
 
 ### Saskatchewan
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Saskatchewan — OH&S Prosecution Outcomes and Statistics | Saskatchewan · Provincial | Enforcement database | Searchable tables of occupational health and safety convictions, fines and acquittals under The Saskatchewan Employment Act, fiscal years 2007-08 to present, plus penalty statistics. | https://www.saskatchewan.ca/business/safety-in-the-workplace/enforcements-prosecutions-and-investigations/prosecution-outcomes-and-statistics |
+| Saskatchewan WCB — Classification Index & Premium Rates | Saskatchewan · Provincial | Lookup tool | Filterable online index of every Saskatchewan WCB industry class code (10 schedules, 50 groups) with current-year premium rates, plus downloadable 2026 premium rate summary sheet PDF. | https://www.wcbsask.com/classification |
 | Saskatchewan Workers' Compensation Board | Saskatchewan · Provincial | Regulator | File and track workplace injury claims and employer accounts with Saskatchewan's WCB | https://www.wcbsask.com/ |
+| SaskJobs — Provincial Job Search Board | Saskatchewan · Provincial | Job search board | Government-run Saskatchewan job board with ~9,600 live postings searchable by occupation, region and community via interactive map; covers health, trades, sales, oil/gas and more. | https://www.saskjobs.ca/ |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba Workplace Safety and Health — Stop Work Orders, Penalties & Convictions | Manitoba · Provincial | Enforcement database | Published lists of Manitoba WSH stop work orders, administrative penalties and court convictions under the Workplace Safety and Health Act, browsable to check any employer's enforcement history. | https://www.gov.mb.ca/labour/safety/compliance.html |
 | WCB Manitoba | Manitoba · Provincial | Regulator | Manitoba's workplace injury insurance — online claims, clearances, and employer services | https://www.wcb.mb.ca/ |
 
 ### Ontario
@@ -1136,13 +1151,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| CNESST — Online Complaint Filing (Dépôt d'une plainte) | Quebec · Provincial | Self-service portal | Start an official CNESST complaint online: guided eligibility questionnaire routes unpaid wages, harassment, reprisal and other labour standards recours. | https://www.cnesst.gouv.qc.ca/fr/service-clientele/plaintes-recours/depot-plainte |
+| CNESST — Premium Rate Lookup (Taux de prime) | Quebec · Provincial | Lookup tool | Look up Quebec workplace-safety insurance premium rates per $100 payroll by classification unit; official annual Table des taux PDF and rate components. | https://www.cnesst.gouv.qc.ca/fr/demarches-formulaires/employeurs/assurance-sante-securite-travail/tarification/taux-prime |
 | CNESST — Quebec Labour Standards | Quebec · Provincial | Regulator | Quebec commission on labour standards, pay equity, occupational health, and work accidents — open data portal with downloadable datasets on workplace injuries, active establishments, and accepted deaths | https://www.donneesquebec.ca/recherche/dataset?organization=cnesst |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Post-Secondary Education, Training and Labour (PETL) — NBjobs Hiring Demand Bulletins & LMI | New Brunswick · Provincial | Dashboard | PETL-run labour market hub: regional online job-ad hiring demand dashboards, labour force statistics, sector profiles and outlook reports based on live job-postings data. | https://www.nbjobs.ca/stats/hiringdemand |
 | WorkSafeNB | New Brunswick · Provincial | Regulator | New Brunswick's workplace health, safety, and compensation services — claims and employer accounts online | https://www.worksafenb.ca/ |
+| Department of Labour, Skills and Immigration — Licensed Foreign Worker Recruiter Registry | Nova Scotia · Provincial | Registry | Public registry of every Foreign Worker Recruiter Licence issued by the Labour Standards Division: licensee, business, expiry date, conditions, with each licence as a downloadable PDF. | https://novascotia.ca/lae/employmentrights/fw/licensedrecruiters.asp |
 | WCB Nova Scotia | Nova Scotia · Provincial | Regulator | Workplace injury insurance for Nova Scotia — online claim services for workers and employers | https://www.wcb.ns.ca/ |
 | WCB Prince Edward Island | PEI · Provincial | Regulator | Workers compensation services for PEI — claims, clearances, and workplace safety resources | https://www.wcb.pe.ca/ |
 | WorkPEI | PEI · Provincial | Job board | Government-run one-stop employment site: searchable job board, job seeker profiles and alerts, employer directory, labour market info dashboard, occupation profiles and economic indicators. | https://workpei.ca/ |
@@ -1309,6 +1328,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | IRCC — Post-Graduation Work Permit | Canada · Federal | Service | Apply for a PGWP after graduating from a designated Canadian learning institution | https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation.html |
 | IRCC — Provincial Nominee Program (PNP) Directory | Canada · Federal | Finder | Links to every provincial and territorial nominee program and its streams | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html |
 | IRCC — Study Permit Application | Canada · Federal | Service | Apply for a Canadian study permit and access designated-learning institution list | https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html |
+| Pier 21 — Passenger List Database | Canada · Federal | Lookup tool | Searchable, sortable index of 100,000+ passenger arrivals at Pier 21 (1928–1971 gateway era): name, honourific, departure date and ship, for genealogy and immigration-history research. | https://pier21.ca/immigration-records/passenger-list-database |
 
 ### British Columbia
 
@@ -2272,6 +2292,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Space Agency — Open Data Portal | Canada · Federal | Open data catalogue | Download RADARSAT-1/RCM Earth-observation imagery (TIFF), Antarctica/Africa mosaics and NEOSSat astronomy datasets; CKAN API access. | https://donnees-data.asc-csa.gc.ca/en/dataset/ |
 | Canadian Space Agency — RADARSAT Constellation Data | Canada · Federal | Data | Earth-observation data from the RADARSAT Constellation Mission (RCM) | https://www.asc-csa.gc.ca/eng/satellites/radarsat/ |
 | CIHR — Funding Decisions Database | Canada · Federal | Research grants database | Search funded health-research grants and awards by researcher, institution, competition or keyword, with dollar amounts committed over the life of each grant. | https://webapps.cihr-irsc.gc.ca/decisions/p/main.html?lang=en |
+| Ingenium — Collection API | Canada · Federal | Collection API | REST API over Ingenium's 150,000+ science-and-tech artifacts (agriculture, aviation, science museums): search, record lookup, more-like-this. Free API key; OpenAPI docs; bulk CSV/XML export. | https://api.ingeniumcanada.org/en/api_docs/ |
 | Library and Archives Canada — Theses Canada | Canada · Federal | Theses portal | Search 425,000+ Canadian university theses and dissertations back to 1965 and read 200,000+ of them free in full text. | https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/search-theses-canada.aspx |
 | National Research Council — IR Aerospace Research Centre | Canada · Federal | Research | NRC aerospace research facilities, services, and partnership programs | https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/aerospace-research-centre |
 | NRC — Certified Reference Materials Catalogue | Canada · Federal | Catalogue and store | Browse and order NRC's SI-traceable certified reference materials for food, environment, health, and critical-minerals lab work, with certificates for each material. | https://nrc.canada.ca/en/certifications-evaluations-standards/certified-reference-materials/list |
@@ -2333,6 +2354,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Bank of Canada — Exchange Rates | Canada · Federal | Currency data | Daily exchange rates, historical data, and currency converter | https://www.bankofcanada.ca/rates/exchange/ |
 | Bank of Canada — Interest Rates | Canada · Federal | Rates data | Current and historical interest rates, monetary policy summaries, and research | https://www.bankofcanada.ca/rates/ |
+| Canada Council Art Bank — Collection Search & Open Data | Canada · Federal | Collection search | Search the world's largest contemporary Canadian art collection — 17,000+ works by 3,000+ artists; full collection dataset downloadable as CSV or Excel via Canada Council data tables. | https://artbank.ca/ |
 | Canadian Conservation Institute — CCI Notes | Canada · Federal | Publication series | 100+ free illustrated guides on care, handling and storage of cultural objects — metals, paintings, paper, textiles, photographs, emergency planning. HTML/PDF. | https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes.html |
 | Canadian Heritage — Virtual Exhibits | Canada · Federal | Digital exhibits | Digital heritage exhibits and museum resources | https://www.canada.ca/en/canadian-heritage/services/virtual-exhibits.html |
 | Canadian Museum for Human Rights | Canada · Federal | Museum | National museum in Winnipeg dedicated to the evolution, celebration, and future of human rights in Canada | https://humanrights.ca/ |
@@ -2345,6 +2367,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Historica Canada — Heritage Minutes | Canada · Federal | Educational videos | Educational video shorts on Canadian history moments and figures | https://www.historicacanada.ca/ |
 | National Film Board — Online Screening Room | Canada · Federal | Streaming | Free streaming of Canadian documentaries, animations, and interactive works | https://www.nfb.ca/ |
 | National Gallery of Canada — Collection Search | Canada · Federal | Art collection | Explore the national art collection online with high-resolution images | https://www.gallery.ca/ |
+| Telefilm Canada — Funded Projects Directory | Canada · Federal | Funding registry | Searchable directory of every Canadian feature film financed by Telefilm since FY2013-14 across development, production, marketing and Talent to Watch programs, filterable by fiscal year. | https://telefilm.ca/en/who-we-are/directories/funded-projects-directory |
 | TERMIUM Plus | Canada · Federal | Language database | The Government of Canada's terminology bank — millions of terms in English, French, Spanish and Portuguese from the Translation Bureau, one of the largest in the world. | https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng |
 | Forillon National Park | Parks Canada · Federal | National park | Gaspé Peninsula tip, marine life, historic buildings, hiking | https://parks.canada.ca/forillon |
 | Fundy National Park | Parks Canada · Federal | National park | World's highest tides, bay of Fundy coastline, historic covered bridges | https://parks.canada.ca/fundy |
@@ -2418,11 +2441,16 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Artefacts Canada | Canada · Federal | Collections database | Search 4 million object records and 1 million images contributed by museums across Canada, maintained by the Canadian Heritage Information Network. | https://app.pch.gc.ca/application/artefacts_hum/indice_index.app?lang=en |
+| Canadian Conservation Institute — Agents of Deterioration | Canada · Federal | Reference | Comprehensive illustrated reference on the 10 primary agents of deterioration (light, pests, water, theft, fire...) threatening heritage collections, with risk-assessment and prevention guidance. | https://www.canada.ca/en/conservation-institute/services/agents-deterioration.html |
+| Canadian Conservation Institute — Light Damage Calculator | Canada · Federal | Interactive tool | Estimate how colourants and museum collections fade under any lighting scenario: pick a colourant or collection type, set lux/hours, view predicted colour swatches. Three interactive variants. | https://app.pch.gc.ca/application/cdl-ldc/description-about.app?lang=en |
 | Canadian Heraldic Authority — Public Register of Arms, Flags and Badges | Canada · Federal | Searchable register | Search 6,700+ officially granted Canadian coats of arms, flags, and military badges, with images and blazons, from the Canadian Heraldic Authority. | https://pubreg.gg.ca/ |
 | Canadian Register of Historic Places | Canada · Federal | Heritage register | Pan-Canadian register (federal-provincial partnership) documenting 12,000+ recognized historic places: federal heritage designations, provincial registers, and municipal landmarks with statements of significance. | https://www.historicplaces.ca/en/pages/1_home.aspx |
+| Canadian War Museum — Online Exhibitions | Canada · Federal | Virtual exhibits | Two dozen free online exhibitions from Canada's national military museum: veterans' oral histories, D-Day, First World War, war art, naval history, medals and propaganda poster archives. | https://www.warmuseum.ca/dod/online-exhibitions |
+| Library and Archives Canada — Canadian Directories Collection (1790–1906) | Canada · Federal | Full-text archive | Full-text keyword search across ~95 digitized pre-1901 Canadian city, county and provincial directories (incl. Ottawa and Halifax runs); hits link directly to scanned directory pages. | https://www.bac-lac.gc.ca/eng/discover/directories-collection/pages/directories-collection.aspx |
 | Library and Archives Canada — Census Records | Canada · Federal | Genealogy database | Free searchable Canadian census records from 1825 to 1931, searchable by name, province and district — the backbone of Canadian genealogy research. | https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/censuses/Pages/censuses.aspx |
 | Library and Archives Canada — Co-Lab | Canada · Federal | Crowdsourcing platform | Transcribe, tag, translate and describe digitized LAC archival records — WWI personnel files, Treaty 9 photographs, Expo 67 — opening Canada's digital collection to search. | https://colab.bac-lac.gc.ca/eng |
 | Library and Archives Canada — Collection Search | Canada · Federal | Archive search | Single search across 26+ LAC databases: archival documents, genealogy sources, military service records, published books, maps, images and sound recordings. | https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search |
+| Library and Archives Canada — Home Children Database (1869–1932) | Canada · Federal | Genealogy database | Search 245,000+ indexed names of British Home Children by surname, given name, ship and year of arrival; entries link to passenger lists, inspection reports and Immigration Branch files. | https://www.bac-lac.gc.ca/eng/discover/immigration/immigration-records/home-children-1869-1930/immigration-records/pages/immigration-records.aspx |
 | Library and Archives Canada — Land Grants of Western Canada | Canada · Federal | Genealogy database | Search 670,000+ letters patent for homestead land grants in Manitoba, Saskatchewan, Alberta and the BC railway belt (1870–1930) by name, location or keyword. | https://www.bac-lac.gc.ca/eng/discover/land/land-grants-western-canada-1870-1930/Pages/land-grants-western-canada.aspx |
 | Library and Archives Canada — Naturalization Records (1915–1951) | Canada · Federal | Genealogy database | Search 200,000+ people who became naturalized Canadians between 1915 and 1951 by name or country of origin, with digitized Canada Gazette pages and file references. | https://bac-lac.gc.ca/eng/discover/immigration/citizenship-naturalization-records/naturalized-records-1915-1951/Pages/introduction.aspx |
 | Library and Archives Canada — Passenger Lists (1865–1935) | Canada · Federal | Genealogy database | Search 4.8 million names from ship passenger lists arriving at Quebec, Halifax, Saint John, Vancouver and Victoria, 1865–1935 — core records of immigrant arrivals. | https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/passenger-lists-1865-1935.html |
@@ -2623,6 +2651,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Department of Natural Resources and Energy Development — Fire Watch & Wildfire Dashboard | New Brunswick · Provincial | Interactive dashboard and burn map | Live wildfire dashboard with fire status updates plus a province-wide map of daily burn conditions updated at 2 p.m.; permits info and active-fire alerts. | https://www.gnb.ca/en/topic/laws-safety/emergency-preparedness-alerts/fire-watch.html |
 | NL Daily Wildfire Risk & Active Wildfires | Newfoundland and Labrador · Provincial | Wildfire hazard map | Daily Fire Weather Index map by region from Forestry, Agriculture and Lands, plus the NL Active Wildfires dashboard showing location, status and size of ongoing wildfires. | https://www.gov.nl.ca/fal/wildfiremanagement/fire-hazard-map/ |
+| WorkplaceNL — Certification Training Registry (CTR) Course Marketplace | Newfoundland and Labrador · Provincial | Lookup tool | Search the marketplace of WorkplaceNL-approved OHS training providers and courses, with workers' certification records stored electronically. | https://ctr.bluedrop.io/ |
 | Halifax — Police Crime Mapping | Halifax · Municipal | Interactive crime map | See recent Halifax crimes on a map updated daily — search five crime types by street name or community for the last day, four days or week. | https://www.halifax.ca/safety-security/police/crime-mapping |
 
 ### Northern Canada (YT, NT, NU)
@@ -2630,6 +2659,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | NWT Wildfire Update (ECC) | Northwest Territories · Provincial | Fire status dashboard | GNWT Environment & Climate Change wildfire hub: live fire map with satellite hotspots, regional updates for all five regions, active-fire counts, hectares burned, smoke forecast and evacuation links. | https://www.ecc.gov.nt.ca/en/services/wildfire-update |
+| Workers' Safety and Compensation Board (WSCB) — WHS Regulations Search | Yukon · Provincial | Lookup tool | Full-text browse/search of Yukon's Occupational Health and Safety Regulations in 19 parts plus WHMIS, diving and radiation rules — the board's consolidated HTML regulations library. | https://www.wcb.yk.ca/regulations |
 | Yukon Wildfires Map (Wildland Fire Management) | Yukon · Provincial | Fire map | Live Government of Yukon map of active wildfires and prescribed burns with status, size, response type, plus fire danger ratings and fire ban information across the territory. | https://wildfires.service.yukon.ca/ |
 
 ## ⚖️ Justice, Courts & Legal
