@@ -101,7 +101,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Statistics Canada Developers | Canada · Federal | Developer/data access | APIs and structured access for developers and researchers | https://www.statcan.gc.ca/en/developers |
 | TBS — GC Service Inventory Dataset | Canada · Federal | Open dataset | Download CSVs listing every service federal departments deliver — volumes, online availability, service standards, and performance results from 2018 onward. | https://open.canada.ca/data/en/dataset/3ac0d080-6149-499a-8b06-7ce5f00ec56c |
 | Toporama — Atlas of Canada | Canada · Federal | Interactive map | Dynamic topographic map viewer covering all of Canada with toggleable layers (contours, hydrography, transportation), distance measurement, water flow tracing, and free data downloads. | https://atlas.gc.ca/toporama/en/index.html |
-| Canadian Urban Transit Association — Stats Dashboard | Canada · Agency | Transit data | National ridership, fare, and service data for Canadian transit systems | https://cutaactu.ca/ |
+| Canadian Urban Transit Association — Stats Dashboard | Canada · Agency | Transit data | National ridership, fare, and service data for Canadian transit systems | https://cutaactu.ca/reports-resources/statistics/ |
 
 ### British Columbia
 
