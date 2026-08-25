@@ -212,6 +212,61 @@
     ]
   },
   {
+    "name": "Agriculture & Irrigation — Alberta Soil Information Viewer",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "agriculture",
+    "type": "Interactive map",
+    "description": "Query AGRASID soil types, land suitability ratings and elevation profiles per quarter section across Alberta's 26-million-hectare farm region; GIS spatial data available.",
+    "url": "https://soil.agric.gov.ab.ca/agrasidviewer/",
+    "tags": [
+      "agriculture",
+      "soil",
+      "gis",
+      "mapping",
+      "agronomy",
+      "spatial-data"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Agricultural Land Commission — ALR Property and Map Finder",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "agriculture",
+    "type": "Interactive map",
+    "description": "Check if any BC parcel is inside the Agricultural Land Reserve by PID or address; view ALC applications, print 1:20k mapsheets, download quarterly ALR shapefiles and KMZ.",
+    "url": "https://www.alc.gov.bc.ca/alr-maps/",
+    "tags": [
+      "alr",
+      "land-use",
+      "farming",
+      "parcels",
+      "gis",
+      "shapefile",
+      "kmz"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Manitoba Agriculture — Crop Markets and Statistics",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "agriculture",
+    "type": "Statistical datasets",
+    "description": "Download Manitoba crop statistics as XLSX: acreage/yield/production 1965–2025, costs of production 1981–2026, grain stocks, deliveries, elevator capacity, plus sector profiles (PDF).",
+    "url": "https://www.gov.mb.ca/agriculture/markets-and-statistics/crop-statistics/index.html",
+    "tags": [
+      "crops",
+      "statistics",
+      "xlsx",
+      "pdf",
+      "grain",
+      "markets"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "MASC — Management Plus Municipal Yield Data",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -225,6 +280,42 @@
       "manitoba",
       "municipal data"
     ]
+  },
+  {
+    "name": "Department of Agriculture, Aquaculture and Fisheries — GIS Open Data Download",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "agriculture",
+    "type": "Dataset downloads (SHP/KML)",
+    "description": "Daily-updated shapefile/KML downloads: farm locations (ARMS), maple sugary potential, marine aquaculture lease sites for finfish, shellfish and lobster, and rockweed sectors.",
+    "url": "https://www2.gnb.ca/content/gnb/en/departments/10/open-data/data_download.html",
+    "tags": [
+      "agriculture",
+      "aquaculture",
+      "shapefile",
+      "kml",
+      "gis",
+      "farms"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Ministry of Agriculture, Food and Agribusiness — AgMaps",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Interactive map",
+    "description": "Build custom farm maps: assessment-parcel search, aerial imagery, soils, drainage, erosion-potential and CLI layers; annotate and export maps for farm programs.",
+    "url": "https://www.lioapplications.lrc.gov.on.ca/AgMaps/Index.html?viewer=AgMaps.AgMaps&locale=en-CA",
+    "tags": [
+      "agriculture",
+      "gis",
+      "maps",
+      "parcels",
+      "soils",
+      "imagery"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "OMAFA — Field Crops Statistics",
@@ -615,6 +706,22 @@
       "airport",
       "Vancouver"
     ]
+  },
+  {
+    "name": "Ministry of Transportation and Infrastructure — Provincial Ferry Schedules and Rates",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "aviation-marine",
+    "type": "Schedule Lookup",
+    "description": "Summary of all 15 intra-provincial ferry routes with links to seasonal schedules, vessels, crossing times and fare rates, from Bell Island to Labrador coastal ports.",
+    "url": "https://www.gov.nl.ca/ti/ferryservices/schedules/",
+    "tags": [
+      "ferries",
+      "schedules",
+      "marine",
+      "transportation"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Quebec ferry — Traverse Québec–Lévis",
@@ -1093,6 +1200,23 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Treasury Board & Finance — Budget 2026 Documents",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "budget",
+    "type": "Government publications",
+    "description": "Download detailed Budget 2026 fiscal plan documents covering revenue, expense, capital plan ($28.3B over 3 years), economic outlook and ministry business plans.",
+    "url": "https://www.alberta.ca/budget",
+    "tags": [
+      "budget",
+      "fiscal-plan",
+      "government-spending",
+      "capital-plan",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Auditor General of British Columbia",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -1136,6 +1260,23 @@
       "reports"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Manitoba Finance — Budget 2026",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "budget",
+    "type": "Budget documents",
+    "description": "Download Manitoba Budget 2026 documents — full budget book, budget speech, Estimates of Expenditure and Budget in Brief (PDF) — with archives of prior provincial budgets.",
+    "url": "https://www.gov.mb.ca/budget2026/index.html",
+    "tags": [
+      "budget",
+      "estimates",
+      "expenditure",
+      "pdf",
+      "finance"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Auditor General of New Brunswick",
@@ -1196,6 +1337,22 @@
       "reports"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Department of Finance and Treasury Board — Budget Documents",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "budget",
+    "type": "Budget portal + document library",
+    "description": "Current Budget 2026-27 hub plus archives: downloadable estimates and supplementary detail, four-year fiscal plans, business plans and capital plan PDFs for every department.",
+    "url": "https://novascotia.ca/budget/",
+    "tags": [
+      "budget",
+      "estimates",
+      "public-finance",
+      "spending"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Nova Scotia Awarded Public Tenders",
@@ -3398,6 +3555,23 @@
     ]
   },
   {
+    "name": "Service New Brunswick — Corporate Registry Search",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "business",
+    "type": "Public registry lookup",
+    "description": "Keyword-search the provincial registry of business corporations, non-profits, partnerships, business names and condominium corporations; buy certificates and filings online.",
+    "url": "https://www2.snb.ca/content/snb/en/sites/corporate-registry.html",
+    "tags": [
+      "corporate-registry",
+      "business-names",
+      "search",
+      "incorporation",
+      "nonprofits"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Newfoundland and Labrador — Companies and Deeds Online (CADO)",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",
@@ -3762,6 +3936,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "IRAC — Current Regulated Petroleum Prices",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "consumer",
+    "type": "Regulated price schedule",
+    "description": "IRAC's regulated minimum/maximum pump prices for gasoline, diesel, furnace oil and propane, adjusted twice weekly, with pricing orders and notices (PDF).",
+    "url": "https://irac.pe.ca/petrol/current-petroleum-prices/",
+    "tags": [
+      "fuel-prices",
+      "gasoline",
+      "diesel",
+      "regulation"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Commission d'accès à l'information du Québec",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -3876,6 +4066,22 @@
       "government decisions",
       "transparency"
     ]
+  },
+  {
+    "name": "Ministry of Government Relations — Municipal Directory Search",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "council",
+    "type": "Lookup tool",
+    "description": "Look up any Saskatchewan municipality's office address, phone number and list of elected officials — cities, towns, villages and rural municipalities.",
+    "url": "https://www.saskatchewan.ca/government/municipal-administration/municipal-directory/search",
+    "tags": [
+      "municipal",
+      "directory",
+      "elected-officials",
+      "lookup"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Region of Waterloo Council Meetings",
@@ -6800,6 +7006,39 @@
     ]
   },
   {
+    "name": "Ministry of Education and Early Childhood Development — Early Learning and Child Care Directory",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "education",
+    "type": "Search Directory",
+    "description": "Map-based database of all regulated child care in NL — centres, family providers and agencies — searchable by community, route or child's age, with recent violation orders.",
+    "url": "https://www.childcare.gov.nl.ca/public/ccr/search",
+    "tags": [
+      "childcare",
+      "families",
+      "directory",
+      "map"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Department of Education and Early Childhood Development — Child Care Directory",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "education",
+    "type": "Dataset + lookup",
+    "description": "Search all ~338 active licensed daycares by county, city or program type; filter licence details, capacity, inspections and age ranges. CSV/GeoJSON/Socrata API downloads.",
+    "url": "https://data.novascotia.ca/Education-Early-Childhood/Child-Care-Directory/3j9v-yimg",
+    "tags": [
+      "child-care",
+      "daycare",
+      "licensing",
+      "open-data",
+      "families"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Nova Scotia Student Assistance",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -6857,6 +7096,22 @@
       "ontario",
       "trades"
     ]
+  },
+  {
+    "name": "Department of Education and Early Years — Official School Enrolment from 1999 (OD0009)",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "education",
+    "type": "Open dataset",
+    "description": "Official school-by-school enrolment counts since 1999 under the Open Government Licence – PEI; download CSV/Excel or query the feature service API.",
+    "url": "https://data.princeedwardisland.ca/datasets/e787cce54aaa46249a7f2e922dbad1b6/explore",
+    "tags": [
+      "schools",
+      "enrolment",
+      "statistics",
+      "open-data"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Aide financière aux études (Quebec)",
@@ -8431,6 +8686,24 @@
     ]
   },
   {
+    "name": "Ministry of Environment — BC Species & Ecosystems Explorer",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "environment",
+    "type": "Lookup tool",
+    "description": "Search BC's Conservation Data Centre by name, taxon group, Red/Blue/SARA status, biogeoclimatic unit or drawn/uploaded area to list species and ecosystems at risk.",
+    "url": "https://a100.gov.bc.ca/pub/eswp/",
+    "tags": [
+      "conservation",
+      "species-at-risk",
+      "wildlife",
+      "ecosystems",
+      "lookup",
+      "gis"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Manitoba Wildfire Service — FireView Map",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -8444,6 +8717,39 @@
       "map",
       "emergency"
     ]
+  },
+  {
+    "name": "Department of Environment and Local Government — Air Quality Data Portal",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "environment",
+    "type": "Real-time data portal",
+    "description": "Query current and historic air quality readings from all provincial and industry-run monitoring stations; hourly updates, charts, Excel export, 3 years of data.",
+    "url": "https://www.elgegl.gnb.ca/AirNB/",
+    "tags": [
+      "air-quality",
+      "monitoring",
+      "open-data",
+      "stations",
+      "excel-export"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Ministry of Environment and Climate Change — Environmental Assessment Projects Register",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "environment",
+    "type": "Public Register",
+    "description": "Filterable register of provincial environmental assessments since March 2000: browse projects by year with proponents, registration dates, status and release decisions.",
+    "url": "https://www.gov.nl.ca/eccc/env-assessment/projects-list/",
+    "tags": [
+      "environmental-assessment",
+      "projects",
+      "permits",
+      "registry"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "NL Water Resources Management Division Portal",
@@ -8460,6 +8766,23 @@
       "drinking-water",
       "monitoring"
     ]
+  },
+  {
+    "name": "Government of Northwest Territories — Water Management & Monitoring Data",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "environment",
+    "type": "Monitoring data downloads",
+    "description": "ECC water data hub: download water quality and water level monitoring data (CSV/Excel) for NWT community and transboundary stations, with links to Mackenzie DataStream and real-time feeds.",
+    "url": "https://www.gov.nt.ca/ecc/en/services/water-management-and-monitoring/data",
+    "tags": [
+      "water-quality",
+      "hydrology",
+      "monitoring",
+      "csv",
+      "northwest-territories"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Wildfire Nova Scotia Viewer (DNRR)",
@@ -8492,6 +8815,23 @@
       "health",
       "alerts"
     ]
+  },
+  {
+    "name": "Ministry of Natural Resources — Hunting Regulations Summary",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Regulations guide",
+    "description": "Annual hunt-and-trap guide: licences and fees, season dates and rules per game species (moose, deer, bear, turkey), WMU maps and mandatory reporting; full PDF download.",
+    "url": "https://www.ontario.ca/document/ontario-hunting-regulations-summary",
+    "tags": [
+      "hunting",
+      "wildlife",
+      "regulations",
+      "outdoors",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Ontario — Environmental Registry (ERO)",
@@ -8555,6 +8895,22 @@
     ]
   },
   {
+    "name": "Department of Environment, Energy and Climate Action — Water Well Records (OD0040)",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "environment",
+    "type": "Open dataset",
+    "description": "Records for wells drilled on PEI — location, construction details and groundwater level — downloadable as CSV/GeoJSON or queryable via ArcGIS API.",
+    "url": "https://data.princeedwardisland.ca/datasets/48e7e4de6ab84efaa610bd26d89eac55/explore",
+    "tags": [
+      "groundwater",
+      "wells",
+      "water",
+      "open-data"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Forêt ouverte",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -8569,6 +8925,25 @@
       "lidar",
       "mapping"
     ]
+  },
+  {
+    "name": "MELCCFP — Indice de la qualité de l'air (IQA)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "environment",
+    "type": "Dashboard",
+    "description": "Live hourly air quality index for ~60 monitoring stations on an interactive ArcGIS map (PM2.5, ozone, NO2, SO2, CO), plus a Power BI dashboard of good/acceptable/bad statistics since 2015.",
+    "url": "https://www.iqa.environnement.gouv.qc.ca/contenu/index.asp",
+    "tags": [
+      "quebec",
+      "air-quality",
+      "pollution",
+      "monitoring",
+      "map",
+      "dashboard",
+      "real-time"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Québec — Flood Zone Maps (Zones Inondables)",
@@ -8616,6 +8991,41 @@
       "Saskatchewan",
       "wildfire"
     ]
+  },
+  {
+    "name": "Water Security Agency — Stream Flows & Lake Levels",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "environment",
+    "type": "Dashboard",
+    "description": "Check near real-time provisional stream flow and lake levels from hydrometric gauges across 13 watersheds via an interactive web map and per-station hydrographs.",
+    "url": "https://wsask.ca/recreation-environment/lakes-and-rivers-overview/stream-flows-and-lake-levels/",
+    "tags": [
+      "water",
+      "hydrology",
+      "flood",
+      "real-time",
+      "map",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Government of Yukon — Waterline Public Registry",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "environment",
+    "type": "Public registry search",
+    "description": "Yukon Water Board's online registry: search water use licences and applications by number, name or community and view licence documents, status and conditions of issuance.",
+    "url": "https://apps.gov.yk.ca/waterline/",
+    "tags": [
+      "water",
+      "licences",
+      "registry",
+      "search",
+      "yukon"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Edmonton — Trees Map",
@@ -8988,6 +9398,24 @@
       "securities",
       "filings"
     ]
+  },
+  {
+    "name": "Ministry of Jobs, Economy & Trade — Alberta Economic Dashboard",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "finance",
+    "type": "Dashboard",
+    "description": "Build custom live dashboards of Alberta GDP, jobs, investment, tourism and trade indicators; search datasets, embed charts, plus regional and major-projects tools.",
+    "url": "https://economicdashboard.alberta.ca/",
+    "tags": [
+      "economic-data",
+      "indicators",
+      "gdp",
+      "employment",
+      "interactive",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "BC Securities Commission — InvestRight",
@@ -9449,6 +9877,24 @@
       "BC",
       "services"
     ]
+  },
+  {
+    "name": "Manitoba Education and Early Childhood Learning — Manitoba Child Care Search",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Map-based search of all licensed child care facilities in Manitoba; filter by age group, vacancies, hours, language and non-profit status, then view facility profiles.",
+    "url": "https://childcaresearch.gov.mb.ca/",
+    "tags": [
+      "child-care",
+      "lookup-tool",
+      "map",
+      "vacancies",
+      "licensed-facilities",
+      "early-learning"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Manitoba Geological Survey",
@@ -10111,6 +10557,22 @@
     ]
   },
   {
+    "name": "Department of Health — NB Health Link Patient Registry",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "health",
+    "type": "Patient registry and booking tool",
+    "description": "Register online if you lack a family doctor or nurse practitioner; book in-person, phone or virtual appointments and find clinic locations across the province.",
+    "url": "https://nbhealthlink.ca/",
+    "tags": [
+      "primary-care",
+      "patient-registry",
+      "appointments",
+      "family-doctor"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "NL Centre for Health Information — Health Reports",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",
@@ -10171,6 +10633,23 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Ministry of Long-Term Care — LTC Home Inspection Reports",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "health",
+    "type": "Lookup tool",
+    "description": "Search any licensed Ontario long-term care home by name or city to view ministry inspection reports, compliance orders, director actions and home profiles.",
+    "url": "https://publicreports.mltc.gov.on.ca/",
+    "tags": [
+      "health",
+      "long-term-care",
+      "inspections",
+      "reports",
+      "seniors"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Ontario — Drug Benefit Formulary Search",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -10227,6 +10706,22 @@
     ]
   },
   {
+    "name": "Health PEI — Emergency Department Wait Times",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "health",
+    "type": "Live dashboard",
+    "description": "Live estimated ER wait times for all four PEI hospital emergency departments (QEH, PCH, KCMH, Western), refreshed every five minutes.",
+    "url": "https://www.princeedwardisland.ca/en/information/health-pei/emergency-department-wait-times",
+    "tags": [
+      "wait-times",
+      "emergency",
+      "hospitals",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Info-Santé 811 (Québec)",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -10255,6 +10750,25 @@
       "surveillance",
       "wellness"
     ]
+  },
+  {
+    "name": "MSSS — Emergency Room Hourly Occupancy Data",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Open data feed",
+    "description": "Hourly CSV from the provincial ER console: stretcher patients per facility, plus counts waiting 24h/48h+ across every Quebec hospital; refreshed continuously as part of open government.",
+    "url": "https://msss.gouv.qc.ca/professionnels/statistiques-donnees-services-sante-services-sociaux/donnees-urgences/",
+    "tags": [
+      "quebec",
+      "health",
+      "emergency-room",
+      "hospital",
+      "wait-times",
+      "csv",
+      "real-time"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "eHealth Saskatchewan — Open Data & Public Reporting",
@@ -10996,6 +11510,23 @@
       "patrimoine",
       "quebec"
     ]
+  },
+  {
+    "name": "Ministry of Parks, Culture and Sport — Searching Saskatchewan Places",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "heritage",
+    "type": "Lookup tool",
+    "description": "Search 13,000+ geographic names and historic places designated under The Heritage Property Act by name, type, designation or municipality, with interactive GIS maps.",
+    "url": "https://www.saskatchewan.ca/residents/parks-culture-heritage-and-sport/heritage-conservation-and-commemoration/search-for-a-heritage-property",
+    "tags": [
+      "heritage",
+      "historic-places",
+      "geographic-names",
+      "gis",
+      "search"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Saskatchewan — Provincial Archives Collection Search",
@@ -11850,6 +12381,22 @@
     ]
   },
   {
+    "name": "Office of Immigration and Multiculturalism — AIP Designated Employers List",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "immigration",
+    "type": "Public Register",
+    "description": "Official register of employers designated for the Atlantic Immigration Program, listing each employer's communities, designation date and eligible NOC occupation codes.",
+    "url": "https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/atlantic-immigration-program/designated-employers/",
+    "tags": [
+      "immigration",
+      "employers",
+      "atlantic-immigration-program",
+      "jobs"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Ontario Immigrant Nominee Program (OINP)",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -12396,6 +12943,24 @@
       "regulations"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Alberta King's Printer — Laws Online Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "justice",
+    "type": "Lookup tool",
+    "description": "Search Alberta's official catalogue of acts, regulations and codes by title, chapter number or responsible ministry; most available free as consolidated HTML or PDF.",
+    "url": "https://kings-printer.alberta.ca/Laws_Online.cfm",
+    "tags": [
+      "legislation",
+      "statutes",
+      "regulations",
+      "lookup",
+      "pdf",
+      "html"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Legal Aid Alberta",
@@ -13399,6 +13964,27 @@
     ]
   },
   {
+    "name": "BC Energy Regulator — Data Centre",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Download 131 regulator datasets on wells, pipelines, facilities and liabilities: Well Index and Rig Activity CSVs, daily shapefile/KML/geodatabase zips, FracFocus disclosures.",
+    "url": "https://www.bc-er.ca/data-reports/data-centre/",
+    "tags": [
+      "energy",
+      "oil-and-gas",
+      "wells",
+      "pipelines",
+      "regulatory",
+      "csv",
+      "shapefile",
+      "kml",
+      "geodatabase"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "British Columbia — BC Address Geocoder API",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -13578,6 +14164,23 @@
     ]
   },
   {
+    "name": "Government of Northwest Territories — Spatial Data Warehouse Viewer",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "open-data",
+    "type": "Interactive GIS map & data downloads",
+    "description": "NWT Centre for Geomatics browser viewer over GNWT's Spatial Data Warehouse: browse, query and extract public geospatial data — imagery, land tenure, permafrost, wildlife — no GIS software needed.",
+    "url": "https://www.maps.geomatics.gov.nt.ca/Html5Viewer/index.html?viewer=SDW",
+    "tags": [
+      "gis",
+      "maps",
+      "spatial-data",
+      "geomatics",
+      "northwest-territories"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Northwest Territories Open Data",
     "level": "Provincial",
     "jurisdiction": "Northwest Territories",
@@ -13608,6 +14211,23 @@
     ]
   },
   {
+    "name": "Department of Natural Resources — Abandoned Mine Openings Database",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "open-data",
+    "type": "Downloadable geodatabase",
+    "description": "~8,500 documented shafts, adits, open cuts and workings across ~700 mining areas, searchable by hazard degree, commodity, county. Downloads: SHP, GDB, KML/KMZ, XLS.",
+    "url": "https://novascotia.ca/natr/meb/download/dp010.asp",
+    "tags": [
+      "mines",
+      "geology",
+      "geoscience",
+      "hazards",
+      "shapefile"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "GeoNova — Nova Scotia Geospatial Data",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -13636,6 +14256,23 @@
     ]
   },
   {
+    "name": "Government of Nunavut — Bureau of Statistics",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "open-data",
+    "type": "Statistics portal",
+    "description": "Nunavummit Kiglisiniartiit publications: statistical fact sheets for every community plus population, labour force, income, health, education and housing-survey tables.",
+    "url": "https://www.gov.nu.ca/en/nunavut-statistics",
+    "tags": [
+      "statistics",
+      "demographics",
+      "labour",
+      "housing",
+      "nunavut"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Nunavut Open Data Portal",
     "level": "Provincial",
     "jurisdiction": "Nunavut",
@@ -13648,6 +14285,23 @@
       "open data",
       "territorial"
     ]
+  },
+  {
+    "name": "Ministry of Finance — Ontario Population Projections",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Statistical dashboard",
+    "description": "Annual projections to 2051 for Ontario, 49 census divisions, health units and regions under reference/low/high scenarios; charts online plus XLSX table downloads.",
+    "url": "https://www.ontario.ca/page/ontario-population-projections",
+    "tags": [
+      "demographics",
+      "population",
+      "projections",
+      "statistics",
+      "xlsx"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Ontario Data Catalogue",
@@ -13701,6 +14355,60 @@
       "open data",
       "Quebec"
     ]
+  },
+  {
+    "name": "MAMH — Répertoire des municipalités du Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "open-data",
+    "type": "Reference dataset",
+    "description": "Daily-updated directory of every Quebec municipality and MRC: contacts, mayors and councillors, population decrees, regional affiliations and inactive organizations. Bulk XML downloads with related reference files.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/repertoire-des-municipalites-du-quebec",
+    "tags": [
+      "quebec",
+      "municipalities",
+      "directory",
+      "elected-officials",
+      "population",
+      "xml",
+      "reference"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Government of Saskatchewan — GeoHub Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Explore and download 180+ provincial GIS datasets (boundaries, environment, geoscience, agriculture) as GeoJSON/CSV via ArcGIS REST API or interactive maps.",
+    "url": "https://geohub.saskatchewan.ca/",
+    "tags": [
+      "open-data",
+      "gis",
+      "geojson",
+      "csv",
+      "api",
+      "maps"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Government of Yukon — GeoYukon Map Viewer",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "open-data",
+    "type": "Interactive GIS map & data downloads",
+    "description": "Explore, measure, print and download the Yukon government's authoritative spatial layers — mining claims, land tenure, forestry, wildlife, air photos and more — free in a browser viewer.",
+    "url": "https://mapservices.gov.yk.ca/GeoYukon/",
+    "tags": [
+      "gis",
+      "maps",
+      "spatial-data",
+      "land",
+      "yukon"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Yukon Open Data",
@@ -16453,6 +17161,23 @@
     ]
   },
   {
+    "name": "Department of Natural Resources and Renewables — Find a Provincial Park",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "parks",
+    "type": "Lookup/filterable directory",
+    "description": "Browse every provincial park filtered by region, activity (camping, beaches, hiking trails) and amenities (showers, electrical hookups, accessibility), with descriptions and maps.",
+    "url": "https://parks.novascotia.ca/parks/all/all",
+    "tags": [
+      "parks",
+      "camping",
+      "beaches",
+      "hiking",
+      "tourism"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Nova Scotia Provincial Parks",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -18348,6 +19073,44 @@
     ]
   },
   {
+    "name": "Public Safety & Emergency Services — Alberta Emergency Alert",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "safety",
+    "type": "Alert map & feed",
+    "description": "View critical and advisory emergency alerts on a live map, browse a 7-year alert archive, and subscribe province-wide via the official Atom/RSS feed or mobile apps.",
+    "url": "https://emergencyalert.alberta.ca/",
+    "tags": [
+      "emergencies",
+      "alerts",
+      "disaster",
+      "map",
+      "rss",
+      "atom",
+      "public-safety"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "BC Coroners Service — Death Statistics & Drug Toxicity Dashboard",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "safety",
+    "type": "Dashboard",
+    "description": "Explore unregulated-drug toxicity deaths by month, age, sex, health authority and drug detected via an interactive dashboard, plus PDF statistical reports on drownings, crashes and more.",
+    "url": "https://www2.gov.bc.ca/gov/content/life-events/death/coroners-service/statistical-reports",
+    "tags": [
+      "coroners",
+      "overdose",
+      "mortality",
+      "statistics",
+      "public-health",
+      "dashboard",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "EmergencyInfoBC — Active Emergencies and Evacuation Orders",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -18362,6 +19125,22 @@
       "disaster",
       "evacuation"
     ]
+  },
+  {
+    "name": "Department of Natural Resources and Energy Development — Fire Watch & Wildfire Dashboard",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "safety",
+    "type": "Interactive dashboard and burn map",
+    "description": "Live wildfire dashboard with fire status updates plus a province-wide map of daily burn conditions updated at 2 p.m.; permits info and active-fire alerts.",
+    "url": "https://www.gnb.ca/en/topic/laws-safety/emergency-preparedness-alerts/fire-watch.html",
+    "tags": [
+      "wildfire",
+      "burn-permits",
+      "dashboard",
+      "emergency-preparedness"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "NL Daily Wildfire Risk & Active Wildfires",
@@ -18408,6 +19187,26 @@
     ]
   },
   {
+    "name": "SOPFEU — Interactive Wildfire Map",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "safety",
+    "type": "Interactive map",
+    "description": "Real-time map of active forest fires (size, status, cause), fire danger index by zone, and current burn restrictions across Quebec, with saved locations and email alerts; updated daily at 9am.",
+    "url": "https://www.sopfeu.qc.ca/carte/",
+    "tags": [
+      "quebec",
+      "wildfire",
+      "forest-fire",
+      "fire-danger",
+      "restrictions",
+      "map",
+      "alerts",
+      "real-time"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "Vigilance — Surveillance de la crue des eaux",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -18422,6 +19221,23 @@
       "hydrology",
       "monitoring"
     ]
+  },
+  {
+    "name": "SaskAlert — Provincial Emergency Alert System",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "safety",
+    "type": "Lookup tool",
+    "description": "View current Saskatchewan emergency alerts (wildfires, floods, severe weather) by area and get notification info from the SPSA's official alerting service.",
+    "url": "https://www.saskalert.ca/",
+    "tags": [
+      "emergency",
+      "alerts",
+      "public-safety",
+      "wildfire",
+      "map"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Yukon Wildfires Map (Wildland Fire Management)",
@@ -19694,6 +20510,23 @@
     ]
   },
   {
+    "name": "Ministry of Industry, Energy and Technology — GeoScience Atlas",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "science",
+    "type": "Interactive Map",
+    "description": "Geological Survey map viewer for bedrock geology, mineral occurrences, mining claims, geophysics and geochemistry, with spatial queries plus data and map downloads.",
+    "url": "https://geoatlas.gov.nl.ca/",
+    "tags": [
+      "geology",
+      "mining",
+      "minerals",
+      "maps",
+      "open-data"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "GeologyOntario — Ontario Geological Survey Database",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -19708,6 +20541,23 @@
       "ontario",
       "research"
     ]
+  },
+  {
+    "name": "Department of Fisheries, Tourism, Sport and Culture — Oyster Monitoring Program Results (OD0027)",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "science",
+    "type": "Monitoring dataset",
+    "description": "Estuarial sampling results from the provincial oyster larvae monitoring program: site, temperature, larvae counts and concentration ratings; CSV/GeoJSON downloads.",
+    "url": "https://data.princeedwardisland.ca/datasets/968d606d569143c2aa69222d23696279/explore",
+    "tags": [
+      "fisheries",
+      "aquaculture",
+      "oyster",
+      "monitoring",
+      "open-data"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "SIGEOM — Québec Geoscientific Data",
@@ -21260,6 +22110,23 @@
     ]
   },
   {
+    "name": "Manitoba Transportation and Infrastructure — Spring Road Restrictions Maps",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "transport-roads",
+    "type": "Map collection",
+    "description": "Print current-year spring weight-restriction maps for provincial highways by region (11 zone PDFs plus Winnipeg enlargement) alongside the legal Spring Road Restrictions Order.",
+    "url": "https://www.gov.mb.ca/mti/srr/srrmap.html",
+    "tags": [
+      "highways",
+      "trucking",
+      "weight-restrictions",
+      "maps",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "New Brunswick 511",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -21444,6 +22311,27 @@
       "highways",
       "winter-driving"
     ]
+  },
+  {
+    "name": "MTMD — Débit de circulation (Traffic Flow Dataset)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "transport-roads",
+    "type": "Dataset",
+    "description": "Estimated traffic volumes (annual, summer and winter average daily flow) for every provincial road segment from 4,500+ count sites. Downloads in CSV, GeoJSON, SHP, GPKG plus WMS/WFS services.",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/debit-de-circulation",
+    "tags": [
+      "quebec",
+      "traffic",
+      "roads",
+      "highways",
+      "transport-planning",
+      "csv",
+      "geojson",
+      "shp",
+      "wfs"
+    ],
+    "dateAdded": "2026-08-24"
   },
   {
     "name": "Quebec 511",
