@@ -155,6 +155,7 @@
         const val = cb.value;
         if (cb.checked) activeFilters[key].add(val);
         else activeFilters[key].delete(val);
+        acTrack('filter_directory', { filter_type: key, filter_value: val, action: cb.checked ? 'add' : 'remove' });
         currentPage = 1;
         applyFilters();
       });
@@ -163,11 +164,16 @@
 
   // Search
   let searchTimeout;
+  let lastTrackedSearch = '';
   searchInput.addEventListener('input', () => {
     clearTimeout(searchTimeout);
     searchTimeout = setTimeout(() => {
       activeFilters.search = searchInput.value.trim().toLowerCase();
       searchClear.classList.toggle('visible', activeFilters.search.length > 0);
+      if (activeFilters.search && activeFilters.search !== lastTrackedSearch) {
+        lastTrackedSearch = activeFilters.search;
+        acTrack('search', { search_term: activeFilters.search.slice(0, 100) });
+      }
       currentPage = 1;
       applyFilters();
     }, 300);
@@ -184,6 +190,7 @@
   // Sort
   sortSelect.addEventListener('change', () => {
     if (sortSelect.value.startsWith('likes-')) likesSortToken++; // supersede in-flight sorts
+    acTrack('sort_directory', { sort_option: sortSelect.value });
     currentPage = 1;
     applyFilters();
   });
@@ -201,6 +208,7 @@
   viewBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       setView(btn.dataset.view);
+      acTrack('switch_view', { view: btn.dataset.view });
       renderResults();
       writeStateToUrl();
     });
@@ -595,6 +603,7 @@
         cooldowns[url] = d.nextEligibleAt;
         saveCooldowns();
         paintLikeButtons(url, true);
+        acTrack('like_resource', { item_name: (btn.getAttribute('aria-label') || '').replace(/^Like /, '').slice(0, 100) });
       } else if (d.error === 'cooldown' && d.nextEligibleAt) {
         likeCounts[url] = prev;
         cooldowns[url] = d.nextEligibleAt;
@@ -622,10 +631,22 @@
       likeResource(btn);
       return;
     }
+    const cardLink = e.target.closest('a.card-main-link');
+    if (cardLink) {
+      const name = cardLink.querySelector('.card-title');
+      acTrack('select_resource', { source: 'grid', item_name: (name ? name.textContent : '').trim().slice(0, 100) });
+      return;
+    }
+    const tableLink = e.target.closest('.table-name a');
+    if (tableLink) {
+      acTrack('select_resource', { source: 'table', item_name: tableLink.textContent.trim().slice(0, 100) });
+      return;
+    }
     const tItem = e.target.closest('.trending-item');
     if (tItem) {
       if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button !== 0) return;
       e.preventDefault();
+      acTrack('select_resource', { source: 'trending', item_name: (tItem.querySelector('.trending-name')?.textContent || '').trim().slice(0, 100) });
       filterToResource(tItem.dataset.url);
     }
   }
@@ -682,6 +703,13 @@
       try { localStorage.setItem(DAILY_HIDE_KEY, String(today)); } catch { /* private mode */ }
     });
 
+    bodyEl.addEventListener('click', (e) => {
+      const nameLink = e.target.closest('.daily-name');
+      if (nameLink && !e.defaultPrevented) {
+        acTrack('select_resource', { source: 'daily', item_name: nameLink.textContent.trim().slice(0, 100) });
+      }
+    });
+
     dailyEl.hidden = false;
   }
 
@@ -696,6 +724,7 @@
   function setTrendingWindow(win) {
     if (win === trendingWindow) return;
     trendingWindow = win;
+    acTrack('trending_window', { window: win });
     trendingTabs.forEach(t => {
       const active = t.dataset.window === win;
       t.classList.toggle('active', active);

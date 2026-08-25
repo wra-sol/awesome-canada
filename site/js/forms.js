@@ -84,6 +84,9 @@
   function succeed(data) {
     form.hidden = true;
     clearStatus();
+    if (typeof window.acTrack === 'function') {
+      window.acTrack(isReport ? 'report_link_success' : 'submit_link_success', { method: data && data.issueUrl ? 'api' : 'fallback' });
+    }
     if (data && data.issueUrl && trackLink) {
       trackLink.href = data.issueUrl;
       trackLink.hidden = false;
