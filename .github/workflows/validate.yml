@@ -10,12 +10,14 @@ on:
       - 'data/**'
       - 'scripts/**'
       - 'worker/**'
+      - 'tests/**'
   pull_request:
     branches: [master]
     paths:
       - 'data/**'
       - 'scripts/**'
       - 'worker/**'
+      - 'tests/**'
 
 jobs:
   validate:
@@ -52,6 +54,13 @@ jobs:
         run: |
           node --input-type=module --check < worker/src/index.js
           node --input-type=module --check < worker/src/clean.js
+          node --input-type=module --check < worker/src/health.js
           node --input-type=module --check < worker/src/research.js
           node --input-type=module --check < worker/src/catalog.js
           node --input-type=module --check < worker/src/github.js
+
+      - name: Unit tests
+        run: node --test
+
+      - name: Link-state conformance (daily-clean.py ≡ worker health.js)
+        run: python3 tests/state-conformance.py

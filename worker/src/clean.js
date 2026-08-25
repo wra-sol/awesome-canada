@@ -13,58 +13,43 @@
 
 import { getRawFile, getJsonFile, commitFiles } from './github.js';
 import { generateReadme, mergeStaged, parseStaging, normUrl } from './catalog.js';
+import {
+  HEALTHY,
+  classify,
+  kindFromError,
+  updateState,
+  selectDoomed,
+} from './health.js';
 
 const USER_AGENT = 'Mozilla/5.0 (compatible; AwesomeCanadaLinkChecker/2.0; +https://github.com/wra-sol/awesome-canada)';
 const BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36';
 const FALSE_POSITIVE_DOMAINS = ['canada.ca'];
-// "exists but blocks automated checks" — never auto-remove these.
-const BLOCKED_STATUSES = new Set([401, 403, 429]);
-const HEALTHY = new Set(['ok', 'redirect']);
 
-function classify(res) {
-  if (res.status >= 200 && res.status < 300) return 'ok';
-  if (res.status >= 300 && res.status < 400) return 'redirect';
-  if (BLOCKED_STATUSES.has(res.status)) return 'blocked';
-  if (res.status >= 400 && res.status < 500) return 'broken';
-  if (res.status >= 500) return 'server_error';
-  return 'error';
+// Returns a classified status string ('ok', 'broken', 'timeout', ...).
+async function attempt(url, method, ua, timeoutMs) {
+  try {
+    const res = await fetch(url, {
+      method,
+      redirect: 'follow',
+      headers: { 'User-Agent': ua, Accept: '*/*' },
+      signal: AbortSignal.timeout(timeoutMs),
+    });
+    // redirect:'follow' hides 3xx from us; followed redirects that land 2xx
+    // are healthy either way.
+    return classify(res.status);
+  } catch (e) {
+    return kindFromError(String(e && e.message || e));
+  }
 }
 
 async function checkUrl(url, timeoutMs = 8000) {
   const t0 = Date.now();
-  const attempt = async (method, ua) => {
-    try {
-      const res = await fetch(url, {
-        method,
-        redirect: 'follow',
-        headers: { 'User-Agent': ua, Accept: '*/*' },
-        signal: AbortSignal.timeout(timeoutMs),
-      });
-      // redirect:'follow' hides 3xx from us; detect via response.url change is
-      // unnecessary for health purposes — followed redirects that land 2xx
-      // are healthy either way.
-      return classify(res);
-    } catch (e) {
-      const msg = String(e && e.message || e);
-      if (/abort|timeout|timed out/i.test(msg)) {
-        return { kind: 'timeout', hard: false };
-      }
-      if (/certificate|ssl|tls/i.test(msg)) return { kind: 'ssl_error', hard: true };
-      if (/refused/i.test(msg)) return { kind: 'connection_refused', hard: true };
-      if (/reset/i.test(msg)) return { kind: 'connection_reset', hard: true };
-      if (/dns|name or service|not known|nxdomain/i.test(msg)) return { kind: 'dns_failure', hard: true };
-      return { kind: 'network_error', hard: false }; // soft: unknown network path
-    }
-  };
-
-  let r = await attempt('GET', USER_AGENT);
-  let status = typeof r === 'string' ? r : r.kind;
+  let status = await attempt(url, 'GET', USER_AGENT, timeoutMs);
 
   if (status === 'timeout') {
     const domain = new URL(url).hostname;
     if (FALSE_POSITIVE_DOMAINS.some((d) => domain.endsWith(d))) {
-      const retry = await attempt('GET', BROWSER_UA);
-      status = typeof retry === 'string' ? retry : retry.kind;
+      status = await attempt(url, 'GET', BROWSER_UA, timeoutMs);
     }
   }
   return { status, ms: Date.now() - t0 };
@@ -103,26 +88,9 @@ export async function runClean(env, { limit = null, dryRun = false } = {}) {
   await Promise.all(Array.from({ length: CONCURRENCY }, worker));
 
   // Merge into consecutive-failure state
-  const newState = {};
-  for (const [url, status] of results.entries()) {
-    const prev = prevState[url] || {};
-    let failures = prev.failures || 0;
-    const hard =
-      status === 'broken' ||
-      ['dns_failure', 'connection_refused', 'connection_reset', 'ssl_error'].includes(status);
-    if (HEALTHY.has(status)) failures = 0;
-    else if (hard) failures += 1;
-    newState[url] = {
-      failures,
-      status,
-      last_checked: today,
-      ...(failures > 0 ? { first_failure: prev.first_failure || today } : {}),
-    };
-  }
+  const newState = updateState(prevState, results, today);
 
-  const doomed = new Set(
-    Object.entries(newState).filter(([u, s]) => s.failures >= threshold).map(([u]) => u)
-  );
+  const doomed = selectDoomed(newState, threshold);
   const removed = [];
   const kept = [];
   for (const entry of data) {

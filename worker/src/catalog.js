@@ -3,7 +3,7 @@
  * Catalog snapshot is synced from scripts/categories.js by
  * scripts/sync-worker-catalog.js; CI (validate.yml) fails if stale.
  */
-import catalog from '../categories.json';
+import catalog from '../categories.json' with { type: 'json' };
 
 export const { CATEGORIES, REGIONS, JURISDICTION_TO_REGION } = catalog;
 

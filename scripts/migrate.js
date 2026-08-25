@@ -29,22 +29,7 @@ function orderedEntry(e) {
   return out;
 }
 
-function main() {
-  const raw = fs.readFileSync(DATA, 'utf8');
-  const existing = JSON.parse(raw);
-
-  // 1) Ensure every existing entry has a category (heuristic-assigned).
-  let assigned = 0;
-  for (const e of existing) {
-    if (!e.category) {
-      e.category = categorize(e);
-      assigned++;
-    }
-    if (!CATEGORY_IDS.has(e.category)) {
-      throw new Error(`Unknown category '${e.category}' for '${e.name}'`);
-    }
-  }
-
+function mergeEntries(existing, staged) {
   // 2) Append new resources, skipping duplicates by normalized URL.
   const byUrl = new Map();
   for (const e of existing) {
@@ -53,7 +38,7 @@ function main() {
 
   let added = 0;
   let skipped = 0;
-  for (const e of newResources) {
+  for (const e of staged) {
     const key = String(e.url || '').toLowerCase().replace(/\/+$/, '');
     if (byUrl.has(key)) { skipped++; continue; }
     if (!CATEGORY_IDS.has(e.category)) {
@@ -82,7 +67,27 @@ function main() {
     return a.name.localeCompare(b.name);
   });
 
-  const cleaned = existing.map(orderedEntry);
+  return { cleaned: existing.map(orderedEntry), added, skipped };
+}
+
+function main() {
+  const raw = fs.readFileSync(DATA, 'utf8');
+  const existing = JSON.parse(raw);
+
+  // 1) Ensure every existing entry has a category (heuristic-assigned).
+  let assigned = 0;
+  for (const e of existing) {
+    if (!e.category) {
+      e.category = categorize(e);
+      assigned++;
+    }
+    if (!CATEGORY_IDS.has(e.category)) {
+      throw new Error(`Unknown category '${e.category}' for '${e.name}'`);
+    }
+  }
+
+  const { cleaned, added, skipped } = mergeEntries(existing, newResources);
+
   fs.writeFileSync(DATA, JSON.stringify(cleaned, null, 2) + '\n', 'utf8');
 
   console.log(`Migration complete:`);
@@ -92,4 +97,6 @@ function main() {
   console.log(`  Total entries:                ${cleaned.length}`);
 }
 
-main();
+if (require.main === module) main();
+
+module.exports = { orderedEntry, mergeEntries };
