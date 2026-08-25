@@ -197,6 +197,11 @@ const JURISDICTION_TO_REGION = {
   'Rimouski':                  'qc',
   'Repentigny':                'qc',
   'Rouyn-Noranda':             'qc',
+  'Drummondville':             'qc',
+  'Granby':                    'qc',
+  'Saint-Jérôme':              'qc',
+  'Beloeil':                   'qc',
+  'Mascouche':                 'qc',
 
   'New Brunswick':             'atlantic',
   'Nova Scotia':               'atlantic',

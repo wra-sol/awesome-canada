@@ -2701,5 +2701,973 @@ module.exports = [
     ],
     "dateAdded": "2026-08-25",
     "verified": true
+  },
+  {
+    "name": "Yukon HSS — Public Health Inspections Lookup",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "health",
+    "type": "Lookup tool",
+    "description": "Search inspection reports for Yukon food premises and personal services establishments by facility or community; Environmental Health Officer reports updated weekly since 2014.",
+    "url": "https://www.healthinspections.gov.yk.ca/",
+    "tags": [
+      "health inspections",
+      "food safety",
+      "personal services",
+      "yukon",
+      "lookup"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": false
+  },
+  {
+    "name": "Nunavut Courts — Daily Docket & Court File Search",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "justice",
+    "type": "Lookup tool",
+    "description": "Search daily criminal/civil court dockets by community, court type and date across all Nunavut communities; also concluded dockets and party lookup by name or court file number.",
+    "url": "https://dockets.nunavutcourts.ca/",
+    "tags": [
+      "court dockets",
+      "justice",
+      "nunavut",
+      "search",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Yukon — YESAB Online Registry",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "environment",
+    "type": "Registry",
+    "description": "Official public record of all Yukon environmental socio-economic assessments: search 200+ projects by map, read proposals and recommendations, track comment periods and decisions.",
+    "url": "https://yesabregistry.ca/",
+    "tags": [
+      "environmental assessment",
+      "mining",
+      "registry",
+      "yukon",
+      "search",
+      "shapefile"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Courts of the NWT — Scheduled Matters & Docket PDFs",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "justice",
+    "type": "Lookup tool",
+    "description": "Filter scheduled court matters by court, community and date range across all NWT regions; download daily Territorial/Supreme Court docket PDFs refreshed several times a day.",
+    "url": "https://www.nwtcourts.ca/en/schedule/matters/",
+    "tags": [
+      "court dockets",
+      "justice",
+      "northwest territories",
+      "search",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "GNWT ECC — NWT Air Quality Monitoring Network",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "environment",
+    "type": "Dashboard",
+    "description": "Near real-time readings (PM2.5, ozone, NO2, SO2, CO) from five community stations (Yellowknife, Inuvik, Fort Smith, Fort Simpson, Norman Wells) with archived-data query tools; NAPS network.",
+    "url": "https://aqm.enr.gov.nt.ca/",
+    "tags": [
+      "air quality",
+      "monitoring",
+      "real-time",
+      "northwest territories",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "NL Schools — BusPlanner School & Bus Eligibility Lookup",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "school-board",
+    "type": "Lookup tool",
+    "description": "Address-based lookup for every NL community: find which school your address attends and whether it qualifies for busing, with bus stop info for 2026-27. Covers all Anglophone districts.",
+    "url": "https://nlschools.mybusplanner.ca/Eligibility",
+    "tags": [
+      "education",
+      "school catchment",
+      "busing",
+      "school bus",
+      "lookup tool",
+      "addresses"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Public Utilities Board — Regulated Fuel Price Schedule",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "consumer",
+    "type": "Dashboard",
+    "description": "Weekly/daily maximum prices for gas, diesel, furnace oil and propane across all 14+ PUB pricing zones, with current PDF price orders per zone, historical pricing archive and zone map.",
+    "url": "https://www.pub.nf.ca/PP_petroleumproducts.php",
+    "tags": [
+      "fuel prices",
+      "gasoline",
+      "diesel",
+      "heating oil",
+      "regulation",
+      "consumer protection",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Supreme Court of Newfoundland and Labrador — Judgments Database",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "justice",
+    "type": "Lookup tool",
+    "description": "Searchable database of Supreme Court and Court of Appeal decisions with keyword, docket number, judge, date-range and subject-tag filters; full judgment texts from 2001 onward.",
+    "url": "https://records.court.nl.ca/",
+    "tags": [
+      "court decisions",
+      "judgments",
+      "case law",
+      "justice",
+      "search",
+      "supreme court"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Heritage NL — Provincial Register of Historic Places Search",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "heritage",
+    "type": "Lookup tool",
+    "description": "Filterable register of 995 designated heritage properties province-wide: Registered Heritage Structures and Districts, municipal designations, fisheries heritage buildings and Century Farms, by type and region.",
+    "url": "https://heritagenl.ca/discover/heritage-property-search/",
+    "tags": [
+      "heritage",
+      "historic places",
+      "property register",
+      "designation",
+      "architecture"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "MMSB — Green Depot Locator",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "environment",
+    "type": "Lookup tool",
+    "description": "Interactive Leaflet map plus searchable listing of all ~55 licensed beverage-container recycling depots across NL, with addresses, hours, contacts and paint/electronics acceptance notes.",
+    "url": "https://mmsb.nl.ca/green-depot/",
+    "tags": [
+      "recycling",
+      "green depots",
+      "waste management",
+      "beverage containers",
+      "map",
+      "locations"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Health PEI — Facility Locations (OD0050)",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "health",
+    "type": "Dataset",
+    "description": "Download every Health PEI facility — acute-care hospitals, health centres, etc. — with name, type, street address and lat/long coordinates. CSV/GeoJSON export plus ArcGIS REST API.",
+    "url": "https://data.princeedwardisland.ca/datasets/0f90d991469e40ed8fcba35ee0ec62da/explore",
+    "tags": [
+      "pei",
+      "health pei",
+      "hospitals",
+      "health centres",
+      "facilities",
+      "geocoded",
+      "csv",
+      "geojson",
+      "api"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Department of Justice and Public Safety — Victim Services Referrals (OD0018)",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "justice",
+    "type": "Dataset",
+    "description": "Annual count of new referrals to the PEI Victim Services Program by fiscal year from 2011/12 onward. Track demand for justice support services. CSV/Excel download and ArcGIS REST API.",
+    "url": "https://data.princeedwardisland.ca/datasets/265f2d1210b348b2971c18b5fd4a2372/explore",
+    "tags": [
+      "pei",
+      "victim services",
+      "justice",
+      "public safety",
+      "annual series",
+      "csv",
+      "api"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Department of Social Development and Seniors — Family Housing Program Activity (OD0059)",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "housing",
+    "type": "Dataset",
+    "description": "Social-housing activity by fiscal year: number of family housing units and new rent supplements issued. CSV/Excel download and ArcGIS REST API for housing-supply analysis.",
+    "url": "https://data.princeedwardisland.ca/datasets/8c5cfc39e54c485db8f89a0d49c573b8/explore",
+    "tags": [
+      "pei",
+      "social housing",
+      "rent supplements",
+      "family housing",
+      "housing supply",
+      "csv",
+      "api"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Department of Social Development and Seniors — AccessAbility Supports Monthly Caseload (OD0056)",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "benefits",
+    "type": "Dataset",
+    "description": "Monthly caseload counts for PEI's AccessAbility Supports disability benefit program, fiscal year 2010-11 to present. Monitor disability-benefit uptake over time. CSV/Excel and API.",
+    "url": "https://data.princeedwardisland.ca/datasets/675d2761b44946a9951992177035ef1e/explore",
+    "tags": [
+      "pei",
+      "disability supports",
+      "accessability",
+      "caseload",
+      "monthly data",
+      "csv",
+      "api"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Department of Education and Early Years — Child Care Subsidy Monthly Caseload (OD0057)",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "benefits",
+    "type": "Dataset",
+    "description": "Monthly number of families receiving child care subsidies in PEI since 2010, by fiscal year and month. Gauge affordability-program uptake. CSV/Excel download and ArcGIS REST API.",
+    "url": "https://data.princeedwardisland.ca/datasets/8dc414ba9a7d45718a643f9fd1748bf4/explore",
+    "tags": [
+      "pei",
+      "child care",
+      "subsidy",
+      "early years",
+      "caseload",
+      "monthly data",
+      "csv",
+      "api"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "SaskPower — Outage Map and Updates",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "utilities",
+    "type": "Dashboard",
+    "description": "Live map and table of unplanned and planned power outages across Saskatchewan with locations, restoration details and update times; set up outage-area notifications.",
+    "url": "https://www.saskpower.com/outages/power-outages/outage-updates",
+    "tags": [
+      "electricity",
+      "outages",
+      "crown corporation",
+      "dashboard",
+      "real-time"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Water Security Agency — Provincial Flood Forecast & Spring Runoff Reports",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "weather",
+    "type": "Reports & forecasts",
+    "description": "Download current Spring Runoff Outlook reports, ten-day flow forecasts for the Saskatchewan River System, plus Lake Diefenbaker and Qu'Appelle watershed updates (PDF).",
+    "url": "https://wsask.ca/recreation-environment/provincial-forecast/",
+    "tags": [
+      "flood",
+      "forecasting",
+      "hydrology",
+      "spring runoff",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "FCAA — FCAA411 Licence & Registration Search",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Search whether payday lenders, collection agencies, mortgage brokers, vehicle dealers, direct sellers, insurers and pension plans are licensed in Saskatchewan.",
+    "url": "https://fcaa.gov.sk.ca/fcaa411",
+    "tags": [
+      "consumer protection",
+      "licences",
+      "payday loans",
+      "mortgage brokers",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Ministry of Education — Directory of Saskatchewan School Divisions",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "school-board",
+    "type": "Dataset / directory",
+    "description": "Official downloadable directory (PDF) of all 27 school divisions: addresses, phones, websites, board chairs, directors and CFOs; kept current via Publications Centre API.",
+    "url": "https://publications.saskatchewan.ca/api/v1/products/48334/formats/118525/download",
+    "tags": [
+      "school divisions",
+      "k-12",
+      "education",
+      "directory",
+      "download",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Nisga'a Lisims Government — Nisga'a Land Title Office",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "indigenous",
+    "type": "Registry",
+    "description": "Request parcel title searches in Canada's only Indigenous-run Torrens land registry, calculate fees, and download survey plans, forms and legislation (PDF).",
+    "url": "https://nisgaalandtitle.ca/title-search-and-copy/",
+    "tags": [
+      "nisgaa",
+      "land-title",
+      "registry",
+      "survey-plans",
+      "forms",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Tłıchǫ Government — Tłıchǫ Mapping",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "indigenous",
+    "type": "Interactive map",
+    "description": "ArcGIS dashboards of Tłıchǫ lands: Wenek'e land-use plan zones, cabin registrations, harvesting areas and traditional place-name maps; user manual PDF. Site 403-bot-blocks fetchers.",
+    "url": "https://www.tlicho.ca/tlicho-mapping",
+    "tags": [
+      "tlicho",
+      "lands",
+      "gis",
+      "arcgis",
+      "map",
+      "land-use-plan",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": false
+  },
+  {
+    "name": "Inuvialuit Regional Corporation — ISR Research Portal (Climate Action Map)",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "indigenous",
+    "type": "Interactive map",
+    "description": "Search interactive ArcGIS maps of climate-change research and community projects plus an indicator dashboard of socioeconomic and environmental stats for the Inuvialuit Settlement Region.",
+    "url": "https://research.inuvialuit.com/",
+    "tags": [
+      "inuvialuit",
+      "climate",
+      "research",
+      "map",
+      "arcgis",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Manitoba Métis Federation — Central Registry Online Citizenship Application",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "indigenous",
+    "type": "Registry",
+    "description": "Apply online for Red River Métis citizenship and harvester cards: document and photo upload, genealogy checklist, fee payment; instructions and forms as downloadable PDF.",
+    "url": "https://cro.mmf.mb.ca/apply",
+    "tags": [
+      "metis",
+      "citizenship",
+      "registry",
+      "harvester",
+      "application",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Métis Nation—Saskatchewan — Citizenship Registry",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "indigenous",
+    "type": "Registry",
+    "description": "Register as an MN–S citizen or renew, replace and update cards; download fillable citizenship applications, genealogy guides and vital-statistics consent forms (PDF).",
+    "url": "https://mns.ca/metis-citizens/citizenship-registry",
+    "tags": [
+      "metis",
+      "citizenship",
+      "registry",
+      "genealogy",
+      "forms",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Public Health Ontario — Ontario Respiratory Virus Tool",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "health",
+    "type": "Interactive dashboard",
+    "description": "Explore weekly COVID-19, influenza and RSV activity by public health unit, age group and setting; filter trends and export graph data to CSV. Updated Fridays.",
+    "url": "https://www.publichealthontario.ca/en/Data-and-Analysis/Commonly-Used-Products/Respiratory-Virus-Tool",
+    "tags": [
+      "public-health-units",
+      "respiratory-viruses",
+      "covid-19",
+      "influenza",
+      "rsv",
+      "surveillance",
+      "dashboard",
+      "csv"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Québec — Performance du réseau de la santé et des services sociaux",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Power BI dashboard",
+    "description": "Weekly Power BI dashboard of first-line access, ER, surgery, mental health and HR indicators, filterable by region and CISSS/CIUSSS service territory (RTS); methodology notes included.",
+    "url": "https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/donnees-systeme-sante-quebecois-services/performance-reseau-sante-services-sociaux",
+    "tags": [
+      "ciusss",
+      "cisss",
+      "health-indicators",
+      "emergency",
+      "wait-times",
+      "dashboard",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Manitoba — Provincial Health System Performance Dashboard",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "health",
+    "type": "Monthly dashboard reports (PDF)",
+    "description": "Monthly PDF scorecards tracking ED/urgent care wait times at sites in all five RHAs, patient experience and expenditure sustainability, with targets and trend context since 2020.",
+    "url": "https://www.gov.mb.ca/openmb/infomb/departments/dashboard/index.html",
+    "tags": [
+      "regional-health-authorities",
+      "wait-times",
+      "performance",
+      "pdf",
+      "manitoba"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Ontario Data Catalogue — Public Health Unit Boundaries",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "health-region",
+    "type": "Geospatial open-data dataset",
+    "description": "Download digital boundary files (GeoJSON/shape via GeoHub) for all 34 Ontario public health units under the Open Government Licence – Ontario, for mapping and joins to PHU-level data.",
+    "url": "https://data.ontario.ca/en/dataset/public-health-unit-boundaries",
+    "tags": [
+      "public-health-units",
+      "boundaries",
+      "geospatial",
+      "geojson",
+      "open-data"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Québec — Découpage territorial du réseau de la santé (MSSS)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health-region",
+    "type": "Territory lookup tool + code tables",
+    "description": "Look up CLSC territories from postal/municipal codes via the M34 tool, and get official annual code/name lists for the 18 sociosanitary regions, 22 RTS, 93 RLS and 166 CLSC territories.",
+    "url": "https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/donnees-systeme-sante-quebecois-services/decoupage-territorial-sante-services-sociaux",
+    "tags": [
+      "rss",
+      "rts",
+      "rls",
+      "clsc",
+      "territories",
+      "lookup-tool",
+      "codes",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "SINP Processing Statistics — Saskatchewan Immigrant Nominee Program",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "immigration",
+    "type": "Draw results & processing times",
+    "description": "Official SINP dashboard: quarterly processing times by category, EOI intake windows and caps for capped sectors, and nominations-issued totals for 2026.",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/sinp-processing-statistics",
+    "tags": [
+      "pnp",
+      "nominee program",
+      "processing times",
+      "draws",
+      "oasis"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Nova Scotia Nominee Program — Live in NS",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "immigration",
+    "type": "Program portal",
+    "description": "Official NS government NSNP hub: stream eligibility (Skilled Worker, Graduate, Entrepreneur, Express Entry), EOI submission, draw selection rules, and fee updates.",
+    "url": "https://liveinnovascotia.com/nova-scotia-nominee-program",
+    "tags": [
+      "pnp",
+      "nominee program",
+      "eoi",
+      "streams",
+      "eligibility"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "New Brunswick Provincial Nominee Program",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "immigration",
+    "type": "Program portal",
+    "description": "Immigration NB's NBPNP page: streams, EOI via INB portal, scheduled invitation-draw rounds listing, nomination application steps and post-nomination guidance.",
+    "url": "https://www.gnb.ca/en/topic/family-home-community/immigration/provincial-nominee-program.html",
+    "tags": [
+      "pnp",
+      "nominee program",
+      "inb portal",
+      "expression of interest",
+      "draws"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "PEI PNP Expression of Interest Draws",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "immigration",
+    "type": "Draw results publication",
+    "description": "PEI Office of Immigration's official publication of EOI invitation-to-apply draw dates, sectors prioritized, and selection criteria for the PEI PNP.",
+    "url": "https://www.princeedwardisland.ca/en/information/office-of-immigration/expression-of-interest-draws",
+    "tags": [
+      "pnp",
+      "nominee program",
+      "draws",
+      "eoi",
+      "invitations"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": false
+  },
+  {
+    "name": "Yukon Nominee Program",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "immigration",
+    "type": "Program portal",
+    "description": "Official yukon.ca YNP page: employer-driven streams, Expression of Interest intakes and scoring priorities, application forms, and eligibility requirements.",
+    "url": "https://yukon.ca/en/yukon-nominee-program",
+    "tags": [
+      "pnp",
+      "nominee program",
+      "eoi",
+      "employer-driven",
+      "yukon"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": false
+  },
+  {
+    "name": "FCNB — Check Licence and Registration",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Financial and Consumer Services Commission portal to verify insurance, investment, mortgage, real estate, direct-seller, debt-collection and payday-loan licences, plus complaint filing.",
+    "url": "https://www.fcnb.ca/en/frauds-and-scams/check-licence-and-registration",
+    "tags": [
+      "licence-lookup",
+      "financial-services",
+      "investor-protection",
+      "new-brunswick"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Service Nova Scotia — Consumer Protection",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "consumer",
+    "type": "Portal",
+    "description": "Service NS hub for consumer rights under the Consumer Protection Act: direct sellers, collections, credit reports, payday loans, funerals, condominiums, and online business complaints.",
+    "url": "https://beta.novascotia.ca/programs-and-services/consumer-protection",
+    "tags": [
+      "consumer-rights",
+      "complaints",
+      "payday-loans",
+      "collections"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "NWT MACA — Consumer Affairs",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "consumer",
+    "type": "Portal",
+    "description": "Consumer Affairs office: free complaint process with electronic form, direct-seller/collection/real-estate/gaming licensing, product recalls and consumer information bulletins.",
+    "url": "https://www.maca.gov.nt.ca/en/services/consumer-affairs",
+    "tags": [
+      "complaints",
+      "licensing",
+      "consumer-bulletins",
+      "northwest-territories"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Yukon — Complaint Against a Regulated Business Professional",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "consumer",
+    "type": "Complaint process",
+    "description": "Formal complaint process for collection agents, funeral directors, insurers, pawnbrokers, real estate and security professionals, with paired licence-verification pages on yukon.ca.",
+    "url": "https://yukon.ca/en/doing-business/professional-licensing/make-complaint-against-government-regulated-business-professional",
+    "tags": [
+      "complaints",
+      "professional-licensing",
+      "yukon"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "NL Consumer Affairs Division",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "consumer",
+    "type": "Portal",
+    "description": "Digital Government and Service NL consumer affairs hub: right to cancel, distance contracts, direct-seller licensing and complaints, identity-theft guidance, plus consumer alerts feed.",
+    "url": "https://www.gov.nl.ca/dgsnl/consumer/consumer-affairs/",
+    "tags": [
+      "consumer-rights",
+      "direct-sellers",
+      "consumer-alerts",
+      "newfoundland-and-labrador"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Centre d'expertise hydrique Québec (CEHQ) — Water Levels & Flows",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "weather",
+    "type": "Hydrometric monitoring",
+    "description": "~280-station hydrometric network with real-time levels and flows, open-water hydrological forecasts, full historical records, flood/low-flow analyses and Hydroclimatic Atlas.",
+    "url": "https://www.cehq.gouv.qc.ca/hydrometrie/index.htm",
+    "tags": [
+      "quebec",
+      "hydrology",
+      "river-gauges",
+      "flood",
+      "real-time",
+      "forecast"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "NB River Watch Flood Tracker",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "weather",
+    "type": "Flood monitoring",
+    "description": "NBEMO interactive map tracking current and forecast water levels on the Saint John River during freshet, with normal/advisory/watch/warning/flood alert levels per location.",
+    "url": "https://geonb.snb.ca/rwm/",
+    "tags": [
+      "new brunswick",
+      "flood",
+      "freshet",
+      "saint john river",
+      "forecast",
+      "warnings"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Vigilance — Flood Water Monitoring Map (Sécurité publique Québec)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "weather",
+    "type": "Interactive map",
+    "description": "Web app showing the spring-freshet flood situation across Québec in real time, informing residents and mobilizing municipal and government responders during flood events.",
+    "url": "https://vigilance.geo.msp.gouv.qc.ca/carte",
+    "tags": [
+      "quebec",
+      "flood",
+      "spring thaw",
+      "monitoring",
+      "emergency-planning"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "PEI Climate Hazard & Risk Information System (CHRIS)",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "environment",
+    "type": "Map viewer",
+    "description": "Official PEI government/UPEI map portal for coastal erosion, coastal flooding scenarios (2020–2100), inland flooding projections and historical storm events like Fiona and Dorian.",
+    "url": "https://chris.peiclimate.ca/",
+    "tags": [
+      "pei",
+      "coastal-flooding",
+      "storm-surge",
+      "erosion",
+      "climate-hazards"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Nova Scotia Coastal Hazard Map (NSGI)",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "environment",
+    "type": "Interactive map",
+    "description": "Province of Nova GeoNova viewer for coastal hazard layers including flooding and erosion risk, complementing legacy provincial flood-risk mapping data.",
+    "url": "https://nsgi.novascotia.ca/chm",
+    "tags": [
+      "nova scotia",
+      "coastal-flooding",
+      "storm-surge",
+      "erosion",
+      "maps"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Alberta Lobbyist Registry",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Free official registry under Alberta's Lobbyists Act; consultant and in-house lobbyist registrations are publicly searchable at any time. Live but blocks some automated fetchers.",
+    "url": "https://albertalobbyistregistry.ca/",
+    "tags": [
+      "alberta",
+      "lobbyists",
+      "registry",
+      "search",
+      "transparency"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": false
+  },
+  {
+    "name": "Nova Scotia Registry of Lobbyists",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "lobbyist",
+    "type": "Lobbyist registry search",
+    "description": "Search the provincial Registry of Lobbyists for filings on lobbyists, clients, government funding, departments lobbied, subject matters and techniques used.",
+    "url": "https://lobbyist.novascotia.ca/",
+    "tags": [
+      "nova scotia",
+      "lobbyists",
+      "registry",
+      "search"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "New Brunswick Registry of Lobbyists",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Web-based registry operated by Service New Brunswick for the Integrity Commissioner; lobbyists file disclosures and the public can view registrations online.",
+    "url": "https://www.pxw1.snb.ca/snb9000/product.aspx?productid=A001PSNBCATLOBBY&l=e",
+    "tags": [
+      "new brunswick",
+      "lobbyists",
+      "registry"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Granby — Séances du conseil municipal",
+    "level": "Municipal",
+    "jurisdiction": "Granby",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Ordres du jour et procès-verbaux PDF des séances du conseil de Granby, webdiffusion en direct sur MAtv/YouTube et périodes de questions citoyennes.",
+    "url": "https://www.granby.ca/fr/ville/ville/seances-du-conseil-municipal-2026",
+    "tags": [
+      "granby",
+      "council",
+      "agendas",
+      "minutes",
+      "pdf",
+      "webdiffusion",
+      "estrie"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Drummondville — Séances du conseil",
+    "level": "Municipal",
+    "jurisdiction": "Drummondville",
+    "category": "council",
+    "type": "Council meetings",
+    "description": "Ordres du jour, procès-verbaux et vidéos des séances du conseil municipal de Drummondville depuis 2016, avec archives téléchargeables et webdiffusion en direct.",
+    "url": "https://www.drummondville.ca/mairie-et-vie-municipale/seances-du-conseil/",
+    "tags": [
+      "drummondville",
+      "council",
+      "agendas",
+      "minutes",
+      "video",
+      "centre-du-québec"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Beloeil — Séances du conseil",
+    "level": "Municipal",
+    "jurisdiction": "Beloeil",
+    "category": "council",
+    "type": "Council documents",
+    "description": "Calendrier 2026, ordres du jour et procès-verbaux (2023–2026) des séances du conseil de Beloeil; séances hybrides avec webdiffusion et période de questions.",
+    "url": "https://beloeil.ca/interagir/conseil-municipal/seances-du-conseil/",
+    "tags": [
+      "beloeil",
+      "council",
+      "agendas",
+      "minutes",
+      "pdf",
+      "montérégie"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Mascouche — Séances du conseil",
+    "level": "Municipal",
+    "jurisdiction": "Mascouche",
+    "category": "council",
+    "type": "Council documents",
+    "description": "Prochaines séances, ordres du jour et procès-verbaux annuels (2022–2026) du conseil municipal de Mascouche, avec abonnement aux avis texto/courriel.",
+    "url": "https://www.ville.mascouche.qc.ca/ville/vie-democratique/seances-du-conseil",
+    "tags": [
+      "mascouche",
+      "council",
+      "agendas",
+      "minutes",
+      "pdf",
+      "lanaudière"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Saint-Jérôme — Conseil municipal et comité exécutif",
+    "level": "Municipal",
+    "jurisdiction": "Saint-Jérôme",
+    "category": "council",
+    "type": "Council portal",
+    "description": "Portail démocratique de Saint-Jérôme : ordres du jour, procès-verbaux, webdiffusion, membres du conseil et comité exécutif, éthique et déontologie.",
+    "url": "https://www.vsj.ca/conseil-municipal-et-comite-executif/",
+    "tags": [
+      "saint-jérôme",
+      "council",
+      "agendas",
+      "minutes",
+      "laurentides"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
   }
 ];

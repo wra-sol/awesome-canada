@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1601 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1653 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 203
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 86
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 130
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 135
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 116
 - [🪪 Government Services & ID](#government-services-and-id) — 41
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 22
@@ -35,28 +35,28 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏢 Business & Procurement](#business-and-procurement) — 47
 - [💼 Employment & Labour](#employment-and-labour) — 41
 - [🎓 Education & Student Aid](#education-and-student-aid) — 24
-- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 38
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 17
-- [🩺 Health & Wellness](#health-and-wellness) — 52
-- [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 25
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 31
+- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 40
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 22
+- [🩺 Health & Wellness](#health-and-wellness) — 57
+- [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 27
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 26
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 32
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 41
 - [🚌 Transit & Mobility](#transit-and-mobility) — 58
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 29
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 63
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 58
-- [🌦️ Weather & Climate](#weather-and-climate) — 13
-- [⚡ Energy & Utilities](#energy-and-utilities) — 35
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 63
+- [🌦️ Weather & Climate](#weather-and-climate) — 17
+- [⚡ Energy & Utilities](#energy-and-utilities) — 36
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 27
 - [🔬 Science, Research & Space](#science-research-and-space) — 36
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 51
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 41
-- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 42
+- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 15
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 51
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 40
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 22
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 19
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 44
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 29
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 24
 - [🎖️ Veterans & Military](#veterans-and-military) — 13
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 46
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 18
@@ -575,16 +575,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Beloeil — Séances du conseil | Beloeil · Municipal | Council documents | Calendrier 2026, ordres du jour et procès-verbaux (2023–2026) des séances du conseil de Beloeil; séances hybrides avec webdiffusion et période de questions. | https://beloeil.ca/interagir/conseil-municipal/seances-du-conseil/ |
+| Drummondville — Séances du conseil | Drummondville · Municipal | Council meetings | Ordres du jour, procès-verbaux et vidéos des séances du conseil municipal de Drummondville depuis 2016, avec archives téléchargeables et webdiffusion en direct. | https://www.drummondville.ca/mairie-et-vie-municipale/seances-du-conseil/ |
 | Gatineau — Ordres du jour | Gatineau · Municipal | Council agendas | Browse Gatineau municipal council and committee agendas by year and month — includes CCU and commission meetings. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fordres_jour |
 | Gatineau — Procès-verbaux | Gatineau · Municipal | Council minutes | Gatineau council and committee minutes archive searchable by meeting date and body. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fproces_verbaux |
+| Granby — Séances du conseil municipal | Granby · Municipal | Council meetings | Ordres du jour et procès-verbaux PDF des séances du conseil de Granby, webdiffusion en direct sur MAtv/YouTube et périodes de questions citoyennes. | https://www.granby.ca/fr/ville/ville/seances-du-conseil-municipal-2026 |
 | Laval Council Meetings | Laval · Municipal | Council meetings | Ville de Laval council session agendas, minutes, and video for municipal council meetings. | https://www.laval.ca/conseil-municipal/seances |
 | Lévis — Ordres du jour du conseil | Lévis · Municipal | Council agendas | PDF agendas for City of Lévis council meetings — subscribe to email alerts when new agendas are published. | https://www.ville.levis.qc.ca/la-ville/conseil-municipal/ordres-du-jour/ |
 | Lévis — Procès-verbaux du conseil | Lévis · Municipal | Council minutes | Council minutes and decision summaries for Lévis — published the Wednesday after each council meeting with linked decision briefs. | https://www.ville.levis.qc.ca/la-ville/conseil-municipal/proces-verbaux/ |
 | Longueuil Council Meetings | Longueuil · Municipal | Council meetings | Ville de Longueuil municipal council and committee meeting schedules, agendas, minutes, and video. | https://www.longueuil.quebec/fr/services/instances-decisionnelles |
+| Mascouche — Séances du conseil | Mascouche · Municipal | Council documents | Prochaines séances, ordres du jour et procès-verbaux annuels (2022–2026) du conseil municipal de Mascouche, avec abonnement aux avis texto/courriel. | https://www.ville.mascouche.qc.ca/ville/vie-democratique/seances-du-conseil |
 | Repentigny Council — Agendas & Minutes | Repentigny · Municipal | Council meetings | Downloadable PDF agendas (ordre du jour) and minutes (procès-verbal) for Repentigny city council meetings, including special sessions. Direct PDF links for each meeting from 2025–2026. Useful for tracking council decisions, by-law adoptions, and zoning approvals in this Lanaudière city. First council entry for Repentigny. | https://repentigny.ca/la-ville/vie-democratique/conseil-municipal |
 | Rimouski — Council Agendas & Minutes | Rimouski · Municipal | Meeting documents | Ville de Rimouski council meeting agendas (ordres du jour), approved minutes (procès-verbaux), and live webcast archives. Downloadable PDFs. | https://rimouski.ca/ville/democratie/seances-du-conseil |
 | Rouyn-Noranda Council Agendas & Minutes | Rouyn-Noranda · Municipal | Council meetings | Downloadable PDF agendas (ordre du jour) and minutes (procès-verbaux) for all regular Rouyn-Noranda city council meetings. Direct PDF links for each 2026 session with no login wall. Track motions, decisions, and debates in Quebec's Abitibi-Témiscamingue region. | https://www.rouyn-noranda.ca/ville/vie-democratique/seances-conseil |
 | Saguenay — Documents des conseils | Saguenay · Municipal | Council documents | Saguenay municipal and borough council agendas, minutes, and livestream archives for Chicoutimi, Jonquière, and La Baie. | https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/documents-des-conseils-et-avis-publics/documents-des-conseils |
+| Saint-Jérôme — Conseil municipal et comité exécutif | Saint-Jérôme · Municipal | Council portal | Portail démocratique de Saint-Jérôme : ordres du jour, procès-verbaux, webdiffusion, membres du conseil et comité exécutif, éthique et déontologie. | https://www.vsj.ca/conseil-municipal-et-comite-executif/ |
 | Shawinigan Council — Agendas & Minutes | Shawinigan · Municipal | Council meetings | Downloadable PDF agendas (ordre du jour) and minutes (procès-verbaux) for all regular and special Shawinigan city council meetings, plus the annual meeting calendar PDF. Updated with each meeting — includes 2026 sessions. Direct PDF links for each session with no login wall. First council entry for Shawinigan. | https://www.shawinigan.ca/ville/conseil-municipal/seances-du-conseil/ |
 | Sherbrooke Council Meetings | Sherbrooke · Municipal | Council meetings | Ville de Sherbrooke council meeting agendas, minutes, and webcasts. | https://www.sherbrooke.ca/Pages/Fr/Citoyens/conseil-municipal/seances-du-conseil.aspx |
 | Trois-Rivières — Ordres du jour et procès-verbaux | Trois-Rivières · Municipal | Council agendas and minutes | Archive of Trois-Rivières council and executive committee agendas, minutes, and adopted bylaws — posted by noon the day before regular meetings. | https://www.v3r.net/a-propos-de-la-ville/vie-democratique/ordres-du-jour-et-proces-verbaux |
@@ -1264,6 +1269,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Ministry of Education — Directory of Saskatchewan School Divisions | Saskatchewan · Provincial | Dataset / directory | Official downloadable directory (PDF) of all 27 school divisions: addresses, phones, websites, board chairs, directors and CFOs; kept current via Publications Centre API. | https://publications.saskatchewan.ca/api/v1/products/48334/formats/118525/download |
 | Regina Catholic Schools — School Finder | Regina · Municipal | Boundary map | Interactive school finder map for Regina Catholic Schools. Click map pins or use the boundary search to find designated Catholic schools by grade level, program, and address location. | https://www.rcsd.ca/school-finder |
 | Regina Public Schools — School Finder | Regina · Municipal | School boundary lookup | Enter a Regina address or housing development name to find designated elementary, high school, and French immersion schools within Regina Public Schools boundaries. Interactive reference for attendance zones. | https://www.reginapublicschools.ca/node/28 |
 
@@ -1304,6 +1310,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | New Brunswick Anglophone School District Boundaries | New Brunswick · Provincial | School district maps | Official PDF maps showing the boundaries for New Brunswick's four anglophone school districts (North, South, East, West) and their sub-districts. Download to determine which school district a property falls into. | https://www.gnb.ca/en/topic/education-training/k-12/district/anglophone.html |
 | New Brunswick School Directory | New Brunswick · Provincial | School directory | Searchable directory of all New Brunswick public schools, district offices, and administrators. Search by school name, district, or language; includes print and download options. | https://www.nbed.nb.ca/SchoolDirectory |
+| NL Schools — BusPlanner School & Bus Eligibility Lookup | Newfoundland and Labrador · Provincial | Lookup tool | Address-based lookup for every NL community: find which school your address attends and whether it qualifies for busing, with bus stop info for 2026-27. Covers all Anglophone districts. | https://nlschools.mybusplanner.ca/Eligibility |
 | Nova Scotia — School Board Zones (English) | Nova Scotia · Provincial | Dataset | Provincial geospatial dataset of English-language Regional Centres for Education (RCE) and school board zones in Nova Scotia. Downloadable as GeoJSON, Shapefile, and KML for mapping student catchment areas, trustee representation, and education planning. | https://data.novascotia.ca/dataset/v69y-jn74 |
 | Nova Scotia — School Board Zones (French) | Nova Scotia · Provincial | Dataset | Provincial geospatial dataset of French-language school board zones (Conseil scolaire acadien provincial) in Nova Scotia. Downloadable as GeoJSON, Shapefile, and KML for mapping minority-language education catchment areas and Acadian school boundaries. | https://data.novascotia.ca/dataset/76iu-75v2 |
 | Prince Edward Island — School Zoning and Transportation Portal | Prince Edward Island · Provincial | School boundary lookup | Interactive address-based portal to find designated schools, view school boundary maps, and verify school bus transportation eligibility for the PEI Public Schools Branch. Covers all English-language schools in the province. | https://psbbusing.princeedwardisland.ca/Default.aspx |
@@ -1344,6 +1351,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alberta Advantage Immigration Program | Alberta · Provincial | Nominee program | Alberta's PNP streams for skilled workers, entrepreneurs, rural renewal, and tourism | https://www.alberta.ca/alberta-advantage-immigration-program |
 
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| SINP Processing Statistics — Saskatchewan Immigrant Nominee Program | Saskatchewan · Provincial | Draw results & processing times | Official SINP dashboard: quarterly processing times by category, EOI intake windows and caps for capped sectors, and nominations-issued totals for 2026. | https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/sinp-processing-statistics |
+
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -1366,7 +1379,16 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| New Brunswick Provincial Nominee Program | New Brunswick · Provincial | Program portal | Immigration NB's NBPNP page: streams, EOI via INB portal, scheduled invitation-draw rounds listing, nomination application steps and post-nomination guidance. | https://www.gnb.ca/en/topic/family-home-community/immigration/provincial-nominee-program.html |
 | Office of Immigration and Multiculturalism — AIP Designated Employers List | Newfoundland and Labrador · Provincial | Public Register | Official register of employers designated for the Atlantic Immigration Program, listing each employer's communities, designation date and eligible NOC occupation codes. | https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/atlantic-immigration-program/designated-employers/ |
+| Nova Scotia Nominee Program — Live in NS | Nova Scotia · Provincial | Program portal | Official NS government NSNP hub: stream eligibility (Skilled Worker, Graduate, Entrepreneur, Express Entry), EOI submission, draw selection rules, and fee updates. | https://liveinnovascotia.com/nova-scotia-nominee-program |
+| PEI PNP Expression of Interest Draws | PEI · Provincial | Draw results publication | PEI Office of Immigration's official publication of EOI invitation-to-apply draw dates, sectors prioritized, and selection criteria for the PEI PNP. | https://www.princeedwardisland.ca/en/information/office-of-immigration/expression-of-interest-draws |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Yukon Nominee Program | Yukon · Provincial | Program portal | Official yukon.ca YNP page: employer-driven streams, Expression of Interest intakes and scoring priorities, application forms, and eligibility requirements. | https://yukon.ca/en/yukon-nominee-program |
 
 ## 🩺 Health & Wellness
 
@@ -1427,6 +1449,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Health Links Manitoba — 8-1-1 | Manitoba · Provincial | Health service | Manitoba's 24/7 telephone health advice from registered nurses | https://sharedhealthmb.ca/patients-and-families/health-links/ |
 | Manitoba — Health Wait Time Information | Manitoba · Provincial | Wait-time dashboard | Look up Manitoba wait times for emergency departments, MRI, CT, ultrasound and surgical and cancer services by facility and region. | https://www.gov.mb.ca/health/waittime/index.html |
+| Manitoba — Provincial Health System Performance Dashboard | Manitoba · Provincial | Monthly dashboard reports (PDF) | Monthly PDF scorecards tracking ED/urgent care wait times at sites in all five RHAs, patient experience and expenditure sustainability, with targets and trend context since 2020. | https://www.gov.mb.ca/openmb/infomb/departments/dashboard/index.html |
 | Manitoba Health Annual Statistics | Manitoba · Provincial | Statistical report | Download Manitoba Health's 13-section Annual Statistics reports (2013–2021): population, mortality, disease, mental illness, hospital/physician services, home care, and drug use, broken down by RHA. | https://www.gov.mb.ca/health/annstats/ |
 
 ### Ontario
@@ -1441,6 +1464,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario — Drug Benefit Formulary Search | Ontario · Provincial | Drug coverage search | Search any drug to see if it is covered by the Ontario Drug Benefit program, with interchangeable products, prices and limited-use criteria. | https://www.formulary.health.gov.on.ca/formulary/ |
 | Ontario — Find a Doctor | Ontario · Provincial | Finder | Health Care Connect — register to be matched with a family doctor or nurse practitioner | https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner |
 | Public Health Ontario — Infectious Disease Trends Tool | Ontario · Provincial | Data dashboard | Explore 10+ years of reportable disease cases in Ontario by public health unit, age, sex, hospitalizations and deaths; annual detail plus monthly preliminary snapshots, with exportable tables. | https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/Reportable-Disease-Trends-Annually |
+| Public Health Ontario — Ontario Respiratory Virus Tool | Ontario · Provincial | Interactive dashboard | Explore weekly COVID-19, influenza and RSV activity by public health unit, age group and setting; filter trends and export graph data to CSV. Updated Fridays. | https://www.publichealthontario.ca/en/Data-and-Analysis/Commonly-Used-Products/Respiratory-Virus-Tool |
 | Trillium Gift of Life Network — Organ Donation | Ontario · Provincial | Service | Register as an organ and tissue donor in Ontario | https://www.giftoflife.on.ca/en/ |
 | Toronto — SwimSafe Beach Water Quality | Toronto · Municipal | Beach water quality tracker | Check daily E. coli test results and swimming advisories for Toronto's supervised beaches, plus inspection results for public pools, wading pools and splash pads. | https://www.toronto.ca/community-people/health-wellness-care/health-inspections-monitoring/swimsafe/ |
 
@@ -1451,6 +1475,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Info-Santé 811 (Québec) | Quebec · Provincial | Health service | Québec's free 811 telephone consultation service for non-urgent health questions, staffed by nurses | https://www.quebec.ca/en/health/finding-a-resource/info-sante-811 |
 | INSPQ — Indicateurs de santé publique | Quebec · Provincial | Data portal | INSPQ surveillance portal of population-health indicators: mortality, chronic and infectious disease, mental health, life habits, social inequalities; dynamic charts filterable by age, sex and region. | https://www.inspq.qc.ca/indicateur |
 | MSSS — Emergency Room Hourly Occupancy Data | Quebec · Provincial | Open data feed | Hourly CSV from the provincial ER console: stretcher patients per facility, plus counts waiting 24h/48h+ across every Quebec hospital; refreshed continuously as part of open government. | https://msss.gouv.qc.ca/professionnels/statistiques-donnees-services-sante-services-sociaux/donnees-urgences/ |
+| Québec — Performance du réseau de la santé et des services sociaux | Quebec · Provincial | Power BI dashboard | Weekly Power BI dashboard of first-line access, ER, surgery, mental health and HR indicators, filterable by region and CISSS/CIUSSS service territory (RTS); methodology notes included. | https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/donnees-systeme-sante-quebecois-services/performance-reseau-sante-services-sociaux |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -1461,6 +1486,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nova Scotia — Wait Time Information | Nova Scotia · Provincial | Wait-time lookup | Compare wait times for 150+ surgical procedures, MRI/CT scans, cancer care and mental health services across Nova Scotia to find the shortest-wait locations. | https://waittimes.novascotia.ca/ |
 | Nova Scotia 811 | Nova Scotia · Provincial | Health service | Non-emergency health information and advice from registered nurses, by phone or online in Nova Scotia | https://811.novascotia.ca/ |
 | Health PEI — Emergency Department Wait Times | PEI · Provincial | Live dashboard | Live estimated ER wait times for all four PEI hospital emergency departments (QEH, PCH, KCMH, Western), refreshed every five minutes. | https://www.princeedwardisland.ca/en/information/health-pei/emergency-department-wait-times |
+| Health PEI — Facility Locations (OD0050) | PEI · Provincial | Dataset | Download every Health PEI facility — acute-care hospitals, health centres, etc. — with name, type, street address and lat/long coordinates. CSV/GeoJSON export plus ArcGIS REST API. | https://data.princeedwardisland.ca/datasets/0f90d991469e40ed8fcba35ee0ec62da/explore |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Yukon HSS — Public Health Inspections Lookup | Yukon · Provincial | Lookup tool | Search inspection reports for Yukon food premises and personal services establishments by facility or community; Environmental Health Officer reports updated weekly since 2014. | https://www.healthinspections.gov.yk.ca/ |
 
 ## 🏥 Health Regions & Local Health
 
@@ -1503,6 +1535,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Ontario Data Catalogue — Public Health Unit Boundaries | Ontario · Provincial | Geospatial open-data dataset | Download digital boundary files (GeoJSON/shape via GeoHub) for all 34 Ontario public health units under the Open Government Licence – Ontario, for mapping and joins to PHU-level data. | https://data.ontario.ca/en/dataset/public-health-unit-boundaries |
 | Hastings Prince Edward Public Health Inspection Search | Belleville · Regional | Food safety inspection search | Search food premises inspection results and compliance history for Belleville, Quinte West, and Hastings-Prince Edward region. | https://www.hpepublichealth.ca/ |
 | Middlesex-London Health Unit — Inspection Reports | London · Regional | Food inspection search | Food premise inspection reports for London and Middlesex County from the Middlesex-London Health Unit. | https://www.healthunit.com/food-safety/inspection-reports |
 | North Bay Parry Sound District Health Unit Data | North Bay · Regional | Public health data | North Bay Parry Sound District Health Unit reports and local health data — outbreaks, immunization, and community health indicators. | https://www.myhealthunit.ca/en/index.aspx |
@@ -1518,6 +1551,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Québec — Découpage territorial du réseau de la santé (MSSS) | Quebec · Provincial | Territory lookup tool + code tables | Look up CLSC territories from postal/municipal codes via the M34 tool, and get official annual code/name lists for the 18 sociosanitary regions, 22 RTS, 93 RLS and 166 CLSC territories. | https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/donnees-systeme-sante-quebecois-services/decoupage-territorial-sante-services-sociaux |
 | Montreal Food Inspection Report | Montreal · Municipal | Food inspection dataset | CSV download of municipal food inspection activity reports for restaurants and food establishments on Montreal territory. | https://donnees.montreal.ca/dataset/fa01965a-6db5-42f9-b889-d39769b046eb |
 
 ### Atlantic Canada (NB, NS, PE, NL)
@@ -1574,6 +1608,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | London Maps | London · Municipal | GIS | London's interactive GIS mapping tool — property, zoning, infrastructure, and planning data | https://london.ca/living-london/maps |
 | Oakville Maps — GeoHub | Ontario · Municipal | GIS | Oakville's interactive mapping portal — property, zoning, parks, and municipal infrastructure | https://maps.oakville.ca/ |
 | GeoOttawa | Ottawa · Municipal | Interactive map | Property, zoning, planning, aerials, and city geography layers | https://maps.ottawa.ca/geoottawa/ |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Department of Education and Early Years — Child Care Subsidy Monthly Caseload (OD0057) | PEI · Provincial | Dataset | Monthly number of families receiving child care subsidies in PEI since 2010, by fiscal year and month. Gauge affordability-program uptake. CSV/Excel download and ArcGIS REST API. | https://data.princeedwardisland.ca/datasets/8dc414ba9a7d45718a643f9fd1748bf4/explore |
+| Department of Social Development and Seniors — AccessAbility Supports Monthly Caseload (OD0056) | PEI · Provincial | Dataset | Monthly caseload counts for PEI's AccessAbility Supports disability benefit program, fiscal year 2010-11 to present. Monitor disability-benefit uptake over time. CSV/Excel and API. | https://data.princeedwardisland.ca/datasets/675d2761b44946a9951992177035ef1e/explore |
 
 ## 🏠 Housing & Real Estate
 
@@ -1646,6 +1687,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | New Brunswick — Property Assessment Online (PAOL) | New Brunswick · Provincial | Property | Search NB property assessments by address, PAN or PID, with four years of assessment history, recent sale prices and tax levy information on a provincial map. | https://paol-efel.snb.ca/ |
 | PVSC — Nova Scotia Assessment Search | Nova Scotia · Provincial | Property | Find any of Nova Scotia's 650,000+ property assessments by civic address, assessment account number, community or sale date. | https://www.pvsc.ca/find-assessment |
+| Department of Social Development and Seniors — Family Housing Program Activity (OD0059) | PEI · Provincial | Dataset | Social-housing activity by fiscal year: number of family housing units and new rent supplements issued. CSV/Excel download and ArcGIS REST API for housing-supply analysis. | https://data.princeedwardisland.ca/datasets/8c5cfc39e54c485db8f89a0d49c573b8/explore |
 | PEI Property Tax Calculator | PEI · Provincial | Calculator | Estimate annual property taxes for residential and commercial properties on Prince Edward Island | https://www.princeedwardisland.ca/en/service/property-tax |
 
 ## 🛣️ Transportation & Roads
@@ -2091,16 +2133,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Department of Environment and Local Government — Air Quality Data Portal | New Brunswick · Provincial | Real-time data portal | Query current and historic air quality readings from all provincial and industry-run monitoring stations; hourly updates, charts, Excel export, 3 years of data. | https://www.elgegl.gnb.ca/AirNB/ |
 | Ministry of Environment and Climate Change — Environmental Assessment Projects Register | Newfoundland and Labrador · Provincial | Public Register | Filterable register of provincial environmental assessments since March 2000: browse projects by year with proponents, registration dates, status and release decisions. | https://www.gov.nl.ca/eccc/env-assessment/projects-list/ |
+| MMSB — Green Depot Locator | Newfoundland and Labrador · Provincial | Lookup tool | Interactive Leaflet map plus searchable listing of all ~55 licensed beverage-container recycling depots across NL, with addresses, hours, contacts and paint/electronics acceptance notes. | https://mmsb.nl.ca/green-depot/ |
 | NL Water Resources Management Division Portal | Newfoundland and Labrador · Provincial | Water data portal | Real-time streamflow and water level monitoring, drinking water quality, boil water advisories, floodplain maps, water rights registry and an interactive water resources map. | https://www.gov.nl.ca/eccc/waterres/ |
+| Nova Scotia Coastal Hazard Map (NSGI) | Nova Scotia · Provincial | Interactive map | Province of Nova GeoNova viewer for coastal hazard layers including flooding and erosion risk, complementing legacy provincial flood-risk mapping data. | https://nsgi.novascotia.ca/chm |
 | Wildfire Nova Scotia Viewer (DNRR) | Nova Scotia · Provincial | Map viewer | Interactive map of current-year wildfires showing location, size and control status, published by Natural Resources and Renewables Forest Protection. | https://experience.arcgis.com/experience/0ee935539ce5495d86ce607d11a57a30/ |
 | Department of Environment, Energy and Climate Action — Water Well Records (OD0040) | PEI · Provincial | Open dataset | Records for wells drilled on PEI — location, construction details and groundwater level — downloadable as CSV/GeoJSON or queryable via ArcGIS API. | https://data.princeedwardisland.ca/datasets/48e7e4de6ab84efaa610bd26d89eac55/explore |
+| PEI Climate Hazard & Risk Information System (CHRIS) | PEI · Provincial | Map viewer | Official PEI government/UPEI map portal for coastal erosion, coastal flooding scenarios (2020–2100), inland flooding projections and historical storm events like Fiona and Dorian. | https://chris.peiclimate.ca/ |
 
 ### Northern Canada (YT, NT, NU)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| GNWT ECC — NWT Air Quality Monitoring Network | Northwest Territories · Provincial | Dashboard | Near real-time readings (PM2.5, ozone, NO2, SO2, CO) from five community stations (Yellowknife, Inuvik, Fort Smith, Fort Simpson, Norman Wells) with archived-data query tools; NAPS network. | https://aqm.enr.gov.nt.ca/ |
 | Government of Northwest Territories — Water Management & Monitoring Data | Northwest Territories · Provincial | Monitoring data downloads | ECC water data hub: download water quality and water level monitoring data (CSV/Excel) for NWT community and transboundary stations, with links to Mackenzie DataStream and real-time feeds. | https://www.gov.nt.ca/ecc/en/services/water-management-and-monitoring/data |
 | Government of Yukon — Waterline Public Registry | Yukon · Provincial | Public registry search | Yukon Water Board's online registry: search water use licences and applications by number, name or community and view licence documents, status and conditions of issuance. | https://apps.gov.yk.ca/waterline/ |
+| Yukon — YESAB Online Registry | Yukon · Provincial | Registry | Official public record of all Yukon environmental socio-economic assessments: search 200+ projects by map, read proposals and recommendations, track comment periods and decisions. | https://yesabregistry.ca/ |
 
 ## 🌦️ Weather & Climate
 
@@ -2128,6 +2175,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta Climate Information Service (ACIS) — Weather Station Data Viewer | Alberta · Provincial | Weather data portal | Interactive map viewer and download tool for over 535 Alberta weather stations. View near-real-time and historical data including precipitation, temperature, wind, heat units, and climate normals. Both hourly and daily data available for download in CSV format. | https://acis.alberta.ca/weather-data-viewer.jsp |
 | Alberta River Basins — Flow and Forecast | Alberta · Provincial | Hydrometric monitoring | Real-time river flows, basin conditions, and flood advisories for Alberta river systems. | https://rivers.alberta.ca/ |
 
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Water Security Agency — Provincial Flood Forecast & Spring Runoff Reports | Saskatchewan · Provincial | Reports & forecasts | Download current Spring Runoff Outlook reports, ten-day flow forecasts for the Saskatchewan River System, plus Lake Diefenbaker and Qu'Appelle watershed updates (PDF). | https://wsask.ca/recreation-environment/provincial-forecast/ |
+
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -2141,6 +2194,19 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario Flood Forecasting and Warning | Ontario · Provincial | Flood monitoring | Provincial flood outlooks, watershed condition reports, and real-time flood messages for Ontario conservation authorities. | https://www.ontario.ca/floodforecast/ |
 | Ontario Low Water Response | Ontario · Provincial | Drought monitoring | Provincial low water level advisories and drought status by conservation authority watershed in Ontario. | https://www.ontario.ca/page/low-water-response-program |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Centre d'expertise hydrique Québec (CEHQ) — Water Levels & Flows | Quebec · Provincial | Hydrometric monitoring | ~280-station hydrometric network with real-time levels and flows, open-water hydrological forecasts, full historical records, flood/low-flow analyses and Hydroclimatic Atlas. | https://www.cehq.gouv.qc.ca/hydrometrie/index.htm |
+| Vigilance — Flood Water Monitoring Map (Sécurité publique Québec) | Quebec · Provincial | Interactive map | Web app showing the spring-freshet flood situation across Québec in real time, informing residents and mobilizing municipal and government responders during flood events. | https://vigilance.geo.msp.gouv.qc.ca/carte |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| NB River Watch Flood Tracker | New Brunswick · Provincial | Flood monitoring | NBEMO interactive map tracking current and forecast water levels on the Saint John River during freshet, with normal/advisory/watch/warning/flood alert levels per location. | https://geonb.snb.ca/rwm/ |
 
 ## ⚡ Energy & Utilities
 
@@ -2180,6 +2246,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Calgary Electric Utility — ENMAX Outages | Calgary · Municipal | Outage map | ENMAX's power outage information and map for Calgary — view current outages and report service issues | https://www.enmax.com/outages |
 | Edmonton Electric Utility — EPCOR Outages | Edmonton · Municipal | Outage map | EPCOR's electric outage map for Edmonton — current power outages, outage causes, and restoration times | https://www.epcor.com/outages-safety/outages/current/Pages/default.aspx |
 | Edmonton Maps | Edmonton · Municipal | City map portal | Property, planning, utilities, and municipal geography tools | https://maps.edmonton.ca/ |
+
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| SaskPower — Outage Map and Updates | Saskatchewan · Provincial | Dashboard | Live map and table of unplanned and planned power outages across Saskatchewan with locations, restoration details and update times; set up outage-area notifications. | https://www.saskpower.com/outages/power-outages/outage-updates |
 
 ### Manitoba
 
@@ -2525,6 +2597,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Provincial Archives of New Brunswick | New Brunswick · Provincial | Archives | Searchable genealogical databases, land petitions, and historical images from New Brunswick's archives | https://archives.gnb.ca/ |
+| Heritage NL — Provincial Register of Historic Places Search | Newfoundland and Labrador · Provincial | Lookup tool | Filterable register of 995 designated heritage properties province-wide: Registered Heritage Structures and Districts, municipal designations, fisheries heritage buildings and Century Farms, by type and region. | https://heritagenl.ca/discover/heritage-property-search/ |
 | Nova Scotia Archives — Vital Statistics Search | Nova Scotia · Provincial | Genealogy database | Free search of historical Nova Scotia births (1864-1876, 1909+), marriages (from 1763 bonds) and deaths, every name linked to the digitized original record. | https://archives.novascotia.ca/vital-statistics/ |
 
 ## 📋 Lobbyists, Ethics & Disclosure
@@ -2546,6 +2619,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta Lobbyist Registry | Alberta · Provincial | Lobbyist registry | Free official registry under Alberta's Lobbyists Act; consultant and in-house lobbyist registrations are publicly searchable at any time. Live but blocks some automated fetchers. | https://albertalobbyistregistry.ca/ |
 | Calgary Lobbyist Information | Calgary · Municipal | Lobbyist dataset | Open Calgary dataset of lobbyist registration information — download and query via API for municipal lobbying disclosures. | https://data.calgary.ca/Government/Lobbyist-Information/i74e-mxx5 |
 
 ### Saskatchewan
@@ -2578,7 +2652,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| New Brunswick Registry of Lobbyists | New Brunswick · Provincial | Lobbyist registry | Web-based registry operated by Service New Brunswick for the Integrity Commissioner; lobbyists file disclosures and the public can view registrations online. | https://www.pxw1.snb.ca/snb9000/product.aspx?productid=A001PSNBCATLOBBY&l=e |
 | Newfoundland and Labrador Lobbyist Registry Search | Newfoundland and Labrador · Provincial | Lobbyist registry search | Free public search of registered lobbyists in Newfoundland and Labrador via the CADO portal — filter by lobbyist, client, and activity dates. | https://cado.eservices.gov.nl.ca/Lobbyist/LobbyistSearch.aspx |
+| Nova Scotia Registry of Lobbyists | Nova Scotia · Provincial | Lobbyist registry search | Search the provincial Registry of Lobbyists for filings on lobbyists, clients, government funding, departments lobbied, subject matters and techniques used. | https://lobbyist.novascotia.ca/ |
 | Prince Edward Island Lobbyist Registry | Prince Edward Island · Provincial | Lobbyist registry | PEI lobbyist registration search under the Lobbyist Registration Act. | https://www.princeedwardisland.ca/en/information/executive-council-office/lobbyist-registration |
 
 ## 🚨 Emergency, Safety & Alerts
@@ -2753,8 +2829,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | New Brunswick — Acts and Regulations | New Brunswick · Provincial | Statutes database | Consolidated acts and regulations of New Brunswick in both official languages | https://laws.gnb.ca/ |
 | New Brunswick Courts — Schedules and Records | New Brunswick · Provincial | Courts portal | Official judiciary site for the Court of Appeal, King's Bench, Probate, Provincial and Small Claims courts: case schedules, rules of court, courthouse locations and records access. | https://www.courtsnb-coursnb.ca/content/cour/en.html |
+| Supreme Court of Newfoundland and Labrador — Judgments Database | Newfoundland and Labrador · Provincial | Lookup tool | Searchable database of Supreme Court and Court of Appeal decisions with keyword, docket number, judge, date-range and subject-tag filters; full judgment texts from 2001 onward. | https://records.court.nl.ca/ |
 | Courts of Nova Scotia | Nova Scotia · Provincial | Court portal | Nova Scotia's courts — decisions database, virtual court information, and self-help guides | https://www.courts.ns.ca/ |
 | Nova Scotia Legal Aid | Nova Scotia · Provincial | Legal aid | Free legal help in criminal, family, and social justice matters across Nova Scotia | https://www.nslegalaid.ca/ |
+| Department of Justice and Public Safety — Victim Services Referrals (OD0018) | PEI · Provincial | Dataset | Annual count of new referrals to the PEI Victim Services Program by fiscal year from 2011/12 onward. Track demand for justice support services. CSV/Excel download and ArcGIS REST API. | https://data.princeedwardisland.ca/datasets/265f2d1210b348b2971c18b5fd4a2372/explore |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Courts of the NWT — Scheduled Matters & Docket PDFs | Northwest Territories · Provincial | Lookup tool | Filter scheduled court matters by court, community and date range across all NWT regions; download daily Territorial/Supreme Court docket PDFs refreshed several times a day. | https://www.nwtcourts.ca/en/schedule/matters/ |
+| Nunavut Courts — Daily Docket & Court File Search | Nunavut · Provincial | Lookup tool | Search daily criminal/civil court dockets by community, court type and date across all Nunavut communities; also concluded dockets and party lookup by name or court file number. | https://dockets.nunavutcourts.ca/ |
 
 ## 🛡️ Consumer Protection & Privacy
 
@@ -2789,6 +2874,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| FCAA — FCAA411 Licence & Registration Search | Saskatchewan · Provincial | Lookup tool | Search whether payday lenders, collection agencies, mortgage brokers, vehicle dealers, direct sellers, insurers and pension plans are licensed in Saskatchewan. | https://fcaa.gov.sk.ca/fcaa411 |
 | OIPC Saskatchewan | Saskatchewan · Provincial | Regulator | Saskatchewan's Information and Privacy Commissioner — reviews, reports, and privacy guidance | https://oipc.sk.ca/ |
 | Ombudsman Saskatchewan | Saskatchewan · Provincial | Ombudsman | Takes complaints about Saskatchewan government ministries, agencies, Crown corporations, and municipal councils | https://ombudsman.sk.ca/ |
 
@@ -2818,7 +2904,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| FCNB — Check Licence and Registration | New Brunswick · Provincial | Lookup tool | Financial and Consumer Services Commission portal to verify insurance, investment, mortgage, real estate, direct-seller, debt-collection and payday-loan licences, plus complaint filing. | https://www.fcnb.ca/en/frauds-and-scams/check-licence-and-registration |
+| NL Consumer Affairs Division | Newfoundland and Labrador · Provincial | Portal | Digital Government and Service NL consumer affairs hub: right to cancel, distance contracts, direct-seller licensing and complaints, identity-theft guidance, plus consumer alerts feed. | https://www.gov.nl.ca/dgsnl/consumer/consumer-affairs/ |
+| Public Utilities Board — Regulated Fuel Price Schedule | Newfoundland and Labrador · Provincial | Dashboard | Weekly/daily maximum prices for gas, diesel, furnace oil and propane across all 14+ PUB pricing zones, with current PDF price orders per zone, historical pricing archive and zone map. | https://www.pub.nf.ca/PP_petroleumproducts.php |
+| Service Nova Scotia — Consumer Protection | Nova Scotia · Provincial | Portal | Service NS hub for consumer rights under the Consumer Protection Act: direct sellers, collections, credit reports, payday loans, funerals, condominiums, and online business complaints. | https://beta.novascotia.ca/programs-and-services/consumer-protection |
 | IRAC — Current Regulated Petroleum Prices | PEI · Provincial | Regulated price schedule | IRAC's regulated minimum/maximum pump prices for gasoline, diesel, furnace oil and propane, adjusted twice weekly, with pricing orders and notices (PDF). | https://irac.pe.ca/petrol/current-petroleum-prices/ |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| NWT MACA — Consumer Affairs | Northwest Territories · Provincial | Portal | Consumer Affairs office: free complaint process with electronic form, direct-seller/collection/real-estate/gaming licensing, product recalls and consumer information bulletins. | https://www.maca.gov.nt.ca/en/services/consumer-affairs |
+| Yukon — Complaint Against a Regulated Business Professional | Yukon · Provincial | Complaint process | Formal complaint process for collection agents, funeral directors, insurers, pawnbrokers, real estate and security professionals, with paired licence-verification pages on yukon.ca. | https://yukon.ca/en/doing-business/professional-licensing/make-complaint-against-government-regulated-business-professional |
 
 ## 🪶 Indigenous Services & Treaties
 
@@ -2849,12 +2946,32 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Treaty Commission — Interactive Map | British Columbia · Agency | Interactive map | Explore First Nations in BC treaty negotiations and modern treaty nations, with layers for traditional territories, shared areas and negotiation stages. | https://bctreaty.ca/map/ |
+| Nisga'a Lisims Government — Nisga'a Land Title Office | British Columbia · Provincial | Registry | Request parcel title searches in Canada's only Indigenous-run Torrens land registry, calculate fees, and download survey plans, forms and legislation (PDF). | https://nisgaalandtitle.ca/title-search-and-copy/ |
+
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Métis Nation—Saskatchewan — Citizenship Registry | Saskatchewan · Provincial | Registry | Register as an MN–S citizen or renew, replace and update cards; download fillable citizenship applications, genealogy guides and vital-statistics consent forms (PDF). | https://mns.ca/metis-citizens/citizenship-registry |
+
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Manitoba Métis Federation — Central Registry Online Citizenship Application | Manitoba · Provincial | Registry | Apply online for Red River Métis citizenship and harvester cards: document and photo upload, genealogy checklist, fee payment; instructions and forms as downloadable PDF. | https://cro.mmf.mb.ca/apply |
 
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario — Map of Ontario Treaties and Reserves | Ontario · Provincial | Interactive map | Search an interactive map to find which of Ontario's 40+ treaties covers any location and click reserves to learn about First Nation communities. | https://www.ontario.ca/page/map-ontario-treaties-and-reserves |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Inuvialuit Regional Corporation — ISR Research Portal (Climate Action Map) | Northwest Territories · Provincial | Interactive map | Search interactive ArcGIS maps of climate-change research and community projects plus an indicator dashboard of socioeconomic and environmental stats for the Inuvialuit Settlement Region. | https://research.inuvialuit.com/ |
+| Tłıchǫ Government — Tłıchǫ Mapping | Northwest Territories · Provincial | Interactive map | ArcGIS dashboards of Tłıchǫ lands: Wenek'e land-use plan zones, cabin registrations, harvesting areas and traditional place-name maps; user manual PDF. Site 403-bot-blocks fetchers. | https://www.tlicho.ca/tlicho-mapping |
 
 ## 🎖️ Veterans & Military
 
