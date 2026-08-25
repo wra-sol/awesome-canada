@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1444 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1508 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -28,37 +28,37 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 191
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 86
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 128
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 104
-- [🪪 Government Services & ID](#government-services-and-id) — 38
-- [💰 Taxes & Revenue](#taxes-and-revenue) — 21
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 113
+- [🪪 Government Services & ID](#government-services-and-id) — 39
+- [💰 Taxes & Revenue](#taxes-and-revenue) — 22
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 30
 - [🏢 Business & Procurement](#business-and-procurement) — 45
-- [💼 Employment & Labour](#employment-and-labour) — 21
-- [🎓 Education & Student Aid](#education-and-student-aid) — 18
+- [💼 Employment & Labour](#employment-and-labour) — 27
+- [🎓 Education & Student Aid](#education-and-student-aid) — 21
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 38
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 14
-- [🩺 Health & Wellness](#health-and-wellness) — 42
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 15
+- [🩺 Health & Wellness](#health-and-wellness) — 47
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 25
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 31
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 39
 - [🚌 Transit & Mobility](#transit-and-mobility) — 58
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 26
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 58
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 62
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 48
 - [🌦️ Weather & Climate](#weather-and-climate) — 12
 - [⚡ Energy & Utilities](#energy-and-utilities) — 34
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 21
 - [🔬 Science, Research & Space](#science-research-and-space) — 32
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 44
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 32
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 49
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 35
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 42
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 26
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 13
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 39
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 21
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 19
 - [🎖️ Veterans & Military](#veterans-and-military) — 13
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 41
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 46
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 18
 
 ---
@@ -617,6 +617,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Department of Finance — Fiscal Reference Tables | Canada · Federal | Dataset | Annual Excel and PDF tables covering federal, provincial-territorial and local government finances — revenues, expenses, debt and G7 comparisons. | https://www.canada.ca/en/department-finance/services/publications/fiscal-reference-tables.html |
 | GC InfoBase | Canada · Federal | Data visualization | Treasury Board's interactive explorer of federal finances, people and results — track spending from the government-wide view down to individual programs. | https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-eng.html |
+| Office of the Auditor General of Canada | Canada · Federal | Legislative audit | Independent audits of federal government operations — performance reports, financial audits, and environment commissioner reports | https://www.oag-bvg.gc.ca/ |
 | Open Government — Government Travel Expenses Search | Canada · Federal | Search tool | Search proactively disclosed travel expense reports of ministers, senior officials, and staff across federal institutions by name, department, and date. | https://search.open.canada.ca/travel/ |
 | Parliamentary Budget Officer — Reports & Costings | Canada · Federal | Budget watchdog | Independent budget analysis for Parliament: election platform costings, fiscal projections, departmental spending analyses, and custom costing requests. Complements the absence of federal line-by-line budget data tools. | https://www.pbo-dpb.gc.ca/ |
 
@@ -624,6 +625,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Auditor General of British Columbia | British Columbia · Provincial | Legislative audit | Independent audits and reports on how well BC's government manages public resources | https://www.bcauditor.com/ |
 | BC Bid — Contract Awards | British Columbia · Provincial | Procurement awards | Search awarded BC public sector contracts and standing offers on BC Bid — filter by ministry, vendor, and date. | https://bcbid.gov.bc.ca/page.aspx/en/buy/contract-award |
 | Burnaby — Financial Plans & Annual Reports | Burnaby · Municipal | Financial reports | Download multi-year City of Burnaby financial plans (2022–2030) and annual municipal reports as PDFs. Track capital and operating budgets, reserve funds, and fiscal sustainability over time. | https://www.burnaby.ca/our-city/financial-and-annual-reports |
 | Coquitlam — OpenBook Budget Explorer (Questica) | Coquitlam · Municipal | Budget transparency portal | Interactive Questica OpenBook budget transparency portal for Coquitlam — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected). | https://coquitlam.openbook.questica.com/ |
@@ -637,6 +639,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Auditor General of Alberta | Alberta · Provincial | Legislative audit | Independent assurance on Alberta government financial reporting and program performance | https://www.oag.ab.ca/ |
 | Banff — Consolidated Financial Statements | Banff · Municipal | Financial report | Town of Banff audited consolidated financial statements for 2021–2025, including the Banff Housing Corporation and Banff Public Library. Downloadable PDFs. | https://banff.ca/350/Financial-Reporting |
 | Calgary Open Budget | Calgary · Municipal | Budget open data | Approved operating and capital budget lines for the City of Calgary — filter by department, fund, and year with CSV/API export from Open Calgary. | https://data.calgary.ca/Government/Calgary-Open-Budget/fqax-i3nz |
 | Edmonton Approved Operating Budget — Expenses | Edmonton · Municipal | Budget dataset | Machine-readable approved operating budget expense lines by branch and service — download CSV or query Socrata API. | https://data.edmonton.ca/Financial/Approved-Operating-Budget-Expenses/da9s-v9j8 |
@@ -649,6 +652,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Provincial Auditor of Saskatchewan | Saskatchewan · Provincial | Legislative audit | Independent audits of Saskatchewan government ministries, Crown corporations, and agencies | https://auditor.sk.ca/ |
 | Saskatchewan Budget Portal | Saskatchewan · Provincial | Budget portal | Official provincial budget site with spending breakdowns by sector (health, education, communities, infrastructure) and region, plus downloadable budget materials and estimates documents. | https://budget.saskatchewan.ca/ |
 | Estevan — Annual Budget | Estevan · Municipal | Budget documents | Direct PDF downloads of annual budget documents for the City of Estevan, including proposed and final budgets from 2021 to 2026. Useful for tracking municipal spending priorities, tax changes, and capital investments in this Saskatchewan energy-sector city. | https://estevan.ca/annual-budget/ |
 | Lloydminster — Accounts Payable Reports | Lloydminster · Municipal | Vendor payment ledger | Monthly PDF accounts payable reports listing all vendor payments made by the City of Lloydminster. Updated monthly by the Finance department. Useful for tracking municipal spending, vendor relationships, and fiscal accountability. | https://www.lloydminster.ca/council-administration/finance/accounts-payable-reports/ |
@@ -665,6 +669,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Auditor General of Manitoba | Manitoba · Provincial | Legislative audit | Independent audit reports on Manitoba government operations and public accounts | https://www.oag.mb.ca/ |
 | Brandon — Compensation Disclosure | Brandon · Municipal | Compensation disclosure | Annual PDF reports disclosing compensation paid to City of Brandon council members and employees earning over $75,000 (now $85,000). Useful for salary research, transparency analysis, and tracking municipal compensation trends. | https://www.brandon.ca/city-hall/compensation-disclosure/ |
 | Brandon Budget and Finance | Brandon · Municipal | Budget documents | Download City of Brandon annual approved budgets (incl. 2026), audited financial statements, and multi-year financial plans. Includes operating and capital breakdowns by department — useful for fiscal accountability in Manitoba's second-largest municipality. | https://www.brandon.ca/city-hall/budget-and-finance |
 | Dauphin Financial Plans and Audited Statements | Dauphin · Municipal | Financial documents | Download City of Dauphin financial plans (2015–2026) and audited consolidated financial statements (2010–2024). Also includes fees, charges, and tax levy bylaws. | https://www.dauphin.ca/p/finance |
@@ -680,6 +685,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Auditor General of Ontario | Ontario · Provincial | Legislative audit | Value-for-money and financial audits of Ontario ministries, agencies, and the broader public sector | https://www.auditor.on.ca/ |
 | Ontario Budget Publications | Ontario · Provincial | Budget publications | Current and archived Ontario Budgets in HTML chapters and PDF: economic and fiscal outlook, revenue/expense tables, capital plan, borrowing and debt management strategy. | https://budget.ontario.ca/ |
 | Ontario Public Accounts — Schedule of Payments | Ontario · Provincial | Vendor payments | Detailed schedule of provincial payments to vendors and transfer recipients by ministry — annual CSV downloads in English and French. | https://data.ontario.ca/dataset/public-accounts-detailed-schedule-of-payments |
 | Ontario Public Sector Salary Disclosure | Ontario · Provincial | Salary disclosure | Searchable and downloadable public sector salary disclosure (Sunshine List) for Ontario employees earning over $100,000 — filter by organization, position, and year | https://www.ontario.ca/page/public-sector-salary-disclosure |
@@ -712,6 +718,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | MAMH — Profil financier des municipalités | Quebec · Provincial | Financial reports | Ministry of Municipal Affairs annual financial profile of each Quebec municipality: fiscal data, debt/taxation ratios, peer-group comparisons and indices; PDFs per municipality plus CSV/XLSX open data. | https://www.quebec.ca/gouvernement/gestion-municipale/finances-fiscalite-municipales/information-financiere/publications-financieres/profil-financier |
 | Quebec — Tableau de bord des projets en ressources informationnelles | Quebec · Provincial | Public dashboard | Track the health, cost, and schedule of every Quebec government IT project over $500,000 in a dashboard updated daily, filterable by department and portfolio. | https://www.tableaudebordprojetsri.gouv.qc.ca/tableau-de-bord |
 | Quebec SEAO — Open Contracting Data | Quebec · Provincial | Procurement open data | Weekly JSON/XML open data on Quebec public tenders and awarded contracts including municipalities — OCDS-inspired format since 2021. | https://www.donneesquebec.ca/recherche/fr/dataset/d23b2e02-085d-43e5-9e6e-e1d558ebfdd5 |
+| Vérificateur général du Québec | Quebec · Provincial | Legislative audit | Independent audits of Québec government departments, agencies, and Crown enterprises | https://www.vgq.qc.ca/ |
 | Gatineau — Liste de contrats | Gatineau · Municipal | Contracts list | Published list of municipal contracts awarded by Ville de Gatineau — procurement transparency for vendors and researchers. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fliste_contrats |
 | Gatineau — Rémunération des élus | Gatineau · Municipal | Elected officials remuneration | Councillor and mayor salary and expense disclosure for Gatineau elected officials — published remuneration reports. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fremuneration_elus |
 | Laval Budget & Financial Reports | Laval · Municipal | Budget documents | Direct PDF downloads of Laval's annual operating budgets (2020–2026), three-year capital investment programs (PTI), consolidated financial reports (2019–2024), councillor remuneration disclosures (rémunération élus, 2019–2024), credit rating reports, and public accountability reports (reddition de comptes). Quebec's third-largest city (~440k population). First budget entry for Laval, covering both fiscal planning and salary transparency. | https://www.laval.ca/organisation-municipale/budgets-rapports-financiers/ |
@@ -727,8 +734,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Auditor General of New Brunswick | New Brunswick · Provincial | Legislative audit | Independent audits and special reports on New Brunswick government programs and spending | https://www.agnb-vgnb.ca/ |
 | New Brunswick Budget Hub | New Brunswick · Provincial | Budget & estimates | Finance and Treasury Board budget hub: current and historical budgets, budget speech, main estimates, economic outlook, capital budget site and pre-budget consultation results. | https://www.gnb.ca/en/gov/budget.html |
 | Newfoundland and Labrador Budget 2026 | Newfoundland and Labrador · Provincial | Budget documents | Full provincial budget package: highlights, budget speech, The Economy, consolidated Estimates and Statements & Schedules with revenue and department-by-department spending. | https://www.gov.nl.ca/budget/2026/ |
+| Auditor General of Nova Scotia | Nova Scotia · Provincial | Legislative audit | Performance and financial audits of Nova Scotia government departments and agencies | https://oag-ns.ca/ |
 | Nova Scotia Awarded Public Tenders | Nova Scotia · Provincial | Procurement awards | CSV of awarded vendors and amounts for government tenders by entity, category, and date from the Nova Scotia open data portal. | https://data.novascotia.ca/datasets/m6ps-8j6u |
 | PEI Provincial Budget — Operating Budget Documents | PEI · Provincial | Budget documents | Finance hub for the operating budget: Budget Address, Estimates of Revenue and Expenditures, Budget Paper on the Economy, highlights, pre-budget consultations and archives from 1998. | https://www.princeedwardisland.ca/en/information/finance-and-affordability/provincial-budget-operating-budget |
 | Prince Edward Island — Estimates of Expenditure | Prince Edward Island · Provincial | Dataset | Annual provincial budget dataset showing planned spending by department for the upcoming fiscal year. Downloadable in CSV and PDF for fiscal accountability and budget analysis. | https://data.princeedwardisland.ca/datasets/e3c59ea5c9154796bf3a57f9816618bb_0/explore?showTable=true |
@@ -809,6 +818,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Manitoba Geological Survey | Manitoba · Provincial | Geology maps | Geological maps, mineral resources, and geoscience data for Manitoba | https://www.manitoba.ca/mit/geo/ |
+| Manitoba Vital Statistics Branch | Manitoba · Provincial | Service | Order Manitoba birth, marriage, and death certificates online | https://vitalstats.gov.mb.ca/ |
 
 ### Ontario
 
@@ -877,6 +887,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba TAXcess | Manitoba · Provincial | Tax portal | File and pay Manitoba retail sales tax, payroll tax, and other provincial taxes online | https://taxcess.gov.mb.ca/ |
 | Winnipeg — Property Assessment Search | Winnipeg · Municipal | Property assessment search | Search assessed values and property details for any address in Winnipeg through the Assessment and Taxation Department's public online search. | https://www.winnipeg.ca/city-governance/taxes/property-assessment/property-assessment-search |
 
 ### Ontario
@@ -1084,6 +1095,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Saskatchewan — OH&S Prosecution Outcomes and Statistics | Saskatchewan · Provincial | Enforcement database | Searchable tables of occupational health and safety convictions, fines and acquittals under The Saskatchewan Employment Act, fiscal years 2007-08 to present, plus penalty statistics. | https://www.saskatchewan.ca/business/safety-in-the-workplace/enforcements-prosecutions-and-investigations/prosecution-outcomes-and-statistics |
+| Saskatchewan Workers' Compensation Board | Saskatchewan · Provincial | Regulator | File and track workplace injury claims and employer accounts with Saskatchewan's WCB | https://www.wcbsask.com/ |
+
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| WCB Manitoba | Manitoba · Provincial | Regulator | Manitoba's workplace injury insurance — online claims, clearances, and employer services | https://www.wcb.mb.ca/ |
 
 ### Ontario
 
@@ -1092,6 +1110,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Employment Standards Act Ontario — Tools | Ontario · Federal | Calculators | Calculate overtime, vacation pay, termination pay, and other ESA obligations | https://www.ontario.ca/document/your-guide-employment-standards-act-0 |
 | Ontario — WSIB eClearance | Ontario · Agency | Clearance certificate lookup | Verify a contractor's WSIB clearance certificate online — search by business name, account or clearance number (up to 200 at once) before hiring. | https://clearances.wsib.ca/Clearances/eclearance/start?lang=en |
 | Ontario Minimum Wage | Ontario · Provincial | Reference | Current and scheduled Ontario minimum wage rates by worker category | https://www.ontario.ca/document/your-guide-employment-standards-act-0/minimum-wage |
+| WSIB Ontario | Ontario · Provincial | Regulator | Ontario's workplace injury insurer — file claims, view claim status, and access return-to-work services online | https://www.wsib.ca/ |
 
 ### Quebec
 
@@ -1103,6 +1122,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| WorkSafeNB | New Brunswick · Provincial | Regulator | New Brunswick's workplace health, safety, and compensation services — claims and employer accounts online | https://www.worksafenb.ca/ |
+| WCB Nova Scotia | Nova Scotia · Provincial | Regulator | Workplace injury insurance for Nova Scotia — online claim services for workers and employers | https://www.wcb.ns.ca/ |
+| WCB Prince Edward Island | PEI · Provincial | Regulator | Workers compensation services for PEI — claims, clearances, and workplace safety resources | https://www.wcb.pe.ca/ |
 | WorkPEI | PEI · Provincial | Job board | Government-run one-stop employment site: searchable job board, job seeker profiles and alerts, employer directory, labour market info dashboard, occupation profiles and economic indicators. | https://workpei.ca/ |
 
 ## 🎓 Education & Student Aid
@@ -1130,6 +1152,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta Student Aid | Alberta · Provincial | Student aid | Apply for Alberta loans, grants, and scholarships with an account dashboard | https://studentaid.alberta.ca/ |
 | ApplyAlberta | Alberta · Provincial | Service | Central application service for Alberta post-secondary institutions | https://www.applyalberta.ca/ |
 
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Saskatchewan Student Loans | Saskatchewan · Provincial | Student aid | Apply for Saskatchewan student loans and grants, and manage repayment online | https://www.saskatchewan.ca/residents/education-and-learning/student-loans |
+
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -1152,6 +1180,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Aide financière aux études (Quebec) | Quebec · Provincial | Student aid | Quebec's loans and bursaries program for full- and part-time post-secondary students | https://www.quebec.ca/education/aide-financiere-aux-etudes |
+| Québec — Student Financial Assistance (AFE) | Quebec · Provincial | Student aid | Québec's loans and bursaries program — eligibility simulators and online application | https://www.quebec.ca/en/education/student-financial-assistance |
 | Tableau de bord de l'éducation (MEQ) | Quebec · Provincial | Statistics dashboard | MEQ indicators for preschool-to-secondary education: enrolment, graduation/qualification rates, ministerial exam results, dropouts, teacher vacancies; charts by region and school organization. | https://www.quebec.ca/education/indicateurs-statistiques/prescolaire-primaire-secondaire/tableau-de-bord |
 
 ### Atlantic Canada (NB, NS, PE, NL)
@@ -1159,6 +1188,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | New Brunswick Student Financial Services | New Brunswick · Provincial | Student assistance | NB student loans and grants portal: eligibility, application, and repayment for provincial and Canada-New Brunswick integrated loans. | https://www2.gnb.ca/content/gnb/en/services/services_renderer.201437.html |
+| Nova Scotia Student Assistance | Nova Scotia · Provincial | Student aid | Student loans, grants, and repayment assistance for Nova Scotia post-secondary students | https://novascotia.ca/studentassistance/ |
 
 ## 🎒 Schools, Education & Boards
 
@@ -1250,6 +1280,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Express Entry — Eligibility Checker | Canada · Federal | Eligibility tool | Find out if you're eligible for Express Entry under the Federal Skilled Worker, Federal Skilled Trades, or Canadian Experience Class programs | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility.html |
 | Immigration, Refugees and Citizenship Canada — Come to Canada Tool | Canada · Federal | Eligibility tool | Answer two questions to get a personalized list of immigration programs you may be eligible for, with a personal reference code | https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html |
 | IRCC — Application Processing Times | Canada · Federal | Reference | Official processing times for PR, citizenship, visas, work/study permits updated weekly | https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html |
+| IRCC — Check Application Status | Canada · Federal | Status tracker | Check the status of citizenship, permanent residence, and temporary visa applications online | https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html |
 | IRCC — Express Entry Rounds of Invitations | Canada · Federal | Reference | Historical CRS cut-off scores and candidate counts for every Express Entry draw | https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html |
 | IRCC — Medical Requirements and Panel Physicians | Canada · Federal | Finder | Find IRCC panel physicians and review medical exam requirements by country | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/medical-exams.html |
 | IRCC — Post-Graduation Work Permit | Canada · Federal | Service | Apply for a PGWP after graduating from a designated Canadian learning institution | https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation.html |
@@ -1316,6 +1347,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | British Columbia — CPSBC Registrant Directory | British Columbia · Agency | Licence registry search | Look up any BC physician, surgeon or podiatrist to confirm their licence, specialty, practice location, and any conditions or disciplinary actions. | https://www.cpsbc.ca/public/registrant-directory |
+| BC Health Gateway | British Columbia · Provincial | Health portal | Secure access to your BC health records — lab results, medications, immunizations, and hospital visits | https://www.healthgateway.gov.bc.ca/ |
 | British Columbia — Surgery Wait Times | British Columbia · Provincial | Wait-time lookup | Compare scheduled-surgery wait times in BC by procedure, hospital and surgeon — see the wait to consult a surgeon and the wait for surgery, updated bi-monthly. | https://swt.hlth.gov.bc.ca/ |
 | HealthLink BC — 8-1-1 | British Columbia · Provincial | Health service | 24/7 non-emergency health advice, dietitian, and pharmacist services by phone and web in BC | https://www.healthlinkbc.ca/ |
 | Vaccinate BC | British Columbia · Provincial | Service | Book BC immunizations, view records, and find vaccine availability | https://www.getvaccinated.gov.bc.ca/ |
@@ -1327,6 +1359,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta — AHS Emergency Department Wait Times | Alberta · Agency | Live wait-time dashboard | Check live estimated emergency department and urgent care wait times at hospitals in Calgary, Edmonton and other Alberta cities before you go. | https://www.albertahealthservices.ca/waittimes/waittimes.aspx |
 | Alberta Health Analytics Interactive Data | Alberta · Provincial | Dashboards | Alberta Health dashboard suite: childhood immunization coverage, substance use surveillance, PCN community profiles, surgical initiative performance and national health expenditure comparisons. | https://healthanalytics.alberta.ca/health-analytics.html |
 | Health Link Alberta — 8-1-1 | Alberta · Provincial | Health service | Alberta's 24/7 telehealth service for health advice and service navigation | https://www.albertahealthservices.ca/healthlink/ |
+| MyHealth Alberta | Alberta · Provincial | Health portal | Alberta's health information portal — symptom checker, care guides, and access to personal health records | https://myhealth.alberta.ca/ |
 
 ### Saskatchewan
 
@@ -1351,6 +1384,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Cancer Care Ontario — Ontario Cancer System | Ontario · Federal | Cancer data | Wait times, screening program results, cancer statistics for Ontario | https://www.cancercareontario.ca/en |
 | Ontario — CPSO Physician Register | Ontario · Agency | Licence registry search | Search Ontario's official physician register by name or CPSO number to verify a doctor's licence status, specialty, hospital privileges and disciplinary history. | https://register.cpso.on.ca/ |
 | Ontario — Ontario Health Wait Times | Ontario · Agency | Wait-time lookup | Search wait times for surgeries, MRI/CT scans and breast screening by procedure and postal code, with a map of nearby hospitals and their current waits. | https://www.ontariohealth.ca/public-reporting/wait-times |
+| Health811 Ontario | Ontario · Provincial | Health service | Ontario's 811 service — chat or call a registered nurse day or night, and find health services near you | https://health811.ontario.ca/ |
 | Ontario — Drug Benefit Formulary Search | Ontario · Provincial | Drug coverage search | Search any drug to see if it is covered by the Ontario Drug Benefit program, with interchangeable products, prices and limited-use criteria. | https://www.formulary.health.gov.on.ca/formulary/ |
 | Ontario — Find a Doctor | Ontario · Provincial | Finder | Health Care Connect — register to be matched with a family doctor or nurse practitioner | https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner |
 | Public Health Ontario — Infectious Disease Trends Tool | Ontario · Provincial | Data dashboard | Explore 10+ years of reportable disease cases in Ontario by public health unit, age, sex, hospitalizations and deaths; annual detail plus monthly preliminary snapshots, with exportable tables. | https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/Reportable-Disease-Trends-Annually |
@@ -1361,6 +1395,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Info-Santé 811 (Québec) | Quebec · Provincial | Health service | Québec's free 811 telephone consultation service for non-urgent health questions, staffed by nurses | https://www.quebec.ca/en/health/finding-a-resource/info-sante-811 |
 | INSPQ — Indicateurs de santé publique | Quebec · Provincial | Data portal | INSPQ surveillance portal of population-health indicators: mortality, chronic and infectious disease, mental health, life habits, social inequalities; dynamic charts filterable by age, sex and region. | https://www.inspq.qc.ca/indicateur |
 
 ### Atlantic Canada (NB, NS, PE, NL)
@@ -1369,6 +1404,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | NL Centre for Health Information — Health Reports | Newfoundland and Labrador · Provincial | Health analytics reports | Provincial health system analytics: published health reports and indicator data used by government and regional health authorities for performance monitoring and policy. | https://nlchi.nl.ca/index.php/quality-information/health-analytics/health-reports |
 | Nova Scotia — Wait Time Information | Nova Scotia · Provincial | Wait-time lookup | Compare wait times for 150+ surgical procedures, MRI/CT scans, cancer care and mental health services across Nova Scotia to find the shortest-wait locations. | https://waittimes.novascotia.ca/ |
+| Nova Scotia 811 | Nova Scotia · Provincial | Health service | Non-emergency health information and advice from registered nurses, by phone or online in Nova Scotia | https://811.novascotia.ca/ |
 
 ## 🏥 Health Regions & Local Health
 
@@ -1847,6 +1883,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Parks | British Columbia · Provincial | Park finder | Clean park search experience with advisories and planning info | https://bcparks.ca/ |
+| BC Parks — Camping Reservations | British Columbia · Provincial | Reservation system | Reserve frontcountry campsites, backcountry permits, and group sites in BC's provincial parks | https://camping.bcparks.ca/ |
 | BC Parks Find a Park | British Columbia · Provincial | Finder | Filterable park explorer by activity, facilities, and area | https://bcparks.ca/find-a-park/ |
 | BC Parks Maps | British Columbia · Provincial | Interactive maps | Rich park map with overlays like closures, weather, cell coverage, and earthquakes | https://bcparks.ca/plan-your-trip/maps |
 | Recreation Sites and Trails B.C. | British Columbia · Provincial | Outdoor map / finder | Great search and filterable map for trails, recreation sites, alerts, and closures | https://www.sitesandtrailsbc.ca/ |
@@ -1856,6 +1893,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta Parks | Alberta · Provincial | Park finder | Park discovery, activities, reservations, and maps | https://www.albertaparks.ca/ |
+| Alberta Parks — Reservations | Alberta · Provincial | Reservation system | Book campsites and comfort camping across Alberta's provincial parks and recreation areas | https://reserve.albertaparks.ca/ |
 | Public Land Recreation Maps | Alberta · Provincial | Recreation map hub | Downloadable and georeferenced recreation maps for public land | https://www.alberta.ca/public-land-recreation-maps |
 | Public Land Use | Alberta · Provincial | Outdoor info hub | Closures, advisories, PLUZ info, maps, and camping pass links | https://www.alberta.ca/public-land-use-zones |
 
@@ -1872,6 +1910,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Trails Council | Ontario · Agency | Trails finder | Searchable directory of 2,300+ Ontario trails across hiking, biking, paddling, and skiing | https://ontariotrails.on.ca/ |
 | Fish ON-Line | Ontario · Provincial | Interactive map | Ontario's angler map of 20,000+ waterbodies: fish species observed, stocking records, regulations and sanctuaries, access points and lake depth contours. | https://www.ontario.ca/page/how-use-fish-line |
 | Ontario Parks | Ontario · Provincial | Park finder / booking | Park discovery, camping, maps, and trip planning | https://www.ontarioparks.ca/ |
+| Ontario Parks — Reservations | Ontario · Provincial | Reservation system | Book campsites, roofed accommodations, and backcountry permits across Ontario's provincial parks | https://reservations.ontarioparks.ca/ |
 | Caledon Trails Open Data | Caledon · Municipal | Trails GIS dataset | Caledon trail network GIS layers on the municipal open data hub — download paths and recreation routes or explore via the geohub. | https://geohub-caledon.hub.arcgis.com/ |
 
 ### Quebec
@@ -1887,6 +1926,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Parks New Brunswick | New Brunswick · Provincial | Park finder & reservations | Explore NB provincial parks — Mactaquac, Hopewell Rocks, Fundy Trail, Parlee Beach — check activities and events, and book campsites, cabins and rustic shelters online. | https://www.nbparks.ca/en/parks |
 | NL Parks — Provincial Parks Directory | Newfoundland and Labrador · Provincial | Park finder | Search Newfoundland and Labrador provincial parks and outdoor destinations | https://www.gov.nl.ca/ecc/ |
+| Nova Scotia Provincial Parks | Nova Scotia · Provincial | Parks portal | Find and book Nova Scotia's provincial parks, campgrounds, and beaches | https://parks.novascotia.ca/ |
 | PEI Parks | PEI · Provincial | Park finder | PEI provincial parks and beaches, camping and booking info | https://www.princeedwardisland.ca/en/topics/parks-and-environment |
 
 ### Northern Canada (YT, NT, NU)
@@ -2228,6 +2268,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Conservation Institute — CCI Notes | Canada · Federal | Publication series | 100+ free illustrated guides on care, handling and storage of cultural objects — metals, paintings, paper, textiles, photographs, emergency planning. HTML/PDF. | https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes.html |
 | Canadian Heritage — Virtual Exhibits | Canada · Federal | Digital exhibits | Digital heritage exhibits and museum resources | https://www.canada.ca/en/canadian-heritage/services/virtual-exhibits.html |
 | Canadian Museum for Human Rights | Canada · Federal | Museum | National museum in Winnipeg dedicated to the evolution, celebration, and future of human rights in Canada | https://humanrights.ca/ |
+| Canadian Museum of History — Collection | Canada · Federal | Museum | Online collection and virtual exhibitions from Canada's national museum of human history | https://www.historymuseum.ca/ |
 | Canadian Museum of Immigration at Pier 21 | Canada · Federal | Museum | National museum in Halifax exploring the immigrant experience and contributions to Canada's cultural mosaic | https://pier21.ca/ |
 | Canadian Museum of Nature — Online Collection | Canada · Federal | Digital collection | Digital access to the museum's natural history specimens and research | https://nature.ca/collection |
 | Canadian War Museum | Canada · Federal | Museum | Canada's national museum of military history, covering conflicts from earliest times to the present | https://www.warmuseum.ca/ |
@@ -2268,6 +2309,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Glenbow Museum — Collections Online | Alberta · Agency | Museum | Western Canadian art, Indigenous collections, and historical photos from Glenbow | https://www.glenbow.org/collections/ |
+| Royal Alberta Museum | Alberta · Provincial | Museum | Western Canada's largest museum — natural and human history of Alberta, with online collections | https://royalalbertamuseum.ca/ |
+
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Royal Saskatchewan Museum | Saskatchewan · Provincial | Museum | Saskatchewan's natural history museum — galleries, research, and the T. rex Discovery Centre | https://royalsaskmuseum.ca/ |
 
 ### Ontario
 
@@ -2287,6 +2335,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BAnQ — Bibliothèque et Archives nationales du Québec | Quebec · Provincial | Archive | Quebec's national library and archives with digitized newspapers, records, and genealogy | https://www.banq.qc.ca/ |
 | BAnQ numérique | Quebec · Provincial | Digital heritage portal | Browse and download Quebec's digitized heritage — newspapers, maps, photos, civil registers and notarial archives — including 100,000+ freely reusable public-domain documents. | https://numerique.banq.qc.ca/ |
 | Montreal Open Data showcase | Montreal · Municipal | App gallery | Gallery of applications built from Montreal open data | https://donnees.montreal.ca/en/showcase |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| New Brunswick Museum | New Brunswick · Provincial | Museum | New Brunswick's provincial museum — natural science and human history collections and online resources | https://www.nbm-mnb.ca/ |
+| The Rooms (Newfoundland and Labrador) | Newfoundland and Labrador · Provincial | Museum | Newfoundland and Labrador's provincial museum, art gallery, and archives — collections and online exhibits | https://www.therooms.ca/ |
 
 ## 🖼️ Heritage Registers & Public Art
 
@@ -2317,6 +2372,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta Register of Historic Places (HeRMIS) | Alberta · Provincial | Heritage register | Search or map-browse every Provincial and Municipal Historic Resource in Alberta, with statements of significance, locations and photos. | https://hermis.alberta.ca/ARHP/ |
+| Provincial Archives of Alberta | Alberta · Provincial | Archives | Alberta's provincial archives — search millions of photographs, films, and government and private records | https://provincialarchives.alberta.ca/ |
 | Calgary Heritage Inventory | Calgary · Municipal | Heritage inventory | Inventory of evaluated heritage resources in Calgary — search historic buildings and sites on Open Calgary. | https://data.calgary.ca/browse?category=Heritage |
 | Edmonton Register of Historic Resources | Edmonton · Municipal | Heritage register | Search Edmonton's Register of Historic Resources for municipally designated and inventoried heritage properties. | https://www.edmonton.ca/heritage |
 
@@ -2330,6 +2386,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Archives of Manitoba | Manitoba · Provincial | Archives | Manitoba government records and the Hudson's Bay Company Archives — keyword search and online finding aids | https://www.gov.mb.ca/chc/archives/ |
 | Winnipeg — Cemetery Burial Search | Winnipeg · Municipal | Search database | Search 124,000+ interment records from Winnipeg's three municipal cemeteries (Brookside, St. Vital, Transcona) with dates and exact section-lot-grave locations. | https://www.winnipeg.ca/services-programs/cemeteries/burial-search |
 
 ### Ontario
@@ -2360,6 +2417,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Provincial Archives of New Brunswick | New Brunswick · Provincial | Archives | Searchable genealogical databases, land petitions, and historical images from New Brunswick's archives | https://archives.gnb.ca/ |
 | Nova Scotia Archives — Vital Statistics Search | Nova Scotia · Provincial | Genealogy database | Free search of historical Nova Scotia births (1864-1876, 1909+), marriages (from 1763 bonds) and deaths, every name linked to the digitized original record. | https://archives.novascotia.ca/vital-statistics/ |
 
 ## 📋 Lobbyists, Ethics & Disclosure
@@ -2522,20 +2580,34 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Laws | British Columbia · Provincial | Statutes database | Official consolidated statutes and regulations of British Columbia, free to search and cite | https://www.bclaws.gov.bc.ca/ |
 | British Columbia — Court Services Online | British Columbia · Provincial | Court records search | E-search BC Provincial and Supreme civil, traffic and criminal court files by party name or file number, view daily court lists, and e-file documents. | https://justice.gov.bc.ca/cso/index.do |
+| Courts of British Columbia — Judgments | British Columbia · Provincial | Court decisions | Judgments and hearing lists from the BC Court of Appeal, Supreme Court, and Provincial Court | https://www.bccourts.ca/ |
 | Legal Services Society — Legal Aid BC | British Columbia · Provincial | Legal aid | Legal Aid BC — eligibility, duty counsel, and free legal resources for British Columbians | https://legalaid.bc.ca/ |
 
 ### Alberta
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta Courts | Alberta · Provincial | Court portal | Court of Appeal, Court of King's Bench, and Alberta Court of Justice — sittings, decisions, and filing information | https://albertacourts.ca/ |
+| Alberta King's Printer — Laws Online | Alberta · Provincial | Statutes database | Official source for Alberta's statutes, regulations, and orders in council | https://kings-printer.alberta.ca/ |
 | Legal Aid Alberta | Alberta · Provincial | Legal aid | Alberta legal aid eligibility, application, and duty counsel information | https://www.legalaid.ab.ca/ |
+
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Legal Aid Saskatchewan | Saskatchewan · Provincial | Legal aid | Free legal services in criminal and family matters for eligible Saskatchewan residents | https://legalaid.sk.ca/ |
+| Saskatchewan Law Courts | Saskatchewan · Provincial | Court portal | Saskatchewan's courts — daily dockets, judgments, and self-represented litigant resources | https://sasklawcourts.ca/ |
+| Saskatchewan Publications Centre | Saskatchewan · Provincial | Statutes database | Freelaw access to Saskatchewan's statutes, regulations, and official government publications | https://publications.saskatchewan.ca/ |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Legal Aid Manitoba | Manitoba · Provincial | Legal aid | Legal help for low-income Manitobans — apply online and find duty counsel services | https://www.legalaid.mb.ca/ |
 | Manitoba — Manitoba Laws | Manitoba · Provincial | Legislation database | Browse and search official consolidated Manitoba statutes (C.C.S.M.) and regulations, updated as amendments come into force, with annual chapters back to 1985. | https://web2.gov.mb.ca/laws/index.php |
+| Manitoba Courts | Manitoba · Provincial | Court portal | Manitoba Court of Appeal, King's Bench, and Provincial Court — hearing schedules, decisions, and registry contacts | https://www.manitobacourts.mb.ca/ |
 
 ### Ontario
 
@@ -2547,6 +2619,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Rental Housing Tribunal — Rent Increases | Ontario · Agency | Rent tool | Approved rent increase guidelines and maximum amounts for Ontario | https://www.ontario.ca/page/rent-increase-guideline |
 | Legal Aid Ontario | Ontario · Provincial | Legal aid | Ontario legal aid eligibility checker, duty counsel, and legal information | https://www.legalaid.on.ca/ |
 | Ontario Courts Public Portal | Ontario · Provincial | Court portal | Ontario's digital court portal for filing documents, accessing case information, and managing court matters online. | https://www.ontario.ca/page/ontario-courts-public-portal |
+| Ontario e-Laws | Ontario · Provincial | Statutes database | Official consolidated statutes and regulations of Ontario, searchable and current to the day | https://www.ontario.ca/laws |
 | Tribunals Ontario — Online Hearing Portal | Ontario · Provincial | Tribunal portal | File and manage matters across LTB, SBT, HRTO, LAT and other Tribunals Ontario bodies | https://tribunalsontario.ca/ |
 
 ### Quebec
@@ -2561,7 +2634,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| New Brunswick — Acts and Regulations | New Brunswick · Provincial | Statutes database | Consolidated acts and regulations of New Brunswick in both official languages | https://laws.gnb.ca/ |
 | New Brunswick Courts — Schedules and Records | New Brunswick · Provincial | Courts portal | Official judiciary site for the Court of Appeal, King's Bench, Probate, Provincial and Small Claims courts: case schedules, rules of court, courthouse locations and records access. | https://www.courtsnb-coursnb.ca/content/cour/en.html |
+| Courts of Nova Scotia | Nova Scotia · Provincial | Court portal | Nova Scotia's courts — decisions database, virtual court information, and self-help guides | https://www.courts.ns.ca/ |
+| Nova Scotia Legal Aid | Nova Scotia · Provincial | Legal aid | Free legal help in criminal, family, and social justice matters across Nova Scotia | https://www.nslegalaid.ca/ |
 
 ## 🛡️ Consumer Protection & Privacy
 
@@ -2580,6 +2656,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Ombudsperson | British Columbia · Provincial | Ombudsman | Investigates complaints of unfair treatment by BC public bodies and recommends fixes | https://bcombudsperson.ca/ |
 | Consumer Protection BC | British Columbia · Provincial | Regulator | BC's consumer protection regulator — complaint filing and industry information | https://www.consumerprotectionbc.ca/ |
 | Office of the Information and Privacy Commissioner of BC | British Columbia · Provincial | Regulator | BC's privacy regulator — complaint filing, FIPPA/PIPA decisions, and reports | https://www.oipc.bc.ca/ |
 
@@ -2587,7 +2664,22 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta Ombudsman | Alberta · Provincial | Ombudsman | Investigates complaints of unfair treatment by Alberta government authorities and designated professional organizations | https://www.ombudsman.ab.ca/ |
 | Consumer Protection Alberta — Service Alberta | Alberta · Provincial | Resources | Alberta consumer protection information, complaints, and business licensing | https://www.alberta.ca/consumer-protection |
+| OIPC Alberta | Alberta · Provincial | Regulator | Alberta's Information and Privacy Commissioner — access to information reviews and privacy breach reports | https://oipc.ab.ca/ |
+
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| OIPC Saskatchewan | Saskatchewan · Provincial | Regulator | Saskatchewan's Information and Privacy Commissioner — reviews, reports, and privacy guidance | https://oipc.sk.ca/ |
+| Ombudsman Saskatchewan | Saskatchewan · Provincial | Ombudsman | Takes complaints about Saskatchewan government ministries, agencies, Crown corporations, and municipal councils | https://ombudsman.sk.ca/ |
+
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Manitoba Ombudsman | Manitoba · Provincial | Ombudsman | Independent oversight of Manitoba government fairness, privacy, and whistleblower protection | https://www.ombudsman.mb.ca/ |
 
 ### Ontario
 
@@ -2595,6 +2687,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Consumer Protection Ontario — Tools | Ontario · Federal | Calculators | Find, compare, and understand consumer protections including car loans, leases, and contracts | https://www.ontario.ca/page/consumer-protection-ontario |
 | Information and Privacy Commissioner of Ontario | Ontario · Provincial | Regulator | Ontario's privacy and FOI oversight — complaint process, decisions, and guidance | https://www.ipc.on.ca/ |
+| Ombudsman Ontario | Ontario · Provincial | Ombudsman | Independent office investigating complaints about Ontario government services, municipalities, universities, and school boards | https://www.ombudsman.on.ca/ |
 
 ### Quebec
 
@@ -2602,6 +2695,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Commission d'accès à l'information du Québec | Quebec · Provincial | Regulator | Quebec's access to information and privacy commission — decisions, complaints, guidance | https://www.cai.gouv.qc.ca/english/ |
 | Office de la protection du consommateur (Quebec) | Quebec · Provincial | Regulator | Quebec's consumer protection office — complaint filing, contract guides, and business records | https://www.opc.gouv.qc.ca/en/ |
+| Protecteur du citoyen (Québec) | Quebec · Provincial | Ombudsman | Québec's ombudsman — handles complaints about provincial ministries, agencies, and the health network | https://protecteurducitoyen.qc.ca/ |
 
 ## 🪶 Indigenous Services & Treaties
 
@@ -2681,6 +2775,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Legislative Assembly of British Columbia | British Columbia · Agency | Legislative | Bills, debates, committee work, and live webcasts from BC's Legislative Assembly | https://www.leg.bc.ca/ |
 | British Columbia — Political Contributions Search (FRPC) | British Columbia · Provincial | Contributions database | Elections BC's Financial Reports and Political Contributions system: combined contribution searches over $250 by contributor class (individual, corporation, union) with bulk download options. | https://contributions.electionsbc.gov.bc.ca/pcs/sa1asearch.aspx |
 | Elections BC | British Columbia · Provincial | Agency | BC electoral information, voter registration, and financial disclosure search | https://elections.bc.ca/ |
 | Vancouver Open Data Portal | Vancouver · Municipal | Open data portal | High-quality datasets and APIs for civic use | https://opendata.vancouver.ca/ |
@@ -2689,6 +2784,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Legislative Assembly of Alberta | Alberta · Agency | Legislative | Track Alberta bills, Hansard transcripts, and committee proceedings | https://www.assembly.ab.ca/ |
 | Elections Alberta | Alberta · Provincial | Agency | Alberta provincial election administration, voter lookup, and results | https://www.elections.ab.ca/ |
 | Elections Alberta — Financial Disclosure Database | Alberta · Provincial | Searchable database | Search registrations, financial reports and contributions over $250 for Alberta parties, candidates, constituency associations and leadership contests since 2004. | https://efpublic.elections.ab.ca/ |
 | Elections Calgary — Results and Disclosures | Calgary · Municipal | Results and disclosure hub | Browse official Calgary municipal election results by ward and voting station, plus candidate campaign finance disclosure statements. | https://www.electionscalgary.ca/results.html |
@@ -2741,6 +2837,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections New Brunswick | New Brunswick · Provincial | Elections portal | Register to vote, look up your electoral district, polling division and MLA by address, find voting options, and browse results, reports and political financing returns. | https://www.electionsnb.ca/content/enb/en.html |
 | Elections PEI | PEI · Provincial | Election results & voter services | Office administering provincial, municipal and school trustee elections: official district-level results, historical result comparison maps, voter registration portal and voting information. | https://www.electionspei.ca/ |
 | Civic Tech Fredericton | New Brunswick · Municipal | Civic tech | Fredericton-based civic tech community working on projects that improve government services, transparency, and democratic participation. | https://www.civictechfredericton.com/ |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Legislative Assembly of the Northwest Territories | Northwest Territories · Agency | Legislative | Bills, Hansard, and member information from the NWT's consensus government legislature | https://www.ntassembly.ca/ |
+| Legislative Assembly of Nunavut | Nunavut · Agency | Legislative | Bills, Hansard, and proceedings from Nunavut's Legislative Assembly in English, Inuktitut, and French | https://assembly.nu.ca/ |
+| Yukon Legislative Assembly | Yukon · Agency | Legislative | Bills, Hansard, and sitting schedules from Yukon's Legislative Assembly | https://yukonassembly.ca/ |
 
 ## 📡 Telecommunications & Digital
 

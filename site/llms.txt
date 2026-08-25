@@ -1,6 +1,6 @@
 # Awesome Canada
 
-> A curated, link-checked directory of 1444 official Canadian government resources: open data portals, interactive maps, calculators, registries and civic tools from federal, provincial, territorial and municipal governments.
+> A curated, link-checked directory of 1508 official Canadian government resources: open data portals, interactive maps, calculators, registries and civic tools from federal, provincial, territorial and municipal governments.
 
 Every entry links to an official government or public-interest source and is checked daily by automated link-rot tooling. Entries carry a jurisdiction (e.g. Canada, Ontario, Toronto), level of government, format, category and tags. The directory is maintained in the open at github.com/wra-sol/awesome-canada.
 
@@ -14,37 +14,37 @@ Every entry links to an official government or public-interest source and is che
 - [Open Data & Statistics](https://awesome-canada.ca/browse/open-data.html): 191 resources
 - [Planning, Zoning & Development](https://awesome-canada.ca/browse/planning-zoning.html): 86 resources
 - [Council, Democracy & Transparency](https://awesome-canada.ca/browse/council.html): 128 resources
-- [Budget, Finance & Procurement](https://awesome-canada.ca/browse/budget.html): 104 resources
-- [Government Services & ID](https://awesome-canada.ca/browse/gov-services.html): 38 resources
-- [Taxes & Revenue](https://awesome-canada.ca/browse/taxes.html): 21 resources
+- [Budget, Finance & Procurement](https://awesome-canada.ca/browse/budget.html): 113 resources
+- [Government Services & ID](https://awesome-canada.ca/browse/gov-services.html): 39 resources
+- [Taxes & Revenue](https://awesome-canada.ca/browse/taxes.html): 22 resources
 - [Finance, Banking & Economy](https://awesome-canada.ca/browse/finance.html): 30 resources
 - [Business & Procurement](https://awesome-canada.ca/browse/business.html): 45 resources
-- [Employment & Labour](https://awesome-canada.ca/browse/employment.html): 21 resources
-- [Education & Student Aid](https://awesome-canada.ca/browse/education.html): 18 resources
+- [Employment & Labour](https://awesome-canada.ca/browse/employment.html): 27 resources
+- [Education & Student Aid](https://awesome-canada.ca/browse/education.html): 21 resources
 - [Schools, Education & Boards](https://awesome-canada.ca/browse/school-board.html): 38 resources
-- [Immigration & Citizenship](https://awesome-canada.ca/browse/immigration.html): 14 resources
-- [Health & Wellness](https://awesome-canada.ca/browse/health.html): 42 resources
+- [Immigration & Citizenship](https://awesome-canada.ca/browse/immigration.html): 15 resources
+- [Health & Wellness](https://awesome-canada.ca/browse/health.html): 47 resources
 - [Health Regions & Local Health](https://awesome-canada.ca/browse/health-region.html): 25 resources
 - [Benefits & Social Services](https://awesome-canada.ca/browse/benefits.html): 24 resources
 - [Housing & Real Estate](https://awesome-canada.ca/browse/housing.html): 31 resources
 - [Transportation & Roads](https://awesome-canada.ca/browse/transport-roads.html): 39 resources
 - [Transit & Mobility](https://awesome-canada.ca/browse/transit.html): 58 resources
 - [Aviation, Marine & Rail](https://awesome-canada.ca/browse/aviation-marine.html): 26 resources
-- [Parks, Trails & Outdoors](https://awesome-canada.ca/browse/parks.html): 58 resources
+- [Parks, Trails & Outdoors](https://awesome-canada.ca/browse/parks.html): 62 resources
 - [Environment, Climate & Monitoring](https://awesome-canada.ca/browse/environment.html): 48 resources
 - [Weather & Climate](https://awesome-canada.ca/browse/weather.html): 12 resources
 - [Energy & Utilities](https://awesome-canada.ca/browse/utilities.html): 34 resources
 - [Agriculture, Food & Drink](https://awesome-canada.ca/browse/agriculture.html): 21 resources
 - [Science, Research & Space](https://awesome-canada.ca/browse/science.html): 32 resources
-- [Heritage, Culture & Arts](https://awesome-canada.ca/browse/culture.html): 44 resources
-- [Heritage Registers & Public Art](https://awesome-canada.ca/browse/heritage.html): 32 resources
+- [Heritage, Culture & Arts](https://awesome-canada.ca/browse/culture.html): 49 resources
+- [Heritage Registers & Public Art](https://awesome-canada.ca/browse/heritage.html): 35 resources
 - [Lobbyists, Ethics & Disclosure](https://awesome-canada.ca/browse/lobbyist.html): 12 resources
 - [Emergency, Safety & Alerts](https://awesome-canada.ca/browse/safety.html): 42 resources
-- [Justice, Courts & Legal](https://awesome-canada.ca/browse/justice.html): 26 resources
-- [Consumer Protection & Privacy](https://awesome-canada.ca/browse/consumer.html): 13 resources
+- [Justice, Courts & Legal](https://awesome-canada.ca/browse/justice.html): 39 resources
+- [Consumer Protection & Privacy](https://awesome-canada.ca/browse/consumer.html): 21 resources
 - [Indigenous Services & Treaties](https://awesome-canada.ca/browse/indigenous.html): 19 resources
 - [Veterans & Military](https://awesome-canada.ca/browse/veterans.html): 13 resources
-- [Elections & Democracy](https://awesome-canada.ca/browse/elections.html): 41 resources
+- [Elections & Democracy](https://awesome-canada.ca/browse/elections.html): 46 resources
 - [Telecommunications & Digital](https://awesome-canada.ca/browse/telecom.html): 18 resources
 
 ## Site
@@ -54,4 +54,4 @@ Every entry links to an official government or public-interest source and is che
 - [Submit a link](https://awesome-canada.ca/submit.html): suggest an official Canadian government resource
 - [Report a broken link](https://awesome-canada.ca/report.html)
 
-Generated 2026-08-24.
+Generated 2026-08-25.
