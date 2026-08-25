@@ -654,31 +654,34 @@
 
   // ---- Trending strip ----
 
-  // Resource of the day — deterministic per UTC day, same for every visitor
+  // Resource of the day — deterministic per UTC day, same for every visitor.
+  // Dismissible: hides until the next UTC day (localStorage, private-mode safe).
   function initDaily() {
+    const DAILY_HIDE_KEY = 'ac-daily-hidden-day';
     const dailyEl = document.getElementById('daily');
     const bodyEl = document.getElementById('daily-body');
     if (!dailyEl || !bodyEl || !allResources.length) return;
+
+    let hiddenDay = null;
+    try { hiddenDay = parseInt(localStorage.getItem(DAILY_HIDE_KEY), 10) || null; } catch { /* private mode */ }
+    const today = Math.floor(Date.now() / 86400e3);
+    if (hiddenDay === today) return;
+
     const pool = allResources.filter(r => r.description);
     if (!pool.length) return;
-    const dayIndex = Math.floor(Date.now() / 86400e3);
-    const r = pool[dayIndex % pool.length];
+    const r = pool[today % pool.length];
     const count = likeCounts[r.url];
     bodyEl.innerHTML =
-      '<div class="daily-card">' +
-        '<div class="daily-name"><a href="' + escapeHtml(r.url) + '" target="_blank" rel="noopener">' + escapeHtml(r.name) + '</a></div>' +
-        '<div class="card-badges">' +
-          '<span class="badge badge-kind">' + escapeHtml(kindLabel(r.kind)) + '</span>' +
-          '<span class="badge badge-level">' + escapeHtml(r.level) + '</span>' +
-          '<span class="badge badge-category">' + escapeHtml(catLabel(r.category)) + '</span>' +
-          '<span class="badge badge-jurisdiction">' + escapeHtml(r.jurisdiction) + '</span>' +
-        '</div>' +
-        '<p class="daily-desc">' + escapeHtml(r.description) + '</p>' +
-        '<div class="daily-actions">' +
-          '<a class="daily-visit" href="?q=' + encodeURIComponent(r.name) + '" title="Show this resource in the directory">Find it in the directory</a>' +
-          (typeof count === 'number' ? '<span class="trending-count" title="' + fmtCount(count) + ' likes">' + HEART_SVG + fmtCount(count) + '</span>' : '') +
-        '</div>' +
-      '</div>';
+      '<a class="daily-name" href="' + escapeHtml(r.url) + '" target="_blank" rel="noopener">' + escapeHtml(r.name) + '</a>' +
+      '<span class="daily-meta">' + escapeHtml(catLabel(r.category)) + ' \u00b7 ' + escapeHtml(r.jurisdiction) + '</span>' +
+      '<span class="daily-desc">' + escapeHtml(r.description) + '</span>' +
+      (typeof count === 'number' ? '<span class="trending-count" title="' + fmtCount(count) + ' likes">' + HEART_SVG + fmtCount(count) + '</span>' : '');
+
+    document.getElementById('daily-hide')?.addEventListener('click', () => {
+      dailyEl.hidden = true;
+      try { localStorage.setItem(DAILY_HIDE_KEY, String(today)); } catch { /* private mode */ }
+    });
+
     dailyEl.hidden = false;
   }
 
