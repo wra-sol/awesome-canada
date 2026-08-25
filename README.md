@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1653 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1671 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,7 +26,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 ## Table of Contents
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 203
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 86
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 87
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 135
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 116
 - [🪪 Government Services & ID](#government-services-and-id) — 41
@@ -36,10 +36,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [💼 Employment & Labour](#employment-and-labour) — 41
 - [🎓 Education & Student Aid](#education-and-student-aid) — 24
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 40
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 22
-- [🩺 Health & Wellness](#health-and-wellness) — 57
-- [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 27
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 26
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 23
+- [🩺 Health & Wellness](#health-and-wellness) — 58
+- [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 28
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 29
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 32
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 41
 - [🚌 Transit & Mobility](#transit-and-mobility) — 58
@@ -47,18 +47,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 63
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 63
 - [🌦️ Weather & Climate](#weather-and-climate) — 17
-- [⚡ Energy & Utilities](#energy-and-utilities) — 36
+- [⚡ Energy & Utilities](#energy-and-utilities) — 37
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 27
 - [🔬 Science, Research & Space](#science-research-and-space) — 36
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 51
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 42
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 15
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 51
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 44
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 45
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 29
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 24
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 27
 - [🎖️ Veterans & Military](#veterans-and-military) — 13
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 46
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 52
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 18
 
 ---
@@ -444,6 +444,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Nunavut Planning Commission — Public Registry | Nunavut · Provincial | Land-use registry | Search Nunavut land-use project proposals on a map or by keyword and region — proposal notices, documents, schedules and comment periods, with new-document email alerts. | https://lupit.nunavut.ca/portal/registry/ |
 | WhitehorseMap | Whitehorse · Municipal | GIS | Interactive web-based GIS mapping tool for the City of Whitehorse with layers for planning, engineering, transportation, parks, utilities, and administration. Explore property boundaries, zoning, infrastructure, and public facilities. | https://gisext.whitehorse.ca/gis.php |
 
 ## 🏛️ Council, Democracy & Transparency
@@ -1388,6 +1389,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Northwest Territories Nominee Program | Northwest Territories · Provincial | Immigration program portal | NTNP streams (Employer-Driven, Francophone, Business) with an online Expression-of-Interest portal — points grid, draw schedule and employer application accounts. | https://www.immigratenwt.ca/ |
 | Yukon Nominee Program | Yukon · Provincial | Program portal | Official yukon.ca YNP page: employer-driven streams, Expression of Interest intakes and scoring priorities, application forms, and eligibility requirements. | https://yukon.ca/en/yukon-nominee-program |
 
 ## 🩺 Health & Wellness
@@ -1492,6 +1494,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| NWT Open Data — Hospital, Health Centre & Health Station List | Northwest Territories · Provincial | Dataset | Download the list of NWT hospitals, health centres and health stations by facility name, community, level of care and contact information — XLSX on the territorial open data portal. | https://opendata.gov.nt.ca/dataset/hospital-health-centre-and-health-station-list/resource/f0160ad7-b4c0-4bf9-9378-586cf59e0783 |
 | Yukon HSS — Public Health Inspections Lookup | Yukon · Provincial | Lookup tool | Search inspection reports for Yukon food premises and personal services establishments by facility or community; Environmental Health Officer reports updated weekly since 2014. | https://www.healthinspections.gov.yk.ca/ |
 
 ## 🏥 Health Regions & Local Health
@@ -1563,6 +1566,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Newfoundland and Labrador — Health Regions | Newfoundland and Labrador · Provincial | Dataset | Spatial delineation of health board coverage regions in Newfoundland and Labrador. Downloadable as KMZ and Shapefile for health service planning, epidemiological mapping, and demographic analysis. | https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=266 |
 | Nova Scotia — Food Establishment Inspection Reports | Nova Scotia · Provincial | Inspection search | Searchable database of food establishment inspection reports across Nova Scotia. Find inspection results for restaurants, grocery stores, and food-service facilities by name, location, or date. Reports cover compliance with food safety regulations and required corrective actions. | https://novascotia.ca/nse/food-protection/food-inspection-reports.asp |
 
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| NTHSSA — Performance Indicators Dashboard | Northwest Territories · Provincial | Dashboard | Interactive dashboard of NWT health-system indicators: emergency department physician wait times, Stanton CT/ultrasound waits, air-ambulance flights, medical travel volumes and lab workloads. | https://www.nthssa.ca/en/nthssa-performance-indicator-data |
+
 ## 🤝 Benefits & Social Services
 
 ### Federal / National
@@ -1598,6 +1607,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta Income Support | Alberta · Provincial | Social assistance | Apply for Alberta income support or AISH (Assured Income for the Severely Handicapped) | https://www.alberta.ca/income-support |
 | Calgary Equity Index | Calgary · Municipal | Equity map / dashboard | Sophisticated GIS tool mapping equity indicators across the city | https://calgary.ca/research/calgary-equity-index.html |
 
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Saskatchewan — SAID Income Support for People with Disabilities | Saskatchewan · Provincial | Program portal & rates | Saskatchewan Assured Income for Disability hub: monthly rate tables by community tier, income exemptions, and online application through a Saskatchewan Account with document upload. | https://www.saskatchewan.ca/residents/family-and-social-support/people-with-disabilities/income-support-for-people-with-disabilities |
+
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Manitoba — Rent Assist Estimator | Manitoba · Provincial | Calculator | Estimate monthly Rent Assist shelter benefits for low-income private renters — compares 80% of median market rent against 30% of net household income by household size. | https://gov.mb.ca/fs/eia/estimator.html |
+
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -1608,6 +1629,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | London Maps | London · Municipal | GIS | London's interactive GIS mapping tool — property, zoning, infrastructure, and planning data | https://london.ca/living-london/maps |
 | Oakville Maps — GeoHub | Ontario · Municipal | GIS | Oakville's interactive mapping portal — property, zoning, parks, and municipal infrastructure | https://maps.oakville.ca/ |
 | GeoOttawa | Ottawa · Municipal | Interactive map | Property, zoning, planning, aerials, and city geography layers | https://maps.ottawa.ca/geoottawa/ |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Québec — Services en ligne, aide financière de dernier recours | Quebec · Provincial | Client portal | Mon dossier portal for Québec social assistance: verify payment amounts and dates, submit documents online, track appointments and deadlines, apply and make repayments. | https://www.quebec.ca/famille-et-soutien-aux-personnes/aide-sociale-et-solidarite-sociale/services-en-ligne |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -2282,6 +2309,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| NB Power — Current Outages | New Brunswick · Crown Corp | Outage dashboard | Live outage map and per-region outage lists for NB Power — unplanned and planned interruptions with customers affected, refreshed every 10 minutes; lookup by phone or account number. | https://www.nbpower.com/open/outages.aspx?lang=en |
 | Nova Scotia Power — Outage Map | Nova Scotia · Provincial | Outage map | Live power outage map across Nova Scotia | https://outagemap.nspower.ca/ |
 | Maritime Electric — Outage Map | PEI · Provincial | Outage map | Maritime Electric's Prince Edward Island outage map | https://maritimeelectric.com/outages/ |
 
@@ -2840,6 +2868,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Courts of the NWT — Scheduled Matters & Docket PDFs | Northwest Territories · Provincial | Lookup tool | Filter scheduled court matters by court, community and date range across all NWT regions; download daily Territorial/Supreme Court docket PDFs refreshed several times a day. | https://www.nwtcourts.ca/en/schedule/matters/ |
 | Nunavut Courts — Daily Docket & Court File Search | Nunavut · Provincial | Lookup tool | Search daily criminal/civil court dockets by community, court type and date across all Nunavut communities; also concluded dockets and party lookup by name or court file number. | https://dockets.nunavutcourts.ca/ |
+| Yukon Courts — Judgment Database | Yukon · Provincial | Lookup tool | Search written reasons for judgment and sentencing from Yukon's Court of Appeal, Supreme Court and Territorial Court — most decisions since 2006, backfilled toward 2001, all as PDFs. | https://www.yukoncourts.ca/en/court-appeal/judgments |
 
 ## 🛡️ Consumer Protection & Privacy
 
@@ -2948,6 +2977,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Treaty Commission — Interactive Map | British Columbia · Agency | Interactive map | Explore First Nations in BC treaty negotiations and modern treaty nations, with layers for traditional territories, shared areas and negotiation stages. | https://bctreaty.ca/map/ |
 | Nisga'a Lisims Government — Nisga'a Land Title Office | British Columbia · Provincial | Registry | Request parcel title searches in Canada's only Indigenous-run Torrens land registry, calculate fees, and download survey plans, forms and legislation (PDF). | https://nisgaalandtitle.ca/title-search-and-copy/ |
 
+### Alberta
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Otipemisiwak Métis Government — Harvesting Program | Alberta · Provincial | Registry & program | Métis Harvester Identification Cards for Otipemisiwak citizens: hunt, fish and trap for food in designated Alberta harvesting areas, with RELM integration for free domestic fishing licences. | https://albertametis.com/harvesting/ |
+
 ### Saskatchewan
 
 | Name | Jurisdiction · Level | Type | Description | URL |
@@ -2966,12 +3001,19 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario — Map of Ontario Treaties and Reserves | Ontario · Provincial | Interactive map | Search an interactive map to find which of Ontario's 40+ treaties covers any location and click reserves to learn about First Nation communities. | https://www.ontario.ca/page/map-ontario-treaties-and-reserves |
 
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Nunatsiavut Government — Labrador Inuit Lands | Newfoundland and Labrador · Provincial | Land administration | Lands Division hub for Labrador Inuit Lands: applications registry for private interests, access rules under the Labrador Inuit Land Claims Agreement and the Regional Land Use Plan. | https://nunatsiavut.com/department/lands-natural-resources/labrador-inuit-lands/ |
+
 ### Northern Canada (YT, NT, NU)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Inuvialuit Regional Corporation — ISR Research Portal (Climate Action Map) | Northwest Territories · Provincial | Interactive map | Search interactive ArcGIS maps of climate-change research and community projects plus an indicator dashboard of socioeconomic and environmental stats for the Inuvialuit Settlement Region. | https://research.inuvialuit.com/ |
 | Tłıchǫ Government — Tłıchǫ Mapping | Northwest Territories · Provincial | Interactive map | ArcGIS dashboards of Tłıchǫ lands: Wenek'e land-use plan zones, cabin registrations, harvesting areas and traditional place-name maps; user manual PDF. Site 403-bot-blocks fetchers. | https://www.tlicho.ca/tlicho-mapping |
+| Qikiqtani Inuit Association — Land Use Registry | Nunavut · Provincial | Registry portal | Submit and track land-use applications for access to Inuit Owned Lands in the Qikiqtani Region — account-based portal with application status and permitting workflow. | https://apps.qia.ca/appform/ |
 
 ## 🎖️ Veterans & Military
 
@@ -3074,6 +3116,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Elections NL — Electoral District Maps & Poll Data | Newfoundland and Labrador · Agency | Map series | Per-district resources for all 40 NL districts: downloadable district maps, poll-by-poll maps and poll summaries alongside MLA and returning-office details. | https://www.elections.gov.nl.ca/resources/maps/ |
+| Elections NL — GIS Boundary Data | Newfoundland and Labrador · Agency | Geospatial dataset | Download NL electoral boundary shapefiles for GIS software — current district boundaries (via Open Data NL) plus polling-division files covering all districts. | https://www.elections.gov.nl.ca/resources/gis/ |
+| Elections Nova Scotia — Electoral District Tools | Nova Scotia · Agency | Interactive map | Explore provincial electoral districts on an interactive map and download the 2026 Provincial Electoral Map Series — one detailed PDF per district with boundaries and insets. | https://enstools.electionsnovascotia.ca/edinfo/ |
 | Elections New Brunswick | New Brunswick · Provincial | Elections portal | Register to vote, look up your electoral district, polling division and MLA by address, find voting options, and browse results, reports and political financing returns. | https://www.electionsnb.ca/content/enb/en.html |
 | Elections PEI | PEI · Provincial | Election results & voter services | Office administering provincial, municipal and school trustee elections: official district-level results, historical result comparison maps, voter registration portal and voting information. | https://www.electionspei.ca/ |
 | Civic Tech Fredericton | New Brunswick · Municipal | Civic tech | Fredericton-based civic tech community working on projects that improve government services, transparency, and democratic participation. | https://www.civictechfredericton.com/ |
@@ -3082,8 +3127,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Elections NWT | Northwest Territories · Agency | Election agency portal | Independent electoral authority for the NWT: official territorial election results, register-of-electors information, candidate financial reports and boundary commission reports. | https://www.electionsnwt.ca/ |
 | Legislative Assembly of the Northwest Territories | Northwest Territories · Agency | Legislative | Bills, Hansard, and member information from the NWT's consensus government legislature | https://www.ntassembly.ca/ |
+| Elections Nunavut | Nunavut · Agency | Election agency portal | Nunavut's election authority: latest general election results, constituency maps, online voter registration check/update and by-election coverage. | https://www.elections.nu.ca/en |
 | Legislative Assembly of Nunavut | Nunavut · Agency | Legislative | Bills, Hansard, and proceedings from Nunavut's Legislative Assembly in English, Inuktitut, and French | https://assembly.nu.ca/ |
+| Elections Yukon | Yukon · Agency | Election agency portal | Yukon's independent election authority: official results including the 2025 general election, voter information and candidate guides. | https://electionsyukon.ca/ |
 | Yukon Legislative Assembly | Yukon · Agency | Legislative | Bills, Hansard, and sitting schedules from Yukon's Legislative Assembly | https://yukonassembly.ca/ |
 
 ## 📡 Telecommunications & Digital

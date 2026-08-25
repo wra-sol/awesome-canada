@@ -3669,5 +3669,325 @@ module.exports = [
     ],
     "dateAdded": "2026-08-25",
     "verified": true
+  },
+  {
+    "name": "NWT Open Data — Hospital, Health Centre & Health Station List",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "health",
+    "type": "Dataset",
+    "description": "Download the list of NWT hospitals, health centres and health stations by facility name, community, level of care and contact information — XLSX on the territorial open data portal.",
+    "url": "https://opendata.gov.nt.ca/dataset/hospital-health-centre-and-health-station-list/resource/f0160ad7-b4c0-4bf9-9378-586cf59e0783",
+    "tags": [
+      "hospitals",
+      "health centres",
+      "facilities",
+      "xlsx",
+      "open data",
+      "nwt"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "NTHSSA — Performance Indicators Dashboard",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "health-region",
+    "type": "Dashboard",
+    "description": "Interactive dashboard of NWT health-system indicators: emergency department physician wait times, Stanton CT/ultrasound waits, air-ambulance flights, medical travel volumes and lab workloads.",
+    "url": "https://www.nthssa.ca/en/nthssa-performance-indicator-data",
+    "tags": [
+      "health indicators",
+      "wait times",
+      "dashboard",
+      "nwt"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Yukon Courts — Judgment Database",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "justice",
+    "type": "Lookup tool",
+    "description": "Search written reasons for judgment and sentencing from Yukon's Court of Appeal, Supreme Court and Territorial Court — most decisions since 2006, backfilled toward 2001, all as PDFs.",
+    "url": "https://www.yukoncourts.ca/en/court-appeal/judgments",
+    "tags": [
+      "judgments",
+      "case law",
+      "courts",
+      "yukon",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Elections NWT",
+    "level": "Agency",
+    "jurisdiction": "Northwest Territories",
+    "category": "elections",
+    "type": "Election agency portal",
+    "description": "Independent electoral authority for the NWT: official territorial election results, register-of-electors information, candidate financial reports and boundary commission reports.",
+    "url": "https://www.electionsnwt.ca/",
+    "tags": [
+      "elections",
+      "results",
+      "voter registration",
+      "nwt"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Elections Nunavut",
+    "level": "Agency",
+    "jurisdiction": "Nunavut",
+    "category": "elections",
+    "type": "Election agency portal",
+    "description": "Nunavut's election authority: latest general election results, constituency maps, online voter registration check/update and by-election coverage.",
+    "url": "https://www.elections.nu.ca/en",
+    "tags": [
+      "elections",
+      "results",
+      "voter registration",
+      "maps",
+      "nunavut"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Elections Nova Scotia — Electoral District Tools",
+    "level": "Agency",
+    "jurisdiction": "Nova Scotia",
+    "category": "elections",
+    "type": "Interactive map",
+    "description": "Explore provincial electoral districts on an interactive map and download the 2026 Provincial Electoral Map Series — one detailed PDF per district with boundaries and insets.",
+    "url": "https://enstools.electionsnovascotia.ca/edinfo/",
+    "tags": [
+      "elections",
+      "electoral districts",
+      "maps",
+      "pdf",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Elections NL — Electoral District Maps & Poll Data",
+    "level": "Agency",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "elections",
+    "type": "Map series",
+    "description": "Per-district resources for all 40 NL districts: downloadable district maps, poll-by-poll maps and poll summaries alongside MLA and returning-office details.",
+    "url": "https://www.elections.gov.nl.ca/resources/maps/",
+    "tags": [
+      "elections",
+      "districts",
+      "polls",
+      "maps",
+      "pdf",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Elections NL — GIS Boundary Data",
+    "level": "Agency",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "elections",
+    "type": "Geospatial dataset",
+    "description": "Download NL electoral boundary shapefiles for GIS software — current district boundaries (via Open Data NL) plus polling-division files covering all districts.",
+    "url": "https://www.elections.gov.nl.ca/resources/gis/",
+    "tags": [
+      "elections",
+      "shapefile",
+      "gis",
+      "boundaries",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Elections Yukon",
+    "level": "Agency",
+    "jurisdiction": "Yukon",
+    "category": "elections",
+    "type": "Election agency portal",
+    "description": "Yukon's independent election authority: official results including the 2025 general election, voter information and candidate guides.",
+    "url": "https://electionsyukon.ca/",
+    "tags": [
+      "elections",
+      "results",
+      "voter information",
+      "yukon"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": false
+  },
+  {
+    "name": "Saskatchewan — SAID Income Support for People with Disabilities",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "benefits",
+    "type": "Program portal & rates",
+    "description": "Saskatchewan Assured Income for Disability hub: monthly rate tables by community tier, income exemptions, and online application through a Saskatchewan Account with document upload.",
+    "url": "https://www.saskatchewan.ca/residents/family-and-social-support/people-with-disabilities/income-support-for-people-with-disabilities",
+    "tags": [
+      "income support",
+      "disability",
+      "said",
+      "benefits",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Manitoba — Rent Assist Estimator",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "benefits",
+    "type": "Calculator",
+    "description": "Estimate monthly Rent Assist shelter benefits for low-income private renters — compares 80% of median market rent against 30% of net household income by household size.",
+    "url": "https://gov.mb.ca/fs/eia/estimator.html",
+    "tags": [
+      "rent assist",
+      "calculator",
+      "housing benefit",
+      "manitoba"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Québec — Services en ligne, aide financière de dernier recours",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "benefits",
+    "type": "Client portal",
+    "description": "Mon dossier portal for Québec social assistance: verify payment amounts and dates, submit documents online, track appointments and deadlines, apply and make repayments.",
+    "url": "https://www.quebec.ca/famille-et-soutien-aux-personnes/aide-sociale-et-solidarite-sociale/services-en-ligne",
+    "tags": [
+      "social assistance",
+      "payments",
+      "client portal",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "NB Power — Current Outages",
+    "level": "Crown Corp",
+    "jurisdiction": "New Brunswick",
+    "category": "utilities",
+    "type": "Outage dashboard",
+    "description": "Live outage map and per-region outage lists for NB Power — unplanned and planned interruptions with customers affected, refreshed every 10 minutes; lookup by phone or account number.",
+    "url": "https://www.nbpower.com/open/outages.aspx?lang=en",
+    "tags": [
+      "outages",
+      "electricity",
+      "real-time",
+      "map",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Otipemisiwak Métis Government — Harvesting Program",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "indigenous",
+    "type": "Registry & program",
+    "description": "Métis Harvester Identification Cards for Otipemisiwak citizens: hunt, fish and trap for food in designated Alberta harvesting areas, with RELM integration for free domestic fishing licences.",
+    "url": "https://albertametis.com/harvesting/",
+    "tags": [
+      "metis",
+      "harvesting",
+      "registry",
+      "section 35",
+      "alberta"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Qikiqtani Inuit Association — Land Use Registry",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "indigenous",
+    "type": "Registry portal",
+    "description": "Submit and track land-use applications for access to Inuit Owned Lands in the Qikiqtani Region — account-based portal with application status and permitting workflow.",
+    "url": "https://apps.qia.ca/appform/",
+    "tags": [
+      "inuit",
+      "land use",
+      "permits",
+      "registry",
+      "nunavut"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Nunavut Planning Commission — Public Registry",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "planning-zoning",
+    "type": "Land-use registry",
+    "description": "Search Nunavut land-use project proposals on a map or by keyword and region — proposal notices, documents, schedules and comment periods, with new-document email alerts.",
+    "url": "https://lupit.nunavut.ca/portal/registry/",
+    "tags": [
+      "land use",
+      "planning",
+      "registry",
+      "map",
+      "nunavut"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Nunatsiavut Government — Labrador Inuit Lands",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "indigenous",
+    "type": "Land administration",
+    "description": "Lands Division hub for Labrador Inuit Lands: applications registry for private interests, access rules under the Labrador Inuit Land Claims Agreement and the Regional Land Use Plan.",
+    "url": "https://nunatsiavut.com/department/lands-natural-resources/labrador-inuit-lands/",
+    "tags": [
+      "inuit",
+      "lands",
+      "land claims",
+      "labrador",
+      "applications"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
+  },
+  {
+    "name": "Northwest Territories Nominee Program",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "immigration",
+    "type": "Immigration program portal",
+    "description": "NTNP streams (Employer-Driven, Francophone, Business) with an online Expression-of-Interest portal — points grid, draw schedule and employer application accounts.",
+    "url": "https://www.immigratenwt.ca/",
+    "tags": [
+      "immigration",
+      "nominee program",
+      "eoi",
+      "northwest territories"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
   }
 ];
