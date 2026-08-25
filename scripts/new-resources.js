@@ -2470,5 +2470,236 @@ module.exports = [
     ],
     "dateAdded": "2026-08-25",
     "verified": false
+  },
+  {
+    "name": "CADORS — Civil Aviation Occurrence Reports",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "aviation-marine",
+    "type": "Incident database",
+    "description": "Transport Canada's Civil Aviation Daily Occurrence Reporting System — query aviation incident and accident reports by date, aerodrome, aircraft, or event type, with TXT export.",
+    "url": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/CADORS-SCREAQ/q.aspx?lang=eng",
+    "tags": [
+      "aviation",
+      "safety",
+      "incidents",
+      "transport canada",
+      "database"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Transportation Safety Board — Investigation Reports",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "aviation-marine",
+    "type": "Investigation reports",
+    "description": "Search TSB rail, pipeline, marine and air investigation reports; browse occurrences by mode, year, or investigation class with full PDF reports.",
+    "url": "https://www.tsb.gc.ca/eng",
+    "tags": [
+      "safety",
+      "investigations",
+      "aviation",
+      "marine",
+      "rail",
+      "pipeline"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Canadian Importers Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Search database",
+    "description": "Find the major companies importing any product into Canada — searchable by product, city, or country of origin, built from CBSA customs data, with the firms behind 80% of imports of each product.",
+    "url": "https://ised-isde.canada.ca/site/ised/en/research-and-business-intelligence/canadian-importers-database",
+    "tags": [
+      "trade",
+      "imports",
+      "business intelligence",
+      "ISED"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Licensed Natural Health Products Database (LNHPD)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Product database",
+    "description": "Search licensed Canadian natural health products — vitamins, herbals, homeopathics — by product name, licence holder, or NPN number.",
+    "url": "https://health-products.canada.ca/lnhpd-bdpsnh/?lang=eng",
+    "tags": [
+      "health",
+      "supplements",
+      "natural health products",
+      "health canada"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Pesticide Label Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Product database",
+    "description": "Search Health Canada’s pesticide product registry by registration number, active ingredient, or company; view and download current registered labels (PDF).",
+    "url": "https://pest-control.canada.ca/pesticide-registry/en/label-search.html",
+    "tags": [
+      "pesticides",
+      "agriculture",
+      "PMRA",
+      "health canada",
+      "labels"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "CSRS-PPP — Precise Point Positioning",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Processing tool",
+    "description": "Submit GNSS observation files (RINEX) for free online post-processing to cm-level positions in NAD83/ITRF; results by email or download.",
+    "url": "https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp.php",
+    "tags": [
+      "GNSS",
+      "GPS",
+      "surveying",
+      "geodesy",
+      "NRCan"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Species at Risk Public Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Registry",
+    "description": "Search Canada’s official list of species at risk: status documents, recovery strategies, management plans and permits, downloadable per species.",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry.html",
+    "tags": [
+      "species at risk",
+      "wildlife",
+      "conservation",
+      "SARA",
+      "environment"
+    ],
+    "verified": false,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "CPIC — Stolen Vehicle and Bike Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Search database",
+    "description": "Public search of the CPIC stolen-property database — check vehicles, bicycles, trailers and other serial-numbered goods reported stolen by Canadian police.",
+    "url": "https://www.cpic-cipc.ca/",
+    "tags": [
+      "police",
+      "stolen property",
+      "vehicles",
+      "bikes",
+      "RCMP"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Canada's Missing",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Search database",
+    "description": "The RCMP's national public database of missing persons and unidentified remains cases — browse or search case profiles and submit tips directly to investigators.",
+    "url": "https://www.canadasmissing.ca/",
+    "tags": [
+      "missing persons",
+      "police",
+      "RCMP",
+      "public safety"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Ingenium Collection — Digital Archive",
+    "level": "Crown Corp",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Collection search",
+    "description": "Browse Canada's national science and technology collection online — 150,000+ artifacts from the Science and Technology, Aviation and Space, and Agriculture and Food museums, with photos and records.",
+    "url": "https://collection.ingenium.ca/en/",
+    "tags": [
+      "museums",
+      "artifacts",
+      "science",
+      "technology",
+      "heritage"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "RETScreen — Clean Energy Management Software",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "utilities",
+    "type": "Software",
+    "description": "Free government software for energy project feasibility analysis: clean energy, efficiency and cogeneration modelling with global climate and product data.",
+    "url": "https://natural-resources.canada.ca/maps-tools-publications/tools-applications/retscreen",
+    "tags": [
+      "energy",
+      "renewables",
+      "software",
+      "NRCan",
+      "modelling"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Canadian Weather Radar — Interactive Map",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Interactive map",
+    "description": "Environment Canada's national radar mosaic — animated precipitation radar for the whole country on one interactive map, with rain/snow layers and station-level detail.",
+    "url": "https://weather.gc.ca/index_e.html?layers=%2Cradar",
+    "tags": [
+      "weather",
+      "radar",
+      "precipitation",
+      "environment canada"
+    ],
+    "verified": true,
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "St. Thomas — Council Agendas & Minutes (eScribe)",
+    "level": "Municipal",
+    "jurisdiction": "St. Thomas",
+    "category": "council",
+    "type": "Council portal",
+    "description": "Searchable eScribe meeting portal with downloadable PDF agendas, minutes and supporting documents for St. Thomas regular, special and committee meetings.",
+    "url": "https://pub-stthomas.escribemeetings.com/",
+    "tags": [
+      "agendas",
+      "council",
+      "escribe",
+      "minutes",
+      "stthomas"
+    ],
+    "dateAdded": "2026-08-25",
+    "verified": true
   }
 ];

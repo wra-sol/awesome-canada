@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1589 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1601 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -27,33 +27,33 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 203
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 86
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 129
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 130
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 116
 - [🪪 Government Services & ID](#government-services-and-id) — 41
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 22
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 31
-- [🏢 Business & Procurement](#business-and-procurement) — 46
+- [🏢 Business & Procurement](#business-and-procurement) — 47
 - [💼 Employment & Labour](#employment-and-labour) — 41
 - [🎓 Education & Student Aid](#education-and-student-aid) — 24
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 38
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 17
-- [🩺 Health & Wellness](#health-and-wellness) — 51
+- [🩺 Health & Wellness](#health-and-wellness) — 52
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 25
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 24
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 31
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 41
 - [🚌 Transit & Mobility](#transit-and-mobility) — 58
-- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 27
+- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 29
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 63
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 57
-- [🌦️ Weather & Climate](#weather-and-climate) — 12
-- [⚡ Energy & Utilities](#energy-and-utilities) — 34
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 26
-- [🔬 Science, Research & Space](#science-research-and-space) — 35
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 58
+- [🌦️ Weather & Climate](#weather-and-climate) — 13
+- [⚡ Energy & Utilities](#energy-and-utilities) — 35
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 27
+- [🔬 Science, Research & Space](#science-research-and-space) — 36
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 51
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 41
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 12
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 49
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 51
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 40
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 22
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 19
@@ -561,6 +561,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Richmond Hill — Council Agendas & Minutes (eScribe) | Richmond Hill · Municipal | Council meetings portal | Searchable City of Richmond Hill council agendas, minutes, and attachments on the public eScribe portal. Includes council meetings, council public meetings, special council meetings, and inaugural council meetings. | https://pub-richmondhill.escribemeetings.com/ |
 | Sarnia — Council Agendas & Minutes (CivicWeb) | Sarnia · Municipal | Council meetings portal | Searchable CivicWeb document portal for City of Sarnia council and committee agendas, minutes, and reports. Browse by meeting date and document type to download PDF agendas and track motions, decisions, and public hearings. First council entry for this southwestern Ontario city. | https://sarnia.civicweb.net/Portal/ |
 | St. Catharines — Council Agendas & Minutes (eScribe) | St. Catharines · Municipal | Council meetings portal | Searchable City of St. Catharines council and committee agendas, minutes, and attachments on the public eScribe portal. Browse by meeting date to download PDF agendas, minutes, and reports. First council entry for this Niagara Region city. | https://pub-stcatharines.escribemeetings.com/ |
+| St. Thomas — Council Agendas & Minutes (eScribe) | St. Thomas · Municipal | Council portal | Searchable eScribe meeting portal with downloadable PDF agendas, minutes and supporting documents for St. Thomas regular, special and committee meetings. | https://pub-stthomas.escribemeetings.com/ |
 | Thunder Bay Council Meetings | Thunder Bay · Municipal | Council meetings | Thunder Bay City Council meeting agendas, minutes, and webcasts. | https://www.thunderbay.ca/en/city-hall/city-council-thunder-bay.aspx |
 | Timmins CivicWeb Council Portal | Timmins · Municipal | Council agendas and minutes | City of Timmins council calendar, agendas, minutes, resolutions, and by-laws — email subscription for new meeting packages. | https://timmins.civicweb.net/Portal/ |
 | Toronto Council Voting Records (TMMIS) | Toronto · Municipal | Vote records | Generate councillor attendance and voting records by meeting, committee, and date range; export results as CSV from TMMIS. | https://www.toronto.ca/legdocs/tmmis/votes-and-attendance.htm |
@@ -1002,6 +1003,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada's Business Registries — Multi-Jurisdiction Search | Canada · Federal | Registry search | Free basic search across the federal registry and eight provincial/territorial business registries from one page (not yet all 14 jurisdictions). | https://ised-isde.canada.ca/cbr-rec/en/search |
 | Canada's Business Registries (ISED) | Canada · Federal | Business registry search | Free cross-provincial business lookup aggregating the official registries of AB, BC, MB, NS, ON, QC, SK, and Corporations Canada — one search across jurisdictions. | https://ised-isde.canada.ca/cbr-rec/ |
 | CanadaBuys — Federal Tenders | Canada · Federal | Procurement | Modern federal procurement portal replacing buyandsell.gc.ca — browse and bid on tenders | https://canadabuys.canada.ca/en |
+| Canadian Importers Database | Canada · Federal | Search database | Find the major companies importing any product into Canada — searchable by product, city, or country of origin, built from CBSA customs data, with the firms behind 80% of imports of each product. | https://ised-isde.canada.ca/site/ised/en/research-and-business-intelligence/canadian-importers-database |
 | Canadian Intellectual Property Office (CIPO) | Canada · Federal | Service | Search and apply for patents, trademarks, copyrights, and industrial designs in Canada | https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en |
 | Canadian Patents Database | Canada · Federal | Search tool | Search over 2.6 million Canadian patent documents from 1869 to the present, with full-text and images, maintained by CIPO. | https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html |
 | Canadian Trademarks Database | Canada · Federal | Search tool | CIPO's searchable database of more than 1.4 million Canadian trademarks registered from 1865 to the present, updated weekly. | https://ised-isde.canada.ca/cipo/trademark-search/srch |
@@ -1384,6 +1386,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Health Canada — Drug and Health Products Portal | Canada · Federal | Regulatory decisions database | Search Health Canada's regulatory decision summaries, safety reviews, and clinical information for authorized drugs, biologics, and medical devices. | https://dhpp.hpfb-dgpsa.ca/ |
 | Health Canada — Licensed Natural Health Products Database | Canada · Federal | Licence registry search | Search authorized natural health products by NPN/DIN-HM, brand, ingredient or licence holder; check licence status and whether the product is marketed. | https://health-products.canada.ca/lnhpd-bdpsnh/ |
 | Health Canada — Pesticide Product and Label Search | Canada · Federal | Searchable product registry | Search all pesticide products registered in Canada by name, registrant, or active ingredient, including full label text and reported incident data. | https://pest-control.canada.ca/pesticide-registry/en/product-search.html |
+| Licensed Natural Health Products Database (LNHPD) | Canada · Federal | Product database | Search licensed Canadian natural health products — vitamins, herbals, homeopathics — by product name, licence holder, or NPN number. | https://health-products.canada.ca/lnhpd-bdpsnh/?lang=eng |
 | MedEffect Canada — Adverse Reaction Reporting | Canada · Federal | Reporting | Report and search adverse reactions to health products overseen by Health Canada | https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html |
 | Medical Devices Active Licence Listing (MDALL) | Canada · Federal | Licence search | Health Canada's public register of all medical devices licensed for sale in Canada, searchable by company, device name, licence number or device identifier. | https://health-products.canada.ca/mdall-limh/ |
 | PHAC — Notifiable Diseases On-Line | Canada · Federal | Surveillance database | Explore annual counts and rates of nationally notifiable infectious diseases back to 1924; build custom charts and export results as CSV or Excel. | https://diseases.canada.ca/notifiable/ |
@@ -1839,6 +1842,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| CADORS — Civil Aviation Occurrence Reports | Canada · Federal | Incident database | Transport Canada's Civil Aviation Daily Occurrence Reporting System — query aviation incident and accident reports by date, aerodrome, aircraft, or event type, with TXT export. | https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/CADORS-SCREAQ/q.aspx?lang=eng |
 | Canadian Coast Guard — Marine Communications | Canada · Federal | Marine safety | Search and rescue info, nautical charts, and marine safety | https://www.canada.ca/coast-guard |
 | Canadian Coast Guard — Notices to Mariners | Canada · Federal | Marine safety | Official Notices to Mariners with corrections to nautical charts and publications | https://www.notmar.gc.ca/ |
 | Drone Site Selection Tool | Canada · Federal | Interactive map | Find where drone flight is prohibited, restricted or requires permission: interactive airspace/aerodrome map with basic-to-BVLOS operation layers, refreshed on the 56-day aeronautical cycle. | https://nrc.canada.ca/en/drone-tool/ |
@@ -1855,6 +1859,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | VIA Rail — Trip Planner and Booking | Canada · Federal | Trip planner | Train schedules, booking, and trip planning across Canada | https://www.viarail.ca/en/plan |
 | Transportation Safety Board — Aviation Investigation Reports | Canada · Agency | Investigation report database | Browse and search TSB air transportation safety investigation reports, active investigations, and safety recommendations dating back to 1991. | https://www.tsb.gc.ca/eng/rapports-reports/aviation/index.html |
 | Transportation Safety Board — Aviation Occurrence Data | Canada · Agency | Monthly dataset (CSV) | Download the TSB's full aviation occurrence database as CSV tables covering accidents and incidents since 1995, refreshed monthly, plus annual safety statistics. | https://www.tsb.gc.ca/eng/stats/aviation/index.html |
+| Transportation Safety Board — Investigation Reports | Canada · Agency | Investigation reports | Search TSB rail, pipeline, marine and air investigation reports; browse occurrences by mode, year, or investigation class with full PDF reports. | https://www.tsb.gc.ca/eng |
 | Transportation Safety Board — Marine Occurrence Data | Canada · Agency | Monthly dataset (CSV) | Download the TSB's marine occurrence database as CSV tables covering shipping accidents and incidents since 1995, refreshed monthly, plus marine safety statistics. | https://www.tsb.gc.ca/eng/stats/marine/index.html |
 | Transportation Safety Board — Rail Occurrence Data | Canada · Agency | Monthly dataset (CSV) | Download the TSB's rail occurrence database as CSV tables covering derailments, collisions, and crossing accidents since 1983, refreshed monthly. | https://www.tsb.gc.ca/eng/stats/rail/index.html |
 
@@ -2015,6 +2020,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Impact Assessment Agency — Canadian Impact Assessment Registry | Canada · Federal | Project registry | Official registry of federally designated projects under the Impact Assessment Act: proposals, assessments in progress, conditions, and decisions, searchable by region, type, and status. | https://iaac-aeic.gc.ca/050/evaluations |
 | National Pollutant Release Inventory — Data Search | Canada · Federal | Database search | Search pollutant releases, disposals and transfers reported by 7,000+ facilities back to 1993 by substance, sector, province or watershed; predefined queries plus CSV bulk downloads. | https://pollution-waste.canada.ca/national-release-inventory/ |
 | Species at Risk Public Registry | Canada · Federal | Registry search | Search Canada's legal list of aquatic and terrestrial species at risk by name, range or taxon; access profiles, recovery strategies, management plans and permits. | https://species-registry.canada.ca/index-en.html |
+| Species at Risk Public Registry | Canada · Federal | Registry | Search Canada’s official list of species at risk: status documents, recovery strategies, management plans and permits, downloadable per species. | https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry.html |
 | Weather.gc.ca | Canada · Federal | Weather dashboard | Forecasts, alerts, radar, air quality, marine weather, and more | https://weather.gc.ca/ |
 
 ### British Columbia
@@ -2104,6 +2110,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Air Quality Health Index (AQHI) — Observations Map | Canada · Federal | Air quality observations | Current AQHI readings and health risk levels at monitoring stations across Canada — map and station-level observations. | https://weather.gc.ca/airquality/pages/index_e.html |
 | Canadian Hurricane Centre | Canada · Federal | Forecast tool | Track maps, information statements and technical discussions for tropical and post-tropical cyclones threatening Canada, active June through November. | https://weather.gc.ca/hurricane/index_e.html |
+| Canadian Weather Radar — Interactive Map | Canada · Federal | Interactive map | Environment Canada's national radar mosaic — animated precipitation radar for the whole country on one interactive map, with rain/snow layers and station-level detail. | https://weather.gc.ca/index_e.html?layers=%2Cradar |
 | MSC GeoMet — Weather and Climate API | Canada · Federal | Weather API | OGC API for Environment Canada weather, climate, and hydrometric layers — query forecasts, alerts, and station data programmatically. | https://api.weather.gc.ca/ |
 | Space Weather Canada | Canada · Federal | Forecast tool | Current conditions and short- and long-term forecasts of geomagnetic activity, aurora visibility, and solar and ionospheric data for Canadian regions. | https://www.spaceweather.gc.ca/index-en.php |
 
@@ -2146,6 +2153,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Energy Regulator — Pipeline Profiles | Canada · Federal | Data | Capacity, throughput, and tolls for major federally regulated pipelines | https://www.cer-rec.gc.ca/en/data-analysis/facilities-we-regulate/pipeline-profiles/ |
 | Canadian Centre for Energy Information | Canada · Federal | Data portal | One-stop federal energy data hub: search datasets, publications and use the Stat Data Explorer plus near-real-time provincial electricity data with API access. | https://energy-information.canada.ca/en |
 | CNSC — Map of Nuclear Facilities | Canada · Federal | Interactive map | Interactive map of every CNSC-licensed nuclear facility — power plants, uranium mines and mills, research and waste sites — filterable by province and facility type. | https://www.cnsc-ccsn.gc.ca/eng/resources/maps-of-nuclear-facilities/ |
+| RETScreen — Clean Energy Management Software | Canada · Federal | Software | Free government software for energy project feasibility analysis: clean energy, efficiency and cogeneration modelling with global climate and product data. | https://natural-resources.canada.ca/maps-tools-publications/tools-applications/retscreen |
 | Water Office | Canada · Federal | Hydrology tool | Water level and flow monitoring data | https://wateroffice.ec.gc.ca/ |
 | Canada Energy Regulator — Interactive Pipeline Map | Canada · Agency | Interactive map | Explore the location of federally regulated pipelines on an interactive map alongside every reported incident since 2008, filterable by substance and severity. | https://www.cer-rec.gc.ca/en/safety-environment/industry-performance/interactive-pipeline/ |
 | Canadian Nuclear Safety Commission — Nuclear Event Reports | Canada · Agency | Event report listing | Browse reportable safety events and incidents at Canadian nuclear power plants, research reactors, and other major nuclear facilities, with dates and descriptions. | https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/event-reports-for-major-nuclear-facilities/ |
@@ -2226,6 +2234,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Wine Authority — VQA Wine Info | Canada · Federal | Wine info | Ontario's Vintners Quality Alliance wine standards, producer listings, and wine info | https://vqaontario.ca/ |
 | Foodland Ontario — Seasonal Availability | Canada · Federal | Seasonal guide | What's in season across Ontario farms and markets | https://www.ontario.ca/foodland/ |
 | Health Canada — Pesticide Maximum Residue Limits Search | Canada · Federal | Regulatory search tool | Look up legal pesticide residue limits by chemical and food commodity; full result sets downloadable as CSV, plus an open REST API. | https://pest-control.canada.ca/pesticide-registry/en/mrl-search.html |
+| Pesticide Label Search | Canada · Federal | Product database | Search Health Canada’s pesticide product registry by registration number, active ingredient, or company; view and download current registered labels (PDF). | https://pest-control.canada.ca/pesticide-registry/en/label-search.html |
 | Farm Credit Canada | Canada · Crown Corp | Agricultural financing | Federal crown corporation providing financing, insurance, and software to Canadian farmers and agribusinesses | https://www.fcc-fac.ca/ |
 
 ### British Columbia
@@ -2292,6 +2301,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Space Agency — Open Data Portal | Canada · Federal | Open data catalogue | Download RADARSAT-1/RCM Earth-observation imagery (TIFF), Antarctica/Africa mosaics and NEOSSat astronomy datasets; CKAN API access. | https://donnees-data.asc-csa.gc.ca/en/dataset/ |
 | Canadian Space Agency — RADARSAT Constellation Data | Canada · Federal | Data | Earth-observation data from the RADARSAT Constellation Mission (RCM) | https://www.asc-csa.gc.ca/eng/satellites/radarsat/ |
 | CIHR — Funding Decisions Database | Canada · Federal | Research grants database | Search funded health-research grants and awards by researcher, institution, competition or keyword, with dollar amounts committed over the life of each grant. | https://webapps.cihr-irsc.gc.ca/decisions/p/main.html?lang=en |
+| CSRS-PPP — Precise Point Positioning | Canada · Federal | Processing tool | Submit GNSS observation files (RINEX) for free online post-processing to cm-level positions in NAD83/ITRF; results by email or download. | https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp.php |
 | Ingenium — Collection API | Canada · Federal | Collection API | REST API over Ingenium's 150,000+ science-and-tech artifacts (agriculture, aviation, science museums): search, record lookup, more-like-this. Free API key; OpenAPI docs; bulk CSV/XML export. | https://api.ingeniumcanada.org/en/api_docs/ |
 | Library and Archives Canada — Theses Canada | Canada · Federal | Theses portal | Search 425,000+ Canadian university theses and dissertations back to 1965 and read 200,000+ of them free in full text. | https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/search-theses-canada.aspx |
 | National Research Council — IR Aerospace Research Centre | Canada · Federal | Research | NRC aerospace research facilities, services, and partnership programs | https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/aerospace-research-centre |
@@ -2578,12 +2588,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alert Ready — National Public Alerting System | Canada · Federal | Alerts | Public alerts for life-threatening weather, Amber Alerts, and emergencies delivered via TV, radio, LTE | https://www.alertready.ca/ |
+| Canada's Missing | Canada · Federal | Search database | The RCMP's national public database of missing persons and unidentified remains cases — browse or search case profiles and submit tips directly to investigators. | https://www.canadasmissing.ca/ |
 | Canadian Centre for Cyber Security | Canada · Federal | Cyber security | Government of Canada lead for cyber security, providing guidance, tools, incident reporting, and threat intelligence for citizens and organizations | https://cyber.gc.ca/en |
 | Canadian Disaster Database | Canada · Federal | Search database | Public Safety Canada's searchable record of 1,000+ natural, technological and conflict disasters affecting Canadians since 1900, with fatalities, evacuations and cost estimates. | https://cdd.publicsafety.gc.ca/ |
 | Canadian Nuclear Safety Commission | Canada · Federal | Regulator | Federal regulator of nuclear power and materials in Canada, overseeing licensing, compliance, and public health and safety around nuclear facilities | https://www.cnsc-ccsn.gc.ca/eng/ |
 | CBSA — Enforcement Action Statistics | Canada · Federal | Statistics dashboard | Quarterly statistics on CBSA seizures of drugs, firearms, currency, and intercepted stolen vehicles, broken down by category and fiscal year. | https://www.cbsa-asfc.gc.ca/security-securite/seizure-saisie-eng.html |
 | CISC — Public Report on Organized Crime | Canada · Federal | Report series | Download the annual Criminal Intelligence Service Canada public report assessing hundreds of organized crime groups and their national threat levels. | https://publications.gc.ca/site/eng/9.506134/publication.html |
 | CPIC — Stolen Vehicle and Bike Search | Canada · Federal | Public database search | Check whether a vehicle (by VIN) or bicycle (by serial number) has been reported stolen anywhere in Canada, against national police data updated daily. | https://cpic-cipc.ca/index-eng.htm |
+| CPIC — Stolen Vehicle and Bike Search | Canada · Federal | Search database | Public search of the CPIC stolen-property database — check vehicles, bicycles, trailers and other serial-numbered goods reported stolen by Canadian police. | https://www.cpic-cipc.ca/ |
 | CSE — Annual Reports | Canada · Federal | Report library | Read the Communications Security Establishment's unclassified annual reports on signals intelligence, cyber defence, and foreign cyber operations, back to 2019-20. | https://www.cse-cst.gc.ca/en/accountability/transparency/reports |
 | CSIS — Public Reports | Canada · Federal | Report library | Download every annual CSIS Public Report — the unclassified assessment of threats to Canada from terrorism, espionage, and foreign interference. | https://publications.gc.ca/site/eng/9.505816/publication.html |
 | Earthquakes Canada | Canada · Federal | Live map / science tool | Near-real-time earthquake tracking and event data | https://earthquakescanada.nrcan.gc.ca/ |
