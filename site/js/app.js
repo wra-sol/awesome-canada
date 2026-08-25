@@ -527,33 +527,24 @@
     return Number(cooldowns[url]) > Date.now();
   }
 
-  function fmtCount(n) {
-    if (n >= 10000) return `${Math.round(n / 1000)}k`;
-    if (n >= 1000) return `${(n / 1000).toFixed(1)}k`;
-    return String(n);
-  }
-
   const HEART_SVG = '<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 13.8C4.6 11.4 2 9 2 6.3 2 4.4 3.5 3 5.3 3c1.1 0 2.1.5 2.7 1.4C8.6 3.5 9.6 3 10.7 3 12.5 3 14 4.4 14 6.3c0 2.7-2.6 5.1-6 7.5Z"/></svg>';
 
   function likeBtnHtml(r) {
     const liked = isLiked(r.url);
-    const n = likeCounts[r.url] || 0;
     return `<button type="button" class="like-btn${liked ? ' liked' : ''}" data-url="${escapeHtml(r.url)}"` +
       ` aria-pressed="${liked}" aria-label="Like ${escapeHtml(r.name)}"` +
       ` title="${liked ? 'You liked this — thanks!' : 'Like this resource'}">` +
-      `${HEART_SVG}<span class="like-count">${n ? fmtCount(n) : 'Like'}</span></button>`;
+      `${HEART_SVG}<span class="like-count">Like</span></button>`;
   }
 
   function paintLikeButtons(url, pulse) {
     document.querySelectorAll('.like-btn').forEach(btn => {
       if (btn.dataset.url !== url) return;
       const liked = isLiked(url);
-      const n = likeCounts[url] || 0;
       btn.classList.remove('busy');
       btn.classList.toggle('liked', liked);
       btn.setAttribute('aria-pressed', String(liked));
       btn.title = liked ? 'You liked this — thanks!' : 'Like this resource';
-      btn.querySelector('.like-count').textContent = n ? fmtCount(n) : 'Like';
       if (pulse) {
         btn.classList.remove('pulse');
         void btn.offsetWidth; // restart animation
@@ -691,12 +682,10 @@
     const pool = allResources.filter(r => r.description);
     if (!pool.length) return;
     const r = pool[today % pool.length];
-    const count = likeCounts[r.url];
     bodyEl.innerHTML =
       '<a class="daily-name" href="' + escapeHtml(r.url) + '" target="_blank" rel="noopener">' + escapeHtml(r.name) + '</a>' +
       '<span class="daily-meta">' + escapeHtml(catLabel(r.category)) + ' \u00b7 ' + escapeHtml(r.jurisdiction) + '</span>' +
-      '<span class="daily-desc">' + escapeHtml(r.description) + '</span>' +
-      (typeof count === 'number' ? '<span class="trending-count" title="' + fmtCount(count) + ' likes">' + HEART_SVG + fmtCount(count) + '</span>' : '');
+      '<span class="daily-desc">' + escapeHtml(r.description) + '</span>';
 
     document.getElementById('daily-hide')?.addEventListener('click', () => {
       dailyEl.hidden = true;
@@ -761,8 +750,7 @@
         `<span class="trending-main">` +
         `<span class="trending-name">${highlight(escapeHtml(r.name), '')}</span>` +
         `<span class="trending-meta">${escapeHtml(r.jurisdiction)}</span>` +
-        `</span>` +
-        `<span class="trending-count" title="${fmtCount(it.count)} likes">${HEART_SVG}${fmtCount(it.count)}</span></a>`;
+        `</span></a>`;
     }).join('');
   }
 
