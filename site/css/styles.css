@@ -6,8 +6,10 @@
   --color-charcoal: #1A1A1A;
   --color-warm-white: #FAFAF8;
   --color-cream: #F5F2ED;
-  --color-slate: #5A6570;
+  --color-slate: #4A555E;
   --color-amber: #D4A24A;
+  --color-amber-ink: #7E6018;
+  --btn-primary-ink: #1A1A1A;
   --color-border: rgba(26, 26, 26, 0.08);
   --color-success: #2D6A4F;
   --color-danger: #9B2226;
@@ -34,6 +36,7 @@
     --color-border: rgba(255, 255, 255, 0.08);
     --color-success: #52B788;
     --color-danger: #E63946;
+    --color-amber-ink: #D4A24A;
   }
 }
 
@@ -101,7 +104,7 @@ body {
 }
 
 .site-nav a:focus-visible {
-  outline: 2px solid var(--color-amber);
+  outline: 2px solid var(--color-amber-ink);
   outline-offset: 2px;
 }
 
@@ -184,7 +187,7 @@ body {
 }
 
 #search-input:focus {
-  border-color: var(--color-amber);
+  border-color: var(--color-amber-ink);
   box-shadow: 0 0 0 3px rgba(212, 162, 74, 0.15);
 }
 
@@ -452,12 +455,7 @@ main.container {
 .badge-kind {
   background: none;
   border: 1px solid rgba(212, 162, 74, 0.5);
-  color: #8B6A1F;
-}
-
-@media (prefers-color-scheme: dark) {
-  .badge-kind { color: var(--color-amber); }
-  .badge-category { color: var(--color-amber); }
+  color: var(--color-amber-ink);
 }
 
 .badge-level {
@@ -467,7 +465,7 @@ main.container {
 
 .badge-category {
   background: rgba(212, 162, 74, 0.12);
-  color: #8B6A1F;
+  color: var(--color-amber-ink);
 }
 
 .badge-jurisdiction {
@@ -529,11 +527,9 @@ main.container {
   padding: 4px 8px;
   border-radius: var(--radius-sm);
   transition: all 150ms ease;
-  opacity: 0.6;
 }
 
 .card-report:hover {
-  opacity: 1;
   color: var(--color-danger);
   background: rgba(155, 34, 38, 0.08);
 }
@@ -543,14 +539,12 @@ main.container {
   font-size: 12px;
   color: var(--color-slate);
   text-decoration: none;
-  opacity: 0.6;
   transition: opacity 150ms ease, color 150ms ease;
   padding: 4px;
   white-space: nowrap;
 }
 
 .table-report:hover {
-  opacity: 1;
   color: var(--color-danger);
 }
 
@@ -703,7 +697,7 @@ mark.hl {
   font-size: 14px;
 }
 
-.noscript-note a { color: var(--color-amber); }
+.noscript-note a { color: var(--color-amber-ink); }
 
 .empty-state h2 {
   font-size: 20px;
@@ -738,7 +732,7 @@ mark.hl {
 }
 
 .site-footer a {
-  color: var(--color-amber);
+  color: var(--color-amber-ink);
   text-decoration: none;
 }
 
@@ -996,8 +990,15 @@ main.container.form-page {
 .form-group input:focus,
 .form-group select:focus,
 .form-group textarea:focus {
-  border-color: var(--color-amber);
+  border-color: var(--color-amber-ink);
   box-shadow: 0 0 0 3px rgba(212, 162, 74, 0.15);
+}
+
+#search-input::placeholder,
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+  color: var(--color-slate);
+  opacity: 1;
 }
 
 .form-group textarea {
@@ -1008,7 +1009,7 @@ main.container.form-page {
 .form-group select {
   cursor: pointer;
   appearance: none;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%235A6570' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%234A555E' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: right 12px center;
   padding-right: 32px;
@@ -1033,7 +1034,7 @@ main.container.form-page {
 
 .btn-primary {
   background: var(--color-amber);
-  color: #fff;
+  color: var(--btn-primary-ink);
 }
 
 .btn-primary:hover {
@@ -1062,6 +1063,10 @@ main.container.form-page {
   color: var(--color-slate);
   margin-top: var(--space-4);
   line-height: 1.5;
+}
+
+.form-note a {
+  color: var(--color-amber-ink);
 }
 
 /* Submission status panels (submit / report) */
@@ -1184,22 +1189,22 @@ main.container.form-page {
 }
 
 .like-btn:hover {
-  color: var(--color-amber);
+  color: var(--color-amber-ink);
   background: rgba(212, 162, 74, 0.1);
 }
 
 .like-btn:focus-visible {
-  outline: 2px solid var(--color-amber);
+  outline: 2px solid var(--color-amber-ink);
   outline-offset: 2px;
 }
 
 .like-btn.liked {
-  color: var(--color-amber);
+  color: var(--color-amber-ink);
 }
 
 .like-btn.liked svg {
-  fill: var(--color-amber);
-  stroke: var(--color-amber);
+  fill: currentColor;
+  stroke: currentColor;
 }
 
 .like-btn.busy {
@@ -1256,12 +1261,14 @@ main.container.form-page {
 
 .trending-tabs {
   display: inline-flex;
+  flex-wrap: wrap;
   gap: var(--space-1);
 }
 
 .trending-tab {
   font-family: var(--font-body);
   font-size: 12.5px;
+  font-weight: 600;
   color: var(--color-slate);
   background: none;
   border: none;
@@ -1269,6 +1276,7 @@ main.container.form-page {
   padding: 8px 12px;
   cursor: pointer;
   position: relative;
+  white-space: nowrap;
   transition: color 150ms ease, background 150ms ease;
 }
 
@@ -1286,11 +1294,10 @@ main.container.form-page {
 .trending-tab.active {
   color: var(--color-charcoal);
   background: rgba(212, 162, 74, 0.18);
-  font-weight: 600;
 }
 
 .trending-tab:focus-visible {
-  outline: 2px solid var(--color-amber);
+  outline: 2px solid var(--color-amber-ink);
   outline-offset: 2px;
 }
 
@@ -1326,14 +1333,14 @@ main.container.form-page {
 }
 
 .trending-item:focus-visible {
-  outline: 2px solid var(--color-amber);
+  outline: 2px solid var(--color-amber-ink);
   outline-offset: 2px;
 }
 
 .trending-rank {
   font-family: var(--font-mono);
   font-size: 12px;
-  color: var(--color-amber);
+  color: var(--color-amber-ink);
   font-weight: 500;
   min-width: 16px;
 }
@@ -1354,7 +1361,7 @@ main.container.form-page {
 }
 
 .trending-item:hover .trending-name {
-  color: var(--color-amber);
+  color: var(--color-amber-ink);
 }
 
 .trending-meta {
@@ -1371,14 +1378,14 @@ main.container.form-page {
   gap: 3px;
   font-family: var(--font-mono);
   font-size: 12px;
-  color: var(--color-amber);
+  color: var(--color-amber-ink);
   white-space: nowrap;
 }
 
 .trending-count svg {
   width: 11px;
   height: 11px;
-  fill: var(--color-amber);
+  fill: currentColor;
 }
 
 .trending-empty {
