@@ -884,21 +884,6 @@
     ]
   },
   {
-    "name": "Canada Housing Benefit",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Rental assistance",
-    "description": "One-time top-up and ongoing rental assistance for low-income renters, administered with provinces and territories",
-    "url": "https://www.canada.ca/en/services/benefits/housing/canada-housing-benefit.html",
-    "tags": [
-      "housing",
-      "rental assistance",
-      "benefits",
-      "low income"
-    ]
-  },
-  {
     "name": "Canada Pension Plan (CPP) — Overview and Apply",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -968,21 +953,6 @@
       "family",
       "benefits",
       "calculator"
-    ]
-  },
-  {
-    "name": "CPP Retirement Hub",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Information hub",
-    "description": "Central hub for Canada Pension Plan retirement planning — contributions, applying, and combining with other income",
-    "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-hub.html",
-    "tags": [
-      "CPP",
-      "retirement",
-      "pensions",
-      "seniors"
     ]
   },
   {
@@ -3886,19 +3856,6 @@
     ]
   },
   {
-    "name": "Competition Bureau Canada — Corporate Search",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "consumer",
-    "type": "Corporate search",
-    "description": "Search for registered businesses, corporate histories, and merger information",
-    "url": "https://www.competitionbureau.gc.ca/eng/mergers-and-acquisitions",
-    "tags": [
-      "business",
-      "corporate"
-    ]
-  },
-  {
     "name": "Measurement Canada — Find an Authorized Service Provider",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -6367,25 +6324,6 @@
     ]
   },
   {
-    "name": "Welland — Council Agendas, Minutes & Web Streaming",
-    "level": "Municipal",
-    "jurisdiction": "Welland",
-    "category": "council",
-    "type": "Council meetings portal",
-    "description": "eScribe portal and direct PDF downloads for Welland City Council agendas and minutes 2022–present, plus livestream archives and web streaming links for regular and special council meetings.",
-    "url": "https://www.welland.ca/council/AgendasMinutes.asp",
-    "tags": [
-      "Welland",
-      "council",
-      "agendas",
-      "minutes",
-      "video",
-      "eScribe",
-      "Ontario",
-      "pdf"
-    ]
-  },
-  {
     "name": "Weyburn — Council Meeting Video Archive",
     "level": "Municipal",
     "jurisdiction": "Weyburn",
@@ -6590,19 +6528,6 @@
       "museums",
       "collections-care",
       "preservation"
-    ]
-  },
-  {
-    "name": "Canadian Heritage — Virtual Exhibits",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "culture",
-    "type": "Digital exhibits",
-    "description": "Digital heritage exhibits and museum resources",
-    "url": "https://www.canada.ca/en/canadian-heritage/services/virtual-exhibits.html",
-    "tags": [
-      "heritage",
-      "museums"
     ]
   },
   {
@@ -7237,45 +7162,6 @@
       "Vancouver",
       "heritage",
       "built heritage"
-    ]
-  },
-  {
-    "name": "Canada Education Savings Grant (CESG)",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "education",
-    "type": "Benefit",
-    "description": "Federal matching grant of up to 20% on RESP contributions for eligible children",
-    "url": "https://www.canada.ca/en/services/benefits/education/education-savings/cesg.html",
-    "tags": [
-      "RESP",
-      "savings"
-    ]
-  },
-  {
-    "name": "Canada Job Grant — Employer Funded Training",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "education",
-    "type": "Grant",
-    "description": "Jointly funded training program for employers investing in workforce upskilling",
-    "url": "https://www.canada.ca/en/employment-social-development/services/training-agreements/canada-job-grant.html",
-    "tags": [
-      "training",
-      "jobs"
-    ]
-  },
-  {
-    "name": "Canada Learning Bond",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "education",
-    "type": "Benefit",
-    "description": "Up to $2,000 in RESP grant money for children from lower-income families — eligibility and application",
-    "url": "https://www.canada.ca/en/services/benefits/education/education-savings/learning-bond.html",
-    "tags": [
-      "RESP",
-      "students"
     ]
   },
   {
@@ -8523,32 +8409,6 @@
     "tags": [
       "wages",
       "labour"
-    ]
-  },
-  {
-    "name": "National Occupational Classification (NOC)",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Classification",
-    "description": "Search Canada's standard occupational taxonomy used for job postings, immigration, and LMI",
-    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/6-months-work-experience.html",
-    "tags": [
-      "NOC",
-      "occupations"
-    ]
-  },
-  {
-    "name": "Record of Employment (ROE) Web",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Service",
-    "description": "Online employer portal for submitting Records of Employment electronically to Service Canada",
-    "url": "https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/roe-secure-online.html",
-    "tags": [
-      "employer",
-      "EI"
     ]
   },
   {
@@ -9922,22 +9782,6 @@
     ]
   },
   {
-    "name": "Vancouver — Street Trees Dataset",
-    "level": "Municipal",
-    "jurisdiction": "Vancouver",
-    "category": "environment",
-    "type": "Tree inventory dataset",
-    "description": "Map and download Vancouver's inventory of 150,000+ public boulevard trees, with species, height, diameter and coordinates, refreshed daily on weekdays.",
-    "url": "https://opendata.vancouver.ca/explore/dataset/street-trees/",
-    "tags": [
-      "trees",
-      "urban forest",
-      "open data",
-      "map",
-      "vancouver"
-    ]
-  },
-  {
     "name": "Bank of Canada — Currency Converter",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -10523,19 +10367,6 @@
     "tags": [
       "passport",
       "identity"
-    ]
-  },
-  {
-    "name": "Service Canada — Find a Service Canada Office",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "gov-services",
-    "type": "Finder",
-    "description": "Locate the nearest Service Canada Centre and confirm services, hours, and appointment options",
-    "url": "https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/find-office.html",
-    "tags": [
-      "services",
-      "finder"
     ]
   },
   {
@@ -11252,21 +11083,6 @@
     ]
   },
   {
-    "name": "British Columbia — CPSBC Registrant Directory",
-    "level": "Agency",
-    "jurisdiction": "British Columbia",
-    "category": "health",
-    "type": "Licence registry search",
-    "description": "Look up any BC physician, surgeon or podiatrist to confirm their licence, specialty, practice location, and any conditions or disciplinary actions.",
-    "url": "https://www.cpsbc.ca/public/registrant-directory",
-    "tags": [
-      "physicians",
-      "licence verification",
-      "registry",
-      "bc"
-    ]
-  },
-  {
     "name": "Canadian Blood Services — Donate",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -11407,19 +11223,6 @@
     "tags": [
       "BC",
       "vaccines"
-    ]
-  },
-  {
-    "name": "Health Links Manitoba — 8-1-1",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "health",
-    "type": "Health service",
-    "description": "Manitoba's 24/7 telephone health advice from registered nurses",
-    "url": "https://sharedhealthmb.ca/patients-and-families/health-links/",
-    "tags": [
-      "Manitoba",
-      "health"
     ]
   },
   {
@@ -12648,21 +12451,6 @@
     ]
   },
   {
-    "name": "Ontario Heritage Trust — Online Plaque Guide",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "heritage",
-    "type": "Plaque database",
-    "description": "Search nearly 1,300 blue-and-gold provincial plaques by keyword, theme or municipality, with full plaque texts, locations and an open-data inventory.",
-    "url": "https://www.heritagetrust.on.ca/en/online-plaque-guide",
-    "tags": [
-      "ontario",
-      "plaques",
-      "heritage",
-      "history"
-    ]
-  },
-  {
     "name": "Répertoire du patrimoine culturel du Québec",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -12940,22 +12728,6 @@
     ]
   },
   {
-    "name": "Canada Greener Homes Initiative",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "housing",
-    "type": "Grant and loan",
-    "description": "Federal grants and loans for home energy evaluations, retrofits, and renewable energy upgrades to reduce emissions",
-    "url": "https://www.canada.ca/en/environment-climate-change/services/energy-efficiency/greener-homes-initiative.html",
-    "tags": [
-      "housing",
-      "energy efficiency",
-      "climate",
-      "retrofit",
-      "grants"
-    ]
-  },
-  {
     "name": "CMHC — Housing Market Information Portal",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -13012,19 +12784,6 @@
     "tags": [
       "RRSP",
       "home buying"
-    ]
-  },
-  {
-    "name": "Underused Housing Tax — Overview",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "housing",
-    "type": "Tax",
-    "description": "Federal 1% annual tax on non-Canadian-owned vacant or underused residential property",
-    "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/underused-housing-tax.html",
-    "tags": [
-      "housing",
-      "tax"
     ]
   },
   {
@@ -13767,22 +13526,6 @@
       "communities",
       "map",
       "profiles"
-    ]
-  },
-  {
-    "name": "Indigenous Services Canada — Community Well-Being Index",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Dataset and map",
-    "description": "Visualize and download Community Well-Being index scores (education, labour, income, housing) for First Nations, Inuit and other Canadian communities, 1981–2021.",
-    "url": "https://app.geo.ca/en-ca/map-browser/record/56578f58-a775-44ea-9cc5-9bf7c78410e6",
-    "tags": [
-      "well-being",
-      "socio-economic",
-      "first nations",
-      "inuit",
-      "dataset"
     ]
   },
   {
@@ -14800,22 +14543,6 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "Federal Lobbying Registrations — Open Data",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "lobbyist",
-    "type": "Lobbyist open data",
-    "description": "Download all federal lobbying registrations and monthly communication reports as CSV with bilingual data dictionary from Lobbying Commissioner.",
-    "url": "https://www.canada.ca/en/commissioner-lobbying.html",
-    "tags": [
-      "canada",
-      "lobbyists",
-      "csv",
-      "federal",
-      "transparency"
-    ]
   },
   {
     "name": "Office of the Commissioner of Lobbying — Lobbyist Registry",
@@ -17997,21 +17724,6 @@
     ]
   },
   {
-    "name": "Welland Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Welland",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "City of Welland open data portal with civic and GIS datasets for Niagara Region.",
-    "url": "https://www.welland.ca/open/Opendata.asp",
-    "tags": [
-      "welland",
-      "ontario",
-      "open data",
-      "niagara"
-    ]
-  },
-  {
     "name": "Whistler Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Whistler",
@@ -19059,22 +18771,6 @@
     ]
   },
   {
-    "name": "Airdrie — Airdrie Land Use Districts",
-    "level": "Municipal",
-    "jurisdiction": "Airdrie",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Airdrie Land Use Districts — Feature Service on the Airdrie open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-airdrie.opendata.arcgis.com/datasets/5dd3c1196f4248e5ac218674c7513a5d/about",
-    "tags": [
-      "airdrie",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
-    ]
-  },
-  {
     "name": "Barrie Planning & Development Map",
     "level": "Municipal",
     "jurisdiction": "Barrie",
@@ -19103,38 +18799,6 @@
       "parcels",
       "property",
       "open data"
-    ]
-  },
-  {
-    "name": "Brampton — Current Zoning Final",
-    "level": "Municipal",
-    "jurisdiction": "Brampton",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Current Zoning Final — Feature Service on the Brampton open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://brampton.opendata.arcgis.com/datasets/227cea1df40a452d80211352510522e7/about",
-    "tags": [
-      "brampton",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
-    ]
-  },
-  {
-    "name": "Burlington — Zoning ByLaw",
-    "level": "Municipal",
-    "jurisdiction": "Burlington",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning ByLaw — Feature Service on the Burlington open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://navburl-burlington.opendata.arcgis.com/datasets/41ddbd93d8d14293b4608ac9a7fc1bd4/about",
-    "tags": [
-      "burlington",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
     ]
   },
   {
@@ -19167,22 +18831,6 @@
       "open data",
       "api",
       "csv"
-    ]
-  },
-  {
-    "name": "Canmore — Canmore_Land_Use_Districts",
-    "level": "Municipal",
-    "jurisdiction": "Canmore",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Canmore_Land_Use_Districts — Feature Service on the Canmore open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://opendata-canmore.opendata.arcgis.com/datasets/a0117c599e95492e97d67a8a26e60e13/about",
-    "tags": [
-      "canmore",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
     ]
   },
   {
@@ -19297,22 +18945,6 @@
     ]
   },
   {
-    "name": "Delta — Building Permits",
-    "level": "Municipal",
-    "jurisdiction": "Delta",
-    "category": "planning-zoning",
-    "type": "Building permits dataset",
-    "description": "Building Permits — Feature Service on the Delta open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://opendata-deltabc.hub.arcgis.com/datasets/11be3157551143288da19b4a3f14b301/about",
-    "tags": [
-      "delta",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
-    ]
-  },
-  {
     "name": "Edmonton Development Permits Open Data",
     "level": "Municipal",
     "jurisdiction": "Edmonton",
@@ -19340,23 +18972,6 @@
       "development permits",
       "zoning",
       "arcgis"
-    ]
-  },
-  {
-    "name": "Fredericton — Zoning By-law Dataset",
-    "level": "Municipal",
-    "jurisdiction": "Fredericton",
-    "category": "planning-zoning",
-    "type": "Dataset",
-    "description": "Polygon GIS dataset of Fredericton zoning districts from the Zoning By-law, with zoning codes and descriptions. Downloadable as GeoJSON, Shapefile, or KML via ArcGIS Hub for use in mapping and development analysis.",
-    "url": "https://data-fredericton.opendata.arcgis.com/datasets/zoning-by-law-z5",
-    "tags": [
-      "zoning",
-      "planning",
-      "Fredericton",
-      "GeoJSON",
-      "shapefile",
-      "land use"
     ]
   },
   {
@@ -19432,22 +19047,6 @@
     ]
   },
   {
-    "name": "Halifax — Zoning Boundaries",
-    "level": "Municipal",
-    "jurisdiction": "Halifax",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning Boundaries — Feature Service on the Halifax open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-hrm.hub.arcgis.com/datasets/11adc4e1e52a45b5b9f6bc63ef6e0883/about",
-    "tags": [
-      "halifax",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
-    ]
-  },
-  {
     "name": "Hamilton Building Permits Open Data",
     "level": "Municipal",
     "jurisdiction": "Hamilton",
@@ -19475,22 +19074,6 @@
       "development applications",
       "planning",
       "open data"
-    ]
-  },
-  {
-    "name": "Huron County — Planning_Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Huron County",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Planning_Zoning — Feature Service on the Huron County open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-huron.opendata.arcgis.com/datasets/6b395e0a540043b5a1780618ea8b5d22/about",
-    "tags": [
-      "huroncounty",
-      "land use",
-      "planning",
-      "verified",
-      "zoning"
     ]
   },
   {
@@ -19543,22 +19126,6 @@
     ]
   },
   {
-    "name": "Langley — Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Langley",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning — Feature Service on the Langley open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-tol.opendata.arcgis.com/datasets/053600a55cd24e91aea299efda1fba4b/about",
-    "tags": [
-      "land use",
-      "langley",
-      "planning",
-      "verified",
-      "zoning"
-    ]
-  },
-  {
     "name": "Lévis Zonage — Données Québec",
     "level": "Municipal",
     "jurisdiction": "Lévis",
@@ -19607,22 +19174,6 @@
       "planning",
       "arcgis",
       "interactive map"
-    ]
-  },
-  {
-    "name": "Milton — Rural Zoning (By-law 144-2003)",
-    "level": "Municipal",
-    "jurisdiction": "Milton",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Rural Zoning (By-law 144-2003) — Feature Service on the Milton open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://discover-milton.hub.arcgis.com/datasets/48a3f0c2ddb143acb2d8b36d99606f4e/about",
-    "tags": [
-      "land use",
-      "milton",
-      "planning",
-      "verified",
-      "zoning"
     ]
   },
   {
@@ -19719,22 +19270,6 @@
     ]
   },
   {
-    "name": "Oakville — Zoning By Law 2014-014",
-    "level": "Municipal",
-    "jurisdiction": "Oakville",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning By Law 2014-014 — Feature Service on the Oakville open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://portal-exploreoakville.opendata.arcgis.com/datasets/54d77fc2abd34bc694b4ea1e57e2fa1c/about",
-    "tags": [
-      "land use",
-      "oakville",
-      "planning",
-      "verified",
-      "zoning"
-    ]
-  },
-  {
     "name": "Orillia Zone Mapping Feature Service",
     "level": "Municipal",
     "jurisdiction": "Orillia",
@@ -19748,22 +19283,6 @@
       "arcgis",
       "featureserver",
       "geojson"
-    ]
-  },
-  {
-    "name": "Oshawa — Oshawa Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Oshawa",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Oshawa Zoning — Feature Service on the Oshawa open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://city-oshawa.opendata.arcgis.com/datasets/dee9180066de48c684a34ab6c35ac62a/about",
-    "tags": [
-      "land use",
-      "oshawa",
-      "planning",
-      "verified",
-      "zoning"
     ]
   },
   {
@@ -19799,22 +19318,6 @@
     ]
   },
   {
-    "name": "Peterborough — Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Peterborough",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning — Feature Service on the Peterborough open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-ptbo.opendata.arcgis.com/datasets/05dd127dbd1a4a3b83566d0fde6b576b/about",
-    "tags": [
-      "land use",
-      "peterborough",
-      "planning",
-      "verified",
-      "zoning"
-    ]
-  },
-  {
     "name": "Prince Albert Zoning Map",
     "level": "Municipal",
     "jurisdiction": "Prince Albert",
@@ -19828,22 +19331,6 @@
       "map",
       "ArcGIS",
       "Saskatchewan"
-    ]
-  },
-  {
-    "name": "Prince George — Zoning Bylaw 7850 Class",
-    "level": "Municipal",
-    "jurisdiction": "Prince George",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning Bylaw 7850 Class — Feature Service on the Prince George open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://data-cityofpg.opendata.arcgis.com/datasets/88d25f411d9647e692ddf4da01fa1b8a/about",
-    "tags": [
-      "land use",
-      "planning",
-      "princegeorge",
-      "verified",
-      "zoning"
     ]
   },
   {
@@ -19913,22 +19400,6 @@
       "JSON",
       "XML",
       "API"
-    ]
-  },
-  {
-    "name": "Rouyn-Noranda — Plan de zonage",
-    "level": "Municipal",
-    "jurisdiction": "Rouyn-Noranda",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Plan de zonage — Feature Service on the Rouyn-Noranda open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://donnees-ouvertes-vrn.opendata.arcgis.com/datasets/4a69c2484a2540de9f9eb58b908d4d0f/about",
-    "tags": [
-      "land use",
-      "planning",
-      "rouyn-noranda",
-      "verified",
-      "zoning"
     ]
   },
   {
@@ -20103,22 +19574,6 @@
     ]
   },
   {
-    "name": "Summerside — Zoning View",
-    "level": "Municipal",
-    "jurisdiction": "Summerside",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning View — Feature Service on the Summerside open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://summerside.opendata.arcgis.com/datasets/f6357d6615734a7cb5d895b159eccdc5/about",
-    "tags": [
-      "land use",
-      "planning",
-      "summerside",
-      "verified",
-      "zoning"
-    ]
-  },
-  {
     "name": "Surrey — Issued Building Permits",
     "level": "Municipal",
     "jurisdiction": "Surrey",
@@ -20290,22 +19745,6 @@
       "Saskatchewan",
       "PDF",
       "planning"
-    ]
-  },
-  {
-    "name": "Whistler — Zoning",
-    "level": "Municipal",
-    "jurisdiction": "Whistler",
-    "category": "planning-zoning",
-    "type": "Zoning dataset",
-    "description": "Zoning — Feature Service on the Whistler open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API.",
-    "url": "https://portal-rmow.opendata.arcgis.com/datasets/c2e167bd30f44bd0a95e9d91c37aa65f/about",
-    "tags": [
-      "land use",
-      "planning",
-      "verified",
-      "whistler",
-      "zoning"
     ]
   },
   {
@@ -21087,23 +20526,6 @@
       "open data",
       "map",
       "ottawa"
-    ]
-  },
-  {
-    "name": "Peel Region — Police Community Safety Data Portal",
-    "level": "Municipal",
-    "jurisdiction": "Peel",
-    "category": "safety",
-    "type": "Crime map and open data portal",
-    "description": "Map 36 months of crime in Mississauga and Brampton by type, date, street and ward, with hotspot layers, and download Peel police datasets.",
-    "url": "https://peel-regional-police-community-safety-data-portal-peelpolice.hub.arcgis.com/",
-    "tags": [
-      "crime",
-      "police",
-      "map",
-      "mississauga",
-      "brampton",
-      "open data"
     ]
   },
   {
@@ -24954,19 +24376,6 @@
     "tags": [
       "military",
       "family"
-    ]
-  },
-  {
-    "name": "Canadian Military History — Directorate of History and Heritage",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Archive",
-    "description": "Canadian Forces history, regiments, and heritage publications",
-    "url": "https://www.canada.ca/en/department-national-defence/services/military-history.html",
-    "tags": [
-      "history",
-      "military"
     ]
   },
   {

@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1671 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1632 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,45 +19,45 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 203
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 87
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 135
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 202
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 70
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 134
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 116
-- [🪪 Government Services & ID](#government-services-and-id) — 41
+- [🪪 Government Services & ID](#government-services-and-id) — 40
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 22
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 31
 - [🏢 Business & Procurement](#business-and-procurement) — 47
-- [💼 Employment & Labour](#employment-and-labour) — 41
-- [🎓 Education & Student Aid](#education-and-student-aid) — 24
+- [💼 Employment & Labour](#employment-and-labour) — 39
+- [🎓 Education & Student Aid](#education-and-student-aid) — 21
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 40
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 23
-- [🩺 Health & Wellness](#health-and-wellness) — 58
+- [🩺 Health & Wellness](#health-and-wellness) — 56
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 28
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 29
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 32
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 27
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 30
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 41
 - [🚌 Transit & Mobility](#transit-and-mobility) — 58
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 29
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 63
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 63
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 62
 - [🌦️ Weather & Climate](#weather-and-climate) — 17
 - [⚡ Energy & Utilities](#energy-and-utilities) — 37
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 27
 - [🔬 Science, Research & Space](#science-research-and-space) — 36
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 51
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 42
-- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 15
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 51
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 50
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 41
+- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 14
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 50
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 45
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 29
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 27
-- [🎖️ Veterans & Military](#veterans-and-military) — 13
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 28
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
+- [🎖️ Veterans & Military](#veterans-and-military) — 12
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 52
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 18
 
@@ -242,7 +242,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Toronto Open Data Portal | Toronto · Municipal | Open data portal | One of the best municipal open data portals in Canada | https://open.toronto.ca/ |
 | Vaughan Open Data Portal | Vaughan · Municipal | Open data portal | City of Vaughan open data portal — municipal data, maps, and analytics for city services | https://opendata-vaughan.hub.arcgis.com/ |
 | Waterloo City Open Data | Waterloo · Municipal | Open data hub | City of Waterloo ArcGIS open data with civic boundaries, property, and infrastructure datasets. | https://opendata-city-of-waterloo.opendata.arcgis.com/ |
-| Welland Open Data | Welland · Municipal | Open data portal | City of Welland open data portal with civic and GIS datasets for Niagara Region. | https://www.welland.ca/open/Opendata.asp |
 | Whitby GeoHub | Whitby · Municipal | Open Data Portal | Town of Whitby open data portal — municipal facilities, parks, trails, and planning datasets searchable and downloadable via ArcGIS Hub. | https://geohub-whitby.hub.arcgis.com/ |
 | Windsor Open Data | Windsor · Municipal | Open data portal | City of Windsor open data portal with civic, property, and infrastructure datasets. | https://opendata.citywindsor.ca/ |
 
@@ -328,27 +327,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Abbotsford Development Data — Development Application Tracker | Abbotsford · Municipal | Dataset | Live searchable reporting system tracking development activity in Abbotsford — covers development variance permits (in progress, issued current/previous year, with approval in principle), instream development applications, rezoning applications (at 3rd reading, in progress, final approval current/previous year), and subdivision applications (in progress, final approval, preliminary layout approvals). Each report lists application details, addresses, and status; export results to CSV, Excel, or PDF. Useful for monitoring construction, land use change, and development trends without filing a FOI request. | https://www.abbotsford.ca/developmentdata |
 | Coquitlam Planning and Development Open Data | Coquitlam · Municipal | Planning datasets | Zoning, development permit areas, neighbourhood plans, and planning boundaries for Coquitlam — download via ArcGIS Hub. | https://data.coquitlam.ca/datasets/Coquitlam::planning-and-development-1 |
 | Courtenay — Zoning | Courtenay · Municipal | Zoning dataset | Zoning — Feature Service on the Courtenay open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://data-courtenay.opendata.arcgis.com/datasets/bd116205a44543848799b311f5740098/about |
-| Delta — Building Permits | Delta · Municipal | Building permits dataset | Building Permits — Feature Service on the Delta open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://opendata-deltabc.hub.arcgis.com/datasets/11be3157551143288da19b4a3f14b301/about |
 | Kamloops Planning & Zoning Map | Kamloops · Municipal | Planning map | Zoning districts, development permit areas, and planning development layers for Kamloops via CityMap GIS services. | https://maps.kamloops.ca/arcgis/rest/services/CityMap/CityMap_PlanningDevelopment/MapServer |
 | Kelowna Building Permits Open Data | Kelowna · Municipal | Building permits | Building permit issuance data for Kelowna on the municipal open data hub — filter by date, type, and neighbourhood. | https://opendata.kelowna.ca/ |
-| Langley — Zoning | Langley · Municipal | Zoning dataset | Zoning — Feature Service on the Langley open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://data-tol.opendata.arcgis.com/datasets/053600a55cd24e91aea299efda1fba4b/about |
-| Prince George — Zoning Bylaw 7850 Class | Prince George · Municipal | Zoning dataset | Zoning Bylaw 7850 Class — Feature Service on the Prince George open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://data-cityofpg.opendata.arcgis.com/datasets/88d25f411d9647e692ddf4da01fa1b8a/about |
 | Saanich Zoning GIS Data | Saanich · Municipal | Zoning dataset | Downloadable GIS zoning data for the District of Saanich in Shapefile, geodatabase, and DWG formats with metadata PDF — direct ZIP downloads from the municipal GIS server. | https://map.saanich.ca/gisdata/Zoning/ZoningSHP.zip |
 | Surrey — Issued Building Permits | Surrey · Municipal | Dataset | Explore and download City of Surrey issued building permit data via ArcGIS Hub. Filter by date, type, and location; download as CSV, GeoJSON, or Shapefile to analyze construction trends and development activity. | https://opendata-surrey.hub.arcgis.com/datasets/issued-building-permits/explore |
 | Vancouver — Shape Your City Rezoning Applications | Vancouver · Municipal | Rezoning application tracker | Browse active and archived Vancouver rezoning and development applications on a map, read application documents, and submit comments on proposals. | https://www.shapeyourcity.ca/rezoning |
 | Vancouver Building Permits Issued | Vancouver · Municipal | Building permits dataset | Open data on issued building permits in Vancouver with project type, value, and address fields. | https://opendata.vancouver.ca/explore/dataset/issued-building-permits/ |
 | Vancouver Zoning & Land Use Districts | Vancouver · Municipal | Zoning dataset | Download zoning district boundaries and schedules from the Vancouver Open Data Portal for GIS analysis and property lookups. | https://opendata.vancouver.ca/explore/?disjunctive.zoning&sort=modified |
 | Victoria Building Permits Open Data | Victoria · Municipal | Building permits | Issued building and development permits on the City of Victoria open data catalogue with map and CSV export. | https://opendata.victoria.ca/browse?category=Planning |
-| Whistler — Zoning | Whistler · Municipal | Zoning dataset | Zoning — Feature Service on the Whistler open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://portal-rmow.opendata.arcgis.com/datasets/c2e167bd30f44bd0a95e9d91c37aa65f/about |
 
 ### Alberta
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Airdrie — Airdrie Land Use Districts | Airdrie · Municipal | Zoning dataset | Airdrie Land Use Districts — Feature Service on the Airdrie open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://data-airdrie.opendata.arcgis.com/datasets/5dd3c1196f4248e5ac218674c7513a5d/about |
 | Calgary — Development Map (DMap) | Calgary · Municipal | Development application map | Search Calgary development permits and land-use redesignations by address, permit number or community, view proposals in 3D, and comment on applications. | https://dmap.calgary.ca/ |
 | Calgary Building Permits | Calgary · Municipal | Building permits dataset | Search and download building permit records from Open Calgary — filter by date, community, and permit type with API access. | https://data.calgary.ca/browse?category=Building+Permits |
-| Canmore — Canmore_Land_Use_Districts | Canmore · Municipal | Zoning dataset | Canmore_Land_Use_Districts — Feature Service on the Canmore open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://opendata-canmore.opendata.arcgis.com/datasets/a0117c599e95492e97d67a8a26e60e13/about |
 | Edmonton Development Permits Open Data | Edmonton · Municipal | Development permits | Development permit records on the Edmonton Open Data Portal — search by community, permit type, and status with Socrata API export. | https://data.edmonton.ca/browse?category=Planning+%26+Development |
 | Edmonton Zoning Map — Development Permits | Edmonton · Municipal | Development permit map | Interactive zoning map layer showing development permit applications with applicant, location, and job description fields. | https://gis.edmonton.ca/site1/rest/services/VertiGIS/ZoningMap/MapServer |
 | Red Deer Open Data — Building Permits | Red Deer · Municipal | Dataset | Downloadable dataset of building permits issued in Red Deer, including permit type, construction value, and status. Available as CSV, JSON, and via API. | https://data.reddeer.ca/buildingpermits |
@@ -378,26 +371,19 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Land Tribunal — Decisions | Ontario · Provincial | Tribunal decisions | Full-text decisions of the OLT and predecessors (OMB, LPAT, ERT) on land-use planning appeals, zoning by-laws, official plan amendments, and heritage disputes; searchable by municipality and keyword. Case status portal covers active files. | https://olt.gov.on.ca/decisions/ |
 | Barrie Planning & Development Map | Barrie · Municipal | Planning map | Map layers for active building permits, zoning, official plan land use, and planning applications in Barrie — now hosted on the municipal open data hub. | https://geohub-barrie.hub.arcgis.com/ |
 | Belleville Parcels Open Data | Belleville · Municipal | Parcel dataset | City of Belleville property parcel layer with roll and addressing attributes — export CSV/GeoJSON or use ArcGIS Hub API. | https://opendata-bellevillegis.hub.arcgis.com/datasets/parcels-1 |
-| Brampton — Current Zoning Final | Brampton · Municipal | Zoning dataset | Current Zoning Final — Feature Service on the Brampton open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://brampton.opendata.arcgis.com/datasets/227cea1df40a452d80211352510522e7/about |
-| Burlington — Zoning ByLaw | Burlington · Municipal | Zoning dataset | Zoning ByLaw — Feature Service on the Burlington open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://navburl-burlington.opendata.arcgis.com/datasets/41ddbd93d8d14293b4608ac9a7fc1bd4/about |
 | Clarington Municipal Planning Data Reports | Clarington · Municipal | Planning application statistics | Quarterly PDF reports of planning applications received and decided, housing units proposed and approved — per Ontario Regulation 73/23. | https://www.clarington.net/planning-and-development/municipal-planning-data-report/ |
 | Cornwall Official Plan Land Use Open Data | Cornwall · Municipal | Land use dataset | Official Plan Schedule 1 land-use polygons for Cornwall — download shapefile/GeoJSON or query via ArcGIS REST from the open data catalogue. | https://data-cornwallcity.opendata.arcgis.com/datasets/official-plan-schedule1-landuse |
 | Greater Sudbury Open Data — Building Permits | Greater Sudbury · Municipal | Dataset | Listing of all building permits from the city's Pronto/Accela permit system of record. Download as CSV, GeoJSON, or Shapefile, or query via ArcGIS REST API. Use to track construction activity, permit types, and development trends across Greater Sudbury. CC-BY-SA licensed. First planning-zoning depth entry for Greater Sudbury beyond its open-data portal. | https://opendata.greatersudbury.ca/datasets/Sudbury::building-permits |
 | Greater Sudbury Open Data — Zoning | Greater Sudbury · Municipal | Dataset | Zoning, community, township, and parcel boundary layer for the entire City of Greater Sudbury. Download as CSV, GeoJSON, or Shapefile, or query via ArcGIS REST API. Look up the zoning designation for any property to understand permitted land uses and development constraints. CC-BY-SA licensed. Complements the building permits dataset for comprehensive planning research. | https://opendata.greatersudbury.ca/datasets/Sudbury::zoning |
 | Hamilton Building Permits Open Data | Hamilton · Municipal | Building permits dataset | Issued building permits and related planning datasets on Open Hamilton — filter, map, and download via ArcGIS Hub. | https://open.hamilton.ca/datasets?q=building%20permit |
 | Hamilton Development Applications Open Data | Hamilton · Municipal | Development applications | Active development applications and planning status layers published on the City of Hamilton open data portal. | https://open.hamilton.ca/datasets?q=development%20application |
-| Huron County — Planning_Zoning | Huron County · Municipal | Zoning dataset | Planning_Zoning — Feature Service on the Huron County open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://data-huron.opendata.arcgis.com/datasets/6b395e0a540043b5a1780618ea8b5d22/about |
 | Kingston Building Permits — ArcGIS Hub | Kingston · Municipal | Dataset | Geocoded building permit dataset for City of Kingston showing active permits (last 3 years) and closed permits (last 18 months) with addresses, permit values, project descriptions, and status. Download as GeoJSON or explore on interactive map — useful for tracking construction activity and development in specific neighbourhoods. | https://maps-cityofkingston.hub.arcgis.com/datasets/cityofkingston::building-permits/about |
 | Markham — Interactive Zoning Map | Markham · Municipal | Interactive map | Search any Markham address to view zoning designations under the Comprehensive Zoning By-Law. Interactive ArcGIS Experience app showing permitted uses, development standards, and appeal status. | https://experience.arcgis.com/experience/c0f5d5fa61004716b88adbc0c804614a |
-| Milton — Rural Zoning (By-law 144-2003) | Milton · Municipal | Zoning dataset | Rural Zoning (By-law 144-2003) — Feature Service on the Milton open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://discover-milton.hub.arcgis.com/datasets/48a3f0c2ddb143acb2d8b36d99606f4e/about |
 | Mississauga — Active Development Applications Map | Mississauga · Municipal | Development application map | Track Mississauga development applications on a real-time map — view renderings of proposed buildings, submission documents and upcoming public meetings. | https://www.mississauga.ca/services-and-programs/planning-and-development/development-applications/active-development-applications/ |
 | Mississauga Building Permits Open Data | Mississauga · Municipal | Building permits | Search and download Mississauga building permit data from the open data catalogue with API access. | https://data.mississauga.ca/browse?category=Building+Permits |
-| Oakville — Zoning By Law 2014-014 | Oakville · Municipal | Zoning dataset | Zoning By Law 2014-014 — Feature Service on the Oakville open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://portal-exploreoakville.opendata.arcgis.com/datasets/54d77fc2abd34bc694b4ea1e57e2fa1c/about |
 | Orillia Zone Mapping Feature Service | Orillia · Municipal | Zoning map service | Orillia zoning by-law zone polygons via County of Simcoe ArcGIS FeatureServer — query JSON/GeoJSON or export for GIS analysis. | https://maps.simcoe.ca/arcgis/rest/services/Orillia/Zone_Mapping/FeatureServer |
-| Oshawa — Oshawa Zoning | Oshawa · Municipal | Zoning dataset | Oshawa Zoning — Feature Service on the Oshawa open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://city-oshawa.opendata.arcgis.com/datasets/dee9180066de48c684a34ab6c35ac62a/about |
 | Ottawa Development Applications Map | Ottawa · Municipal | Development applications map | Query development applications subject to public consultation on a map; links to posting plans. ArcGIS REST supports JSON and GeoJSON export. | https://maps.ottawa.ca/arcgis/rest/services/Development_Applications/MapServer |
 | Ottawa Zoning Map Service | Ottawa · Municipal | Zoning map | Official City of Ottawa zoning layers including by-law zones, overlays, and village plans. Export and identify parcels via ArcGIS map service. | https://maps.ottawa.ca/arcgis/rest/services/Zoning/MapServer |
-| Peterborough — Zoning | Peterborough · Municipal | Zoning dataset | Zoning — Feature Service on the Peterborough open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://data-ptbo.opendata.arcgis.com/datasets/05dd127dbd1a4a3b83566d0fde6b576b/about |
 | Sarnia Residential Development Pipeline Dashboard | Sarnia · Municipal | Development pipeline dashboard | Interactive dashboard of Council-approved residential units via zoning amendments, OPA, and site plan — filter by project status and map location. | https://www.sarnia.ca/business-planning-and-development/residential-development-pipeline/ |
 | St. Thomas CMAP Interactive City Maps | St. Thomas · Municipal | Interactive zoning map | CartoVista web map for St. Thomas — zoning, property, and city map layers for parcel and planning lookups. | https://cmap2.stthomas.ca/CartoVistaServer/maps/view |
 | Toronto Application Information Centre | Toronto · Municipal | Development application search | Map-based search for active and closed development applications, Committee of Adjustment minor variances, rezonings, and site plan control with downloadable supporting documents. | https://www.toronto.ca/city-government/planning-development/application-information-centre/ |
@@ -416,7 +402,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Longueuil — Industrial Zones | Longueuil · Municipal | Dataset | GeoJSON/Shapefile download mapping industrial zones across Longueuil. Useful for site selection, economic development research, and land-use planning. | https://geohub-longueuil.opendata.arcgis.com/datasets/zones-industrielles/explore |
 | Montreal Building Permits Open Data | Montreal · Municipal | Building permits dataset | Construction, transformation, and demolition permits issued by Montreal boroughs — download CSV, GeoJSON, or SHP from Données Montréal. | https://donnees.montreal.ca/dataset/permis-construction |
 | Quebec City Building Permits Open Data | Quebec City · Municipal | Building permits | Quebec City construction and renovation permits on the municipal open data portal. | https://www.donneesquebec.ca/recherche/dataset?organization=ville-de-quebec |
-| Rouyn-Noranda — Plan de zonage | Rouyn-Noranda · Municipal | Zoning dataset | Plan de zonage — Feature Service on the Rouyn-Noranda open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://donnees-ouvertes-vrn.opendata.arcgis.com/datasets/4a69c2484a2540de9f9eb58b908d4d0f/about |
 | Saguenay Zonage — Données Québec | Saguenay · Municipal | Zoning dataset | Saguenay municipal zoning polygons — weekly-updated CSV, GeoJSON, and shapefile downloads via Données Québec. | https://www.donneesquebec.ca/recherche/dataset/sag_zonage |
 | Trois-Rivières Zonage — Données Québec | Trois-Rivières · Municipal | Zoning dataset | Municipal zoning layer for Trois-Rivières — export CSV, GeoJSON, or shapefile from Données Québec; aligns with urban planning by-law. | https://www.donneesquebec.ca/recherche/fr/dataset/85fa8f51-28f6-4163-9d96-eab0b185ec10 |
 
@@ -427,9 +412,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Newfoundland and Labrador — Provincial Land Use Atlas | Newfoundland and Labrador · Provincial | Interactive map | Interactive map of Crown land titles and applications, municipal plans, protected road zoning and land use restrictions across the province, with topographic base maps and aerial photography. | https://geohub-gnl.hub.arcgis.com/app/provincial-land-use-atlas-lua |
 | CBRM Parcel Finder | Cape Breton · Municipal | Parcel map service | Cape Breton Regional Municipality parcel and property lookup via municipal GIS ParcelFinder map services. | https://gis2.cbrm.ns.ca/server/rest/services/ParcelFinder |
 | CBRM Planning GIS Services | Cape Breton · Municipal | Planning map services | CBRM planning department GIS map services — zoning and land-use layers via ArcGIS REST for Cape Breton Regional Municipality. | https://gis2.cbrm.ns.ca/server/rest/services/Planning |
-| Fredericton — Zoning By-law Dataset | Fredericton · Municipal | Dataset | Polygon GIS dataset of Fredericton zoning districts from the Zoning By-law, with zoning codes and descriptions. Downloadable as GeoJSON, Shapefile, or KML via ArcGIS Hub for use in mapping and development analysis. | https://data-fredericton.opendata.arcgis.com/datasets/zoning-by-law-z5 |
 | Gander Interactive GIS Map | Gander · Municipal | GIS | Interactive ArcGIS web map for the Town of Gander showing zoning, property parcels, municipal infrastructure, recreation facilities, and utilities. Explore property boundaries and land use plans. | https://experience.arcgis.com/experience/d5dedd13d8314050adfaf9f5c6477d87?id=15beb6756481449aad161fb752a99611 |
-| Halifax — Zoning Boundaries | Halifax · Municipal | Zoning dataset | Zoning Boundaries — Feature Service on the Halifax open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://data-hrm.hub.arcgis.com/datasets/11adc4e1e52a45b5b9f6bc63ef6e0883/about |
 | Moncton Development Applications Map | Moncton · Municipal | Development applications map | Interactive ArcGIS web map of Moncton development applications and planning layers for public review. | https://moncton.maps.arcgis.com/apps/webappviewer/index.html?id=c402455fb01445c7aefd359d59f11b63 |
 | New Glasgow Ward Map | New Glasgow · Municipal | Ward map | PDF ward boundary map for the Town of New Glasgow showing six municipal council districts as of September 2024. | https://www.newglasgow.ca/filelink/fileman-files/visitors/Ward%20Map/TNG_Ward_Map_September_2024.pdf |
 | Corner Brook Land Use Planning Registry | Newfoundland and Labrador · Municipal | Planning registry | Corner Brook municipal plan, zoning maps (PDF/KMZ), and development regulations via the provincial land use planning registry. | https://www.gov.nl.ca/mca/registry/community/corner-brook/ |
@@ -437,7 +420,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Saint John — Zoning Dataset | Saint John · Municipal | Dataset | Polygon features representing zoning districts as per the Saint John Zoning By-law. Attributes include zoning codes and descriptions. Downloadable as GeoJSON, Shapefile, or KML via ArcGIS Hub. | https://catalogue-saintjohn.opendata.arcgis.com/datasets/SaintJohn::zoning/about |
 | St. John's MapCentre | St. John's · Municipal | Interactive map | Interactive GIS mapping portal for St. John's — search addresses, view property parcels, zoning, heritage areas, floodplains, wetlands, electoral wards, and aerial photos dating back to 2003. Useful for real estate research, urban planning, and community organizing. | https://map.stjohns.ca/mapcentre/ |
 | St. John's Permits Issued | St. John's · Municipal | Building permits | Weekly lists of building and repair permits issued by the City of St. John's, posted as part of the public record. Download PDFs by date to track development activity, new construction, and renovations. | https://www.stjohns.ca/en/building-development/permits-issued.aspx |
-| Summerside — Zoning View | Summerside · Municipal | Zoning dataset | Zoning View — Feature Service on the Summerside open data hub (CSV, GeoJSON, Shapefile export where available; queryable via REST API). Verified live via the hub OGC items API. | https://summerside.opendata.arcgis.com/datasets/f6357d6615734a7cb5d895b159eccdc5/about |
 | Yarmouth Interactive Zoning Map | Yarmouth · Municipal | Zoning map | Interactive ArcGIS zoning lookup for properties in the Town of Yarmouth — search by address or parcel to view zoning district, land use rules, and permitted uses. | https://experience.arcgis.com/experience/9aab24710afb426c81561c0af384ec5c |
 
 ### Northern Canada (YT, NT, NU)
@@ -567,7 +549,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Timmins CivicWeb Council Portal | Timmins · Municipal | Council agendas and minutes | City of Timmins council calendar, agendas, minutes, resolutions, and by-laws — email subscription for new meeting packages. | https://timmins.civicweb.net/Portal/ |
 | Toronto Council Voting Records (TMMIS) | Toronto · Municipal | Vote records | Generate councillor attendance and voting records by meeting, committee, and date range; export results as CSV from TMMIS. | https://www.toronto.ca/legdocs/tmmis/votes-and-attendance.htm |
 | Vaughan — Council Agendas & Minutes (eScribe) | Vaughan · Municipal | Council portal | Searchable eScribe meeting portal for Vaughan with downloadable PDF agendas, minutes, and supporting documents for regular, special, and committee meetings. Verified live. Discovered via the documented pub-[city].escribemeetings.com pattern and verified live. | https://pub-vaughan.escribemeetings.com/ |
-| Welland — Council Agendas, Minutes & Web Streaming | Welland · Municipal | Council meetings portal | eScribe portal and direct PDF downloads for Welland City Council agendas and minutes 2022–present, plus livestream archives and web streaming links for regular and special council meetings. | https://www.welland.ca/council/AgendasMinutes.asp |
 | Whitby Find Your Ward | Whitby · Municipal | Interactive map | Address-based ward lookup tool for Whitby residents. Enter a civic address to identify your electoral ward and corresponding councillor. Useful for voter engagement, community organizing, campaigns, and understanding municipal representation boundaries. Hosted on the Whitby GeoHub ArcGIS platform. First council/democracy depth entry for Whitby beyond its GeoHub portal. | https://whitby.maps.arcgis.com/apps/instant/sidebar/index.html?appid=08adc676adc2432e85fc05fe43e18ebe |
 | Windsor Council Meetings — eScribe | Windsor · Municipal | Council meetings portal | Windsor City Council and standing committee agendas, minutes, and attachments on the public eScribe portal. | https://windsor.ca/city-hall/council-meetings |
 | Woodstock — Council Agendas & Minutes (eScribe) | Woodstock · Municipal | Council portal | Searchable eScribe portal for Woodstock, Ontario council and committee meetings, including the Woodstock Accessibility Advisory Committee and Woodstock Hydro Fund Advisory Committee, with downloadable PDF agendas and minutes. | https://pub-woodstock.escribemeetings.com/ |
@@ -808,7 +789,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | My Service Canada Account (MSCA) | Canada · Federal | Secure portal | Sign in to view EI, CPP, OAS, ROE, and access most federal individual services in one place | https://www.canada.ca/en/employment-social-development/services/my-account.html |
 | NEXUS — Trusted Traveller Program | Canada · Federal | Service | Apply for expedited border crossing between Canada and the US at land, air, and marine entries | https://www.cbsa-asfc.gc.ca/prog/nexus/menu-eng.html |
 | Passport Canada — Apply or Renew | Canada · Federal | Service | Apply for, renew, or replace a Canadian passport; track application status online | https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html |
-| Service Canada — Find a Service Canada Office | Canada · Federal | Finder | Locate the nearest Service Canada Centre and confirm services, hours, and appointment options | https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/find-office.html |
 | Termium Plus | Canada · Federal | Terminology database | Government of Canada's terminology and linguistic data bank — over 4 million terms in English, French, Spanish, and other languages | https://www.btb.termiumplus.gc.ca/ |
 | Travel Advice and Advisories | Canada · Federal | Advisory finder | Country-by-country official travel advisories | https://travel.gc.ca/travelling/advisories |
 | Travel.gc.ca — Consent Letter for Children Travelling Abroad | Canada · Federal | Service | Template and guidance for consent letters when children travel abroad without both parents | https://travel.gc.ca/travelling/children/consent-letter |
@@ -1109,8 +1089,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Job Bank Canada — Job Search | Canada · Federal | Job search | Official job search tool with 56,000+ postings, filters by location, salary, hours, education | https://www.jobbank.gc.ca/findajob |
 | Job Bank Canada — Labour Market Information | Canada · Federal | Labour data | Employment trends, occupation outlook, and market data explorer | https://www.jobbank.gc.ca/trend-analysis |
 | Job Bank Canada — Wage Search | Canada · Federal | Wage comparison | Compare wages by occupation and location across Canada | https://www.jobbank.gc.ca/trend-analysis/search-wages |
-| National Occupational Classification (NOC) | Canada · Federal | Classification | Search Canada's standard occupational taxonomy used for job postings, immigration, and LMI | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/6-months-work-experience.html |
-| Record of Employment (ROE) Web | Canada · Federal | Service | Online employer portal for submitting Records of Employment electronically to Service Canada | https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/roe-secure-online.html |
 | Red Seal Program — Skilled Trades | Canada · Federal | Certification | National Red Seal standard for skilled trades — occupation list, exams, and recognized trades | https://red-seal.ca/ |
 | Service Canada — Wage Earner Protection Program Application | Canada · Federal | Apply online | Apply online within 56 days for up to $9,275 (2026) in unpaid wages, vacation pay and severance owed when an employer goes bankrupt or into receivership; eligibility and payment details. | https://www.canada.ca/en/employment-social-development/services/wage-earner-protection/employee.html |
 
@@ -1180,9 +1158,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Canada Education Savings Grant (CESG) | Canada · Federal | Benefit | Federal matching grant of up to 20% on RESP contributions for eligible children | https://www.canada.ca/en/services/benefits/education/education-savings/cesg.html |
-| Canada Job Grant — Employer Funded Training | Canada · Federal | Grant | Jointly funded training program for employers investing in workforce upskilling | https://www.canada.ca/en/employment-social-development/services/training-agreements/canada-job-grant.html |
-| Canada Learning Bond | Canada · Federal | Benefit | Up to $2,000 in RESP grant money for children from lower-income families — eligibility and application | https://www.canada.ca/en/services/benefits/education/education-savings/learning-bond.html |
 | Canada Student Loans and Grants | Canada · Federal | Financial aid | Apply for federal student loans and grants, manage your loan, and explore repayment assistance options | https://www.canada.ca/en/services/benefits/education/student-aid.html |
 
 ### British Columbia
@@ -1422,7 +1397,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| British Columbia — CPSBC Registrant Directory | British Columbia · Agency | Licence registry search | Look up any BC physician, surgeon or podiatrist to confirm their licence, specialty, practice location, and any conditions or disciplinary actions. | https://www.cpsbc.ca/public/registrant-directory |
 | BC Health Gateway | British Columbia · Provincial | Health portal | Secure access to your BC health records — lab results, medications, immunizations, and hospital visits | https://www.healthgateway.gov.bc.ca/ |
 | British Columbia — Surgery Wait Times | British Columbia · Provincial | Wait-time lookup | Compare scheduled-surgery wait times in BC by procedure, hospital and surgeon — see the wait to consult a surgeon and the wait for surgery, updated bi-monthly. | https://swt.hlth.gov.bc.ca/ |
 | HealthLink BC — 8-1-1 | British Columbia · Provincial | Health service | 24/7 non-emergency health advice, dietitian, and pharmacist services by phone and web in BC | https://www.healthlinkbc.ca/ |
@@ -1449,7 +1423,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Health Links Manitoba — 8-1-1 | Manitoba · Provincial | Health service | Manitoba's 24/7 telephone health advice from registered nurses | https://sharedhealthmb.ca/patients-and-families/health-links/ |
 | Manitoba — Health Wait Time Information | Manitoba · Provincial | Wait-time dashboard | Look up Manitoba wait times for emergency departments, MRI, CT, ultrasound and surgical and cancer services by facility and region. | https://www.gov.mb.ca/health/waittime/index.html |
 | Manitoba — Provincial Health System Performance Dashboard | Manitoba · Provincial | Monthly dashboard reports (PDF) | Monthly PDF scorecards tracking ED/urgent care wait times at sites in all five RHAs, patient experience and expenditure sustainability, with targets and trend context since 2020. | https://www.gov.mb.ca/openmb/infomb/departments/dashboard/index.html |
 | Manitoba Health Annual Statistics | Manitoba · Provincial | Statistical report | Download Manitoba Health's 13-section Annual Statistics reports (2013–2021): population, mortality, disease, mental illness, hospital/physician services, home care, and drug use, broken down by RHA. | https://www.gov.mb.ca/health/annstats/ |
@@ -1582,13 +1555,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Child Benefit — Overview and Apply | Canada · Federal | Benefit | Eligibility, payment schedule, and application for the tax-free monthly CCB | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html |
 | Canada Dental Benefit | Canada · Federal | Benefit | Coverage details and application for the Canadian Dental Care Plan | https://www.canada.ca/en/services/benefits/dental.html |
 | Canada Dental Care Plan | Canada · Federal | Health benefit | Apply for the national dental care plan providing coverage for uninsured Canadians with household incomes under $90,000 | https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html |
-| Canada Housing Benefit | Canada · Federal | Rental assistance | One-time top-up and ongoing rental assistance for low-income renters, administered with provinces and territories | https://www.canada.ca/en/services/benefits/housing/canada-housing-benefit.html |
 | Canada Pension Plan (CPP) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for CPP retirement, disability, and survivor benefits | https://www.canada.ca/en/services/benefits/publicpensions/cpp.html |
 | Canada Workers Benefit | Canada · Federal | Tax benefit | Refundable tax credit for low-income workers and families to help offset employment costs | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-workers-benefit.html |
 | Canada.ca — Benefits Payment Calendar | Canada · Federal | Calendar | Official payment dates for CPP, OAS, EI, and other Government of Canada benefits | https://www.canada.ca/en/services/benefits/calendar.html |
 | Canadian Retirement Income Calculator | Canada · Federal | Calculator | Estimates retirement income from public pensions, workplace pensions, and savings | https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html |
 | Child and Family Benefits Calculator | Canada · Federal | Calculator | Estimates child and family benefit amounts | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html |
-| CPP Retirement Hub | Canada · Federal | Information hub | Central hub for Canada Pension Plan retirement planning — contributions, applying, and combining with other income | https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-hub.html |
 | Disability Tax Credit Certificate — Form T2201 | Canada · Federal | Form | Apply for the Disability Tax Credit, which unlocks RDSP, CCB disability supplement, and more | https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html |
 | Old Age Security (OAS) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for Old Age Security and Guaranteed Income Supplement | https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html |
 | Old Age Security Benefits Estimator | Canada · Federal | Calculator | Anonymous Service Canada estimator for OAS pension, Guaranteed Income Supplement, Allowance and Allowance for the Survivor amounts based on age, residency and income. | https://estimateursv-oasestimator.service.canada.ca/en/ |
@@ -1649,12 +1620,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Canada Greener Homes Initiative | Canada · Federal | Grant and loan | Federal grants and loans for home energy evaluations, retrofits, and renewable energy upgrades to reduce emissions | https://www.canada.ca/en/environment-climate-change/services/energy-efficiency/greener-homes-initiative.html |
 | CMHC — Housing Market Information Portal | Canada · Federal | Data portal | Free CMHC housing data for any geography from national to neighbourhood: starts, completions, under construction, vacancy rates and rents as tables, maps and comparisons. | https://www.cmhc-schl.gc.ca/hmiportal |
 | First Home Savings Account (FHSA) | Canada · Federal | Account | Tax-free registered savings account for first-time home buyers, up to $40,000 lifetime | https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html |
 | Government of Canada Financial Tools and Calculators | Canada · Federal | Calculator hub | Big collection of practical calculators for budgeting, mortgages, loans, credit cards, and retirement | https://www.canada.ca/en/services/finance/tools.html |
 | Home Buyers' Plan (HBP) — RRSP Withdrawal | Canada · Federal | Program | Withdraw up to $60,000 tax-free from RRSPs toward a first home — rules and repayment | https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html |
-| Underused Housing Tax — Overview | Canada · Federal | Tax | Federal 1% annual tax on non-Canadian-owned vacant or underused residential property | https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/underused-housing-tax.html |
 | Canada Lands Company — Property Portfolio | Canada · Crown Corp | Real estate | Surplus federal properties and lands available for redevelopment | https://www.clc.ca/ |
 | CMHC — Mortgage Calculator | Canada · Crown Corp | Calculator | Official mortgage payment, amortization, and affordability calculator from CMHC | https://www.cmhc-schl.gc.ca/consumers/home-buying/calculators |
 | CMHC Housing Affordability Tracker | Canada · Crown Corp | Housing tool | Monitor housing affordability across Canadian markets | https://www.cmhc-schl.gc.ca/ |
@@ -2101,7 +2070,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | British Columbia — Mineral Titles Online | British Columbia · Provincial | Tenure registry and map viewer | Map viewers and search tools for every mineral, placer and coal claim or lease in BC — locate tenures, check holders and status, and view reserve boundaries. | https://www.mtonline.gov.bc.ca/ |
 | Environmental Reporting BC | British Columbia · Provincial | Indicator library | Ministry of Environment indicator library across air, climate change, water, land, forests and species: graphs, maps, downloadable datasets and trend reports on groundwater, timber harvest and air quality. | https://www2.gov.bc.ca/gov/content/environment/research-monitoring-reporting/reporting/environmental-reporting-bc |
 | Ministry of Environment — BC Species & Ecosystems Explorer | British Columbia · Provincial | Lookup tool | Search BC's Conservation Data Centre by name, taxon group, Red/Blue/SARA status, biogeoclimatic unit or drawn/uploaded area to list species and ecosystems at risk. | https://a100.gov.bc.ca/pub/eswp/ |
-| Vancouver — Street Trees Dataset | Vancouver · Municipal | Tree inventory dataset | Map and download Vancouver's inventory of 150,000+ public boulevard trees, with species, height, diameter and coordinates, refreshed daily on weekdays. | https://opendata.vancouver.ca/explore/dataset/street-trees/ |
 
 ### Alberta
 
@@ -2466,7 +2434,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Bank of Canada — Interest Rates | Canada · Federal | Rates data | Current and historical interest rates, monetary policy summaries, and research | https://www.bankofcanada.ca/rates/ |
 | Canada Council Art Bank — Collection Search & Open Data | Canada · Federal | Collection search | Search the world's largest contemporary Canadian art collection — 17,000+ works by 3,000+ artists; full collection dataset downloadable as CSV or Excel via Canada Council data tables. | https://artbank.ca/ |
 | Canadian Conservation Institute — CCI Notes | Canada · Federal | Publication series | 100+ free illustrated guides on care, handling and storage of cultural objects — metals, paintings, paper, textiles, photographs, emergency planning. HTML/PDF. | https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes.html |
-| Canadian Heritage — Virtual Exhibits | Canada · Federal | Digital exhibits | Digital heritage exhibits and museum resources | https://www.canada.ca/en/canadian-heritage/services/virtual-exhibits.html |
 | Canadian Museum for Human Rights | Canada · Federal | Museum | National museum in Winnipeg dedicated to the evolution, celebration, and future of human rights in Canada | https://humanrights.ca/ |
 | Canadian Museum of History — Collection | Canada · Federal | Museum | Online collection and virtual exhibitions from Canada's national museum of human history | https://www.historymuseum.ca/ |
 | Canadian Museum of Immigration at Pier 21 | Canada · Federal | Museum | National museum in Halifax exploring the immigrant experience and contributions to Canada's cultural mosaic | https://pier21.ca/ |
@@ -2601,7 +2568,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario — Archives of Ontario Collection Search | Ontario · Provincial | Archives database search | Search descriptions of Ontario's archival, library and art collections — records, photographs and maps — then request items or order reproductions. | https://aims.archives.gov.on.ca/ |
-| Ontario Heritage Trust — Online Plaque Guide | Ontario · Provincial | Plaque database | Search nearly 1,300 blue-and-gold provincial plaques by keyword, theme or municipality, with full plaque texts, locations and an open-data inventory. | https://www.heritagetrust.on.ca/en/online-plaque-guide |
 | Burlington Heritage Register | Burlington · Municipal | Heritage register | Burlington municipal heritage register of designated and listed properties with conservation district information. | https://www.burlington.ca/en/planning-and-development/municipal-cultural-heritage-register.aspx |
 | Cornwall Heritage Designated Sites Open Data | Cornwall · Municipal | Heritage register dataset | GIS layer of Heritage Cornwall designated properties — map, filter, and download designated sites with by-law references via open data portal. | https://data-cornwallcity.opendata.arcgis.com/datasets/7e4d2ad84e584cceb938711fec2f9f2c_0 |
 | Hamilton Heritage Properties — Open Data | Hamilton · Municipal | Heritage register dataset | Designated and listed heritage properties in Hamilton as a downloadable GIS dataset on Open Hamilton. | https://open.hamilton.ca/datasets/heritage-properties |
@@ -2634,7 +2600,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Federal Lobbying Registrations — Open Data | Canada · Federal | Lobbyist open data | Download all federal lobbying registrations and monthly communication reports as CSV with bilingual data dictionary from Lobbying Commissioner. | https://www.canada.ca/en/commissioner-lobbying.html |
 | Office of the Commissioner of Lobbying — Lobbyist Registry | Canada · Federal | Lobbyist registry | Searchable federal registry of in-house and consultant lobbyists: who is lobbying which officials, on what subject, for whom, and when. Note: site blocks automated requests; browse manually. | https://lobbycanada.gc.ca/ |
 
 ### British Columbia
@@ -2748,7 +2713,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Wildfire Map (Interactive) | Ontario · Provincial | Wildfire map | Ontario's interactive fire map with fire size, status, and restricted fire zones | https://www.ontario.ca/page/forest-wildland-and-outdoor-fires |
 | Hamilton — Police Online Crime Mapping Tool | Hamilton · Municipal | Interactive crime map | Search where break-ins, robberies, vehicle thefts and homicides occurred in Hamilton over the past 60 days, with hotspot maps and email crime alerts. | https://hamiltonpolice.on.ca/how-to/online-crime-mapping-tool |
 | Ottawa — Police Community Safety Data Portal | Ottawa · Municipal | Crime maps and open data | Browse Ottawa Police crime maps (year-to-date and historical), shootings, overdose calls by neighbourhood, and download 340k+ criminal offence records. | https://data.ottawapolice.ca/ |
-| Peel Region — Police Community Safety Data Portal | Peel · Municipal | Crime map and open data portal | Map 36 months of crime in Mississauga and Brampton by type, date, street and ward, with hotspot layers, and download Peel police datasets. | https://peel-regional-police-community-safety-data-portal-peelpolice.hub.arcgis.com/ |
 | Toronto — Fire Active Incidents | Toronto · Municipal | Live incident feed | Watch active incidents dispatched by Toronto Fire Services in near real time, pulled from the CAD dispatch system and refreshed every five minutes. | https://www.toronto.ca/community-people/public-safety-alerts/alerts-notifications/toronto-fire-active-incidents/ |
 | Toronto Police — Crime Dashboard | Toronto · Municipal | Dashboard | Public Safety Data Portal — major crime incidents, shootings, traffic collisions in Toronto | https://data.tps.ca/ |
 | York Region — Police Community Safety Data Portal | York Region · Municipal | Crime map and dashboards | Track crime in Markham, Vaughan, Richmond Hill and the rest of York Region with an interactive safety map, auto-theft trend dashboard and stats by municipality. | https://community-safety-portal-datayrp.hub.arcgis.com/ |
@@ -2877,7 +2841,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Canadian Anti-Fraud Centre | Canada · Federal | Reporting | Report fraud and scams to the national CAFC and browse current scam trends | https://www.antifraudcentre-centreantifraude.ca/ |
-| Competition Bureau Canada — Corporate Search | Canada · Federal | Corporate search | Search for registered businesses, corporate histories, and merger information | https://www.competitionbureau.gc.ca/eng/mergers-and-acquisitions |
 | Measurement Canada — Find an Authorized Service Provider | Canada · Federal | Search tool | Find companies authorized by Measurement Canada to inspect and certify scales, gas pumps, and other measuring devices in your area, with their approved inspection scope. | https://ised-isde.canada.ca/site/measurement-canada/en/authorized-service-providers/find-authorized-service-provider |
 | National Do Not Call List | Canada · Agency | Service | Register Canadian phone numbers to reduce unwanted telemarketing calls | https://www.lnnte-dncl.gc.ca/ |
 | Office of the Privacy Commissioner of Canada | Canada · Agency | Regulator | Privacy complaints, PIPEDA guidance, and breach reporting for Canadians | https://www.priv.gc.ca/ |
@@ -2955,7 +2918,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | ATRIS — Aboriginal and Treaty Rights Information System | Canada · Federal | Interactive map | CIRNAC's map-based system locating Indigenous communities and their potential or established Aboriginal and treaty rights, treaties, claims and court decisions — searchable by place, postal code or drawn area. | https://sidait-atris.rcaanc-cirnac.gc.ca/SIDAIT-GEO-ATRIS/index-eng.html |
 | Crown-Indigenous Relations — Specific Claims | Canada · Federal | Database | Search specific claim status, agreements, and modern treaty progress | https://www.rcaanc-cirnac.gc.ca/eng/1100100030291/1539609517566 |
 | First Nation Profiles Interactive Map | Canada · Federal | Interactive map | Indigenous Services Canada's map of First Nations communities across Canada, linked to profiles of governance, reserves, registered population and census statistics. | https://geo.sac-isc.gc.ca/cippn-fnpim/index-eng.html |
-| Indigenous Services Canada — Community Well-Being Index | Canada · Federal | Dataset and map | Visualize and download Community Well-Being index scores (education, labour, income, housing) for First Nations, Inuit and other Canadian communities, 1981–2021. | https://app.geo.ca/en-ca/map-browser/record/56578f58-a775-44ea-9cc5-9bf7c78410e6 |
 | Indigenous Services Canada — Drinking Water Advisories Map | Canada · Federal | Interactive map | Map and table of lifted and active long-term drinking water advisories on public water systems on reserve, browsable by community, region and status. | https://www.sac-isc.gc.ca/eng/1620925418298/1620925434679 |
 | Indigenous Services Canada — First Nations Financial Transparency Act Search | Canada · Federal | Searchable database | Search audited consolidated financial statements and schedules of remuneration filed by First Nations governments under the First Nations Financial Transparency Act. | https://services.sac-isc.gc.ca/fnp/main/Search/SearchFF.aspx?lang=eng |
 | Indigenous Services Canada — Indian Register | Canada · Federal | Registry | Apply for Indian status and Secure Certificate of Indian Status (SCIS) | https://www.sac-isc.gc.ca/eng/1100100032424/1572457769548 |
@@ -3023,7 +2985,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Canadian Armed Forces — Forces.ca Careers | Canada · Federal | Careers | CAF occupations, enrolment steps, and serving-member resources | https://forces.ca/ |
 | Canadian Forces Morale and Welfare Services | Canada · Federal | Services | CFMWS programs, family services, CANEX discounts, and SISIP financial services | https://www.cfmws.ca/ |
-| Canadian Military History — Directorate of History and Heritage | Canada · Federal | Archive | Canadian Forces history, regiments, and heritage publications | https://www.canada.ca/en/department-national-defence/services/military-history.html |
 | Canadian Military Journal — Archive | Canada · Federal | Journal archive | Read the CAF and DND's quarterly professional journal online, with a full back-issue archive of peer-reviewed articles on defence and security since 2000. | https://www.journal.forces.gc.ca/index-eng.asp |
 | Canadian Virtual War Memorial | Canada · Federal | Memorial registry | Searchable registry of Canada's war dead — over 120,000 records with photographs, service numbers, units, and burial locations, maintained by Veterans Affairs. Community photo submissions accepted. | https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial |
 | DND — Official Military Lineages | Canada · Federal | Reference database | Look up the official lineage, battle honours, badge, motto, and marches of every authorized Canadian Armed Forces unit since 1855, maintained by DND historians. | https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages.html |
