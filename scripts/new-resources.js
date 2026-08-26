@@ -3989,5 +3989,1565 @@ module.exports = [
     ],
     "dateAdded": "2026-08-25",
     "verified": true
+  },
+  {
+    "name": "NRCan — Fuel Prices by City",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "utilities",
+    "type": "Lookup tool",
+    "description": "Compare daily, weekly or monthly retail gasoline, diesel, propane and furnace-oil prices for 70+ Canadian cities; export tables as XLS with tax and margin breakdowns.",
+    "url": "https://www2.nrcan-rncan.gc.ca/eneene/sources/pripri/prices_bycity_e.cfm",
+    "tags": [
+      "fuel-prices",
+      "gasoline",
+      "diesel",
+      "nrcan",
+      "xls",
+      "energy"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "CNSC — Nuclear Substance Licence Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Registry",
+    "description": "Search all active CNSC licences for nuclear substances, radiation devices and Class II facilities by use type, organization, city or province — medical, industrial and research.",
+    "url": "https://www.cnsc-ccsn.gc.ca/eng/nuclear-substances/licensing-nuclear-substances-and-radiation-devices/licence-search",
+    "tags": [
+      "cnsc",
+      "nuclear",
+      "licences",
+      "registry",
+      "radiation",
+      "search"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "NRCan — Canada's Critical Minerals Map",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Interactive map",
+    "description": "Interactive map of Canada's 34 critical-mineral mines, advanced projects and processing plants; filter by commodity and download shapefile, FGDB or WMS.",
+    "url": "https://atlas.gc.ca/critical-minerals/en/index.html",
+    "tags": [
+      "critical-minerals",
+      "mining",
+      "nrcan",
+      "shapefile",
+      "wms",
+      "geoscience"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Canada Energy Regulator — Commodity Tracking System",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "utilities",
+    "type": "Lookup tool",
+    "description": "Query monthly CER-regulated trade in electricity, crude oil, natural gas, LNG and NGLs by port, region and year; export reports as Excel, PDF or HTML.",
+    "url": "https://apps.cer-rec.gc.ca/CommodityStatistics/Statistics.aspx?language=english",
+    "tags": [
+      "cer",
+      "electricity",
+      "natural-gas",
+      "crude-oil",
+      "imports",
+      "exports",
+      "excel"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Canada Energy Regulator — International Power Lines Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "utilities",
+    "type": "Dashboard",
+    "description": "Map and filter Canada's international power lines by status, origin and destination; view voltage, capacity and length, with CSV download from Open Government.",
+    "url": "https://www.cer-rec.gc.ca/en/data-analysis/facilities-we-regulate/international-power-lines-dashboard/index.html",
+    "tags": [
+      "cer",
+      "electricity",
+      "intertie",
+      "power-lines",
+      "csv",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "DFO — Seafisheries Landings Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Dashboard",
+    "description": "Filter 1990–2024 commercial seafisheries landings by province, species and year on an interactive dashboard; download volume and value as CSV.",
+    "url": "https://www.dfo-mpo.gc.ca/stats/commercial/sea-maritimes-eng.htm",
+    "tags": [
+      "dfo",
+      "fisheries",
+      "landings",
+      "catch",
+      "csv",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "ECCC — National Air Pollution Surveillance (NAPS)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "Query hourly PM2.5, O3, NO2, SO2 and CO from ~280 stations; custom CSV via the query tool plus pre-built annual files in the ECCC catalogue.",
+    "url": "https://open.canada.ca/data/en/dataset/1b36a356-defd-4813-acea-47bc3abd859b",
+    "tags": [
+      "naps",
+      "air quality",
+      "pm2.5",
+      "ozone",
+      "csv",
+      "eccc"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "ECCC — Air Pollutant Emissions Inventory Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Lookup tool",
+    "description": "Query national and provincial air pollutant and black carbon emissions since 1990 by substance, sector and region; download CSV or Excel.",
+    "url": "https://pollution-waste.canada.ca/air-emission-inventory/",
+    "tags": [
+      "apei",
+      "emissions",
+      "air pollutants",
+      "black carbon",
+      "csv",
+      "excel"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "ECCC — Canadian Environmental Sustainability Indicators",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Dashboard",
+    "description": "Browse CESI air, water, climate, biodiversity and waste indicators with interactive maps and download national and provincial trend tables as CSV.",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/environmental-indicators.html",
+    "tags": [
+      "cesi",
+      "indicators",
+      "climate",
+      "water",
+      "csv",
+      "eccc"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": false
+  },
+  {
+    "name": "Canadian Coast Guard — e-Navigation Data Catalogue",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "aviation-marine",
+    "type": "Open data portal",
+    "description": "Search 41 official marine datasets—AIS aids to navigation, List of Lights, ice, weather XML and notices—and download by coast or Great Lakes region.",
+    "url": "https://e-navigation.canada.ca/gn/index-en",
+    "tags": [
+      "coast guard",
+      "ais",
+      "navigation",
+      "lights",
+      "xml",
+      "download"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Transport Canada — Key Transportation Indicators",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "transport-roads",
+    "type": "Dashboard",
+    "description": "Interactive dashboard of air, marine, road and trade stats (passengers, crossings, commodities) with downloadable ZIP tables by mode.",
+    "url": "https://tdih-cdit.tc.canada.ca/en/dashboard/key-transportation-indicators",
+    "tags": [
+      "transport",
+      "dashboard",
+      "air",
+      "marine",
+      "road",
+      "trade",
+      "zip",
+      "statistics"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "CMHC — Residential Mortgage Industry Data Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Dashboard",
+    "description": "Filter quarterly Canadian mortgage stock, originations, arrears and LTV by lender type; download 2015–2026 tables as XLSX.",
+    "url": "https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/residential-mortgage-industry-data-dashboard",
+    "tags": [
+      "cmhc",
+      "mortgage",
+      "housing-finance",
+      "dashboard",
+      "xlsx",
+      "arrears"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "CMHC — Housing Accelerator Fund Progress Report",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Dashboard",
+    "description": "See HAF funding, permit targets and incented units by province and community in an interactive progress report (through March 2026).",
+    "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/funding-programs/all-funding-programs/housing-accelerator-fund/housing-accelerator-fund-rounds-data",
+    "tags": [
+      "cmhc",
+      "housing",
+      "housing-accelerator-fund",
+      "permits",
+      "funding",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Transport Canada — Navigation Protection Program Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "aviation-marine",
+    "type": "Lookup tool",
+    "description": "Search proposed and approved works on Canadian navigable waters by map or waterway; view project records and public comment notices.",
+    "url": "https://nwar-rlen.tc.canada.ca/about-apropos",
+    "tags": [
+      "navigable-waters",
+      "registry",
+      "marine",
+      "transport",
+      "map",
+      "search"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "CMHC — Household Characteristics and Core Housing Need Tables",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Data tables",
+    "description": "Download Excel tables on core housing need, tenure, income and household type for Canada, provinces, territories and CMAs.",
+    "url": "https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables/household-characteristics",
+    "tags": [
+      "cmhc",
+      "core-housing-need",
+      "housing",
+      "excel",
+      "tenure",
+      "income"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "PHAC — Opioid- and Stimulant-related Harms Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Dashboard",
+    "description": "Explore maps and charts of opioid/stimulant deaths, hospitalizations, ED visits and EMS responses by province since 2016; download the full series as ZIP/CSV.",
+    "url": "https://health-infobase.canada.ca/substance-related-harms/opioids-stimulants/",
+    "tags": [
+      "phac",
+      "opioids",
+      "stimulants",
+      "overdose",
+      "dashboard",
+      "csv",
+      "zip"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "IRCC — Permanent Residents Monthly Open Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Open data",
+    "description": "Download monthly PR admissions by province, CMA, citizenship, category, age and gender as CSV or XLSX; updated monthly through June 2026.",
+    "url": "https://open.canada.ca/data/en/dataset/f7e5498e-0ad8-4417-85c9-9b8aff9b9eda",
+    "tags": [
+      "ircc",
+      "permanent residents",
+      "immigration",
+      "open data",
+      "csv",
+      "xlsx"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "PHAC — Canadian Chronic Disease Surveillance System",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Data tool",
+    "description": "Chart incidence and prevalence for 20+ chronic conditions by province, age and sex from 2000 onward; download custom tables from the data tool.",
+    "url": "https://health-infobase.canada.ca/ccdss/data-tool/",
+    "tags": [
+      "phac",
+      "chronic disease",
+      "surveillance",
+      "ccdss",
+      "dashboard",
+      "csv"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "PHAC — Health of People in Canada Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Dashboard",
+    "description": "Explore 50+ population-health indicators (life expectancy, chronic disease, substance use, social factors) with maps and trends; download the dashboard CSV.",
+    "url": "https://health-infobase.canada.ca/health-of-people-in-canada-dashboard/",
+    "tags": [
+      "phac",
+      "population health",
+      "indicators",
+      "dashboard",
+      "csv"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "CRA — GST/HST Registry Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "taxes",
+    "type": "Lookup tool",
+    "description": "Confirm a supplier's GST/HST number was registered on the invoice date by entering the 9-digit BN, legal name, and transaction date.",
+    "url": "https://www.businessregistration-inscriptionentreprise.gc.ca/ebci/brom/registry/pub/reg_01_Ld.action",
+    "tags": [
+      "cra",
+      "gst",
+      "hst",
+      "registry",
+      "lookup",
+      "itc"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "OSFI — Bank Financial Data (FINDAT)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Dataset",
+    "description": "Download monthly/quarterly bank filings as CSV—balance sheets, BASEL III capital, income—plus Open Government API access.",
+    "url": "https://open.canada.ca/data/en/dataset/91ed76b4-a1a2-4f87-9c4c-59cd64f7a9de",
+    "tags": [
+      "osfi",
+      "banks",
+      "findat",
+      "csv",
+      "api",
+      "capital"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "ISED — CSBFP Lender Finance Map",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Interactive map",
+    "description": "Find 3,180+ Canada Small Business Financing Program lender branches on an interactive map, or download the full point list as CSV.",
+    "url": "https://www.ised-isde.canada.ca/site/maps/en/finance-map",
+    "tags": [
+      "ised",
+      "csbfp",
+      "lenders",
+      "map",
+      "csv",
+      "small business"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Competition Bureau — Deceptive Marketing Cases",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Search every public deceptive-marketing case since 2015 by company, product, or outcome, including consent agreements and Tribunal rulings.",
+    "url": "https://competition-bureau.canada.ca/en/deceptive-marketing-practices/cases-and-outcomes",
+    "tags": [
+      "competition",
+      "deceptive marketing",
+      "enforcement",
+      "search",
+      "consumer"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "FINTRAC — Transaction Report Volume Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Dataset",
+    "description": "Download STR, large-cash, EFT and casino-disbursement report counts by FSA postal code and sector as CSV/XLSX (2011–2023).",
+    "url": "https://open.canada.ca/data/en/dataset/81cc47ac-e88d-4b7f-9318-8774a2d919e6",
+    "tags": [
+      "fintrac",
+      "aml",
+      "csv",
+      "xlsx",
+      "postal code",
+      "str"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Canada Council for the Arts — Grant Recipients Data Tables",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Open data tables",
+    "description": "Download complete lists of Canada Council grant recipients from 2013–present by program, field, community and riding; Excel and CSV plus methodology PDFs.",
+    "url": "https://canadacouncil.ca/research/data-tables",
+    "tags": [
+      "canada council",
+      "grants",
+      "arts funding",
+      "csv",
+      "excel",
+      "open data"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "National Film Board — Collection Catalogue",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "culture",
+    "type": "Film catalogue",
+    "description": "Search every NFB production since 1939—13,000+ documentaries, animations and films—by title, genre, format and duration; thousands stream free on NFB.ca.",
+    "url": "https://collection.nfb.ca/home",
+    "tags": [
+      "nfb",
+      "film",
+      "documentary",
+      "animation",
+      "catalogue",
+      "search"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Library and Archives Canada — Government of Canada Web Archive",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Web archive",
+    "description": "Search and browse 35+ TB of preserved Canadian websites since 2005: federal sites, COVID-19, TRC, royal commissions, and historical .ca domain crawls.",
+    "url": "https://webarchiveweb.bac-lac.canada.ca/en/",
+    "tags": [
+      "lac",
+      "web archive",
+      "wayback",
+      "government websites",
+      "search"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "CHIN — Nomenclature for Museum Cataloging",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Controlled vocabulary",
+    "description": "Search and browse North America's standard object-name thesaurus for museum cataloguing; bilingual terms plus SPARQL/LOD endpoint and reconciliation API.",
+    "url": "https://www.nomenclature.info/apropos-about.app?lang=en",
+    "tags": [
+      "chin",
+      "museums",
+      "nomenclature",
+      "sparql",
+      "linked open data",
+      "api"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Library and Archives Canada — Aurora Catalogue",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "heritage",
+    "type": "Library catalogue",
+    "description": "Search LAC's published holdings—books, newspapers, magazines, official publications, maps, music and theses—via the national bibliography (WorldCat Discovery).",
+    "url": "https://bac-lac.on.worldcat.org/discovery?lang=en",
+    "tags": [
+      "lac",
+      "aurora",
+      "library catalogue",
+      "worldcat",
+      "bibliography",
+      "search"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": false
+  },
+  {
+    "name": "Island Health — Food Facility Inspections",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health-region",
+    "type": "Lookup tool",
+    "description": "Search Island Health restaurant and food-facility inspections by city; view hazard ratings, violations and closure orders for Vancouver Island premises.",
+    "url": "https://inspections.myhealthdepartment.com/island-health/program-food",
+    "tags": [
+      "food inspections",
+      "restaurants",
+      "vancouver island",
+      "health authority",
+      "lookup"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Ministry of Environment — Air Quality Health Index Map",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "environment",
+    "type": "Interactive map",
+    "description": "View hourly AQHI, PM2.5, ozone, NO2 and SO2 at BC monitoring stations on an interactive map; click stations for readings. Refreshes every 60 minutes.",
+    "url": "https://www.gov.bc.ca/airqualitymap",
+    "tags": [
+      "air quality",
+      "aqhi",
+      "pm2.5",
+      "monitoring",
+      "map",
+      "environment"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Ministry of Water, Land and Resource Stewardship — Water Licence Search",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "environment",
+    "type": "Lookup tool",
+    "description": "Search BC surface-water and groundwater licences by client, source, PID, watershed or region; download matching licence data as Excel and retrieve scanned documents.",
+    "url": "https://j200.gov.bc.ca/pub/ams/Default.aspx?PossePresentation=AMSPublic&PosseObjectDef=o_ATIS_DocumentSearch&PosseMenuName=WS_Main",
+    "tags": [
+      "water licences",
+      "groundwater",
+      "excel",
+      "registry",
+      "lookup"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Heritage Branch — BC Register of Historic Places",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "heritage",
+    "type": "Registry",
+    "description": "Search 5,000+ provincially, municipally and federally recognized historic places by name, address or map; download filtered records as CSV or shapefile.",
+    "url": "https://apps.nrs.gov.bc.ca/bcrhp/",
+    "tags": [
+      "heritage register",
+      "historic places",
+      "csv",
+      "shapefile",
+      "gis",
+      "map"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "ICBC — Crash Statistics and Open Data",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "transport-roads",
+    "type": "Open data portal",
+    "description": "Download ICBC crash, casualty, intersection and vehicle-population open datasets (CSV) and explore interactive Tableau dashboards of reported crashes across B.C.",
+    "url": "https://www.icbc.com/about-icbc/newsroom/Statistics",
+    "tags": [
+      "crashes",
+      "road safety",
+      "csv",
+      "open data",
+      "tableau",
+      "icbc"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Treasury Board & Finance — Grant Payments Disclosure",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "budget",
+    "type": "Dataset",
+    "description": "Download CSVs of every Alberta grant by ministry, recipient, amount and program (2014–present); current-year CSV/XML export also available.",
+    "url": "https://open.alberta.ca/opendata/grant-disclosure",
+    "tags": [
+      "grants",
+      "spending",
+      "csv",
+      "xml",
+      "treasury",
+      "disclosure"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Environment & Protected Areas — Environmental Records Viewer",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "environment",
+    "type": "Lookup tool",
+    "description": "Map-search and download contaminated-site files, reclamation certificates, waste/industrial/pesticide authorizations and Water Act licences.",
+    "url": "https://geospatial.alberta.ca/erv/",
+    "tags": [
+      "contaminated sites",
+      "reclamation",
+      "water licences",
+      "map",
+      "environment"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Environment & Protected Areas — Air Data Warehouse",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "Filter industrial and airshed ambient stations and download Alberta air-quality extracts (PM2.5, NO2, SO2, O3+) as CSV.",
+    "url": "https://datamanagementplatform.alberta.ca/ambient",
+    "tags": [
+      "air quality",
+      "csv",
+      "pm2.5",
+      "emissions",
+      "monitoring"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Education & Childcare — Childcare Search",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "education",
+    "type": "Lookup tool",
+    "description": "Search licensed daycares, preschools and family day-home agencies by city, postal code, age and type; map view plus 18 months of non-compliance history.",
+    "url": "https://childcare.alberta.ca/childcaresearch",
+    "tags": [
+      "childcare",
+      "inspections",
+      "licensing",
+      "map",
+      "lookup"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": false
+  },
+  {
+    "name": "Treasury Board & Finance — Non-profit Listing Dashboard",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "business",
+    "type": "Dashboard",
+    "description": "Search Alberta Corporate Registry non-profits by name, type, status and location; export the monthly listing and explore Power BI charts.",
+    "url": "https://www.alberta.ca/alberta-non-profit-listing-dashboard",
+    "tags": [
+      "non-profit",
+      "registry",
+      "xlsx",
+      "dashboard",
+      "corporate registry"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Water Security Agency — Drinking Water Quality Search",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "environment",
+    "type": "Lookup tool",
+    "description": "Search any Saskatchewan waterworks for lab sample results, inspections and quarterly bacti reports; download historical tests against provincial drinking-water standards.",
+    "url": "https://waterquality.saskatchewan.ca/DrinkingWater",
+    "tags": [
+      "drinking water",
+      "water quality",
+      "inspections",
+      "download",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Ministry of Energy and Resources — MARS Mineral Disposition Map",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "science",
+    "type": "Lookup tool",
+    "description": "Public map of Saskatchewan mineral permits and claims: search by disposition number or cadastral/grid, see free-and-clear vs restricted land, updated daily.",
+    "url": "https://mars.isc.ca/MARSWeb/publicmap/FeatureAvailabilitySearch.aspx",
+    "tags": [
+      "minerals",
+      "claims",
+      "tenure",
+      "map",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Water Security Agency — Water Wells Map",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "utilities",
+    "type": "Interactive map",
+    "description": "Interactive map of ~125,000 water-well drilling records (lithology, depth, completion) submitted by Saskatchewan drillers; locate wells by area.",
+    "url": "https://gis.wsask.ca/Html5Viewer/index.html?viewer=WaterWells.WellsViewer/",
+    "tags": [
+      "water wells",
+      "groundwater",
+      "gis",
+      "map",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "eHealth Saskatchewan — Specialist Directory",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "health",
+    "type": "Lookup tool",
+    "description": "Look up ~200 Saskatchewan surgeons and 2,600 procedures with weekly-updated surgical wait times so patients can compare specialists and travel for faster surgery.",
+    "url": "https://specialists.ehealthsask.ca/",
+    "tags": [
+      "wait times",
+      "surgery",
+      "specialists",
+      "health",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Ministry of Education — Regulated Child Care Finder",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "education",
+    "type": "Lookup tool",
+    "description": "Search 1,380 regulated child-care centres and homes on an interactive map; filter by infants, extended/24-hour hours, francophone and teen-parent programs.",
+    "url": "https://www.saskatchewan.ca/residents/family-and-social-support/child-care/find-a-child-care-provider-in-my-community",
+    "tags": [
+      "child care",
+      "daycare",
+      "map",
+      "early learning",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Manitoba Petroleum Branch — Oil & Gas GIS Map Gallery",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "open-data",
+    "type": "Interactive map + shapefile downloads",
+    "description": "Search wells, batteries and facilities on an interactive GIS map; download shapefiles of well locations, Crown lands, unit/field/pool boundaries (ZIP, 2026).",
+    "url": "https://www.gov.mb.ca/iem/petroleum/gis/index.html",
+    "tags": [
+      "oil",
+      "gas",
+      "wells",
+      "shapefile",
+      "gis",
+      "manitoba",
+      "zip"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Manitoba Environment — Environmental Assessment Public Registry",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "environment",
+    "type": "Public registry",
+    "description": "Browse Environment Act proposals by status (open for comment, in process, licensed); download licences, summaries and compliance reports as PDF.",
+    "url": "https://www.gov.mb.ca/sd/eal/registries/index.html",
+    "tags": [
+      "environmental assessment",
+      "licences",
+      "public registry",
+      "pdf",
+      "manitoba"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Manitoba Education — K-12 Education Data Dashboard",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "school-board",
+    "type": "Dashboard",
+    "description": "View provincial and divisional dashboards for enrolment, EDI, Grade 3–12 assessments, credit attainment and high school graduation rates.",
+    "url": "https://www.edu.gov.mb.ca/k12/grad_rates/index.html",
+    "tags": [
+      "education",
+      "graduation",
+      "assessments",
+      "dashboard",
+      "manitoba"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Manitoba Office of Drinking Water — Advisories Map",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "utilities",
+    "type": "Advisory map",
+    "description": "See current boil-water, water-quality and avoidance advisories for public and semi-public systems on a map, with short/medium/long-term status.",
+    "url": "https://www.gov.mb.ca/sd/water/drinking-water/advisory/map.html",
+    "tags": [
+      "drinking water",
+      "boil water",
+      "advisories",
+      "map",
+      "manitoba"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Manitoba Parks — Parks Reservation Service",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "parks",
+    "type": "Reservation tool",
+    "description": "Reserve campsites, cabins, yurts and group-use areas at 46 provincial-park locations online via manitoba.goingtocamp.com, or by phone.",
+    "url": "https://www.manitoba.ca/sd/parks/prs/index.html",
+    "tags": [
+      "camping",
+      "parks",
+      "reservations",
+      "manitoba"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Ministry of Municipal Affairs and Housing — Financial Information Return",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "budget",
+    "type": "Open data portal",
+    "description": "Download yearly CSV ZIPs of every Ontario municipality's revenues, expenses, reserves and stats (2000–2025), plus dashboards and per-municipality reports.",
+    "url": "https://efis.fma.csc.gov.on.ca/fir/",
+    "tags": [
+      "ontario",
+      "municipal finance",
+      "csv",
+      "budget",
+      "fir"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Metrolinx — GO Transit and UP Express GTFS",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "GTFS feed",
+    "description": "Download current GO Transit and UP Express GTFS.zip schedule feeds (updated Aug 2026) for regional rail and bus apps.",
+    "url": "https://www.gotransit.com/en/partner-with-us/software-developers",
+    "tags": [
+      "gtfs",
+      "go transit",
+      "metrolinx",
+      "transit",
+      "zip"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Ministry of Natural Resources — Crown Land Use Policy Atlas",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Map Crown land-use policy areas across 39 million hectares and search area-specific policy reports and amendments in the interactive atlas.",
+    "url": "https://www.lioapplications.lrc.gov.on.ca/CLUPA/index.html?viewer=CLUPA.CLUPA&locale=en-CA",
+    "tags": [
+      "crown land",
+      "land use",
+      "map",
+      "ontario",
+      "clupa"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Ministry of Energy and Mines — MLAS Mining Claims Map",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "science",
+    "type": "Interactive map",
+    "description": "Look up active unpatented mining claims, mineral titles and lands open for staking on the public MLAS Map Viewer.",
+    "url": "https://www.lioapplications.lrc.gov.on.ca/MLAS/Index.html?viewer=MLAS.MLAS&locale=en-CA",
+    "tags": [
+      "mining",
+      "claims",
+      "map",
+      "ontario",
+      "mlas"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Ministry of the Environment — Source Protection Information Atlas",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Interactive map",
+    "description": "Look up any address to see wellhead protection areas, intake zones, vulnerable aquifers and water-taking permits on the provincial source-water atlas.",
+    "url": "https://www.lioapplications.lrc.gov.on.ca/SourceWaterProtection/index.html?viewer=SourceWaterProtection.SWPViewer&locale=en-CA",
+    "tags": [
+      "drinking water",
+      "source protection",
+      "map",
+      "ontario",
+      "environment"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "RBQ — Registre des détenteurs de licence",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Look up any Quebec construction contractor or owner-builder by name or licence number; see categories, bonding, claims and public-works restrictions.",
+    "url": "https://www.pes.rbq.gouv.qc.ca/RegistreLicences",
+    "tags": [
+      "rbq",
+      "contractor",
+      "licence",
+      "construction",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "MAPAQ — Liste des établissements sous permis",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "agriculture",
+    "type": "Lookup tool",
+    "description": "Search MAPAQ food permits (restaurants, retailers, abattoirs) by name, type or region and download the list as CSV or PDF.",
+    "url": "https://web.mapaq.gouv.qc.ca/bh/etablissements-sous-permis",
+    "tags": [
+      "mapaq",
+      "food",
+      "permits",
+      "inspection",
+      "csv",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "CPTAQ — Rechercher un dossier",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "agriculture",
+    "type": "Lookup tool",
+    "description": "Search 370,000+ CPTAQ agricultural-zone decisions, rights declarations and orders since 1978 by file number, lot or municipality.",
+    "url": "https://www.cptaq.gouv.qc.ca/rechercher-un-dossier",
+    "tags": [
+      "cptaq",
+      "agricultural zone",
+      "decisions",
+      "land use",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "MELCCFP — Répertoire des terrains contaminés",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "environment",
+    "type": "Lookup tool",
+    "description": "Search Quebec contaminated and rehabilitated sites by region, municipality or contaminant; map them in Repère GTC and export to Excel.",
+    "url": "https://www.environnement.gouv.qc.ca/sol/terrains/terrains-contamines/recherche.asp",
+    "tags": [
+      "contaminated sites",
+      "soil",
+      "excel",
+      "melccfp",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "MRNF — GESTIM mining titles registry",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "science",
+    "type": "Lookup tool",
+    "description": "Query Quebec's public mining-rights register by map or criteria, download title data and generate custom claim maps (PDF).",
+    "url": "https://gestim.mines.gouv.qc.ca/",
+    "tags": [
+      "mining",
+      "claims",
+      "gestim",
+      "pdf",
+      "map",
+      "quebec"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Environment and Local Government — Contaminated Sites Viewer",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "environment",
+    "type": "Interactive map",
+    "description": "Map every open and closed contaminated-site file in NB; search by address, click a site for details. Weekday-updated GeoNB interactive map.",
+    "url": "https://geonb.snb.ca/contaminated_sites__lieux_contamines/index.html",
+    "tags": [
+      "contaminated-sites",
+      "environment",
+      "map",
+      "geonb",
+      "brownfields"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Health — Surgical Wait Times",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "health",
+    "type": "Dashboard",
+    "description": "Look up typical wait times by surgical procedure (hip/knee, cataract, CABG and more) plus trending, target and surgeon-level reports.",
+    "url": "https://www1.gnb.ca/0217/SurgicalWaitTimes/Index-e.aspx",
+    "tags": [
+      "wait-times",
+      "surgery",
+      "hospitals",
+      "dashboard",
+      "health"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "New Brunswick Health Council — Data Tables",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "health-region",
+    "type": "Open data portal",
+    "description": "Compare health indicators by zone, community, hospital or school district and export any table as CSV or PDF — acute care, surveys and wait times.",
+    "url": "https://nbhc.ca/data/browse/data-tables",
+    "tags": [
+      "health-indicators",
+      "csv",
+      "pdf",
+      "health-zones",
+      "surveys"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Education and Early Childhood Development — Child Care Finder",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "education",
+    "type": "Lookup tool",
+    "description": "Map-search licensed early-learning and childcare sites by community or name; filter by age, open spaces, designation, language and district.",
+    "url": "https://www.nbed.nb.ca/parentportal/en/Search/Elc/",
+    "tags": [
+      "childcare",
+      "early-learning",
+      "map",
+      "licensing",
+      "lookup"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "NB Natural Resources — Fishing Regulation Web App",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "parks",
+    "type": "Lookup tool",
+    "description": "Look up recreational angling seasons, bag/size limits and gear rules by water body, fishing area, town or coordinates on an interactive map.",
+    "url": "https://dnr-mrn.gnb.ca/FishRegulation/?lang=en",
+    "tags": [
+      "fishing",
+      "regulations",
+      "map",
+      "wildlife",
+      "lookup"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Public Works — NS Weather Station Data",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "weather",
+    "type": "Dataset",
+    "description": "Download 31M+ readings (2011–2024) from 56 provincial road-weather stations: temp, wind, humidity, precip, pavement status. CSV/JSON/Socrata API.",
+    "url": "https://data.novascotia.ca/Environment-and-Energy/NS-Weather-Station-Data/kafq-j9u4",
+    "tags": [
+      "weather",
+      "climate",
+      "temperature",
+      "precipitation",
+      "wind",
+      "csv",
+      "json",
+      "api",
+      "socrata"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Environment and Climate Change — Water Resources Data Portal",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "environment",
+    "type": "Dashboard",
+    "description": "Interactive maps and charts of provincial groundwater levels, river flows, lake/river water quality, and weather used to track water conditions over time.",
+    "url": "https://novascotia.ca/water-resources-data-portal/",
+    "tags": [
+      "groundwater",
+      "water-quality",
+      "hydrology",
+      "weather",
+      "monitoring",
+      "maps",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Natural Resources — BurnSafe Fire Restrictions",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "safety",
+    "type": "Dashboard",
+    "description": "Daily county-level burn ban map and table (updated 2pm in wildfire season): no-burn, restricted, or allowed hours. Check before campfires or brush burning.",
+    "url": "https://novascotia.ca/burnsafe/",
+    "tags": [
+      "wildfire",
+      "burn-ban",
+      "fire-restrictions",
+      "emergency",
+      "map"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "NS Education — Directory of Public Schools",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "school-board",
+    "type": "Lookup tool",
+    "description": "Interactive map of every NS public school with grades, contacts and RCE/CSAP; download the 2025–2026 directory as Excel plus historical editions.",
+    "url": "https://stats-summary.ednet.ns.ca/directory-public-schools",
+    "tags": [
+      "schools",
+      "directory",
+      "catchment",
+      "excel",
+      "map",
+      "education"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Fisheries and Aquaculture — Aquaculture Site Licences",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "agriculture",
+    "type": "Lookup tool",
+    "description": "Sortable table of every issued aquaculture licence/lease by operator, county, size and cultivation type, with downloadable licence and lease PDFs.",
+    "url": "https://novascotia.ca/fish/aquaculture/public-information/",
+    "tags": [
+      "aquaculture",
+      "licences",
+      "leases",
+      "fisheries",
+      "pdf",
+      "registry"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "PEI Weather & Climate App",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "weather",
+    "type": "Dashboard",
+    "description": "View and download real-time observations from 100+ PEI weather stations plus historical climate (temperature, precipitation, wind, humidity) on an interactive map.",
+    "url": "https://weather.peiclimate.ca/",
+    "tags": [
+      "weather",
+      "climate",
+      "stations",
+      "download",
+      "pei"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Land and Environment — PEI Water Registry",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "environment",
+    "type": "Registry",
+    "description": "Search official Water Act dashboards and maps for groundwater levels, stream flow, water-use permits, well records, watershed report cards and water quality.",
+    "url": "https://water.princeedwardisland.ca/",
+    "tags": [
+      "water",
+      "groundwater",
+      "registry",
+      "maps",
+      "environment"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Land and Environment — PEI Air Monitoring",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "environment",
+    "type": "Dashboard",
+    "description": "Explore PEI ambient air-quality dashboards (AQHI, CAAQS) and download provincial air-quality reports from the monitoring network.",
+    "url": "https://air.princeedwardisland.ca/",
+    "tags": [
+      "air-quality",
+      "aqhi",
+      "dashboard",
+      "environment",
+      "reports"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Justice and Public Safety — Civic Address Points",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "open-data",
+    "type": "Open dataset",
+    "description": "Nightly-updated GIS points for every PEI civic address. Download from the open-data portal or query the ArcGIS Feature Service API.",
+    "url": "https://data.princeedwardisland.ca/datasets/3db2ec93bbe44d98a97f04a2cb6f7ce3/explore",
+    "tags": [
+      "civic-address",
+      "gis",
+      "api",
+      "geojson",
+      "public-safety"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Department of Land and Environment — PEI Soils",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "agriculture",
+    "type": "Open dataset",
+    "description": "Province-wide soils polygon GIS from the Resource Inventory & Modelling Section. Query or download via the ArcGIS Feature Service.",
+    "url": "https://data.princeedwardisland.ca/datasets/576af49a64a94665a89a655b8990a137/explore",
+    "tags": [
+      "soils",
+      "agriculture",
+      "gis",
+      "geodatabase",
+      "api"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "ParksNL — Campsite Reservation Service",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "parks",
+    "type": "Reservation tool",
+    "description": "Book serviced and unserviced sites at 13 NL provincial parks online or by phone; lists 2026 fees, seasons and vehicle-pass rates, with a link to ParksNL booking.",
+    "url": "https://www.parksnl.ca/reservations/",
+    "tags": [
+      "camping",
+      "reservations",
+      "provincial parks",
+      "parksnl",
+      "newfoundland"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "NL Statistics Agency — Community Accounts Climate Data",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "weather",
+    "type": "Climate data portal",
+    "description": "Query 70+ NL weather stations for daily/monthly/annual temperature, rain and snow from 1874–2026; nearest-station search plus charts.",
+    "url": "https://nl.communityaccounts.ca/climate/",
+    "tags": [
+      "climate",
+      "weather stations",
+      "temperature",
+      "precipitation",
+      "charts",
+      "csv"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Municipal and Community Affairs — Land Use Planning Registry",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "planning-zoning",
+    "type": "Planning registry",
+    "description": "A–Z register of municipal plans and development regulations in legal effect, with PDF plans and KMZ zoning maps for every NL municipality.",
+    "url": "https://www.gov.nl.ca/mca/registry/reglist/",
+    "tags": [
+      "zoning",
+      "municipal plans",
+      "development regulations",
+      "pdf",
+      "kmz"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Forestry, Agriculture and Lands — Near-Real-Time Weather Stations",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "weather",
+    "type": "Weather station dashboard",
+    "description": "Hourly graphs from 22 provincial forestry RAWS stations across Newfoundland and Labrador; fire-weather data plus a downloadable KMZ station map.",
+    "url": "https://www.mae.gov.nl.ca/wrmd/ADRS/v6/RAWS_Graphs_List.asp",
+    "tags": [
+      "weather",
+      "raws",
+      "forestry",
+      "hourly",
+      "kmz",
+      "fire weather"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "NL Health Services — Health Dashboards Hub",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "health-region",
+    "type": "Dashboard",
+    "description": "Interactive GIS maps to find naloxone kits, flu/COVID vaccine clinics and Family Care Team locations across the province; updated regularly.",
+    "url": "https://nlhealthservices.ca/find-health-care/dashboards/",
+    "tags": [
+      "gis",
+      "naloxone",
+      "vaccines",
+      "family care teams",
+      "health",
+      "map"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Yukon Parks — Camping Reservations",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "parks",
+    "type": "Reservation tool",
+    "description": "Book frontcountry, backcountry and group campsites at Yukon territorial campgrounds; search availability by park, dates and equipment.",
+    "url": "https://yukon.goingtocamp.com/",
+    "tags": [
+      "yukon",
+      "parks",
+      "camping",
+      "reservations",
+      "tombstone"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": false
+  },
+  {
+    "name": "Yukon Lobbyist Registry",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Search who is lobbying the Government of Yukon by organization or topic; view consultant and in-house filings and activity status.",
+    "url": "https://yukonlobbyistregistry.ca/en/search-organization",
+    "tags": [
+      "yukon",
+      "lobbyists",
+      "registry",
+      "search",
+      "transparency"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "NWT Parks — Find a Park",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "parks",
+    "type": "Park finder",
+    "description": "Filter 34 NWT territorial parks by activity, facility and open/closed status; book campsites via the linked reservation portal.",
+    "url": "https://www.nwtparks.ca/find-a-park",
+    "tags": [
+      "nwt",
+      "parks",
+      "camping",
+      "map",
+      "finder"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Mackenzie Valley Land and Water Board — Public Registry",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "environment",
+    "type": "Public registry",
+    "description": "Search Mackenzie Valley land-use permits and water licences; download inspection reports, applications and issuances as PDFs.",
+    "url": "https://mvlwb.com/registry",
+    "tags": [
+      "nwt",
+      "permits",
+      "water licences",
+      "pdf",
+      "registry"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
+  },
+  {
+    "name": "Nunavut Impact Review Board — Public Registry",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "environment",
+    "type": "Public registry",
+    "description": "Browse Nunavut impact assessments; download screening decisions, comment submissions and annual reports as PDFs.",
+    "url": "https://www.nirb.ca/",
+    "tags": [
+      "nunavut",
+      "impact assessment",
+      "pdf",
+      "registry",
+      "environment"
+    ],
+    "dateAdded": "2026-08-26",
+    "verified": true
   }
 ];
