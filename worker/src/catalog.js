@@ -160,6 +160,7 @@ export function mergeStaged(data, staged) {
       type: e.type, description: e.description, url: e.url, tags: e.tags,
     };
     if (e.dateAdded) out.dateAdded = e.dateAdded;
+    if (e.kind) out.kind = e.kind;
     return out;
   });
   return { ordered, added, skipped };

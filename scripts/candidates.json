@@ -4576,5 +4576,829 @@
     ],
     "dateAdded": "2026-08-26",
     "verified": true
+  },
+  {
+    "name": "Alberta — Broadband Projects Lookup",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "telecom",
+    "type": "Broadband project map",
+    "description": "Search map and list of 81+ rural broadband projects funded via the Alberta Broadband Fund and Universal Broadband Fund; view recipient, households served, construction status and total investment per project.",
+    "url": "https://www.alberta.ca/lookup/broadband-projects.aspx",
+    "tags": [
+      "broadband",
+      "connectivity",
+      "interactive-map",
+      "lookup",
+      "government-data"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Connectivity in B.C. — Funded Projects Map",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "telecom",
+    "type": "Broadband project map",
+    "description": "Interactive map of 217 Connecting BC and Connecting Communities BC broadband and cellular projects by community, with project status, funding details and source data in the BC Data Catalogue.",
+    "url": "https://www2.gov.bc.ca/gov/content/governments/connectivity-in-bc/20531",
+    "tags": [
+      "broadband",
+      "cellular",
+      "connectivity",
+      "interactive-map",
+      "open-data"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Improving Connectivity for Ontario (ICON) Map Tool",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "telecom",
+    "type": "Broadband coverage map",
+    "description": "Map Ontario broadband service levels on 250m street segments and 50/10 Mbps hexagons, areas with no LTE, anchor institutions and First Nation boundaries; draw and export project areas as KML/geoJSON.",
+    "url": "https://www.ontario.ca/page/improving-connectivity-ontario-map-tool",
+    "tags": [
+      "broadband",
+      "cellular",
+      "coverage",
+      "map",
+      "gis",
+      "open-data"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Québec — Accès à Internet haute vitesse (Carte interactive)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "telecom",
+    "type": "Broadband coverage map",
+    "description": "Interactive map of high-speed Internet service per address, municipality or administrative region of Quebec; verify 50/10 Mbps coverage, view providers and report map inaccuracies (French).",
+    "url": "https://www.quebec.ca/habitation-territoire/amenagement-developpement-territoires/internet-haute-vitesse-etat-situation",
+    "tags": [
+      "internet",
+      "broadband",
+      "map",
+      "couverture",
+      "lookup",
+      "french"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Internet for Nova Scotia Initiative",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "telecom",
+    "type": "Broadband rollout tracker",
+    "description": "Track high-speed Internet rollout to ~103,000 Nova Scotia homes and businesses: search by community or postal code, browse zone and coverage maps, and check satellite Internet rebate eligibility.",
+    "url": "https://internet.buildns.ca/",
+    "tags": [
+      "broadband",
+      "connectivity",
+      "map",
+      "lookup",
+      "coverage"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Ouranos — Climate Portraits (Portraits climatiques)",
+    "level": "Agency",
+    "jurisdiction": "Quebec",
+    "category": "weather",
+    "type": "Climate projections portal",
+    "description": "Interactive maps, trend graphs and summary tables of past, current and projected climate across Quebec by administrative region/MRC — temperature, precipitation, snow cover, frost-free and degree-day indicators under SSP2-4.5, SSP3-7.0 and SSP5-8.5; download data and figures (GeoTIFF/NetCDF/JSON).",
+    "url": "https://portraits.ouranos.ca/en/",
+    "tags": [
+      "quebec",
+      "climate projections",
+      "climate data",
+      "interactive map",
+      "cmip6",
+      "download"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "PCIC Plan2Adapt — BC Climate Projections",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "weather",
+    "type": "Climate projections tool",
+    "description": "Explore projected climate change across BC under a high-emissions scenario (SSP5-8.5) with user-friendly maps, trend graphs and summary tables, sliced by regional district, health authority or ecoprovince; based on PCIC statistically downscaled CMIP6 scenarios.",
+    "url": "https://services.pacificclimate.org/plan2adapt/app/",
+    "tags": [
+      "british columbia",
+      "climate projections",
+      "climate change",
+      "interactive map",
+      "planning"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "ClimateWest — Prairie Climate Data Hub",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Climate services hub",
+    "description": "Regional climate services hub for the three Prairie provinces: help desk for finding/using climate data, directory of Canadian climate data portals, sector guidance (agriculture, water, infrastructure, municipalities) and adaptation publications, case studies and training.",
+    "url": "https://climatewest.ca/",
+    "tags": [
+      "prairies",
+      "alberta",
+      "saskatchewan",
+      "manitoba",
+      "climate services",
+      "climate data",
+      "adaptation"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Montréal — Evalweb property assessment rolls",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "taxes",
+    "type": "Property assessment search",
+    "description": "Look up any property's assessment roll in the Montreal agglomeration by address, lot number or registration number: owner, lot surface, and assessed value of building, lot and property.",
+    "url": "https://montreal.ca/en/how-to/check-property-assessment-rolls",
+    "tags": [
+      "assessment",
+      "property tax",
+      "search",
+      "montreal"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Montréal — Municipal tax account (Compte de taxes)",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "taxes",
+    "type": "Property tax account tool",
+    "description": "View copies of your Montreal municipal tax account statements (current and past 2 years) by tax account number or address, and check your tax account balance online.",
+    "url": "https://montreal.ca/en/how-to/view-copy-your-tax-account",
+    "tags": [
+      "property tax",
+      "account",
+      "billing",
+      "montreal"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "British Columbia — Speculation and Vacancy Tax",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "Annual speculation and vacancy tax for residential property owners in designated BC taxable areas: declare online, check taxable areas with an interactive map, exemptions and tax credits.",
+    "url": "https://www2.gov.bc.ca/gov/content/taxes/speculation-vacancy-tax",
+    "tags": [
+      "speculation",
+      "vacancy",
+      "declaration",
+      "british columbia"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Toronto — Vacant Home Tax declaration",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "Declare your Toronto residential property's annual occupancy status for the Vacant Home Tax, review exemptions, dispute bills, and pay the 3% tax online.",
+    "url": "https://www.toronto.ca/services-payments/property-taxes-utilities/vacant-home-tax/",
+    "tags": [
+      "vacant home",
+      "declaration",
+      "property tax",
+      "toronto"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Ottawa — Property Tax Estimator",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "City of Ottawa online estimator that projects total annual property taxes from assessment value based on selected area and municipal services.",
+    "url": "https://propertytaxes-taxesfoncieres.ottawa.ca/en?t=taxestimator",
+    "tags": [
+      "property tax",
+      "calculator",
+      "ottawa",
+      "estimator"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "SCIC — Crop Insurance Prices and Programs",
+    "level": "Crown Corp",
+    "jurisdiction": "Saskatchewan",
+    "category": "agriculture",
+    "type": "Crop insurance rates & data",
+    "description": "Saskatchewan Crop Insurance Corporation: current base/low crop prices per tonne, premium rates and coverage options (multi-peril, forage, weather-based, vegetable, bee), premium calculators, pricing resources and annual statistics.",
+    "url": "https://www.scic.ca/crop-insurance/prices",
+    "tags": [
+      "saskatchewan",
+      "crop insurance",
+      "premiums",
+      "rates",
+      "prices",
+      "calculator",
+      "statistics"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Agricorp — Ontario Production Insurance",
+    "level": "Crown Corp",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Production insurance programs",
+    "description": "Ontario's delivery agent for Production Insurance: 100+ commodities with per-crop plan overviews, 2026 premium rates and deadlines, online yield reporting, and county-level insured-acreage/yield statistics and maps (PDF).",
+    "url": "https://www.agricorp.com/en-ca/Programs/ProductionInsurance/Pages/Default.aspx",
+    "tags": [
+      "ontario",
+      "production insurance",
+      "crop insurance",
+      "yield",
+      "premiums",
+      "maps",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "AFSC — Alberta Crop Insurance",
+    "level": "Crown Corp",
+    "jurisdiction": "Alberta",
+    "category": "agriculture",
+    "type": "Crop insurance programs",
+    "description": "Agriculture Financial Services Corporation: Alberta crop insurance for annual/perennial crops, apiary, straight hail and wildlife damage; current pricing, 2026 insuring agreements and terms, plus 'Yield Alberta' indemnity and claims statistics.",
+    "url": "https://afsc.ca/crop-insurance/",
+    "tags": [
+      "alberta",
+      "crop insurance",
+      "hail",
+      "apiary",
+      "claims",
+      "pricing",
+      "pdf"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Alberta Agriculture Statistics Publications",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "agriculture",
+    "type": "Statistics hub",
+    "description": "Official Alberta agri-food statistics: Agriculture Statistics Yearbook (150+ tables on crops, livestock, farm income, agri-food exports), fact sheets, crop production estimates, weekly crop market review and livestock inventory statistics with downloads.",
+    "url": "https://www.alberta.ca/agriculture-statistics-publications",
+    "tags": [
+      "alberta",
+      "statistics",
+      "yearbook",
+      "crops",
+      "livestock",
+      "farm income",
+      "exports",
+      "pdf",
+      "xlsx"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "AAFC — Livestock Traceability",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Traceability reference",
+    "description": "Federal hub on Canada's livestock and poultry traceability system: mandatory animal identification, premises identification and movement reporting for cattle, bison, pigs and sheep, plus CFIA regulatory links and funding info.",
+    "url": "https://agriculture.canada.ca/en/sector/animal-industry/livestock-traceability",
+    "tags": [
+      "federal",
+      "livestock",
+      "traceability",
+      "animal identification",
+      "premises",
+      "movement reporting"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Library and Archives Canada — Second World War Personnel Records (Service Files — War Dead)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Records database",
+    "description": "WWII counterpart to the WWI database: search the open service files of the 44,090 Canadians who died in service 1939–1947 — attestation, service, medical, medals and death records, with genealogy packages digitized via Ancestry (free account). Survivors' files via ATIP.",
+    "url": "https://www.canada.ca/en/library-archives/collection/research-help/military-history/second-world-war/personnel-records-second-world-war.html",
+    "tags": [
+      "military history",
+      "wwii",
+      "genealogy",
+      "service records",
+      "archives",
+      "war dead"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Library and Archives Canada — Military Medals, Honours and Awards (1812–1969)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Reference database",
+    "description": "Search medal registers, honours and citation cards for awards from the War of 1812, Fenian Raids, North West 1885 and WWI/WWII conduct medals — useful as proof of service where no service file exists.",
+    "url": "https://www.canada.ca/en/library-archives/collection/research-help/military-history/military-medals-honours-awards.html",
+    "tags": [
+      "medals",
+      "honours",
+      "military history",
+      "genealogy",
+      "archives",
+      "search"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "City of Hamilton — Lobbyist Registry",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Publicly search who is lobbying Hamilton's Council, committees and staff and on what subjects — registrations and activity under the Lobbyist Registry By-law, with enforcement by the Integrity Commissioner.",
+    "url": "https://www.hamilton.ca/city-council/accountability-transparency/lobbyist-registry",
+    "tags": [
+      "hamilton",
+      "lobbyists",
+      "registry",
+      "search",
+      "transparency"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Region of Waterloo — Lobbyist Registry",
+    "level": "Municipal",
+    "jurisdiction": "Waterloo",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Launched January 1, 2025 under By-law #24-043: search consultant, in-house and voluntary lobbying of Region public office holders by subject and date through the public registry portal.",
+    "url": "https://www.regionofwaterloo.ca/government-and-council/transparency-and-accountability/lobbyist-registry",
+    "tags": [
+      "waterloo region",
+      "lobbyists",
+      "registry",
+      "search",
+      "transparency"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "City of Pickering — Lobbyist Registry",
+    "level": "Municipal",
+    "jurisdiction": "Pickering",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Established 2023 (By-law 8003/23): public search of registered lobbying activity with Council and city staff, including consultant, in-house and voluntary lobbyist profiles and subject matters.",
+    "url": "https://www.pickering.ca/council-city-administration/accountability-and-transparency/lobbyist-registry",
+    "tags": [
+      "pickering",
+      "lobbyists",
+      "registry",
+      "search",
+      "transparency"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Northwest Territories — Apprenticeship, Trade and Occupation Certification (ATOC)",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "education",
+    "type": "Trades certification",
+    "description": "Territorial apprenticeship and trade certification program covering 43 designated trades and 17 occupations, with apprentice registration through regional ECE Service Centres and an online ATOC portal.",
+    "url": "https://www.ece.gov.nt.ca/en/services/apprenticeship-trade-and-occupation-certification",
+    "tags": [
+      "trades",
+      "apprenticeship",
+      "certification",
+      "red seal",
+      "north"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Yukon Student Financial Assistance",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "education",
+    "type": "Student aid",
+    "description": "Territorial financial support for Yukon students — Yukon Grant, Student Training Allowance, bursaries and Canada Student Financial Assistance loans/grants — all applied for through one online portal.",
+    "url": "https://yukon.ca/en/education-and-schools/financial-support-for-students",
+    "tags": [
+      "student aid",
+      "student loans",
+      "grants",
+      "scholarships",
+      "territorial"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": false
+  },
+  {
+    "name": "Nunavut — Financial Assistance for Nunavut Students (FANS)",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "education",
+    "type": "Student aid",
+    "description": "Territorial funding program for eligible Nunavut post-secondary students covering tuition, travel and living costs, administered by the Department of Education. Confirm eligibility before applying.",
+    "url": "https://www.gov.nu.ca/en/education-and-schools/financial-assistance-nunavut-students-fans",
+    "tags": [
+      "student aid",
+      "funding",
+      "post-secondary",
+      "territorial"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": false
+  },
+  {
+    "name": "Saskatchewan Apprenticeship & Trade Certification Commission — Trade Certification Verification",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "education",
+    "type": "Credential lookup",
+    "description": "Online registry to verify whether someone is a registered Saskatchewan apprentice or holds a journeyperson/Red Seal certificate, searchable by name and certification number.",
+    "url": "https://saskapprenticeship.ca/check-credentials/",
+    "tags": [
+      "trades",
+      "apprenticeship",
+      "credential verification",
+      "registry",
+      "red seal"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "IRCC — Find Free Newcomer Services Near You",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Service finder",
+    "description": "Official settlement service search: enter a postal code or city to find free federally funded newcomer services, filterable by language, online/in-person format, and service type (employment help, language training, settlement plans).",
+    "url": "https://ircc.canada.ca/english/newcomers/services/index.asp",
+    "tags": [
+      "settlement",
+      "newcomer services",
+      "service finder",
+      "ircc",
+      "language training"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "BC PNP — Invitations to Apply",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "immigration",
+    "type": "Draw results",
+    "description": "BC Provincial Nominee Program draw results by round with minimum scores and invitations issued (Skills and Entrepreneur Immigration), plus the live Skills Immigration registration pool by score band.",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+    "tags": [
+      "pnp",
+      "bc pnp",
+      "draw results",
+      "provincial nominee",
+      "invitations"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "IRCC — Asylum Claimants Monthly Open Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Open data",
+    "description": "Monthly IRCC open data on asylum claimants by claim office type, province/territory of claim, age, gender and top countries of citizenship — updated monthly in CSV/XLSX tables.",
+    "url": "https://open.canada.ca/data/en/dataset/b6cbcf4d-f763-4924-a2fb-8cc4a06e3de4",
+    "tags": [
+      "asylum",
+      "refugee",
+      "open data",
+      "ircc",
+      "temporary residents",
+      "statistics"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "IRCC — TFWP & IMP Work Permit Holders Monthly Open Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Open data",
+    "description": "Monthly IRCC open data on Temporary Foreign Worker Program and International Mobility Program work permit holders by province/territory, occupation, gender, and country of citizenship — updated monthly.",
+    "url": "https://open.canada.ca/data/en/dataset/360024f2-17e9-4558-bfc1-3616485d65b9",
+    "tags": [
+      "work permit",
+      "temporary residents",
+      "tfwp",
+      "imp",
+      "open data",
+      "ircc"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "OINP — Invitations to Apply",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "immigration",
+    "type": "Draw results",
+    "description": "Official record of Ontario Immigrant Nominee Program expression-of-interest invitations to apply, by stream, issue date, profile creation window and score cut-off, back to 2021.",
+    "url": "https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp-invitations-apply",
+    "tags": [
+      "oinp",
+      "pnp",
+      "draw results",
+      "invitations",
+      "ontario"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "BC Fair PharmaCare — Financial Calculator",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "benefits",
+    "type": "Calculator",
+    "description": "Estimate your Fair PharmaCare deductible and family maximum based on income, to gauge provincial help with eligible prescription drug costs.",
+    "url": "https://my.gov.bc.ca/fpcare/financial-calculator",
+    "tags": [
+      "pharmacare",
+      "prescription-drugs",
+      "calculator",
+      "health",
+      "drug-coverage"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "BC Housing — Shelter Aid for Elderly Renters (SAFER)",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "benefits",
+    "type": "Program portal + estimator",
+    "description": "Monthly rent subsidy for low-income BC seniors 60+ renting in the private market, with eligibility info and a rental assistance estimator.",
+    "url": "https://www.bchousing.org/housing-assistance/rental-assistance-programs/SAFER",
+    "tags": [
+      "seniors",
+      "rent",
+      "housing",
+      "subsidy",
+      "safer"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "BC Child Care Fee Reduction (CCFRI) Estimator",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "benefits",
+    "type": "Calculator",
+    "description": "Estimate monthly child care fee savings from the Child Care Fee Reduction Initiative at participating licensed providers, by care type and age.",
+    "url": "https://mychildcareservices.gov.bc.ca/ccfri-estimator",
+    "tags": [
+      "child-care",
+      "childcare",
+      "fee-reduction",
+      "calculator",
+      "families"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Ontario Electricity Support Program (OESP)",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "benefits",
+    "type": "Program portal + application",
+    "description": "Monthly on-bill electricity credit for low-income Ontario households, with eligibility thresholds, credit amounts and online application.",
+    "url": "https://www.oeb.ca/consumer-information-and-protection/bill-assistance-programs/ontario-electricity-support-program",
+    "tags": [
+      "energy",
+      "electricity",
+      "bill-assistance",
+      "low-income",
+      "oeb"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Québec — Childcare Cost Calculator (subsidized vs non-subsidized)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "benefits",
+    "type": "Calculator",
+    "description": "Compare the net daily cost of subsidized vs non-subsidized childcare for 2026, factoring in Quebec and federal childcare tax assistance.",
+    "url": "https://www.finances.gouv.qc.ca/department/tools_services/calculators/daily_childcare_cost/tool_childcare.asp",
+    "tags": [
+      "child-care",
+      "childcare",
+      "calculator",
+      "tax-credit",
+      "families"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Condominium Authority of Ontario — Condo Registry",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Registry lookup",
+    "description": "Free searchable database of Ontario condo corporations: address for service, voting units, board director names, management company, based on CAO filings. Search by legal/operating name, director or municipal address.",
+    "url": "https://www.condoauthorityontario.ca/condo-registry-search/",
+    "tags": [
+      "condo",
+      "strata",
+      "registry",
+      "search",
+      "ontario"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "BC Residential Tenancy Branch — Search Past Decisions",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "consumer",
+    "type": "Decision lookup",
+    "description": "Searchable database of RTB past decisions (direct request, participatory, special application, monetary orders and administrative penalties) to find how the tribunal ruled on similar landlord-tenant issues.",
+    "url": "https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/solving-problems/tenancy-dispute-resolution/past-decisions",
+    "tags": [
+      "landlord",
+      "tenant",
+      "tribunal",
+      "decisions",
+      "british columbia"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "SGI — Vehicle Registration and Insurance Rate Calculator",
+    "level": "Crown Corp",
+    "jurisdiction": "Saskatchewan",
+    "category": "consumer",
+    "type": "Rate calculator",
+    "description": "Estimate vehicle registration and insurance costs by body type, make/model, year, class, use and safety rating. Includes monthly payment and short-term registration options. Rates updated June 2026.",
+    "url": "https://sgi.sk.ca/ratecalc",
+    "tags": [
+      "auto insurance",
+      "vehicle",
+      "calculator",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Service Alberta — Search for a Licensed Business",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "consumer",
+    "type": "Licence lookup",
+    "description": "Search active Alberta consumer-program licences and registrations: collection agencies, payday lenders, high-cost credit, home inspectors, direct sellers, prepaid contractors, and more. Downloads available in Excel.",
+    "url": "https://www.servicealberta.gov.ab.ca/consumer/business_search/",
+    "tags": [
+      "licence search",
+      "business",
+      "trade",
+      "alberta",
+      "check a licence"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Ontario Data Catalogue — LTB Order Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Order lookup",
+    "description": "Public catalogue of final Landlord and Tenant Board orders (Jan 2026 onward, phased back to 2021) from Tribunals Ontario. Monthly CSV downloads available to search specific LTB decisions.",
+    "url": "https://data.ontario.ca/dataset/ltb-order-catalogue",
+    "tags": [
+      "landlord",
+      "tenant",
+      "tribunal",
+      "orders",
+      "ontario",
+      "open data"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Alberta Health — Interactive Health Data Application (IHDA)",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "health-region",
+    "type": "Health indicator database",
+    "description": "Alberta Health's IHDA lets users filter health-status indicators (demographics, mortality, chronic and infectious disease) into exportable data tables, dashboards and interactive maps.",
+    "url": "https://www.alberta.ca/interactive-health-data",
+    "tags": [
+      "health-data",
+      "indicators",
+      "interactive-map",
+      "alberta",
+      "disease-surveillance"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Saskatchewan Health — Public Health Monitoring and Surveillance",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "health-region",
+    "type": "Health reports index",
+    "description": "Home of the Saskatchewan Health Status Report, population health assessment and surveillance reports (chronic disease, immunization, communicable disease) and the annual covered-population report.",
+    "url": "https://www.saskatchewan.ca/government/government-structure/ministries/health/other-reports/public-health-monitoring-and-surveillance",
+    "tags": [
+      "health-status",
+      "surveillance",
+      "indicators",
+      "saskatchewan",
+      "reports"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
+  },
+  {
+    "name": "Nova Scotia Health — Emergency Department Wait Times",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health-region",
+    "type": "Wait-time portal",
+    "description": "Hourly predicted emergency-department wait times for select Nova Scotia hospitals, with emergency-care finder and triage guidance based on the Canadian Triage and Acuity Scale.",
+    "url": "https://www.nshealth.ca/emergency-care/emergency-department-wait-times",
+    "tags": [
+      "wait-times",
+      "emergency-department",
+      "triage",
+      "nova-scotia",
+      "hospital"
+    ],
+    "dateAdded": "2026-08-27",
+    "verified": true
   }
 ]

@@ -30,6 +30,11 @@ const EXISTING = [
     category: 'planning-zoning', type: 'Registry', description: 'A registry.',
     url: 'https://m.example/', tags: ['planning'],
   },
+  {
+    name: 'Kind Existing', level: 'Federal', jurisdiction: 'Canada',
+    category: 'open-data', type: 'Portal', description: 'Has a kind facet.',
+    url: 'https://ke.example/', tags: ['open-data'], kind: 'open-data',
+  },
 ];
 
 const STAGED = [
@@ -42,6 +47,11 @@ const STAGED = [
     name: 'Dated Newcomer', level: 'Federal', jurisdiction: 'Canada',
     category: 'budget', type: 'Tool', description: 'New with date.',
     url: 'https://d.example/', tags: ['new'], dateAdded: '2026-08-25',
+  },
+  {
+    name: 'Staged Kinded', level: 'Provincial', jurisdiction: 'Ontario',
+    category: 'transit', type: 'Tool', description: 'New with kind.',
+    url: 'https://s.example/', tags: ['new'], kind: 'app',
   },
   {
     // duplicate of EXISTING[0] modulo case + trailing slash — must be skipped
@@ -59,7 +69,7 @@ test('mergeEntries and mergeStaged produce byte-identical output on shared fixtu
   assert.equal(viaMigrate.added, viaWorker.added);
   assert.equal(viaMigrate.skipped, viaWorker.skipped);
 
-  assert.equal(viaMigrate.added, 2);
+  assert.equal(viaMigrate.added, 3);
   assert.equal(viaMigrate.skipped, 1);
 });
 
@@ -87,4 +97,15 @@ test('orderedEntry (migrate) preserves dateAdded only when present', () => {
 
   assert.equal(withDate.dateAdded, '2026-08-24');
   assert.equal('dateAdded' in noDate, false);
+});
+
+test('orderedEntry and mergeStaged preserve kind when present on existing and staged entries', () => {
+  const kinded = orderedEntry({ ...clone(EXISTING[3]) });
+  assert.equal(kinded.kind, 'open-data');
+
+  const out = mergeStaged(clone(EXISTING), clone(STAGED));
+  const byUrl = new Map(out.ordered.map((e) => [normUrl(e.url), e]));
+  assert.equal(byUrl.get(normUrl('https://ke.example/')).kind, 'open-data');
+  assert.equal(byUrl.get(normUrl('https://s.example/')).kind, 'app');
+  assert.equal('kind' in byUrl.get(normUrl('https://b.example/')), false);
 });

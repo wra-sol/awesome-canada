@@ -26,6 +26,7 @@ function orderedEntry(e) {
     tags: e.tags,
   };
   if (e.dateAdded) out.dateAdded = e.dateAdded;
+  if (e.kind) out.kind = e.kind;
   return out;
 }
 
