@@ -2649,6 +2649,24 @@
     "kind": "documents"
   },
   {
+    "name": "Gander — Project Portal Dashboard",
+    "level": "Municipal",
+    "jurisdiction": "Gander",
+    "category": "budget",
+    "type": "Dashboard",
+    "description": "Interactive dashboard tracking the status, timelines, and budgets of Town of Gander projects across fleet, infrastructure and strategic development, updated monthly.",
+    "url": "https://www.gandercanada.com/citizen-engagement/gander-project-portal/",
+    "tags": [
+      "projects",
+      "budget",
+      "transparency",
+      "dashboard",
+      "infrastructure"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "tool"
+  },
+  {
     "name": "Gatineau — Liste de contrats",
     "level": "Municipal",
     "jurisdiction": "Gatineau",
@@ -13123,6 +13141,24 @@
     "kind": "tool"
   },
   {
+    "name": "Guelph — Report a Problem Map",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "gov-services",
+    "type": "Service request map",
+    "description": "Submit 311-style service requests (potholes, garbage, bylaw issues) on an interactive map with photos and get updates on the City's response.",
+    "url": "https://experience.arcgis.com/experience/aa79df9526ab4c99914adc950eca9141",
+    "tags": [
+      "311",
+      "report a problem",
+      "service request",
+      "map",
+      "garbage"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "website"
+  },
+  {
     "name": "Montréal — 311 Service Requests Dataset",
     "level": "Municipal",
     "jurisdiction": "Montreal",
@@ -20287,6 +20323,24 @@
     "kind": "data"
   },
   {
+    "name": "Longueuil — GéoHub Données ouvertes",
+    "level": "Municipal",
+    "jurisdiction": "Longueuil",
+    "category": "open-data",
+    "type": "Portail de données",
+    "description": "Open data portal with 12 categories of datasets (environment, transport, infrastructure) downloadable in CSV, GeoJSON, SHP with API access.",
+    "url": "https://geohub.longueuil.quebec/pages/donnees-ouvertes",
+    "tags": [
+      "donnees ouvertes",
+      "open data",
+      "api",
+      "geomatique",
+      "transport"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "data"
+  },
+  {
     "name": "Longueuil Open Data Portal (ArcGIS Hub)",
     "level": "Municipal",
     "jurisdiction": "Longueuil",
@@ -20529,6 +20583,25 @@
     "kind": "data"
   },
   {
+    "name": "Newmarket — Navigate Newmarket Interactive Map",
+    "level": "Municipal",
+    "jurisdiction": "Newmarket",
+    "category": "open-data",
+    "type": "Interactive map",
+    "description": "Explore Newmarket's public map for addresses, facilities, wards, waste collection days, trails, zoning and active developments, with layer toggles.",
+    "url": "https://maps.newmarket.ca/NavigateNewmarket/",
+    "tags": [
+      "gis",
+      "interactive map",
+      "zoning",
+      "waste collection",
+      "wards",
+      "trails"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
     "name": "Newmarket Open Data",
     "level": "Municipal",
     "jurisdiction": "Newmarket",
@@ -20589,6 +20662,24 @@
       "gis"
     ],
     "kind": "data"
+  },
+  {
+    "name": "North Bay — Municipal Dashboard",
+    "level": "Municipal",
+    "jurisdiction": "North Bay",
+    "category": "open-data",
+    "type": "Dashboard",
+    "description": "Public KPIs and community statistics tracking city services, growth, infrastructure and finances, with targets and progress indicators for municipal transparency.",
+    "url": "https://northbay.ca/city-government/municipal-dashboard/",
+    "tags": [
+      "kpi",
+      "community statistics",
+      "open data",
+      "transparency",
+      "performance"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "tool"
   },
   {
     "name": "Oakville Explore Open Data",
@@ -22606,6 +22697,24 @@
     "kind": "website"
   },
   {
+    "name": "Abbotsford — WebMap",
+    "level": "Municipal",
+    "jurisdiction": "Abbotsford",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "View properties with zoning, land use, lot area, air photos and utility layers; measure and draw graphics, print or export to PDF, and get property reports.",
+    "url": "https://www.abbotsford.ca/city-services/mapping-data-analytics/webmap",
+    "tags": [
+      "property",
+      "zoning",
+      "land-use",
+      "utilities",
+      "gis"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
     "name": "Abbotsford Development Data — Development Application Tracker",
     "level": "Municipal",
     "jurisdiction": "Abbotsford",
@@ -22644,6 +22753,25 @@
     "kind": "website"
   },
   {
+    "name": "Belleville — B-Connect Public GIS Map",
+    "level": "Municipal",
+    "jurisdiction": "Belleville",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Single interactive city map uniting zoning, land-use, transit, flood mapping, wards, parks, community gardens and yard-waste zones in one layer-based viewer.",
+    "url": "https://getinvolved.belleville.ca/b-connect-public",
+    "tags": [
+      "gis",
+      "zoning",
+      "flood",
+      "wards",
+      "transit",
+      "mapping"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
     "name": "Belleville Parcels Open Data",
     "level": "Municipal",
     "jurisdiction": "Belleville",
@@ -22658,6 +22786,25 @@
       "open data"
     ],
     "kind": "data"
+  },
+  {
+    "name": "Brandon — COBRA Reference Atlas",
+    "level": "Municipal",
+    "jurisdiction": "Brandon",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Brandon's GIS reference atlas for exploring zoning, back lanes, greenspaces, property boundaries, and layers of spatial city data interactively.",
+    "url": "https://opengov.brandon.ca/reference-atlas.php",
+    "tags": [
+      "interactive map",
+      "zoning",
+      "gis",
+      "spatial data",
+      "property boundaries",
+      "greenspaces"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
   },
   {
     "name": "Calgary — Development Map (DMap)",
@@ -22726,6 +22873,24 @@
     "kind": "map"
   },
   {
+    "name": "Clarington — Public Map Gallery",
+    "level": "Municipal",
+    "jurisdiction": "Clarington",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Search properties by address, roll or PIN number; view assessment and zoning by-law information, aerial photos, with measuring, drawing and print tools.",
+    "url": "https://public-map-gallery-clarington.hub.arcgis.com/",
+    "tags": [
+      "property search",
+      "zoning",
+      "assessment",
+      "gis",
+      "interactive map"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
     "name": "Clarington Municipal Planning Data Reports",
     "level": "Municipal",
     "jurisdiction": "Clarington",
@@ -22758,6 +22923,43 @@
       "arcgis"
     ],
     "kind": "data"
+  },
+  {
+    "name": "Corner Brook — Construction Map",
+    "level": "Municipal",
+    "jurisdiction": "Corner Brook",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Interactive ArcGIS map of active construction and development projects across the City of Corner Brook, showing locations and project details.",
+    "url": "https://www.cornerbrook.com/construction-map/",
+    "tags": [
+      "construction",
+      "development",
+      "gis",
+      "interactive-map",
+      "planning"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
+    "name": "Cornwall — Maps & Interactive Map Gallery",
+    "level": "Municipal",
+    "jurisdiction": "Cornwall",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Central hub of interactive and printable maps covering zoning, transit routes, parks, trails, heritage sites, child-care centres, traffic counts and the Official Plan.",
+    "url": "https://www.cornwall.ca/en/build-invest/maps/",
+    "tags": [
+      "gis",
+      "zoning",
+      "transit",
+      "parks",
+      "official plan",
+      "mapping"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
   },
   {
     "name": "Cornwall Official Plan Land Use Open Data",
@@ -22841,6 +23043,24 @@
       "zoning",
       "arcgis"
     ],
+    "kind": "map"
+  },
+  {
+    "name": "Fredericton — Zoning & Land Use Interactive Map",
+    "level": "Municipal",
+    "jurisdiction": "Fredericton",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Look up the zoning of any Fredericton property by address: click or search an address to see which zone applies and get a detailed zone description.",
+    "url": "https://www.fredericton.ca/business-development/planning-development/zoning-land-use",
+    "tags": [
+      "zoning",
+      "land-use",
+      "gis",
+      "interactive-map",
+      "planning"
+    ],
+    "dateAdded": "2026-08-28",
     "kind": "map"
   },
   {
@@ -22952,6 +23172,25 @@
     "kind": "data"
   },
   {
+    "name": "Kamloops — Property Information Portal",
+    "level": "Municipal",
+    "jurisdiction": "Kamloops",
+    "category": "planning-zoning",
+    "type": "Lookup tool",
+    "description": "Look up civic address, planning and zoning, property tax levies/assessments, active permits and business licences, utility charges, and water/garbage/transit details for any Kamloops property.",
+    "url": "https://www.kamloops.ca/city-services/maps-apps/property-information-portal",
+    "tags": [
+      "property",
+      "zoning",
+      "taxes",
+      "permits",
+      "gis",
+      "assessment"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "tool"
+  },
+  {
     "name": "Kamloops Planning & Zoning Map",
     "level": "Municipal",
     "jurisdiction": "Kamloops",
@@ -23001,6 +23240,62 @@
       "geojson",
       "shapefile"
     ],
+    "kind": "data"
+  },
+  {
+    "name": "Kitchener — OnPoint Interactive Mapping",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "One-stop GIS viewer: look up zoning, active building permits, traffic closures, city-owned water/storm/sewer infrastructure, trails, bikeways and parks with aerial imagery.",
+    "url": "https://maps.kitchener.ca/OnPointExternal/RMap/Default.aspx",
+    "tags": [
+      "gis",
+      "interactive map",
+      "zoning",
+      "building permits",
+      "trails",
+      "aerial imagery"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
+    "name": "Laval — Info-règlements (Grilles de zonage)",
+    "level": "Municipal",
+    "jurisdiction": "Laval",
+    "category": "planning-zoning",
+    "type": "Outil de consultation",
+    "description": "Look up zoning type, permitted uses, and exception grids for any address or cadastral lot in Laval's urban planning code.",
+    "url": "https://info-reglements.laval.ca/consultation/grilles/",
+    "tags": [
+      "zonage",
+      "urbanisme",
+      "reglement",
+      "adresse",
+      "lot cadastral"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "website"
+  },
+  {
+    "name": "Lethbridge — Interactive WebMAPs",
+    "level": "Municipal",
+    "jurisdiction": "Lethbridge",
+    "category": "planning-zoning",
+    "type": "Portal",
+    "description": "Seven interactive maps: property info with tax roll numbers, city amenities, fire & EMS calls, truck routes, social services, youth services, and census data.",
+    "url": "https://www.lethbridge.ca/planning-development/maps/interactive-webmaps/",
+    "tags": [
+      "interactive map",
+      "property assessment",
+      "fire calls",
+      "census data",
+      "social services",
+      "truck routes"
+    ],
+    "dateAdded": "2026-08-28",
     "kind": "data"
   },
   {
@@ -23055,6 +23350,42 @@
       "arcgis",
       "interactive map"
     ],
+    "kind": "map"
+  },
+  {
+    "name": "Markham — MappiT Development Application Viewer",
+    "level": "Municipal",
+    "jurisdiction": "Markham",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Look up development applications and tree removal permits by address, status, ward or application type, with detail, map and results tally views.",
+    "url": "https://markham.maps.arcgis.com/apps/dashboards/891da101b4a348859874886aeef70d79",
+    "tags": [
+      "development applications",
+      "planning",
+      "tree permits",
+      "gis",
+      "dashboard"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
+    "name": "Medicine Hat — Maps & GIS",
+    "level": "Municipal",
+    "jurisdiction": "Medicine Hat",
+    "category": "planning-zoning",
+    "type": "Portal",
+    "description": "Hub for City iMap (parks, trails, garbage zones, schools), crime map, capital projects, construction closures, and story maps of historic and public art sites.",
+    "url": "https://www.medicinehat.ca/business-development/maps-gis/",
+    "tags": [
+      "interactive map",
+      "parks",
+      "trails",
+      "crime map",
+      "capital projects"
+    ],
+    "dateAdded": "2026-08-28",
     "kind": "map"
   },
   {
@@ -23121,6 +23452,25 @@
       "quebec"
     ],
     "kind": "data"
+  },
+  {
+    "name": "Nanaimo — NanaimoMap",
+    "level": "Municipal",
+    "jurisdiction": "Nanaimo",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Search NanaimoMap for addressing, property information, active permits, current zoning, utilities, bike lanes, trails and historical aerial imagery across the city.",
+    "url": "https://www.nanaimo.ca/your-government/maps-data/nanaimomap",
+    "tags": [
+      "property",
+      "zoning",
+      "permits",
+      "trails",
+      "utilities",
+      "gis"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
   },
   {
     "name": "New Glasgow Ward Map",
@@ -23208,6 +23558,25 @@
     "kind": "map"
   },
   {
+    "name": "Peterborough — e-Maps 3.0 Interactive Map",
+    "level": "Municipal",
+    "jurisdiction": "Peterborough",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Public web map with zoning, transit, trails, traffic, waste collection and recreation layers, plus aerial photography from 1956 to the present.",
+    "url": "https://experience.arcgis.com/experience/18114d04929c43f1a302a35bc80be849",
+    "tags": [
+      "gis",
+      "zoning",
+      "transit",
+      "air photos",
+      "trails",
+      "mapping"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
     "name": "Prince Albert Zoning Map",
     "level": "Municipal",
     "jurisdiction": "Prince Albert",
@@ -23225,6 +23594,24 @@
     "kind": "map"
   },
   {
+    "name": "Prince George — PGMap",
+    "level": "Municipal",
+    "jurisdiction": "Prince George",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "PGMap lets you view zoning, land use, cadastre, Agricultural Land Reserve, community forests and 120+ layers, searching by address, PID, intersection or landmark.",
+    "url": "https://www.princegeorge.ca/city-hall/maps-access-information",
+    "tags": [
+      "property",
+      "zoning",
+      "cadastre",
+      "land-use",
+      "gis"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
     "name": "Quebec City Building Permits Open Data",
     "level": "Municipal",
     "jurisdiction": "Quebec City",
@@ -23238,6 +23625,24 @@
       "open data"
     ],
     "kind": "data"
+  },
+  {
+    "name": "Red Deer — Interactive City Map (Web Map)",
+    "level": "Municipal",
+    "jurisdiction": "Red Deer",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "View property assessed values, zoning districts, waste collection zones, parking, neighbourhoods, and orthophotography across Red Deer.",
+    "url": "https://www.reddeer.ca/online-tools/interactive-city-map-web-map/",
+    "tags": [
+      "interactive map",
+      "zoning",
+      "property assessment",
+      "waste collection",
+      "parking"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
   },
   {
     "name": "Red Deer Open Data — Building Permits",
@@ -23296,6 +23701,60 @@
       "API"
     ],
     "kind": "data"
+  },
+  {
+    "name": "Repentigny — Plan de zonage interactif",
+    "level": "Municipal",
+    "jurisdiction": "Repentigny",
+    "category": "planning-zoning",
+    "type": "Carte interactive",
+    "description": "Interactive zoning map of Repentigny: search by address or zone number to view applicable regulations and usage grids.",
+    "url": "https://repentigny.maps.arcgis.com/apps/instant/sidebar/index.html?appid=e387d026f0524052bf4ebc6ff87733b2",
+    "tags": [
+      "zonage",
+      "carte interactive",
+      "urbanisme",
+      "reglement"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "website"
+  },
+  {
+    "name": "Richmond Hill — Active Development Application Map",
+    "level": "Municipal",
+    "jurisdiction": "Richmond Hill",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "View and search active development applications (OPA, zoning by-law, subdivision, condominium, site plan) by municipal address or application type.",
+    "url": "https://experience.arcgis.com/experience/495f8d24507c42a2bcb182ad2710490e",
+    "tags": [
+      "development applications",
+      "planning",
+      "zoning",
+      "subdivision",
+      "interactive map"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
+    "name": "Saanich — SaanichMap",
+    "level": "Municipal",
+    "jurisdiction": "Saanich",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Explore 100+ interactive map layers including property information, zoning, trails, heritage sites, underground services, tax levies and aerial photography dating back to 1997.",
+    "url": "https://www.saanich.ca/EN/main/community/about-saanich/saanichmap.html",
+    "tags": [
+      "property",
+      "zoning",
+      "trails",
+      "heritage",
+      "utilities",
+      "gis"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
   },
   {
     "name": "Saanich Zoning GIS Data",
@@ -23383,6 +23842,25 @@
       "housing units"
     ],
     "kind": "tool"
+  },
+  {
+    "name": "Sherbrooke — Cartes interactives (hub)",
+    "level": "Municipal",
+    "jurisdiction": "Sherbrooke",
+    "category": "planning-zoning",
+    "type": "Portail cartographique",
+    "description": "Central hub for 10+ interactive maps: zoning, cadastre, sports fields, bike paths, power outages, public safety, and river water quality.",
+    "url": "https://www.sherbrooke.ca/fr/services-a-la-population/cartes-interactives",
+    "tags": [
+      "carte interactive",
+      "zonage",
+      "cadastre",
+      "velo",
+      "securite publique",
+      "gis"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
   },
   {
     "name": "St. Albert Open Data — Weekly Development Permit Decisions",
@@ -23479,6 +23957,23 @@
     "kind": "map"
   },
   {
+    "name": "Stratford — Interactive Zoning Map",
+    "level": "Municipal",
+    "jurisdiction": "Stratford",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Search any address on the colour-coded zoning map to see the applicable Town of Stratford zone: residential, commercial, mixed use, industrial, open space.",
+    "url": "https://shape.townofstratford.ca/interactive-zoning-map/",
+    "tags": [
+      "zoning",
+      "interactive map",
+      "gis",
+      "planning"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
     "name": "Surrey — Issued Building Permits",
     "level": "Municipal",
     "jurisdiction": "Surrey",
@@ -23495,6 +23990,25 @@
       "Shapefile"
     ],
     "kind": "data"
+  },
+  {
+    "name": "Thunder Bay — Property Information & Development Map",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Parcel lookup combining assessment, legal description, dwelling-unit count, zoning, Official Plan designation and garbage day cycle, plus a building-activity layer from 2014.",
+    "url": "https://experience.arcgis.com/experience/ec7df78a1a7642f397655c84c4741e98",
+    "tags": [
+      "zoning",
+      "official plan",
+      "parcels",
+      "assessment",
+      "garbage",
+      "mapping"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
   },
   {
     "name": "Toronto Application Information Centre",
@@ -23561,6 +24075,24 @@
       "geojson"
     ],
     "kind": "map"
+  },
+  {
+    "name": "Trois-Rivières — Carte interactive municipale",
+    "level": "Municipal",
+    "jurisdiction": "Trois-Rivières",
+    "category": "planning-zoning",
+    "type": "Carte interactive",
+    "description": "Interactive map of municipal buildings, sports facilities, parks, community spaces, cycling network, and live traffic disruptions.",
+    "url": "https://www.v3r.net/carte-interactive/",
+    "tags": [
+      "carte interactive",
+      "parcs",
+      "sports",
+      "velo",
+      "trafic"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "website"
   },
   {
     "name": "Trois-Rivières Zonage — Données Québec",
@@ -23630,6 +24162,24 @@
     "kind": "data"
   },
   {
+    "name": "Vaughan — PLANit Viewer (Development Applications)",
+    "level": "Municipal",
+    "jurisdiction": "Vaughan",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Search and view proposed developments across Vaughan by address, filter by status, and inspect planning application details, zoning and land-use layers.",
+    "url": "https://experience.arcgis.com/experience/53492fb12cb84f17bb8385353cc4df56",
+    "tags": [
+      "development applications",
+      "planning",
+      "zoning",
+      "gis",
+      "interactive map"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
+  },
+  {
     "name": "Victoria Building Permits Open Data",
     "level": "Municipal",
     "jurisdiction": "Victoria",
@@ -23644,6 +24194,24 @@
       "open data"
     ],
     "kind": "data"
+  },
+  {
+    "name": "Waterloo — Interactive Zoning Map",
+    "level": "Municipal",
+    "jurisdiction": "Waterloo",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Enter an address to find the zoning category and zone name of any Waterloo property, plus ward, closures and aerial imagery layers.",
+    "url": "https://maps.waterloo.ca/html5viewer/?viewer=waterlooviewer&layerTheme=Zoning&runWorkflow=ZoningSearch",
+    "tags": [
+      "zoning",
+      "interactive map",
+      "gis",
+      "ward boundaries",
+      "aerial imagery"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "map"
   },
   {
     "name": "Weyburn Building Permit Reports",
@@ -24530,6 +25098,24 @@
       "ottawa"
     ],
     "kind": "data"
+  },
+  {
+    "name": "Prince Albert — CSWB Data & Crime Dashboard",
+    "level": "Municipal",
+    "jurisdiction": "Prince Albert",
+    "category": "safety",
+    "type": "Dashboard",
+    "description": "Interactive GIS crime dashboard updated weekly with police call data, plus encampment mapping and needle reporting for community safety and well-being.",
+    "url": "https://www.citypa.ca/living-in-our-community/cswb/data-cswb/",
+    "tags": [
+      "crime data",
+      "dashboard",
+      "community safety",
+      "gis",
+      "public safety"
+    ],
+    "dateAdded": "2026-08-28",
+    "kind": "tool"
   },
   {
     "name": "Saskatoon — Police Crime Map",
@@ -26691,6 +27277,23 @@
       "calgary",
       "calculator"
     ],
+    "kind": "tool"
+  },
+  {
+    "name": "Cambridge — Property Tax & Assessment Lookup",
+    "level": "Municipal",
+    "jurisdiction": "Cambridge",
+    "category": "taxes",
+    "type": "Lookup tool",
+    "description": "Look up a property's five-year tax and assessment history, current installment amounts, request a tax certificate or check account status online.",
+    "url": "https://online.cambridge.ca/taxservice/TaxInfo.aspx",
+    "tags": [
+      "property tax",
+      "assessment",
+      "tax certificate",
+      "lookup"
+    ],
+    "dateAdded": "2026-08-28",
     "kind": "tool"
   },
   {
