@@ -493,24 +493,6 @@
     "kind": "website"
   },
   {
-    "name": "Department of Land and Environment — PEI Soils",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "agriculture",
-    "type": "Open dataset",
-    "description": "Province-wide soils polygon GIS from the Resource Inventory & Modelling Section. Query or download via the ArcGIS Feature Service.",
-    "url": "https://data.princeedwardisland.ca/datasets/576af49a64a94665a89a655b8990a137/explore",
-    "tags": [
-      "soils",
-      "agriculture",
-      "gis",
-      "geodatabase",
-      "api"
-    ],
-    "dateAdded": "2026-08-26",
-    "kind": "data"
-  },
-  {
     "name": "IRAC — Lands Protection Act Applications Databank",
     "level": "Provincial",
     "jurisdiction": "PEI",
@@ -1643,47 +1625,6 @@
       "assistance"
     ],
     "kind": "website"
-  },
-  {
-    "name": "Department of Education and Early Years — Child Care Subsidy Monthly Caseload (OD0057)",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "benefits",
-    "type": "Dataset",
-    "description": "Monthly number of families receiving child care subsidies in PEI since 2010, by fiscal year and month. Gauge affordability-program uptake. CSV/Excel download and ArcGIS REST API.",
-    "url": "https://data.princeedwardisland.ca/datasets/8dc414ba9a7d45718a643f9fd1748bf4/explore",
-    "tags": [
-      "pei",
-      "child care",
-      "subsidy",
-      "early years",
-      "caseload",
-      "monthly data",
-      "csv",
-      "api"
-    ],
-    "dateAdded": "2026-08-25",
-    "kind": "data"
-  },
-  {
-    "name": "Department of Social Development and Seniors — AccessAbility Supports Monthly Caseload (OD0056)",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "benefits",
-    "type": "Dataset",
-    "description": "Monthly caseload counts for PEI's AccessAbility Supports disability benefit program, fiscal year 2010-11 to present. Monitor disability-benefit uptake over time. CSV/Excel and API.",
-    "url": "https://data.princeedwardisland.ca/datasets/675d2761b44946a9951992177035ef1e/explore",
-    "tags": [
-      "pei",
-      "disability supports",
-      "accessability",
-      "caseload",
-      "monthly data",
-      "csv",
-      "api"
-    ],
-    "dateAdded": "2026-08-25",
-    "kind": "data"
   },
   {
     "name": "Québec — Childcare Cost Calculator (subsidized vs non-subsidized)",
@@ -8677,23 +8618,6 @@
     "kind": "tool"
   },
   {
-    "name": "Department of Education and Early Years — Official School Enrolment from 1999 (OD0009)",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "education",
-    "type": "Open dataset",
-    "description": "Official school-by-school enrolment counts since 1999 under the Open Government Licence – PEI; download CSV/Excel or query the feature service API.",
-    "url": "https://data.princeedwardisland.ca/datasets/e787cce54aaa46249a7f2e922dbad1b6/explore",
-    "tags": [
-      "schools",
-      "enrolment",
-      "statistics",
-      "open-data"
-    ],
-    "dateAdded": "2026-08-24",
-    "kind": "data"
-  },
-  {
     "name": "Aide financière aux études (Quebec)",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -8775,22 +8699,6 @@
     ],
     "dateAdded": "2026-08-27",
     "kind": "tool"
-  },
-  {
-    "name": "Saskatchewan Student Loans",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "education",
-    "type": "Student aid",
-    "description": "Apply for Saskatchewan student loans and grants, and manage repayment online",
-    "url": "https://www.saskatchewan.ca/residents/education-and-learning/student-loans",
-    "tags": [
-      "student loans",
-      "grants",
-      "education funding"
-    ],
-    "dateAdded": "2026-08-25",
-    "kind": "website"
   },
   {
     "name": "Yukon Student Financial Assistance",
@@ -11727,23 +11635,6 @@
     "kind": "data"
   },
   {
-    "name": "Department of Environment, Energy and Climate Action — Water Well Records (OD0040)",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "environment",
-    "type": "Open dataset",
-    "description": "Records for wells drilled on PEI — location, construction details and groundwater level — downloadable as CSV/GeoJSON or queryable via ArcGIS API.",
-    "url": "https://data.princeedwardisland.ca/datasets/48e7e4de6ab84efaa610bd26d89eac55/explore",
-    "tags": [
-      "groundwater",
-      "wells",
-      "water",
-      "open-data"
-    ],
-    "dateAdded": "2026-08-24",
-    "kind": "data"
-  },
-  {
     "name": "Department of Land and Environment — PEI Air Monitoring",
     "level": "Provincial",
     "jurisdiction": "PEI",
@@ -13779,22 +13670,6 @@
     "kind": "tool"
   },
   {
-    "name": "BC Health Gateway",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "health",
-    "type": "Health portal",
-    "description": "Secure access to your BC health records — lab results, medications, immunizations, and hospital visits",
-    "url": "https://www.healthgateway.gov.bc.ca/",
-    "tags": [
-      "health records",
-      "lab results",
-      "immunizations"
-    ],
-    "dateAdded": "2026-08-25",
-    "kind": "website"
-  },
-  {
     "name": "British Columbia — Surgery Wait Times",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -14122,28 +13997,6 @@
     ],
     "dateAdded": "2026-08-24",
     "kind": "tool"
-  },
-  {
-    "name": "Health PEI — Facility Locations (OD0050)",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "health",
-    "type": "Dataset",
-    "description": "Download every Health PEI facility — acute-care hospitals, health centres, etc. — with name, type, street address and lat/long coordinates. CSV/GeoJSON export plus ArcGIS REST API.",
-    "url": "https://data.princeedwardisland.ca/datasets/0f90d991469e40ed8fcba35ee0ec62da/explore",
-    "tags": [
-      "pei",
-      "health pei",
-      "hospitals",
-      "health centres",
-      "facilities",
-      "geocoded",
-      "csv",
-      "geojson",
-      "api"
-    ],
-    "dateAdded": "2026-08-25",
-    "kind": "data"
   },
   {
     "name": "Info-Santé 811 (Québec)",
@@ -16145,26 +15998,6 @@
     "kind": "website"
   },
   {
-    "name": "Department of Social Development and Seniors — Family Housing Program Activity (OD0059)",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "housing",
-    "type": "Dataset",
-    "description": "Social-housing activity by fiscal year: number of family housing units and new rent supplements issued. CSV/Excel download and ArcGIS REST API for housing-supply analysis.",
-    "url": "https://data.princeedwardisland.ca/datasets/8c5cfc39e54c485db8f89a0d49c573b8/explore",
-    "tags": [
-      "pei",
-      "social housing",
-      "rent supplements",
-      "family housing",
-      "housing supply",
-      "csv",
-      "api"
-    ],
-    "dateAdded": "2026-08-25",
-    "kind": "data"
-  },
-  {
     "name": "PEI Property Tax Calculator",
     "level": "Provincial",
     "jurisdiction": "PEI",
@@ -17844,26 +17677,6 @@
     "kind": "website"
   },
   {
-    "name": "Department of Justice and Public Safety — Victim Services Referrals (OD0018)",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "justice",
-    "type": "Dataset",
-    "description": "Annual count of new referrals to the PEI Victim Services Program by fiscal year from 2011/12 onward. Track demand for justice support services. CSV/Excel download and ArcGIS REST API.",
-    "url": "https://data.princeedwardisland.ca/datasets/265f2d1210b348b2971c18b5fd4a2372/explore",
-    "tags": [
-      "pei",
-      "victim services",
-      "justice",
-      "public safety",
-      "annual series",
-      "csv",
-      "api"
-    ],
-    "dateAdded": "2026-08-25",
-    "kind": "data"
-  },
-  {
     "name": "Commission des services juridiques (Quebec)",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -19349,24 +19162,6 @@
       "open data",
       "Ontario"
     ],
-    "kind": "data"
-  },
-  {
-    "name": "Department of Justice and Public Safety — Civic Address Points",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "open-data",
-    "type": "Open dataset",
-    "description": "Nightly-updated GIS points for every PEI civic address. Download from the open-data portal or query the ArcGIS Feature Service API.",
-    "url": "https://data.princeedwardisland.ca/datasets/3db2ec93bbe44d98a97f04a2cb6f7ce3/explore",
-    "tags": [
-      "civic-address",
-      "gis",
-      "api",
-      "geojson",
-      "public-safety"
-    ],
-    "dateAdded": "2026-08-26",
     "kind": "data"
   },
   {
@@ -26512,24 +26307,6 @@
     ],
     "dateAdded": "2026-08-26",
     "kind": "map"
-  },
-  {
-    "name": "Department of Fisheries, Tourism, Sport and Culture — Oyster Monitoring Program Results (OD0027)",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "science",
-    "type": "Monitoring dataset",
-    "description": "Estuarial sampling results from the provincial oyster larvae monitoring program: site, temperature, larvae counts and concentration ratings; CSV/GeoJSON downloads.",
-    "url": "https://data.princeedwardisland.ca/datasets/968d606d569143c2aa69222d23696279/explore",
-    "tags": [
-      "fisheries",
-      "aquaculture",
-      "oyster",
-      "monitoring",
-      "open-data"
-    ],
-    "dateAdded": "2026-08-24",
-    "kind": "data"
   },
   {
     "name": "MRNF — GESTIM mining titles registry",

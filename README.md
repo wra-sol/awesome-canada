@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1851 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1839 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,13 +19,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 211
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 210
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 72
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 134
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 118
@@ -34,27 +34,27 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 49
 - [💼 Employment & Labour](#employment-and-labour) — 39
-- [🎓 Education & Student Aid](#education-and-student-aid) — 28
+- [🎓 Education & Student Aid](#education-and-student-aid) — 26
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 29
-- [🩺 Health & Wellness](#health-and-wellness) — 63
+- [🩺 Health & Wellness](#health-and-wellness) — 61
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 32
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 38
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 30
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 37
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 42
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 68
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 80
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 79
 - [🌦️ Weather & Climate](#weather-and-climate) — 25
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 36
-- [🔬 Science, Research & Space](#science-research-and-space) — 59
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 35
+- [🔬 Science, Research & Space](#science-research-and-space) — 58
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 52
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 18
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 52
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 51
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 50
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
@@ -289,7 +289,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Department of Natural Resources — Abandoned Mine Openings Database | Nova Scotia · Provincial | Downloadable geodatabase | ~8,500 documented shafts, adits, open cuts and workings across ~700 mining areas, searchable by hazard degree, commodity, county. Downloads: SHP, GDB, KML/KMZ, XLS. | https://novascotia.ca/natr/meb/download/dp010.asp |
 | GeoNova — Nova Scotia Geospatial Data | Nova Scotia · Provincial | Geospatial portal | Nova Scotia's provincial geospatial data clearinghouse: property-related fabric, topographic layers, imagery, and administrative boundaries with WMS/WFS services and downloads. | https://geonova.novascotia.ca/ |
 | Nova Scotia Open Data | Nova Scotia · Provincial | Open data portal | Nova Scotia open data with storytelling feature and datasets | https://data.novascotia.ca/ |
-| Department of Justice and Public Safety — Civic Address Points | PEI · Provincial | Open dataset | Nightly-updated GIS points for every PEI civic address. Download from the open-data portal or query the ArcGIS Feature Service API. | https://data.princeedwardisland.ca/datasets/3db2ec93bbe44d98a97f04a2cb6f7ce3/explore |
 | PEI Open Data | PEI · Provincial | Open data portal | Prince Edward Island government open data | https://www.princeedwardisland.ca/en/service/open-data |
 | Prince Edward Island Open Data Portal | PEI · Provincial | Open data portal | PEI government open data catalogue with datasets on agriculture, environment, health, and transportation | https://data.princeedwardisland.ca/ |
 | Bathurst Open Data Portal (ArcGIS Hub) | Bathurst · Municipal | Open data hub | ArcGIS Hub open data portal for Bathurst with downloadable GIS datasets (CSV, GeoJSON, Shapefile) and REST/OGC API access — bilingual municipal GIS layers incl. Daly Point trails, Nepisiguit trail, pothole reports, and surplus property maps, 155 datasets. Verified live via the OGC items API returning HTTP 200. | https://bathurst.opendata.arcgis.com/ |
@@ -1217,7 +1216,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ministry of Education — Regulated Child Care Finder | Saskatchewan · Provincial | Lookup tool | Search 1,380 regulated child-care centres and homes on an interactive map; filter by infants, extended/24-hour hours, francophone and teen-parent programs. | https://www.saskatchewan.ca/residents/family-and-social-support/child-care/find-a-child-care-provider-in-my-community |
 | Saskatchewan Apprenticeship & Trade Certification Commission — Trade Certification Verification | Saskatchewan · Provincial | Credential lookup | Online registry to verify whether someone is a registered Saskatchewan apprentice or holds a journeyperson/Red Seal certificate, searchable by name and certification number. | https://saskapprenticeship.ca/check-credentials/ |
-| Saskatchewan Student Loans | Saskatchewan · Provincial | Student aid | Apply for Saskatchewan student loans and grants, and manage repayment online | https://www.saskatchewan.ca/residents/education-and-learning/student-loans |
 
 ### Manitoba
 
@@ -1253,7 +1251,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ministry of Education and Early Childhood Development — Early Learning and Child Care Directory | Newfoundland and Labrador · Provincial | Search Directory | Map-based database of all regulated child care in NL — centres, family providers and agencies — searchable by community, route or child's age, with recent violation orders. | https://www.childcare.gov.nl.ca/public/ccr/search |
 | Department of Education and Early Childhood Development — Child Care Directory | Nova Scotia · Provincial | Dataset + lookup | Search all ~338 active licensed daycares by county, city or program type; filter licence details, capacity, inspections and age ranges. CSV/GeoJSON/Socrata API downloads. | https://data.novascotia.ca/Education-Early-Childhood/Child-Care-Directory/3j9v-yimg |
 | Nova Scotia Student Assistance | Nova Scotia · Provincial | Student aid | Student loans, grants, and repayment assistance for Nova Scotia post-secondary students | https://novascotia.ca/studentassistance/ |
-| Department of Education and Early Years — Official School Enrolment from 1999 (OD0009) | PEI · Provincial | Open dataset | Official school-by-school enrolment counts since 1999 under the Open Government Licence – PEI; download CSV/Excel or query the feature service API. | https://data.princeedwardisland.ca/datasets/e787cce54aaa46249a7f2e922dbad1b6/explore |
 
 ### Northern Canada (YT, NT, NU)
 
@@ -1463,7 +1460,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| BC Health Gateway | British Columbia · Provincial | Health portal | Secure access to your BC health records — lab results, medications, immunizations, and hospital visits | https://www.healthgateway.gov.bc.ca/ |
 | British Columbia — Surgery Wait Times | British Columbia · Provincial | Wait-time lookup | Compare scheduled-surgery wait times in BC by procedure, hospital and surgeon — see the wait to consult a surgeon and the wait for surgery, updated bi-monthly. | https://swt.hlth.gov.bc.ca/ |
 | HealthLink BC — 8-1-1 | British Columbia · Provincial | Health service | 24/7 non-emergency health advice, dietitian, and pharmacist services by phone and web in BC | https://www.healthlinkbc.ca/ |
 | Vaccinate BC | British Columbia · Provincial | Service | Book BC immunizations, view records, and find vaccine availability | https://www.getvaccinated.gov.bc.ca/ |
@@ -1529,7 +1525,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nova Scotia — Wait Time Information | Nova Scotia · Provincial | Wait-time lookup | Compare wait times for 150+ surgical procedures, MRI/CT scans, cancer care and mental health services across Nova Scotia to find the shortest-wait locations. | https://waittimes.novascotia.ca/ |
 | Nova Scotia 811 | Nova Scotia · Provincial | Health service | Non-emergency health information and advice from registered nurses, by phone or online in Nova Scotia | https://811.novascotia.ca/ |
 | Health PEI — Emergency Department Wait Times | PEI · Provincial | Live dashboard | Live estimated ER wait times for all four PEI hospital emergency departments (QEH, PCH, KCMH, Western), refreshed every five minutes. | https://www.princeedwardisland.ca/en/information/health-pei/emergency-department-wait-times |
-| Health PEI — Facility Locations (OD0050) | PEI · Provincial | Dataset | Download every Health PEI facility — acute-care hospitals, health centres, etc. — with name, type, street address and lat/long coordinates. CSV/GeoJSON export plus ArcGIS REST API. | https://data.princeedwardisland.ca/datasets/0f90d991469e40ed8fcba35ee0ec62da/explore |
 
 ### Northern Canada (YT, NT, NU)
 
@@ -1686,13 +1681,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Québec — Childcare Cost Calculator (subsidized vs non-subsidized) | Quebec · Provincial | Calculator | Compare the net daily cost of subsidized vs non-subsidized childcare for 2026, factoring in Quebec and federal childcare tax assistance. | https://www.finances.gouv.qc.ca/department/tools_services/calculators/daily_childcare_cost/tool_childcare.asp |
 | Québec — Services en ligne, aide financière de dernier recours | Quebec · Provincial | Client portal | Mon dossier portal for Québec social assistance: verify payment amounts and dates, submit documents online, track appointments and deadlines, apply and make repayments. | https://www.quebec.ca/famille-et-soutien-aux-personnes/aide-sociale-et-solidarite-sociale/services-en-ligne |
 
-### Atlantic Canada (NB, NS, PE, NL)
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| Department of Education and Early Years — Child Care Subsidy Monthly Caseload (OD0057) | PEI · Provincial | Dataset | Monthly number of families receiving child care subsidies in PEI since 2010, by fiscal year and month. Gauge affordability-program uptake. CSV/Excel download and ArcGIS REST API. | https://data.princeedwardisland.ca/datasets/8dc414ba9a7d45718a643f9fd1748bf4/explore |
-| Department of Social Development and Seniors — AccessAbility Supports Monthly Caseload (OD0056) | PEI · Provincial | Dataset | Monthly caseload counts for PEI's AccessAbility Supports disability benefit program, fiscal year 2010-11 to present. Monitor disability-benefit uptake over time. CSV/Excel and API. | https://data.princeedwardisland.ca/datasets/675d2761b44946a9951992177035ef1e/explore |
-
 ## 🏠 Housing & Real Estate
 
 ### Federal / National
@@ -1770,7 +1758,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | New Brunswick — Property Assessment Online (PAOL) | New Brunswick · Provincial | Property | Search NB property assessments by address, PAN or PID, with four years of assessment history, recent sale prices and tax levy information on a provincial map. | https://paol-efel.snb.ca/ |
 | Nova Scotia — Public Housing Units (Open Data) | Nova Scotia · Provincial | Open dataset | Searchable open-data dataset of Nova Scotia public housing units: civic address, community, county, municipality, housing authority and unit count for locating provincial public housing. | https://data.novascotia.ca/Community-Services/Public-Housing-Units-Nova-Scotia-Families/nxzm-xxps |
 | PVSC — Nova Scotia Assessment Search | Nova Scotia · Provincial | Property | Find any of Nova Scotia's 650,000+ property assessments by civic address, assessment account number, community or sale date. | https://www.pvsc.ca/find-assessment |
-| Department of Social Development and Seniors — Family Housing Program Activity (OD0059) | PEI · Provincial | Dataset | Social-housing activity by fiscal year: number of family housing units and new rent supplements issued. CSV/Excel download and ArcGIS REST API for housing-supply analysis. | https://data.princeedwardisland.ca/datasets/8c5cfc39e54c485db8f89a0d49c573b8/explore |
 | PEI Property Tax Calculator | PEI · Provincial | Calculator | Estimate annual property taxes for residential and commercial properties on Prince Edward Island | https://www.princeedwardisland.ca/en/service/property-tax |
 
 ## 🛣️ Transportation & Roads
@@ -2269,7 +2256,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Department of Environment and Climate Change — Water Resources Data Portal | Nova Scotia · Provincial | Dashboard | Interactive maps and charts of provincial groundwater levels, river flows, lake/river water quality, and weather used to track water conditions over time. | https://novascotia.ca/water-resources-data-portal/ |
 | Nova Scotia Coastal Hazard Map (NSGI) | Nova Scotia · Provincial | Interactive map | Province of Nova GeoNova viewer for coastal hazard layers including flooding and erosion risk, complementing legacy provincial flood-risk mapping data. | https://nsgi.novascotia.ca/chm |
 | Wildfire Nova Scotia Viewer (DNRR) | Nova Scotia · Provincial | Map viewer | Interactive map of current-year wildfires showing location, size and control status, published by Natural Resources and Renewables Forest Protection. | https://experience.arcgis.com/experience/0ee935539ce5495d86ce607d11a57a30/ |
-| Department of Environment, Energy and Climate Action — Water Well Records (OD0040) | PEI · Provincial | Open dataset | Records for wells drilled on PEI — location, construction details and groundwater level — downloadable as CSV/GeoJSON or queryable via ArcGIS API. | https://data.princeedwardisland.ca/datasets/48e7e4de6ab84efaa610bd26d89eac55/explore |
 | Department of Land and Environment — PEI Air Monitoring | PEI · Provincial | Dashboard | Explore PEI ambient air-quality dashboards (AQHI, CAAQS) and download provincial air-quality reports from the monitoring network. | https://air.princeedwardisland.ca/ |
 | Department of Land and Environment — PEI Water Registry | PEI · Provincial | Registry | Search official Water Act dashboards and maps for groundwater levels, stream flow, water-use permits, well records, watershed report cards and water quality. | https://water.princeedwardisland.ca/ |
 | PEI Climate Hazard & Risk Information System (CHRIS) | PEI · Provincial | Map viewer | Official PEI government/UPEI map portal for coastal erosion, coastal flooding scenarios (2020–2100), inland flooding projections and historical storm events like Fiona and Dorian. | https://chris.peiclimate.ca/ |
@@ -2519,7 +2505,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NSLC — Nova Scotia Liquor Corporation | Nova Scotia · Crown Corp | Retail | Nova Scotia's crown liquor retailer with product search and store inventory | https://www.mynslc.com/ |
 | Department of Agriculture, Aquaculture and Fisheries — GIS Open Data Download | New Brunswick · Provincial | Dataset downloads (SHP/KML) | Daily-updated shapefile/KML downloads: farm locations (ARMS), maple sugary potential, marine aquaculture lease sites for finfish, shellfish and lobster, and rockweed sectors. | https://www2.gnb.ca/content/gnb/en/departments/10/open-data/data_download.html |
 | Department of Fisheries and Aquaculture — Aquaculture Site Licences | Nova Scotia · Provincial | Lookup tool | Sortable table of every issued aquaculture licence/lease by operator, county, size and cultivation type, with downloadable licence and lease PDFs. | https://novascotia.ca/fish/aquaculture/public-information/ |
-| Department of Land and Environment — PEI Soils | PEI · Provincial | Open dataset | Province-wide soils polygon GIS from the Resource Inventory & Modelling Section. Query or download via the ArcGIS Feature Service. | https://data.princeedwardisland.ca/datasets/576af49a64a94665a89a655b8990a137/explore |
 | IRAC — Lands Protection Act Applications Databank | PEI · Provincial | Land holdings registry | Searchable IRAC databank of Lands Protection Act applications since 1993: corporate and non-resident land holding approvals, parcel numbers, purchasers, current owners, and amendment/cancellation records. | https://irac.pe.ca/lands/land/lpa-applications-databank/ |
 
 ## 🔬 Science, Research & Space
@@ -2617,7 +2602,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | New Brunswick Geological Survey — Bedrock Geology Open Data | New Brunswick · Provincial | GIS open data | Download NBGS bedrock-geology polygons, faults and structural data as ArcGIS, WMS and WFS services — the result of nearly 50 years of mapping, with geochronology records. | https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/bedrock-geology.html |
 | Ministry of Industry, Energy and Technology — GeoScience Atlas | Newfoundland and Labrador · Provincial | Interactive Map | Geological Survey map viewer for bedrock geology, mineral occurrences, mining claims, geophysics and geochemistry, with spatial queries plus data and map downloads. | https://geoatlas.gov.nl.ca/ |
 | NovaScan — Nova Scotia Geoscience Maps & Publications | Nova Scotia · Provincial | Research database | Geologically indexed database of all Nova Scotia geoscience documents — maps, publications, open files, university theses and mineral-exploration assessment reports. | https://novascotia.ca/natr/meb/geoscience-online/about-novascan.asp |
-| Department of Fisheries, Tourism, Sport and Culture — Oyster Monitoring Program Results (OD0027) | PEI · Provincial | Monitoring dataset | Estuarial sampling results from the provincial oyster larvae monitoring program: site, temperature, larvae counts and concentration ratings; CSV/GeoJSON downloads. | https://data.princeedwardisland.ca/datasets/968d606d569143c2aa69222d23696279/explore |
 
 ### Northern Canada (YT, NT, NU)
 
@@ -3051,7 +3035,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Courts of Nova Scotia | Nova Scotia · Provincial | Court portal | Nova Scotia's courts — decisions database, virtual court information, and self-help guides | https://www.courts.ns.ca/ |
 | Nova Scotia Courts — Decisions Database | Nova Scotia · Provincial | Court decisions database | Official searchable database of most written decisions of the Nova Scotia Court of Appeal, Supreme, Provincial, Bankruptcy and Small Claims courts released publicly since 2003, updated daily, with recent-additions feed. | https://decisions.courts.ns.ca/nsc/en/nav.do |
 | Nova Scotia Legal Aid | Nova Scotia · Provincial | Legal aid | Free legal help in criminal, family, and social justice matters across Nova Scotia | https://www.nslegalaid.ca/ |
-| Department of Justice and Public Safety — Victim Services Referrals (OD0018) | PEI · Provincial | Dataset | Annual count of new referrals to the PEI Victim Services Program by fiscal year from 2011/12 onward. Track demand for justice support services. CSV/Excel download and ArcGIS REST API. | https://data.princeedwardisland.ca/datasets/265f2d1210b348b2971c18b5fd4a2372/explore |
 
 ### Northern Canada (YT, NT, NU)
 
