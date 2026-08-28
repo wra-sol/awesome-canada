@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1824 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1851 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -29,32 +29,32 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 72
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 134
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 118
-- [🪪 Government Services & ID](#government-services-and-id) — 39
+- [🪪 Government Services & ID](#government-services-and-id) — 44
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 28
-- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 33
+- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 49
 - [💼 Employment & Labour](#employment-and-labour) — 39
 - [🎓 Education & Student Aid](#education-and-student-aid) — 28
-- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 42
+- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 29
 - [🩺 Health & Wellness](#health-and-wellness) — 63
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 32
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 33
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 38
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 42
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 68
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 80
 - [🌦️ Weather & Climate](#weather-and-climate) — 25
-- [⚡ Energy & Utilities](#energy-and-utilities) — 42
+- [⚡ Energy & Utilities](#energy-and-utilities) — 45
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 36
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 52
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 18
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 52
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 46
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 51
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
@@ -793,6 +793,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Code for Canada | Canada · Federal | Civic tech organization | Canadian nonprofit that helps government and communities design and build better digital services through technology and design partnerships | https://codefor.ca/ |
+| eServiceCanada Appointment Booking | Canada · Federal | Appointment booking | Official Service Canada appointment booking tool for in-person services, including passport applications, biometrics collection, and SIN-related visits, with online passport renewal options. | https://eservices.canada.ca/reservation/ |
 | GC Design System | Canada · Federal | Design system | Official production-ready design system for Government of Canada websites and digital products — components, patterns, and guidance | https://design-system.canada.ca/en/ |
 | GC Forms | Canada · Federal | Form builder | Secure, accessible, bilingual form-building platform for Government of Canada services — no coding required | https://articles.alpha.canada.ca/forms-formulaires/ |
 | GC Notify | Canada · Federal | Notification service | Government of Canada notification service for sending emails and text messages to users — built by Canadian Digital Service | https://notification.canada.ca/ |
@@ -817,6 +818,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | B.C. Government DevHub | British Columbia · Provincial | Developer portal | British Columbia government developer hub with technical documentation, code samples, APIs, and community knowledge bases | https://developer.gov.bc.ca/ |
 | BC Services Card | British Columbia · Provincial | Digital ID | BC's combined health card and digital ID used to access online government services securely | https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card |
+| BC Vital Statistics Online Ordering System (eCOS) | British Columbia · Provincial | Document ordering | B.C. Vital Statistics online portal to order birth, marriage, and death certificates or certified registration copies, and register wills notices, with fully electronic applications and rush processing. | https://www2.gov.bc.ca/gov/content/life-events/order-certificates-copies |
 | Connected Services BC | British Columbia · Provincial | Digital service | British Columbia's initiative to build connected, people-centred digital government services and improve cross-government service delivery. | https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/csbc |
 | Service BC — Online Services | British Columbia · Provincial | Service | BC government service finder — IDs, permits, licences, vital stats, health card, payments | https://www2.gov.bc.ca/gov/content/governments/services-for-government |
 
@@ -824,6 +826,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta Find a Registry Agent | Alberta · Provincial | Lookup tool | Searchable directory of Alberta registry agents offering government services: vehicle registration, driver licensing, vital statistics searches, land titles, health care registration, and personal property searches by city. | http://www.servicealberta.gov.ab.ca/find-a-registry-agent.cfm?faction=search |
 | Alberta.ca Account | Alberta · Provincial | Authentication | Single sign-in used to access Alberta government online services like MyAlberta Digital ID | https://account.alberta.ca/ |
 | MyAlberta Digital ID | Alberta · Provincial | Digital ID | Verified digital identity used to access Alberta government services remotely | https://account.alberta.ca/signin |
 | Calgary — Impounded and Lost Pets | Calgary · Municipal | Lookup tool | Photos and descriptions of stray cats and dogs at Calgary Animal Services, updated every 15 minutes, so owners can spot their lost pet online. | https://www.calgary.ca/pets/lost-animals.html |
@@ -841,6 +844,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario — Find Licensed Child Care | Ontario · Provincial | Search tool | Ministry of Education registry: search licensed child care centres and home child care agencies by location, age group, language or name; see licence details, inspection reports and violations. | https://www.earlyyears.edu.gov.on.ca/LCCWWeb/childcare/search.xhtml?lang=en |
+| Ontario Online Certificate Application | Ontario · Provincial | Document ordering | Office of the Registrar General's online application to order Ontario birth, marriage, and death certificates, certified registration copies, and birth search letters, including replacement and sex-designation options. | https://services.ontario.ca/oca-web/main |
 | Ontario.ca Developer Hub | Ontario · Provincial | Developer portal | Ontario government developer hub with APIs, technical documentation, and code samples for building digital services | https://developer.ontario.ca/ |
 | ServiceOntario | Ontario · Provincial | Service portal | Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services | https://www.ontario.ca/page/serviceontario |
 | Brampton budget / Open Book resources | Brampton · Municipal | Transparency / budget | Budget transparency resources and project-oriented views | https://www.brampton.ca/EN/City-Hall/budget/ |
@@ -860,6 +864,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | New Brunswick Geological Survey | New Brunswick · Provincial | Geology maps | Interactive geological maps, mineral deposits, and geoscience data for NB | https://www2.gnb.ca/content/gnb/en/departments/10.html |
 | Post-Secondary Education, Training and Labour (PETL) — Employment Standards Online Complaint Form | New Brunswick · Provincial | Self-service portal | File an Employment Standards Act complaint online without paper: unpaid wages, overtime, vacation pay, termination pay and more, routed directly to PETL investigators. | https://www.gnb.ca/en/topic/jobs-workplaces/labour-market-workforce/employment-standards/employment-standards-complaint.html |
+| Nova Scotia Vital Statistics Online Services | Nova Scotia · Provincial | Document ordering | Apply online to Nova Scotia Vital Statistics for short- or long-form birth certificates, with X gender option and no sex display, credit card payment, and alternative mail/fax/in-person options. | https://www.novascotia.ca/apply-birth-certificate |
 
 ### Northern Canada (YT, NT, NU)
 
@@ -948,6 +953,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Financial Consumer Agency — Consumer Tools | Canada · Federal | Financial tools | Budget planner, credit card selector, bank account comparison, and financial literacy tools | https://www.canada.ca/en/financial-consumer-agency.html |
 | FINTRAC — Money Services Business Registry | Canada · Federal | Registry | Search registration status, services and dates for every registered money services business, or download the full monthly registry as CSV/XLSX for due-diligence screening. | https://fintrac-canafe.canada.ca/msb-esm/reg-eng |
 | FINTRAC — Transaction Report Volume Data | Canada · Federal | Dataset | Download STR, large-cash, EFT and casino-disbursement report counts by FSA postal code and sector as CSV/XLSX (2011–2023). | https://open.canada.ca/data/en/dataset/81cc47ac-e88d-4b7f-9318-8774a2d919e6 |
+| ISED — Trade Data Online | Canada · Federal | Data Tool | Generate customized Canada and U.S. international trade-in-goods reports by product (HS) or industry (NAICS) with over 200 countries, updated monthly with data from Statistics Canada and the U.S. Census Bureau. | https://ised-isde.canada.ca/site/trade-data-online/en |
 | OSFI — Bank Financial Data (FINDAT) | Canada · Federal | Dataset | Download monthly/quarterly bank filings as CSV—balance sheets, BASEL III capital, income—plus Open Government API access. | https://open.canada.ca/data/en/dataset/91ed76b4-a1a2-4f87-9c4c-59cd64f7a9de |
 | OSFI — Who We Regulate (FRFI & Pension Plan Lists) | Canada · Federal | Registry data | CSV lists of every federally regulated financial institution (banks, insurers, trust and loan companies) and federal private pension plans; updated monthly by OSFI. | https://open.canada.ca/data/en/dataset/b27ec3ef-7338-4e76-a6fd-128339a92df5 |
 | Statistics Canada — Personal Inflation Calculator | Canada · Federal | Calculator | Enter your own spending by category to compute your personal inflation rate and chart it against the official CPI, updated monthly with each CPI release. | https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020015-eng.htm |
@@ -969,6 +975,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta Securities Commission — Office of the Whistleblower | Alberta · Agency | Complaint / Reporting Tool | ASC program and confidential online/phone channel for reporting securities law breaches (insider trading, fraud, unregistered trading); explains whistleblower who/what/why plus legal protections and tip submission. | https://www.asc.ca/enforcement/office-of-the-whistleblower |
 | Ministry of Jobs, Economy & Trade — Alberta Economic Dashboard | Alberta · Provincial | Dashboard | Build custom live dashboards of Alberta GDP, jobs, investment, tourism and trade indicators; search datasets, embed charts, plus regional and major-projects tools. | https://economicdashboard.alberta.ca/ |
 
 ### Saskatchewan
@@ -977,10 +984,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Saskatchewan's Dashboard — Economic Indicators | Saskatchewan · Provincial | Data dashboard | Ministry of Finance indicator dashboard tracking GDP, CPI, employment, earnings, trade, crop production and housing starts, with downloadable CSV, XLS, JSON and XML exports. | https://dashboard.saskatchewan.ca/ |
 
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Manitoba — Economic Dashboard | Manitoba · Provincial | Dashboard | Provincial dashboard of timely economic indicators (key indicators, industry, employment/earnings, housing, other) feeding the quarterly fiscal and economic updates, including the Manitoba Economic Activity Index (MEAX). | https://www.gov.mb.ca/finance/economicdashboard/index.html |
+
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| FSRA Ontario — Credit Unions & Deposit Insurance | Ontario · Agency | Lookup Tool | Ontario credit union/caisse populaire deposit insurance coverage details (up to $250k non-registered, unlimited registered via DIRF) plus find-a-credit-union, supervision list, and complaint channel. | https://www.fsrao.ca/consumers/credit-unions-and-deposit-insurance |
 | Ontario Securities Commission — Investor Portal | Ontario · Provincial | Investor tools | Investor education, registration checks, and complaint filing for Ontario securities regulation | https://www.osc.ca/en/investors |
 
 ### Quebec
@@ -1263,6 +1277,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Public Schools — Location Data | British Columbia · Provincial | School locations | Point locations of BC public schools from provincial open data — download for mapping catchments and facility analysis. | https://catalogue.data.gov.bc.ca/dataset/bc-schools |
 | BC School Districts (Spatial) | British Columbia · Provincial | Boundary dataset | Polygon boundaries of BC school districts under the School Act — download shapefile, KML, or access WMS/WFS services. | https://catalogue.data.gov.bc.ca/dataset/school-districts-of-bc |
+| BC Teacher Regulation — Find a Teacher (Online Registry) | British Columbia · Provincial | Teacher certification search | Public online registry to search BC teaching certificate holders and letter-of-permission holders by name, with certificate type, validity status, and any disciplinary action on record. | https://teacherregulation.gov.bc.ca/CertificateServices/FindATeacher.aspx |
 | Vancouver School Board — School Information | Vancouver · Municipal | School directory | Vancouver School District school finder with programs, catchments, and facility information for public schools. | https://www.vsb.bc.ca/schools |
 
 ### Alberta
@@ -1271,6 +1286,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alberta Education — School Directory and Maps | Alberta · Provincial | School directory | Alberta school authority listings, school locations, and jurisdictional boundary information for public schools. | https://education.alberta.ca/ |
 | Alberta PAT Results by School and Authority | Alberta · Provincial | Results database | Alberta Education grade 6 and 9 achievement test reporting: searchable 5-year results and participation rates per school and school authority, plus provincial multiyear tables and graphs. | https://www.alberta.ca/provincial-achievement-tests |
+| Alberta Teacher & Teacher Leader Registry | Alberta · Provincial | Teacher certification search | Public registry to verify the professional standing of Alberta-certificated teachers, principals and superintendents since 1954, including certificate type, issue date, current status and disciplinary history. | https://educationregistry.alberta.ca/teacher-search |
 | Calgary Board of Education — Find a School | Calgary · Municipal | School boundary lookup | Interactive address-based map to find your designated Calgary Board of Education school. Displays walk zones, program locations, attendance areas, and trustee ward boundaries. | https://cbe.ab.ca/schools/find-a-school/Pages/default.aspx |
 | Calgary Board of Education — School Directory | Calgary · Municipal | School directory | Search Calgary Board of Education schools by program, grade, and community with contact and boundary information. | https://www.cbe.ab.ca/schools/Pages/default.aspx |
 | Edmonton Catholic School District — School Finder | Edmonton · Municipal | Boundary map | Interactive school finder map for Edmonton Catholic Schools. Enter an address to find the designated Catholic school by grade level and program type. Includes ward boundaries and trustee information. | https://schoolmap.ecsd.net/ |
@@ -1279,6 +1295,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| SPTRB — Educator Registry (Saskatchewan Teacher Lookup) | Saskatchewan · Agency | Teacher registration lookup | Public registry of everyone certified to teach in Saskatchewan or who held a temporary teaching permit, listing certificate type, status, registration and discipline history. | https://www.sptrb.ca/SPTRB/SPTRB/Annual_Registration/Educator_Registry.aspx |
 | Ministry of Education — Directory of Saskatchewan School Divisions | Saskatchewan · Provincial | Dataset / directory | Official downloadable directory (PDF) of all 27 school divisions: addresses, phones, websites, board chairs, directors and CFOs; kept current via Publications Centre API. | https://publications.saskatchewan.ca/api/v1/products/48334/formats/118525/download |
 | Regina Catholic Schools — School Finder | Regina · Municipal | Boundary map | Interactive school finder map for Regina Catholic Schools. Click map pins or use the boundary search to find designated Catholic schools by grade level, program, and address location. | https://www.rcsd.ca/school-finder |
 | Regina Public Schools — School Finder | Regina · Municipal | School boundary lookup | Enter a Regina address or housing development name to find designated elementary, high school, and French immersion schools within Regina Public Schools boundaries. Interactive reference for attendance zones. | https://www.reginapublicschools.ca/node/28 |
@@ -1289,6 +1306,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Manitoba Education — K-12 Education Data Dashboard | Manitoba · Provincial | Dashboard | View provincial and divisional dashboards for enrolment, EDI, Grade 3–12 assessments, credit attainment and high school graduation rates. | https://www.edu.gov.mb.ca/k12/grad_rates/index.html |
 | Manitoba K-12 School Enrolment Reports | Manitoba · Provincial | Enrolment statistics | Download annual October 1 headcount enrolment reports (2000–2025) by school, division, grade, and province in PDF and Excel formats, compiled from public, independent, and home schools. | https://www.edu.gov.mb.ca/k12/finance/sch_enrol/index.html |
+| Manitoba School Divisions — Interactive Map | Manitoba · Provincial | School division boundary map | Manitoba Education and Early Childhood Learning's map of school division and district boundaries; search by division, home address or roll number, with direct links to each division website. | https://experience.arcgis.com/experience/76cc45fadad348f9a4a7c225d40a9029 |
 | Hanover School Division — Catchment Maps | Manitoba · Regional | Dataset | Downloadable PDF maps showing school catchment boundaries for the Hanover School Division in southeastern Manitoba. Includes division-wide catchment map and individual maps for Steinbach Early Years (K–4), Grades 5–8, and rural areas. Useful for parents, real estate research, and enrollment planning. | https://hsd.ca/schools/catchment-areas/ |
 | Louis Riel School Division — School Finder | Winnipeg · Municipal | School boundary lookup | Address-based lookup to find designated English and French Immersion elementary and high schools within the Louis Riel School Division catchment area. | https://www.lrsd.net/locate-a-school |
 | Pembina Trails School Division — School Locator | Winnipeg · Municipal | School boundary lookup | Interactive tool to find catchment schools by street name or address within Pembina Trails School Division. Covers English and French Immersion programming with grade-by-grade visual maps. | https://www.pembinatrails.ca/school-locator |
@@ -1312,6 +1330,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Québec — Carte interactive des réseaux d'enseignement | Quebec · Provincial | School territory interactive map | Official interactive map of Quebec's education networks: view centre de services scolaire / commission scolaire territories and the schools, private, collégial and university networks within them. | https://infogeo.education.gouv.qc.ca/public/Carte_Interactive/ |
 | Québec — School Board and Service Centre Territories | Quebec · Provincial | Dataset | Downloadable GeoJSON, Shapefile, KML, and CSV datasets of all Quebec school board and service centre territories, including francophone centres de services scolaires, anglophone commissions scolaires, and special-status commissions. Includes interactive map viewer. | https://www.donneesquebec.ca/recherche/dataset/territoires-des-commissions-scolaires-du-quebec |
 | Quebec School Network Locations | Quebec · Provincial | School locations dataset | Geolocated elementary and secondary schools on the Quebec open data portal — filter by network, level, and region. CSV and API. | https://www.donneesquebec.ca/recherche/fr/dataset/localisation-des-etablissements-d-enseignement-du-reseau-scolaire-au-quebec |
 
@@ -1696,6 +1715,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Housing — Housing Listings | British Columbia · Agency | Housing unit finder | Searchable tool listing 1200+ subsidized, affordable and market rental buildings across BC, filterable by location, housing type and unit size, showing how to apply to each. | https://housingsearch.bchousing.org/ |
 | British Columbia — ParcelMap BC Search (LTSA) | British Columbia · Agency | Parcel map search | Search LTSA's authoritative map of all titled and surveyed Crown parcels in BC by address, PID or map click to view parcel boundaries and legal descriptions. | https://maps.ltsa.ca/ |
 | BC Assessment — Property Search | British Columbia · Provincial | Property | Look up assessed property values, property class, sales data, and ownership information for any property in BC | https://www.bcassessment.ca/ |
 | BC Housing — New Homes Registry Data | British Columbia · Provincial | Data reports register | Monthly New Homes Registry reports on registered new homes by building type, size and location, plus builder/homeowner survey summaries and residential construction statistics for B.C. (PDF archive since 2020). | https://www.bchousing.org/research-centre/housing-data/new-homes-data |
@@ -1706,6 +1726,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta — Find Housing Digital Service | Alberta · Provincial | Housing finder | Anonymous questionnaire matching users to provincially-subsidized affordable housing options across Alberta (community housing, seniors apartments/lodges), with eligibility screening and application guidance. | https://findhousing.alberta.ca/ |
 | Alberta Property Rights — Land Titles | Alberta · Provincial | Land registry | Alberta land titles search — property ownership records, title documents, and land ownership history | https://alta.registries.gov.ab.ca/ |
 | Alberta Residential Tenancy Dispute Resolution Service | Alberta · Provincial | Tribunal | Alberta alternative to court for tenancy disputes — applications, forms, and rules | https://www.alberta.ca/residential-tenancy-dispute-resolution-service |
 
@@ -1713,6 +1734,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Saskatchewan — Local Housing Authorities (SHC) | Saskatchewan · Crown Corp | Social housing lookup | Directory of 230+ local housing authorities managing affordable rental housing in 260+ communities, with a 'Search Communities with Housing' tool for contact info and applying for social housing. | https://www.saskatchewan.ca/government/government-structure/crown-corporations/treasury-board-crowns/saskatchewan-housing-corporation/local-housing-authorities |
 | Saskatchewan — ISC Land Titles Search | Saskatchewan · Agency | Land registry search | Find any Saskatchewan land title by parcel number, title number, land description or owner name, with a free map search tool and historical title lookups. | https://www.saskregistries.ca/landtitles/findtitle |
 | SAMAView — Saskatchewan Assessments Online | Saskatchewan · Provincial | Property | Free search, view and comparison of individual property assessments across all SAMA client municipalities in Saskatchewan. | https://www.sama.sk.ca/property-owner-services/assessments-online-samaview |
 
@@ -1720,6 +1742,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba — Title Check (Teranet Manitoba Land Titles) | Manitoba · Provincial | Land title search | Online public search of Manitoba's Land Titles Registry for titles, instruments and survey plans by number, payable by credit card. Completes western-province land-title coverage. | https://teranetmanitoba.ca/land-titles/check-your-title/ |
 | Manitoba Assessment Online | Manitoba · Provincial | Property | Search property assessment values and details for all Manitoba properties outside Winnipeg. | https://www.gov.mb.ca/mao/public/default.aspx |
 | Manitoba Residential Tenancies Branch | Manitoba · Provincial | Tribunal | Manitoba's branch for residential tenancy disputes, rent regulation, and guidance | https://www.gov.mb.ca/cca/rtb/ |
 
@@ -1745,6 +1768,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | New Brunswick — Property Assessment Online (PAOL) | New Brunswick · Provincial | Property | Search NB property assessments by address, PAN or PID, with four years of assessment history, recent sale prices and tax levy information on a provincial map. | https://paol-efel.snb.ca/ |
+| Nova Scotia — Public Housing Units (Open Data) | Nova Scotia · Provincial | Open dataset | Searchable open-data dataset of Nova Scotia public housing units: civic address, community, county, municipality, housing authority and unit count for locating provincial public housing. | https://data.novascotia.ca/Community-Services/Public-Housing-Units-Nova-Scotia-Families/nxzm-xxps |
 | PVSC — Nova Scotia Assessment Search | Nova Scotia · Provincial | Property | Find any of Nova Scotia's 650,000+ property assessments by civic address, assessment account number, community or sale date. | https://www.pvsc.ca/find-assessment |
 | Department of Social Development and Seniors — Family Housing Program Activity (OD0059) | PEI · Provincial | Dataset | Social-housing activity by fiscal year: number of family housing units and new rent supplements issued. CSV/Excel download and ArcGIS REST API for housing-supply analysis. | https://data.princeedwardisland.ca/datasets/8c5cfc39e54c485db8f89a0d49c573b8/explore |
 | PEI Property Tax Calculator | PEI · Provincial | Calculator | Estimate annual property taxes for residential and commercial properties on Prince Edward Island | https://www.princeedwardisland.ca/en/service/property-tax |
@@ -2351,6 +2375,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Energy Regulator — Dormant Sites Map | British Columbia · Agency | Interactive map | Interactive map of dormant and orphan oil & gas sites in B.C.: filter by operator, closure stage-gate and priority status, search by well authorization number, and view annual work-plan restoration data. | https://www.bc-er.ca/data-reports/data-narratives/dormant-sites-map/ |
 | BC Hydro — Planned Outages and Outage List | British Columbia · Provincial | Outage info | Browse list of current, planned, and recently restored power outages across BC Hydro's service territory | https://www.bchydro.com/power-outages |
 | BC Hydro — Power Outage Map | British Columbia · Provincial | Outage map | Interactive map showing current and recent power outages across BC — view affected areas, estimated restoration times, and outage cause | https://app.bchydro.com/power-outages/app/outage-map.html |
 | BC Hydro — Report an Outage | British Columbia · Provincial | Service | Report a power outage to BC Hydro online or check the outage map for your area | https://www.bchydro.com/outages/orsmapview.jsp |
@@ -2374,6 +2399,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Saskatchewan Rate Review Panel | Saskatchewan · Provincial | Rate review library | Public rate-review hub for SaskPower, SaskEnergy and SGI Auto Fund: in-progress and archived applications, information requests, submissions, public-meeting documents and Panel recommendation reports. | https://saskratereview.ca/ |
 | SaskPower — Outage Map and Updates | Saskatchewan · Provincial | Dashboard | Live map and table of unplanned and planned power outages across Saskatchewan with locations, restoration details and update times; set up outage-area notifications. | https://www.saskpower.com/outages/power-outages/outage-updates |
 | Water Security Agency — Water Wells Map | Saskatchewan · Provincial | Interactive map | Interactive map of ~125,000 water-well drilling records (lithology, depth, completion) submitted by Saskatchewan drillers; locate wells by area. | https://gis.wsask.ca/Html5Viewer/index.html?viewer=WaterWells.WellsViewer/ |
 
@@ -2401,6 +2427,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Hydro-Québec — Estimate a Home's Electricity Costs | Quebec · Crown Corp | Bill estimator | Address-based estimator (building number + postal code) that instantly produces an approximate annual electricity cost for a home, useful when moving or comparing residences in Quebec. | https://www.hydroquebec.com/residential/customer-space/moving/estimate-electricity-costs.html |
 | Hydro-Québec — Report an Outage and Mobile App | Quebec · Provincial | Service | Report a power outage to Hydro-Québec, check real-time status by address, and access the Hydro-Québec mobile app for notifications | https://www.hydroquebec.com/mobile-app.html |
 
 ### Atlantic Canada (NB, NS, PE, NL)
@@ -2942,6 +2969,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canadian Human Rights Tribunal — Decisions Database | Canada · Federal | Tribunal decisions database | Full-text searchable decisions and rulings of the Canadian Human Rights Tribunal since 1979, including pay equity decisions, with RSS feeds and a mailing list for newly posted cases. | https://decisions.chrt-tcdp.gc.ca/chrt-tcdp/en/nav.do |
 | Child Support Table Look-up | Canada · Federal | Lookup tool | Department of Justice tool that calculates the base federal child support amount from the paying parent's gross income, number of children, and province. | https://www.justice.gc.ca/eng/fl-df/child-enfant/cst-orpe.html |
 | Consolidated Canadian Autonomous Sanctions List | Canada · Federal | Sanctions list | Global Affairs Canada's searchable consolidated list of all individuals and entities under Canadian autonomous sanctions, published in HTML, PDF and XML. | https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/consolidated-consolide.aspx?lang=eng |
 | Correctional Service Canada — Research Publications | Canada · Federal | Research library | Browse CSC research reports and summaries by topic — recidivism, mental health, Indigenous corrections, women offenders, substance use, and more. | https://www.csc-scc.gc.ca/research/005008-2000-en.shtml |
@@ -2959,6 +2987,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Civil Resolution Tribunal | British Columbia · Provincial | Online dispute resolution portal | Canada's first online tribunal: resolve small claims under $5,000, strata property, vehicle accident and society/co-op disputes without court, via the Solution Explorer, online claims and searchable decisions. | https://civilresolutionbc.ca/ |
 | BC Laws | British Columbia · Provincial | Statutes database | Official consolidated statutes and regulations of British Columbia, free to search and cite | https://www.bclaws.gov.bc.ca/ |
 | British Columbia — Court Services Online | British Columbia · Provincial | Court records search | E-search BC Provincial and Supreme civil, traffic and criminal court files by party name or file number, view daily court lists, and e-file documents. | https://justice.gov.bc.ca/cso/index.do |
 | Courts of British Columbia — Judgments | British Columbia · Provincial | Court decisions | Judgments and hearing lists from the BC Court of Appeal, Supreme Court, and Provincial Court | https://www.bccourts.ca/ |
@@ -2968,6 +2997,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta — Traffic Tickets Digital Service | Alberta · Provincial | Online ticket and fine portal | Official Alberta portal to look up traffic tickets and fines, pay in full or partially, request time to pay, plead not guilty, request a trial date or seek a review by a prosecutor. | https://traffictickets.alberta.ca/ |
 | Alberta Courts | Alberta · Provincial | Court portal | Court of Appeal, Court of King's Bench, and Alberta Court of Justice — sittings, decisions, and filing information | https://albertacourts.ca/ |
 | Alberta King's Printer — Laws Online | Alberta · Provincial | Statutes database | Official source for Alberta's statutes, regulations, and orders in council | https://kings-printer.alberta.ca/ |
 | Alberta King's Printer — Laws Online Catalogue | Alberta · Provincial | Lookup tool | Search Alberta's official catalogue of acts, regulations and codes by title, chapter number or responsible ministry; most available free as consolidated HTML or PDF. | https://kings-printer.alberta.ca/Laws_Online.cfm |
@@ -2998,6 +3028,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Human Rights Tribunal — Decisions | Ontario · Federal | Decisions | Published decisions from the Human Rights Tribunal of Ontario | https://tribunalsontario.ca/hrto |
 | Ontario Rental Housing Tribunal — Rent Increases | Ontario · Agency | Rent tool | Approved rent increase guidelines and maximum amounts for Ontario | https://www.ontario.ca/page/rent-increase-guideline |
 | Legal Aid Ontario | Ontario · Provincial | Legal aid | Ontario legal aid eligibility checker, duty counsel, and legal information | https://www.legalaid.on.ca/ |
+| Ontario — Provincial Offences Act Online Services | Ontario · Provincial | Ticket case status lookup | Check the case status of traffic tickets and fines, see how much you owe, pay, request an early resolution meeting with a prosecutor, or request a trial online for Provincial Offences Act matters. | https://www.justiceservices.jus.gov.on.ca/POA/ |
 | Ontario Courts Public Portal | Ontario · Provincial | Court portal | Ontario's digital court portal for filing documents, accessing case information, and managing court matters online. | https://www.ontario.ca/page/ontario-courts-public-portal |
 | Ontario e-Laws | Ontario · Provincial | Statutes database | Official consolidated statutes and regulations of Ontario, searchable and current to the day | https://www.ontario.ca/laws |
 | Tribunals Ontario — Online Hearing Portal | Ontario · Provincial | Tribunal portal | File and manage matters across LTB, SBT, HRTO, LAT and other Tribunals Ontario bodies | https://tribunalsontario.ca/ |
@@ -3018,6 +3049,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | New Brunswick Courts — Schedules and Records | New Brunswick · Provincial | Courts portal | Official judiciary site for the Court of Appeal, King's Bench, Probate, Provincial and Small Claims courts: case schedules, rules of court, courthouse locations and records access. | https://www.courtsnb-coursnb.ca/content/cour/en.html |
 | Supreme Court of Newfoundland and Labrador — Judgments Database | Newfoundland and Labrador · Provincial | Lookup tool | Searchable database of Supreme Court and Court of Appeal decisions with keyword, docket number, judge, date-range and subject-tag filters; full judgment texts from 2001 onward. | https://records.court.nl.ca/ |
 | Courts of Nova Scotia | Nova Scotia · Provincial | Court portal | Nova Scotia's courts — decisions database, virtual court information, and self-help guides | https://www.courts.ns.ca/ |
+| Nova Scotia Courts — Decisions Database | Nova Scotia · Provincial | Court decisions database | Official searchable database of most written decisions of the Nova Scotia Court of Appeal, Supreme, Provincial, Bankruptcy and Small Claims courts released publicly since 2003, updated daily, with recent-additions feed. | https://decisions.courts.ns.ca/nsc/en/nav.do |
 | Nova Scotia Legal Aid | Nova Scotia · Provincial | Legal aid | Free legal help in criminal, family, and social justice matters across Nova Scotia | https://www.nslegalaid.ca/ |
 | Department of Justice and Public Safety — Victim Services Referrals (OD0018) | PEI · Provincial | Dataset | Annual count of new referrals to the PEI Victim Services Program by fiscal year from 2011/12 onward. Track demand for justice support services. CSV/Excel download and ArcGIS REST API. | https://data.princeedwardisland.ca/datasets/265f2d1210b348b2971c18b5fd4a2372/explore |
 

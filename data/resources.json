@@ -12238,6 +12238,24 @@
     "kind": "data"
   },
   {
+    "name": "ISED — Trade Data Online",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Data Tool",
+    "description": "Generate customized Canada and U.S. international trade-in-goods reports by product (HS) or industry (NAICS) with over 200 countries, updated monthly with data from Statistics Canada and the U.S. Census Bureau.",
+    "url": "https://ised-isde.canada.ca/site/trade-data-online/en",
+    "tags": [
+      "trade-data",
+      "exports",
+      "imports",
+      "statistics",
+      "market-research"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "OSFI — Bank Financial Data (FINDAT)",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -12336,6 +12354,24 @@
     "kind": "website"
   },
   {
+    "name": "Alberta Securities Commission — Office of the Whistleblower",
+    "level": "Agency",
+    "jurisdiction": "Alberta",
+    "category": "finance",
+    "type": "Complaint / Reporting Tool",
+    "description": "ASC program and confidential online/phone channel for reporting securities law breaches (insider trading, fraud, unregistered trading); explains whistleblower who/what/why plus legal protections and tip submission.",
+    "url": "https://www.asc.ca/enforcement/office-of-the-whistleblower",
+    "tags": [
+      "whistleblower",
+      "securities",
+      "complaint",
+      "reporting",
+      "enforcement"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "British Columbia — BC Unclaimed Money Search",
     "level": "Agency",
     "jurisdiction": "British Columbia",
@@ -12396,6 +12432,24 @@
     "kind": "tool"
   },
   {
+    "name": "FSRA Ontario — Credit Unions & Deposit Insurance",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "finance",
+    "type": "Lookup Tool",
+    "description": "Ontario credit union/caisse populaire deposit insurance coverage details (up to $250k non-registered, unlimited registered via DIRF) plus find-a-credit-union, supervision list, and complaint channel.",
+    "url": "https://www.fsrao.ca/consumers/credit-unions-and-deposit-insurance",
+    "tags": [
+      "deposit-insurance",
+      "credit-union",
+      "lookup",
+      "consumer-protection",
+      "financial-services"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "Ministry of Jobs, Economy & Trade — Alberta Economic Dashboard",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -12427,6 +12481,23 @@
       "securities"
     ],
     "kind": "website"
+  },
+  {
+    "name": "Manitoba — Economic Dashboard",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "finance",
+    "type": "Dashboard",
+    "description": "Provincial dashboard of timely economic indicators (key indicators, industry, employment/earnings, housing, other) feeding the quarterly fiscal and economic updates, including the Manitoba Economic Activity Index (MEAX).",
+    "url": "https://www.gov.mb.ca/finance/economicdashboard/index.html",
+    "tags": [
+      "dashboard",
+      "economic-indicators",
+      "data",
+      "manitoba"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
   },
   {
     "name": "Nova Scotia Municipal Finance and Statistics",
@@ -12539,6 +12610,25 @@
       "design"
     ],
     "kind": "website"
+  },
+  {
+    "name": "eServiceCanada Appointment Booking",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "gov-services",
+    "type": "Appointment booking",
+    "description": "Official Service Canada appointment booking tool for in-person services, including passport applications, biometrics collection, and SIN-related visits, with online passport renewal options.",
+    "url": "https://eservices.canada.ca/reservation/",
+    "tags": [
+      "appointment",
+      "booking",
+      "service canada",
+      "passport",
+      "biometrics",
+      "sin"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
   },
   {
     "name": "GC Design System",
@@ -12790,6 +12880,25 @@
     "kind": "website"
   },
   {
+    "name": "Alberta Find a Registry Agent",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Searchable directory of Alberta registry agents offering government services: vehicle registration, driver licensing, vital statistics searches, land titles, health care registration, and personal property searches by city.",
+    "url": "http://www.servicealberta.gov.ab.ca/find-a-registry-agent.cfm?faction=search",
+    "tags": [
+      "registry agent",
+      "lookup",
+      "directory",
+      "licensing",
+      "vehicle registration",
+      "vital statistics"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "Alberta.ca Account",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -12845,6 +12954,26 @@
       "BC",
       "identity"
     ],
+    "kind": "website"
+  },
+  {
+    "name": "BC Vital Statistics Online Ordering System (eCOS)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "gov-services",
+    "type": "Document ordering",
+    "description": "B.C. Vital Statistics online portal to order birth, marriage, and death certificates or certified registration copies, and register wills notices, with fully electronic applications and rush processing.",
+    "url": "https://www2.gov.bc.ca/gov/content/life-events/order-certificates-copies",
+    "tags": [
+      "vital statistics",
+      "certificate",
+      "birth",
+      "marriage",
+      "death",
+      "wills notice",
+      "online ordering"
+    ],
+    "dateAdded": "2026-08-27",
     "kind": "website"
   },
   {
@@ -12973,6 +13102,24 @@
     "kind": "website"
   },
   {
+    "name": "Nova Scotia Vital Statistics Online Services",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "gov-services",
+    "type": "Document ordering",
+    "description": "Apply online to Nova Scotia Vital Statistics for short- or long-form birth certificates, with X gender option and no sex display, credit card payment, and alternative mail/fax/in-person options.",
+    "url": "https://www.novascotia.ca/apply-birth-certificate",
+    "tags": [
+      "vital statistics",
+      "certificate",
+      "birth",
+      "online application",
+      "identity"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "website"
+  },
+  {
     "name": "Ontario — Find Licensed Child Care",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -12987,6 +13134,26 @@
       "licensing"
     ],
     "kind": "tool"
+  },
+  {
+    "name": "Ontario Online Certificate Application",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "gov-services",
+    "type": "Document ordering",
+    "description": "Office of the Registrar General's online application to order Ontario birth, marriage, and death certificates, certified registration copies, and birth search letters, including replacement and sex-designation options.",
+    "url": "https://services.ontario.ca/oca-web/main",
+    "tags": [
+      "vital statistics",
+      "certificate",
+      "birth",
+      "marriage",
+      "death",
+      "registrar general",
+      "online ordering"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "website"
   },
   {
     "name": "Ontario.ca Developer Hub",
@@ -15651,6 +15818,41 @@
     "kind": "tool"
   },
   {
+    "name": "Saskatchewan — Local Housing Authorities (SHC)",
+    "level": "Crown Corp",
+    "jurisdiction": "Saskatchewan",
+    "category": "housing",
+    "type": "Social housing lookup",
+    "description": "Directory of 230+ local housing authorities managing affordable rental housing in 260+ communities, with a 'Search Communities with Housing' tool for contact info and applying for social housing.",
+    "url": "https://www.saskatchewan.ca/government/government-structure/crown-corporations/treasury-board-crowns/saskatchewan-housing-corporation/local-housing-authorities",
+    "tags": [
+      "affordable-housing",
+      "social-housing",
+      "housing-authority",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
+    "name": "BC Housing — Housing Listings",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "housing",
+    "type": "Housing unit finder",
+    "description": "Searchable tool listing 1200+ subsidized, affordable and market rental buildings across BC, filterable by location, housing type and unit size, showing how to apply to each.",
+    "url": "https://housingsearch.bchousing.org/",
+    "tags": [
+      "affordable-housing",
+      "subsidized-housing",
+      "rental-housing",
+      "housing-finder",
+      "british-columbia"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "British Columbia — ParcelMap BC Search (LTSA)",
     "level": "Agency",
     "jurisdiction": "British Columbia",
@@ -15709,6 +15911,24 @@
       "housing",
       "Toronto"
     ],
+    "kind": "tool"
+  },
+  {
+    "name": "Alberta — Find Housing Digital Service",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "housing",
+    "type": "Housing finder",
+    "description": "Anonymous questionnaire matching users to provincially-subsidized affordable housing options across Alberta (community housing, seniors apartments/lodges), with eligibility screening and application guidance.",
+    "url": "https://findhousing.alberta.ca/",
+    "tags": [
+      "affordable-housing",
+      "social-housing",
+      "seniors-housing",
+      "housing-finder",
+      "alberta"
+    ],
+    "dateAdded": "2026-08-27",
     "kind": "tool"
   },
   {
@@ -15785,6 +16005,24 @@
     "kind": "website"
   },
   {
+    "name": "Manitoba — Title Check (Teranet Manitoba Land Titles)",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "housing",
+    "type": "Land title search",
+    "description": "Online public search of Manitoba's Land Titles Registry for titles, instruments and survey plans by number, payable by credit card. Completes western-province land-title coverage.",
+    "url": "https://teranetmanitoba.ca/land-titles/check-your-title/",
+    "tags": [
+      "land-title",
+      "property-registry",
+      "title-search",
+      "real-estate",
+      "manitoba"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "Manitoba Assessment Online",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -15827,6 +16065,24 @@
       "search"
     ],
     "kind": "tool"
+  },
+  {
+    "name": "Nova Scotia — Public Housing Units (Open Data)",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "housing",
+    "type": "Open dataset",
+    "description": "Searchable open-data dataset of Nova Scotia public housing units: civic address, community, county, municipality, housing authority and unit count for locating provincial public housing.",
+    "url": "https://data.novascotia.ca/Community-Services/Public-Housing-Units-Nova-Scotia-Families/nxzm-xxps",
+    "tags": [
+      "public-housing",
+      "social-housing",
+      "open-data",
+      "housing-units",
+      "nova-scotia"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "data"
   },
   {
     "name": "PVSC — Nova Scotia Assessment Search",
@@ -16893,6 +17149,23 @@
     "kind": "tool"
   },
   {
+    "name": "Canadian Human Rights Tribunal — Decisions Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Tribunal decisions database",
+    "description": "Full-text searchable decisions and rulings of the Canadian Human Rights Tribunal since 1979, including pay equity decisions, with RSS feeds and a mailing list for newly posted cases.",
+    "url": "https://decisions.chrt-tcdp.gc.ca/chrt-tcdp/en/nav.do",
+    "tags": [
+      "human rights",
+      "tribunal decisions",
+      "case law",
+      "canada"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "Child Support Table Look-up",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -17146,6 +17419,24 @@
     "kind": "tool"
   },
   {
+    "name": "Alberta — Traffic Tickets Digital Service",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "justice",
+    "type": "Online ticket and fine portal",
+    "description": "Official Alberta portal to look up traffic tickets and fines, pay in full or partially, request time to pay, plead not guilty, request a trial date or seek a review by a prosecutor.",
+    "url": "https://traffictickets.alberta.ca/",
+    "tags": [
+      "traffic tickets",
+      "fines",
+      "traffic court",
+      "alberta",
+      "payment"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "website"
+  },
+  {
     "name": "Alberta Courts",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -17208,6 +17499,24 @@
       "Alberta",
       "legal aid"
     ],
+    "kind": "website"
+  },
+  {
+    "name": "BC Civil Resolution Tribunal",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "justice",
+    "type": "Online dispute resolution portal",
+    "description": "Canada's first online tribunal: resolve small claims under $5,000, strata property, vehicle accident and society/co-op disputes without court, via the Solution Explorer, online claims and searchable decisions.",
+    "url": "https://civilresolutionbc.ca/",
+    "tags": [
+      "small claims",
+      "tribunal",
+      "dispute resolution",
+      "strata",
+      "british columbia"
+    ],
+    "dateAdded": "2026-08-27",
     "kind": "website"
   },
   {
@@ -17406,6 +17715,23 @@
     "kind": "website"
   },
   {
+    "name": "Nova Scotia Courts — Decisions Database",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "justice",
+    "type": "Court decisions database",
+    "description": "Official searchable database of most written decisions of the Nova Scotia Court of Appeal, Supreme, Provincial, Bankruptcy and Small Claims courts released publicly since 2003, updated daily, with recent-additions feed.",
+    "url": "https://decisions.courts.ns.ca/nsc/en/nav.do",
+    "tags": [
+      "court decisions",
+      "case law",
+      "nova scotia",
+      "lookup"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "Nova Scotia Legal Aid",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -17452,6 +17778,24 @@
       "legal aid"
     ],
     "kind": "website"
+  },
+  {
+    "name": "Ontario — Provincial Offences Act Online Services",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "justice",
+    "type": "Ticket case status lookup",
+    "description": "Check the case status of traffic tickets and fines, see how much you owe, pay, request an early resolution meeting with a prosecutor, or request a trial online for Provincial Offences Act matters.",
+    "url": "https://www.justiceservices.jus.gov.on.ca/POA/",
+    "tags": [
+      "traffic tickets",
+      "fines",
+      "provincial offences",
+      "ontario",
+      "traffic court"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
   },
   {
     "name": "Ontario Courts Public Portal",
@@ -24492,6 +24836,24 @@
     "kind": "data"
   },
   {
+    "name": "SPTRB — Educator Registry (Saskatchewan Teacher Lookup)",
+    "level": "Agency",
+    "jurisdiction": "Saskatchewan",
+    "category": "school-board",
+    "type": "Teacher registration lookup",
+    "description": "Public registry of everyone certified to teach in Saskatchewan or who held a temporary teaching permit, listing certificate type, status, registration and discipline history.",
+    "url": "https://www.sptrb.ca/SPTRB/SPTRB/Annual_Registration/Educator_Registry.aspx",
+    "tags": [
+      "teacher certification",
+      "registry",
+      "lookup",
+      "teaching",
+      "discipline"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "Alberta Education — School Directory and Maps",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -24521,6 +24883,24 @@
       "school-results",
       "accountability"
     ],
+    "kind": "tool"
+  },
+  {
+    "name": "Alberta Teacher & Teacher Leader Registry",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "school-board",
+    "type": "Teacher certification search",
+    "description": "Public registry to verify the professional standing of Alberta-certificated teachers, principals and superintendents since 1954, including certificate type, issue date, current status and disciplinary history.",
+    "url": "https://educationregistry.alberta.ca/teacher-search",
+    "tags": [
+      "teacher certification",
+      "registry",
+      "lookup",
+      "teaching",
+      "discipline"
+    ],
+    "dateAdded": "2026-08-27",
     "kind": "tool"
   },
   {
@@ -24556,6 +24936,24 @@
     "kind": "data"
   },
   {
+    "name": "BC Teacher Regulation — Find a Teacher (Online Registry)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "school-board",
+    "type": "Teacher certification search",
+    "description": "Public online registry to search BC teaching certificate holders and letter-of-permission holders by name, with certificate type, validity status, and any disciplinary action on record.",
+    "url": "https://teacherregulation.gov.bc.ca/CertificateServices/FindATeacher.aspx",
+    "tags": [
+      "teacher certification",
+      "registry",
+      "lookup",
+      "teaching",
+      "discipline"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "Manitoba Education — K-12 Education Data Dashboard",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -24589,6 +24987,24 @@
       "excel"
     ],
     "kind": "website"
+  },
+  {
+    "name": "Manitoba School Divisions — Interactive Map",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "school-board",
+    "type": "School division boundary map",
+    "description": "Manitoba Education and Early Childhood Learning's map of school division and district boundaries; search by division, home address or roll number, with direct links to each division website.",
+    "url": "https://experience.arcgis.com/experience/76cc45fadad348f9a4a7c225d40a9029",
+    "tags": [
+      "school divisions",
+      "boundary map",
+      "school locator",
+      "address lookup",
+      "districts"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "map"
   },
   {
     "name": "New Brunswick Anglophone School District Boundaries",
@@ -24789,6 +25205,24 @@
       "transportation"
     ],
     "kind": "tool"
+  },
+  {
+    "name": "Québec — Carte interactive des réseaux d'enseignement",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "school-board",
+    "type": "School territory interactive map",
+    "description": "Official interactive map of Quebec's education networks: view centre de services scolaire / commission scolaire territories and the schools, private, collégial and university networks within them.",
+    "url": "https://infogeo.education.gouv.qc.ca/public/Carte_Interactive/",
+    "tags": [
+      "school boundaries",
+      "interactive map",
+      "centre de services scolaire",
+      "school locator",
+      "geospatial"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "map"
   },
   {
     "name": "Québec — School Board and Service Centre Territories",
@@ -28815,6 +29249,24 @@
     "kind": "tool"
   },
   {
+    "name": "Hydro-Québec — Estimate a Home's Electricity Costs",
+    "level": "Crown Corp",
+    "jurisdiction": "Quebec",
+    "category": "utilities",
+    "type": "Bill estimator",
+    "description": "Address-based estimator (building number + postal code) that instantly produces an approximate annual electricity cost for a home, useful when moving or comparing residences in Quebec.",
+    "url": "https://www.hydroquebec.com/residential/customer-space/moving/estimate-electricity-costs.html",
+    "tags": [
+      "electricity",
+      "rates",
+      "calculator",
+      "bill-estimator",
+      "hydro-quebec"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "tool"
+  },
+  {
     "name": "AESO — Market and System Reporting",
     "level": "Agency",
     "jurisdiction": "Alberta",
@@ -28829,6 +29281,25 @@
       "alberta"
     ],
     "kind": "data"
+  },
+  {
+    "name": "BC Energy Regulator — Dormant Sites Map",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "utilities",
+    "type": "Interactive map",
+    "description": "Interactive map of dormant and orphan oil & gas sites in B.C.: filter by operator, closure stage-gate and priority status, search by well authorization number, and view annual work-plan restoration data.",
+    "url": "https://www.bc-er.ca/data-reports/data-narratives/dormant-sites-map/",
+    "tags": [
+      "oil",
+      "gas",
+      "wells",
+      "dormant-sites",
+      "map",
+      "energy-regulator"
+    ],
+    "dateAdded": "2026-08-27",
+    "kind": "map"
   },
   {
     "name": "Canada Energy Regulator — Interactive Pipeline Map",
@@ -29120,6 +29591,25 @@
       "utilities",
       "outages"
     ],
+    "kind": "website"
+  },
+  {
+    "name": "Saskatchewan Rate Review Panel",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "utilities",
+    "type": "Rate review library",
+    "description": "Public rate-review hub for SaskPower, SaskEnergy and SGI Auto Fund: in-progress and archived applications, information requests, submissions, public-meeting documents and Panel recommendation reports.",
+    "url": "https://saskratereview.ca/",
+    "tags": [
+      "electricity",
+      "rates",
+      "regulator",
+      "natural-gas",
+      "public-hearings",
+      "reports"
+    ],
+    "dateAdded": "2026-08-27",
     "kind": "website"
   },
   {
