@@ -8820,24 +8820,6 @@
     "kind": "data"
   },
   {
-    "name": "Elections Canada — Poll-by-Poll Results Datasets",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "elections",
-    "type": "Datasets",
-    "description": "Download poll-by-poll tabulation of votes within every electoral district for Canadian federal elections, available as CSV tables for each general election.",
-    "url": "https://open.canada.ca/data/en/dataset?q=poll-by-poll%20results&organization=electionscanada-electionscanada",
-    "tags": [
-      "poll-by-poll",
-      "results",
-      "voting data",
-      "open data",
-      "federal"
-    ],
-    "dateAdded": "2026-08-26",
-    "kind": "data"
-  },
-  {
     "name": "Parlinfo — Canadian Parliamentary Database",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -9398,24 +9380,6 @@
     ],
     "dateAdded": "2026-08-26",
     "kind": "website"
-  },
-  {
-    "name": "Elections Nova Scotia — Electoral Finance Reports",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "elections",
-    "type": "Finance reports",
-    "description": "Disclosure statements of political contributions filed by Nova Scotia registered parties, electoral district associations and candidates — names and communities of donors over $200, in PDF and Excel.",
-    "url": "https://electionsnovascotia.ca/Electoral-Finance-Reports",
-    "tags": [
-      "election financing",
-      "contributions",
-      "financial returns",
-      "nova scotia",
-      "disclosure"
-    ],
-    "dateAdded": "2026-08-26",
-    "kind": "documents"
   },
   {
     "name": "Elections Ontario — Finances Overview",
@@ -14105,23 +14069,6 @@
     ],
     "dateAdded": "2026-08-25",
     "kind": "tool"
-  },
-  {
-    "name": "eHealth Saskatchewan — Open Data & Public Reporting",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "health",
-    "type": "Health data portal",
-    "description": "Self-serve de-identified aggregate health datasets: covered population counts and vital statistics (births, deaths, baby names), filterable by year, sex and regional health authority.",
-    "url": "https://www.ehealthsask.ca/health-data/analytics/Pages/Open-Data-and-Public-Reporting.aspx",
-    "tags": [
-      "health-data",
-      "vital-statistics",
-      "covered-population",
-      "open-data",
-      "public-reporting"
-    ],
-    "kind": "data"
   },
   {
     "name": "eHealth Saskatchewan — Specialist Directory",

@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1872 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1869 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 26
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 29
-- [🩺 Health & Wellness](#health-and-wellness) — 61
+- [🩺 Health & Wellness](#health-and-wellness) — 60
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 30
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 37
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 75
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 73
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 23
 
 ---
@@ -1509,7 +1509,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| eHealth Saskatchewan — Open Data & Public Reporting | Saskatchewan · Provincial | Health data portal | Self-serve de-identified aggregate health datasets: covered population counts and vital statistics (births, deaths, baby names), filterable by year, sex and regional health authority. | https://www.ehealthsask.ca/health-data/analytics/Pages/Open-Data-and-Public-Reporting.aspx |
 | eHealth Saskatchewan — Specialist Directory | Saskatchewan · Provincial | Lookup tool | Look up ~200 Saskatchewan surgeons and 2,600 procedures with weekly-updated surgical wait times so patients can compare specialists and travel for faster surgery. | https://specialists.ehealthsask.ca/ |
 | Saskatchewan — Drug Plan Formulary Search | Saskatchewan · Provincial | Drug coverage search | Search which medications the Saskatchewan Drug Plan covers, with coverage status, exception drug criteria and formulary bulletins. | https://formulary.drugplan.ehealthsask.ca/ |
 | Saskatchewan eHealth | Saskatchewan · Provincial | Health records | Electronic health records, patient portals, and provincial health information services for Saskatchewan residents | https://www.ehealthsask.ca/ |
@@ -3259,7 +3258,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Canada — Political Contributions Search | Canada · Federal | Contributions database | Searchable database of contributions to federal political parties, riding associations, and candidates — donor names, amounts, and dates, as reviewed by Elections Canada. | https://www.elections.ca/wpapps/WPF/EN/CCS/Index?returntype=1 |
 | Elections Canada — Political Entity Registry | Canada · Federal | Registry | Current and historical registry of federal political parties, riding associations, candidates, and third parties registered with Elections Canada. | https://www.elections.ca/WPAPPS/WPR/EN |
 | Elections Canada — Political Financing Open Data | Canada · Federal | Dataset bundle | Bulk CSV downloads of political financing data dating back to 1993: reviewed and as-filed contribution details for all political entities, plus financial returns. | https://www.elections.ca/content.aspx?section=fin&dir=oda&document=index&lang=e |
-| Elections Canada — Poll-by-Poll Results Datasets | Canada · Federal | Datasets | Download poll-by-poll tabulation of votes within every electoral district for Canadian federal elections, available as CSV tables for each general election. | https://open.canada.ca/data/en/dataset?q=poll-by-poll%20results&organization=electionscanada-electionscanada |
 | Parlinfo — Canadian Parliamentary Database | Canada · Federal | Database | Historical and current data on parliamentarians, parties, cabinet, and elections | https://lop.parl.ca/ParlInfo/ |
 | Senate of Canada | Canada · Federal | Legislative | Senate chamber business, committee reports, senators' biographies, and votes | https://sencanada.ca/ |
 | Canada Gazette — Government Consultations | Canada · Agency | Consultations | Browse active government consultations and provide feedback | https://gazette.gc.ca/ |
@@ -3352,7 +3350,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections New Brunswick — Electoral District Maps | New Brunswick · Provincial | Maps & districts | Maps of New Brunswick's provincial electoral districts, with district information for voters and candidates. | https://www.electionsnb.ca/content/enb/en/maps.html |
 | Elections New Brunswick — Public Inspection of Financial Returns | New Brunswick · Provincial | Finance portal | View political-party, district-association and candidate financial returns filed with the Supervisor of Political Financing — contribution lists as PDF and XLSX plus annual filing-status reports. | https://www.electionsnb.ca/content/enb/en/political-financing/status-report-on-financial-returns.html |
 | Elections NL — General Election Finance Reports | Newfoundland and Labrador · Provincial | Finance reports | Candidate and party statements of income and expenses for general elections, including lists of contributors over $100, plus annual and by-election financial reports back to the 1990s. | https://www.elections.gov.nl.ca/resources/gereports/ |
-| Elections Nova Scotia — Electoral Finance Reports | Nova Scotia · Provincial | Finance reports | Disclosure statements of political contributions filed by Nova Scotia registered parties, electoral district associations and candidates — names and communities of donors over $200, in PDF and Excel. | https://electionsnovascotia.ca/Electoral-Finance-Reports |
 | Elections PEI | PEI · Provincial | Election results & voter services | Office administering provincial, municipal and school trustee elections: official district-level results, historical result comparison maps, voter registration portal and voting information. | https://www.electionspei.ca/ |
 | Elections PEI — Election Contributions Search | PEI · Provincial | Lookup tool | Search political-party contribution lists in excess of $250 by party and year, plus download the yearly political-party contributions open-data set. | https://www.electionspei.ca/resources/feature/election-contributions |
 | Halifax — Past Municipal Election Results | Halifax · Municipal | Results archive | Downloadable official results from past Halifax regional council, school board and plebiscite elections in PDF format. | https://www.halifax.ca/city-hall/elections/about-elections/past-election-results |
