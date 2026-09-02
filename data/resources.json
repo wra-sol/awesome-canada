@@ -4126,6 +4126,23 @@
     "kind": "tool"
   },
   {
+    "name": "ISED — Beneficial Ownership Discrepancy Reporting",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Online reporting form",
+    "description": "Report material discrepancies between beneficial-ownership records and federal ISC data for high-risk corporations through My ISED.",
+    "url": "https://ised-isde.canada.ca/site/corporations-canada/en/beneficial-ownership-discrepancy-reporting",
+    "tags": [
+      "ised",
+      "beneficial-ownership",
+      "corporate-registry",
+      "money-laundering",
+      "online-form"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
     "name": "ISED — Canadian Importers Database",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -8737,6 +8754,54 @@
     "kind": "website"
   },
   {
+    "name": "Commissioner of Canada Elections — Administrative Monetary Penalties",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Enforcement register",
+    "description": "Browse published federal election violations, penalty amounts, dates and applicable Canada Elections Act sections in an HTML register.",
+    "url": "https://www.cef-cce.ca/content.asp?section=amp&dir=pub&document=index&lang=e",
+    "tags": [
+      "html",
+      "register",
+      "elections",
+      "penalties"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
+    "name": "Commissioner of Canada Elections — Charges and Outcomes",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Case register",
+    "description": "Search charges laid under the Canada Elections Act and Referendum Act, with accused names, dates and court outcomes in an HTML register.",
+    "url": "https://www.cef-cce.ca/content.asp?section=charg&document=index&lang=e",
+    "tags": [
+      "html",
+      "register",
+      "elections",
+      "legal-cases"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
+    "name": "Commissioner of Canada Elections — Online Complaint Form",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Online form",
+    "description": "Submit a complaint about a possible Canada Elections Act or Referendum Act contravention through the official online form.",
+    "url": "https://www.cef-cce.ca/content.asp?section=comp&dir=faq&document=p14&lang=e",
+    "tags": [
+      "html",
+      "online-form",
+      "complaints",
+      "elections"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
     "name": "Elections Canada — Federal Electoral Districts Boundary Files (2023)",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -8836,6 +8901,23 @@
     ],
     "dateAdded": "2026-08-26",
     "kind": "data"
+  },
+  {
+    "name": "Leaders’ Debates Commission — 2025 Debate Watch",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Debate archive",
+    "description": "Watch or listen to the 2025 federal leaders’ debates with transcripts and accessible language versions, including Indigenous languages, ASL and LSQ.",
+    "url": "https://www.debates-debats.ca/en/debates2025/",
+    "tags": [
+      "html",
+      "video",
+      "transcript",
+      "accessibility",
+      "debates"
+    ],
+    "dateAdded": "2026-09-02"
   },
   {
     "name": "Parlinfo — Canadian Parliamentary Database",
@@ -9398,24 +9480,6 @@
     ],
     "dateAdded": "2026-08-26",
     "kind": "website"
-  },
-  {
-    "name": "Elections Nova Scotia — Electoral Finance Reports",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "elections",
-    "type": "Finance reports",
-    "description": "Disclosure statements of political contributions filed by Nova Scotia registered parties, electoral district associations and candidates — names and communities of donors over $200, in PDF and Excel.",
-    "url": "https://electionsnovascotia.ca/Electoral-Finance-Reports",
-    "tags": [
-      "election financing",
-      "contributions",
-      "financial returns",
-      "nova scotia",
-      "disclosure"
-    ],
-    "dateAdded": "2026-08-26",
-    "kind": "documents"
   },
   {
     "name": "Elections Ontario — Finances Overview",
@@ -10643,6 +10707,25 @@
     "kind": "website"
   },
   {
+    "name": "Canadian Protected and Conserved Areas Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Geospatial database",
+    "description": "National repository of spatial and descriptive data for terrestrial and marine protected areas and other effective area-based conservation measures.",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/protected-conserved-areas-database.html",
+    "tags": [
+      "protected areas",
+      "conserved areas",
+      "oecm",
+      "biodiversity",
+      "gis",
+      "geospatial"
+    ],
+    "dateAdded": "2026-08-30",
+    "kind": "data"
+  },
+  {
     "name": "CHS — Tides, Currents and Water Levels",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -10797,6 +10880,24 @@
     "kind": "api"
   },
   {
+    "name": "Environment and Climate Change Canada — National Wildlife Areas Map",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Interactive map",
+    "description": "Map of Canada's National Wildlife Areas showing approximate locations, boundaries, public access status and recreation opportunities.",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/locations.html",
+    "tags": [
+      "wildlife areas",
+      "habitat",
+      "conservation",
+      "biodiversity",
+      "map"
+    ],
+    "dateAdded": "2026-08-30",
+    "kind": "map"
+  },
+  {
     "name": "Environment Canada — Marine Weather Forecast",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -10823,6 +10924,24 @@
       "water"
     ],
     "kind": "website"
+  },
+  {
+    "name": "Federal Contaminated Sites Inventory — Map Navigator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Interactive map",
+    "description": "Map and search federal contaminated sites by location, organization, contaminants, classification and status; view records in tables or download results.",
+    "url": "https://map-carte.tbs-sct.gc.ca/map-carte/fcsi-rscf/map-carte.aspx?Language=EN",
+    "tags": [
+      "contaminated sites",
+      "map",
+      "federal property",
+      "remediation",
+      "environment"
+    ],
+    "dateAdded": "2026-08-30",
+    "kind": "map"
   },
   {
     "name": "Freshwater Research",
@@ -11285,6 +11404,25 @@
     "kind": "tool"
   },
   {
+    "name": "Manitoba Contaminated Sites Registry Map",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "environment",
+    "type": "Contaminated sites map",
+    "description": "Manitoba government map of registered contaminated sites, providing geographic access to site records and remediation information.",
+    "url": "https://manitoba.maps.arcgis.com/apps/mapviewer/index.html?webmap=a90548cd023649eba0ca2863d7fede13",
+    "tags": [
+      "manitoba",
+      "contaminated sites",
+      "remediation",
+      "environment",
+      "registry",
+      "map"
+    ],
+    "dateAdded": "2026-08-30",
+    "kind": "map"
+  },
+  {
     "name": "Manitoba Environment — Environmental Assessment Public Registry",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -11497,6 +11635,26 @@
       "maps"
     ],
     "dateAdded": "2026-08-25",
+    "kind": "map"
+  },
+  {
+    "name": "Nova Scotia Provincial Landscape Viewer",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "environment",
+    "type": "Interactive map",
+    "description": "Nova Scotia map-based viewer combining forests, wildlife, wetlands, Crown lands and protected areas for land-use planning and natural-resource management.",
+    "url": "https://nsgi.novascotia.ca/plv/",
+    "tags": [
+      "nova scotia",
+      "crown land",
+      "protected areas",
+      "forests",
+      "wetlands",
+      "land-use planning",
+      "map"
+    ],
+    "dateAdded": "2026-08-30",
     "kind": "map"
   },
   {
@@ -12108,6 +12266,23 @@
       "consumer"
     ],
     "kind": "website"
+  },
+  {
+    "name": "FINTRAC — API Report Submission",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Reporting API",
+    "description": "Implement secure system-to-system submissions for financial reports using API documentation and JSON schemas.",
+    "url": "https://fintrac-canafe.canada.ca/reporting-declaration/info/api/api-eng",
+    "tags": [
+      "fintrac",
+      "api",
+      "json",
+      "aml",
+      "reporting"
+    ],
+    "dateAdded": "2026-09-02"
   },
   {
     "name": "FINTRAC — Money Services Business Registry",
@@ -17098,6 +17273,57 @@
     "kind": "website"
   },
   {
+    "name": "Dispute Resolution Reference Guide",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Interactive legal guide",
+    "description": "Compare negotiation, mediation, arbitration, mini-trials, neutral evaluation, and online dispute resolution through linked HTML modules.",
+    "url": "https://www.justice.gc.ca/eng/rp-pr/csj-sjc/dprs-sprd/res/drrg-mrrc/toc-tdm.html",
+    "tags": [
+      "justice canada",
+      "dispute resolution",
+      "mediation",
+      "arbitration",
+      "html"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
+    "name": "Federal Court Decisions Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Court decisions database",
+    "description": "Search Federal Court judgments by date, case name, citation, file number, or full text and read decisions in HTML.",
+    "url": "https://decisions.fct-cf.gc.ca/fc-cf/en/d/s/index.do?col=54",
+    "tags": [
+      "federal court",
+      "decisions",
+      "case law",
+      "search",
+      "html"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
+    "name": "Federal Court Forms",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Online forms",
+    "description": "Find and download Federal Court filing forms, including applications, claims, motions, appeals, and affidavits in PDF and RTF.",
+    "url": "https://www.fct-cf.gc.ca/en/online-access/forms",
+    "tags": [
+      "federal court",
+      "forms",
+      "filing",
+      "pdf",
+      "rtf"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
     "name": "Federal Court of Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -17109,6 +17335,41 @@
       "federal court"
     ],
     "kind": "website"
+  },
+  {
+    "name": "FINTRAC — Administrative Monetary Penalties",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Enforcement notices",
+    "description": "Review public money-laundering compliance penalties, entities, violations, amounts, appeals, and case status in an HTML listing.",
+    "url": "https://fintrac-canafe.canada.ca/pen/4-eng",
+    "tags": [
+      "fintrac",
+      "aml",
+      "terrorist-financing",
+      "penalties",
+      "enforcement",
+      "html"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
+    "name": "INTERPOL — View Red Notices",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Searchable database",
+    "description": "Search public INTERPOL Red Notices for wanted persons by name, nationality, age, gender, issuing country or keyword in HTML.",
+    "url": "https://www.interpol.int/en/How-we-work/Notices/Red-Notices/View-Red-Notices",
+    "tags": [
+      "interpol",
+      "red-notices",
+      "wanted-persons",
+      "search",
+      "html"
+    ],
+    "dateAdded": "2026-09-02"
   },
   {
     "name": "Justice Canada — Laws of Canada",
@@ -17125,6 +17386,41 @@
     "kind": "website"
   },
   {
+    "name": "Office of the Correctional Investigator — Reports",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Report library",
+    "description": "Browse and download the Correctional Investigator’s annual and thematic reports on federal corrections as HTML or PDF.",
+    "url": "https://www.oci-bec.gc.ca/en/reports",
+    "tags": [
+      "corrections",
+      "oversight",
+      "justice",
+      "reports",
+      "html",
+      "pdf"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
+    "name": "PPSC Deskbook",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Prosecution policy manual",
+    "description": "Consult directives and guidelines governing federal prosecutorial discretion in HTML or download the complete manual as PDF.",
+    "url": "https://www.ppsc-sppc.gc.ca/eng/pub/fpsd-sfpg/index.html",
+    "tags": [
+      "prosecution",
+      "policy",
+      "deskbook",
+      "html",
+      "pdf"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
     "name": "Public Prosecution Service of Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -17136,6 +17432,23 @@
       "prosecution"
     ],
     "kind": "website"
+  },
+  {
+    "name": "Social Security Tribunal Decisions",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Tribunal decisions database",
+    "description": "Search published Social Security Tribunal decisions and subscribe to recent additions and decision updates in HTML.",
+    "url": "https://decisions.sst-tss.gc.ca/sst-tss/en/nav.do",
+    "tags": [
+      "administrative justice",
+      "social security tribunal",
+      "decisions",
+      "search",
+      "html"
+    ],
+    "dateAdded": "2026-09-02"
   },
   {
     "name": "Supreme Court of Canada — Judgments",
@@ -18220,6 +18533,24 @@
     "kind": "map"
   },
   {
+    "name": "Government of Canada — Grants and Contributions Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Funding database",
+    "description": "Search federal grants and contributions by recipient, department, program, location, value, date and agreement type across more than one million records.",
+    "url": "https://search.open.canada.ca/grants/",
+    "tags": [
+      "funding",
+      "grants",
+      "contributions",
+      "transparency",
+      "search"
+    ],
+    "dateAdded": "2026-08-30",
+    "kind": "data"
+  },
+  {
     "name": "Government of Canada — Open Government Portal",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -18232,6 +18563,25 @@
       "federal"
     ],
     "kind": "data"
+  },
+  {
+    "name": "Housing, Infrastructure and Communities Canada — Housing and Infrastructure Project Map",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Interactive map",
+    "description": "Browse federally funded housing and infrastructure projects by location, program, category, status and contribution value; download the map data.",
+    "url": "https://housing-infrastructure.canada.ca/gmap-gcarte/index-eng.html",
+    "tags": [
+      "infrastructure",
+      "housing",
+      "funding",
+      "projects",
+      "interactive-map",
+      "download"
+    ],
+    "dateAdded": "2026-08-30",
+    "kind": "map"
   },
   {
     "name": "Infrastructure Canada — Approved Projects Dataset",
@@ -18249,6 +18599,25 @@
       "open-data"
     ],
     "kind": "data"
+  },
+  {
+    "name": "ISED — Federal Corporations Dataset",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Corporate registry dataset",
+    "description": "Download active and inactive federal corporation records, including businesses and nonprofits, as regularly updated CSV files.",
+    "url": "https://open.canada.ca/data/en/dataset/0032ce54-c5dd-4b66-99a0-320a7b5e99f2",
+    "tags": [
+      "ised",
+      "corporations",
+      "registry",
+      "business",
+      "nonprofit",
+      "csv",
+      "open-data"
+    ],
+    "dateAdded": "2026-09-02"
   },
   {
     "name": "ISED API Catalogue",
@@ -18593,6 +18962,24 @@
       "lookup"
     ],
     "kind": "map"
+  },
+  {
+    "name": "Statistics Canada — Police-reported Hate Crime",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Statistics table",
+    "description": "Explore police-reported hate-crime incidents and rates by province, territory, census metropolitan area and military police; download CSV or SDMX.",
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510019101",
+    "tags": [
+      "statistics-canada",
+      "hate-crime",
+      "crime",
+      "csv",
+      "sdmx",
+      "open-data"
+    ],
+    "dateAdded": "2026-09-02"
   },
   {
     "name": "Statistics Canada — The Daily",
@@ -22172,6 +22559,25 @@
     "kind": "tool"
   },
   {
+    "name": "Alberta Interactive Recreation Map",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "parks",
+    "type": "Interactive map",
+    "description": "Government of Alberta map showing Crown land recreation sites, public land areas, trails, Public Land Use Zones and recreation pass boundaries.",
+    "url": "https://esrd.maps.arcgis.com/apps/webappviewer/index.html?id=e5651574de1342d7ae8277ef415864be",
+    "tags": [
+      "alberta",
+      "public land",
+      "recreation",
+      "trails",
+      "crown land",
+      "map"
+    ],
+    "dateAdded": "2026-08-30",
+    "kind": "map"
+  },
+  {
     "name": "Alberta Parks",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -22320,6 +22726,26 @@
     "kind": "tool"
   },
   {
+    "name": "Manitoba Wildlife Lands Map",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "parks",
+    "type": "Interactive map",
+    "description": "Manitoba map of wildlife management areas, refuges, special conservation areas, managed hunting areas, trails, points of interest and hunting restrictions.",
+    "url": "https://geoportal.gov.mb.ca/maps/0d40d443865945e88873bba842a15e92",
+    "tags": [
+      "manitoba",
+      "wildlife",
+      "conservation",
+      "protected areas",
+      "hunting",
+      "trails",
+      "map"
+    ],
+    "dateAdded": "2026-08-30",
+    "kind": "map"
+  },
+  {
     "name": "NB Natural Resources — Fishing Regulation Web App",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -22421,6 +22847,25 @@
     ],
     "dateAdded": "2026-08-24",
     "kind": "tool"
+  },
+  {
+    "name": "Nova Scotia Parks and Protected Areas Interactive Map",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "parks",
+    "type": "Interactive map",
+    "description": "Nova Scotia map showing existing, proposed and pending protected areas, provincial Crown land, bicycle trails, OHV routes and aerial photography.",
+    "url": "https://novascotia.ca/parksandprotectedareas/plan/interactive-map/",
+    "tags": [
+      "nova scotia",
+      "protected areas",
+      "parks",
+      "crown land",
+      "trails",
+      "map"
+    ],
+    "dateAdded": "2026-08-30",
+    "kind": "map"
   },
   {
     "name": "Nova Scotia Provincial Parks",
@@ -24415,6 +24860,23 @@
     "kind": "tool"
   },
   {
+    "name": "CBSA Border Watch Line — Online Tip Submission",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Online reporting form",
+    "description": "Report suspicious cross-border activity to CBSA 24/7 using a secure online form with optional attachments.",
+    "url": "https://bwl-lsf.cbsa-asfc.cloud-nuage.canada.ca/tip-sub-en.html",
+    "tags": [
+      "cbsa",
+      "border",
+      "reporting",
+      "online-form",
+      "safety"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
     "name": "CISC — Public Report on Organized Crime",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -24486,6 +24948,24 @@
     "kind": "documents"
   },
   {
+    "name": "CSIS — Integrated Threat Assessment Centre",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Threat assessment resource",
+    "description": "Learn how ITAC produces cross-government threat assessments and monitors Canada’s National Terrorism Threat Level in HTML.",
+    "url": "https://www.canada.ca/en/security-intelligence-service/integrated-threat-assessment-centre.html",
+    "tags": [
+      "csis",
+      "itac",
+      "terrorism",
+      "threat-assessment",
+      "national-security",
+      "html"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
     "name": "CSIS — Public Reports",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -24501,6 +24981,42 @@
       "reports"
     ],
     "kind": "website"
+  },
+  {
+    "name": "Cyber Threat Bulletin: Cyber Threat to Operational Technology",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Threat assessment",
+    "description": "Analyze CSE’s OT threat assessment, Canadian exposure snapshot, incident tables, and mitigation guidance online or as PDF.",
+    "url": "https://www.cyber.gc.ca/en/guidance/cyber-threat-bulletin-cyber-threat-operational-technology",
+    "tags": [
+      "cybersecurity",
+      "operational-technology",
+      "critical-infrastructure",
+      "threats",
+      "html",
+      "pdf"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
+    "name": "Cyber Threat Bulletin: PRC Cyber Threat Activity",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Threat bulletin",
+    "description": "Review CSE’s bulletin on PRC cyberespionage, critical-infrastructure targeting, tactics, and recommended mitigations in HTML.",
+    "url": "https://www.cyber.gc.ca/en/guidance/cyber-threat-bulletin-cyber-centre-urges-canadians-be-aware-and-protect-against-prc-cyber-threat-activity",
+    "tags": [
+      "cybersecurity",
+      "china",
+      "prc",
+      "cyber-threat",
+      "mitigation",
+      "html"
+    ],
+    "dateAdded": "2026-09-02"
   },
   {
     "name": "Earthquakes Canada",
@@ -24548,6 +25064,24 @@
     "kind": "tool"
   },
   {
+    "name": "National Cyber Threat Assessment 2025-2026",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Threat assessment",
+    "description": "Read or download CSE’s assessment of Canadian cyber threats, forecasts, actors, incidents, and trends in HTML or PDF.",
+    "url": "https://www.cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2025-2026",
+    "tags": [
+      "cybersecurity",
+      "threats",
+      "intelligence",
+      "critical-infrastructure",
+      "html",
+      "pdf"
+    ],
+    "dateAdded": "2026-09-02"
+  },
+  {
     "name": "National Wildland Fire Information System",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -24560,6 +25094,24 @@
       "emergency",
       "realtime"
     ],
+    "kind": "map"
+  },
+  {
+    "name": "Natural Resources Canada — Earthquake Hazard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Seismic hazard map and calculator",
+    "description": "Determine seismic hazard at a site and view national and provincial seismic hazard maps used for Canadian building-code planning.",
+    "url": "https://earthquakescanada.nrcan.gc.ca/hazard-alea/index-en.php",
+    "tags": [
+      "earthquakes",
+      "seismic",
+      "hazards",
+      "building code",
+      "maps"
+    ],
+    "dateAdded": "2026-08-30",
     "kind": "map"
   },
   {
@@ -24621,6 +25173,23 @@
       "data"
     ],
     "kind": "map"
+  },
+  {
+    "name": "RCMP — High Risk Child Sex Offender Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Searchable database",
+    "description": "Search public profiles of high-risk child sex offenders by province or territory and gender using the RCMP database.",
+    "url": "https://rcmp.ca/en/high-risk-child-sex-offender-database/search-database",
+    "tags": [
+      "rcmp",
+      "offenders",
+      "child-safety",
+      "search",
+      "database"
+    ],
+    "dateAdded": "2026-09-02"
   },
   {
     "name": "Recalls and Safety Alerts",
@@ -24814,7 +25383,7 @@
     "category": "safety",
     "type": "Interactive dashboard and burn map",
     "description": "Live wildfire dashboard with fire status updates plus a province-wide map of daily burn conditions updated at 2 p.m.; permits info and active-fire alerts.",
-    "url": "https://www.gnb.ca/en/topic/laws-safety/emergency-preparedness-alerts/fire-watch.html",
+    "url": "https://www.gnb.ca/en/emergency/fire-watch.html",
     "tags": [
       "wildfire",
       "burn-permits",
@@ -28774,7 +29343,7 @@
     "category": "transport-roads",
     "type": "Search tool",
     "description": "Compare fuel consumption and CO2 emissions of new light-duty vehicles sold in Canada, including hybrids and electric vehicles, with data back to 1995.",
-    "url": "https://fcr-ccc.nrcan-rncan.gc.ca/en/Search",
+    "url": "https://natural-resources.canada.ca/energy-efficiency/transportation-energy-efficiency/fuel-consumption-guide",
     "tags": [
       "fuel economy",
       "vehicles",
