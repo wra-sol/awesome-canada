@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1869 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1868 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 73
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 72
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 23
 
 ---
@@ -3286,7 +3286,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Alberta | Alberta · Provincial | Agency | Alberta provincial election administration, voter lookup, and results | https://www.elections.ab.ca/ |
 | Elections Alberta — Financial Disclosure Database | Alberta · Provincial | Searchable database | Search registrations, financial reports and contributions over $250 for Alberta parties, candidates, constituency associations and leadership contests since 2004. | https://efpublic.elections.ab.ca/ |
 | Elections Alberta — Maps & GIS Boundary Data | Alberta · Provincial | Maps & shapefiles | Download PDF maps of Alberta's 87 electoral divisions plus GIS boundary shapefiles of electoral division and voting-area boundaries for mapping software. | https://www.elections.ab.ca/resources/maps/ |
-| Elections Alberta — Where to Vote Tool | Alberta · Provincial | Lookup tool | Enter your Alberta address to find your electoral division, voting place and polling station for provincial elections, plus voter-registration and where-to-vote-card information. | https://www.elections.ab.ca/where-to-vote-tool/ |
 | Elections Calgary — Results and Disclosures | Calgary · Municipal | Results and disclosure hub | Browse official Calgary municipal election results by ward and voting station, plus candidate campaign finance disclosure statements. | https://www.electionscalgary.ca/results.html |
 | Edmonton — 2025 Official Election Results by Voting Station | Edmonton · Municipal | Open dataset | Query and download station-level official results from Edmonton's 2025 municipal election; datasets for earlier elections are on the same portal. | https://data.edmonton.ca/Elected-Officials/2025-Official-Edmonton-Election-Results-by-Voting-/32te-6grv |
 

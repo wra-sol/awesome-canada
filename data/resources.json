@@ -9183,23 +9183,6 @@
     "kind": "map"
   },
   {
-    "name": "Elections Alberta — Where to Vote Tool",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "elections",
-    "type": "Lookup tool",
-    "description": "Enter your Alberta address to find your electoral division, voting place and polling station for provincial elections, plus voter-registration and where-to-vote-card information.",
-    "url": "https://www.elections.ab.ca/where-to-vote-tool/",
-    "tags": [
-      "voter information",
-      "polling station",
-      "address lookup",
-      "alberta"
-    ],
-    "dateAdded": "2026-08-26",
-    "kind": "tool"
-  },
-  {
     "name": "British Columbia — Political Contributions Search (FRPC)",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
