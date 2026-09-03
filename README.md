@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1911 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1908 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -32,12 +32,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🪪 Government Services & ID](#government-services-and-id) — 45
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 29
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 38
-- [🏢 Business & Procurement](#business-and-procurement) — 51
+- [🏢 Business & Procurement](#business-and-procurement) — 50
 - [💼 Employment & Labour](#employment-and-labour) — 39
 - [🎓 Education & Student Aid](#education-and-student-aid) — 26
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 29
-- [🩺 Health & Wellness](#health-and-wellness) — 61
+- [🩺 Health & Wellness](#health-and-wellness) — 60
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 30
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 37
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 37
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 78
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 77
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 23
 
 ---
@@ -1082,7 +1082,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | OSB — Bankruptcy and Insolvency Records Search | Canada · Federal | Searchable records database | Search every bankruptcy and proposal filed in Canada since 1978, receiverships since 1993, and CCAA records (free); other searches cost $8 per name. | https://www.ic.gc.ca/app/scr/bsf-osb/ins/login.html |
 | OSB — Licensed Insolvency Trustee Registry | Canada · Federal | Licence registry | Look up every Licensed Insolvency Trustee in Canada — active, semi-active, and inactive — to verify a trustee's licence before engaging them. | https://www.ic.gc.ca/app/scr/tds/web/complete |
 | Statistics Canada — Canadian International Merchandise Trade Web App | Canada · Federal | Interactive data application | Explore monthly Canadian import and export data by HS commodity code, trading partner, and province, with charts, time series, and top-25 commodity rankings. | https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm |
-| Trade Data Online | Canada · Federal | Data tool | Generate custom reports on Canadian and US trade in goods with 200+ countries by HS product code or industry, with CSV and Excel export, from ISED. | https://ised-isde.canada.ca/site/trade-data-online/en/overview |
 | Canadian Commercial Corporation — Government Procurement | Canada · Crown Corp | Procurement | Procurement tools for businesses selling to governments domestically and internationally | https://www.ccc.ca/ |
 | Defence Construction Canada | Canada · Crown Corp | Procurement | Defence construction contracting and project management | https://www.dcc-cdc.gc.ca/ |
 | Competition Bureau — Report of Merger Reviews | Canada · Agency | Enforcement register | Browse the weekly-updated register of ongoing and concluded merger reviews under the Competition Act, including pre-merger notifications and advance ruling requests. | https://competition-bureau.canada.ca/en/mergers-and-acquisitions/report-concluded-merger-reviews |
@@ -1516,7 +1515,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| eHealth Saskatchewan — Open Data & Public Reporting | Saskatchewan · Provincial | Health data portal | Self-serve de-identified aggregate health datasets: covered population counts and vital statistics (births, deaths, baby names), filterable by year, sex and regional health authority. | https://www.ehealthsask.ca/health-data/analytics/Pages/Open-Data-and-Public-Reporting.aspx |
 | eHealth Saskatchewan — Specialist Directory | Saskatchewan · Provincial | Lookup tool | Look up ~200 Saskatchewan surgeons and 2,600 procedures with weekly-updated surgical wait times so patients can compare specialists and travel for faster surgery. | https://specialists.ehealthsask.ca/ |
 | Saskatchewan — Drug Plan Formulary Search | Saskatchewan · Provincial | Drug coverage search | Search which medications the Saskatchewan Drug Plan covers, with coverage status, exception drug criteria and formulary bulletins. | https://formulary.drugplan.ehealthsask.ca/ |
 | Saskatchewan eHealth | Saskatchewan · Provincial | Health records | Electronic health records, patient portals, and provincial health information services for Saskatchewan residents | https://www.ehealthsask.ca/ |
@@ -3328,7 +3326,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Alberta | Alberta · Provincial | Agency | Alberta provincial election administration, voter lookup, and results | https://www.elections.ab.ca/ |
 | Elections Alberta — Financial Disclosure Database | Alberta · Provincial | Searchable database | Search registrations, financial reports and contributions over $250 for Alberta parties, candidates, constituency associations and leadership contests since 2004. | https://efpublic.elections.ab.ca/ |
 | Elections Alberta — Maps & GIS Boundary Data | Alberta · Provincial | Maps & shapefiles | Download PDF maps of Alberta's 87 electoral divisions plus GIS boundary shapefiles of electoral division and voting-area boundaries for mapping software. | https://www.elections.ab.ca/resources/maps/ |
-| Elections Alberta — Where to Vote Tool | Alberta · Provincial | Lookup tool | Enter your Alberta address to find your electoral division, voting place and polling station for provincial elections, plus voter-registration and where-to-vote-card information. | https://www.elections.ab.ca/where-to-vote-tool/ |
 | Elections Calgary — Results and Disclosures | Calgary · Municipal | Results and disclosure hub | Browse official Calgary municipal election results by ward and voting station, plus candidate campaign finance disclosure statements. | https://www.electionscalgary.ca/results.html |
 | Edmonton — 2025 Official Election Results by Voting Station | Edmonton · Municipal | Open dataset | Query and download station-level official results from Edmonton's 2025 municipal election; datasets for earlier elections are on the same portal. | https://data.edmonton.ca/Elected-Officials/2025-Official-Edmonton-Election-Results-by-Voting-/32te-6grv |
 

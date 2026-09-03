@@ -4313,22 +4313,6 @@
     "kind": "website"
   },
   {
-    "name": "Trade Data Online",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "business",
-    "type": "Data tool",
-    "description": "Generate custom reports on Canadian and US trade in goods with 200+ countries by HS product code or industry, with CSV and Excel export, from ISED.",
-    "url": "https://ised-isde.canada.ca/site/trade-data-online/en/overview",
-    "tags": [
-      "trade",
-      "imports",
-      "exports",
-      "statistics"
-    ],
-    "kind": "tool"
-  },
-  {
     "name": "Canadian Commercial Corporation — Government Procurement",
     "level": "Crown Corp",
     "jurisdiction": "Canada",
@@ -9337,23 +9321,6 @@
     "kind": "map"
   },
   {
-    "name": "Elections Alberta — Where to Vote Tool",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "elections",
-    "type": "Lookup tool",
-    "description": "Enter your Alberta address to find your electoral division, voting place and polling station for provincial elections, plus voter-registration and where-to-vote-card information.",
-    "url": "https://www.elections.ab.ca/where-to-vote-tool/",
-    "tags": [
-      "voter information",
-      "polling station",
-      "address lookup",
-      "alberta"
-    ],
-    "dateAdded": "2026-08-26",
-    "kind": "tool"
-  },
-  {
     "name": "British Columbia — Political Contributions Search (FRPC)",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -14334,23 +14301,6 @@
     ],
     "dateAdded": "2026-08-25",
     "kind": "tool"
-  },
-  {
-    "name": "eHealth Saskatchewan — Open Data & Public Reporting",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "health",
-    "type": "Health data portal",
-    "description": "Self-serve de-identified aggregate health datasets: covered population counts and vital statistics (births, deaths, baby names), filterable by year, sex and regional health authority.",
-    "url": "https://www.ehealthsask.ca/health-data/analytics/Pages/Open-Data-and-Public-Reporting.aspx",
-    "tags": [
-      "health-data",
-      "vital-statistics",
-      "covered-population",
-      "open-data",
-      "public-reporting"
-    ],
-    "kind": "data"
   },
   {
     "name": "eHealth Saskatchewan — Specialist Directory",
