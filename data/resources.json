@@ -4278,22 +4278,6 @@
     "kind": "website"
   },
   {
-    "name": "Trade Data Online",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "business",
-    "type": "Data tool",
-    "description": "Generate custom reports on Canadian and US trade in goods with 200+ countries by HS product code or industry, with CSV and Excel export, from ISED.",
-    "url": "https://ised-isde.canada.ca/site/trade-data-online/en/overview",
-    "tags": [
-      "trade",
-      "imports",
-      "exports",
-      "statistics"
-    ],
-    "kind": "tool"
-  },
-  {
     "name": "Canadian Commercial Corporation — Government Procurement",
     "level": "Crown Corp",
     "jurisdiction": "Canada",
