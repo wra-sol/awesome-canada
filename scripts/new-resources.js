@@ -190,5 +190,33 @@ module.exports = [
   {
     "name": "ISED — Beneficial Ownership Discrepancy Reporting", "level": "Federal", "jurisdiction": "Canada", "category": "business", "type": "Online reporting form",
     "description": "Report material discrepancies between beneficial-ownership records and federal ISC data for high-risk corporations through My ISED.", "url": "https://ised-isde.canada.ca/site/corporations-canada/en/beneficial-ownership-discrepancy-reporting", "tags": ["ised", "beneficial-ownership", "corporate-registry", "money-laundering", "online-form"], "dateAdded": "2026-09-02", "verified": true
+  },
+  {
+    "name": "Cyber Centre — Top 10 Artificial Intelligence Security Actions", "level": "Federal", "jurisdiction": "Canada", "category": "safety", "type": "Security guidance",
+    "description": "Apply ten practical measures for securing AI systems, users, data, and business processes; includes web guidance and downloadable report formats.", "url": "https://www.cyber.gc.ca/en/guidance/top-10-artificial-intelligence-security-actions-primer-itsap10049", "tags": ["artificial intelligence", "cybersecurity", "security", "guidance", "pdf", "web"], "dateAdded": "2026-09-03", "verified": true
+  },
+  {
+    "name": "NRC — AI Safety and Responsible AI", "level": "Federal", "jurisdiction": "Canada", "category": "science", "type": "Research and advisory resource",
+    "description": "Explore NRC AI safety research, responsible-AI advisory services, evaluation projects, and linked research publications and tools.", "url": "https://nrc.canada.ca/en/research-development/products-services/technical-advisory-services/ai-safety-responsible-ai", "tags": ["artificial intelligence", "ai safety", "responsible ai", "research", "tools", "reports"], "dateAdded": "2026-09-03", "verified": true
+  },
+  {
+    "name": "CIFAR — Canadian AI Safety Institute Research Program", "level": "Federal", "jurisdiction": "Canada", "category": "science", "type": "Research program",
+    "description": "Browse Canadian AI safety research projects, grants, news, researchers, and evaluation work through CIFAR’s CAISI program.", "url": "https://cifar.ca/ai/ai-and-society/ai-safety-program/", "tags": ["artificial intelligence", "ai safety", "cifar", "research", "grants", "web"], "dateAdded": "2026-09-03", "verified": true
+  },
+  {
+    "name": "ISED — Canadian Sovereign AI Compute Strategy", "level": "Federal", "jurisdiction": "Canada", "category": "business", "type": "Strategy and funding portal",
+    "description": "Review Canada’s AI compute investments and follow links to the AI Compute Challenge, sovereign infrastructure program, and Compute Access Fund.", "url": "https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy", "tags": ["artificial intelligence", "compute", "innovation", "funding", "infrastructure", "web"], "dateAdded": "2026-09-03", "verified": true
+  },
+  {
+    "name": "Canada’s National Artificial Intelligence Strategy: AI for All", "level": "Federal", "jurisdiction": "Canada", "category": "science", "type": "Strategy report",
+    "description": "Read Canada’s six-pillar AI strategy covering safety, skills, adoption, sovereign infrastructure, companies, and partnerships; download the PDF report.", "url": "https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all", "tags": ["artificial intelligence", "national strategy", "innovation", "policy", "report", "pdf"], "dateAdded": "2026-09-03", "verified": true
+  },
+  {
+    "name": "Measurement Canada — Authorized Units for Selling Draft Beer", "level": "Federal", "jurisdiction": "Canada", "category": "consumer", "type": "Consumer measurement guide",
+    "description": "Check which units Canadian businesses may use to sell draft beer, including imperial pint, fluid ounce and millilitre rules and allowable error.", "url": "https://ised-isde.canada.ca/site/measurement-canada/en/selling-measured-goods/units-measurement-used-sell-draft-beer", "tags": ["measurement canada", "draft beer", "consumer protection", "units", "regulations", "html"], "dateAdded": "2026-09-03", "verified": true
+  },
+  {
+    "name": "Measurement Canada — Consumer Measurement Infographics", "level": "Federal", "jurisdiction": "Canada", "category": "consumer", "type": "Infographic library",
+    "description": "Browse plain-language measurement guides for firewood, food, gas pumps, EV charging, propane, meters, fuel tanks and net metering in HTML.", "url": "https://ised-isde.canada.ca/site/measurement-canada/en/infographics", "tags": ["measurement canada", "consumer protection", "measurement", "infographics", "gas pumps", "html"], "dateAdded": "2026-09-03", "verified": true
   }
 ];

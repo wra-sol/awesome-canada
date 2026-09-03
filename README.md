@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1904 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1911 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -32,7 +32,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🪪 Government Services & ID](#government-services-and-id) — 45
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 29
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 38
-- [🏢 Business & Procurement](#business-and-procurement) — 50
+- [🏢 Business & Procurement](#business-and-procurement) — 51
 - [💼 Employment & Labour](#employment-and-labour) — 39
 - [🎓 Education & Student Aid](#education-and-student-aid) — 26
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
@@ -49,13 +49,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌦️ Weather & Climate](#weather-and-climate) — 25
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 35
-- [🔬 Science, Research & Space](#science-research-and-space) — 58
+- [🔬 Science, Research & Space](#science-research-and-space) — 61
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 52
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 18
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 60
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 61
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 58
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 37
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 78
@@ -1074,6 +1074,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | ISED — Beneficial Ownership Discrepancy Reporting | Canada · Federal | Online reporting form | Report material discrepancies between beneficial-ownership records and federal ISC data for high-risk corporations through My ISED. | https://ised-isde.canada.ca/site/corporations-canada/en/beneficial-ownership-discrepancy-reporting |
 | ISED — Canadian Importers Database | Canada · Federal | Searchable database | Look up which companies import specific goods into Canada — search by product, city, or country to get lists of major importers based on CBSA customs data. | https://ised-isde.canada.ca/app/ixb/cid-bdic/searchProduct.html |
 | ISED — Canadian Industry Statistics | Canada · Federal | Statistics tool | Generate industry snapshots by NAICS code or keyword — GDP, employment, number of businesses, trade, and financial performance trends for any Canadian industry. | https://ised-isde.canada.ca/app/ixb/cis/search-recherche |
+| ISED — Canadian Sovereign AI Compute Strategy | Canada · Federal | Strategy and funding portal | Review Canada’s AI compute investments and follow links to the AI Compute Challenge, sovereign infrastructure program, and Compute Access Fund. | https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy |
 | ISED — CSBFP Lender Finance Map | Canada · Federal | Interactive map | Find 3,180+ Canada Small Business Financing Program lender branches on an interactive map, or download the full point list as CSV. | https://www.ised-isde.canada.ca/site/maps/en/finance-map |
 | ISED — ExploreIP: Canada's IP Marketplace | Canada · Federal | Searchable marketplace | Search thousands of patents held by Canadian governments, universities, and hospitals that are available to license or commercialize, and contact the IP holders directly. | https://ised-isde.canada.ca/ipm-mcpi/ |
 | ISED — Financial Performance Data (SME Benchmarking) | Canada · Federal | Benchmarking tool | Build financial benchmark reports for 1,000+ industries — revenues, expenses, profit margins, and balance-sheet ratios — and compare your small business against industry averages. | https://ised-isde.canada.ca/site/financial-performance-data/en |
@@ -2560,11 +2561,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Canada Research Chairs — Chairholders Database | Canada · Federal | Expert directory | Find any of roughly 2,000 Canada Research Chairs by name, institution, discipline or province and read their research profiles to locate an expert. | https://www.chairs-chaires.gc.ca/chairholders-titulaires/index-eng.aspx |
+| Canada’s National Artificial Intelligence Strategy: AI for All | Canada · Federal | Strategy report | Read Canada’s six-pillar AI strategy covering safety, skills, adoption, sovereign infrastructure, companies, and partnerships; download the PDF report. | https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all |
 | Canadian Astronomy Data Centre | Canada · Federal | Research data portal | NRC's open archive and science platform for astronomy data from Hubble, Gemini, CFHT, JCMT and other telescopes — petabytes of data served to astronomers worldwide. | https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/ |
 | Canadian Space Agency | Canada · Federal | Science portal | Missions, astronauts, educational material, media, and space updates | https://www.asc-csa.gc.ca/eng/ |
 | Canadian Space Agency — Mission Tracker | Canada · Federal | Tracker | Current and upcoming CSA-supported satellite missions, astronauts, and science payloads | https://www.asc-csa.gc.ca/eng/missions/ |
 | Canadian Space Agency — Open Data Portal | Canada · Federal | Open data catalogue | Download RADARSAT-1/RCM Earth-observation imagery (TIFF), Antarctica/Africa mosaics and NEOSSat astronomy datasets; CKAN API access. | https://donnees-data.asc-csa.gc.ca/en/dataset/ |
 | Canadian Space Agency — RADARSAT Constellation Data | Canada · Federal | Data | Earth-observation data from the RADARSAT Constellation Mission (RCM) | https://www.asc-csa.gc.ca/eng/satellites/radarsat/ |
+| CIFAR — Canadian AI Safety Institute Research Program | Canada · Federal | Research program | Browse Canadian AI safety research projects, grants, news, researchers, and evaluation work through CIFAR’s CAISI program. | https://cifar.ca/ai/ai-and-society/ai-safety-program/ |
 | CIHR — Funding Decisions Database | Canada · Federal | Research grants database | Search funded health-research grants and awards by researcher, institution, competition or keyword, with dollar amounts committed over the life of each grant. | https://webapps.cihr-irsc.gc.ca/decisions/p/main.html?lang=en |
 | CSRS-PPP — Precise Point Positioning | Canada · Federal | Processing tool | Submit GNSS observation files (RINEX) for free online post-processing to cm-level positions in NAD83/ITRF; results by email or download. | https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp.php |
 | DFO — BioChem Marine Biological and Chemical Data | Canada · Federal | Data query tool | Query BioChem, Fisheries and Oceans Canada's archive of marine biological and chemical data collected across Canadian waters — plankton, nutrients, contaminants and oceanographic profiles. | https://inter-j02.dfo-mpo.gc.ca/bcq-bcr/home-accueil?lang=eng |
@@ -2575,6 +2578,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ingenium — Collection API | Canada · Federal | Collection API | REST API over Ingenium's 150,000+ science-and-tech artifacts (agriculture, aviation, science museums): search, record lookup, more-like-this. Free API key; OpenAPI docs; bulk CSV/XML export. | https://api.ingeniumcanada.org/en/api_docs/ |
 | Library and Archives Canada — Theses Canada | Canada · Federal | Theses portal | Search 425,000+ Canadian university theses and dissertations back to 1965 and read 200,000+ of them free in full text. | https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/search-theses-canada.aspx |
 | National Research Council — IR Aerospace Research Centre | Canada · Federal | Research | NRC aerospace research facilities, services, and partnership programs | https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/aerospace-research-centre |
+| NRC — AI Safety and Responsible AI | Canada · Federal | Research and advisory resource | Explore NRC AI safety research, responsible-AI advisory services, evaluation projects, and linked research publications and tools. | https://nrc.canada.ca/en/research-development/products-services/technical-advisory-services/ai-safety-responsible-ai |
 | NRC — Certified Reference Materials Catalogue | Canada · Federal | Catalogue and store | Browse and order NRC's SI-traceable certified reference materials for food, environment, health, and critical-minerals lab work, with certificates for each material. | https://nrc.canada.ca/en/certifications-evaluations-standards/certified-reference-materials/list |
 | NRC — Sunrise/Sunset Calculator | Canada · Federal | Calculator | National Research Council calculator for sunrise, sunset and sun angles for any Canadian location and date, accurate to ±2 minutes and certifiable for legal purposes. | https://nrc.canada.ca/en/research-development/products-services/software-applications/sun-calculator/ |
 | NRC — Web Clock (Canada's Official Time) | Canada · Federal | Time tool | Official time across Canada's time zones, served live from the National Research Council's atomic clocks. | https://nrc.canada.ca/en/research-development/products-services/software-applications/web-clock-official-times-across-canada |
@@ -2918,6 +2922,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CSE — Annual Reports | Canada · Federal | Report library | Read the Communications Security Establishment's unclassified annual reports on signals intelligence, cyber defence, and foreign cyber operations, back to 2019-20. | https://www.cse-cst.gc.ca/en/accountability/transparency/reports |
 | CSIS — Integrated Threat Assessment Centre | Canada · Federal | Threat assessment resource | Learn how ITAC produces cross-government threat assessments and monitors Canada’s National Terrorism Threat Level in HTML. | https://www.canada.ca/en/security-intelligence-service/integrated-threat-assessment-centre.html |
 | CSIS — Public Reports | Canada · Federal | Report library | Download every annual CSIS Public Report — the unclassified assessment of threats to Canada from terrorism, espionage, and foreign interference. | https://publications.gc.ca/site/eng/9.505816/publication.html |
+| Cyber Centre — Top 10 Artificial Intelligence Security Actions | Canada · Federal | Security guidance | Apply ten practical measures for securing AI systems, users, data, and business processes; includes web guidance and downloadable report formats. | https://www.cyber.gc.ca/en/guidance/top-10-artificial-intelligence-security-actions-primer-itsap10049 |
 | Cyber Threat Bulletin: Cyber Threat to Operational Technology | Canada · Federal | Threat assessment | Analyze CSE’s OT threat assessment, Canadian exposure snapshot, incident tables, and mitigation guidance online or as PDF. | https://www.cyber.gc.ca/en/guidance/cyber-threat-bulletin-cyber-threat-operational-technology |
 | Cyber Threat Bulletin: PRC Cyber Threat Activity | Canada · Federal | Threat bulletin | Review CSE’s bulletin on PRC cyberespionage, critical-infrastructure targeting, tactics, and recommended mitigations in HTML. | https://www.cyber.gc.ca/en/guidance/cyber-threat-bulletin-cyber-centre-urges-canadians-be-aware-and-protect-against-prc-cyber-threat-activity |
 | Earthquakes Canada | Canada · Federal | Live map / science tool | Near-real-time earthquake tracking and event data | https://earthquakescanada.nrcan.gc.ca/ |
@@ -3114,6 +3119,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Canadian Anti-Fraud Centre | Canada · Federal | Reporting | Report fraud and scams to the national CAFC and browse current scam trends | https://www.antifraudcentre-centreantifraude.ca/ |
 | Competition Bureau — Deceptive Marketing Cases | Canada · Federal | Lookup tool | Search every public deceptive-marketing case since 2015 by company, product, or outcome, including consent agreements and Tribunal rulings. | https://competition-bureau.canada.ca/en/deceptive-marketing-practices/cases-and-outcomes |
+| Measurement Canada — Authorized Units for Selling Draft Beer | Canada · Federal | Consumer measurement guide | Check which units Canadian businesses may use to sell draft beer, including imperial pint, fluid ounce and millilitre rules and allowable error. | https://ised-isde.canada.ca/site/measurement-canada/en/selling-measured-goods/units-measurement-used-sell-draft-beer |
+| Measurement Canada — Consumer Measurement Infographics | Canada · Federal | Infographic library | Browse plain-language measurement guides for firewood, food, gas pumps, EV charging, propane, meters, fuel tanks and net metering in HTML. | https://ised-isde.canada.ca/site/measurement-canada/en/infographics |
 | Measurement Canada — Find an Authorized Service Provider | Canada · Federal | Search tool | Find companies authorized by Measurement Canada to inspect and certify scales, gas pumps, and other measuring devices in your area, with their approved inspection scope. | https://ised-isde.canada.ca/site/measurement-canada/en/authorized-service-providers/find-authorized-service-provider |
 | National Do Not Call List | Canada · Agency | Service | Register Canadian phone numbers to reduce unwanted telemarketing calls | https://www.lnnte-dncl.gc.ca/ |
 | Office of the Privacy Commissioner of Canada | Canada · Agency | Regulator | Privacy complaints, PIPEDA guidance, and breach reporting for Canadians | https://www.priv.gc.ca/ |
