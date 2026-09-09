@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1867 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1875 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 213
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 134
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 138
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
 - [🪪 Government Services & ID](#government-services-and-id) — 45
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 29
@@ -43,18 +43,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 37
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
-- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 42
+- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 43
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 68
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 79
 - [🌦️ Weather & Climate](#weather-and-climate) — 25
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 35
-- [🔬 Science, Research & Space](#science-research-and-space) — 58
+- [🔬 Science, Research & Space](#science-research-and-space) — 59
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 52
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 18
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 53
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 50
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 52
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
@@ -619,6 +619,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Newfoundland and Labrador Gazette | Newfoundland and Labrador · Provincial | Official gazette archive | Download weekly NL Gazette issues from the Office of the King's Printer: official notices, regulations and appointments. PDF archive. | https://www.gov.nl.ca/gs/printer/gazette/ |
+| PEI — The Royal Gazette | Prince Edward Island · Provincial | Official gazette archive | Browse and download PEI Royal Gazette issues: official notices, regulations and proclamations for Prince Edward Island. PDF archive. | https://www.princeedwardisland.ca/en/royalgazette |
 | Bathurst Council Meetings & Agendas | Bathurst · Municipal | Council meetings | Bilingual council meeting portal with downloadable PDF agendas and minutes for regular City of Bathurst council meetings. Browse the annual meeting calendar and access individual session documents via secure direct links. Supports both English and French language access. | https://www.bathurst.ca/en/council-meetings |
 | Cape Breton Regional Municipality Council | Cape Breton · Municipal | Council meetings | CBRM council meeting agendas, minutes, and video for the Cape Breton Regional Municipality. | https://cbrm.ns.ca/city-hall/committee-council-meetings/ |
 | Charlottetown Council Resolutions and Approved Minutes | Charlottetown · Municipal | Council minutes | Document library with downloadable PDFs of council resolutions and approved minutes for the City of Charlottetown. Track council decisions, motions, and voting records over time. | https://www.charlottetown.ca/mayor___council/council_meetings/resolutions_of_council_and_approved_minutes |
@@ -645,6 +647,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Nunavut Hansard EN/Inuktitut parallel dataset | Nunavut · Agency | Hansard dataset | Download the full Nunavut Legislative Assembly debates as parallel English/Inuktitut text (roman and syllabic), CC-BY-4.0, with token alignments for NLP. | https://huggingface.co/datasets/EdinburghNLP/nunavut-hansard-plusplus |
+| Northwest Territories Gazette | Northwest Territories · Provincial | Official gazette archive | Download every NWT Gazette issue (1993-present): regulations in full text, statutory appointments, revocations and official notices. PDF, bilingual. | https://www.justice.gov.nt.ca/en/northwest-territories-gazette |
 | Iqaluit Motion Registry Results | Iqaluit · Municipal | Council motions | Searchable, downloadable list of City of Iqaluit council motions with meeting numbers, dates, and PDF downloads. Track how specific issues were voted on and follow the history of council decisions. | https://iqaluit.ca/city-hall/city-council/motions/results |
 | Whitehorse — Council Agendas & Minutes (InfoCouncil) | Whitehorse · Municipal | Agendas and minutes | Search and download PDF agendas, minutes, and attachments for City of Whitehorse council meetings from 2017 to present. Filter by year and month to track council decisions, public hearings, and bylaw approvals. | https://whitehorse.infocouncil.biz/ |
 | Yellowknife — Council Agendas & Minutes (eScribe) | Yellowknife · Municipal | Council meetings portal | Searchable City of Yellowknife council agendas, minutes, and attachments on the public eScribe portal. Includes Council Meeting and Special Council Meeting records with downloadable PDFs. | https://pub-yellowknife.escribemeetings.com/ |
@@ -2003,6 +2007,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Transport Canada — Grade Crossings Inventory | Canada · Federal | Open dataset | Download the location and safety characteristics of every railway grade crossing in Canada, the dataset used by the Railway Safety Oversight Program, updated annually. | https://open.canada.ca/data/en/dataset/d0f54727-6c0b-4e5a-aa04-ea1463cf9f4c |
 | Transport Canada — Navigation Protection Program Registry | Canada · Federal | Lookup tool | Search proposed and approved works on Canadian navigable waters by map or waterway; view project records and public comment notices. | https://nwar-rlen.tc.canada.ca/about-apropos |
 | Transport Canada — Vessel Registration Query System | Canada · Federal | Searchable registry | Look up any vessel on the Canadian Register of Vessels by name, official number, or owner, including tonnage, dimensions, and registration status. | https://wwwapps.tc.gc.ca/Saf-Sec-Sur/4/vrqs-srib/eng/vessel-registrations |
+| Transportation Safety Board — Investigation reports | Canada · Federal | Investigation report database | Search TSB rail, marine, pipeline and aviation investigation reports (EN/FR): findings, causes, safety actions, PDF downloads back to 1990. | https://tsb.gc.ca/eng/rapports-reports/rail/index.html |
 | VIA Rail — Trip Planner and Booking | Canada · Federal | Trip planner | Train schedules, booking, and trip planning across Canada | https://www.viarail.ca/en/plan |
 | Great Lakes St. Lawrence Seaway — Voyage Information System (VIS) | Canada · Crown Corp | Vessel tracker | Track vessels in real time throughout the Great Lakes and St. Lawrence River, view lock/bridge status, buoys, live camera feeds and distance/travel-time tools. | https://vis.greatlakes-seaway.com/ |
 | Halifax Port Authority | Canada · Crown Corp | Port portal | Port of Halifax — the Port Operations Centre for tracking containers and transit times, monitoring vessel arrivals and departures, tides and port security. | https://www.porthalifax.ca/ |
@@ -2553,6 +2558,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CSRS-PPP — Precise Point Positioning | Canada · Federal | Processing tool | Submit GNSS observation files (RINEX) for free online post-processing to cm-level positions in NAD83/ITRF; results by email or download. | https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp.php |
 | DFO — BioChem Marine Biological and Chemical Data | Canada · Federal | Data query tool | Query BioChem, Fisheries and Oceans Canada's archive of marine biological and chemical data collected across Canadian waters — plankton, nutrients, contaminants and oceanographic profiles. | https://inter-j02.dfo-mpo.gc.ca/bcq-bcr/home-accueil?lang=eng |
 | DFO — Canada Marine Planning Atlas | Canada · Federal | Interactive map | Interactive marine spatial planning atlas of ecological processes, bioregion features and human activities; discover, view and download DFO geospatial data. | https://www.dfo-mpo.gc.ca/oceans/planning-planification/atlas/index-eng.html |
+| DFO CSAS — Canadian Science Advisory Secretariat API | Canada · Federal | Science reports API | JSON API over 9,300+ Fisheries and Oceans science advisory reports, research documents and proceedings (EN/FR) with JATS full text and PDF downloads; bulk-harvestable for research. | https://csas-scas-api.dfo-mpo.gc.ca/api/publication?page=1 |
 | Earthquakes Canada — Seismic Data API & FDSN Web Services | Canada · Federal | Data API | Query real-time and archived earthquake information for Canada as JSON/GeoRSS, plus FDSN station and dataselect web services for seismic waveform data from the Canadian National Seismograph Network. | https://www.earthquakescanada.nrcan.gc.ca/index-en.php |
 | Federal Open Science Repository of Canada | Canada · Federal | Research archive | Search and download federally authored scientific articles and publications from participating science-based departments and agencies, in one public web repository. | https://open-science.canada.ca/home |
 | Health Canada — Clinical Trials Database | Canada · Federal | Database | Search authorized Canadian clinical trials for human pharmaceutical and biological drugs by protocol, medical condition or sponsor; JSON/XML API and downloadable datasets. | https://clinical-trials-search.canada.ca/en/home |
@@ -2991,12 +2997,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Court Martial Appeal Court of Canada — Decisions | Canada · Federal | Court decisions | Read the reasons for judgment of the superior court that hears appeals from Canadian courts martial, published in both official languages. | https://www.cmac-cacm.ca/en/pages/decisions-and-law-reports |
 | Federal Court of Canada | Canada · Federal | Court | Federal Court decisions, forms, rules, and case filings | https://www.fct-cf.gc.ca/en/home |
 | Justice Canada — Laws of Canada | Canada · Federal | Legislation | Consolidated federal statutes and regulations — the Justice Laws Website | https://laws-lois.justice.gc.ca/ |
+| Justice Canada — Research and Statistics Division reports | Canada · Federal | Report catalogue | Browse and download 700+ Justice Canada research reports, JustFacts briefs and State of the Criminal Justice System annuals (EN/FR, HTML and PDF), from the RSD catalogue. | https://justice.gc.ca/eng/rp-pr/jr/request-demande.html |
 | Public Prosecution Service of Canada | Canada · Federal | Agency | Federal prosecution policies, annual reports, and case information | https://www.ppsc-sppc.gc.ca/ |
 | Supreme Court of Canada — Judgments | Canada · Federal | Decisions | Search SCC decisions, docket, hearings, and leave-to-appeal rulings | https://www.scc-csc.ca/ |
 | Tax Court of Canada | Canada · Federal | Court | Tax Court decisions, procedures, and appeal filings | https://www.tcc-cci.gc.ca/ |
 | CanLII — Canadian Legal Information Institute | Canada · Agency | Case law | Free Canadian legislation and case law search across all federal, provincial, and tribunal levels | https://www.canlii.org/ |
 | CanLII — Legal Research API | Canada · Agency | Legal data API | Programmatic access to Canada's free legal research database — search case law, statutes and tribunal decisions by jurisdiction, court, citation or full text; free API key required. | https://canlii.ca/s/api |
 | Office of the Correctional Investigator — Reports | Canada · Agency | Report library | Read annual and special investigation reports from the federal prison ombudsman on conditions, treatment, and systemic issues in Canadian penitentiaries. | https://oci-bec.gc.ca/en/reports |
+| Social Security Tribunal — Decision search | Canada · Agency | Tribunal decision database | Search Social Security Tribunal decisions on EI, CPP and OAS appeals by benefit type, date and outcome; full decision texts online. | https://sst-tss.gc.ca/en/decisions-laws-rules-and-policies/find-decisions-cases-yours |
 
 ### British Columbia
 
