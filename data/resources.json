@@ -272,19 +272,6 @@
     ]
   },
   {
-    "name": "SAQ — Société des alcools du Québec",
-    "level": "Crown Corp",
-    "jurisdiction": "Quebec",
-    "category": "agriculture",
-    "type": "Retail",
-    "description": "Browse SAQ spirits and wines with inventory, food pairings, and specialty imports",
-    "url": "https://www.saq.com/en",
-    "tags": [
-      "Quebec",
-      "beverages"
-    ]
-  },
-  {
     "name": "SCIC — Crop Insurance Prices and Programs",
     "level": "Crown Corp",
     "jurisdiction": "Saskatchewan",
@@ -24997,22 +24984,6 @@
       "datasets",
       "universities"
     ]
-  },
-  {
-    "name": "Canada Explore — OpenAIRE Research Portal",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "science",
-    "type": "Research discovery portal",
-    "description": "Search 5M+ Canadian publications, research datasets and software linked to NSERC, CIHR and SSHRC funding, aggregated from 866+ institutional repositories.",
-    "url": "https://canada.explore.openaire.eu/",
-    "tags": [
-      "publications",
-      "open access",
-      "research outputs",
-      "discovery"
-    ],
-    "dateAdded": "2026-08-26"
   },
   {
     "name": "CFI — Research Facilities Navigator",

@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1875 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1873 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -48,8 +48,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 79
 - [🌦️ Weather & Climate](#weather-and-climate) — 25
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 35
-- [🔬 Science, Research & Space](#science-research-and-space) — 59
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
+- [🔬 Science, Research & Space](#science-research-and-space) — 58
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 52
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 18
@@ -2528,7 +2528,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| SAQ — Société des alcools du Québec | Quebec · Crown Corp | Retail | Browse SAQ spirits and wines with inventory, food pairings, and specialty imports | https://www.saq.com/en |
 | CPTAQ — Rechercher un dossier | Quebec · Provincial | Lookup tool | Search 370,000+ CPTAQ agricultural-zone decisions, rights declarations and orders since 1978 by file number, lot or municipality. | https://www.cptaq.gouv.qc.ca/rechercher-un-dossier |
 | La Financière agricole du Québec (FADQ) | Quebec · Provincial | Agri-food insurance & data | Quebec's agricultural finance agency: crop insurance program data, farm financing programs, and statistical publications on Quebec farm production and compensation. | https://www.fadq.qc.ca/ |
 | MAPAQ — Liste des établissements sous permis | Quebec · Provincial | Lookup tool | Search MAPAQ food permits (restaurants, retailers, abattoirs) by name, type or region and download the list as CSV or PDF. | https://web.mapaq.gouv.qc.ca/bh/etablissements-sous-permis |
@@ -2580,7 +2579,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | SSHRC — Awards Search Engine | Canada · Federal | Research grants database | Look up SSHRC grant and fellowship payments back to 1998 by applicant, institution, program or discipline. | https://www.sshrc-crsh.gc.ca/results-resultats/award_search-recherche_attributions/index-eng.aspx |
 | NRC — Programs and Services | Canada · Crown Corp | Research | NRC research programs, technology platforms, and business innovation support | https://nrc.canada.ca/en |
 | Borealis — Canadian Dataverse Repository | Canada · Agency | Research data repository | Discover, explore and download DOI-issued research datasets from 65+ Canadian universities and research organizations — no login needed to search. | https://borealisdata.ca/ |
-| Canada Explore — OpenAIRE Research Portal | Canada · Agency | Research discovery portal | Search 5M+ Canadian publications, research datasets and software linked to NSERC, CIHR and SSHRC funding, aggregated from 866+ institutional repositories. | https://canada.explore.openaire.eu/ |
 | CFI — Research Facilities Navigator | Canada · Agency | Facilities directory | Search 850+ university, college, hospital and government research labs open to collaboration, filtered by capability, equipment and location. | https://navigator.innovation.ca/en |
 | FRDR — Federated Research Data Repository | Canada · Agency | Research data repository | Search and download large Canadian research datasets, or deposit your own for DOI-backed publication, in the Digital Research Alliance of Canada's curated national repository. | https://www.frdr-dfdr.ca/repo/ |
 | Genome Canada | Canada · Agency | Research | National genomics organization funding research, platforms, and innovation | https://www.genomecanada.ca/ |
