@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1877 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1878 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -44,7 +44,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 43
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 68
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 69
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 79
 - [🌦️ Weather & Climate](#weather-and-climate) — 25
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
@@ -2153,6 +2153,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Trails Council | Ontario · Agency | Trails finder | Searchable directory of 2,300+ Ontario trails across hiking, biking, paddling, and skiing | https://ontariotrails.on.ca/ |
 | Fish ON-Line | Ontario · Provincial | Interactive map | Ontario's angler map of 20,000+ waterbodies: fish species observed, stocking records, regulations and sanctuaries, access points and lake depth contours. | https://www.ontario.ca/page/how-use-fish-line |
 | Ontario Parks | Ontario · Provincial | Park finder / booking | Park discovery, camping, maps, and trip planning | https://www.ontarioparks.ca/ |
+| Ontario Parks — Fall Colour Report | Ontario · Provincial | Fall colour report | Official fall colour reports for 60+ provincial parks: colour-change %, leaf fall, dominant colours, and best viewing spots, updated daily through the season. | https://www.ontarioparks.ca/fallcolour |
 | Ontario Parks — Reservations | Ontario · Provincial | Reservation system | Book campsites, roofed accommodations, and backcountry permits across Ontario's provincial parks | https://reservations.ontarioparks.ca/ |
 | Caledon Trails Open Data | Caledon · Municipal | Trails GIS dataset | Caledon trail network GIS layers on the municipal open data hub — download paths and recreation routes or explore via the geohub. | https://geohub-caledon.hub.arcgis.com/ |
 

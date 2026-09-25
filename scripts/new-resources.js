@@ -154,4 +154,21 @@ module.exports = [
     "dateAdded": "2026-09-09",
     "verified": true
   }
+,
+  {
+    "name": "Ontario Parks — Fall Colour Report",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "parks",
+    "type": "Fall colour report",
+    "description": "Official fall colour reports for 60+ provincial parks: colour-change %, leaf fall, dominant colours, and best viewing spots, updated daily through the season.",
+    "url": "https://www.ontarioparks.ca/fallcolour",
+    "tags": [
+      "parks",
+      "outdoors",
+      "fall colours"
+    ],
+    "dateAdded": "2026-09-25",
+    "verified": true
+  }
 ];
