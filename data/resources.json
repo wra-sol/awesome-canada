@@ -23783,7 +23783,7 @@
     "category": "school-board",
     "type": "School locations",
     "description": "Point locations of BC public schools from provincial open data — download for mapping catchments and facility analysis.",
-    "url": "https://catalogue.data.gov.bc.ca/dataset/bc-schools",
+    "url": "https://catalogue.data.gov.bc.ca/dataset/bc-schools-k-12-with-francophone-indicators",
     "tags": [
       "bc",
       "schools",

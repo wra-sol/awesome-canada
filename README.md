@@ -1307,7 +1307,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| BC Public Schools — Location Data | British Columbia · Provincial | School locations | Point locations of BC public schools from provincial open data — download for mapping catchments and facility analysis. | https://catalogue.data.gov.bc.ca/dataset/bc-schools |
+| BC Public Schools — Location Data | British Columbia · Provincial | School locations | Point locations of BC public schools from provincial open data — download for mapping catchments and facility analysis. | https://catalogue.data.gov.bc.ca/dataset/bc-schools-k-12-with-francophone-indicators |
 | BC School Districts (Spatial) | British Columbia · Provincial | Boundary dataset | Polygon boundaries of BC school districts under the School Act — download shapefile, KML, or access WMS/WFS services. | https://catalogue.data.gov.bc.ca/dataset/school-districts-of-bc |
 | BC Teacher Regulation — Find a Teacher (Online Registry) | British Columbia · Provincial | Teacher certification search | Public online registry to search BC teaching certificate holders and letter-of-permission holders by name, with certificate type, validity status, and any disciplinary action on record. | https://teacherregulation.gov.bc.ca/CertificateServices/FindATeacher.aspx |
 | Vancouver School Board — School Information | Vancouver · Municipal | School directory | Vancouver School District school finder with programs, catchments, and facility information for public schools. | https://www.vsb.bc.ca/schools |
