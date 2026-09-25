@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1873 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1877 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -39,8 +39,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 29
 - [🩺 Health & Wellness](#health-and-wellness) — 60
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 30
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 37
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 32
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 38
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 43
@@ -49,7 +49,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌦️ Weather & Climate](#weather-and-climate) — 25
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
-- [🔬 Science, Research & Space](#science-research-and-space) — 58
+- [🔬 Science, Research & Space](#science-research-and-space) — 59
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 52
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 18
@@ -1658,12 +1658,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Child Benefit — Overview and Apply | Canada · Federal | Benefit | Eligibility, payment schedule, and application for the tax-free monthly CCB | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html |
 | Canada Dental Benefit | Canada · Federal | Benefit | Coverage details and application for the Canadian Dental Care Plan | https://www.canada.ca/en/services/benefits/dental.html |
 | Canada Dental Care Plan | Canada · Federal | Health benefit | Apply for the national dental care plan providing coverage for uninsured Canadians with household incomes under $90,000 | https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html |
+| Canada Disability Benefit — Apply | Canada · Federal | Benefit | Monthly income-tested federal benefit (up to $2,400/year) for working-age Canadians with disabilities approved for the Disability Tax Credit; apply online, by phone, in person at a Service Canada centre, or by printed form. | https://www.canada.ca/en/services/benefits/disability/canada-disability-benefit/apply.html |
 | Canada Pension Plan (CPP) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for CPP retirement, disability, and survivor benefits | https://www.canada.ca/en/services/benefits/publicpensions/cpp.html |
 | Canada Workers Benefit | Canada · Federal | Tax benefit | Refundable tax credit for low-income workers and families to help offset employment costs | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-workers-benefit.html |
 | Canada.ca — Benefits Payment Calendar | Canada · Federal | Calendar | Official payment dates for CPP, OAS, EI, and other Government of Canada benefits | https://www.canada.ca/en/services/benefits/calendar.html |
 | Canadian Retirement Income Calculator | Canada · Federal | Calculator | Estimates retirement income from public pensions, workplace pensions, and savings | https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html |
 | Child and Family Benefits Calculator | Canada · Federal | Calculator | Estimates child and family benefit amounts | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html |
 | Disability Tax Credit Certificate — Form T2201 | Canada · Federal | Form | Apply for the Disability Tax Credit, which unlocks RDSP, CCB disability supplement, and more | https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html |
+| National School Food Program | Canada · Federal | Program | Federal $1 billion/5-year program (enshrined in the National School Food Program Act, 2026) working with provinces, territories and Indigenous partners to expand school meal programs to up to 400,000 more kids per year. | https://www.canada.ca/en/employment-social-development/programs/school-food.html |
 | Old Age Security (OAS) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for Old Age Security and Guaranteed Income Supplement | https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html |
 | Old Age Security Benefits Estimator | Canada · Federal | Calculator | Anonymous Service Canada estimator for OAS pension, Guaranteed Income Supplement, Allowance and Allowance for the Survivor amounts based on age, residency and income. | https://estimateursv-oasestimator.service.canada.ca/en/ |
 | Registered Disability Savings Plan (RDSP) | Canada · Federal | Savings plan | Overview, grants, and bonds available in the RDSP for eligible Canadians with disabilities | https://www.canada.ca/en/employment-social-development/programs/disability/savings.html |
@@ -1728,6 +1730,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | First Home Savings Account (FHSA) | Canada · Federal | Account | Tax-free registered savings account for first-time home buyers, up to $40,000 lifetime | https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html |
 | Government of Canada Financial Tools and Calculators | Canada · Federal | Calculator hub | Big collection of practical calculators for budgeting, mortgages, loans, credit cards, and retirement | https://www.canada.ca/en/services/finance/tools.html |
 | Home Buyers' Plan (HBP) — RRSP Withdrawal | Canada · Federal | Program | Withdraw up to $60,000 tax-free from RRSPs toward a first home — rules and repayment | https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html |
+| Statistics Canada — Canadian Housing Statistics Program (CHSP) | Canada · Federal | Statistical program | StatsCan residential property database covering properties and owners across provinces and territories: non-resident ownership, financing, and property characteristics built from land registries, assessment rolls, and tax data. | https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5257 |
 | Canada Lands Company — Property Portfolio | Canada · Crown Corp | Real estate | Surplus federal properties and lands available for redevelopment | https://www.clc.ca/ |
 | CMHC — Mortgage Calculator | Canada · Crown Corp | Calculator | Official mortgage payment, amortization, and affordability calculator from CMHC | https://www.cmhc-schl.gc.ca/consumers/home-buying/calculators |
 | CMHC Housing Affordability Tracker | Canada · Crown Corp | Housing tool | Monitor housing affordability across Canadian markets | https://www.cmhc-schl.gc.ca/ |
@@ -2548,6 +2551,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Canada Research Chairs — Chairholders Database | Canada · Federal | Expert directory | Find any of roughly 2,000 Canada Research Chairs by name, institution, discipline or province and read their research profiles to locate an expert. | https://www.chairs-chaires.gc.ca/chairholders-titulaires/index-eng.aspx |
+| Canadian Artificial Intelligence Safety Institute (CAISI) | Canada · Federal | Research institute | Federal AI safety institute under ISED: research on AI safety risks and mitigations, model evaluations, and international coordination as a founding member of the International Network of AI Safety Institutes. | https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute |
 | Canadian Astronomy Data Centre | Canada · Federal | Research data portal | NRC's open archive and science platform for astronomy data from Hubble, Gemini, CFHT, JCMT and other telescopes — petabytes of data served to astronomers worldwide. | https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/ |
 | Canadian Space Agency | Canada · Federal | Science portal | Missions, astronauts, educational material, media, and space updates | https://www.asc-csa.gc.ca/eng/ |
 | Canadian Space Agency — Mission Tracker | Canada · Federal | Tracker | Current and upcoming CSA-supported satellite missions, astronauts, and science payloads | https://www.asc-csa.gc.ca/eng/missions/ |

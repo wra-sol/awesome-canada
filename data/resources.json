@@ -28973,5 +28973,73 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Canadian Artificial Intelligence Safety Institute (CAISI)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research institute",
+    "description": "Federal AI safety institute under ISED: research on AI safety risks and mitigations, model evaluations, and international coordination as a founding member of the International Network of AI Safety Institutes.",
+    "url": "https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute",
+    "tags": [
+      "federal",
+      "artificial intelligence",
+      "AI safety",
+      "research",
+      "ISED"
+    ],
+    "dateAdded": "2026-09-25"
+  },
+  {
+    "name": "Canada Disability Benefit — Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Benefit",
+    "description": "Monthly income-tested federal benefit (up to $2,400/year) for working-age Canadians with disabilities approved for the Disability Tax Credit; apply online, by phone, in person at a Service Canada centre, or by printed form.",
+    "url": "https://www.canada.ca/en/services/benefits/disability/canada-disability-benefit/apply.html",
+    "tags": [
+      "federal",
+      "disability",
+      "income support",
+      "DTC",
+      "Service Canada"
+    ],
+    "dateAdded": "2026-09-25"
+  },
+  {
+    "name": "National School Food Program",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Program",
+    "description": "Federal $1 billion/5-year program (enshrined in the National School Food Program Act, 2026) working with provinces, territories and Indigenous partners to expand school meal programs to up to 400,000 more kids per year.",
+    "url": "https://www.canada.ca/en/employment-social-development/programs/school-food.html",
+    "tags": [
+      "federal",
+      "children",
+      "food security",
+      "schools",
+      "ESDC"
+    ],
+    "dateAdded": "2026-09-25"
+  },
+  {
+    "name": "Statistics Canada — Canadian Housing Statistics Program (CHSP)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Statistical program",
+    "description": "StatsCan residential property database covering properties and owners across provinces and territories: non-resident ownership, financing, and property characteristics built from land registries, assessment rolls, and tax data.",
+    "url": "https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5257",
+    "tags": [
+      "federal",
+      "housing",
+      "statistics",
+      "property",
+      "StatCan"
+    ],
+    "dateAdded": "2026-09-25"
   }
 ]
