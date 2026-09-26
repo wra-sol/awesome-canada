@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1888 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1889 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -28,7 +28,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 213
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 138
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
 - [🪪 Government Services & ID](#government-services-and-id) — 45
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
@@ -737,6 +737,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Budget Publications | Ontario · Provincial | Budget publications | Current and archived Ontario Budgets in HTML chapters and PDF: economic and fiscal outlook, revenue/expense tables, capital plan, borrowing and debt management strategy. | https://budget.ontario.ca/ |
 | Ontario Public Accounts — Schedule of Payments | Ontario · Provincial | Vendor payments | Detailed schedule of provincial payments to vendors and transfer recipients by ministry — annual CSV downloads in English and French. | https://data.ontario.ca/dataset/public-accounts-detailed-schedule-of-payments |
 | Ontario Public Sector Salary Disclosure | Ontario · Provincial | Salary disclosure | Searchable and downloadable public sector salary disclosure (Sunshine List) for Ontario employees earning over $100,000 — filter by organization, position, and year | https://www.ontario.ca/page/public-sector-salary-disclosure |
+| What in the Tax? — Property-Tax Receipt Guide | Ontario · Provincial | Property-tax receipt guide | Evidence-first resident guide to where property-tax dollars go in Ontario municipalities. Rebuilds each levy and its spending from the province's own Financial Information Return filings, byte-for-byte from hash-locked official files in CI; six municipalities additionally carry hand-built draft receipts traced to budget books and tax by-laws. Free, independent, not government-affiliated. | https://whatinthetax.com/ |
 | Brantford Budget and Finance | Brantford · Municipal | Budget documents | Download City of Brantford annual operating and capital budgets (2024-2026), multi-year budget plans, budget summaries, and the mayor's budget messages as direct PDFs. Includes capital budget summary and net operating budget breakdowns — useful for fiscal accountability and tracking spending priorities in Brantford, Ontario. | https://www.brantford.ca/your-government/city-budget/ |
 | Burlington — OpenBook Budget Explorer (Questica) | Burlington · Municipal | Budget transparency portal | Interactive Questica OpenBook budget transparency portal for Burlington — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected). | https://burlington.openbook.questica.com/ |
 | Cambridge — OpenBook Budget Explorer (Questica) | Cambridge · Municipal | Budget transparency portal | Interactive Questica OpenBook budget transparency portal for Cambridge — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected). | https://cambridge.openbook.questica.com/ |

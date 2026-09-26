@@ -29247,5 +29247,26 @@
    "no signup"
   ],
   "dateAdded": "2026-09-26"
+ },
+ {
+  "name": "What in the Tax? — Property-Tax Receipt Guide",
+  "level": "Provincial",
+  "jurisdiction": "Ontario",
+  "category": "budget",
+  "type": "Property-tax receipt guide",
+  "description": "Evidence-first resident guide to where property-tax dollars go in Ontario municipalities. Rebuilds each levy and its spending from the province's own Financial Information Return filings, byte-for-byte from hash-locked official files in CI; six municipalities additionally carry hand-built draft receipts traced to budget books and tax by-laws. Free, independent, not government-affiliated.",
+  "url": "https://whatinthetax.com/",
+  "tags": [
+   "property tax",
+   "budget",
+   "finance",
+   "open data",
+   "municipal finance",
+   "ontario",
+   "transparency",
+   "civic tech",
+   "independent"
+  ],
+  "dateAdded": "2026-09-26"
  }
 ]
