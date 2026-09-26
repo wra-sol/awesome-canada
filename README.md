@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1902 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1903 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 214
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 138
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 139
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
 - [🪪 Government Services & ID](#government-services-and-id) — 47
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
@@ -550,6 +550,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| IPC Transparency Showcase 3.0 | Ontario · Agency | Transparency showcase | 3D gallery from the Information and Privacy Commissioner of Ontario showcasing real open-data, access-to-information and transparency projects from municipalities, ministries, hospitals, universities and police services — browse working examples of how Ontario public institutions open their data. | https://transparencyshowcase.ipc.on.ca |
 | Region of Waterloo Council Meetings | Waterloo · Regional | Regional council meetings | Regional Municipality of Waterloo council and committee agendas, minutes, and webcasts. | https://www.regionofwaterloo.ca/government-and-council/council/ |
 | Barrie Council Meeting Video Archive | Barrie · Municipal | Video archive | Official YouTube channel archiving City of Barrie Council, General Committee, Finance & Responsible Governance, Infrastructure, and Affordability Committee meeting recordings, posted regularly through 2026. Full-length videos searchable by date — complements the existing eScribe agendas portal for tracking votes and debates. | https://www.youtube.com/@cityofbarrie |
 | Barrie Council Meetings — eScribe | Barrie · Municipal | Council meetings portal | Barrie City Council and committee agendas, minutes, and attachments on the public eScribe portal. | https://pub-barrie.escribemeetings.com/ |
