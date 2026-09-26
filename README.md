@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1889 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1890 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -28,7 +28,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 213
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 138
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
 - [🪪 Government Services & ID](#government-services-and-id) — 45
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
@@ -690,6 +690,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Calgary Open Budget | Calgary · Municipal | Budget open data | Approved operating and capital budget lines for the City of Calgary — filter by department, fund, and year with CSV/API export from Open Calgary. | https://data.calgary.ca/Government/Calgary-Open-Budget/fqax-i3nz |
 | Edmonton Approved Operating Budget — Expenses | Edmonton · Municipal | Budget dataset | Machine-readable approved operating budget expense lines by branch and service — download CSV or query Socrata API. | https://data.edmonton.ca/Financial/Approved-Operating-Budget-Expenses/da9s-v9j8 |
 | Edmonton Open Budget | Edmonton · Municipal | Budget dashboard | Interactive operating and capital budget explorer for City of Edmonton with revenues, expenditures, and year-over-year comparisons. | https://budget.edmonton.ca/ |
+| edmonton-tax-viz — Revenue-per-Acre Property Tax Map | Edmonton · Municipal | Tax visualization | Interactive map of where Edmonton property-tax revenue comes from and what services cost per acre, per neighbourhood — built from 440,000 open property-assessment records plus fire, road, and utility data. Methodology notebooks published; modelled figures labelled as modelled, not billed. Free, independent civic-data research. | https://peterfriedrich.github.io/edmonton-tax-viz/ |
 | Grande Prairie — Open Budget | Grande Prairie · Municipal | Budget open data | Interactive ArcGIS Hub portal for City of Grande Prairie budget and financial data. Explore revenue and expenditures by service area and department with CSV download, dashboards, and archive of multi-year budget highlights. | https://openbudget-cityofgp.hub.arcgis.com/ |
 | Medicine Hat — Budget & Financial Plans | Medicine Hat · Municipal | Budget documents | Direct PDF downloads of Medicine Hat budget briefings, highlights, business plans, and financial updates (2023–2026). Useful for analyzing municipal spending priorities, service levels, and fiscal health in this Alberta mid-size city. | https://www.medicinehat.ca/government-city-hall/budgets-finance/budget-information/ |
 | Okotoks — Financial Statements | Okotoks · Municipal | Financial statements | Direct PDF downloads of Town of Okotoks audited consolidated financial statements from 2021 to 2025. Includes statement of financial position, operations, remeasurement gains and losses, and cash flows in accordance with Canadian public sector accounting standards. | https://www.okotoks.ca/your-government/budget/financial-statements |

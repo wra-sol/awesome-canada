@@ -29268,5 +29268,26 @@
    "independent"
   ],
   "dateAdded": "2026-09-26"
+ },
+ {
+  "name": "edmonton-tax-viz — Revenue-per-Acre Property Tax Map",
+  "level": "Municipal",
+  "jurisdiction": "Edmonton",
+  "category": "budget",
+  "type": "Tax visualization",
+  "description": "Interactive map of where Edmonton property-tax revenue comes from and what services cost per acre, per neighbourhood — built from 440,000 open property-assessment records plus fire, road, and utility data. Methodology notebooks published; modelled figures labelled as modelled, not billed. Free, independent civic-data research.",
+  "url": "https://peterfriedrich.github.io/edmonton-tax-viz/",
+  "tags": [
+   "property tax",
+   "budget",
+   "revenue per acre",
+   "open data",
+   "edmonton",
+   "civic tech",
+   "urbanism",
+   "visualization",
+   "independent"
+  ],
+  "dateAdded": "2026-09-26"
  }
 ]
