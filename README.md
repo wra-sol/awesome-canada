@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1890 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1899 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,19 +25,19 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 213
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 214
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 138
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
-- [🪪 Government Services & ID](#government-services-and-id) — 45
+- [🪪 Government Services & ID](#government-services-and-id) — 47
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
-- [🏢 Business & Procurement](#business-and-procurement) — 49
-- [💼 Employment & Labour](#employment-and-labour) — 39
+- [🏢 Business & Procurement](#business-and-procurement) — 50
+- [💼 Employment & Labour](#employment-and-labour) — 40
 - [🎓 Education & Student Aid](#education-and-student-aid) — 26
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 31
-- [🩺 Health & Wellness](#health-and-wellness) — 61
+- [🩺 Health & Wellness](#health-and-wellness) — 64
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 32
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 40
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 74
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 75
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 23
 
 ---
@@ -284,6 +284,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | GeoNB Data Catalogue | New Brunswick · Provincial | Open data catalogue | Download provincial spatial datasets — civic addresses, property maps, road network, wetlands, electoral districts, schools, lidar, orthoimagery — as SHP, FGDB, KML or ArcGIS REST services. | https://www.gnb.ca/en/campaign/geonb/data-catalogue.html |
 | New Brunswick — GeoNB ArcGIS REST Services | New Brunswick · Provincial | GIS web services | Province-wide ArcGIS REST map and feature services from the GeoNB geospatial hub — query layers for geology, environment, boundaries and land use in JSON, GeoJSON and KML. | https://gis-erd-der.gnb.ca/server/rest/services |
 | New Brunswick — GeoNB Map Viewer | New Brunswick · Provincial | Interactive map | Interactive provincial geospatial map viewer for New Brunswick. Explore layers from multiple departments including natural resources, environment, local government, and public safety. Useful for property research, land use planning, and environmental assessment. | https://geonb.snb.ca |
+| New Brunswick Open Data Portal | New Brunswick · Provincial | Open data portal | Province of New Brunswick's Socrata-based open data portal with browsable, downloadable civic datasets; distinct from the GeoNB geospatial viewer. | https://gnb.socrata.com/ |
 | Newfoundland and Labrador — Municipalities and Local Service Districts | Newfoundland and Labrador · Provincial | Dataset | Spatial dataset of all municipalities and local service districts in Newfoundland and Labrador. Downloadable as KMZ and compressed Shapefile for mapping municipal boundaries, service planning, and jurisdictional analysis. | https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=265 |
 | Newfoundland and Labrador — Provincial Electoral Districts (2015) | Newfoundland and Labrador · Provincial | Dataset | Spatial dataset of Newfoundland and Labrador’s provincial electoral district boundaries (2015). Includes line and polygon shapefiles for electoral mapping, boundary analysis, and demographic research. | https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=361 |
 | Newfoundland and Labrador Geospatial Open Data | Newfoundland and Labrador · Provincial | Provincial geospatial catalogue | NL provincial geospatial datasets — municipal boundaries, health regions, and spatial layers in KML, shapefile, and other formats. | https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasets-spatial |
@@ -834,6 +835,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | GC Notify | Canada · Federal | Notification service | Government of Canada notification service for sending emails and text messages to users — built by Canadian Digital Service | https://notification.canada.ca/ |
 | GCcollab | Canada · Federal | Collaboration platform | Government of Canada's professional networking and collaboration platform for public servants and external partners to share knowledge and work together | https://gccollab.ca/ |
 | GCKey — Federal Sign-In Service | Canada · Federal | Authentication | Unified credential used to access many Government of Canada online services | https://clegc-gckey.gc.ca/ |
+| Government of Canada AI Register | Canada · Federal | Registry | Treasury Board public register (Nov 2025) documenting 400+ AI systems in use across 42 federal institutions, with purpose, use case, and build/buy details for each. | https://open.canada.ca/data/en/dataset/fcbc0200-79ba-4fa4-94a6-00e32facea6b |
 | Government of Canada Employee Directory (GEDS) | Canada · Federal | Directory | Government of Canada Employee Directory (GEDS) — search for federal public servant contact information and organizational structure. | https://geds-sage.gc.ca/en/GEDS?pgid=002 |
 | My Service Canada Account (MSCA) | Canada · Federal | Secure portal | Sign in to view EI, CPP, OAS, ROE, and access most federal individual services in one place | https://www.canada.ca/en/employment-social-development/services/my-account.html |
 | NEXUS — Trusted Traveller Program | Canada · Federal | Service | Apply for expedited border crossing between Canada and the US at land, air, and marine entries | https://www.cbsa-asfc.gc.ca/prog/nexus/menu-eng.html |
@@ -881,6 +883,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario — Find Licensed Child Care | Ontario · Provincial | Search tool | Ministry of Education registry: search licensed child care centres and home child care agencies by location, age group, language or name; see licence details, inspection reports and violations. | https://www.earlyyears.edu.gov.on.ca/LCCWWeb/childcare/search.xhtml?lang=en |
 | Ontario Online Certificate Application | Ontario · Provincial | Document ordering | Office of the Registrar General's online application to order Ontario birth, marriage, and death certificates, certified registration copies, and birth search letters, including replacement and sex-designation options. | https://services.ontario.ca/oca-web/main |
 | Ontario.ca Developer Hub | Ontario · Provincial | Developer portal | Ontario government developer hub with APIs, technical documentation, and code samples for building digital services | https://developer.ontario.ca/ |
+| Ontario.ca Login | Ontario · Provincial | Single sign-on | Ontario's single sign-on account and dashboard connecting citizens' government service accounts (replacing ONe-Key/ServiceOntario accounts) in one place. | https://www.ontario.ca/page/access-multiple-government-accounts-ontarioca-login |
 | ServiceOntario | Ontario · Provincial | Service portal | Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services | https://www.ontario.ca/page/serviceontario |
 | Brampton budget / Open Book resources | Brampton · Municipal | Transparency / budget | Budget transparency resources and project-oriented views | https://www.brampton.ca/EN/City-Hall/budget/ |
 | Guelph — Report a Problem Map | Guelph · Municipal | Service request map | Submit 311-style service requests (potholes, garbage, bylaw issues) on an interactive map with photos and get updates on the City's response. | https://experience.arcgis.com/experience/aa79df9526ab4c99914adc950eca9141 |
@@ -1119,6 +1122,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Ontario Business Account | Ontario · Provincial | Service portal | Single dashboard (launched Feb 2026) for Ontario businesses to register, link their Ontario Business Registry profile, manage filings, and see all government messages in one place. | https://www.ontario.ca/page/ontario-business-account |
 | Ontario Business Registry | Ontario · Provincial | Business registry | Register, search, and manage Ontario business names, corporations, and partnerships online | https://www.ontario.ca/page/ontario-business-registry |
 
 ### Quebec
@@ -1165,6 +1169,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Job Bank Canada — Wage Search | Canada · Federal | Wage comparison | Compare wages by occupation and location across Canada | https://www.jobbank.gc.ca/trend-analysis/search-wages |
 | Red Seal Program — Skilled Trades | Canada · Federal | Certification | National Red Seal standard for skilled trades — occupation list, exams, and recognized trades | https://red-seal.ca/ |
 | Service Canada — Wage Earner Protection Program Application | Canada · Federal | Apply online | Apply online within 56 days for up to $9,275 (2026) in unpaid wages, vacation pay and severance owed when an employer goes bankrupt or into receivership; eligibility and payment details. | https://www.canada.ca/en/employment-social-development/services/wage-earner-protection/employee.html |
+| Skilled Trades (Canada.ca) | Canada · Federal | Career hub | Federal hub for skilled-trades careers, consolidating youth placements, the Build Canada Apprenticeship Service, apprenticeship grants, and Red Seal digitization. | https://www.canada.ca/en/employment-social-development/campaigns/skilled-trades.html |
 
 ### British Columbia
 
@@ -1475,7 +1480,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | 9-8-8 Suicide Crisis Helpline | Canada · Federal | Crisis helpline | National 24/7 suicide crisis helpline (call or text 9-8-8, English/French), coordinated by CAMH and funded by the Government of Canada through the Public Health Agency of Canada. | https://988.ca |
 | Canada Health Infoway | Canada · Federal | Digital health | Digital health projects, pan-Canadian health data standards, and connected care resources | https://www.infoway-inforoute.ca/ |
 | Canada.ca — Drug Shortages Canada | Canada · Federal | Database | Search the official database of reported and resolved drug shortages and discontinuations | https://www.drugshortagescanada.ca/ |
+| Canada's Clinical Trials Search Portal | Canada · Federal | Search portal | Health Canada portal (launched July 2026, replacing the former Clinical Trials Database) to search authorized drug trials by condition, product, status, sponsor, or approval date, with links to international registries. | https://www.canada.ca/en/health-canada/services/drugs-health-products/clinical-trials/search-portal.html |
 | Canada's Food Guide | Canada · Federal | Reference | Evidence-based food guidance, recipes, and meal planning from Health Canada | https://food-guide.canada.ca/en/ |
+| Canadian Drug and Substance Watch | Canada · Federal | Early-warning page | Health Canada's early-warning surveillance page tracking emerging toxic illegal drugs and substances circulating in Canada's drug supply. | https://health-infobase.canada.ca/canadian-drug-and-substance-watch/ |
 | Canadian Institute for Health Information (CIHI) | Canada · Federal | Health data | Independent, not-for-profit organization providing essential health data and information to inform policy, research, and system improvement across Canada | https://www.cihi.ca/en |
 | Drug Product Database | Canada · Federal | Search database | Search approved drug products in Canada | https://health-products.canada.ca/dpd-bdpp/ |
 | FluWatch — National Influenza Surveillance | Canada · Federal | Surveillance | National influenza surveillance program tracking flu activity across Canada | https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html |
@@ -1490,6 +1497,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Licensed Natural Health Products Database (LNHPD) | Canada · Federal | Product database | Search licensed Canadian natural health products — vitamins, herbals, homeopathics — by product name, licence holder, or NPN number. | https://health-products.canada.ca/lnhpd-bdpsnh/?lang=eng |
 | MedEffect Canada — Adverse Reaction Reporting | Canada · Federal | Reporting | Report and search adverse reactions to health products overseen by Health Canada | https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html |
 | Medical Devices Active Licence Listing (MDALL) | Canada · Federal | Licence search | Health Canada's public register of all medical devices licensed for sale in Canada, searchable by company, device name, licence number or device identifier. | https://health-products.canada.ca/mdall-limh/ |
+| National Wastewater Drug Surveillance (NWDS) Dashboard | Canada · Federal | Dashboard | Health Canada dashboard (launched Dec 2025) publishing quarterly wastewater testing data on 500+ substances, including opioids and precursor chemicals, to inform overdose-crisis response. | https://health-infobase.canada.ca/substances/wastewater/ |
 | PHAC — Canadian Chronic Disease Surveillance System | Canada · Federal | Data tool | Chart incidence and prevalence for 20+ chronic conditions by province, age and sex from 2000 onward; download custom tables from the data tool. | https://health-infobase.canada.ca/ccdss/data-tool/ |
 | PHAC — Health of People in Canada Dashboard | Canada · Federal | Dashboard | Explore 50+ population-health indicators (life expectancy, chronic disease, substance use, social factors) with maps and trends; download the dashboard CSV. | https://health-infobase.canada.ca/health-of-people-in-canada-dashboard/ |
 | PHAC — Notifiable Diseases On-Line | Canada · Federal | Surveillance database | Explore annual counts and rates of nationally notifiable infectious diseases back to 1924; build custom charts and export results as CSV or Excel. | https://diseases.canada.ca/notifiable/ |
@@ -3275,6 +3283,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | AI Consultation Deadlines Canada | Canada · Federal | Consultations | Public tracker of every federal channel through which Canadians can shape AI governance: public consultations, parliamentary calls for briefs, Canada Gazette comment periods, funding and research calls, national-standard reviews and e-petitions. Each item carries a plain-language summary and a concrete way to participate; updated every Monday and Thursday; bilingual EN/FR; open source with RSS, iCalendar and JSON feeds. | https://donjguido.github.io/ai-consultation-deadlines-canada/ |
 | CivicEngage — Find Your Elected Representatives | Canada · Federal | Lookup tool | Enter a Canadian address and instantly find every elected representative — MP, MPP/MLA and municipal councillor — with email and phone plus one-click message drafting. No account, no signup, no data collected. Built by one Ontario developer and open source; representative data via OpenNorth's Represent API; also summarizes Burlington city council meeting minutes. | https://civicengagement.ca/ |
+| Consulting with Canadians | Canada · Federal | Consultations | The Government of Canada's central listing of active federal public consultations, where anyone can find and participate in consultations across departments. | https://www.canada.ca/en/government/system/consultations.html |
 | Elections Canada — Federal Electoral Districts Boundary Files (2023) | Canada · Federal | GIS dataset | Download digital boundary files (shapefile, KMZ, GDB) of the 343 federal electoral districts proclaimed by the 2023 Representation Order. | https://open.canada.ca/data/en/dataset/18bf3ea7-1940-46ec-af52-9ba3f77ed708 |
 | Elections Canada — Interactive Data Visualizer (2023 Representation Orders) | Canada · Federal | Data dashboard | Explore how 2021 federal election results transpose onto the 343 electoral districts of the 2023 representation orders — estimated seat distribution by party, province and territory, with CSV export. | https://www.elections.ca/content.aspx?dir=rep%2Ftra%2F2023viz&document=index&lang=e&section=res |
 | Elections Canada — Political Contributions Search | Canada · Federal | Contributions database | Searchable database of contributions to federal political parties, riding associations, and candidates — donor names, amounts, and dates, as reviewed by Elections Canada. | https://www.elections.ca/wpapps/WPF/EN/CCS/Index?returntype=1 |
