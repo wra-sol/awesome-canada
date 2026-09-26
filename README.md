@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1899 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1900 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -34,7 +34,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 50
 - [💼 Employment & Labour](#employment-and-labour) — 40
-- [🎓 Education & Student Aid](#education-and-student-aid) — 26
+- [🎓 Education & Student Aid](#education-and-student-aid) — 27
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 31
 - [🩺 Health & Wellness](#health-and-wellness) — 64
@@ -1238,6 +1238,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Canada Student Loans and Grants | Canada · Federal | Financial aid | Apply for federal student loans and grants, manage your loan, and explore repayment assistance options | https://www.canada.ca/en/services/benefits/education/student-aid.html |
+| PoliTalks — CIVIX Case Studies | Canada · Federal | Civic education resource | Free bilingual (EN/FR) library of case studies on Canadian political and social issues — voting age, pipelines, social media regulation, healthcare privatization — for classroom discussion, with protocols from CIVIX's non-partisan Constructive Discussions guide. Run by CIVIX, a non-partisan registered charity. | https://politalks.ca/case-studies/ |
 
 ### British Columbia
 
