@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1877 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1885 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -30,23 +30,23 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 138
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
 - [🪪 Government Services & ID](#government-services-and-id) — 45
-- [💰 Taxes & Revenue](#taxes-and-revenue) — 29
+- [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
-- [🏢 Business & Procurement](#business-and-procurement) — 48
+- [🏢 Business & Procurement](#business-and-procurement) — 49
 - [💼 Employment & Labour](#employment-and-labour) — 39
 - [🎓 Education & Student Aid](#education-and-student-aid) — 26
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 29
-- [🩺 Health & Wellness](#health-and-wellness) — 60
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 31
+- [🩺 Health & Wellness](#health-and-wellness) — 61
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 32
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 38
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 39
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 43
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 69
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 70
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 79
-- [🌦️ Weather & Climate](#weather-and-climate) — 25
+- [🌦️ Weather & Climate](#weather-and-climate) — 26
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
@@ -72,7 +72,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Database of Geochemical Surveys (CDoGS) | Canada · Federal | Survey database | Catalogue of 1,600+ regional geochemical surveys across Canada with standardized raw analytical data downloads as spreadsheets, KML maps and WMS, plus element search. | https://geochem.nrcan.gc.ca/cdogs/content/main/home_en.htm |
 | Canadian Geographical Names Database Search | Canada · Federal | Lookup tool | Query nearly 350,000 official Canadian place names by name, coordinates or area, with API access and downloadable datasets, maintained by NRCan. | https://geonames.nrcan.gc.ca/search-place-names/search |
 | Canadian Heritage — Grants and Contributions Search | Canada · Federal | Funding database | Search 138,000+ Canadian Heritage grant/contribution agreements by recipient, program, value, year and province; whole dataset also downloadable as CSV. | https://search.open.canada.ca/grants?owner_org=pch |
-| Census Program | Canada · Federal | Census portal | Census profiles, maps, and reference materials | https://www12.statcan.gc.ca/census-recensement/index-eng.cfm |
+| Census Program | Canada · Federal | Census portal | StatCan Census portal: 2026 Census (collection completed September 2026, 98.4% response), profiles, maps and reference materials; 2026 reference and geographic products from November 2026, full data releases through 2027. | https://www12.statcan.gc.ca/census-recensement/index-eng.cfm |
 | EODMS — Earth Observation Data Management System | Canada · Federal | Imagery search | Search and order from NRCan's archive of satellite imagery and the National Air Photo Library — over 3 million historical aerial photos of Canada dating to the 1920s, with footprints on a map. | https://eodms-sgdot.nrcan-rncan.gc.ca/index-en.html |
 | GC API Store | Canada · Federal | API catalogue | Discover and try Government of Canada APIs in one catalogue, with documentation and self-serve access for building apps on government data and services. | https://api.canada.ca/en/homepage |
 | GEO.ca | Canada · Federal | Geospatial portal | Canada's federal geospatial data portal, providing open access to authoritative geospatial information, maps, and datasets from federal sources. | https://geo.ca/ |
@@ -922,6 +922,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CRA — My Account for Individuals | Canada · Federal | Secure portal | View tax returns, refunds, RRSP/TFSA room, CCB payments, and direct-deposit settings | https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/account-individuals.html |
 | CRA — NETFILE Certified Software List | Canada · Federal | Finder | Annual list of CRA-certified software (including free options) for filing personal taxes online | https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/netfile-overview/certified-software-netfile-program.html |
 | CRA — Payroll Deductions Online Calculator (PDOC) | Canada · Federal | Calculator | Official calculator for payroll CPP, EI, and federal/provincial income tax deductions | https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html |
+| CRA SimpleFile Digital | Canada · Federal | Free filing service | CRA's free online filing service where lower-income Canadians with simple tax situations answer a few questions and the CRA completes the return; deemed-filing pilot launching fall 2026. | https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/how-file/simplefile/digital.html |
 | Report on Federal Tax Expenditures — Data Tables | Canada · Federal | Dataset | Fiscal-cost estimates and projections across ~400 federal tax measures (personal, corporate, GST), downloadable as CSV and XLSX data tables. | https://open.canada.ca/data/en/dataset/0849a2c8-e65f-4874-a978-952029f39c11 |
 | Taxpayers' Ombudsperson | Canada · Agency | Ombudsman | Independent review of complaints about CRA service and taxpayer rights | https://www.canada.ca/en/taxpayers-ombudsperson.html |
 
@@ -1078,6 +1079,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | MERX — Canadian Procurement Platform | Canada · Federal | Procurement | Canada's largest electronic procurement platform — access federal, provincial, and municipal tender notices across all industries | https://www.merx.com/ |
 | OSB — Bankruptcy and Insolvency Records Search | Canada · Federal | Searchable records database | Search every bankruptcy and proposal filed in Canada since 1978, receiverships since 1993, and CCAA records (free); other searches cost $8 per name. | https://www.ic.gc.ca/app/scr/bsf-osb/ins/login.html |
 | OSB — Licensed Insolvency Trustee Registry | Canada · Federal | Licence registry | Look up every Licensed Insolvency Trustee in Canada — active, semi-active, and inactive — to verify a trustee's licence before engaging them. | https://www.ic.gc.ca/app/scr/tds/web/complete |
+| Regional Tariff Response Initiative | Canada · Federal | SME relief program | Federal program (expanded to ~$2.5B, intake open through December 2028) delivered by regional development agencies offering liquidity and pivot funding to SMEs hit by U.S. and China tariffs. | https://ised-isde.canada.ca/site/ised/en/regional-tariff-response-initiative |
 | Statistics Canada — Canadian International Merchandise Trade Web App | Canada · Federal | Interactive data application | Explore monthly Canadian import and export data by HS commodity code, trading partner, and province, with charts, time series, and top-25 commodity rankings. | https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm |
 | Canadian Commercial Corporation — Government Procurement | Canada · Crown Corp | Procurement | Procurement tools for businesses selling to governments domestically and internationally | https://www.ccc.ca/ |
 | Defence Construction Canada | Canada · Crown Corp | Procurement | Defence construction contracting and project management | https://www.dcc-cdc.gc.ca/ |
@@ -1392,6 +1394,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Express Entry — Create an Express Entry Profile | Canada · Federal | Service | Submit your Express Entry profile online to be entered into the pool of candidates for Canada's primary economic immigration programs | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile.html |
 | Express Entry — Eligibility Checker | Canada · Federal | Eligibility tool | Find out if you're eligible for Express Entry under the Federal Skilled Worker, Federal Skilled Trades, or Canadian Experience Class programs | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility.html |
+| Francophone Community Immigration Pilot | Canada · Federal | Immigration pilot | IRCC 2025 pilot offering a path to permanent residence for French-speaking skilled workers settling in Francophone minority communities outside Quebec. | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility.html |
 | Immigration, Refugees and Citizenship Canada — Come to Canada Tool | Canada · Federal | Eligibility tool | Answer two questions to get a personalized list of immigration programs you may be eligible for, with a personal reference code | https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html |
 | IRCC — Application Processing Times | Canada · Federal | Reference | Official processing times for PR, citizenship, visas, work/study permits updated weekly | https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html |
 | IRCC — Asylum Claimants Monthly Open Data | Canada · Federal | Open data | Monthly IRCC open data on asylum claimants by claim office type, province/territory of claim, age, gender and top countries of citizenship — updated monthly in CSV/XLSX tables. | https://open.canada.ca/data/en/dataset/b6cbcf4d-f763-4924-a2fb-8cc4a06e3de4 |
@@ -1405,6 +1408,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | IRCC — Study Permit Application | Canada · Federal | Service | Apply for a Canadian study permit and access designated-learning institution list | https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html |
 | IRCC — TFWP & IMP Work Permit Holders Monthly Open Data | Canada · Federal | Open data | Monthly IRCC open data on Temporary Foreign Worker Program and International Mobility Program work permit holders by province/territory, occupation, gender, and country of citizenship — updated monthly. | https://open.canada.ca/data/en/dataset/360024f2-17e9-4558-bfc1-3616485d65b9 |
 | Pier 21 — Passenger List Database | Canada · Federal | Lookup tool | Searchable, sortable index of 100,000+ passenger arrivals at Pier 21 (1928–1971 gateway era): name, honourific, departure date and ship, for genealogy and immigration-history research. | https://pier21.ca/immigration-records/passenger-list-database |
+| Rural Community Immigration Pilot | Canada · Federal | Immigration pilot | IRCC five-year pilot (2025) offering a path to permanent residence for skilled workers with job offers from designated employers in participating rural communities. | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility.html |
 
 ### British Columbia
 
@@ -1466,6 +1470,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| 9-8-8 Suicide Crisis Helpline | Canada · Federal | Crisis helpline | National 24/7 suicide crisis helpline (call or text 9-8-8, English/French), coordinated by CAMH and funded by the Government of Canada through the Public Health Agency of Canada. | https://988.ca |
 | Canada Health Infoway | Canada · Federal | Digital health | Digital health projects, pan-Canadian health data standards, and connected care resources | https://www.infoway-inforoute.ca/ |
 | Canada.ca — Drug Shortages Canada | Canada · Federal | Database | Search the official database of reported and resolved drug shortages and discontinuations | https://www.drugshortagescanada.ca/ |
 | Canada's Food Guide | Canada · Federal | Reference | Evidence-based food guidance, recipes, and meal planning from Health Canada | https://food-guide.canada.ca/en/ |
@@ -1723,6 +1728,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Build Canada Homes | Canada · Federal | Federal housing agency | New federal agency (launched September 2025, $13B capitalized) building and financing affordable housing at scale on federal lands; national proposal submission portal for developers and non-profits. | https://www.bch-mc.ca/ |
 | CMHC — Household Characteristics and Core Housing Need Tables | Canada · Federal | Data tables | Download Excel tables on core housing need, tenure, income and household type for Canada, provinces, territories and CMAs. | https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables/household-characteristics |
 | CMHC — Housing Accelerator Fund Progress Report | Canada · Federal | Dashboard | See HAF funding, permit targets and incented units by province and community in an interactive progress report (through March 2026). | https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/funding-programs/all-funding-programs/housing-accelerator-fund/housing-accelerator-fund-rounds-data |
 | CMHC — Housing Market Information Portal | Canada · Federal | Data portal | Free CMHC housing data for any geography from national to neighbourhood: starts, completions, under construction, vacancy rates and rents as tables, maps and comparisons. | https://www.cmhc-schl.gc.ca/hmiportal |
@@ -2074,6 +2080,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canada Strong Pass | Canada · Federal | National pass program | Federal pass (no signup needed) giving free or discounted admission to national parks, national historic sites, national museums and VIA Rail for youth and young adults; renewed for summer 2026 after its 2025 launch. | https://www.canada.ca/en/canadian-heritage/campaigns/canada-pass/about.html |
 | Aulavik National Park | Parks Canada · Federal | National park | Northwest Territories, Banks Island, Muskoxen, world's lowest elevation point in Arctic | https://parks.canada.ca/aulavik |
 | Auyuittuq National Park | Parks Canada · Federal | National park | Baffin Island granite spires and glaciers — Arctic Circle wilderness | https://parks.canada.ca/auyuittuq |
 | Banff National Park | Parks Canada · Federal | National park | Canada's first national park, Rocky Mountain gateway with maps, trails, wildlife info | https://parks.canada.ca/banff |
@@ -2320,6 +2327,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Centre for Climate Services — Advanced Data Tools | Canada · Federal | OGC API | Query ECCC climate datasets programmatically via OGC API Features and WCS — daily climate data by station or year in CSV/GeoJSON, plus bulk access through the Datamart. | https://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services/display-download/advanced-tools.html |
 | Canadian Hurricane Centre | Canada · Federal | Forecast tool | Track maps, information statements and technical discussions for tropical and post-tropical cyclones threatening Canada, active June through November. | https://weather.gc.ca/hurricane/index_e.html |
 | Canadian Weather Radar — Interactive Map | Canada · Federal | Interactive map | Environment Canada's national radar mosaic — animated precipitation radar for the whole country on one interactive map, with rain/snow layers and station-level detail. | https://weather.gc.ca/index_e.html?layers=%2Cradar |
+| ECCC FireWork — Wildfire Smoke Forecasts | Canada · Federal | Smoke forecast maps | Environment and Climate Change Canada's official 72-hour wildfire smoke dispersion and PM2.5 forecast maps, feeding the Air Quality Health Index. | https://weather.gc.ca/firework/ |
 | MSC GeoMet — Weather and Climate API | Canada · Federal | Weather API | OGC API for Environment Canada weather, climate, and hydrometric layers — query forecasts, alerts, and station data programmatically. | https://api.weather.gc.ca/ |
 | Space Weather Canada | Canada · Federal | Forecast tool | Current conditions and short- and long-term forecasts of geomagnetic activity, aurora visibility, and solar and ionospheric data for Canadian regions. | https://www.spaceweather.gc.ca/index-en.php |
 | ClimateWest — Prairie Climate Data Hub | Canada · Agency | Climate services hub | Regional climate services hub for the three Prairie provinces: help desk for finding/using climate data, directory of Canadian climate data portals, sector guidance (agriculture, water, infrastructure, municipalities) and adaptation publications, case studies and training. | https://climatewest.ca/ |

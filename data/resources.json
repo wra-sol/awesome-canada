@@ -17140,12 +17140,16 @@
     "jurisdiction": "Canada",
     "category": "open-data",
     "type": "Census portal",
-    "description": "Census profiles, maps, and reference materials",
+    "description": "StatCan Census portal: 2026 Census (collection completed September 2026, 98.4% response), profiles, maps and reference materials; 2026 reference and geographic products from November 2026, full data releases through 2027.",
     "url": "https://www12.statcan.gc.ca/census-recensement/index-eng.cfm",
     "tags": [
       "census",
-      "demographics"
-    ]
+      "demographics",
+      "2026",
+      "open data",
+      "geography"
+    ],
+    "dateAdded": "2026-09-26"
   },
   {
     "name": "EODMS — Earth Observation Data Management System",
@@ -29040,5 +29044,143 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Build Canada Homes",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Federal housing agency",
+    "description": "New federal agency (launched September 2025, $13B capitalized) building and financing affordable housing at scale on federal lands; national proposal submission portal for developers and non-profits.",
+    "url": "https://www.bch-mc.ca/",
+    "tags": [
+      "federal",
+      "affordable housing",
+      "housing development",
+      "federal lands",
+      "proposal portal"
+    ],
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "Canada Strong Pass",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "parks",
+    "type": "National pass program",
+    "description": "Federal pass (no signup needed) giving free or discounted admission to national parks, national historic sites, national museums and VIA Rail for youth and young adults; renewed for summer 2026 after its 2025 launch.",
+    "url": "https://www.canada.ca/en/canadian-heritage/campaigns/canada-pass/about.html",
+    "tags": [
+      "federal",
+      "national parks",
+      "museums",
+      "VIA Rail",
+      "youth",
+      "discounts"
+    ],
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "Rural Community Immigration Pilot",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Immigration pilot",
+    "description": "IRCC five-year pilot (2025) offering a path to permanent residence for skilled workers with job offers from designated employers in participating rural communities.",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility.html",
+    "tags": [
+      "federal",
+      "immigration",
+      "permanent residence",
+      "rural communities",
+      "skilled workers"
+    ],
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "Francophone Community Immigration Pilot",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Immigration pilot",
+    "description": "IRCC 2025 pilot offering a path to permanent residence for French-speaking skilled workers settling in Francophone minority communities outside Quebec.",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility.html",
+    "tags": [
+      "federal",
+      "immigration",
+      "permanent residence",
+      "francophone",
+      "skilled workers"
+    ],
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "CRA SimpleFile Digital",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "taxes",
+    "type": "Free filing service",
+    "description": "CRA's free online filing service where lower-income Canadians with simple tax situations answer a few questions and the CRA completes the return; deemed-filing pilot launching fall 2026.",
+    "url": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/how-file/simplefile/digital.html",
+    "tags": [
+      "federal",
+      "CRA",
+      "tax filing",
+      "free",
+      "low-income"
+    ],
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "ECCC FireWork — Wildfire Smoke Forecasts",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Smoke forecast maps",
+    "description": "Environment and Climate Change Canada's official 72-hour wildfire smoke dispersion and PM2.5 forecast maps, feeding the Air Quality Health Index.",
+    "url": "https://weather.gc.ca/firework/",
+    "tags": [
+      "federal",
+      "wildfire",
+      "smoke",
+      "air quality",
+      "forecast",
+      "maps"
+    ],
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "9-8-8 Suicide Crisis Helpline",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Crisis helpline",
+    "description": "National 24/7 suicide crisis helpline (call or text 9-8-8, English/French), coordinated by CAMH and funded by the Government of Canada through the Public Health Agency of Canada.",
+    "url": "https://988.ca",
+    "tags": [
+      "federal",
+      "mental health",
+      "crisis",
+      "helpline",
+      "24/7"
+    ],
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "Regional Tariff Response Initiative",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "SME relief program",
+    "description": "Federal program (expanded to ~$2.5B, intake open through December 2028) delivered by regional development agencies offering liquidity and pivot funding to SMEs hit by U.S. and China tariffs.",
+    "url": "https://ised-isde.canada.ca/site/ised/en/regional-tariff-response-initiative",
+    "tags": [
+      "federal",
+      "SME",
+      "tariffs",
+      "funding",
+      "regional development"
+    ],
+    "dateAdded": "2026-09-26"
   }
 ]
