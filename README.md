@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1886 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1887 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -40,7 +40,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🩺 Health & Wellness](#health-and-wellness) — 61
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 32
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 39
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 40
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 43
@@ -1750,6 +1750,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | British Columbia — ParcelMap BC Search (LTSA) | British Columbia · Agency | Parcel map search | Search LTSA's authoritative map of all titled and surveyed Crown parcels in BC by address, PID or map click to view parcel boundaries and legal descriptions. | https://maps.ltsa.ca/ |
 | BC Assessment — Property Search | British Columbia · Provincial | Property | Look up assessed property values, property class, sales data, and ownership information for any property in BC | https://www.bcassessment.ca/ |
 | BC Housing — New Homes Registry Data | British Columbia · Provincial | Data reports register | Monthly New Homes Registry reports on registered new homes by building type, size and location, plus builder/homeowner survey summaries and residential construction statistics for B.C. (PDF archive since 2020). | https://www.bchousing.org/research-centre/housing-data/new-homes-data |
+| BC Public Lands Map — HART (UBC) | British Columbia · Provincial | Public land map | Interactive map of publicly-owned land across BC (federal, provincial, municipal and Crown agency parcels) scored for non-profit housing potential: development readiness, proximity to amenities and infrastructure. 52,384 parcels mapped, roughly 661,000 potential homes identified. Free and public, built by UBC’s Housing Assessment Resource Tools (HART) project. | https://hart.ubc.ca/bcplm/ |
 | BC Residential Tenancy Branch | British Columbia · Provincial | Tribunal | Resolve BC tenancy disputes, find tenancy forms, and read the Residential Tenancy Act | https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies |
 | Vancouver Active Condo Listings — City Data | Vancouver · Municipal | Housing | Active Strata and condo listings data published as open data by the City of Vancouver | https://opendata.vancouver.ca/pages/home/ |
 

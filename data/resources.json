@@ -29203,5 +29203,25 @@
       "ai governance"
     ],
     "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "BC Public Lands Map — HART (UBC)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "housing",
+    "type": "Public land map",
+    "description": "Interactive map of publicly-owned land across BC (federal, provincial, municipal and Crown agency parcels) scored for non-profit housing potential: development readiness, proximity to amenities and infrastructure. 52,384 parcels mapped, roughly 661,000 potential homes identified. Free and public, built by UBC’s Housing Assessment Resource Tools (HART) project.",
+    "url": "https://hart.ubc.ca/bcplm/",
+    "tags": [
+      "housing",
+      "affordable housing",
+      "open data",
+      "land use",
+      "gis",
+      "map",
+      "ubc",
+      "british columbia"
+    ],
+    "dateAdded": "2026-09-26"
   }
 ]
