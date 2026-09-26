@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1900 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1901 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -59,7 +59,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 75
-- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 23
+- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 24
 
 ---
 
@@ -3439,6 +3439,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Improving Connectivity for Ontario (ICON) Map Tool | Ontario · Provincial | Broadband coverage map | Map Ontario broadband service levels on 250m street segments and 50/10 Mbps hexagons, areas with no LTE, anchor institutions and First Nation boundaries; draw and export project areas as KML/geoJSON. | https://www.ontario.ca/page/improving-connectivity-ontario-map-tool |
 | Ontario — Ontario Design System | Ontario · Provincial | Design system | Use Ontario government web components, styles, and Figma kits — installable via npm or CDN — to build accessible ontario.ca-consistent digital services. | https://designsystem.ontario.ca/ |
+| Toronto Mesh | Toronto · Municipal | Community project | Grassroots, decentralized group building community-owned internet infrastructure in Toronto with open source and peer-to-peer technologies, promoting digital literacy and privacy. Founded 2016 at CivicTechTO. | https://tomesh.net/ |
 
 ### Quebec
 
