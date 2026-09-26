@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1887 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1888 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 73
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 74
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 23
 
 ---
@@ -3272,6 +3272,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | AI Consultation Deadlines Canada | Canada · Federal | Consultations | Public tracker of every federal channel through which Canadians can shape AI governance: public consultations, parliamentary calls for briefs, Canada Gazette comment periods, funding and research calls, national-standard reviews and e-petitions. Each item carries a plain-language summary and a concrete way to participate; updated every Monday and Thursday; bilingual EN/FR; open source with RSS, iCalendar and JSON feeds. | https://donjguido.github.io/ai-consultation-deadlines-canada/ |
+| CivicEngage — Find Your Elected Representatives | Canada · Federal | Lookup tool | Enter a Canadian address and instantly find every elected representative — MP, MPP/MLA and municipal councillor — with email and phone plus one-click message drafting. No account, no signup, no data collected. Built by one Ontario developer and open source; representative data via OpenNorth's Represent API; also summarizes Burlington city council meeting minutes. | https://civicengagement.ca/ |
 | Elections Canada — Federal Electoral Districts Boundary Files (2023) | Canada · Federal | GIS dataset | Download digital boundary files (shapefile, KMZ, GDB) of the 343 federal electoral districts proclaimed by the 2023 Representation Order. | https://open.canada.ca/data/en/dataset/18bf3ea7-1940-46ec-af52-9ba3f77ed708 |
 | Elections Canada — Interactive Data Visualizer (2023 Representation Orders) | Canada · Federal | Data dashboard | Explore how 2021 federal election results transpose onto the 343 electoral districts of the 2023 representation orders — estimated seat distribution by party, province and territory, with CSV export. | https://www.elections.ca/content.aspx?dir=rep%2Ftra%2F2023viz&document=index&lang=e&section=res |
 | Elections Canada — Political Contributions Search | Canada · Federal | Contributions database | Searchable database of contributions to federal political parties, riding associations, and candidates — donor names, amounts, and dates, as reviewed by Elections Canada. | https://www.elections.ca/wpapps/WPF/EN/CCS/Index?returntype=1 |
