@@ -29182,5 +29182,26 @@
       "regional development"
     ],
     "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "AI Consultation Deadlines Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Consultations",
+    "description": "Public tracker of every federal channel through which Canadians can shape AI governance: public consultations, parliamentary calls for briefs, Canada Gazette comment periods, funding and research calls, national-standard reviews and e-petitions. Each item carries a plain-language summary and a concrete way to participate; updated every Monday and Thursday; bilingual EN/FR; open source with RSS, iCalendar and JSON feeds.",
+    "url": "https://donjguido.github.io/ai-consultation-deadlines-canada/",
+    "tags": [
+      "federal",
+      "ai",
+      "consultations",
+      "open government",
+      "civic tech",
+      "e-petitions",
+      "canada gazette",
+      "bilingual",
+      "ai governance"
+    ],
+    "dateAdded": "2026-09-26"
   }
 ]
