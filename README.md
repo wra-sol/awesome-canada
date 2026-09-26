@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1901 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1902 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 75
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 76
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 24
 
 ---
@@ -3283,6 +3283,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | AI Consultation Deadlines Canada | Canada · Federal | Consultations | Public tracker of every federal channel through which Canadians can shape AI governance: public consultations, parliamentary calls for briefs, Canada Gazette comment periods, funding and research calls, national-standard reviews and e-petitions. Each item carries a plain-language summary and a concrete way to participate; updated every Monday and Thursday; bilingual EN/FR; open source with RSS, iCalendar and JSON feeds. | https://donjguido.github.io/ai-consultation-deadlines-canada/ |
+| BuildCanada — Outcomes Tracker | Canada · Federal | Commitment tracker | Free public tracker monitoring 603 federal government commitments (party platform, Budget 2025, Speech from the Throne) with a documented evidence-based evaluation methodology: 'completed' requires a bill with Royal Assent, a Canada Gazette entry or an operational program — budget announcements alone never count. Sortable by status, ministry and commitment type; open source. | https://buildcanada.com/tracker |
 | CivicEngage — Find Your Elected Representatives | Canada · Federal | Lookup tool | Enter a Canadian address and instantly find every elected representative — MP, MPP/MLA and municipal councillor — with email and phone plus one-click message drafting. No account, no signup, no data collected. Built by one Ontario developer and open source; representative data via OpenNorth's Represent API; also summarizes Burlington city council meeting minutes. | https://civicengagement.ca/ |
 | Consulting with Canadians | Canada · Federal | Consultations | The Government of Canada's central listing of active federal public consultations, where anyone can find and participate in consultations across departments. | https://www.canada.ca/en/government/system/consultations.html |
 | Elections Canada — Federal Electoral Districts Boundary Files (2023) | Canada · Federal | GIS dataset | Download digital boundary files (shapefile, KMZ, GDB) of the 343 federal electoral districts proclaimed by the 2023 Representation Order. | https://open.canada.ca/data/en/dataset/18bf3ea7-1940-46ec-af52-9ba3f77ed708 |

@@ -29482,5 +29482,25 @@
       "privacy",
       "open source"
     ]
+  },
+  {
+    "name": "BuildCanada — Outcomes Tracker",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Commitment tracker",
+    "description": "Free public tracker monitoring 603 federal government commitments (party platform, Budget 2025, Speech from the Throne) with a documented evidence-based evaluation methodology: 'completed' requires a bill with Royal Assent, a Canada Gazette entry or an operational program — budget announcements alone never count. Sortable by status, ministry and commitment type; open source.",
+    "url": "https://buildcanada.com/tracker",
+    "tags": [
+      "federal",
+      "transparency",
+      "accountability",
+      "commitments",
+      "open government",
+      "civic tech",
+      "platform tracker",
+      "promise tracker"
+    ],
+    "dateAdded": "2026-09-26"
   }
 ]
