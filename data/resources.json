@@ -29782,5 +29782,106 @@
       "representatives",
       "accountability"
     ]
+  },
+  {
+    "name": "Federal Data Strategy Tracker",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Progress tracker",
+    "description": "Open Government tracker reporting progress on the 2023–2026 Federal Data Strategy's year 1 and year 2 priority actions, organized by mission.",
+    "url": "https://search.open.canada.ca/datastrategy/",
+    "tags": [
+      "federal",
+      "open-government",
+      "data-strategy",
+      "transparency"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
+    "name": "Elections Canada — Election Night Results",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Election results portal",
+    "description": "Official live and validated federal election and by-election results portal with per-riding breakdowns and downloadable result files.",
+    "url": "https://enr.elections.ca/",
+    "tags": [
+      "federal",
+      "elections",
+      "results",
+      "riding-results",
+      "open-data"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
+    "name": "StatCan — Selected Health Indicators in Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Health dashboard",
+    "description": "Interactive dashboard (released April 2026) of key health indicators — health outcomes, health behaviours, access to care — by geography and year, 2019–2024.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2026005-eng.htm",
+    "tags": [
+      "federal",
+      "statistics",
+      "health",
+      "dashboard",
+      "data"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
+    "name": "Ethics Canada — Conflict of Interest and Ethics Commissioner",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Public registry",
+    "description": "Official site of the independent parliamentary ethics office (replaces ciec-ccie.parl.gc.ca); hosts the searchable public registry of disclosures under the Conflict of Interest Act and the MPs' Code.",
+    "url": "https://www.ethicscanada.ca/",
+    "tags": [
+      "federal",
+      "ethics",
+      "conflict-of-interest",
+      "registry",
+      "parliament"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
+    "name": "Toronto — Housing Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "housing",
+    "type": "Housing dashboard",
+    "description": "City of Toronto's central housing data hub: affordable rental housing map, housing data book, and the HousingTO 2020–2030 Action Plan progress dashboard.",
+    "url": "https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/",
+    "tags": [
+      "municipal",
+      "toronto",
+      "housing",
+      "data",
+      "dashboard",
+      "ontario"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
+    "name": "House of Commons — e-Petitions",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Petition portal",
+    "description": "Official portal to search, sign, and track federal e-petitions presented to the House of Commons.",
+    "url": "https://www.ourcommons.ca/petitions/en/Petition/Search",
+    "tags": [
+      "federal",
+      "parliament",
+      "petitions",
+      "civic-engagement"
+    ],
+    "dateAdded": "2026-09-27"
   }
 ]

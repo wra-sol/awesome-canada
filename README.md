@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1918 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1924 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 214
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 215
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 144
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
@@ -37,10 +37,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 29
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 31
-- [🩺 Health & Wellness](#health-and-wellness) — 64
+- [🩺 Health & Wellness](#health-and-wellness) — 65
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 32
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 41
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 42
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
@@ -54,11 +54,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 53
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 52
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 53
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 76
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 78
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 25
 
 ---
@@ -74,6 +74,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Heritage — Grants and Contributions Search | Canada · Federal | Funding database | Search 138,000+ Canadian Heritage grant/contribution agreements by recipient, program, value, year and province; whole dataset also downloadable as CSV. | https://search.open.canada.ca/grants?owner_org=pch |
 | Census Program | Canada · Federal | Census portal | StatCan Census portal: 2026 Census (collection completed September 2026, 98.4% response), profiles, maps and reference materials; 2026 reference and geographic products from November 2026, full data releases through 2027. | https://www12.statcan.gc.ca/census-recensement/index-eng.cfm |
 | EODMS — Earth Observation Data Management System | Canada · Federal | Imagery search | Search and order from NRCan's archive of satellite imagery and the National Air Photo Library — over 3 million historical aerial photos of Canada dating to the 1920s, with footprints on a map. | https://eodms-sgdot.nrcan-rncan.gc.ca/index-en.html |
+| Federal Data Strategy Tracker | Canada · Federal | Progress tracker | Open Government tracker reporting progress on the 2023–2026 Federal Data Strategy's year 1 and year 2 priority actions, organized by mission. | https://search.open.canada.ca/datastrategy/ |
 | GC API Store | Canada · Federal | API catalogue | Discover and try Government of Canada APIs in one catalogue, with documentation and self-serve access for building apps on government data and services. | https://api.canada.ca/en/homepage |
 | GEO.ca | Canada · Federal | Geospatial portal | Canada's federal geospatial data portal, providing open access to authoritative geospatial information, maps, and datasets from federal sources. | https://geo.ca/ |
 | Government of Canada — Open Government Portal | Canada · Federal | Open data portal | Search 40,000+ federal datasets, reports, and geospatial layers with API access | https://search.open.canada.ca/opendata/ |
@@ -1515,6 +1516,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | PHAC — Opioid- and Stimulant-related Harms Dashboard | Canada · Federal | Dashboard | Explore maps and charts of opioid/stimulant deaths, hospitalizations, ED visits and EMS responses by province since 2016; download the full series as ZIP/CSV. | https://health-infobase.canada.ca/substance-related-harms/opioids-stimulants/ |
 | Public Health Agency of Canada — Respiratory Virus Dashboard | Canada · Federal | Dashboard | Weekly surveillance of COVID-19, influenza, and RSV activity across Canada | https://health-infobase.canada.ca/respiratory-virus-detections/ |
 | Public Health Agency of Canada — Wastewater Surveillance Dashboard | Canada · Federal | Surveillance dashboard | Track COVID-19, flu A/B, RSV and mpox virus levels in wastewater by site, city and province; download aggregate viral load data as CSV. | https://health-infobase.canada.ca/covid-19/wastewater/ |
+| StatCan — Selected Health Indicators in Canada | Canada · Federal | Health dashboard | Interactive dashboard (released April 2026) of key health indicators — health outcomes, health behaviours, access to care — by geography and year, 2019–2024. | https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2026005-eng.htm |
 | Canadian Blood Services — Donate | Canada · Agency | Service | Book a blood donation, register as a stem-cell donor, and track My Donor account | https://blood.ca/ |
 
 ### British Columbia
@@ -1808,6 +1810,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Landlord and Tenant Board (LTB) Ontario | Ontario · Provincial | Tribunal | File applications, download forms, and read LTB rules for Ontario residential tenancy disputes | https://tribunalsontario.ca/ltb/ |
 | Ontario — OnLand Property Records | Ontario · Provincial | Land registry | Ontario's official electronic land registration system: title searches, parcel registers, and property imagery for land titles and registry act properties across the province. | https://www.onland.ca/ |
 | Ontario Property Assessment — MPAC | Ontario · Provincial | Property | Municipal Property Assessment Corporation — look up your property's assessed value, class, and assessment details | https://www.mpac.ca/ |
+| Toronto — Housing Data Hub | Toronto · Municipal | Housing dashboard | City of Toronto's central housing data hub: affordable rental housing map, housing data book, and the HousingTO 2020–2030 Action Plan progress dashboard. | https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/ |
 | Windsor Property Tax Calculator | Windsor · Municipal | Calculator | Estimate your annual property tax bill in Windsor based on assessed value and property class | https://www.citywindsor.ca/taxes/property-taxes/property-tax-calculator |
 
 ### Quebec
@@ -3031,6 +3034,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Consolidated Canadian Autonomous Sanctions List | Canada · Federal | Sanctions list | Global Affairs Canada's searchable consolidated list of all individuals and entities under Canadian autonomous sanctions, published in HTML, PDF and XML. | https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/consolidated-consolide.aspx?lang=eng |
 | Correctional Service Canada — Research Publications | Canada · Federal | Research library | Browse CSC research reports and summaries by topic — recidivism, mental health, Indigenous corrections, women offenders, substance use, and more. | https://www.csc-scc.gc.ca/research/005008-2000-en.shtml |
 | Court Martial Appeal Court of Canada — Decisions | Canada · Federal | Court decisions | Read the reasons for judgment of the superior court that hears appeals from Canadian courts martial, published in both official languages. | https://www.cmac-cacm.ca/en/pages/decisions-and-law-reports |
+| Ethics Canada — Conflict of Interest and Ethics Commissioner | Canada · Federal | Public registry | Official site of the independent parliamentary ethics office (replaces ciec-ccie.parl.gc.ca); hosts the searchable public registry of disclosures under the Conflict of Interest Act and the MPs' Code. | https://www.ethicscanada.ca/ |
 | Federal Court of Canada | Canada · Federal | Court | Federal Court decisions, forms, rules, and case filings | https://www.fct-cf.gc.ca/en/home |
 | Justice Canada — Laws of Canada | Canada · Federal | Legislation | Consolidated federal statutes and regulations — the Justice Laws Website | https://laws-lois.justice.gc.ca/ |
 | Justice Canada — Research and Statistics Division reports | Canada · Federal | Report catalogue | Browse and download 700+ Justice Canada research reports, JustFacts briefs and State of the Criminal Justice System annuals (EN/FR, HTML and PDF), from the RSD catalogue. | https://justice.gc.ca/eng/rp-pr/jr/request-demande.html |
@@ -3301,11 +3305,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BuildCanada — Outcomes Tracker | Canada · Federal | Commitment tracker | Free public tracker monitoring 603 federal government commitments (party platform, Budget 2025, Speech from the Throne) with a documented evidence-based evaluation methodology: 'completed' requires a bill with Royal Assent, a Canada Gazette entry or an operational program — budget announcements alone never count. Sortable by status, ministry and commitment type; open source. | https://buildcanada.com/tracker |
 | CivicEngage — Find Your Elected Representatives | Canada · Federal | Lookup tool | Enter a Canadian address and instantly find every elected representative — MP, MPP/MLA and municipal councillor — with email and phone plus one-click message drafting. No account, no signup, no data collected. Built by one Ontario developer and open source; representative data via OpenNorth's Represent API; also summarizes Burlington city council meeting minutes. | https://civicengagement.ca/ |
 | Consulting with Canadians | Canada · Federal | Consultations | The Government of Canada's central listing of active federal public consultations, where anyone can find and participate in consultations across departments. | https://www.canada.ca/en/government/system/consultations.html |
+| Elections Canada — Election Night Results | Canada · Federal | Election results portal | Official live and validated federal election and by-election results portal with per-riding breakdowns and downloadable result files. | https://enr.elections.ca/ |
 | Elections Canada — Federal Electoral Districts Boundary Files (2023) | Canada · Federal | GIS dataset | Download digital boundary files (shapefile, KMZ, GDB) of the 343 federal electoral districts proclaimed by the 2023 Representation Order. | https://open.canada.ca/data/en/dataset/18bf3ea7-1940-46ec-af52-9ba3f77ed708 |
 | Elections Canada — Interactive Data Visualizer (2023 Representation Orders) | Canada · Federal | Data dashboard | Explore how 2021 federal election results transpose onto the 343 electoral districts of the 2023 representation orders — estimated seat distribution by party, province and territory, with CSV export. | https://www.elections.ca/content.aspx?dir=rep%2Ftra%2F2023viz&document=index&lang=e&section=res |
 | Elections Canada — Political Contributions Search | Canada · Federal | Contributions database | Searchable database of contributions to federal political parties, riding associations, and candidates — donor names, amounts, and dates, as reviewed by Elections Canada. | https://www.elections.ca/wpapps/WPF/EN/CCS/Index?returntype=1 |
 | Elections Canada — Political Entity Registry | Canada · Federal | Registry | Current and historical registry of federal political parties, riding associations, candidates, and third parties registered with Elections Canada. | https://www.elections.ca/WPAPPS/WPR/EN |
 | Elections Canada — Political Financing Open Data | Canada · Federal | Dataset bundle | Bulk CSV downloads of political financing data dating back to 1993: reviewed and as-filed contribution details for all political entities, plus financial returns. | https://www.elections.ca/content.aspx?section=fin&dir=oda&document=index&lang=e |
+| House of Commons — e-Petitions | Canada · Federal | Petition portal | Official portal to search, sign, and track federal e-petitions presented to the House of Commons. | https://www.ourcommons.ca/petitions/en/Petition/Search |
 | Parlinfo — Canadian Parliamentary Database | Canada · Federal | Database | Historical and current data on parliamentarians, parties, cabinet, and elections | https://lop.parl.ca/ParlInfo/ |
 | Senate of Canada | Canada · Federal | Legislative | Senate chamber business, committee reports, senators' biographies, and votes | https://sencanada.ca/ |
 | Canada Gazette — Government Consultations | Canada · Agency | Consultations | Browse active government consultations and provide feedback | https://gazette.gc.ca/ |
