@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1908 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1909 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 214
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 142
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 143
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
 - [🪪 Government Services & ID](#government-services-and-id) — 48
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
@@ -480,6 +480,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | OpenParliament.ca | Canada · Federal | Parliament watchdog | Open data on Parliament of Canada: bills, votes, debates (Hansard), MPs and committees, with a free JSON API — the canonical independent source behind many civic apps. | https://openparliament.ca |
 | Orders in Council Database | Canada · Federal | Search database | Privy Council Office's searchable database of all federal Orders in Council from 1990 to present, with full text from late 2002 onward, published three working days after approval. | https://orders-in-council.canada.ca/ |
 | VoteGrid | Canada · Regional | Municipal candidate guide | Side-by-side comparison platform for municipal election candidates across Ontario, Manitoba, and British Columbia: see candidate experience, stances, and priorities to make informed choices. Non-partisan; built in Welland, Ontario. | https://votegrid.ca |
+| WRvotes | Canada · Regional | Voter information platform | Community-built voter information platform for Waterloo Region municipal elections: type your address or use the interactive ward map to find your candidates, plus all-candidate meeting info, ward listings, and how-to-vote resources. Open source (MIT), maintained by CivicTechWR volunteers for the October 26, 2026 municipal election. Non-partisan civic-tech project. | https://development.waterlooregionvotes.org |
 
 ### British Columbia
 

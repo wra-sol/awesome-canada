@@ -29609,5 +29609,23 @@
    "civic-tech"
   ],
   "dateAdded": "2026-09-27"
+ },
+ {
+  "name": "WRvotes",
+  "level": "Regional",
+  "jurisdiction": "Canada",
+  "category": "council",
+  "type": "Voter information platform",
+  "description": "Community-built voter information platform for Waterloo Region municipal elections: type your address or use the interactive ward map to find your candidates, plus all-candidate meeting info, ward listings, and how-to-vote resources. Open source (MIT), maintained by CivicTechWR volunteers for the October 26, 2026 municipal election. Non-partisan civic-tech project.",
+  "url": "https://development.waterlooregionvotes.org",
+  "tags": [
+   "municipal",
+   "elections",
+   "voter-guide",
+   "waterloo",
+   "ontario",
+   "civic-tech"
+  ],
+  "dateAdded": "2026-09-27"
  }
 ]
