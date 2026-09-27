@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1903 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1904 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -52,7 +52,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 52
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
-- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 18
+- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 52
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 52
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
@@ -2854,6 +2854,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Foreign Influence Transparency Registry | Canada · Federal | Foreign influence registry | Searchable public registry under the Foreign Influence Transparency and Accountability Act (in force Aug 2026): see who has an arrangement with a foreign principal to influence Canadian political or governmental processes, what activity they registered, and enforcement actions for violations. First entries published Sep 2026. | https://www.canada.ca/en/foreign-influence-commissioner/registry.html |
 | Office of the Commissioner of Lobbying — Lobbyist Registry | Canada · Federal | Lobbyist registry | Searchable federal registry of in-house and consultant lobbyists: who is lobbying which officials, on what subject, for whom, and when. Note: site blocks automated requests; browse manually. | https://lobbycanada.gc.ca/ |
 
 ### British Columbia

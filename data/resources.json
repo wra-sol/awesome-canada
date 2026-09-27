@@ -29521,5 +29521,21 @@
    "access to information"
   ],
   "dateAdded": "2026-09-26"
+ },
+ {
+  "name": "Foreign Influence Transparency Registry",
+  "level": "Federal",
+  "jurisdiction": "Canada",
+  "category": "lobbyist",
+  "type": "Foreign influence registry",
+  "description": "Searchable public registry under the Foreign Influence Transparency and Accountability Act (in force Aug 2026): see who has an arrangement with a foreign principal to influence Canadian political or governmental processes, what activity they registered, and enforcement actions for violations. First entries published Sep 2026.",
+  "url": "https://www.canada.ca/en/foreign-influence-commissioner/registry.html",
+  "tags": [
+   "federal",
+   "foreign-influence",
+   "registry",
+   "transparency",
+   "disclosure"
+  ]
  }
 ]
