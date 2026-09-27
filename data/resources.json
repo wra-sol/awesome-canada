@@ -29537,5 +29537,21 @@
    "transparency",
    "disclosure"
   ]
+ },
+ {
+  "name": "VoteMate — 2026 BC Local Elections",
+  "level": "Provincial",
+  "jurisdiction": "British Columbia",
+  "category": "council",
+  "type": "Municipal candidate guide",
+  "description": "Volunteer-run, non-partisan voter guide for BC's Oct 17, 2026 municipal elections: see who's running for mayor, council, and school board in the 33 most populous municipalities. Bilingual (EN/FR).",
+  "url": "https://votemate.org/bc2026",
+  "tags": [
+   "bc",
+   "municipal",
+   "elections",
+   "voter-guide",
+   "2026"
+  ]
  }
 ]

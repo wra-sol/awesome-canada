@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1904 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1905 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 214
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 139
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 140
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
 - [🪪 Government Services & ID](#government-services-and-id) — 47
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
@@ -483,6 +483,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| VoteMate — 2026 BC Local Elections | British Columbia · Provincial | Municipal candidate guide | Volunteer-run, non-partisan voter guide for BC's Oct 17, 2026 municipal elections: see who's running for mayor, council, and school board in the 33 most populous municipalities. Bilingual (EN/FR). | https://votemate.org/bc2026 |
 | Abbotsford Council — Agendas, Minutes & Video | Abbotsford · Municipal | Council meetings | City of Abbotsford council and committee meeting portal with downloadable PDF agendas and minutes via eScribe and CivicWeb document repositories, plus a live stream and recorded video of council meetings. Browse by meeting date to track motions, decisions, public hearings, and delegations; download the 2026 council meeting calendar as a PDF. | https://www.abbotsford.ca/city-hall/council-committee-meetings/agendas-minutes-and-videos |
 | Burnaby Council — eScribe Agendas, Minutes & Video | Burnaby · Municipal | Council meetings | City of Burnaby council meetings hub with an eScribe searchable agenda and minutes portal, live-streamed and recorded council meetings via the city's video system, and historical minutes back to 2015 through the Heritage Burnaby archive. Download 2026 council and advisory body meeting calendars as PDFs; browse agendas, minutes, and reports by meeting date to track votes, public hearings, and decisions. | https://www.burnaby.ca/our-city/meetings-and-public-hearings |
 | Chilliwack — Council Agendas & Minutes (eScribe) | Chilliwack · Municipal | Council portal | Searchable eScribe meeting portal for Chilliwack with downloadable PDF agendas, minutes, and supporting documents for regular, special, and committee meetings. Verified live. Discovered via the documented pub-[city].escribemeetings.com pattern and verified live. | https://pub-chilliwack.escribemeetings.com/ |
