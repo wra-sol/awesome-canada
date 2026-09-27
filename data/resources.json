@@ -29553,5 +29553,23 @@
    "voter-guide",
    "2026"
   ]
+ },
+ {
+  "name": "311 Service Standard Dashboard — City of Toronto",
+  "level": "Municipal",
+  "jurisdiction": "Toronto",
+  "category": "gov-services",
+  "type": "Dashboard",
+  "description": "City of Toronto’s public 311 performance dashboard: interactive view of service-request volumes, service levels, geographic distribution and 311 call responsiveness measured against published service standards, plus static 2025 dashboards with glossary.",
+  "url": "https://www.toronto.ca/home/311-toronto-at-your-service/311-frequently-asked-questions/311-service-standard-dashboard/",
+  "tags": [
+   "311",
+   "service standards",
+   "transparency",
+   "dashboard",
+   "Toronto",
+   "performance"
+  ],
+  "dateAdded": "2026-09-26"
  }
 ]

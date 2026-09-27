@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1905 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1906 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -29,7 +29,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 140
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
-- [🪪 Government Services & ID](#government-services-and-id) — 47
+- [🪪 Government Services & ID](#government-services-and-id) — 48
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 50
@@ -889,6 +889,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | ServiceOntario | Ontario · Provincial | Service portal | Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services | https://www.ontario.ca/page/serviceontario |
 | Brampton budget / Open Book resources | Brampton · Municipal | Transparency / budget | Budget transparency resources and project-oriented views | https://www.brampton.ca/EN/City-Hall/budget/ |
 | Guelph — Report a Problem Map | Guelph · Municipal | Service request map | Submit 311-style service requests (potholes, garbage, bylaw issues) on an interactive map with photos and get updates on the City's response. | https://experience.arcgis.com/experience/aa79df9526ab4c99914adc950eca9141 |
+| 311 Service Standard Dashboard — City of Toronto | Toronto · Municipal | Dashboard | City of Toronto’s public 311 performance dashboard: interactive view of service-request volumes, service levels, geographic distribution and 311 call responsiveness measured against published service standards, plus static 2025 dashboards with glossary. | https://www.toronto.ca/home/311-toronto-at-your-service/311-frequently-asked-questions/311-service-standard-dashboard/ |
 | Toronto — Waste Wizard | Toronto · Municipal | Lookup tool | Type any of 2,500+ items to find out which bin it goes in and where to drop off hazardous waste — also in the TOwaste app with collection schedules. | https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/ |
 | Toronto 311 — Service Requests | Toronto · Municipal | Service | Report issues, request services, and track cases in Toronto via web, app, or phone | https://www.toronto.ca/home/311-toronto-at-your-service/ |
 
