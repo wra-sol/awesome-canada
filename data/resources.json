@@ -29707,5 +29707,23 @@
       "in-person services"
     ],
     "dateAdded": "2026-09-27"
+  },
+  {
+    "name": "The Civics Project",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Political database",
+    "description": "Plain-language summaries of federal and provincial bills, votes, and representatives - the largest political database in Canada, built for citizens, journalists, and researchers. Non-partisan civic education.",
+    "url": "https://civicsproject.org",
+    "tags": [
+      "politics",
+      "bills",
+      "parliament",
+      "plain language",
+      "summaries",
+      "representatives",
+      "accountability"
+    ]
   }
 ]

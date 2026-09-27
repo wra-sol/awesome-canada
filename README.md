@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1914 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1915 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -34,7 +34,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 50
 - [💼 Employment & Labour](#employment-and-labour) — 40
-- [🎓 Education & Student Aid](#education-and-student-aid) — 28
+- [🎓 Education & Student Aid](#education-and-student-aid) — 29
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 31
 - [🩺 Health & Wellness](#health-and-wellness) — 64
@@ -1245,6 +1245,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Student Loans and Grants | Canada · Federal | Financial aid | Apply for federal student loans and grants, manage your loan, and explore repayment assistance options | https://www.canada.ca/en/services/benefits/education/student-aid.html |
 | National Student Loans Service Centre | Canada · Federal | Student aid | Federal portal for Canada Student Loans: manage your loan account, apply for repayment assistance, and make payments. | https://www.csnpe-nslsc.canada.ca/ |
 | PoliTalks — CIVIX Case Studies | Canada · Federal | Civic education resource | Free bilingual (EN/FR) library of case studies on Canadian political and social issues — voting age, pipelines, social media regulation, healthcare privatization — for classroom discussion, with protocols from CIVIX's non-partisan Constructive Discussions guide. Run by CIVIX, a non-partisan registered charity. | https://politalks.ca/case-studies/ |
+| The Civics Project | Canada · Federal | Political database | Plain-language summaries of federal and provincial bills, votes, and representatives - the largest political database in Canada, built for citizens, journalists, and researchers. Non-partisan civic education. | https://civicsproject.org |
 
 ### British Columbia
 
@@ -2037,6 +2038,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Transport Canada — Vessel Registration Query System | Canada · Federal | Searchable registry | Look up any vessel on the Canadian Register of Vessels by name, official number, or owner, including tonnage, dimensions, and registration status. | https://wwwapps.tc.gc.ca/Saf-Sec-Sur/4/vrqs-srib/eng/vessel-registrations |
 | Transportation Safety Board — Investigation reports | Canada · Federal | Investigation report database | Search TSB rail, marine, pipeline and aviation investigation reports (EN/FR): findings, causes, safety actions, PDF downloads back to 1990. | https://tsb.gc.ca/eng/rapports-reports/rail/index.html |
 | VIA Rail — Trip Planner and Booking | Canada · Federal | Trip planner | Train schedules, booking, and trip planning across Canada | https://www.viarail.ca/en/plan |
+| CATSA — Canadian Air Transport Security Authority | Canada · Crown Corp | Aviation tool | Federal Crown corporation responsible for airport security screening: screening wait times, what you can bring on board, and program information. | https://www.catsa-acsta.gc.ca/ |
 | Great Lakes St. Lawrence Seaway — Voyage Information System (VIS) | Canada · Crown Corp | Vessel tracker | Track vessels in real time throughout the Great Lakes and St. Lawrence River, view lock/bridge status, buoys, live camera feeds and distance/travel-time tools. | https://vis.greatlakes-seaway.com/ |
 | Halifax Port Authority | Canada · Crown Corp | Port portal | Port of Halifax — the Port Operations Centre for tracking containers and transit times, monitoring vessel arrivals and departures, tides and port security. | https://www.porthalifax.ca/ |
 | Montreal Port Authority | Canada · Crown Corp | Port portal | Port of Montreal, Eastern Canada's largest container port — vessel arrivals, cargo statistics, and St. Lawrence hydrological data for operations planning. | https://www.port-montreal.com/ |
@@ -2046,7 +2048,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Transportation Safety Board — Investigation Reports | Canada · Agency | Investigation reports | Search TSB rail, pipeline, marine and air investigation reports; browse occurrences by mode, year, or investigation class with full PDF reports. | https://www.tsb.gc.ca/eng |
 | Transportation Safety Board — Marine Occurrence Data | Canada · Agency | Monthly dataset (CSV) | Download the TSB's marine occurrence database as CSV tables covering shipping accidents and incidents since 1995, refreshed monthly, plus marine safety statistics. | https://www.tsb.gc.ca/eng/stats/marine/index.html |
 | Transportation Safety Board — Rail Occurrence Data | Canada · Agency | Monthly dataset (CSV) | Download the TSB's rail occurrence database as CSV tables covering derailments, collisions, and crossing accidents since 1983, refreshed monthly. | https://www.tsb.gc.ca/eng/stats/rail/index.html |
-| CATSA — Canadian Air Transport Security Authority | Canada · Crown Corporation | Aviation tool | Federal Crown corporation responsible for airport security screening: screening wait times, what you can bring on board, and program information. | https://www.catsa-acsta.gc.ca/ |
 
 ### British Columbia
 
