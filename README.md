@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1910 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1918 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -29,21 +29,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 144
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
-- [🪪 Government Services & ID](#government-services-and-id) — 48
+- [🪪 Government Services & ID](#government-services-and-id) — 49
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 50
 - [💼 Employment & Labour](#employment-and-labour) — 40
-- [🎓 Education & Student Aid](#education-and-student-aid) — 27
+- [🎓 Education & Student Aid](#education-and-student-aid) — 29
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 31
 - [🩺 Health & Wellness](#health-and-wellness) — 64
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 32
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 40
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 41
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
-- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 43
+- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 70
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 79
 - [🌦️ Weather & Climate](#weather-and-climate) — 26
@@ -53,13 +53,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 52
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 52
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 53
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 52
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 35
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 14
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 76
-- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 24
+- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 25
 
 ---
 
@@ -910,6 +910,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | New Brunswick Geological Survey | New Brunswick · Provincial | Geology maps | Interactive geological maps, mineral deposits, and geoscience data for NB | https://www2.gnb.ca/content/gnb/en/departments/10.html |
 | Post-Secondary Education, Training and Labour (PETL) — Employment Standards Online Complaint Form | New Brunswick · Provincial | Self-service portal | File an Employment Standards Act complaint online without paper: unpaid wages, overtime, vacation pay, termination pay and more, routed directly to PETL investigators. | https://www.gnb.ca/en/topic/jobs-workplaces/labour-market-workforce/employment-standards/employment-standards-complaint.html |
+| Access Nova Scotia | Nova Scotia · Provincial | Service portal | Official Nova Scotia provincial services portal: find in-person Access Nova Scotia locations, online services, and program information. | https://www.novascotia.ca/access-nova-scotia |
 | Nova Scotia Vital Statistics Online Services | Nova Scotia · Provincial | Document ordering | Apply online to Nova Scotia Vital Statistics for short- or long-form birth certificates, with X gender option and no sex display, credit card payment, and alternative mail/fax/in-person options. | https://www.novascotia.ca/apply-birth-certificate |
 
 ### Northern Canada (YT, NT, NU)
@@ -1245,7 +1246,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Canada Student Loans and Grants | Canada · Federal | Financial aid | Apply for federal student loans and grants, manage your loan, and explore repayment assistance options | https://www.canada.ca/en/services/benefits/education/student-aid.html |
+| National Student Loans Service Centre | Canada · Federal | Student aid | Federal portal for Canada Student Loans: manage your loan account, apply for repayment assistance, and make payments. | https://www.csnpe-nslsc.canada.ca/ |
 | PoliTalks — CIVIX Case Studies | Canada · Federal | Civic education resource | Free bilingual (EN/FR) library of case studies on Canadian political and social issues — voting age, pipelines, social media regulation, healthcare privatization — for classroom discussion, with protocols from CIVIX's non-partisan Constructive Discussions guide. Run by CIVIX, a non-partisan registered charity. | https://politalks.ca/case-studies/ |
+| The Civics Project | Canada · Federal | Political database | Plain-language summaries of federal and provincial bills, votes, and representatives - the largest political database in Canada, built for citizens, journalists, and researchers. Non-partisan civic education. | https://civicsproject.org |
 
 ### British Columbia
 
@@ -1766,6 +1769,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Housing — Housing Listings | British Columbia · Agency | Housing unit finder | Searchable tool listing 1200+ subsidized, affordable and market rental buildings across BC, filterable by location, housing type and unit size, showing how to apply to each. | https://housingsearch.bchousing.org/ |
 | British Columbia — ParcelMap BC Search (LTSA) | British Columbia · Agency | Parcel map search | Search LTSA's authoritative map of all titled and surveyed Crown parcels in BC by address, PID or map click to view parcel boundaries and legal descriptions. | https://maps.ltsa.ca/ |
+| BC Assessment — Property Assessment Search | British Columbia · Provincial | Property assessment search | Official BC Assessment e-valueBC lookup: search any British Columbia property's assessed value and property details. | https://www.bcassessment.ca/Property/AssessmentSearch |
 | BC Assessment — Property Search | British Columbia · Provincial | Property | Look up assessed property values, property class, sales data, and ownership information for any property in BC | https://www.bcassessment.ca/ |
 | BC Housing — New Homes Registry Data | British Columbia · Provincial | Data reports register | Monthly New Homes Registry reports on registered new homes by building type, size and location, plus builder/homeowner survey summaries and residential construction statistics for B.C. (PDF archive since 2020). | https://www.bchousing.org/research-centre/housing-data/new-homes-data |
 | BC Public Lands Map — HART (UBC) | British Columbia · Provincial | Public land map | Interactive map of publicly-owned land across BC (federal, provincial, municipal and Crown agency parcels) scored for non-profit housing potential: development readiness, proximity to amenities and infrastructure. 52,384 parcels mapped, roughly 661,000 potential homes identified. Free and public, built by UBC’s Housing Assessment Resource Tools (HART) project. | https://hart.ubc.ca/bcplm/ |
@@ -2037,6 +2041,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Transport Canada — Vessel Registration Query System | Canada · Federal | Searchable registry | Look up any vessel on the Canadian Register of Vessels by name, official number, or owner, including tonnage, dimensions, and registration status. | https://wwwapps.tc.gc.ca/Saf-Sec-Sur/4/vrqs-srib/eng/vessel-registrations |
 | Transportation Safety Board — Investigation reports | Canada · Federal | Investigation report database | Search TSB rail, marine, pipeline and aviation investigation reports (EN/FR): findings, causes, safety actions, PDF downloads back to 1990. | https://tsb.gc.ca/eng/rapports-reports/rail/index.html |
 | VIA Rail — Trip Planner and Booking | Canada · Federal | Trip planner | Train schedules, booking, and trip planning across Canada | https://www.viarail.ca/en/plan |
+| CATSA — Canadian Air Transport Security Authority | Canada · Crown Corp | Aviation tool | Federal Crown corporation responsible for airport security screening: screening wait times, what you can bring on board, and program information. | https://www.catsa-acsta.gc.ca/ |
 | Great Lakes St. Lawrence Seaway — Voyage Information System (VIS) | Canada · Crown Corp | Vessel tracker | Track vessels in real time throughout the Great Lakes and St. Lawrence River, view lock/bridge status, buoys, live camera feeds and distance/travel-time tools. | https://vis.greatlakes-seaway.com/ |
 | Halifax Port Authority | Canada · Crown Corp | Port portal | Port of Halifax — the Port Operations Centre for tracking containers and transit times, monitoring vessel arrivals and departures, tides and port security. | https://www.porthalifax.ca/ |
 | Montreal Port Authority | Canada · Crown Corp | Port portal | Port of Montreal, Eastern Canada's largest container port — vessel arrivals, cargo statistics, and St. Lawrence hydrological data for operations planning. | https://www.port-montreal.com/ |
@@ -2938,6 +2943,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CSE — Annual Reports | Canada · Federal | Report library | Read the Communications Security Establishment's unclassified annual reports on signals intelligence, cyber defence, and foreign cyber operations, back to 2019-20. | https://www.cse-cst.gc.ca/en/accountability/transparency/reports |
 | CSIS — Public Reports | Canada · Federal | Report library | Download every annual CSIS Public Report — the unclassified assessment of threats to Canada from terrorism, espionage, and foreign interference. | https://publications.gc.ca/site/eng/9.505816/publication.html |
 | Earthquakes Canada | Canada · Federal | Live map / science tool | Near-real-time earthquake tracking and event data | https://earthquakescanada.nrcan.gc.ca/ |
+| Get Cyber Safe | Canada · Federal | Cyber security | The Government of Canada's national cyber-safety campaign (Canadian Centre for Cyber Security): plain-language guidance, quizzes, and alerts helping individuals and small businesses stay safe online. | https://www.getcybersafe.gc.ca/en |
 | Health Canada — Canadian Cannabis Survey | Canada · Federal | Data | Annual cannabis use, perceptions, and harms reported by Canadians | https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/research-data.html |
 | Health Canada — Recalls & Safety Alerts | Canada · Federal | Alerts database | Searchable national database of consumer product, food, and health product recalls and safety alerts, filterable by category, date, and brand. | https://healthycanadians.gc.ca/recall-alert-rappel-avis/index-eng.php |
 | National Wildland Fire Information System | Canada · Federal | Wildfire map | Wildfire status and fire information across Canada | https://cwfis.cfs.nrcan.gc.ca/ |
@@ -3119,6 +3125,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Air Passenger Protection Portal | Canada · Federal | Consumer protection | The Canadian Transportation Agency's official one-stop shop for air travellers: know your rights on delays, cancellations, denied boarding and baggage, file a travel complaint, and get tips for hassle-free travel. | https://airpassengerprotection.ca/ |
 | Canadian Anti-Fraud Centre | Canada · Federal | Reporting | Report fraud and scams to the national CAFC and browse current scam trends | https://www.antifraudcentre-centreantifraude.ca/ |
 | Competition Bureau — Deceptive Marketing Cases | Canada · Federal | Lookup tool | Search every public deceptive-marketing case since 2015 by company, product, or outcome, including consent agreements and Tribunal rulings. | https://competition-bureau.canada.ca/en/deceptive-marketing-practices/cases-and-outcomes |
 | Measurement Canada — Find an Authorized Service Provider | Canada · Federal | Search tool | Find companies authorized by Measurement Canada to inspect and certify scales, gas pumps, and other measuring devices in your area, with their approved inspection scope. | https://ised-isde.canada.ca/site/measurement-canada/en/authorized-service-providers/find-authorized-service-provider |
@@ -3421,6 +3428,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CRTC — Communications Monitoring Report | Canada · Federal | Report | Annual data on Canadian broadcasting, wireless, and internet markets | https://crtc.gc.ca/eng/publications/reports/policymonitoring/2023/index.htm |
 | CRTC — National Broadband Map | Canada · Federal | Map | Interactive map showing internet speeds and coverage across Canada | https://crtc.gc.ca/eng/internet/internet.htm |
 | CRTC — Registered Telecommunications Providers List | Canada · Federal | Registration list | Look up companies registered with the CRTC to provide telecom services in Canada, including carriers, resellers, and high-speed internet resellers. | https://applications.crtc.gc.ca/portail-portal/eng/listes-lists/registration/5 |
+| CRTC Broadband Fund — Projects Selected for Funding | Canada · Federal | Broadband rollout tracker | Filterable registry and interactive map of all 73 Broadband Fund projects bringing high-speed internet and cellphone service to rural, remote, and Indigenous communities, with recipient, funding amount, project status, and linked CRTC decisions. | https://crtc.gc.ca/eng/Internet/select.htm |
 | Government of Canada — GitHub Organization | Canada · Federal | Open source code | Browse, fork and reuse 70+ official open-source repositories — the Canada.ca design system, the domain-security Tracker, and the Open Resource Exchange. | https://github.com/canada-ca |
 | ISED — Radio Equipment List (REL) | Canada · Federal | Certification database | Search all radio equipment certified for sale and use in Canada by certification number, company, or model to confirm a device meets ISED radio standards. | https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?lang=en |
 | ISED — Spectrum Management System | Canada · Federal | Licensing | Look up radio spectrum licence holders and technical info across Canada | https://sms-sgs.ic.gc.ca/ |
