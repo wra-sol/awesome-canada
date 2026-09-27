@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1906 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1907 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 214
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 140
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 141
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
 - [🪪 Government Services & ID](#government-services-and-id) — 48
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
@@ -477,6 +477,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | House of Commons — Vote Records | Canada · Federal | Vote tracker | Every recorded vote in the House of Commons with each MP's position, browsable by parliament and session and downloadable as open XML data. | https://www.ourcommons.ca/members/en/votes |
 | LEGISinfo — Federal Bill Tracker | Canada · Federal | Legislation tracker | Tracks every federal bill through Parliament: full text at each stage, sponsor, legislative summaries, votes, coming-into-force data, with JSON/XML/RSS exports back to the 35th Parliament (1994). | https://www.parl.ca/legisinfo/en/bills |
+| OpenParliament.ca | Canada · Federal | Parliament watchdog | Open data on Parliament of Canada: bills, votes, debates (Hansard), MPs and committees, with a free JSON API — the canonical independent source behind many civic apps. | https://openparliament.ca |
 | Orders in Council Database | Canada · Federal | Search database | Privy Council Office's searchable database of all federal Orders in Council from 1990 to present, with full text from late 2002 onward, published three working days after approval. | https://orders-in-council.canada.ca/ |
 
 ### British Columbia
