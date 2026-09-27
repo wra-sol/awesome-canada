@@ -29627,5 +29627,24 @@
    "civic-tech"
   ],
   "dateAdded": "2026-09-27"
+ },
+ {
+  "name": "Build Canada — Toronto 2026 Election Hub",
+  "level": "Municipal",
+  "jurisdiction": "Toronto",
+  "category": "council",
+  "type": "Voter information platform",
+  "description": "Free 2026 Toronto municipal election hub from non-partisan civic org Build Canada: a 30-question priorities survey matching voters to candidate questionnaire answers (15 mayoral + 44 council candidates responded per the Sep 2026 launch), plus key voting dates and ward information. Does not endorse any candidate.",
+  "url": "https://www.buildcanada.com/toronto/vote/2026/survey",
+  "tags": [
+   "municipal",
+   "toronto",
+   "elections",
+   "voter-guide",
+   "candidate-questionnaire",
+   "ontario",
+   "civic-tech"
+  ],
+  "dateAdded": "2026-09-27"
  }
 ]
