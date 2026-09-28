@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1931 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1932 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 215
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 145
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
 - [🪪 Government Services & ID](#government-services-and-id) — 51
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
@@ -575,6 +575,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Kingston City Council — YouTube Video Archive | Kingston · Municipal | Video archive | Official YouTube channel archiving City of Kingston Council and Committee meetings from October 2014 to present. Includes full Council, Standing Committees, Committee of Adjustment, and Design Review Panel recordings. Searchable by date and keyword — essential for tracking municipal decisions, public delegations, and voting records. | https://www.youtube.com/c/KingstonCityCouncil |
 | Kitchener — Council Minutes and Reports (Laserfiche) | Kitchener · Municipal | Document repository | City of Kitchener Laserfiche WebLink repository for council and committee meeting minutes, staff reports, and approved corporate policies. Searchable and downloadable. | https://lf.kitchener.ca/WebLinkExt/Browse.aspx?dbid=0 |
 | London Council and Committee Meetings | London · Municipal | Agendas and minutes | Browse London City Council and standing committee agendas, minutes, and video recordings. | https://london.ca/government/council-civic-administration/city-council |
+| Open Council | London · Municipal | Council vote/meeting tracker | London, Ontario city council voting and meeting tracker, 2011–present: councillor records, meeting agendas and minutes, and an AI chatbot for asking questions about council decisions. Built by Heenal Rajani (@opencouncilldn); no paywall. | https://opencouncil.xyz |
 | Markham — Council Agendas & Minutes (eScribe) | Markham · Municipal | Council portal | Searchable eScribe meeting portal for Markham with downloadable PDF agendas, minutes, and supporting documents for regular, special, and committee meetings. Verified live. Discovered via the documented pub-[city].escribemeetings.com pattern and verified live. | https://pub-markham.escribemeetings.com/ |
 | Milton — Council Agendas & Minutes (eScribe) | Milton · Municipal | Council portal | Searchable eScribe meeting portal for Milton with downloadable PDF agendas, minutes, and supporting documents for regular, special, and committee meetings. Verified live. Discovered via the documented pub-[city].escribemeetings.com pattern and verified live. | https://pub-milton.escribemeetings.com/ |
 | Mississauga Council and Committees — eScribe | Mississauga · Municipal | Agendas and minutes | Search council and committee agendas, minutes, and video for City of Mississauga meetings. | https://pub-mississauga.escribemeetings.com/ |
