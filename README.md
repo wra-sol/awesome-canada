@@ -3,7 +3,7 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -1170,7 +1170,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Employment and Social Development Canada — Labour Program | Canada · Federal | Regulator | Federal labour standards, occupational health and safety, workplace equity, and unjust-dismissal info | https://www.canada.ca/en/employment-social-development/corporate/portfolio/labour.html |
 | Employment Insurance (EI) — Apply Online | Canada · Federal | Service | Apply for Employment Insurance regular, sickness, maternity, parental, and caregiver benefits | https://www.canada.ca/en/services/benefits/ei.html |
 | Employment Insurance Benefits Estimator | Canada · Federal | Calculator | Anonymous Service Canada tool that estimates weekly EI benefit amounts and duration from salary and hours worked — no sign-in or personal information required. | https://estimateurae-eiestimator.service.canada.ca/en |
-| ESDC Labour Program — Equi'Vision Employment Equity Dashboard | Canada · Federal | Dashboard | Search and compare workforce representation rates and hourly/bonus/overtime pay gaps by employer, sector, or location for 530+ federally regulated private-sector employers; interactive Power BI. | https://equivision.services.gc.ca/ |
+| ESDC Labour Program — Equi'Vision Employment Equity Dashboard | Canada · Federal | Dashboard | Search and compare workforce representation rates and hourly/bonus/overtime pay gaps by employer, sector, or location for ~560 federally regulated private-sector employers covering ~809,000 employees; interactive Power BI with an AI virtual assistant added Sep 2026. | https://equivision.services.gc.ca/ |
 | ESDC Labour Program — Minimum Wage Database | Canada · Federal | Lookup tool | Look up current and forthcoming general minimum wage rates for every province and territory, special rates for students and specific occupations, plus historical rates back to 1965 via custom search. | https://minwage-salairemin.service.canada.ca/en/index.html |
 | ESDC Labour Program — Negotech Collective Agreements Library | Canada · Federal | Lookup tool | Full-text search of federal and provincial collective agreements by employer, union, NAICS industry, NOC occupation, dates, employee count and jurisdiction; multiple renewals, PDF downloads. | https://negotech.service.canada.ca/search/index.html |
 | GC Jobs — Government of Canada Jobs | Canada · Federal | Job search | Search and apply for federal public service positions across all departments and agencies through the Public Service Commission's hiring portal. | https://www.canada.ca/en/services/jobs/opportunities/government.html |
