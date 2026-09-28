@@ -846,6 +846,23 @@
     ]
   },
   {
+    "name": "CATSA — Canadian Air Transport Security Authority",
+    "level": "Crown Corp",
+    "jurisdiction": "Canada",
+    "category": "aviation-marine",
+    "type": "Aviation tool",
+    "description": "Federal Crown corporation responsible for airport security screening: screening wait times, what you can bring on board, and program information.",
+    "url": "https://www.catsa-acsta.gc.ca/",
+    "tags": [
+      "crown corporation",
+      "airport",
+      "security screening",
+      "wait times",
+      "air travel"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
     "name": "Great Lakes St. Lawrence Seaway — Voyage Information System (VIS)",
     "level": "Crown Corp",
     "jurisdiction": "Canada",
@@ -4445,6 +4462,23 @@
     ]
   },
   {
+    "name": "Air Passenger Protection Portal",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Consumer protection",
+    "description": "The Canadian Transportation Agency's official one-stop shop for air travellers: know your rights on delays, cancellations, denied boarding and baggage, file a travel complaint, and get tips for hassle-free travel.",
+    "url": "https://airpassengerprotection.ca/",
+    "tags": [
+      "federal",
+      "air travel",
+      "passenger rights",
+      "complaints",
+      "CTA"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
     "name": "Canadian Anti-Fraud Centre",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -4972,6 +5006,24 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Elections Canada Voter Turnout Visualization",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Voter turnout dashboard",
+    "description": "Interactive dashboard of federal voter turnout from 2004 to the present (GE38-GE45) by province, age group and gender, with data tables and a downloadable CSV of the underlying figures. Official Elections Canada source; the dataset is also published on open.canada.ca. Non-partisan, free.",
+    "url": "https://elections.ca/content.aspx?dir=turn%2Fviz&document=index&lang=e&section=ele",
+    "tags": [
+      "elections",
+      "voter-turnout",
+      "federal",
+      "dashboard",
+      "open data",
+      "csv"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
     "name": "House of Commons — Vote Records",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -5000,6 +5052,24 @@
       "open data",
       "parliament",
       "rss"
+    ]
+  },
+  {
+    "name": "OpenParliament.ca",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Parliament watchdog",
+    "description": "Open data on Parliament of Canada: bills, votes, debates (Hansard), MPs and committees, with a free JSON API — the canonical independent source behind many civic apps.",
+    "url": "https://openparliament.ca",
+    "tags": [
+      "parliament",
+      "open data",
+      "api",
+      "bills",
+      "debates",
+      "mps",
+      "accountability"
     ]
   },
   {
@@ -5132,6 +5202,44 @@
       "lookup"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "VoteGrid",
+    "level": "Regional",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Municipal candidate guide",
+    "description": "Side-by-side comparison platform for municipal election candidates across Ontario, Manitoba, and British Columbia: see candidate experience, stances, and priorities to make informed choices. Non-partisan; built in Welland, Ontario.",
+    "url": "https://votegrid.ca",
+    "tags": [
+      "municipal",
+      "elections",
+      "voter-guide",
+      "candidate-comparison",
+      "ontario",
+      "manitoba",
+      "british-columbia",
+      "civic-tech"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
+    "name": "WRvotes",
+    "level": "Regional",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Voter information platform",
+    "description": "Community-built voter information platform for Waterloo Region municipal elections: type your address or use the interactive ward map to find your candidates, plus all-candidate meeting info, ward listings, and how-to-vote resources. Open source (MIT), maintained by CivicTechWR volunteers for the October 26, 2026 municipal election. Non-partisan civic-tech project.",
+    "url": "https://development.waterlooregionvotes.org",
+    "tags": [
+      "municipal",
+      "elections",
+      "voter-guide",
+      "waterloo",
+      "ontario",
+      "civic-tech"
+    ],
+    "dateAdded": "2026-09-27"
   },
   {
     "name": "Region of Waterloo Council Meetings",
@@ -7049,6 +7157,25 @@
     ]
   },
   {
+    "name": "Build Canada — Toronto 2026 Election Hub",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "council",
+    "type": "Voter information platform",
+    "description": "Free 2026 Toronto municipal election hub from non-partisan civic org Build Canada: a 30-question priorities survey matching voters to candidate questionnaire answers (15 mayoral + 44 council candidates responded per the Sep 2026 launch), plus key voting dates and ward information. Does not endorse any candidate.",
+    "url": "https://www.buildcanada.com/toronto/vote/2026/survey",
+    "tags": [
+      "municipal",
+      "toronto",
+      "elections",
+      "voter-guide",
+      "candidate-questionnaire",
+      "ontario",
+      "civic-tech"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
     "name": "Toronto Council Voting Records (TMMIS)",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -8039,6 +8166,22 @@
     ]
   },
   {
+    "name": "National Student Loans Service Centre",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Student aid",
+    "description": "Federal portal for Canada Student Loans: manage your loan account, apply for repayment assistance, and make payments.",
+    "url": "https://www.csnpe-nslsc.canada.ca/",
+    "tags": [
+      "federal",
+      "student loans",
+      "repayment assistance",
+      "education funding"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
     "name": "PoliTalks — CIVIX Case Studies",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -8055,6 +8198,24 @@
       "CIVIX"
     ],
     "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "The Civics Project",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Political database",
+    "description": "Plain-language summaries of federal and provincial bills, votes, and representatives - the largest political database in Canada, built for citizens, journalists, and researchers. Non-partisan civic education.",
+    "url": "https://civicsproject.org",
+    "tags": [
+      "politics",
+      "bills",
+      "parliament",
+      "plain language",
+      "summaries",
+      "representatives",
+      "accountability"
+    ]
   },
   {
     "name": "OCAS — Ontario College Application",
@@ -8517,6 +8678,23 @@
     "dateAdded": "2026-09-26"
   },
   {
+    "name": "Elections Canada — Election Night Results",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Election results portal",
+    "description": "Official live and validated federal election and by-election results portal with per-riding breakdowns and downloadable result files.",
+    "url": "https://enr.elections.ca/",
+    "tags": [
+      "federal",
+      "elections",
+      "results",
+      "riding-results",
+      "open-data"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
     "name": "Elections Canada — Federal Electoral Districts Boundary Files (2023)",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -8593,6 +8771,22 @@
       "csv",
       "elections"
     ]
+  },
+  {
+    "name": "House of Commons — e-Petitions",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "elections",
+    "type": "Petition portal",
+    "description": "Official portal to search, sign, and track federal e-petitions presented to the House of Commons.",
+    "url": "https://www.ourcommons.ca/petitions/en/Petition/Search",
+    "tags": [
+      "federal",
+      "parliament",
+      "petitions",
+      "civic-engagement"
+    ],
+    "dateAdded": "2026-09-27"
   },
   {
     "name": "Parlinfo — Canadian Parliamentary Database",
@@ -12514,6 +12708,22 @@
     ]
   },
   {
+    "name": "Access Nova Scotia",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "gov-services",
+    "type": "Service portal",
+    "description": "Official Nova Scotia provincial services portal: find in-person Access Nova Scotia locations, online services, and program information.",
+    "url": "https://www.novascotia.ca/access-nova-scotia",
+    "tags": [
+      "provincial",
+      "service portal",
+      "Nova Scotia",
+      "in-person services"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
     "name": "Nova Scotia Vital Statistics Online Services",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -13156,6 +13366,23 @@
       "surveillance",
       "csv"
     ]
+  },
+  {
+    "name": "StatCan — Selected Health Indicators in Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Health dashboard",
+    "description": "Interactive dashboard (released April 2026) of key health indicators — health outcomes, health behaviours, access to care — by geography and year, 2019–2024.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2026005-eng.htm",
+    "tags": [
+      "federal",
+      "statistics",
+      "health",
+      "dashboard",
+      "data"
+    ],
+    "dateAdded": "2026-09-27"
   },
   {
     "name": "Cancer Care Ontario — Ontario Cancer System",
@@ -15307,6 +15534,23 @@
     ]
   },
   {
+    "name": "BC Assessment — Property Assessment Search",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "housing",
+    "type": "Property assessment search",
+    "description": "Official BC Assessment e-valueBC lookup: search any British Columbia property's assessed value and property details.",
+    "url": "https://www.bcassessment.ca/Property/AssessmentSearch",
+    "tags": [
+      "provincial",
+      "property assessment",
+      "housing",
+      "real estate",
+      "BC"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
     "name": "BC Assessment — Property Search",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -15553,6 +15797,24 @@
       "saskatchewan",
       "search"
     ]
+  },
+  {
+    "name": "Toronto — Housing Data Hub",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "housing",
+    "type": "Housing dashboard",
+    "description": "City of Toronto's central housing data hub: affordable rental housing map, housing data book, and the HousingTO 2020–2030 Action Plan progress dashboard.",
+    "url": "https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/",
+    "tags": [
+      "municipal",
+      "toronto",
+      "housing",
+      "data",
+      "dashboard",
+      "ontario"
+    ],
+    "dateAdded": "2026-09-27"
   },
   {
     "name": "Vancouver Active Condo Listings — City Data",
@@ -16529,6 +16791,23 @@
       "decisions",
       "appeals"
     ]
+  },
+  {
+    "name": "Ethics Canada — Conflict of Interest and Ethics Commissioner",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Public registry",
+    "description": "Official site of the independent parliamentary ethics office (replaces ciec-ccie.parl.gc.ca); hosts the searchable public registry of disclosures under the Conflict of Interest Act and the MPs' Code.",
+    "url": "https://www.ethicscanada.ca/",
+    "tags": [
+      "federal",
+      "ethics",
+      "conflict-of-interest",
+      "registry",
+      "parliament"
+    ],
+    "dateAdded": "2026-09-27"
   },
   {
     "name": "Federal Court of Canada",
@@ -17606,6 +17885,22 @@
       "historical",
       "nrcan"
     ]
+  },
+  {
+    "name": "Federal Data Strategy Tracker",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Progress tracker",
+    "description": "Open Government tracker reporting progress on the 2023–2026 Federal Data Strategy's year 1 and year 2 priority actions, organized by mission.",
+    "url": "https://search.open.canada.ca/datastrategy/",
+    "tags": [
+      "federal",
+      "open-government",
+      "data-strategy",
+      "transparency"
+    ],
+    "dateAdded": "2026-09-27"
   },
   {
     "name": "GC API Store",
@@ -23602,6 +23897,22 @@
     ]
   },
   {
+    "name": "Get Cyber Safe",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Cyber security",
+    "description": "The Government of Canada's national cyber-safety campaign (Canadian Centre for Cyber Security): plain-language guidance, quizzes, and alerts helping individuals and small businesses stay safe online.",
+    "url": "https://www.getcybersafe.gc.ca/en",
+    "tags": [
+      "federal",
+      "cybersecurity",
+      "online safety",
+      "small business"
+    ],
+    "dateAdded": "2026-09-27"
+  },
+  {
     "name": "Health Canada — Canadian Cannabis Survey",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -26500,6 +26811,25 @@
       "carriers",
       "internet"
     ]
+  },
+  {
+    "name": "CRTC Broadband Fund — Projects Selected for Funding",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Broadband rollout tracker",
+    "description": "Filterable registry and interactive map of all 73 Broadband Fund projects bringing high-speed internet and cellphone service to rural, remote, and Indigenous communities, with recipient, funding amount, project status, and linked CRTC decisions.",
+    "url": "https://crtc.gc.ca/eng/Internet/select.htm",
+    "tags": [
+      "federal",
+      "broadband",
+      "rural",
+      "indigenous",
+      "internet",
+      "cellular",
+      "funding"
+    ],
+    "dateAdded": "2026-09-27"
   },
   {
     "name": "Government of Canada — GitHub Organization",
@@ -29571,335 +29901,5 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "OpenParliament.ca",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "council",
-    "type": "Parliament watchdog",
-    "description": "Open data on Parliament of Canada: bills, votes, debates (Hansard), MPs and committees, with a free JSON API — the canonical independent source behind many civic apps.",
-    "url": "https://openparliament.ca",
-    "tags": [
-      "parliament",
-      "open data",
-      "api",
-      "bills",
-      "debates",
-      "mps",
-      "accountability"
-    ]
-  },
-  {
-    "name": "VoteGrid",
-    "level": "Regional",
-    "jurisdiction": "Canada",
-    "category": "council",
-    "type": "Municipal candidate guide",
-    "description": "Side-by-side comparison platform for municipal election candidates across Ontario, Manitoba, and British Columbia: see candidate experience, stances, and priorities to make informed choices. Non-partisan; built in Welland, Ontario.",
-    "url": "https://votegrid.ca",
-    "tags": [
-      "municipal",
-      "elections",
-      "voter-guide",
-      "candidate-comparison",
-      "ontario",
-      "manitoba",
-      "british-columbia",
-      "civic-tech"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "WRvotes",
-    "level": "Regional",
-    "jurisdiction": "Canada",
-    "category": "council",
-    "type": "Voter information platform",
-    "description": "Community-built voter information platform for Waterloo Region municipal elections: type your address or use the interactive ward map to find your candidates, plus all-candidate meeting info, ward listings, and how-to-vote resources. Open source (MIT), maintained by CivicTechWR volunteers for the October 26, 2026 municipal election. Non-partisan civic-tech project.",
-    "url": "https://development.waterlooregionvotes.org",
-    "tags": [
-      "municipal",
-      "elections",
-      "voter-guide",
-      "waterloo",
-      "ontario",
-      "civic-tech"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "Build Canada — Toronto 2026 Election Hub",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "council",
-    "type": "Voter information platform",
-    "description": "Free 2026 Toronto municipal election hub from non-partisan civic org Build Canada: a 30-question priorities survey matching voters to candidate questionnaire answers (15 mayoral + 44 council candidates responded per the Sep 2026 launch), plus key voting dates and ward information. Does not endorse any candidate.",
-    "url": "https://www.buildcanada.com/toronto/vote/2026/survey",
-    "tags": [
-      "municipal",
-      "toronto",
-      "elections",
-      "voter-guide",
-      "candidate-questionnaire",
-      "ontario",
-      "civic-tech"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "Access Nova Scotia",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "gov-services",
-    "type": "Service portal",
-    "description": "Official Nova Scotia provincial services portal: find in-person Access Nova Scotia locations, online services, and program information.",
-    "url": "https://www.novascotia.ca/access-nova-scotia",
-    "tags": [
-      "provincial",
-      "service portal",
-      "Nova Scotia",
-      "in-person services"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "Air Passenger Protection Portal",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "consumer",
-    "type": "Consumer protection",
-    "description": "The Canadian Transportation Agency's official one-stop shop for air travellers: know your rights on delays, cancellations, denied boarding and baggage, file a travel complaint, and get tips for hassle-free travel.",
-    "url": "https://airpassengerprotection.ca/",
-    "tags": [
-      "federal",
-      "air travel",
-      "passenger rights",
-      "complaints",
-      "CTA"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "BC Assessment — Property Assessment Search",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "housing",
-    "type": "Property assessment search",
-    "description": "Official BC Assessment e-valueBC lookup: search any British Columbia property's assessed value and property details.",
-    "url": "https://www.bcassessment.ca/Property/AssessmentSearch",
-    "tags": [
-      "provincial",
-      "property assessment",
-      "housing",
-      "real estate",
-      "BC"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "CATSA — Canadian Air Transport Security Authority",
-    "level": "Crown Corp",
-    "jurisdiction": "Canada",
-    "category": "aviation-marine",
-    "type": "Aviation tool",
-    "description": "Federal Crown corporation responsible for airport security screening: screening wait times, what you can bring on board, and program information.",
-    "url": "https://www.catsa-acsta.gc.ca/",
-    "tags": [
-      "crown corporation",
-      "airport",
-      "security screening",
-      "wait times",
-      "air travel"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "CRTC Broadband Fund — Projects Selected for Funding",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "telecom",
-    "type": "Broadband rollout tracker",
-    "description": "Filterable registry and interactive map of all 73 Broadband Fund projects bringing high-speed internet and cellphone service to rural, remote, and Indigenous communities, with recipient, funding amount, project status, and linked CRTC decisions.",
-    "url": "https://crtc.gc.ca/eng/Internet/select.htm",
-    "tags": [
-      "federal",
-      "broadband",
-      "rural",
-      "indigenous",
-      "internet",
-      "cellular",
-      "funding"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "Get Cyber Safe",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "safety",
-    "type": "Cyber security",
-    "description": "The Government of Canada's national cyber-safety campaign (Canadian Centre for Cyber Security): plain-language guidance, quizzes, and alerts helping individuals and small businesses stay safe online.",
-    "url": "https://www.getcybersafe.gc.ca/en",
-    "tags": [
-      "federal",
-      "cybersecurity",
-      "online safety",
-      "small business"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "National Student Loans Service Centre",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "education",
-    "type": "Student aid",
-    "description": "Federal portal for Canada Student Loans: manage your loan account, apply for repayment assistance, and make payments.",
-    "url": "https://www.csnpe-nslsc.canada.ca/",
-    "tags": [
-      "federal",
-      "student loans",
-      "repayment assistance",
-      "education funding"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "The Civics Project",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "education",
-    "type": "Political database",
-    "description": "Plain-language summaries of federal and provincial bills, votes, and representatives - the largest political database in Canada, built for citizens, journalists, and researchers. Non-partisan civic education.",
-    "url": "https://civicsproject.org",
-    "tags": [
-      "politics",
-      "bills",
-      "parliament",
-      "plain language",
-      "summaries",
-      "representatives",
-      "accountability"
-    ]
-  },
-  {
-    "name": "Federal Data Strategy Tracker",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "open-data",
-    "type": "Progress tracker",
-    "description": "Open Government tracker reporting progress on the 2023–2026 Federal Data Strategy's year 1 and year 2 priority actions, organized by mission.",
-    "url": "https://search.open.canada.ca/datastrategy/",
-    "tags": [
-      "federal",
-      "open-government",
-      "data-strategy",
-      "transparency"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "Elections Canada — Election Night Results",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "elections",
-    "type": "Election results portal",
-    "description": "Official live and validated federal election and by-election results portal with per-riding breakdowns and downloadable result files.",
-    "url": "https://enr.elections.ca/",
-    "tags": [
-      "federal",
-      "elections",
-      "results",
-      "riding-results",
-      "open-data"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "StatCan — Selected Health Indicators in Canada",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "health",
-    "type": "Health dashboard",
-    "description": "Interactive dashboard (released April 2026) of key health indicators — health outcomes, health behaviours, access to care — by geography and year, 2019–2024.",
-    "url": "https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2026005-eng.htm",
-    "tags": [
-      "federal",
-      "statistics",
-      "health",
-      "dashboard",
-      "data"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "Ethics Canada — Conflict of Interest and Ethics Commissioner",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "justice",
-    "type": "Public registry",
-    "description": "Official site of the independent parliamentary ethics office (replaces ciec-ccie.parl.gc.ca); hosts the searchable public registry of disclosures under the Conflict of Interest Act and the MPs' Code.",
-    "url": "https://www.ethicscanada.ca/",
-    "tags": [
-      "federal",
-      "ethics",
-      "conflict-of-interest",
-      "registry",
-      "parliament"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "Toronto — Housing Data Hub",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "housing",
-    "type": "Housing dashboard",
-    "description": "City of Toronto's central housing data hub: affordable rental housing map, housing data book, and the HousingTO 2020–2030 Action Plan progress dashboard.",
-    "url": "https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/",
-    "tags": [
-      "municipal",
-      "toronto",
-      "housing",
-      "data",
-      "dashboard",
-      "ontario"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "House of Commons — e-Petitions",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "elections",
-    "type": "Petition portal",
-    "description": "Official portal to search, sign, and track federal e-petitions presented to the House of Commons.",
-    "url": "https://www.ourcommons.ca/petitions/en/Petition/Search",
-    "tags": [
-      "federal",
-      "parliament",
-      "petitions",
-      "civic-engagement"
-    ],
-    "dateAdded": "2026-09-27"
-  },
-  {
-    "name": "Elections Canada Voter Turnout Visualization",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "council",
-    "type": "Voter turnout dashboard",
-    "description": "Interactive dashboard of federal voter turnout from 2004 to the present (GE38-GE45) by province, age group and gender, with data tables and a downloadable CSV of the underlying figures. Official Elections Canada source; the dataset is also published on open.canada.ca. Non-partisan, free.",
-    "url": "https://elections.ca/content.aspx?dir=turn%2Fviz&document=index&lang=e&section=ele",
-    "tags": [
-      "elections",
-      "voter-turnout",
-      "federal",
-      "dashboard",
-      "open data",
-      "csv"
-    ],
-    "dateAdded": "2026-09-27"
   }
 ]
