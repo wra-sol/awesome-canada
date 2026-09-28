@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1924 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1925 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 215
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 144
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 145
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
 - [🪪 Government Services & ID](#government-services-and-id) — 49
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
@@ -476,6 +476,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Elections Canada Voter Turnout Visualization | Canada · Federal | Voter turnout dashboard | Interactive dashboard of federal voter turnout from 2004 to the present (GE38-GE45) by province, age group and gender, with data tables and a downloadable CSV of the underlying figures. Official Elections Canada source; the dataset is also published on open.canada.ca. Non-partisan, free. | https://elections.ca/content.aspx?dir=turn%2Fviz&document=index&lang=e&section=ele |
 | House of Commons — Vote Records | Canada · Federal | Vote tracker | Every recorded vote in the House of Commons with each MP's position, browsable by parliament and session and downloadable as open XML data. | https://www.ourcommons.ca/members/en/votes |
 | LEGISinfo — Federal Bill Tracker | Canada · Federal | Legislation tracker | Tracks every federal bill through Parliament: full text at each stage, sponsor, legislative summaries, votes, coming-into-force data, with JSON/XML/RSS exports back to the 35th Parliament (1994). | https://www.parl.ca/legisinfo/en/bills |
 | OpenParliament.ca | Canada · Federal | Parliament watchdog | Open data on Parliament of Canada: bills, votes, debates (Hansard), MPs and committees, with a free JSON API — the canonical independent source behind many civic apps. | https://openparliament.ca |
