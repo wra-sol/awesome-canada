@@ -30004,5 +30004,25 @@
       "service canada"
     ],
     "dateAdded": "2026-09-28"
+  },
+  {
+    "name": "Open Council",
+    "level": "Municipal",
+    "jurisdiction": "London",
+    "category": "council",
+    "type": "Council vote/meeting tracker",
+    "description": "London, Ontario city council voting and meeting tracker, 2011–present: councillor records, meeting agendas and minutes, and an AI chatbot for asking questions about council decisions. Built by Heenal Rajani (@opencouncilldn); no paywall.",
+    "url": "https://opencouncil.xyz",
+    "tags": [
+      "council",
+      "london",
+      "ontario",
+      "votes",
+      "meetings",
+      "agendas",
+      "civic-tech",
+      "ai"
+    ],
+    "dateAdded": "2026-09-28"
   }
 ]
