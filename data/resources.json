@@ -29883,5 +29883,23 @@
       "civic-engagement"
     ],
     "dateAdded": "2026-09-27"
+  },
+  {
+    "name": "Elections Canada Voter Turnout Visualization",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Voter turnout dashboard",
+    "description": "Interactive dashboard of federal voter turnout from 2004 to the present (GE38-GE45) by province, age group and gender, with data tables and a downloadable CSV of the underlying figures. Official Elections Canada source; the dataset is also published on open.canada.ca. Non-partisan, free.",
+    "url": "https://elections.ca/content.aspx?dir=turn%2Fviz&document=index&lang=e&section=ele",
+    "tags": [
+      "elections",
+      "voter-turnout",
+      "federal",
+      "dashboard",
+      "open data",
+      "csv"
+    ],
+    "dateAdded": "2026-09-27"
   }
 ]
