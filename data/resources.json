@@ -30024,5 +30024,73 @@
       "ai"
     ],
     "dateAdded": "2026-09-28"
+  },
+  {
+    "name": "DriveTest",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "transport-roads",
+    "type": "Driver exam booking",
+    "description": "Ontario's official driver-examination service: book road tests (G2/G) and knowledge tests, find DriveTest Centres, check wait times and acceptable ID, plus remote check-in at high-volume centres. Operated by Serco on behalf of the Ministry of Transportation.",
+    "url": "https://drivetest.ca/",
+    "tags": [
+      "driving",
+      "driver-test",
+      "road-test",
+      "ontario",
+      "licensing"
+    ],
+    "dateAdded": "2026-09-28"
+  },
+  {
+    "name": "Toronto Parking Tickets Online",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "gov-services",
+    "type": "Tickets & fines service",
+    "description": "The City of Toronto's official parking-ticket hub: pay a penalty notice online, dispute a ticket (screening review and hearing requests), check fine amounts and payment deadlines, plus links for red-light-camera and other provincial offence tickets.",
+    "url": "https://www.toronto.ca/services-payments/tickets-fines-penalties/",
+    "tags": [
+      "toronto",
+      "parking",
+      "tickets",
+      "fines",
+      "payments"
+    ],
+    "dateAdded": "2026-09-28"
+  },
+  {
+    "name": "MyServiceOttawa",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "gov-services",
+    "type": "Service portal",
+    "description": "The City of Ottawa's account-based online services portal: property-tax and utility accounts, parking tickets, recreation registration, building-permit applications, pet registration and service requests, all behind a single MyServiceOttawa sign-in.",
+    "url": "https://ottawa.ca/en/city-hall/myserviceottawa",
+    "tags": [
+      "ottawa",
+      "services",
+      "property-tax",
+      "utilities",
+      "permits"
+    ],
+    "dateAdded": "2026-09-28"
+  },
+  {
+    "name": "BAnQ Pistard",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "culture",
+    "type": "Archive search",
+    "description": "Bibliothèque et Archives nationales du Québec's archival-records search tool (Pistard): search descriptions and digitized documents across Quebec's national archival holdings — civil registers, notarial archives, photographs, maps — searchable by keyword, name, place and date.",
+    "url": "https://pistard.banq.qc.ca",
+    "tags": [
+      "quebec",
+      "archives",
+      "genealogy",
+      "history",
+      "documents"
+    ],
+    "dateAdded": "2026-09-28"
   }
 ]

@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1932 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1936 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -29,7 +29,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
-- [🪪 Government Services & ID](#government-services-and-id) — 51
+- [🪪 Government Services & ID](#government-services-and-id) — 53
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 50
@@ -41,7 +41,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 42
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 43
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 44
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 70
@@ -50,7 +50,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 52
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 53
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 53
@@ -896,9 +896,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | ServiceOntario | Ontario · Provincial | Service portal | Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services | https://www.ontario.ca/page/serviceontario |
 | Brampton budget / Open Book resources | Brampton · Municipal | Transparency / budget | Budget transparency resources and project-oriented views | https://www.brampton.ca/EN/City-Hall/budget/ |
 | Guelph — Report a Problem Map | Guelph · Municipal | Service request map | Submit 311-style service requests (potholes, garbage, bylaw issues) on an interactive map with photos and get updates on the City's response. | https://experience.arcgis.com/experience/aa79df9526ab4c99914adc950eca9141 |
+| MyServiceOttawa | Ottawa · Municipal | Service portal | The City of Ottawa's account-based online services portal: property-tax and utility accounts, parking tickets, recreation registration, building-permit applications, pet registration and service requests, all behind a single MyServiceOttawa sign-in. | https://ottawa.ca/en/city-hall/myserviceottawa |
 | 311 Service Standard Dashboard — City of Toronto | Toronto · Municipal | Dashboard | City of Toronto’s public 311 performance dashboard: interactive view of service-request volumes, service levels, geographic distribution and 311 call responsiveness measured against published service standards, plus static 2025 dashboards with glossary. | https://www.toronto.ca/home/311-toronto-at-your-service/311-frequently-asked-questions/311-service-standard-dashboard/ |
 | Toronto — Waste Wizard | Toronto · Municipal | Lookup tool | Type any of 2,500+ items to find out which bin it goes in and where to drop off hazardous waste — also in the TOwaste app with collection schedules. | https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/ |
 | Toronto 311 — Service Requests | Toronto · Municipal | Service | Report issues, request services, and track cases in Toronto via web, app, or phone | https://www.toronto.ca/home/311-toronto-at-your-service/ |
+| Toronto Parking Tickets Online | Toronto · Municipal | Tickets & fines service | The City of Toronto's official parking-ticket hub: pay a penalty notice online, dispute a ticket (screening review and hearing requests), check fine amounts and payment deadlines, plus links for red-light-camera and other provincial offence tickets. | https://www.toronto.ca/services-payments/tickets-fines-penalties/ |
 
 ### Quebec
 
@@ -1887,6 +1889,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | 511 Ontario | Ontario · Provincial | Road conditions map | Real-time highway conditions, incidents, closures, and cameras | https://511on.ca/ |
+| DriveTest | Ontario · Provincial | Driver exam booking | Ontario's official driver-examination service: book road tests (G2/G) and knowledge tests, find DriveTest Centres, check wait times and acceptable ID, plus remote check-in at high-volume centres. Operated by Serco on behalf of the Ministry of Transportation. | https://drivetest.ca/ |
 | Ontario — Driver's Licence | Ontario · Provincial | Service | Apply for, renew, or replace an Ontario driver's licence and access related services | https://www.ontario.ca/page/drivers-licence |
 | Ontario — Licence Plate Sticker Renewal | Ontario · Provincial | Service | Renew your Ontario licence plate sticker online and check renewal status | https://www.ontario.ca/page/renew-licence-plate-sticker |
 | Ontario Photo Card | Ontario · Provincial | ID service | Apply for an Ontario Photo Card — government-issued photo ID for residents who don't have a driver's licence | https://www.ontario.ca/page/ontario-photo-card |
@@ -2774,6 +2777,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BAnQ — Bibliothèque et Archives nationales du Québec | Quebec · Provincial | Archive | Quebec's national library and archives with digitized newspapers, records, and genealogy | https://www.banq.qc.ca/ |
 | BAnQ numérique | Quebec · Provincial | Digital heritage portal | Browse and download Quebec's digitized heritage — newspapers, maps, photos, civil registers and notarial archives — including 100,000+ freely reusable public-domain documents. | https://numerique.banq.qc.ca/ |
+| BAnQ Pistard | Quebec · Provincial | Archive search | Bibliothèque et Archives nationales du Québec's archival-records search tool (Pistard): search descriptions and digitized documents across Quebec's national archival holdings — civil registers, notarial archives, photographs, maps — searchable by keyword, name, place and date. | https://pistard.banq.qc.ca |
 | Montreal Open Data showcase | Montreal · Municipal | App gallery | Gallery of applications built from Montreal open data | https://donnees.montreal.ca/en/showcase |
 
 ### Atlantic Canada (NB, NS, PE, NL)
