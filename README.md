@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1925 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1931 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -29,7 +29,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 145
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
-- [🪪 Government Services & ID](#government-services-and-id) — 49
+- [🪪 Government Services & ID](#government-services-and-id) — 51
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 50
@@ -37,9 +37,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 29
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 31
-- [🩺 Health & Wellness](#health-and-wellness) — 65
+- [🩺 Health & Wellness](#health-and-wellness) — 68
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 32
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 42
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
@@ -914,12 +914,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Post-Secondary Education, Training and Labour (PETL) — Employment Standards Online Complaint Form | New Brunswick · Provincial | Self-service portal | File an Employment Standards Act complaint online without paper: unpaid wages, overtime, vacation pay, termination pay and more, routed directly to PETL investigators. | https://www.gnb.ca/en/topic/jobs-workplaces/labour-market-workforce/employment-standards/employment-standards-complaint.html |
 | Access Nova Scotia | Nova Scotia · Provincial | Service portal | Official Nova Scotia provincial services portal: find in-person Access Nova Scotia locations, online services, and program information. | https://www.novascotia.ca/access-nova-scotia |
 | Nova Scotia Vital Statistics Online Services | Nova Scotia · Provincial | Document ordering | Apply online to Nova Scotia Vital Statistics for short- or long-form birth certificates, with X gender option and no sex display, credit card payment, and alternative mail/fax/in-person options. | https://www.novascotia.ca/apply-birth-certificate |
+| Halifax 311 — Service Requests | Halifax · Municipal | 311 service hub | Halifax Regional Municipality's 311 service hub: submit municipal service requests online (potholes, waste, parking, transit, animal services), plus phone/email/in-person contact details and service standards. | https://www.halifax.ca/home/311 |
 
 ### Northern Canada (YT, NT, NU)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Northwest Territories Geological Survey | Northwest Territories · Provincial | Geology maps | Geological maps, mining data, and geoscience publications for NWT | https://www.nwtgeoscience.ca/ |
+| NWT eServices Portal | Northwest Territories · Provincial | Service portal | The Government of the Northwest Territories' single-account online services portal: apprenticeship and trades certification, student financial assistance, fishing licences, and NWT health-care card applications and renewals. | https://services.nwt-tno.ca/ |
 
 ## 💰 Taxes & Revenue
 
@@ -1524,6 +1526,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Health Gateway | British Columbia · Provincial | Patient health record portal | BC's official health-records portal: lab results, medication history, immunization records, and hospital and community-health visits in one timeline, with a mobile app and email/SMS notifications for new records. Logged in with the BC Services Card app. | https://www.gov.bc.ca/healthgateway |
 | British Columbia — Surgery Wait Times | British Columbia · Provincial | Wait-time lookup | Compare scheduled-surgery wait times in BC by procedure, hospital and surgeon — see the wait to consult a surgeon and the wait for surgery, updated bi-monthly. | https://swt.hlth.gov.bc.ca/ |
 | HealthLink BC — 8-1-1 | British Columbia · Provincial | Health service | 24/7 non-emergency health advice, dietitian, and pharmacist services by phone and web in BC | https://www.healthlinkbc.ca/ |
 | Vaccinate BC | British Columbia · Provincial | Service | Book BC immunizations, view records, and find vaccine availability | https://www.getvaccinated.gov.bc.ca/ |
@@ -1542,6 +1545,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | eHealth Saskatchewan — Specialist Directory | Saskatchewan · Provincial | Lookup tool | Look up ~200 Saskatchewan surgeons and 2,600 procedures with weekly-updated surgical wait times so patients can compare specialists and travel for faster surgery. | https://specialists.ehealthsask.ca/ |
+| MySaskHealthRecord | Saskatchewan · Provincial | Patient health record portal | Saskatchewan's secure personal health-information portal (eHealth Saskatchewan): lab results, medical imaging reports, clinical visit and hospital admission history, immunization and prescription history, plus a mobile app and family-access options. | https://www.ehealthsask.ca/MySaskHealthRecord/MySaskHealthRecord/ |
 | Saskatchewan — Drug Plan Formulary Search | Saskatchewan · Provincial | Drug coverage search | Search which medications the Saskatchewan Drug Plan covers, with coverage status, exception drug criteria and formulary bulletins. | https://formulary.drugplan.ehealthsask.ca/ |
 | Saskatchewan eHealth | Saskatchewan · Provincial | Health records | Electronic health records, patient portals, and provincial health information services for Saskatchewan residents | https://www.ehealthsask.ca/ |
 
@@ -1573,6 +1577,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Clic Santé | Quebec · Provincial | Health appointment booking | Quebec's official online health-appointment booking portal: blood tests and specimen collection, vaccinations, screening and other public-health services, searchable by postal code across CLSCs and local points of service. | https://clicsante.ca |
 | Info-Santé 811 (Québec) | Quebec · Provincial | Health service | Québec's free 811 telephone consultation service for non-urgent health questions, staffed by nurses | https://www.quebec.ca/en/health/finding-a-resource/info-sante-811 |
 | INSPQ — Indicateurs de santé publique | Quebec · Provincial | Data portal | INSPQ surveillance portal of population-health indicators: mortality, chronic and infectious disease, mental health, life habits, social inequalities; dynamic charts filterable by age, sex and region. | https://www.inspq.qc.ca/indicateur |
 | MSSS — Emergency Room Hourly Occupancy Data | Quebec · Provincial | Open data feed | Hourly CSV from the provincial ER console: stretcher patients per facility, plus counts waiting 24h/48h+ across every Quebec hospital; refreshed continuously as part of open government. | https://msss.gouv.qc.ca/professionnels/statistiques-donnees-services-sante-services-sociaux/donnees-urgences/ |
@@ -1694,6 +1699,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Retirement Income Calculator | Canada · Federal | Calculator | Estimates retirement income from public pensions, workplace pensions, and savings | https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html |
 | Child and Family Benefits Calculator | Canada · Federal | Calculator | Estimates child and family benefit amounts | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html |
 | Disability Tax Credit Certificate — Form T2201 | Canada · Federal | Form | Apply for the Disability Tax Credit, which unlocks RDSP, CCB disability supplement, and more | https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html |
+| EI Internet Reporting Service | Canada · Federal | Benefit reporting | Service Canada's official EI reporting hub: file biweekly eligibility reports to keep benefits flowing, with a printable reporting calendar, the launch link to the Internet Reporting Service (SIN + 4-digit access code), and telephone/paper alternatives. | https://www.canada.ca/en/services/benefits/ei/ei-internet-reporting.html |
 | National School Food Program | Canada · Federal | Program | Federal $1 billion/5-year program (enshrined in the National School Food Program Act, 2026) working with provinces, territories and Indigenous partners to expand school meal programs to up to 400,000 more kids per year. | https://www.canada.ca/en/employment-social-development/programs/school-food.html |
 | Old Age Security (OAS) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for Old Age Security and Guaranteed Income Supplement | https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html |
 | Old Age Security Benefits Estimator | Canada · Federal | Calculator | Anonymous Service Canada estimator for OAS pension, Guaranteed Income Supplement, Allowance and Allowance for the Survivor amounts based on age, residency and income. | https://estimateursv-oasestimator.service.canada.ca/en/ |
