@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1936 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1937 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 29
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 31
-- [🩺 Health & Wellness](#health-and-wellness) — 68
+- [🩺 Health & Wellness](#health-and-wellness) — 69
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 42
@@ -1497,6 +1497,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | 9-8-8 Suicide Crisis Helpline | Canada · Federal | Crisis helpline | National 24/7 suicide crisis helpline (call or text 9-8-8, English/French), coordinated by CAMH and funded by the Government of Canada through the Public Health Agency of Canada. | https://988.ca |
 | Canada Health Infoway | Canada · Federal | Digital health | Digital health projects, pan-Canadian health data standards, and connected care resources | https://www.infoway-inforoute.ca/ |
+| Canada Mortality Surveillance Dashboard | Canada · Federal | Mortality surveillance dashboard | Interactive dashboard of provisional weekly death counts across Canadian provinces (2010–2026) by ICD-10 cause of death, built by independent civic builder Yiwei Chen on Statistics Canada open data (Table 13-10-0810-01). Non-partisan, free. | https://yiweic.shinyapps.io/canada-mortality-surveillance/ |
 | Canada.ca — Drug Shortages Canada | Canada · Federal | Database | Search the official database of reported and resolved drug shortages and discontinuations | https://www.drugshortagescanada.ca/ |
 | Canada's Clinical Trials Search Portal | Canada · Federal | Search portal | Health Canada portal (launched July 2026, replacing the former Clinical Trials Database) to search authorized drug trials by condition, product, status, sponsor, or approval date, with links to international registries. | https://www.canada.ca/en/health-canada/services/drugs-health-products/clinical-trials/search-portal.html |
 | Canada's Food Guide | Canada · Federal | Reference | Evidence-based food guidance, recipes, and meal planning from Health Canada | https://food-guide.canada.ca/en/ |
