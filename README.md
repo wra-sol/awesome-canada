@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1944 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1945 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 215
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 216
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 147
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
@@ -248,6 +248,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | 2026 City Budget | Toronto · Municipal | Budget portal | Official budget portal with accessible explainer content and documents | https://www.toronto.ca/Budget |
 | Toronto Maps / data and research hub | Toronto · Municipal | GIS / research hub | Broad entry point for city maps, data, and research tools | https://www.toronto.ca/city-government/data-research-maps/ |
 | Toronto Open Data Portal | Toronto · Municipal | Open data portal | One of the best municipal open data portals in Canada | https://open.toronto.ca/ |
+| Toronto Web Analytics (Open Data) | Toronto · Municipal | Web analytics dataset | City of Toronto publishes toronto.ca web analytics as open data: top viewed pages, bounce rates, devices used, traffic sources and visitor usage statistics, 2014 to today. Weekly, monthly and yearly reports (XLS/ZIP) under the Open Government Licence Toronto. | https://open.toronto.ca/dataset/web-analytics/ |
 | Vaughan Open Data Portal | Vaughan · Municipal | Open data portal | City of Vaughan open data portal — municipal data, maps, and analytics for city services | https://opendata-vaughan.hub.arcgis.com/ |
 | Waterloo City Open Data | Waterloo · Municipal | Open data hub | City of Waterloo ArcGIS open data with civic boundaries, property, and infrastructure datasets. | https://opendata-city-of-waterloo.opendata.arcgis.com/ |
 | Whitby GeoHub | Whitby · Municipal | Open Data Portal | Town of Whitby open data portal — municipal facilities, parks, trails, and planning datasets searchable and downloadable via ArcGIS Hub. | https://geohub-whitby.hub.arcgis.com/ |
