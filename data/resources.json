@@ -30257,5 +30257,36 @@
    "ckan"
   ],
   "dateAdded": "2026-09-29"
+ },
+ {
+  "name": "TTC Service Pulse",
+  "level": "Municipal",
+  "jurisdiction": "Toronto",
+  "category": "transit",
+  "type": "Transit tool",
+  "description": "Independent civic dashboard tracking TTC service reliability — delays, cancellations and performance trends — built on public TTC open data. By Donald Williams, independent civic technologist.",
+  "url": "https://transit.datalyiq.com/",
+  "tags": [
+   "transit",
+   "ttc",
+   "open-data",
+   "service-reliability"
+  ],
+  "dateAdded": "2026-09-29"
+ },
+ {
+  "name": "Toronto Bicycle Counters",
+  "level": "Municipal",
+  "jurisdiction": "Toronto",
+  "category": "transit",
+  "type": "Mobility map",
+  "description": "Live map of Toronto's bicycle counters showing cycling activity from City of Toronto open data. By Isaac Berman (observingthecity.ca).",
+  "url": "https://www.observingthecity.ca/bike-counters",
+  "tags": [
+   "transit",
+   "bikes",
+   "open-data"
+  ],
+  "dateAdded": "2026-09-29"
  }
 ]
