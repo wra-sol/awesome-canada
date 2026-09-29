@@ -22172,7 +22172,7 @@
     "category": "parks",
     "type": "Interactive map",
     "description": "Ontario's angler map of 20,000+ waterbodies: fish species observed, stocking records, regulations and sanctuaries, access points and lake depth contours.",
-    "url": "https://www.ontario.ca/page/how-use-fish-line",
+    "url": "https://www.lioapplications.lrc.gov.on.ca/fishonline/Index.html?viewer=FishONLine.FishONLine&locale=en-CA",
     "tags": [
       "fishing",
       "stocking",
@@ -30147,5 +30147,98 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "DFO — Fishery Notices",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "environment",
+    "type": "Notices database",
+    "description": "Fisheries and Oceans Canada's searchable official record of fishery notices: openings, closures, variation orders, and management notices across all regions (Pacific, Atlantic, Quebec, Arctic), searchable by region, date, and category. Fishers and harvesters check it daily for legally binding opening and closure information.",
+    "url": "https://notices.dfo-mpo.gc.ca/fns-sap/index-eng.cfm",
+    "tags": [
+      "federal",
+      "fisheries",
+      "dfo",
+      "notices",
+      "openings",
+      "closures",
+      "commercial fishing"
+    ],
+    "dateAdded": "2026-09-29"
+  },
+  {
+    "name": "VAC — Search Treatment Benefits (Benefit Grid)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Benefits database",
+    "description": "Veterans Affairs Canada's national Benefit Grid database: searchable coverage details for benefits and services across VAC's fourteen Programs of Choice, filterable by program, province, keyword, and benefit code, showing frequencies and dollar limits. Updated weekly; dental (POC 4), medical (POC 6), and prescriptions (POC 10) are handled separately.",
+    "url": "https://www.veterans.gc.ca/en/financial-programs-and-services/medical-costs/search-vac-treatment-benefits",
+    "tags": [
+      "federal",
+      "veterans",
+      "vac",
+      "treatment benefits",
+      "coverage",
+      "health benefits"
+    ],
+    "dateAdded": "2026-09-29"
+  },
+  {
+    "name": "DND/CAF Ombudsman — Military Benefits Browser",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Benefits browser",
+    "description": "The Office of the National Defence and Canadian Armed Forces Ombudsman's tagged, searchable index of military benefits for CAF members, veterans, and families — covering finances, life skills, transition to civilian life, and more — each entry with program details and contact information.",
+    "url": "https://www3.ombudsman.forces.gc.ca/Benefits/results_e.php",
+    "tags": [
+      "federal",
+      "veterans",
+      "caf",
+      "ombudsman",
+      "benefits",
+      "military families",
+      "transition"
+    ],
+    "dateAdded": "2026-09-29"
+  },
+  {
+    "name": "VAC — Prescription Drug Formulary Search (POC 10)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Formulary search",
+    "description": "Veterans Affairs Canada's searchable Prescription Drug Formulary (Program of Choice 10): the database of prescription medicines covered for eligible veterans, serving members, RCMP members, and their dependants/survivors, with special-authorization pathways for less common or higher-cost drugs.",
+    "url": "https://www.veterans.gc.ca/en/financial-programs-and-services/medical-costs/search-prescription-drug-program-poc-10",
+    "tags": [
+      "federal",
+      "veterans",
+      "vac",
+      "formulary",
+      "prescription drugs",
+      "drug coverage"
+    ],
+    "dateAdded": "2026-09-29"
+  },
+  {
+    "name": "BC — Recreational Freshwater Fishing Licence",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "British Columbia's official entry point to buy non-tidal recreational freshwater fishing licences online through the Wildlife Information and Licensing Data (WILD) system, including the required Fish and Wildlife ID (FWID) and the non-tidal salmon surcharge. In-person purchase remains an option.",
+    "url": "https://www2.gov.bc.ca/gov/content/sports-culture/recreation/fishing-hunting/fishing/recreational-freshwater-fishing-licence",
+    "tags": [
+      "provincial",
+      "british columbia",
+      "fishing",
+      "licence",
+      "angling",
+      "wild",
+      "recreation"
+    ],
+    "dateAdded": "2026-09-29"
   }
 ]

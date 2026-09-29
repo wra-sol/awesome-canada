@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1939 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1944 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -44,8 +44,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 44
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 70
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 79
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 71
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 80
 - [🌦️ Weather & Climate](#weather-and-climate) — 26
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
@@ -57,7 +57,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 53
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
-- [🎖️ Veterans & Military](#veterans-and-military) — 14
+- [🎖️ Veterans & Military](#veterans-and-military) — 17
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 78
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 25
 
@@ -2167,6 +2167,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC — Recreational Freshwater Fishing Licence | British Columbia · Provincial | Licence service | British Columbia's official entry point to buy non-tidal recreational freshwater fishing licences online through the Wildlife Information and Licensing Data (WILD) system, including the required Fish and Wildlife ID (FWID) and the non-tidal salmon surcharge. In-person purchase remains an option. | https://www2.gov.bc.ca/gov/content/sports-culture/recreation/fishing-hunting/fishing/recreational-freshwater-fishing-licence |
 | BC Parks | British Columbia · Provincial | Park finder | Clean park search experience with advisories and planning info | https://bcparks.ca/ |
 | BC Parks — Camping Reservations | British Columbia · Provincial | Reservation system | Reserve frontcountry campsites, backcountry permits, and group sites in BC's provincial parks | https://camping.bcparks.ca/ |
 | BC Parks Find a Park | British Columbia · Provincial | Finder | Filterable park explorer by activity, facilities, and area | https://bcparks.ca/find-a-park/ |
@@ -2199,7 +2200,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario Trails Council | Ontario · Agency | Trails finder | Searchable directory of 2,300+ Ontario trails across hiking, biking, paddling, and skiing | https://ontariotrails.on.ca/ |
-| Fish ON-Line | Ontario · Provincial | Interactive map | Ontario's angler map of 20,000+ waterbodies: fish species observed, stocking records, regulations and sanctuaries, access points and lake depth contours. | https://www.ontario.ca/page/how-use-fish-line |
+| Fish ON-Line | Ontario · Provincial | Interactive map | Ontario's angler map of 20,000+ waterbodies: fish species observed, stocking records, regulations and sanctuaries, access points and lake depth contours. | https://www.lioapplications.lrc.gov.on.ca/fishonline/Index.html?viewer=FishONLine.FishONLine&locale=en-CA |
 | Ontario Parks | Ontario · Provincial | Park finder / booking | Park discovery, camping, maps, and trip planning | https://www.ontarioparks.ca/ |
 | Ontario Parks — Fall Colour Report | Ontario · Provincial | Fall colour report | Official fall colour reports for 60+ provincial parks: colour-change %, leaf fall, dominant colours, and best viewing spots, updated daily through the season. | https://www.ontarioparks.ca/fallcolour |
 | Ontario Parks — Reservations | Ontario · Provincial | Reservation system | Book campsites, roofed accommodations, and backcountry permits across Ontario's provincial parks | https://reservations.ontarioparks.ca/ |
@@ -2243,6 +2244,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Ice Service | Canada · Federal | Marine/ice map | Super niche and very cool ice charts and marine ice information | https://ice-glaces.ec.gc.ca/ |
 | CHS — Tides, Currents and Water Levels | Canada · Federal | Prediction tool | Canadian Hydrographic Service predictions, observations and forecasts of tides and water levels for over 700 stations across Canada. | https://www.tides.gc.ca/en/tides-currents-and-water-levels |
 | ClimateData.ca | Canada · Federal | Climate tools | Downscaled climate projections, analysis tools, and scenario maps for Canada | https://climatedata.ca/ |
+| DFO — Fishery Notices | Canada · Federal | Notices database | Fisheries and Oceans Canada's searchable official record of fishery notices: openings, closures, variation orders, and management notices across all regions (Pacific, Atlantic, Quebec, Arctic), searchable by region, date, and category. Fishers and harvesters check it daily for legally binding opening and closure information. | https://notices.dfo-mpo.gc.ca/fns-sap/index-eng.cfm |
 | DFO — Seafisheries Landings Dashboard | Canada · Federal | Dashboard | Filter 1990–2024 commercial seafisheries landings by province, species and year on an interactive dashboard; download volume and value as CSV. | https://www.dfo-mpo.gc.ca/stats/commercial/sea-maritimes-eng.htm |
 | DFO — Shellfish Harvesting Map (SHELLI) | Canada · Federal | Interactive map | Daily-updated coastwide map of bivalve harvesting openings and contamination closures; check prohibition orders before digging clams, oysters, mussels or scallops. | https://www.dfo-mpo.gc.ca/shellfish-mollusques/cssp-map-eng.htm |
 | DFO — Sustainability Survey for Fisheries | Canada · Federal | Stock status dashboard | Browse status zones (Healthy, Cautious, Critical, Uncertain) for key Canadian fish stocks by DFO region, with annual summaries and downloadable survey data. | https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/survey-sondage/index-en.html |
@@ -3301,9 +3303,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Virtual War Memorial | Canada · Federal | Memorial registry | Searchable registry of Canada's war dead — over 120,000 records with photographs, service numbers, units, and burial locations, maintained by Veterans Affairs. Community photo submissions accepted. | https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial |
 | DND — Official Military Lineages | Canada · Federal | Reference database | Look up the official lineage, battle honours, badge, motto, and marches of every authorized Canadian Armed Forces unit since 1855, maintained by DND historians. | https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages.html |
 | DND/CAF — Current Operations List | Canada · Federal | Operations tracker | Filterable list of every current Canadian Armed Forces operation at home and abroad, with mission details, locations, and start dates. | https://www.canada.ca/en/department-national-defence/services/operations/military-operations/current-operations/list.html |
+| DND/CAF Ombudsman — Military Benefits Browser | Canada · Federal | Benefits browser | The Office of the National Defence and Canadian Armed Forces Ombudsman's tagged, searchable index of military benefits for CAF members, veterans, and families — covering finances, life skills, transition to civilian life, and more — each entry with program details and contact information. | https://www3.ombudsman.forces.gc.ca/Benefits/results_e.php |
 | Library and Archives Canada — First World War Personnel Records | Canada · Federal | Records database | Search roughly 622,000 digitized First World War service files of the Canadian Expeditionary Force by name, regimental number, or place of enlistment. | https://library-archives.canada.ca/eng/collection/research-help/military-heritage/first-world-war/Pages/fww-personnel.aspx |
 | Library and Archives Canada — Military Medals, Honours and Awards (1812–1969) | Canada · Federal | Reference database | Search medal registers, honours and citation cards for awards from the War of 1812, Fenian Raids, North West 1885 and WWI/WWII conduct medals — useful as proof of service where no service file exists. | https://www.canada.ca/en/library-archives/collection/research-help/military-history/military-medals-honours-awards.html |
 | Library and Archives Canada — Second World War Personnel Records (Service Files — War Dead) | Canada · Federal | Records database | WWII counterpart to the WWI database: search the open service files of the 44,090 Canadians who died in service 1939–1947 — attestation, service, medical, medals and death records, with genealogy packages digitized via Ancestry (free account). Survivors' files via ATIP. | https://www.canada.ca/en/library-archives/collection/research-help/military-history/second-world-war/personnel-records-second-world-war.html |
+| VAC — Prescription Drug Formulary Search (POC 10) | Canada · Federal | Formulary search | Veterans Affairs Canada's searchable Prescription Drug Formulary (Program of Choice 10): the database of prescription medicines covered for eligible veterans, serving members, RCMP members, and their dependants/survivors, with special-authorization pathways for less common or higher-cost drugs. | https://www.veterans.gc.ca/en/financial-programs-and-services/medical-costs/search-prescription-drug-program-poc-10 |
+| VAC — Search Treatment Benefits (Benefit Grid) | Canada · Federal | Benefits database | Veterans Affairs Canada's national Benefit Grid database: searchable coverage details for benefits and services across VAC's fourteen Programs of Choice, filterable by program, province, keyword, and benefit code, showing frequencies and dollar limits. Updated weekly; dental (POC 4), medical (POC 6), and prescriptions (POC 10) are handled separately. | https://www.veterans.gc.ca/en/financial-programs-and-services/medical-costs/search-vac-treatment-benefits |
 | Veterans Affairs Canada — Benefits Navigator | Canada · Federal | Finder | Interactive guide to VAC benefits based on your service background and needs | https://www.veterans.gc.ca/en/benefits-navigator |
 | Veterans Affairs Canada — Books of Remembrance Search | Canada · Federal | Memorial search | Search the names inscribed in Canada's Books of Remembrance and view the digitized page where each of the fallen is commemorated in the Peace Tower. | https://www.veterans.gc.ca/en/remembrance/memorials/books-remembrance/search-books-remembrance |
 | Veterans Affairs Canada — My VAC Account | Canada · Federal | Secure portal | Secure portal for veterans to apply for benefits, track claims, and manage services | https://www.veterans.gc.ca/en/contact-us/my-vac-account |
