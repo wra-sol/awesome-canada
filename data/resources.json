@@ -30092,5 +30092,23 @@
       "documents"
     ],
     "dateAdded": "2026-09-28"
+  },
+  {
+    "name": "Canada Mortality Surveillance Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Mortality surveillance dashboard",
+    "description": "Interactive dashboard of provisional weekly death counts across Canadian provinces (2010–2026) by ICD-10 cause of death, built by independent civic builder Yiwei Chen on Statistics Canada open data (Table 13-10-0810-01). Non-partisan, free.",
+    "url": "https://yiweic.shinyapps.io/canada-mortality-surveillance/",
+    "tags": [
+      "public-health",
+      "mortality",
+      "open data",
+      "dashboard",
+      "federal",
+      "statistics-canada"
+    ],
+    "dateAdded": "2026-09-28"
   }
 ]
