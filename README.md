@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1938 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1939 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 215
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 147
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
 - [🪪 Government Services & ID](#government-services-and-id) — 53
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
@@ -597,6 +597,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Timmins CivicWeb Council Portal | Timmins · Municipal | Council agendas and minutes | City of Timmins council calendar, agendas, minutes, resolutions, and by-laws — email subscription for new meeting packages. | https://timmins.civicweb.net/Portal/ |
 | Build Canada — Toronto 2026 Election Hub | Toronto · Municipal | Voter information platform | Free 2026 Toronto municipal election hub from non-partisan civic org Build Canada: a 30-question priorities survey matching voters to candidate questionnaire answers (15 mayoral + 44 council candidates responded per the Sep 2026 launch), plus key voting dates and ward information. Does not endorse any candidate. | https://www.buildcanada.com/toronto/vote/2026/survey |
 | Toronto Council Voting Records (TMMIS) | Toronto · Municipal | Vote records | Generate councillor attendance and voting records by meeting, committee, and date range; export results as CSV from TMMIS. | https://www.toronto.ca/legdocs/tmmis/votes-and-attendance.htm |
+| VoteToronto — Toronto City Hall, Decoded | Toronto · Municipal | Lookup tool | Explore Toronto City Hall decisions, councillor voting records, ward info, and registered lobbying contacts per councillor. Independent, non-partisan civic-information explorer built on official City of Toronto data; election coverage for the Oct 26, 2026 municipal vote. | https://votetoronto.com/ |
 | Vaughan — Council Agendas & Minutes (eScribe) | Vaughan · Municipal | Council portal | Searchable eScribe meeting portal for Vaughan with downloadable PDF agendas, minutes, and supporting documents for regular, special, and committee meetings. Verified live. Discovered via the documented pub-[city].escribemeetings.com pattern and verified live. | https://pub-vaughan.escribemeetings.com/ |
 | Whitby Find Your Ward | Whitby · Municipal | Interactive map | Address-based ward lookup tool for Whitby residents. Enter a civic address to identify your electoral ward and corresponding councillor. Useful for voter engagement, community organizing, campaigns, and understanding municipal representation boundaries. Hosted on the Whitby GeoHub ArcGIS platform. First council/democracy depth entry for Whitby beyond its GeoHub portal. | https://whitby.maps.arcgis.com/apps/instant/sidebar/index.html?appid=08adc676adc2432e85fc05fe43e18ebe |
 | Windsor Council Meetings — eScribe | Windsor · Municipal | Council meetings portal | Windsor City Council and standing committee agendas, minutes, and attachments on the public eScribe portal. | https://windsor.ca/city-hall/council-meetings |
