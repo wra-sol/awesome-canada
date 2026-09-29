@@ -30128,5 +30128,24 @@
    "consumer"
   ],
   "dateAdded": "2026-09-28"
+ },
+ {
+  "name": "VoteToronto — Toronto City Hall, Decoded",
+  "level": "Municipal",
+  "jurisdiction": "Toronto",
+  "category": "council",
+  "type": "Lookup tool",
+  "description": "Explore Toronto City Hall decisions, councillor voting records, ward info, and registered lobbying contacts per councillor. Independent, non-partisan civic-information explorer built on official City of Toronto data; election coverage for the Oct 26, 2026 municipal vote.",
+  "url": "https://votetoronto.com/",
+  "tags": [
+   "toronto",
+   "city council",
+   "voting records",
+   "lobbying",
+   "elections",
+   "open data",
+   "civic"
+  ],
+  "dateAdded": "2026-09-28"
  }
 ]
