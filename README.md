@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1937 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1938 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -40,7 +40,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🩺 Health & Wellness](#health-and-wellness) — 69
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 42
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 43
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 44
 - [🚌 Transit & Mobility](#transit-and-mobility) — 59
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
@@ -1821,6 +1821,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Landlord and Tenant Board (LTB) Ontario | Ontario · Provincial | Tribunal | File applications, download forms, and read LTB rules for Ontario residential tenancy disputes | https://tribunalsontario.ca/ltb/ |
 | Ontario — OnLand Property Records | Ontario · Provincial | Land registry | Ontario's official electronic land registration system: title searches, parcel registers, and property imagery for land titles and registry act properties across the province. | https://www.onland.ca/ |
 | Ontario Property Assessment — MPAC | Ontario · Provincial | Property | Municipal Property Assessment Corporation — look up your property's assessed value, class, and assessment details | https://www.mpac.ca/ |
+| RentSafeTO — Apartment Inspection Lookup | Toronto · Municipal | Lookup tool | Look up any Toronto apartment building's City inspection history, safety scores, and red flags (pests, elevators, orders) before signing a lease. Independent Next.js app built on City of Toronto RentSafeTO open data. | https://www.rentsafeto.com/ |
 | Toronto — Housing Data Hub | Toronto · Municipal | Housing dashboard | City of Toronto's central housing data hub: affordable rental housing map, housing data book, and the HousingTO 2020–2030 Action Plan progress dashboard. | https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/ |
 | Windsor Property Tax Calculator | Windsor · Municipal | Calculator | Estimate your annual property tax bill in Windsor based on assessed value and property class | https://www.citywindsor.ca/taxes/property-taxes/property-tax-calculator |
 
