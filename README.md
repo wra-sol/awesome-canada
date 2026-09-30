@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1950 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1954 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -36,7 +36,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [💼 Employment & Labour](#employment-and-labour) — 40
 - [🎓 Education & Student Aid](#education-and-student-aid) — 29
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 36
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 40
 - [🩺 Health & Wellness](#health-and-wellness) — 69
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
@@ -1420,6 +1420,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | CICC — Public Register of Immigration Consultants | Canada · Federal | Public Register | Search the federal regulator's register to verify a paid immigration consultant is licensed | https://register.college-ic.ca/ |
+| ESDC — LMIA Online Portal | Canada · Federal | Apply online | Federal portal for Canadian employers to submit Labour Market Impact Assessment applications online | https://www.canada.ca/lmia-online |
 | Express Entry — Create an Express Entry Profile | Canada · Federal | Service | Submit your Express Entry profile online to be entered into the pool of candidates for Canada's primary economic immigration programs | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile.html |
 | Express Entry — CRS Score Calculator | Canada · Federal | Calculator | Calculate your Comprehensive Ranking System score for Express Entry from age, education, language, and work experience | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html |
 | Express Entry — Eligibility Checker | Canada · Federal | Eligibility tool | Find out if you're eligible for Express Entry under the Federal Skilled Worker, Federal Skilled Trades, or Canadian Experience Class programs | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility.html |
@@ -1458,6 +1459,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| SINP — OASIS Online Application Portal | Saskatchewan · Provincial | Apply online | Saskatchewan's official online application system for the Saskatchewan Immigrant Nominee Program: create an account, submit an expression of interest, apply, and track correspondence | https://immigration.saskatchewan.ca/ |
 | SINP Processing Statistics — Saskatchewan Immigrant Nominee Program | Saskatchewan · Provincial | Draw results & processing times | Official SINP dashboard: quarterly processing times by category, EOI intake windows and caps for capped sectors, and nominations-issued totals for 2026. | https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/sinp-processing-statistics |
 
 ### Manitoba
@@ -1465,6 +1467,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Manitoba Provincial Nominee Program | Manitoba · Provincial | Nominee program | Manitoba's streams including Skilled Worker in Manitoba, International Education, and Business | https://immigratemanitoba.com/ |
+| MPNP — MPNP Online Portal | Manitoba · Provincial | Apply online | Manitoba's official portal for the Manitoba Provincial Nominee Program: create an account and submit your expression of interest — the only way to submit an EOI to the MPNP | https://web22.gov.mb.ca/sso/Account/LogOn |
 
 ### Ontario
 
@@ -1484,6 +1487,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| INB — Immigration New Brunswick Online Portal | New Brunswick · Provincial | Apply online | New Brunswick's official immigration portal: create an account, submit an expression of interest, and upload documents for the provincial nominee program | https://www.inb.gnb.ca/ |
 | New Brunswick Provincial Nominee Program | New Brunswick · Provincial | Program portal | Immigration NB's NBPNP page: streams, EOI via INB portal, scheduled invitation-draw rounds listing, nomination application steps and post-nomination guidance. | https://www.gnb.ca/en/topic/family-home-community/immigration/provincial-nominee-program.html |
 | Office of Immigration and Multiculturalism — AIP Designated Employers List | Newfoundland and Labrador · Provincial | Public Register | Official register of employers designated for the Atlantic Immigration Program, listing each employer's communities, designation date and eligible NOC occupation codes. | https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/atlantic-immigration-program/designated-employers/ |
 | Nova Scotia Nominee Program — Live in NS | Nova Scotia · Provincial | Program portal | Official NS government NSNP hub: stream eligibility (Skilled Worker, Graduate, Entrepreneur, Express Entry), EOI submission, draw selection rules, and fee updates. | https://liveinnovascotia.com/nova-scotia-nominee-program |

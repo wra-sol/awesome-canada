@@ -30345,5 +30345,73 @@
    "api"
   ],
   "dateAdded": "2026-09-30"
+ },
+ {
+  "name": "SINP — OASIS Online Application Portal",
+  "level": "Provincial",
+  "jurisdiction": "Saskatchewan",
+  "category": "immigration",
+  "type": "Apply online",
+  "description": "Saskatchewan's official online application system for the Saskatchewan Immigrant Nominee Program: create an account, submit an expression of interest, apply, and track correspondence",
+  "url": "https://immigration.saskatchewan.ca/",
+  "tags": [
+   "immigration",
+   "pnp",
+   "sinp",
+   "saskatchewan",
+   "apply"
+  ],
+  "dateAdded": "2026-09-30"
+ },
+ {
+  "name": "MPNP — MPNP Online Portal",
+  "level": "Provincial",
+  "jurisdiction": "Manitoba",
+  "category": "immigration",
+  "type": "Apply online",
+  "description": "Manitoba's official portal for the Manitoba Provincial Nominee Program: create an account and submit your expression of interest — the only way to submit an EOI to the MPNP",
+  "url": "https://web22.gov.mb.ca/sso/Account/LogOn",
+  "tags": [
+   "immigration",
+   "pnp",
+   "mpnp",
+   "manitoba",
+   "apply"
+  ],
+  "dateAdded": "2026-09-30"
+ },
+ {
+  "name": "INB — Immigration New Brunswick Online Portal",
+  "level": "Provincial",
+  "jurisdiction": "New Brunswick",
+  "category": "immigration",
+  "type": "Apply online",
+  "description": "New Brunswick's official immigration portal: create an account, submit an expression of interest, and upload documents for the provincial nominee program",
+  "url": "https://www.inb.gnb.ca/",
+  "tags": [
+   "immigration",
+   "pnp",
+   "new brunswick",
+   "inb",
+   "apply"
+  ],
+  "dateAdded": "2026-09-30"
+ },
+ {
+  "name": "ESDC — LMIA Online Portal",
+  "level": "Federal",
+  "jurisdiction": "Canada",
+  "category": "immigration",
+  "type": "Apply online",
+  "description": "Federal portal for Canadian employers to submit Labour Market Impact Assessment applications online",
+  "url": "https://www.canada.ca/lmia-online",
+  "tags": [
+   "immigration",
+   "lmia",
+   "employer",
+   "esdc",
+   "apply"
+  ],
+  "dateAdded": "2026-09-30"
  }
 ]
