@@ -16505,13 +16505,13 @@
     "dateAdded": "2026-08-25"
   },
   {
-    "name": "Quebec Immigration — Mon projet Québec",
+    "name": "Quebec Immigration — Arrima",
     "level": "Provincial",
     "jurisdiction": "Quebec",
     "category": "immigration",
     "type": "Service",
-    "description": "Quebec-specific immigration programs including selection criteria for skilled workers",
-    "url": "https://www.quebec.ca/en/immigration",
+    "description": "Quebec-specific immigration programs including selection criteria for skilled workers Apply via Arrima, which replaced Mon projet Québec in 2021.",
+    "url": "https://www.quebec.ca/en/immigration/online-immigration-services",
     "tags": [
       "Quebec",
       "immigration"
@@ -30244,5 +30244,89 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "IRCC — Apply for an eTA",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Apply online",
+    "description": "Apply online for an Electronic Travel Authorization to fly to or transit through Canada",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html",
+    "tags": [
+      "immigration",
+      "IRCC",
+      "eta",
+      "travel",
+      "visitor"
+    ],
+    "dateAdded": "2026-09-30"
+  },
+  {
+    "name": "Express Entry — CRS Score Calculator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Calculator",
+    "description": "Calculate your Comprehensive Ranking System score for Express Entry from age, education, language, and work experience",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html",
+    "tags": [
+      "immigration",
+      "IRCC",
+      "express entry",
+      "crs",
+      "calculator"
+    ],
+    "dateAdded": "2026-09-30"
+  },
+  {
+    "name": "CICC — Public Register of Immigration Consultants",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Public Register",
+    "description": "Search the federal regulator's register to verify a paid immigration consultant is licensed",
+    "url": "https://register.college-ic.ca/",
+    "tags": [
+      "immigration",
+      "consultant",
+      "registry",
+      "cicc",
+      "representative"
+    ],
+    "dateAdded": "2026-09-30"
+  },
+  {
+    "name": "IRCC — Find a Biometrics Collection Site",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Finder",
+    "description": "Find where to give fingerprints and a photo: visa application centres, Service Canada offices, or US support centers",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/where-to-give-biometrics.html",
+    "tags": [
+      "immigration",
+      "IRCC",
+      "biometrics",
+      "finder"
+    ],
+    "dateAdded": "2026-09-30"
+  },
+  {
+    "name": "OINP — e-Filing Portal",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "immigration",
+    "type": "Apply online",
+    "description": "Ontario's official portal to register an expression of interest and apply to the Ontario Immigrant Nominee Program",
+    "url": "https://www.ontarioimmigration.gov.on.ca/oinp_index/resources/app/guest/index.html",
+    "tags": [
+      "immigration",
+      "pnp",
+      "oinp",
+      "ontario",
+      "apply"
+    ],
+    "dateAdded": "2026-09-30"
   }
 ]

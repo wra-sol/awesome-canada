@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1944 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1949 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -36,7 +36,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [💼 Employment & Labour](#employment-and-labour) — 40
 - [🎓 Education & Student Aid](#education-and-student-aid) — 29
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 31
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 36
 - [🩺 Health & Wellness](#health-and-wellness) — 69
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
@@ -1418,14 +1418,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| CICC — Public Register of Immigration Consultants | Canada · Federal | Public Register | Search the federal regulator's register to verify a paid immigration consultant is licensed | https://register.college-ic.ca/ |
 | Express Entry — Create an Express Entry Profile | Canada · Federal | Service | Submit your Express Entry profile online to be entered into the pool of candidates for Canada's primary economic immigration programs | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile.html |
+| Express Entry — CRS Score Calculator | Canada · Federal | Calculator | Calculate your Comprehensive Ranking System score for Express Entry from age, education, language, and work experience | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html |
 | Express Entry — Eligibility Checker | Canada · Federal | Eligibility tool | Find out if you're eligible for Express Entry under the Federal Skilled Worker, Federal Skilled Trades, or Canadian Experience Class programs | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility.html |
 | Francophone Community Immigration Pilot | Canada · Federal | Immigration pilot | IRCC 2025 pilot offering a path to permanent residence for French-speaking skilled workers settling in Francophone minority communities outside Quebec. | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility.html |
 | Immigration, Refugees and Citizenship Canada — Come to Canada Tool | Canada · Federal | Eligibility tool | Answer two questions to get a personalized list of immigration programs you may be eligible for, with a personal reference code | https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html |
 | IRCC — Application Processing Times | Canada · Federal | Reference | Official processing times for PR, citizenship, visas, work/study permits updated weekly | https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html |
+| IRCC — Apply for an eTA | Canada · Federal | Apply online | Apply online for an Electronic Travel Authorization to fly to or transit through Canada | https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html |
 | IRCC — Asylum Claimants Monthly Open Data | Canada · Federal | Open data | Monthly IRCC open data on asylum claimants by claim office type, province/territory of claim, age, gender and top countries of citizenship — updated monthly in CSV/XLSX tables. | https://open.canada.ca/data/en/dataset/b6cbcf4d-f763-4924-a2fb-8cc4a06e3de4 |
 | IRCC — Check Application Status | Canada · Federal | Status tracker | Check the status of citizenship, permanent residence, and temporary visa applications online | https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html |
 | IRCC — Express Entry Rounds of Invitations | Canada · Federal | Reference | Historical CRS cut-off scores and candidate counts for every Express Entry draw | https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html |
+| IRCC — Find a Biometrics Collection Site | Canada · Federal | Finder | Find where to give fingerprints and a photo: visa application centres, Service Canada offices, or US support centers | https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/where-to-give-biometrics.html |
 | IRCC — Find Free Newcomer Services Near You | Canada · Federal | Service finder | Official settlement service search: enter a postal code or city to find free federally funded newcomer services, filterable by language, online/in-person format, and service type (employment help, language training, settlement plans). | https://ircc.canada.ca/english/newcomers/services/index.asp |
 | IRCC — Medical Requirements and Panel Physicians | Canada · Federal | Finder | Find IRCC panel physicians and review medical exam requirements by country | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/medical-exams.html |
 | IRCC — Permanent Residents Monthly Open Data | Canada · Federal | Open data | Download monthly PR admissions by province, CMA, citizenship, category, age and gender as CSV or XLSX; updated monthly through June 2026. | https://open.canada.ca/data/en/dataset/f7e5498e-0ad8-4417-85c9-9b8aff9b9eda |
@@ -1465,6 +1469,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| OINP — e-Filing Portal | Ontario · Provincial | Apply online | Ontario's official portal to register an expression of interest and apply to the Ontario Immigrant Nominee Program | https://www.ontarioimmigration.gov.on.ca/oinp_index/resources/app/guest/index.html |
 | OINP — Invitations to Apply | Ontario · Provincial | Draw results | Official record of Ontario Immigrant Nominee Program expression-of-interest invitations to apply, by stream, issue date, profile creation window and score cut-off, back to 2021. | https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp-invitations-apply |
 | Ontario Immigrant Nominee Program (OINP) | Ontario · Provincial | Nominee program | Ontario's PNP streams for skilled workers, international students, and investors | https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp |
 
@@ -1472,7 +1477,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Quebec Immigration — Mon projet Québec | Quebec · Provincial | Service | Quebec-specific immigration programs including selection criteria for skilled workers | https://www.quebec.ca/en/immigration |
+| Quebec Immigration — Arrima | Quebec · Provincial | Service | Quebec-specific immigration programs including selection criteria for skilled workers Apply via Arrima, which replaced Mon projet Québec in 2021. | https://www.quebec.ca/en/immigration/online-immigration-services |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
