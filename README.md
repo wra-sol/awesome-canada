@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1947 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1944 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 216
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 147
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
 - [🪪 Government Services & ID](#government-services-and-id) — 53
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
@@ -41,8 +41,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 43
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 44
-- [🚌 Transit & Mobility](#transit-and-mobility) — 61
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 43
+- [🚌 Transit & Mobility](#transit-and-mobility) — 60
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 71
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 80
@@ -594,7 +594,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Sarnia — Council Agendas & Minutes (CivicWeb) | Sarnia · Municipal | Council meetings portal | Searchable CivicWeb document portal for City of Sarnia council and committee agendas, minutes, and reports. Browse by meeting date and document type to download PDF agendas and track motions, decisions, and public hearings. First council entry for this southwestern Ontario city. | https://sarnia.civicweb.net/Portal/ |
 | St. Catharines — Council Agendas & Minutes (eScribe) | St. Catharines · Municipal | Council meetings portal | Searchable City of St. Catharines council and committee agendas, minutes, and attachments on the public eScribe portal. Browse by meeting date to download PDF agendas, minutes, and reports. First council entry for this Niagara Region city. | https://pub-stcatharines.escribemeetings.com/ |
 | St. Thomas — Council Agendas & Minutes (eScribe) | St. Thomas · Municipal | Council portal | Searchable eScribe meeting portal with downloadable PDF agendas, minutes and supporting documents for St. Thomas regular, special and committee meetings. | https://pub-stthomas.escribemeetings.com/ |
-| Thunder Bay Council Meetings | Thunder Bay · Municipal | Council meetings | Thunder Bay City Council meeting agendas, minutes, and webcasts. | https://www.thunderbay.ca/en/city-hall/city-council-thunder-bay.aspx |
 | Timmins CivicWeb Council Portal | Timmins · Municipal | Council agendas and minutes | City of Timmins council calendar, agendas, minutes, resolutions, and by-laws — email subscription for new meeting packages. | https://timmins.civicweb.net/Portal/ |
 | Build Canada — Toronto 2026 Election Hub | Toronto · Municipal | Voter information platform | Free 2026 Toronto municipal election hub from non-partisan civic org Build Canada: a 30-question priorities survey matching voters to candidate questionnaire answers (15 mayoral + 44 council candidates responded per the Sep 2026 launch), plus key voting dates and ward information. Does not endorse any candidate. | https://www.buildcanada.com/toronto/vote/2026/survey |
 | Toronto Council Voting Records (TMMIS) | Toronto · Municipal | Vote records | Generate councillor attendance and voting records by meeting, committee, and date range; export results as CSV from TMMIS. | https://www.toronto.ca/legdocs/tmmis/votes-and-attendance.htm |
@@ -1912,7 +1911,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Allo-MTL — Montréal en temps réel | Montreal · Municipal | Real-time city map | Aggregates 20+ datasets: snow removal, parking signs, bike routes, trees, air quality, and more | https://donnees.montreal.ca/en/showcase/allo-mtl-montreal-temps-reel |
 | Montréal — Find a Towed Car | Montreal · Municipal | Lookup tool | Enter your licence plate or the spot where you parked to find out where the city towed your car during snow removal or roadwork. | https://montreal.ca/en/find-towed-car |
 | Montréal — Snow Removal Operations Map | Montreal · Municipal | Live map | See when your street is scheduled for snow clearing and loading, plus free incentive parking lots during operations — the map behind the INFO-Neige app. | https://montreal.ca/en/services/snow-removal-operations-map |
-| Saguenay Réseau routier — Données Québec | Saguenay · Municipal | Road network dataset | Saguenay municipal road centreline network — CSV, GeoJSON, and shapefile download from Données Québec. | https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay&q=r%C3%A9seau+routier |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -2009,7 +2007,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | MiWay — Mississauga Transit | Mississauga · Municipal | Transit | MiWay bus routes, schedules, and real-time info for Mississauga | https://www.mississauga.ca/miway |
 | North Bay Transit GTFS | North Bay · Municipal | GTFS feed | Direct GTFS.zip download of North Bay Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland. | https://northbay.tmix.se/gtfs/gtfs.zip |
 | Oakville Transit GTFS | Oakville · Municipal | GTFS feed | Direct GTFS.zip download of Oakville Transit bus schedules, routes, and stops. Updated as needed when service changes occur; archive versions available via Transitland. | https://www.arcgis.com/sharing/rest/content/items/d78a1c1ad6a940009de8b68839a8f606/data |
-| Thunder Bay Transit | Ontario · Municipal | Transit | Thunder Bay Transit routes, schedules, real-time bus tracking, and fare information | https://www.thunderbay.ca/transit |
 | Toronto Bicycle Counters | Toronto · Municipal | Mobility map | Live map of Toronto's bicycle counters showing cycling activity from City of Toronto open data. By Isaac Berman (observingthecity.ca). | https://www.observingthecity.ca/bike-counters |
 | Toronto Bike Share station map | Toronto · Municipal | Mobility map | Station finder and system map for bike share | https://bikesharetoronto.com/system-map/ |
 | Toronto TTC GTFS Feed | Toronto · Municipal | GTFS feed | Official TTC GTFS static schedule feed for routes, stops, and trips — download zip from the Open Data Portal for app development. | https://open.toronto.ca/dataset/ttc-routes-and-schedules/ |
