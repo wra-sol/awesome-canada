@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1949 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1950 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 216
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 217
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
@@ -80,6 +80,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Government of Canada — Open Government Portal | Canada · Federal | Open data portal | Search 40,000+ federal datasets, reports, and geospatial layers with API access | https://search.open.canada.ca/opendata/ |
 | Infrastructure Canada — Approved Projects Dataset | Canada · Federal | Open data | Downloadable register of infrastructure projects approved by Infrastructure Canada/Housing, Infrastructure and Communities Canada, with funding, location and status fields; weekly-updated CSV, XLSX and JSON. | https://open.canada.ca/data/en/dataset/beee0771-dab9-4be8-9b80-f8e8b3fdfd9d |
 | ISED API Catalogue | Canada · Federal | API catalogue | Catalogue of APIs published by Innovation, Science and Economic Development Canada, including corporations, patents, and business data. | https://api.ised-isde.canada.ca/en |
+| MobilityData — Mobility Database | Canada · Federal | Civic tech nonprofit | Montreal-based nonprofit governing the GTFS and GBFS open-data standards that public transit data runs on; runs the Mobility Database — a searchable catalog and API of 2,000+ mobility datasets with 136 active Canadian transit feeds. Official successor to TransitFeeds.com/OpenMobilityData. | https://mobilitydata.org/ |
 | National Capital Commission — NCC Hub Open Data | Canada · Federal | Open data | NCC's official ArcGIS Hub (21 datasets): download CSV, GeoJSON, KML or query REST/WFS APIs for Rideau Canal Skateway ice conditions, Greenbelt land-use designations, NCR boundaries. | https://ncc-hub-ncc-ccn.hub.arcgis.com/ |
 | National Defence — Open Data Datasets | Canada · Federal | Open data collection | Browse and download National Defence datasets on the Open Government portal — personnel statistics, pay scales, performance indicators, and more, many in CSV. | https://open.canada.ca/data/en/organization/dnd-mdn |
 | NRC Digital Repository | Canada · Federal | Research data repository | National Research Council's persistent archive of research datasets, corporate publications back to 1954, and special collections, searchable and openly accessible. | https://nrc-digital-repository.canada.ca/eng/list/collections/ |
