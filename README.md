@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1959 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1963 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -34,7 +34,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 49
 - [💼 Employment & Labour](#employment-and-labour) — 40
-- [🎓 Education & Student Aid](#education-and-student-aid) — 29
+- [🎓 Education & Student Aid](#education-and-student-aid) — 33
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 40
 - [🩺 Health & Wellness](#health-and-wellness) — 72
@@ -1280,6 +1280,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ministry of Education — Regulated Child Care Finder | Saskatchewan · Provincial | Lookup tool | Search 1,380 regulated child-care centres and homes on an interactive map; filter by infants, extended/24-hour hours, francophone and teen-parent programs. | https://www.saskatchewan.ca/residents/family-and-social-support/child-care/find-a-child-care-provider-in-my-community |
 | Saskatchewan Apprenticeship & Trade Certification Commission — Trade Certification Verification | Saskatchewan · Provincial | Credential lookup | Online registry to verify whether someone is a registered Saskatchewan apprentice or holds a journeyperson/Red Seal certificate, searchable by name and certification number. | https://saskapprenticeship.ca/check-credentials/ |
+| Saskatchewan Student Aid | Saskatchewan · Provincial | Student aid hub | Official hub for Saskatchewan student aid: apply online once and be assessed for provincial and federal loans, grants, scholarships, bursaries, disability grants and loan forgiveness. | https://www.saskatchewan.ca/studentloans |
 
 ### Manitoba
 
@@ -1311,10 +1312,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Department of Education and Early Childhood Development — Child Care Finder | New Brunswick · Provincial | Lookup tool | Map-search licensed early-learning and childcare sites by community or name; filter by age, open spaces, designation, language and district. | https://www.nbed.nb.ca/parentportal/en/Search/Elc/ |
+| NB Student Aid Portal | New Brunswick · Provincial | Student aid portal | Secure NB Student Aid account: apply for full-time student aid online, upload supporting documents and receive electronic correspondence; one application is assessed for the Canada-New Brunswick Integrated Student Loan, grants and bursaries. | https://studentaid.gnb.ca/ |
 | New Brunswick Student Financial Services | New Brunswick · Provincial | Student assistance | NB student loans and grants portal: eligibility, application, and repayment for provincial and Canada-New Brunswick integrated loans. | https://www2.gnb.ca/content/gnb/en/services/services_renderer.201437.html |
 | Ministry of Education and Early Childhood Development — Early Learning and Child Care Directory | Newfoundland and Labrador · Provincial | Search Directory | Map-based database of all regulated child care in NL — centres, family providers and agencies — searchable by community, route or child's age, with recent violation orders. | https://www.childcare.gov.nl.ca/public/ccr/search |
+| StudentAidNL | Newfoundland and Labrador · Provincial | Student aid hub | Newfoundland and Labrador's official student-aid hub: one application assessed for both federal and provincial loans and grants, with an online StudentAidNL account, weekly provincial maximums and the Debt Reduction Grant program. | https://www.gov.nl.ca/studentaid |
 | Department of Education and Early Childhood Development — Child Care Directory | Nova Scotia · Provincial | Dataset + lookup | Search all ~338 active licensed daycares by county, city or program type; filter licence details, capacity, inspections and age ranges. CSV/GeoJSON/Socrata API downloads. | https://data.novascotia.ca/Education-Early-Childhood/Child-Care-Directory/3j9v-yimg |
 | Nova Scotia Student Assistance | Nova Scotia · Provincial | Student aid | Student loans, grants, and repayment assistance for Nova Scotia post-secondary students | https://novascotia.ca/studentassistance/ |
+| PEI — Student Financial Services | Prince Edward Island · Provincial | Apply online | PEI's official student-aid application via MyPATH: one online full-time application assessed for both federal and provincial loans and grants, with document uploads, application action items and funding assessment. | https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/applying-for-student-aid-full-time |
 
 ### Northern Canada (YT, NT, NU)
 

@@ -30504,5 +30504,72 @@
       "pei"
     ],
     "dateAdded": "2026-10-01"
+  },
+  {
+    "name": "NB Student Aid Portal",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "education",
+    "type": "Student aid portal",
+    "description": "Secure NB Student Aid account: apply for full-time student aid online, upload supporting documents and receive electronic correspondence; one application is assessed for the Canada-New Brunswick Integrated Student Loan, grants and bursaries.",
+    "url": "https://studentaid.gnb.ca/",
+    "tags": [
+      "student aid",
+      "new brunswick",
+      "loans",
+      "grants",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
+    "name": "StudentAidNL",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "education",
+    "type": "Student aid hub",
+    "description": "Newfoundland and Labrador's official student-aid hub: one application assessed for both federal and provincial loans and grants, with an online StudentAidNL account, weekly provincial maximums and the Debt Reduction Grant program.",
+    "url": "https://www.gov.nl.ca/studentaid",
+    "tags": [
+      "student aid",
+      "newfoundland and labrador",
+      "loans",
+      "grants"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
+    "name": "PEI — Student Financial Services",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "education",
+    "type": "Apply online",
+    "description": "PEI's official student-aid application via MyPATH: one online full-time application assessed for both federal and provincial loans and grants, with document uploads, application action items and funding assessment.",
+    "url": "https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/applying-for-student-aid-full-time",
+    "tags": [
+      "student aid",
+      "prince edward island",
+      "loans",
+      "grants",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
+    "name": "Saskatchewan Student Aid",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "education",
+    "type": "Student aid hub",
+    "description": "Official hub for Saskatchewan student aid: apply online once and be assessed for provincial and federal loans, grants, scholarships, bursaries, disability grants and loan forgiveness.",
+    "url": "https://www.saskatchewan.ca/studentloans",
+    "tags": [
+      "student aid",
+      "saskatchewan",
+      "loans",
+      "grants",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-01"
   }
 ]
