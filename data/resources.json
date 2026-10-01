@@ -24947,6 +24947,25 @@
     ]
   },
   {
+    "category": "safety",
+    "dateAdded": "2026-10-01",
+    "description": "Toronto neighbourhood safety and property reports by Magnistics (independent): look up any postal code, neighbourhood, or address for police-reported incidents in plain language with coverage maps, building permits address-by-address, and TRREB average home prices. Methodology is public (public-record figures, no rankings, no small-count percentages, visible corrections); monthly editions co-published free with residents' associations. Featured in the City of Toronto open-data gallery.",
+    "jurisdiction": "Toronto",
+    "level": "Municipal",
+    "name": "The Keelson",
+    "tags": [
+      "safety",
+      "toronto",
+      "neighbourhood",
+      "police",
+      "open data",
+      "civic-tech",
+      "housing"
+    ],
+    "type": "Neighbourhood safety + property reports",
+    "url": "https://thekeelson.com"
+  },
+  {
     "name": "Vancouver — GeoDASH Crime Map",
     "level": "Municipal",
     "jurisdiction": "Vancouver",

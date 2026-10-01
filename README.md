@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1957 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1958 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -53,7 +53,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 53
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 53
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 54
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 53
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
@@ -3023,6 +3023,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Wildfire Map (Interactive) | Ontario · Provincial | Wildfire map | Ontario's interactive fire map with fire size, status, and restricted fire zones | https://www.ontario.ca/page/forest-wildland-and-outdoor-fires |
 | Hamilton — Police Online Crime Mapping Tool | Hamilton · Municipal | Interactive crime map | Search where break-ins, robberies, vehicle thefts and homicides occurred in Hamilton over the past 60 days, with hotspot maps and email crime alerts. | https://hamiltonpolice.on.ca/how-to/online-crime-mapping-tool |
 | Ottawa — Police Community Safety Data Portal | Ottawa · Municipal | Crime maps and open data | Browse Ottawa Police crime maps (year-to-date and historical), shootings, overdose calls by neighbourhood, and download 340k+ criminal offence records. | https://data.ottawapolice.ca/ |
+| The Keelson | Toronto · Municipal | Neighbourhood safety + property reports | Toronto neighbourhood safety and property reports by Magnistics (independent): look up any postal code, neighbourhood, or address for police-reported incidents in plain language with coverage maps, building permits address-by-address, and TRREB average home prices. Methodology is public (public-record figures, no rankings, no small-count percentages, visible corrections); monthly editions co-published free with residents' associations. Featured in the City of Toronto open-data gallery. | https://thekeelson.com |
 | Toronto — Fire Active Incidents | Toronto · Municipal | Live incident feed | Watch active incidents dispatched by Toronto Fire Services in near real time, pulled from the CAD dispatch system and refreshed every five minutes. | https://www.toronto.ca/community-people/public-safety-alerts/alerts-notifications/toronto-fire-active-incidents/ |
 | Toronto Police — Crime Dashboard | Toronto · Municipal | Dashboard | Public Safety Data Portal — major crime incidents, shootings, traffic collisions in Toronto | https://data.tps.ca/ |
 | York Region — Police Community Safety Data Portal | York Region · Municipal | Crime map and dashboards | Track crime in Markham, Vaughan, Richmond Hill and the rest of York Region with an interactive safety map, auto-theft trend dashboard and stats by municipality. | https://community-safety-portal-datayrp.hub.arcgis.com/ |
