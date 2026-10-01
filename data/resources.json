@@ -30397,5 +30397,57 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "MyHealthNB",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "health",
+    "type": "Patient health record portal",
+    "description": "New Brunswick's official patient health portal (myhealth.gnb.ca) and mobile app: lab results, diagnostic imaging reports, immunization records and dispensed medications, plus a pan-Canadian Patient Summary (PS-CA) shareable QR code — first jurisdiction in North America with patient-mediated record sharing.",
+    "url": "https://myhealth.gnb.ca/",
+    "tags": [
+      "provincial",
+      "health records",
+      "lab results",
+      "immunizations",
+      "patient summary",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
+    "name": "YourHealthNS",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Patient health record portal",
+    "description": "Nova Scotia Health's official app and portal (yourhealthns.ca): personal health records (lab results, medications, diagnostic imaging, hospital and primary-care visits) plus online booking of blood tests, X-rays and flu/COVID vaccine appointments via VirtualCareNS.",
+    "url": "https://yourhealthns.ca/",
+    "tags": [
+      "provincial",
+      "health records",
+      "lab results",
+      "appointment booking",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
+    "name": "MyHealthPEI",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "health",
+    "type": "Patient health record portal",
+    "description": "Prince Edward Island's official online health service: Island residents 16+ with a verified MyPEI account can view lab results, diagnostic imaging reports and immunization records, plus self-entry health tracking tools and health education resources.",
+    "url": "https://princeedwardisland.ca/en/topic/myhealthpei",
+    "tags": [
+      "provincial",
+      "health records",
+      "lab results",
+      "immunizations",
+      "pei"
+    ],
+    "dateAdded": "2026-10-01"
   }
 ]

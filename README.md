@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1953 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1956 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 29
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 40
-- [🩺 Health & Wellness](#health-and-wellness) — 69
+- [🩺 Health & Wellness](#health-and-wellness) — 72
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 43
@@ -1603,10 +1603,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Department of Health — NB Health Link Patient Registry | New Brunswick · Provincial | Patient registry and booking tool | Register online if you lack a family doctor or nurse practitioner; book in-person, phone or virtual appointments and find clinic locations across the province. | https://nbhealthlink.ca/ |
 | Department of Health — Surgical Wait Times | New Brunswick · Provincial | Dashboard | Look up typical wait times by surgical procedure (hip/knee, cataract, CABG and more) plus trending, target and surgeon-level reports. | https://www1.gnb.ca/0217/SurgicalWaitTimes/Index-e.aspx |
+| MyHealthNB | New Brunswick · Provincial | Patient health record portal | New Brunswick's official patient health portal (myhealth.gnb.ca) and mobile app: lab results, diagnostic imaging reports, immunization records and dispensed medications, plus a pan-Canadian Patient Summary (PS-CA) shareable QR code — first jurisdiction in North America with patient-mediated record sharing. | https://myhealth.gnb.ca/ |
 | NL Centre for Health Information — Health Reports | Newfoundland and Labrador · Provincial | Health analytics reports | Provincial health system analytics: published health reports and indicator data used by government and regional health authorities for performance monitoring and policy. | https://nlchi.nl.ca/index.php/quality-information/health-analytics/health-reports |
 | Nova Scotia — Wait Time Information | Nova Scotia · Provincial | Wait-time lookup | Compare wait times for 150+ surgical procedures, MRI/CT scans, cancer care and mental health services across Nova Scotia to find the shortest-wait locations. | https://waittimes.novascotia.ca/ |
 | Nova Scotia 811 | Nova Scotia · Provincial | Health service | Non-emergency health information and advice from registered nurses, by phone or online in Nova Scotia | https://811.novascotia.ca/ |
+| YourHealthNS | Nova Scotia · Provincial | Patient health record portal | Nova Scotia Health's official app and portal (yourhealthns.ca): personal health records (lab results, medications, diagnostic imaging, hospital and primary-care visits) plus online booking of blood tests, X-rays and flu/COVID vaccine appointments via VirtualCareNS. | https://yourhealthns.ca/ |
 | Health PEI — Emergency Department Wait Times | PEI · Provincial | Live dashboard | Live estimated ER wait times for all four PEI hospital emergency departments (QEH, PCH, KCMH, Western), refreshed every five minutes. | https://www.princeedwardisland.ca/en/information/health-pei/emergency-department-wait-times |
+| MyHealthPEI | Prince Edward Island · Provincial | Patient health record portal | Prince Edward Island's official online health service: Island residents 16+ with a verified MyPEI account can view lab results, diagnostic imaging reports and immunization records, plus self-entry health tracking tools and health education resources. | https://princeedwardisland.ca/en/topic/myhealthpei |
 
 ### Northern Canada (YT, NT, NU)
 
