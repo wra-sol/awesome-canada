@@ -16053,6 +16053,23 @@
     "dateAdded": "2026-09-27"
   },
   {
+    "name": "Toronto Multiplex Tracker",
+    "category": "housing",
+    "jurisdiction": "Toronto",
+    "level": "Municipal",
+    "type": "Interactive permit map",
+    "description": "Live map and trends of every Toronto building permit creating 1–6 dwelling units since 2022, refreshed daily from Toronto Open Data with raw data available as GeoJSON. By Malcolm Kennedy; featured in the City of Toronto open-data gallery.",
+    "url": "https://malcolmkennedy.com/to-multiplex-map/",
+    "tags": [
+      "housing",
+      "toronto",
+      "permits",
+      "open data",
+      "civic-tech"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
     "name": "Vancouver Active Condo Listings — City Data",
     "level": "Municipal",
     "jurisdiction": "Vancouver",

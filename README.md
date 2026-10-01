@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1958 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1959 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -40,7 +40,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🩺 Health & Wellness](#health-and-wellness) — 72
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 43
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 60
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
@@ -1837,6 +1837,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Property Assessment — MPAC | Ontario · Provincial | Property | Municipal Property Assessment Corporation — look up your property's assessed value, class, and assessment details | https://www.mpac.ca/ |
 | RentSafeTO — Apartment Inspection Lookup | Toronto · Municipal | Lookup tool | Look up any Toronto apartment building's City inspection history, safety scores, and red flags (pests, elevators, orders) before signing a lease. Independent Next.js app built on City of Toronto RentSafeTO open data. | https://www.rentsafeto.com/ |
 | Toronto — Housing Data Hub | Toronto · Municipal | Housing dashboard | City of Toronto's central housing data hub: affordable rental housing map, housing data book, and the HousingTO 2020–2030 Action Plan progress dashboard. | https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/ |
+| Toronto Multiplex Tracker | Toronto · Municipal | Interactive permit map | Live map and trends of every Toronto building permit creating 1–6 dwelling units since 2022, refreshed daily from Toronto Open Data with raw data available as GeoJSON. By Malcolm Kennedy; featured in the City of Toronto open-data gallery. | https://malcolmkennedy.com/to-multiplex-map/ |
 | Windsor Property Tax Calculator | Windsor · Municipal | Calculator | Estimate your annual property tax bill in Windsor based on assessed value and property class | https://www.citywindsor.ca/taxes/property-taxes/property-tax-calculator |
 
 ### Quebec
