@@ -5074,6 +5074,25 @@
     ]
   },
   {
+    "name": "OpenParliament MCP Server",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "MCP server / Parliament API",
+    "description": "Open-source Model Context Protocol server for OpenParliament.ca: lets any AI agent or developer query live Parliament data — bills, MPs, debates, committees and committee meetings — as structured tool calls. Works in stdio mode with no account, or via a hosted gateway with a free anonymous tier. MIT licensed.",
+    "url": "https://github.com/pipeworx-io/mcp-openparliament-ca",
+    "tags": [
+      "parliament",
+      "mcp",
+      "api",
+      "bills",
+      "mps",
+      "open data",
+      "ai agents"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
     "name": "Orders in Council Database",
     "level": "Federal",
     "jurisdiction": "Canada",
