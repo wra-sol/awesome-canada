@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1963 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1962 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -36,7 +36,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [💼 Employment & Labour](#employment-and-labour) — 40
 - [🎓 Education & Student Aid](#education-and-student-aid) — 33
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 40
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
 - [🩺 Health & Wellness](#health-and-wellness) — 72
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
@@ -1435,7 +1435,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | IRCC — Asylum Claimants Monthly Open Data | Canada · Federal | Open data | Monthly IRCC open data on asylum claimants by claim office type, province/territory of claim, age, gender and top countries of citizenship — updated monthly in CSV/XLSX tables. | https://open.canada.ca/data/en/dataset/b6cbcf4d-f763-4924-a2fb-8cc4a06e3de4 |
 | IRCC — Check Application Status | Canada · Federal | Status tracker | Check the status of citizenship, permanent residence, and temporary visa applications online | https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html |
 | IRCC — Express Entry Rounds of Invitations | Canada · Federal | Reference | Historical CRS cut-off scores and candidate counts for every Express Entry draw | https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html |
-| IRCC — Find a Biometrics Collection Site | Canada · Federal | Finder | Find where to give fingerprints and a photo: visa application centres, Service Canada offices, or US support centers | https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/where-to-give-biometrics.html |
 | IRCC — Find Free Newcomer Services Near You | Canada · Federal | Service finder | Official settlement service search: enter a postal code or city to find free federally funded newcomer services, filterable by language, online/in-person format, and service type (employment help, language training, settlement plans). | https://ircc.canada.ca/english/newcomers/services/index.asp |
 | IRCC — Medical Requirements and Panel Physicians | Canada · Federal | Finder | Find IRCC panel physicians and review medical exam requirements by country | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/medical-exams.html |
 | IRCC — Permanent Residents Monthly Open Data | Canada · Federal | Open data | Download monthly PR admissions by province, CMA, citizenship, category, age and gender as CSV or XLSX; updated monthly through June 2026. | https://open.canada.ca/data/en/dataset/f7e5498e-0ad8-4417-85c9-9b8aff9b9eda |

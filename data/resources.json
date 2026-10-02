@@ -5056,24 +5056,6 @@
     ]
   },
   {
-    "name": "OpenParliament.ca",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "council",
-    "type": "Parliament watchdog",
-    "description": "Open data on Parliament of Canada: bills, votes, debates (Hansard), MPs and committees, with a free JSON API — the canonical independent source behind many civic apps.",
-    "url": "https://openparliament.ca",
-    "tags": [
-      "parliament",
-      "open data",
-      "api",
-      "bills",
-      "debates",
-      "mps",
-      "accountability"
-    ]
-  },
-  {
     "name": "OpenParliament MCP Server",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -5091,6 +5073,24 @@
       "ai agents"
     ],
     "dateAdded": "2026-10-01"
+  },
+  {
+    "name": "OpenParliament.ca",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "council",
+    "type": "Parliament watchdog",
+    "description": "Open data on Parliament of Canada: bills, votes, debates (Hansard), MPs and committees, with a free JSON API — the canonical independent source behind many civic apps.",
+    "url": "https://openparliament.ca",
+    "tags": [
+      "parliament",
+      "open data",
+      "api",
+      "bills",
+      "debates",
+      "mps",
+      "accountability"
+    ]
   },
   {
     "name": "Orders in Council Database",
@@ -8423,6 +8423,23 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "NB Student Aid Portal",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "education",
+    "type": "Student aid portal",
+    "description": "Secure NB Student Aid account: apply for full-time student aid online, upload supporting documents and receive electronic correspondence; one application is assessed for the Canada-New Brunswick Integrated Student Loan, grants and bursaries.",
+    "url": "https://studentaid.gnb.ca/",
+    "tags": [
+      "student aid",
+      "new brunswick",
+      "loans",
+      "grants",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
     "name": "New Brunswick Student Financial Services",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -8451,6 +8468,22 @@
       "map"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "StudentAidNL",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "education",
+    "type": "Student aid hub",
+    "description": "Newfoundland and Labrador's official student-aid hub: one application assessed for both federal and provincial loans and grants, with an online StudentAidNL account, weekly provincial maximums and the Debt Reduction Grant program.",
+    "url": "https://www.gov.nl.ca/studentaid",
+    "tags": [
+      "student aid",
+      "newfoundland and labrador",
+      "loans",
+      "grants"
+    ],
+    "dateAdded": "2026-10-01"
   },
   {
     "name": "Northwest Territories — Apprenticeship, Trade and Occupation Certification (ATOC)",
@@ -8562,6 +8595,23 @@
     ]
   },
   {
+    "name": "PEI — Student Financial Services",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "education",
+    "type": "Apply online",
+    "description": "PEI's official student-aid application via MyPATH: one online full-time application assessed for both federal and provincial loans and grants, with document uploads, application action items and funding assessment.",
+    "url": "https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/applying-for-student-aid-full-time",
+    "tags": [
+      "student aid",
+      "prince edward island",
+      "loans",
+      "grants",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
     "name": "Aide financière aux études (Quebec)",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -8638,6 +8688,23 @@
       "red seal"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "Saskatchewan Student Aid",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "education",
+    "type": "Student aid hub",
+    "description": "Official hub for Saskatchewan student aid: apply online once and be assessed for provincial and federal loans, grants, scholarships, bursaries, disability grants and loan forgiveness.",
+    "url": "https://www.saskatchewan.ca/studentloans",
+    "tags": [
+      "student aid",
+      "saskatchewan",
+      "loans",
+      "grants",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-01"
   },
   {
     "name": "Yukon Student Financial Assistance",
@@ -13805,6 +13872,24 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "MyHealthNB",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "health",
+    "type": "Patient health record portal",
+    "description": "New Brunswick's official patient health portal (myhealth.gnb.ca) and mobile app: lab results, diagnostic imaging reports, immunization records and dispensed medications, plus a pan-Canadian Patient Summary (PS-CA) shareable QR code — first jurisdiction in North America with patient-mediated record sharing.",
+    "url": "https://myhealth.gnb.ca/",
+    "tags": [
+      "provincial",
+      "health records",
+      "lab results",
+      "immunizations",
+      "patient summary",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
     "name": "NL Centre for Health Information — Health Reports",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",
@@ -13866,6 +13951,23 @@
       "health advice"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "YourHealthNS",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Patient health record portal",
+    "description": "Nova Scotia Health's official app and portal (yourhealthns.ca): personal health records (lab results, medications, diagnostic imaging, hospital and primary-care visits) plus online booking of blood tests, X-rays and flu/COVID vaccine appointments via VirtualCareNS.",
+    "url": "https://yourhealthns.ca/",
+    "tags": [
+      "provincial",
+      "health records",
+      "lab results",
+      "appointment booking",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-01"
   },
   {
     "name": "Health811 Ontario",
@@ -13990,6 +14092,23 @@
       "dashboard"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "MyHealthPEI",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "health",
+    "type": "Patient health record portal",
+    "description": "Prince Edward Island's official online health service: Island residents 16+ with a verified MyPEI account can view lab results, diagnostic imaging reports and immunization records, plus self-entry health tracking tools and health education resources.",
+    "url": "https://princeedwardisland.ca/en/topic/myhealthpei",
+    "tags": [
+      "provincial",
+      "health records",
+      "lab results",
+      "immunizations",
+      "pei"
+    ],
+    "dateAdded": "2026-10-01"
   },
   {
     "name": "Clic Santé",
@@ -16054,9 +16173,9 @@
   },
   {
     "name": "Toronto Multiplex Tracker",
-    "category": "housing",
-    "jurisdiction": "Toronto",
     "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "housing",
     "type": "Interactive permit map",
     "description": "Live map and trends of every Toronto building permit creating 1–6 dwelling units since 2022, refreshed daily from Toronto Open Data with raw data available as GeoJSON. By Malcolm Kennedy; featured in the City of Toronto open-data gallery.",
     "url": "https://malcolmkennedy.com/to-multiplex-map/",
@@ -16282,22 +16401,6 @@
       "Express Entry",
       "IRCC"
     ]
-  },
-  {
-    "name": "IRCC — Find a Biometrics Collection Site",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "immigration",
-    "type": "Finder",
-    "description": "Find where to give fingerprints and a photo: visa application centres, Service Canada offices, or US support centers",
-    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/where-to-give-biometrics.html",
-    "tags": [
-      "immigration",
-      "IRCC",
-      "biometrics",
-      "finder"
-    ],
-    "dateAdded": "2026-09-30"
   },
   {
     "name": "IRCC — Find Free Newcomer Services Near You",
@@ -24935,6 +25038,25 @@
     ]
   },
   {
+    "name": "The Keelson",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "safety",
+    "type": "Neighbourhood safety + property reports",
+    "description": "Toronto neighbourhood safety and property reports by Magnistics (independent): look up any postal code, neighbourhood, or address for police-reported incidents in plain language with coverage maps, building permits address-by-address, and TRREB average home prices. Methodology is public (public-record figures, no rankings, no small-count percentages, visible corrections); monthly editions co-published free with residents' associations. Featured in the City of Toronto open-data gallery.",
+    "url": "https://thekeelson.com",
+    "tags": [
+      "safety",
+      "toronto",
+      "neighbourhood",
+      "police",
+      "open data",
+      "civic-tech",
+      "housing"
+    ],
+    "dateAdded": "2026-10-01"
+  },
+  {
     "name": "Toronto — Fire Active Incidents",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -24962,25 +25084,6 @@
       "Toronto",
       "crime"
     ]
-  },
-  {
-    "category": "safety",
-    "dateAdded": "2026-10-01",
-    "description": "Toronto neighbourhood safety and property reports by Magnistics (independent): look up any postal code, neighbourhood, or address for police-reported incidents in plain language with coverage maps, building permits address-by-address, and TRREB average home prices. Methodology is public (public-record figures, no rankings, no small-count percentages, visible corrections); monthly editions co-published free with residents' associations. Featured in the City of Toronto open-data gallery.",
-    "jurisdiction": "Toronto",
-    "level": "Municipal",
-    "name": "The Keelson",
-    "tags": [
-      "safety",
-      "toronto",
-      "neighbourhood",
-      "police",
-      "open data",
-      "civic-tech",
-      "housing"
-    ],
-    "type": "Neighbourhood safety + property reports",
-    "url": "https://thekeelson.com"
   },
   {
     "name": "Vancouver — GeoDASH Crime Map",
@@ -30452,124 +30555,5 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "MyHealthNB",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "health",
-    "type": "Patient health record portal",
-    "description": "New Brunswick's official patient health portal (myhealth.gnb.ca) and mobile app: lab results, diagnostic imaging reports, immunization records and dispensed medications, plus a pan-Canadian Patient Summary (PS-CA) shareable QR code — first jurisdiction in North America with patient-mediated record sharing.",
-    "url": "https://myhealth.gnb.ca/",
-    "tags": [
-      "provincial",
-      "health records",
-      "lab results",
-      "immunizations",
-      "patient summary",
-      "new brunswick"
-    ],
-    "dateAdded": "2026-10-01"
-  },
-  {
-    "name": "YourHealthNS",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "health",
-    "type": "Patient health record portal",
-    "description": "Nova Scotia Health's official app and portal (yourhealthns.ca): personal health records (lab results, medications, diagnostic imaging, hospital and primary-care visits) plus online booking of blood tests, X-rays and flu/COVID vaccine appointments via VirtualCareNS.",
-    "url": "https://yourhealthns.ca/",
-    "tags": [
-      "provincial",
-      "health records",
-      "lab results",
-      "appointment booking",
-      "nova scotia"
-    ],
-    "dateAdded": "2026-10-01"
-  },
-  {
-    "name": "MyHealthPEI",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "health",
-    "type": "Patient health record portal",
-    "description": "Prince Edward Island's official online health service: Island residents 16+ with a verified MyPEI account can view lab results, diagnostic imaging reports and immunization records, plus self-entry health tracking tools and health education resources.",
-    "url": "https://princeedwardisland.ca/en/topic/myhealthpei",
-    "tags": [
-      "provincial",
-      "health records",
-      "lab results",
-      "immunizations",
-      "pei"
-    ],
-    "dateAdded": "2026-10-01"
-  },
-  {
-    "name": "NB Student Aid Portal",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "education",
-    "type": "Student aid portal",
-    "description": "Secure NB Student Aid account: apply for full-time student aid online, upload supporting documents and receive electronic correspondence; one application is assessed for the Canada-New Brunswick Integrated Student Loan, grants and bursaries.",
-    "url": "https://studentaid.gnb.ca/",
-    "tags": [
-      "student aid",
-      "new brunswick",
-      "loans",
-      "grants",
-      "apply online"
-    ],
-    "dateAdded": "2026-10-01"
-  },
-  {
-    "name": "StudentAidNL",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "education",
-    "type": "Student aid hub",
-    "description": "Newfoundland and Labrador's official student-aid hub: one application assessed for both federal and provincial loans and grants, with an online StudentAidNL account, weekly provincial maximums and the Debt Reduction Grant program.",
-    "url": "https://www.gov.nl.ca/studentaid",
-    "tags": [
-      "student aid",
-      "newfoundland and labrador",
-      "loans",
-      "grants"
-    ],
-    "dateAdded": "2026-10-01"
-  },
-  {
-    "name": "PEI — Student Financial Services",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "education",
-    "type": "Apply online",
-    "description": "PEI's official student-aid application via MyPATH: one online full-time application assessed for both federal and provincial loans and grants, with document uploads, application action items and funding assessment.",
-    "url": "https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/applying-for-student-aid-full-time",
-    "tags": [
-      "student aid",
-      "prince edward island",
-      "loans",
-      "grants",
-      "apply online"
-    ],
-    "dateAdded": "2026-10-01"
-  },
-  {
-    "name": "Saskatchewan Student Aid",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "education",
-    "type": "Student aid hub",
-    "description": "Official hub for Saskatchewan student aid: apply online once and be assessed for provincial and federal loans, grants, scholarships, bursaries, disability grants and loan forgiveness.",
-    "url": "https://www.saskatchewan.ca/studentloans",
-    "tags": [
-      "student aid",
-      "saskatchewan",
-      "loans",
-      "grants",
-      "apply online"
-    ],
-    "dateAdded": "2026-10-01"
   }
 ]
