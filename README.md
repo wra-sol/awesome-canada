@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1964 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1966 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -32,7 +32,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🪪 Government Services & ID](#government-services-and-id) — 53
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
-- [🏢 Business & Procurement](#business-and-procurement) — 49
+- [🏢 Business & Procurement](#business-and-procurement) — 51
 - [💼 Employment & Labour](#employment-and-labour) — 40
 - [🎓 Education & Student Aid](#education-and-student-aid) — 35
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
@@ -1127,12 +1127,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Saskatchewan — Corporate Registry (ISC) | Saskatchewan · Provincial | Business registry search | Search Saskatchewan's corporate registry for businesses, non-profits and legal entities; register or incorporate, file annual returns, and get digitally verified documents and certificates online. | https://www.saskregistries.ca/corporateregistry |
 | SaskTenders | Saskatchewan · Provincial | Procurement | Saskatchewan government and public-sector tenders and bid opportunities | https://sasktenders.ca/ |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba — Companies Office | Manitoba · Provincial | Business registry search | Manitoba's Companies Office: incorporate, register business and trade names, and search the public registry of corporations and trade names. | https://companiesoffice.gov.mb.ca/ |
 | Manitoba Tenders | Manitoba · Provincial | Procurement | Provincial tender notices for Manitoba government and public-sector opportunities | https://www.gov.mb.ca/tenders/ |
 
 ### Ontario

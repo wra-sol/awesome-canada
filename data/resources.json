@@ -4284,6 +4284,22 @@
     ]
   },
   {
+    "name": "Manitoba — Companies Office",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "business",
+    "type": "Business registry search",
+    "description": "Manitoba's Companies Office: incorporate, register business and trade names, and search the public registry of corporations and trade names.",
+    "url": "https://companiesoffice.gov.mb.ca/",
+    "tags": [
+      "business registry",
+      "corporations",
+      "search",
+      "manitoba"
+    ],
+    "dateAdded": "2026-10-02"
+  },
+  {
     "name": "Service New Brunswick — Corporate Registry Search",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -4446,6 +4462,22 @@
       "Saskatchewan",
       "procurement"
     ]
+  },
+  {
+    "name": "Saskatchewan — Corporate Registry (ISC)",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "business",
+    "type": "Business registry search",
+    "description": "Search Saskatchewan's corporate registry for businesses, non-profits and legal entities; register or incorporate, file annual returns, and get digitally verified documents and certificates online.",
+    "url": "https://www.saskregistries.ca/corporateregistry",
+    "tags": [
+      "business registry",
+      "corporations",
+      "search",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-02"
   },
   {
     "name": "Yukon — Corporate Online Registry (YCOR)",
