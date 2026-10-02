@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1962 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1964 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -34,7 +34,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 49
 - [💼 Employment & Labour](#employment-and-labour) — 40
-- [🎓 Education & Student Aid](#education-and-student-aid) — 33
+- [🎓 Education & Student Aid](#education-and-student-aid) — 35
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
 - [🩺 Health & Wellness](#health-and-wellness) — 72
@@ -1325,8 +1325,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Northwest Territories — Apprenticeship, Trade and Occupation Certification (ATOC) | Northwest Territories · Provincial | Trades certification | Territorial apprenticeship and trade certification program covering 43 designated trades and 17 occupations, with apprentice registration through regional ECE Service Centres and an online ATOC portal. | https://www.ece.gov.nt.ca/en/services/apprenticeship-trade-and-occupation-certification |
+| NWT Student Financial Assistance (SFA) | Northwest Territories · Provincial | Student aid portal | Official NWT Student Financial Assistance portal: grants, loans and course reimbursement for NWT residents in post-secondary studies; apply via the SFA application by email, fax, mail or in person in Yellowknife. | https://www.gov.nt.ca/sfa |
 | Nunavut — Financial Assistance for Nunavut Students (FANS) | Nunavut · Provincial | Student aid | Territorial funding program for eligible Nunavut post-secondary students covering tuition, travel and living costs, administered by the Department of Education. Confirm eligibility before applying. | https://www.gov.nu.ca/en/education-and-schools/financial-assistance-nunavut-students-fans |
 | Yukon Student Financial Assistance | Yukon · Provincial | Student aid | Territorial financial support for Yukon students — Yukon Grant, Student Training Allowance, bursaries and Canada Student Financial Assistance loans/grants — all applied for through one online portal. | https://yukon.ca/en/education-and-schools/financial-support-for-students |
+| Yukon Student Financial Assistance Portal | Yukon · Provincial | Student aid portal | Log in to the Yukon Student Financial Assistance application portal: apply online for the Yukon Grant, Canada Student Financial Assistance, the Yukon Excellence Awards and the Yukon Health Care and Social Services Bursary; upload documents, check application status and view decision letters. | https://yukon.ca/en/education-and-schools/financial-support-students/log-student-financial-assistance-application-portal |
 
 ## 🎒 Schools, Education & Boards
 

@@ -8503,6 +8503,23 @@
     "dateAdded": "2026-08-27"
   },
   {
+    "name": "NWT Student Financial Assistance (SFA)",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "education",
+    "type": "Student aid portal",
+    "description": "Official NWT Student Financial Assistance portal: grants, loans and course reimbursement for NWT residents in post-secondary studies; apply via the SFA application by email, fax, mail or in person in Yellowknife.",
+    "url": "https://www.gov.nt.ca/sfa",
+    "tags": [
+      "student aid",
+      "northwest territories",
+      "grants",
+      "loans",
+      "course reimbursement"
+    ],
+    "dateAdded": "2026-10-02"
+  },
+  {
     "name": "Department of Education and Early Childhood Development — Child Care Directory",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -8722,6 +8739,24 @@
       "territorial"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "Yukon Student Financial Assistance Portal",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "education",
+    "type": "Student aid portal",
+    "description": "Log in to the Yukon Student Financial Assistance application portal: apply online for the Yukon Grant, Canada Student Financial Assistance, the Yukon Excellence Awards and the Yukon Health Care and Social Services Bursary; upload documents, check application status and view decision letters.",
+    "url": "https://yukon.ca/en/education-and-schools/financial-support-students/log-student-financial-assistance-application-portal",
+    "tags": [
+      "student aid",
+      "yukon",
+      "yukon grant",
+      "loans",
+      "grants",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-02"
   },
   {
     "name": "AI Consultation Deadlines Canada",
