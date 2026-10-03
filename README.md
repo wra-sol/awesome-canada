@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1966 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1963 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -27,8 +27,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 217
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 147
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 121
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
 - [🪪 Government Services & ID](#government-services-and-id) — 53
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 53
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 45
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 44
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 54
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 53
@@ -550,7 +550,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Brandon Council Agendas and Minutes | Brandon · Municipal | Council meetings | Downloadable PDF agendas and minutes for City of Brandon regular and special Council meetings, January 2026 to present (archive back to 2020). Browse by meeting date to track motions, decisions, and public delegations for Manitoba's second-largest city. | https://www.brandon.ca/city-hall/agendas-and-minutes |
 | Portage la Prairie Council Agendas & Minutes | Portage la Prairie · Municipal | Dataset | PDF council agendas and minutes for all regular and special council meetings. Agendas include committee reports and staff presentations; minutes record resolutions and decisions. | https://www.city-plap.com/council-administration/council/agendas-and-minutes/ |
 | Selkirk Council & Committee Minutes (CivicWeb) | Selkirk · Municipal | Council meetings | Searchable CivicWeb document portal for City of Selkirk council and committee agendas, minutes, and reports. Browse by meeting date and document type to download PDF agendas and track motions, decisions, and public hearings for this Manitoba city of ~10,000. First council data source for Selkirk. | https://selkirk.civicweb.net/Portal/ |
-| Steinbach Council Minutes & Videos | Steinbach · Municipal | Dataset | PDF council minutes and video recordings of council meetings dating back to 2022. Minutes include voting records and council package documents. Updated after each regular council meeting (twice monthly). | https://www.steinbach.ca/city-hall/city-council/archive/ |
 | Thompson — Council Agendas & Minutes (AllNetMeetings) | Thompson · Municipal | Council portal | Searchable AllNetMeetings portal with agendas, minutes, and attachments for Thompson council meetings, committees, and public hearings. Browse 1,200+ meetings by type and date, with downloadable PDF agendas and minutes. Also includes video preview links for recent meetings. First council depth entry for Thompson beyond its financial reports page. | https://thompson.allnetmeetings.com/pubs/agendaCategories.aspx |
 | Winnipeg Council Meetings — eScribe | Winnipeg · Municipal | Council meetings portal | Winnipeg City Council and standing policy committee agendas, minutes, and video on eScribe. | https://legacy.winnipeg.ca/council/ |
 | Winnipeg Council Voting Information System | Winnipeg · Municipal | Vote search | Search council and executive policy committee votes by meeting date, item number, or keyword instead of scrolling through PDF minutes. | https://winnipeg.ca/council/VIS/ |
@@ -736,7 +735,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Dauphin Financial Plans and Audited Statements | Dauphin · Municipal | Financial documents | Download City of Dauphin financial plans (2015–2026) and audited consolidated financial statements (2010–2024). Also includes fees, charges, and tax levy bylaws. | https://www.dauphin.ca/p/finance |
 | Portage la Prairie Finance Reports & Plans | Portage la Prairie · Municipal | Dataset | Annual budget speeches, multi-year financial plans, audited financial statements, and public sector compensation disclosures as PDFs. Covers 2020-2026 budget cycles. | https://www.city-plap.com/council-administration/plans-reports-and-studies/finance-reports-plans/ |
 | Selkirk Financial Plan & Audited Statements | Selkirk · Municipal | Budget documents | Download City of Selkirk annual financial plans (2024–2026) and audited consolidated financial statements (2020–2024) as direct PDFs, plus financial plan presentations. Covers operating and capital budgets — useful for fiscal accountability and tracking spending in this Manitoba city. First budget/finance data source for Selkirk. | https://www.myselkirk.ca/city-government/city-administration/financialplan/ |
-| Steinbach — Annual Financial Plans & Statements | Steinbach · Municipal | Financial documents | Direct PDF downloads of Steinbach financial plans and audited financial statements, 2018–2026. Includes signed annual financial plans and consolidated financial statements. Useful for fiscal accountability research, budget analysis, and understanding municipal spending trends. First budget depth entry for Steinbach. | https://www.steinbach.ca/departments-and-services/admin-and-human-resources/financial-documents/ |
 | Thompson Financial Reports and Plans | Thompson · Municipal | Financial transparency | Downloadable PDFs of Thompson's annual financial plans, financial plan presentations, and Bill 57 public sector compensation disclosures. Track municipal spending, tax rates, and senior staff compensation. | https://www.thompson.ca/p/financial-reports-and-plans |
 | Winnipeg — Council Member Expenses | Winnipeg · Municipal | Dataset | Itemized expenses of Winnipeg City Council members from 2014 to present, including travel, conferences, and discretionary spending. Searchable and downloadable as CSV for transparency and accountability research. | https://data.winnipeg.ca/dataset/mgde-4fua |
 | Winnipeg Capital Projects Explorer | Winnipeg · Municipal | Capital projects dashboard | Interactive map and dashboard tracking active City of Winnipeg capital projects over $5 million, with budget variance, schedule status, timeline, and project documents. | https://projectexplorer.winnipeg.ca/ |
@@ -2881,7 +2879,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | London Register of Cultural Heritage Resources — CityMap | London · Municipal | Heritage register map | Interactive map of London’s Register of Cultural Heritage Resources — designated properties, listed properties, and heritage conservation districts. | https://maps.london.ca/WebDocuments/MapGallery/MapGallery/Index |
 | Ottawa Heritage Register (Not Designated) | Ottawa · Municipal | Heritage register layer | Query heritage register properties not yet designated — includes heritage statements, recognition status, and legal descriptions via Planning GIS. | https://maps.ottawa.ca/ArcGIS/rest/services/Planning/MapServer/60 |
 | SooMaps Heritage Sites Data | Sault Ste. Marie · Municipal | Heritage sites dataset | Weekly-refreshed CSV/JSON extracts of Sault Ste. Marie heritage sites from official GIS — sourced from city SooMaps open data program. | https://cityssm.github.io/soomaps-data/ |
-| St. Thomas Heritage Properties | St. Thomas · Municipal | Heritage property listing | Searchable listing of designated and listed heritage properties in St. Thomas with location and designation details. | https://www.stthomas.ca/visiting_us/heritage_properties |
 | Thunder Bay — Heritage Register CSV | Thunder Bay · Municipal | Dataset | CSV download of heritage-registered properties in Thunder Bay, including addresses, designation status, and heritage attributes. Useful for preservation research, development planning, and property due diligence. | https://opendata-thunderbay.hub.arcgis.com/datasets/bd50ba0dc1534a13b4cb6f057646b049 |
 | Toronto Heritage Register (Map) | Toronto · Municipal | Heritage map | Interactive map of properties on the City of Toronto Heritage Register — search by address for listed and designated sites. | https://www.toronto.ca/city-government/planning-development/heritage-preservation/heritage-register/ |
 

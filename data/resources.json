@@ -3499,23 +3499,6 @@
     ]
   },
   {
-    "name": "Steinbach — Annual Financial Plans & Statements",
-    "level": "Municipal",
-    "jurisdiction": "Steinbach",
-    "category": "budget",
-    "type": "Financial documents",
-    "description": "Direct PDF downloads of Steinbach financial plans and audited financial statements, 2018–2026. Includes signed annual financial plans and consolidated financial statements. Useful for fiscal accountability research, budget analysis, and understanding municipal spending trends. First budget depth entry for Steinbach.",
-    "url": "https://www.steinbach.ca/departments-and-services/admin-and-human-resources/financial-documents/",
-    "tags": [
-      "Steinbach",
-      "budget",
-      "financial statements",
-      "audit",
-      "PDF",
-      "transparency"
-    ]
-  },
-  {
     "name": "Stratford — Town Council Expenses",
     "level": "Municipal",
     "jurisdiction": "Stratford",
@@ -4271,19 +4254,6 @@
     ]
   },
   {
-    "name": "Manitoba Tenders",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "business",
-    "type": "Procurement",
-    "description": "Provincial tender notices for Manitoba government and public-sector opportunities",
-    "url": "https://www.gov.mb.ca/tenders/",
-    "tags": [
-      "Manitoba",
-      "procurement"
-    ]
-  },
-  {
     "name": "Manitoba — Companies Office",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -4298,6 +4268,19 @@
       "manitoba"
     ],
     "dateAdded": "2026-10-02"
+  },
+  {
+    "name": "Manitoba Tenders",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "business",
+    "type": "Procurement",
+    "description": "Provincial tender notices for Manitoba government and public-sector opportunities",
+    "url": "https://www.gov.mb.ca/tenders/",
+    "tags": [
+      "Manitoba",
+      "procurement"
+    ]
   },
   {
     "name": "Service New Brunswick — Corporate Registry Search",
@@ -4451,19 +4434,6 @@
     ]
   },
   {
-    "name": "SaskTenders",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "business",
-    "type": "Procurement",
-    "description": "Saskatchewan government and public-sector tenders and bid opportunities",
-    "url": "https://sasktenders.ca/",
-    "tags": [
-      "Saskatchewan",
-      "procurement"
-    ]
-  },
-  {
     "name": "Saskatchewan — Corporate Registry (ISC)",
     "level": "Provincial",
     "jurisdiction": "Saskatchewan",
@@ -4478,6 +4448,19 @@
       "saskatchewan"
     ],
     "dateAdded": "2026-10-02"
+  },
+  {
+    "name": "SaskTenders",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "business",
+    "type": "Procurement",
+    "description": "Saskatchewan government and public-sector tenders and bid opportunities",
+    "url": "https://sasktenders.ca/",
+    "tags": [
+      "Saskatchewan",
+      "procurement"
+    ]
   },
   {
     "name": "Yukon — Corporate Online Registry (YCOR)",
@@ -7109,22 +7092,6 @@
       "stthomas"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "Steinbach Council Minutes & Videos",
-    "level": "Municipal",
-    "jurisdiction": "Steinbach",
-    "category": "council",
-    "type": "Dataset",
-    "description": "PDF council minutes and video recordings of council meetings dating back to 2022. Minutes include voting records and council package documents. Updated after each regular council meeting (twice monthly).",
-    "url": "https://www.steinbach.ca/city-hall/city-council/archive/",
-    "tags": [
-      "council minutes",
-      "video recordings",
-      "Steinbach",
-      "PDF",
-      "voting records"
-    ]
   },
   {
     "name": "Stratford Council Agendas & Minutes",
@@ -15538,20 +15505,6 @@
       "csv",
       "json",
       "open data"
-    ]
-  },
-  {
-    "name": "St. Thomas Heritage Properties",
-    "level": "Municipal",
-    "jurisdiction": "St. Thomas",
-    "category": "heritage",
-    "type": "Heritage property listing",
-    "description": "Searchable listing of designated and listed heritage properties in St. Thomas with location and designation details.",
-    "url": "https://www.stthomas.ca/visiting_us/heritage_properties",
-    "tags": [
-      "st thomas",
-      "heritage",
-      "designated properties"
     ]
   },
   {
