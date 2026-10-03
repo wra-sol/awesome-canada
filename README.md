@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1973 resources · 36 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1973 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,11 +25,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 217
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 218
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
-- [🪪 Government Services & ID](#government-services-and-id) — 53
+- [🪪 Government Services & ID](#government-services-and-id) — 55
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 51
@@ -54,13 +54,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 44
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 54
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 53
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 54
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 82
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 25
-- [♿ Accessibility](#accessibility) — 4
 
 ---
 
@@ -286,6 +285,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | GeoNB Data Catalogue | New Brunswick · Provincial | Open data catalogue | Download provincial spatial datasets — civic addresses, property maps, road network, wetlands, electoral districts, schools, lidar, orthoimagery — as SHP, FGDB, KML or ArcGIS REST services. | https://www.gnb.ca/en/campaign/geonb/data-catalogue.html |
+| New Brunswick — Disability by the Numbers | New Brunswick · Provincial | Statistics | New Brunswick's public statistics on disability prevalence and accessibility needs, for policymakers, researchers and disability advocacy organizations. | https://www.gnb.ca/en/campaign/accessibility/disability-numbers.html |
 | New Brunswick — GeoNB ArcGIS REST Services | New Brunswick · Provincial | GIS web services | Province-wide ArcGIS REST map and feature services from the GeoNB geospatial hub — query layers for geology, environment, boundaries and land use in JSON, GeoJSON and KML. | https://gis-erd-der.gnb.ca/server/rest/services |
 | New Brunswick — GeoNB Map Viewer | New Brunswick · Provincial | Interactive map | Interactive provincial geospatial map viewer for New Brunswick. Explore layers from multiple departments including natural resources, environment, local government, and public safety. Useful for property research, land use planning, and environmental assessment. | https://geonb.snb.ca |
 | New Brunswick Open Data Portal | New Brunswick · Provincial | Open data portal | Province of New Brunswick's Socrata-based open data portal with browsable, downloadable civic datasets; distinct from the GeoNB geospatial viewer. | https://gnb.socrata.com/ |
@@ -909,12 +909,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Directeur de l'état civil du Québec | Quebec · Provincial | Vital statistics | Order Quebec certificates of birth, marriage, civil union, and death online | https://www.etatcivil.gouv.qc.ca/ |
+| Québec — Accessibility | Quebec · Provincial | Portal | Government of Québec's accessibility portal: the law, standards and government commitments on accessibility in Quebec, for organizations and citizens. | https://www.quebec.ca/en/accessibility |
 | Montréal — 311 Service Requests Dataset | Montreal · Municipal | 311 open dataset | Download geolocated 311 service requests, complaints and comments submitted to the City of Montreal from 2014 to present, in CSV format. | https://donnees.montreal.ca/dataset/requete-311 |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| New Brunswick — Accessibility | New Brunswick · Provincial | Portal | Government of New Brunswick's accessibility hub: its Accessibility Act, advisory board and related policy resources, for organizations, municipalities and citizens. | https://www.gnb.ca/en/campaign/accessibility.html |
 | New Brunswick Geological Survey | New Brunswick · Provincial | Geology maps | Interactive geological maps, mineral deposits, and geoscience data for NB | https://www2.gnb.ca/content/gnb/en/departments/10.html |
 | Post-Secondary Education, Training and Labour (PETL) — Employment Standards Online Complaint Form | New Brunswick · Provincial | Self-service portal | File an Employment Standards Act complaint online without paper: unpaid wages, overtime, vacation pay, termination pay and more, routed directly to PETL investigators. | https://www.gnb.ca/en/topic/jobs-workplaces/labour-market-workforce/employment-standards/employment-standards-complaint.html |
 | Access Nova Scotia | Nova Scotia · Provincial | Service portal | Official Nova Scotia provincial services portal: find in-person Access Nova Scotia locations, online services, and program information. | https://www.novascotia.ca/access-nova-scotia |
@@ -3135,6 +3137,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Human Rights Tribunal — Decisions | Ontario · Federal | Decisions | Published decisions from the Human Rights Tribunal of Ontario | https://tribunalsontario.ca/hrto |
 | Ontario Rental Housing Tribunal — Rent Increases | Ontario · Agency | Rent tool | Approved rent increase guidelines and maximum amounts for Ontario | https://www.ontario.ca/page/rent-increase-guideline |
 | Legal Aid Ontario | Ontario · Provincial | Legal aid | Ontario legal aid eligibility checker, duty counsel, and legal information | https://www.legalaid.on.ca/ |
+| Ontario — Integrated Accessibility Standards Regulation (O. Reg. 191/11) | Ontario · Provincial | Legislation | The e-Laws text of Ontario's Integrated Accessibility Standards Regulation: accessibility, information and communications, customer service and built-environment standards. The authoritative compliance text for AODA accessibility requirements. | https://www.ontario.ca/laws/regulation/110191 |
 | Ontario — Provincial Offences Act Online Services | Ontario · Provincial | Ticket case status lookup | Check the case status of traffic tickets and fines, see how much you owe, pay, request an early resolution meeting with a prosecutor, or request a trial online for Provincial Offences Act matters. | https://www.justiceservices.jus.gov.on.ca/POA/ |
 | Ontario Courts Public Portal | Ontario · Provincial | Court portal | Ontario's digital court portal for filing documents, accessing case information, and managing court matters online. | https://www.ontario.ca/page/ontario-courts-public-portal |
 | Ontario e-Laws | Ontario · Provincial | Statutes database | Official consolidated statutes and regulations of Ontario, searchable and current to the day | https://www.ontario.ca/laws |
@@ -3527,27 +3530,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Internet for Nova Scotia Initiative | Nova Scotia · Provincial | Broadband rollout tracker | Track high-speed Internet rollout to ~103,000 Nova Scotia homes and businesses: search by community or postal code, browse zone and coverage maps, and check satellite Internet rebate eligibility. | https://internet.buildns.ca/ |
-
-## ♿ Accessibility
-
-### Ontario
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| Ontario — Integrated Accessibility Standards Regulation (O. Reg. 191/11) | Ontario · Provincial | Legislation | The e-Laws text of Ontario's Integrated Accessibility Standards Regulation: accessibility, information and communications, customer service and built-environment standards. The authoritative compliance text for AODA accessibility requirements. | https://www.ontario.ca/laws/regulation/110191 |
-
-### Quebec
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| Québec — Accessibility | Quebec · Provincial | Portal | Government of Québec's accessibility portal: the law, standards and government commitments on accessibility in Quebec, for organizations and citizens. | https://www.quebec.ca/en/accessibility |
-
-### Atlantic Canada (NB, NS, PE, NL)
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| New Brunswick — Accessibility | New Brunswick · Provincial | Portal | Government of New Brunswick's accessibility hub: its Accessibility Act, advisory board and related policy resources, for organizations, municipalities and citizens. | https://www.gnb.ca/en/campaign/accessibility.html |
-| New Brunswick — Disability by the Numbers | New Brunswick · Provincial | Statistics | New Brunswick's public statistics on disability prevalence and accessibility needs, for policymakers, researchers and disability advocacy organizations. | https://www.gnb.ca/en/campaign/accessibility/disability-numbers.html |
 
 ---
 

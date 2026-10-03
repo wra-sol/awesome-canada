@@ -1,67 +1,5 @@
 [
   {
-    "name": "Ontario — Integrated Accessibility Standards Regulation (O. Reg. 191/11)",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "accessibility",
-    "type": "Legislation",
-    "description": "The e-Laws text of Ontario's Integrated Accessibility Standards Regulation: accessibility, information and communications, customer service and built-environment standards. The authoritative compliance text for AODA accessibility requirements.",
-    "url": "https://www.ontario.ca/laws/regulation/110191",
-    "tags": [
-      "accessibility",
-      "aoda",
-      "compliance",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-03"
-  },
-  {
-    "name": "Québec — Accessibility",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "accessibility",
-    "type": "Portal",
-    "description": "Government of Québec's accessibility portal: the law, standards and government commitments on accessibility in Quebec, for organizations and citizens.",
-    "url": "https://www.quebec.ca/en/accessibility",
-    "tags": [
-      "accessibility",
-      "quebec",
-      "standards"
-    ],
-    "dateAdded": "2026-10-03"
-  },
-  {
-    "name": "New Brunswick — Accessibility",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "accessibility",
-    "type": "Portal",
-    "description": "Government of New Brunswick's accessibility hub: its Accessibility Act, advisory board and related policy resources, for organizations, municipalities and citizens.",
-    "url": "https://www.gnb.ca/en/campaign/accessibility.html",
-    "tags": [
-      "accessibility",
-      "new brunswick",
-      "accessibility act"
-    ],
-    "dateAdded": "2026-10-03"
-  },
-  {
-    "name": "New Brunswick — Disability by the Numbers",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "accessibility",
-    "type": "Statistics",
-    "description": "New Brunswick's public statistics on disability prevalence and accessibility needs, for policymakers, researchers and disability advocacy organizations.",
-    "url": "https://www.gnb.ca/en/campaign/accessibility/disability-numbers.html",
-    "tags": [
-      "accessibility",
-      "disability",
-      "statistics",
-      "new brunswick"
-    ],
-    "dateAdded": "2026-10-03"
-  },
-  {
     "name": "AAFC — Livestock Traceability",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -13015,6 +12953,21 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "New Brunswick — Accessibility",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "gov-services",
+    "type": "Portal",
+    "description": "Government of New Brunswick's accessibility hub: its Accessibility Act, advisory board and related policy resources, for organizations, municipalities and citizens.",
+    "url": "https://www.gnb.ca/en/campaign/accessibility.html",
+    "tags": [
+      "accessibility",
+      "new brunswick",
+      "accessibility act"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "Northwest Territories Geological Survey",
     "level": "Provincial",
     "jurisdiction": "Northwest Territories",
@@ -13170,6 +13123,21 @@
       "Quebec",
       "vital statistics"
     ]
+  },
+  {
+    "name": "Québec — Accessibility",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "gov-services",
+    "type": "Portal",
+    "description": "Government of Québec's accessibility portal: the law, standards and government commitments on accessibility in Quebec, for organizations and citizens.",
+    "url": "https://www.quebec.ca/en/accessibility",
+    "tags": [
+      "accessibility",
+      "quebec",
+      "standards"
+    ],
+    "dateAdded": "2026-10-03"
   },
   {
     "name": "Brampton budget / Open Book resources",
@@ -18088,6 +18056,22 @@
     ]
   },
   {
+    "name": "Ontario — Integrated Accessibility Standards Regulation (O. Reg. 191/11)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "justice",
+    "type": "Legislation",
+    "description": "The e-Laws text of Ontario's Integrated Accessibility Standards Regulation: accessibility, information and communications, customer service and built-environment standards. The authoritative compliance text for AODA accessibility requirements.",
+    "url": "https://www.ontario.ca/laws/regulation/110191",
+    "tags": [
+      "accessibility",
+      "aoda",
+      "compliance",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "Commission des services juridiques (Quebec)",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -19286,6 +19270,22 @@
       "portal"
     ],
     "dateAdded": "2026-09-26"
+  },
+  {
+    "name": "New Brunswick — Disability by the Numbers",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "open-data",
+    "type": "Statistics",
+    "description": "New Brunswick's public statistics on disability prevalence and accessibility needs, for policymakers, researchers and disability advocacy organizations.",
+    "url": "https://www.gnb.ca/en/campaign/accessibility/disability-numbers.html",
+    "tags": [
+      "accessibility",
+      "disability",
+      "statistics",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-03"
   },
   {
     "name": "Newfoundland and Labrador — Municipalities and Local Service Districts",
