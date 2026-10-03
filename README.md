@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1968 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1973 resources · 36 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -39,7 +39,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
 - [🩺 Health & Wellness](#health-and-wellness) — 72
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 33
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 60
@@ -60,6 +60,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 82
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 25
+- [♿ Accessibility](#accessibility) — 4
 
 ---
 
@@ -1774,6 +1775,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Québec — Childcare Cost Calculator (subsidized vs non-subsidized) | Quebec · Provincial | Calculator | Compare the net daily cost of subsidized vs non-subsidized childcare for 2026, factoring in Quebec and federal childcare tax assistance. | https://www.finances.gouv.qc.ca/department/tools_services/calculators/daily_childcare_cost/tool_childcare.asp |
 | Québec — Services en ligne, aide financière de dernier recours | Quebec · Provincial | Client portal | Mon dossier portal for Québec social assistance: verify payment amounts and dates, submit documents online, track appointments and deadlines, apply and make repayments. | https://www.quebec.ca/famille-et-soutien-aux-personnes/aide-sociale-et-solidarite-sociale/services-en-ligne |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Newfoundland and Labrador — Accessible Vehicle Funding | Newfoundland and Labrador · Provincial | Program | Provincial funding program helping people with disabilities obtain accessible vehicles, for NL residents applying for support and researchers of disability programs. | https://www.gov.nl.ca/sswb/disabilities/accessible-vehicle-funding/ |
 
 ## 🏠 Housing & Real Estate
 
@@ -3520,6 +3527,27 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Internet for Nova Scotia Initiative | Nova Scotia · Provincial | Broadband rollout tracker | Track high-speed Internet rollout to ~103,000 Nova Scotia homes and businesses: search by community or postal code, browse zone and coverage maps, and check satellite Internet rebate eligibility. | https://internet.buildns.ca/ |
+
+## ♿ Accessibility
+
+### Ontario
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Ontario — Integrated Accessibility Standards Regulation (O. Reg. 191/11) | Ontario · Provincial | Legislation | The e-Laws text of Ontario's Integrated Accessibility Standards Regulation: accessibility, information and communications, customer service and built-environment standards. The authoritative compliance text for AODA accessibility requirements. | https://www.ontario.ca/laws/regulation/110191 |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Québec — Accessibility | Quebec · Provincial | Portal | Government of Québec's accessibility portal: the law, standards and government commitments on accessibility in Quebec, for organizations and citizens. | https://www.quebec.ca/en/accessibility |
+
+### Atlantic Canada (NB, NS, PE, NL)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| New Brunswick — Accessibility | New Brunswick · Provincial | Portal | Government of New Brunswick's accessibility hub: its Accessibility Act, advisory board and related policy resources, for organizations, municipalities and citizens. | https://www.gnb.ca/en/campaign/accessibility.html |
+| New Brunswick — Disability by the Numbers | New Brunswick · Provincial | Statistics | New Brunswick's public statistics on disability prevalence and accessibility needs, for policymakers, researchers and disability advocacy organizations. | https://www.gnb.ca/en/campaign/accessibility/disability-numbers.html |
 
 ---
 

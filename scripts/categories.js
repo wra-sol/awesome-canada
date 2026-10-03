@@ -42,6 +42,7 @@ const CATEGORIES = [
   { id: 'veterans',         title: 'Veterans & Military',          icon: '🎖️' },
   { id: 'elections',        title: 'Elections & Democracy',        icon: '🗳️' },
   { id: 'telecom',          title: 'Telecommunications & Digital', icon: '📡' },
+  { id: 'accessibility',   title: 'Accessibility',                icon: '♿' },
 ];
 
 const CATEGORY_IDS = new Set(CATEGORIES.map(c => c.id));
