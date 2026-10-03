@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1963 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1967 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 78
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 82
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 25
 
 ---
@@ -3367,6 +3367,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | British Columbia — Political Contributions Search (FRPC) | British Columbia · Provincial | Contributions database | Elections BC's Financial Reports and Political Contributions system: combined contribution searches over $250 by contributor class (individual, corporation, union) with bulk download options. | https://contributions.electionsbc.gov.bc.ca/pcs/sa1asearch.aspx |
 | Elections BC | British Columbia · Provincial | Agency | BC electoral information, voter registration, and financial disclosure search | https://elections.bc.ca/ |
 | Elections BC — Find Your District | British Columbia · Provincial | Lookup tool | Enter an address or browse the map to find your British Columbia electoral district, see how 2024 boundaries changed from 2020/2017, and locate voting places. | https://elections.bc.ca/resources/maps/find-your-district/ |
+| Elections BC — Online Voter Registration | British Columbia · Provincial | Voter registration | Register to vote, update your registration, register as a future voter (16–17), or request a vote-by-mail package | https://eregister.electionsbc.gov.bc.ca/ovr/ |
 | Vancouver — Municipal Election Results | Vancouver · Municipal | Dataset | Official results for every Vancouver municipal election since 1996 — mayor, council, park board and school board — with breakdowns by voting place; CSV/XLS downloads. | https://opendata.vancouver.ca/explore/dataset/municipal-election-results/api/ |
 | Vancouver Open Data Portal | Vancouver · Municipal | Open data portal | High-quality datasets and APIs for civic use | https://opendata.vancouver.ca/ |
 | Victoria — Council Election Voting Results (Open Data) | Victoria · Municipal | Dataset | Open-data dataset of City of Victoria council election voting results with candidate totals, queryable and downloadable. | https://opendata.victoria.ca/datasets/56be300327fc4f84af243eeb1dfe140f |
@@ -3379,6 +3380,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Alberta | Alberta · Provincial | Agency | Alberta provincial election administration, voter lookup, and results | https://www.elections.ab.ca/ |
 | Elections Alberta — Financial Disclosure Database | Alberta · Provincial | Searchable database | Search registrations, financial reports and contributions over $250 for Alberta parties, candidates, constituency associations and leadership contests since 2004. | https://efpublic.elections.ab.ca/ |
 | Elections Alberta — Maps & GIS Boundary Data | Alberta · Provincial | Maps & shapefiles | Download PDF maps of Alberta's 87 electoral divisions plus GIS boundary shapefiles of electoral division and voting-area boundaries for mapping software. | https://www.elections.ab.ca/resources/maps/ |
+| Elections Alberta — Register to Vote | Alberta · Provincial | Voter registration | Register to vote or check and update your voter registration with Elections Alberta | https://www.elections.ab.ca/voters/register-to-vote/ |
 | Elections Calgary — Results and Disclosures | Calgary · Municipal | Results and disclosure hub | Browse official Calgary municipal election results by ward and voting station, plus candidate campaign finance disclosure statements. | https://www.electionscalgary.ca/results.html |
 | Edmonton — 2025 Official Election Results by Voting Station | Edmonton · Municipal | Open dataset | Query and download station-level official results from Edmonton's 2025 municipal election; datasets for earlier elections are on the same portal. | https://data.edmonton.ca/Elected-Officials/2025-Official-Edmonton-Election-Results-by-Voting-/32te-6grv |
 
@@ -3408,6 +3410,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario Elections — Find Your Electoral District | Ontario · Agency | Voter tool | Find your provincial electoral district, polling place, and candidates via the Ontario voter information service. | https://voterinformationservice.elections.on.ca/ |
 | Ontario Legislative Assembly — Hansard | Ontario · Agency | Legislative | Searchable record of debates and proceedings in the Ontario Legislature | https://www.ola.org/en |
+| Elections Ontario — eRegistration | Ontario · Provincial | Voter registration | Register to vote online or update your name and address on the Ontario voters list | https://eregistration.elections.on.ca/ |
 | Elections Ontario — Finances Overview | Ontario · Provincial | Finance portal | Hub for Ontario's election-finance data: party and candidate financial summaries, campaign-period returns, contribution reports and spending-limit information for provincial elections and by-elections. | https://finances.elections.on.ca/en/finances-overview |
 | Elections Ontario — Official Results Data Explorer | Ontario · Provincial | Results database | Filter official Ontario election and referendum results by year, electoral district, party or candidate, with interactive charts and CSV/PDF downloads. | https://results.elections.on.ca/en/ |
 | Ontario — Municipal Election Results Dataset | Ontario · Provincial | Open dataset | Download post-election data for every Ontario municipality — eligible voters, turnout, voting methods and election statistics — from the provincial data catalogue. | https://data.ontario.ca/dataset/municipal-election-results |
@@ -3428,6 +3431,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Élections Québec — Provincial Electoral Divisions | Quebec · Provincial | Interactive map | Browse Québec's 125 electoral divisions on an interactive map with per-division information sheets, results, maps and downloadable boundary data. | https://www.electionsquebec.qc.ca/en/electoral-maps/provincial-electoral-divisions/ |
 | Élections Québec — Québec Electoral Map | Quebec · Provincial | Interactive map | Interactive map of Québec's 125 electoral divisions with per-division socioeconomic and historical information sheets, plus downloadable official maps, polling-subdivision maps and GeoJSON/CSV boundary data. | https://www.electionsquebec.qc.ca/en/electoral-maps/quebec-electoral-map/ |
 | Élections Québec — Research on Contributors | Quebec · Provincial | Searchable database | Search political contributions made to Quebec provincial and municipal parties and candidates by contributor name, political entity or year. | https://www.electionsquebec.qc.ca/en/financing-expenses-and-contributions/research-on-contributors/ |
+| Élections Québec — S'inscrire sur la liste électorale | Quebec · Provincial | Voter registration | Inscription en ligne sur la liste électorale permanente du Québec ou modification d'une inscription existante (vérification de l'inscription aussi disponible) | https://www.electionsquebec.qc.ca/voter/sinscrire-sur-la-liste-electorale-ou-modifier-une-inscription/ |
 | Quebec National Assembly — Hansard | Quebec · Provincial | Hansard | Quebec National Assembly debates, committee proceedings, and bill tracking | https://www.assnat.qc.ca/en/travaux-parlementaires/journaux-debats.html |
 | Gatineau Open Data | Quebec · Municipal | Open data | Gatineau's open data portal — municipal datasets, maps, and civic information for the National Capital Region | https://www.gatineau.ca/donneesouvertes/ |
 

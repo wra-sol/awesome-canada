@@ -9291,6 +9291,21 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Elections Alberta — Register to Vote",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote or check and update your voter registration with Elections Alberta",
+    "url": "https://www.elections.ab.ca/voters/register-to-vote/",
+    "tags": [
+      "Alberta",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "British Columbia — Political Contributions Search (FRPC)",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -9333,6 +9348,21 @@
       "british columbia"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Elections BC — Online Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote, update your registration, register as a future voter (16–17), or request a vote-by-mail package",
+    "url": "https://eregister.electionsbc.gov.bc.ca/ovr/",
+    "tags": [
+      "BC",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-10-03"
   },
   {
     "name": "Elections Manitoba",
@@ -9526,6 +9556,21 @@
     ]
   },
   {
+    "name": "Elections Ontario — eRegistration",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote online or update your name and address on the Ontario voters list",
+    "url": "https://eregistration.elections.on.ca/",
+    "tags": [
+      "Ontario",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "Elections PEI",
     "level": "Provincial",
     "jurisdiction": "PEI",
@@ -9618,6 +9663,21 @@
       "donors",
       "quebec"
     ]
+  },
+  {
+    "name": "Élections Québec — S'inscrire sur la liste électorale",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Inscription en ligne sur la liste électorale permanente du Québec ou modification d'une inscription existante (vérification de l'inscription aussi disponible)",
+    "url": "https://www.electionsquebec.qc.ca/voter/sinscrire-sur-la-liste-electorale-ou-modifier-une-inscription/",
+    "tags": [
+      "Quebec",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-10-03"
   },
   {
     "name": "Quebec National Assembly — Hansard",
