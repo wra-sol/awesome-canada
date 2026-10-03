@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1967 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1968 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -44,7 +44,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 60
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 71
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 72
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 80
 - [🌦️ Weather & Climate](#weather-and-climate) — 26
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
@@ -2224,6 +2224,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Parks — Fall Colour Report | Ontario · Provincial | Fall colour report | Official fall colour reports for 60+ provincial parks: colour-change %, leaf fall, dominant colours, and best viewing spots, updated daily through the season. | https://www.ontarioparks.ca/fallcolour |
 | Ontario Parks — Reservations | Ontario · Provincial | Reservation system | Book campsites, roofed accommodations, and backcountry permits across Ontario's provincial parks | https://reservations.ontarioparks.ca/ |
 | Caledon Trails Open Data | Caledon · Municipal | Trails GIS dataset | Caledon trail network GIS layers on the municipal open data hub — download paths and recreation routes or explore via the geohub. | https://geohub-caledon.hub.arcgis.com/ |
+| TONearby | Toronto · Municipal | Parks & recreation finder | Free app by independent developer Dmytro Kordik: find nearby drop-in activities, recreation programs, parks and community centres from City of Toronto open data — one map with date and age filters. Featured in the City of Toronto open data gallery. | https://tonearby.com/ |
 
 ### Quebec
 

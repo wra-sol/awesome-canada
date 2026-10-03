@@ -22724,6 +22724,23 @@
     ]
   },
   {
+    "name": "TONearby",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "parks",
+    "type": "Parks & recreation finder",
+    "description": "Free app by independent developer Dmytro Kordik: find nearby drop-in activities, recreation programs, parks and community centres from City of Toronto open data — one map with date and age filters. Featured in the City of Toronto open data gallery.",
+    "url": "https://tonearby.com/",
+    "tags": [
+      "toronto",
+      "parks",
+      "recreation",
+      "community-centres",
+      "open-data"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "Codes Canada — CODES-GUIDES Online Library",
     "level": "Federal",
     "jurisdiction": "Canada",
