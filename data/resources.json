@@ -1562,6 +1562,23 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Newfoundland and Labrador — Accessible Vehicle Funding",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "benefits",
+    "type": "Program",
+    "description": "Provincial funding program helping people with disabilities obtain accessible vehicles, for NL residents applying for support and researchers of disability programs.",
+    "url": "https://www.gov.nl.ca/sswb/disabilities/accessible-vehicle-funding/",
+    "tags": [
+      "accessibility",
+      "funding",
+      "vehicles",
+      "disability",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "Ontario Disability Support Program (ODSP)",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -1649,23 +1666,6 @@
       "saskatchewan"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "Newfoundland and Labrador — Accessible Vehicle Funding",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "benefits",
-    "type": "Program",
-    "description": "Provincial funding program helping people with disabilities obtain accessible vehicles, for NL residents applying for support and researchers of disability programs.",
-    "url": "https://www.gov.nl.ca/sswb/disabilities/accessible-vehicle-funding/",
-    "tags": [
-      "accessibility",
-      "funding",
-      "vehicles",
-      "disability",
-      "newfoundland and labrador"
-    ],
-    "dateAdded": "2026-10-03"
   },
   {
     "name": "Calgary Equity Index",
@@ -8173,6 +8173,24 @@
     ]
   },
   {
+    "name": "near & here",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "culture",
+    "type": "Local map & events guide",
+    "description": "One free map for Toronto: 1,000+ events at a time, thousands of places with photos and street view, restaurants with City food-safety inspection data, live TTC arrivals, and directions. Built on Toronto and Ontario open data through a fully automated pipeline; Toronto servers; no Google APIs, no tracking or ads; iOS app live. Featured in the City of Toronto open data gallery.",
+    "url": "https://nearandhere.ca/",
+    "tags": [
+      "toronto",
+      "events",
+      "local-map",
+      "transit",
+      "food-safety",
+      "open-data"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "Toronto Heritage Register — Built Heritage",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -9509,6 +9527,21 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Elections Ontario — eRegistration",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote online or update your name and address on the Ontario voters list",
+    "url": "https://eregistration.elections.on.ca/",
+    "tags": [
+      "Ontario",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "Elections Ontario — Finances Overview",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -9571,21 +9604,6 @@
       "elections",
       "ontario"
     ]
-  },
-  {
-    "name": "Elections Ontario — eRegistration",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "elections",
-    "type": "Voter registration",
-    "description": "Register to vote online or update your name and address on the Ontario voters list",
-    "url": "https://eregistration.elections.on.ca/",
-    "tags": [
-      "Ontario",
-      "elections",
-      "voter registration"
-    ],
-    "dateAdded": "2026-10-03"
   },
   {
     "name": "Elections PEI",
@@ -12923,6 +12941,21 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "New Brunswick — Accessibility",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "gov-services",
+    "type": "Portal",
+    "description": "Government of New Brunswick's accessibility hub: its Accessibility Act, advisory board and related policy resources, for organizations, municipalities and citizens.",
+    "url": "https://www.gnb.ca/en/campaign/accessibility.html",
+    "tags": [
+      "accessibility",
+      "new brunswick",
+      "accessibility act"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "New Brunswick Geological Survey",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -12951,21 +12984,6 @@
       "new brunswick"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "New Brunswick — Accessibility",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "gov-services",
-    "type": "Portal",
-    "description": "Government of New Brunswick's accessibility hub: its Accessibility Act, advisory board and related policy resources, for organizations, municipalities and citizens.",
-    "url": "https://www.gnb.ca/en/campaign/accessibility.html",
-    "tags": [
-      "accessibility",
-      "new brunswick",
-      "accessibility act"
-    ],
-    "dateAdded": "2026-10-03"
   },
   {
     "name": "Northwest Territories Geological Survey",
@@ -17996,6 +18014,22 @@
     ]
   },
   {
+    "name": "Ontario — Integrated Accessibility Standards Regulation (O. Reg. 191/11)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "justice",
+    "type": "Legislation",
+    "description": "The e-Laws text of Ontario's Integrated Accessibility Standards Regulation: accessibility, information and communications, customer service and built-environment standards. The authoritative compliance text for AODA accessibility requirements.",
+    "url": "https://www.ontario.ca/laws/regulation/110191",
+    "tags": [
+      "accessibility",
+      "aoda",
+      "compliance",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "Ontario — Provincial Offences Act Online Services",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -18054,22 +18088,6 @@
       "Ontario",
       "tribunal"
     ]
-  },
-  {
-    "name": "Ontario — Integrated Accessibility Standards Regulation (O. Reg. 191/11)",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "justice",
-    "type": "Legislation",
-    "description": "The e-Laws text of Ontario's Integrated Accessibility Standards Regulation: accessibility, information and communications, customer service and built-environment standards. The authoritative compliance text for AODA accessibility requirements.",
-    "url": "https://www.ontario.ca/laws/regulation/110191",
-    "tags": [
-      "accessibility",
-      "aoda",
-      "compliance",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-03"
   },
   {
     "name": "Commission des services juridiques (Quebec)",
@@ -19220,6 +19238,22 @@
     ]
   },
   {
+    "name": "New Brunswick — Disability by the Numbers",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "open-data",
+    "type": "Statistics",
+    "description": "New Brunswick's public statistics on disability prevalence and accessibility needs, for policymakers, researchers and disability advocacy organizations.",
+    "url": "https://www.gnb.ca/en/campaign/accessibility/disability-numbers.html",
+    "tags": [
+      "accessibility",
+      "disability",
+      "statistics",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-03"
+  },
+  {
     "name": "New Brunswick — GeoNB ArcGIS REST Services",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -19270,22 +19304,6 @@
       "portal"
     ],
     "dateAdded": "2026-09-26"
-  },
-  {
-    "name": "New Brunswick — Disability by the Numbers",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "open-data",
-    "type": "Statistics",
-    "description": "New Brunswick's public statistics on disability prevalence and accessibility needs, for policymakers, researchers and disability advocacy organizations.",
-    "url": "https://www.gnb.ca/en/campaign/accessibility/disability-numbers.html",
-    "tags": [
-      "accessibility",
-      "disability",
-      "statistics",
-      "new brunswick"
-    ],
-    "dateAdded": "2026-10-03"
   },
   {
     "name": "Newfoundland and Labrador — Municipalities and Local Service Districts",
@@ -24155,6 +24173,23 @@
       "mapping"
     ],
     "dateAdded": "2026-08-28"
+  },
+  {
+    "name": "Kildrin",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "planning-zoning",
+    "type": "Renovation cost benchmarks",
+    "description": "Toronto renovation-cost benchmarks built from City of Toronto building-permit records (3,278 retained category records, Oct 2024–Aug 2026): medians and middle-50% declared construction values across 7 job categories — laneway suite, garden suite, rear addition, basement underpinning, second suite conversion, deck, front porch — with postal-area breakdowns, methodology notes, and CSV downloads. Featured in the City of Toronto open data gallery.",
+    "url": "https://kildrin.ca/",
+    "tags": [
+      "toronto",
+      "renovation",
+      "building-permits",
+      "open-data",
+      "cost-data"
+    ],
+    "dateAdded": "2026-10-03"
   },
   {
     "name": "Toronto Application Information Centre",
@@ -30731,40 +30766,5 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "Kildrin",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "planning-zoning",
-    "type": "Renovation cost benchmarks",
-    "description": "Toronto renovation-cost benchmarks built from City of Toronto building-permit records (3,278 retained category records, Oct 2024–Aug 2026): medians and middle-50% declared construction values across 7 job categories — laneway suite, garden suite, rear addition, basement underpinning, second suite conversion, deck, front porch — with postal-area breakdowns, methodology notes, and CSV downloads. Featured in the City of Toronto open data gallery.",
-    "url": "https://kildrin.ca/",
-    "tags": [
-      "toronto",
-      "renovation",
-      "building-permits",
-      "open-data",
-      "cost-data"
-    ],
-    "dateAdded": "2026-10-03"
-  },
-  {
-    "name": "near & here",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "culture",
-    "type": "Local map & events guide",
-    "description": "One free map for Toronto: 1,000+ events at a time, thousands of places with photos and street view, restaurants with City food-safety inspection data, live TTC arrivals, and directions. Built on Toronto and Ontario open data through a fully automated pipeline; Toronto servers; no Google APIs, no tracking or ads; iOS app live. Featured in the City of Toronto open data gallery.",
-    "url": "https://nearandhere.ca/",
-    "tags": [
-      "toronto",
-      "events",
-      "local-map",
-      "transit",
-      "food-safety",
-      "open-data"
-    ],
-    "dateAdded": "2026-10-03"
   }
 ]
