@@ -30910,5 +30910,177 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Manitoba Emergency Alerting (Alert Ready in Manitoba)",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "safety",
+    "type": "Emergency alerting",
+    "description": "Manitoba EMO's page on the provincial implementation of Alert Ready: who issues alerts, the strict criteria alerts must meet, and how Manitobans subscribe to wireless emergency alerts. Distinct from the federal alertready.ca entry, which documents the national system.",
+    "url": "https://www.manitoba.ca/emo/about/services/emergency-alerting.html",
+    "tags": [
+      "emergency-alerts",
+      "alert-ready",
+      "manitoba",
+      "wireless-alerts"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Manitoba Emergency Guide",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "safety",
+    "type": "Preparedness guide",
+    "description": "Manitoba's main preparedness reference — walks the full emergency management cycle (mitigation, preparedness, response, recovery), the province's four protection priorities, and separate before/during/after guides for individuals, local authorities, and partners.",
+    "url": "https://www.manitoba.ca/emo/guide/index.html",
+    "tags": [
+      "preparedness",
+      "manitoba",
+      "emergency-guide"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Manitoba Emergency Hazards",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "safety",
+    "type": "Hazard profiles",
+    "description": "Province-specific hazard profiles covering the natural, human-caused, and technological hazards Manitobans face — seasonal flooding, wildfire, tornadoes and blizzards, dam failure, pipeline and transport incidents — with links to per-hazard detail pages.",
+    "url": "https://www.manitoba.ca/emo/hazards/index.html",
+    "tags": [
+      "hazards",
+      "manitoba",
+      "flood",
+      "wildfire"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Ministry of Emergency Preparedness and Response",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "safety",
+    "type": "Ministry page",
+    "description": "Ontario's emergency management ministry: the Provincial Emergency Management Strategy and Action Plan, the Community Emergency Preparedness Grant, nuclear emergency preparedness, Ontario Corps volunteer registration, and municipal emergency management support resources.",
+    "url": "https://www.ontario.ca/page/ministry-emergency-preparedness-and-response",
+    "tags": [
+      "emergency-management",
+      "ontario",
+      "ministry"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Alberta Emergency Preparedness",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "safety",
+    "type": "Preparedness hub",
+    "description": "Albertans' preparedness hub — stocking essential items, building support networks, creating a plan, hazard awareness, pet preparedness, plus public education materials (videos, posters, fact sheets) and Alberta's annual preparedness survey.",
+    "url": "https://www.alberta.ca/emergency-preparedness",
+    "tags": [
+      "preparedness",
+      "alberta",
+      "emergency-plan"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Nova Scotia Department of Emergency Management",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "safety",
+    "type": "Department page",
+    "description": "The department responsible for coordinating provincial emergency planning, preparedness, response and recovery, issuing timely emergency alerts and information, and supporting municipal emergency organizations; also houses the Office of the Fire Marshal.",
+    "url": "https://novascotia.ca/government/emergency-management",
+    "tags": [
+      "emergency-management",
+      "nova-scotia",
+      "fire-marshal"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "PreparedBC — Public Emergency Preparation and Recovery",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "safety",
+    "type": "Preparedness portal",
+    "description": "B.C.'s public-facing preparedness and recovery portal: how to prepare for floods, wildfires, earthquakes and other hazards, plus evacuation and disaster recovery information including financial assistance.",
+    "url": "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc",
+    "tags": [
+      "preparedness",
+      "british-columbia",
+      "preparedbc",
+      "recovery"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "B.C. Disaster Recovery Information for the Public",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "safety",
+    "type": "Recovery hub",
+    "description": "Post-emergency recovery hub for British Columbians — what help is available after an evacuation or disaster, how to apply, and how to navigate the provincial recovery process.",
+    "url": "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/evacuation-recovery/emergency-recovery",
+    "tags": [
+      "recovery",
+      "british-columbia",
+      "evacuation",
+      "disaster-assistance"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Financial Assistance in a Disaster (Evacuation Emergency Recovery)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "safety",
+    "type": "Disaster financial assistance",
+    "description": "B.C.'s Evacuation Emergency Recovery program — eligibility and application routes for disaster financial assistance for evacuees, covering housing, rental and basic living costs after a declared emergency.",
+    "url": "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/evacuation-recovery/disaster-financial-assistance",
+    "tags": [
+      "disaster-assistance",
+      "british-columbia",
+      "evacuee",
+      "financial-assistance"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "B.C. Emergency Education Programs and Tools",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "safety",
+    "type": "Education toolkits",
+    "description": "Curated emergency management education resources, programs and toolkits for schools, communities, Indigenous nations and local governments, including preparedness curricula and exercise materials.",
+    "url": "https://www2.gov.bc.ca/gov/content/safety/emergency-management/education-programs-toolkits",
+    "tags": [
+      "education",
+      "british-columbia",
+      "toolkits",
+      "preparedness"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Halifax Emergency Management",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "safety",
+    "type": "Municipal emergency hub",
+    "description": "Halifax Regional Municipality's emergency hub: municipal emergency notification signup by text, email or phone, a three-step preparedness guide with a fillable Home Emergency Plan, and the Voluntary Vulnerable Persons Registry for residents needing extra support.",
+    "url": "https://www.halifax.ca/safety-security/emergency-management",
+    "tags": [
+      "emergency-management",
+      "halifax",
+      "alerts",
+      "preparedness"
+    ],
+    "dateAdded": "2026-10-04"
   }
 ]

@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1984 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1995 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -53,7 +53,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 54
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 44
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 54
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 65
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 54
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 33
@@ -3016,14 +3016,19 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| B.C. Disaster Recovery Information for the Public | British Columbia · Provincial | Recovery hub | Post-emergency recovery hub for British Columbians — what help is available after an evacuation or disaster, how to apply, and how to navigate the provincial recovery process. | https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/evacuation-recovery/emergency-recovery |
+| B.C. Emergency Education Programs and Tools | British Columbia · Provincial | Education toolkits | Curated emergency management education resources, programs and toolkits for schools, communities, Indigenous nations and local governments, including preparedness curricula and exercise materials. | https://www2.gov.bc.ca/gov/content/safety/emergency-management/education-programs-toolkits |
 | BC Coroners Service — Death Statistics & Drug Toxicity Dashboard | British Columbia · Provincial | Dashboard | Explore unregulated-drug toxicity deaths by month, age, sex, health authority and drug detected via an interactive dashboard, plus PDF statistical reports on drownings, crashes and more. | https://www2.gov.bc.ca/gov/content/life-events/death/coroners-service/statistical-reports |
 | EmergencyInfoBC — Active Emergencies and Evacuation Orders | British Columbia · Provincial | Emergency alerts register | Ministry of Emergency Management portal listing current wildfires, floods, evacuation orders/alerts and states of provincial emergency, with links to EmergencyMapBC; updated continuously by local authorities. | https://www.emergencyinfobc.gov.bc.ca/ |
+| Financial Assistance in a Disaster (Evacuation Emergency Recovery) | British Columbia · Provincial | Disaster financial assistance | B.C.'s Evacuation Emergency Recovery program — eligibility and application routes for disaster financial assistance for evacuees, covering housing, rental and basic living costs after a declared emergency. | https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/evacuation-recovery/disaster-financial-assistance |
+| PreparedBC — Public Emergency Preparation and Recovery | British Columbia · Provincial | Preparedness portal | B.C.'s public-facing preparedness and recovery portal: how to prepare for floods, wildfires, earthquakes and other hazards, plus evacuation and disaster recovery information including financial assistance. | https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc |
 | Vancouver — GeoDASH Crime Map | Vancouver · Municipal | Interactive crime map | Map crimes reported to Vancouver Police, filtering by neighbourhood, crime type and date range, with statistical reports updated every 24 hours. | https://geodash.vpd.ca/ |
 
 ### Alberta
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta Emergency Preparedness | Alberta · Provincial | Preparedness hub | Albertans' preparedness hub — stocking essential items, building support networks, creating a plan, hazard awareness, pet preparedness, plus public education materials (videos, posters, fact sheets) and Alberta's annual preparedness survey. | https://www.alberta.ca/emergency-preparedness |
 | Public Safety & Emergency Services — Alberta Emergency Alert | Alberta · Provincial | Alert map & feed | View critical and advisory emergency alerts on a live map, browse a 7-year alert archive, and subscribe province-wide via the official Atom/RSS feed or mobile apps. | https://emergencyalert.alberta.ca/ |
 | Edmonton — Neighbourhood Crime Mapping | Edmonton · Municipal | Interactive crime map | Click any Edmonton neighbourhood to plot eight crime types (assault, break and enter, vehicle theft, more) on a map for any date range up to 60 days. | https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping |
 
@@ -3035,10 +3040,19 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Prince Albert — CSWB Data & Crime Dashboard | Prince Albert · Municipal | Dashboard | Interactive GIS crime dashboard updated weekly with police call data, plus encampment mapping and needle reporting for community safety and well-being. | https://www.citypa.ca/living-in-our-community/cswb/data-cswb/ |
 | Saskatoon — Police Crime Map | Saskatoon · Municipal | Interactive crime map | View approximate locations of crimes and traffic collisions reported to Saskatoon Police on an interactive city map, by neighbourhood or citywide. | https://map.saskatoonpolice.ca/ |
 
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Manitoba Emergency Alerting (Alert Ready in Manitoba) | Manitoba · Provincial | Emergency alerting | Manitoba EMO's page on the provincial implementation of Alert Ready: who issues alerts, the strict criteria alerts must meet, and how Manitobans subscribe to wireless emergency alerts. Distinct from the federal alertready.ca entry, which documents the national system. | https://www.manitoba.ca/emo/about/services/emergency-alerting.html |
+| Manitoba Emergency Guide | Manitoba · Provincial | Preparedness guide | Manitoba's main preparedness reference — walks the full emergency management cycle (mitigation, preparedness, response, recovery), the province's four protection priorities, and separate before/during/after guides for individuals, local authorities, and partners. | https://www.manitoba.ca/emo/guide/index.html |
+| Manitoba Emergency Hazards | Manitoba · Provincial | Hazard profiles | Province-specific hazard profiles covering the natural, human-caused, and technological hazards Manitobans face — seasonal flooding, wildfire, tornadoes and blizzards, dam failure, pipeline and transport incidents — with links to per-hazard detail pages. | https://www.manitoba.ca/emo/hazards/index.html |
+
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Ministry of Emergency Preparedness and Response | Ontario · Provincial | Ministry page | Ontario's emergency management ministry: the Provincial Emergency Management Strategy and Action Plan, the Community Emergency Preparedness Grant, nuclear emergency preparedness, Ontario Corps volunteer registration, and municipal emergency management support resources. | https://www.ontario.ca/page/ministry-emergency-preparedness-and-response |
 | Ontario Wildfire Map (Interactive) | Ontario · Provincial | Wildfire map | Ontario's interactive fire map with fire size, status, and restricted fire zones | https://www.ontario.ca/page/forest-wildland-and-outdoor-fires |
 | Hamilton — Police Online Crime Mapping Tool | Hamilton · Municipal | Interactive crime map | Search where break-ins, robberies, vehicle thefts and homicides occurred in Hamilton over the past 60 days, with hotspot maps and email crime alerts. | https://hamiltonpolice.on.ca/how-to/online-crime-mapping-tool |
 | Ottawa — Police Community Safety Data Portal | Ottawa · Municipal | Crime maps and open data | Browse Ottawa Police crime maps (year-to-date and historical), shootings, overdose calls by neighbourhood, and download 340k+ criminal offence records. | https://data.ottawapolice.ca/ |
@@ -3063,7 +3077,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NL Daily Wildfire Risk & Active Wildfires | Newfoundland and Labrador · Provincial | Wildfire hazard map | Daily Fire Weather Index map by region from Forestry, Agriculture and Lands, plus the NL Active Wildfires dashboard showing location, status and size of ongoing wildfires. | https://www.gov.nl.ca/fal/wildfiremanagement/fire-hazard-map/ |
 | WorkplaceNL — Certification Training Registry (CTR) Course Marketplace | Newfoundland and Labrador · Provincial | Lookup tool | Search the marketplace of WorkplaceNL-approved OHS training providers and courses, with workers' certification records stored electronically. | https://ctr.bluedrop.io/ |
 | Department of Natural Resources — BurnSafe Fire Restrictions | Nova Scotia · Provincial | Dashboard | Daily county-level burn ban map and table (updated 2pm in wildfire season): no-burn, restricted, or allowed hours. Check before campfires or brush burning. | https://novascotia.ca/burnsafe/ |
+| Nova Scotia Department of Emergency Management | Nova Scotia · Provincial | Department page | The department responsible for coordinating provincial emergency planning, preparedness, response and recovery, issuing timely emergency alerts and information, and supporting municipal emergency organizations; also houses the Office of the Fire Marshal. | https://novascotia.ca/government/emergency-management |
 | Halifax — Police Crime Mapping | Halifax · Municipal | Interactive crime map | See recent Halifax crimes on a map updated daily — search five crime types by street name or community for the last day, four days or week. | https://www.halifax.ca/safety-security/police/crime-mapping |
+| Halifax Emergency Management | Halifax · Municipal | Municipal emergency hub | Halifax Regional Municipality's emergency hub: municipal emergency notification signup by text, email or phone, a three-step preparedness guide with a fillable Home Emergency Plan, and the Voluntary Vulnerable Persons Registry for residents needing extra support. | https://www.halifax.ca/safety-security/emergency-management |
 
 ### Northern Canada (YT, NT, NU)
 
