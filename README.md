@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1973 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1975 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,7 +26,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 ## Table of Contents
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 218
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 98
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 99
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
 - [🪪 Government Services & ID](#government-services-and-id) — 55
@@ -50,7 +50,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 53
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 54
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 44
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 54
@@ -420,6 +420,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Sarnia Residential Development Pipeline Dashboard | Sarnia · Municipal | Development pipeline dashboard | Interactive dashboard of Council-approved residential units via zoning amendments, OPA, and site plan — filter by project status and map location. | https://www.sarnia.ca/business-planning-and-development/residential-development-pipeline/ |
 | St. Thomas CMAP Interactive City Maps | St. Thomas · Municipal | Interactive zoning map | CartoVista web map for St. Thomas — zoning, property, and city map layers for parcel and planning lookups. | https://cmap2.stthomas.ca/CartoVistaServer/maps/view |
 | Thunder Bay — Property Information & Development Map | Thunder Bay · Municipal | Interactive map | Parcel lookup combining assessment, legal description, dwelling-unit count, zoning, Official Plan designation and garbage day cycle, plus a building-activity layer from 2014. | https://experience.arcgis.com/experience/ec7df78a1a7642f397655c84c4741e98 |
+| Kildrin | Toronto · Municipal | Renovation cost benchmarks | Toronto renovation-cost benchmarks built from City of Toronto building-permit records (3,278 retained category records, Oct 2024–Aug 2026): medians and middle-50% declared construction values across 7 job categories — laneway suite, garden suite, rear addition, basement underpinning, second suite conversion, deck, front porch — with postal-area breakdowns, methodology notes, and CSV downloads. Featured in the City of Toronto open data gallery. | https://kildrin.ca/ |
 | Toronto Application Information Centre | Toronto · Municipal | Development application search | Map-based search for active and closed development applications, Committee of Adjustment minor variances, rezonings, and site plan control with downloadable supporting documents. | https://www.toronto.ca/city-government/planning-development/application-information-centre/ |
 | Toronto Building Permits — Cleared Permits | Toronto · Municipal | Building permits dataset | Download cleared building permits since 2000 as CSV or JSON — permit type, dates, address, and construction value for completed permits. | https://open.toronto.ca/dataset/building-permits-cleared-permits/ |
 | Toronto Development Applications (IBMS) | Toronto · Municipal | Development application tracker | Point layer of active planning applications with status, type, hearing dates, and links to application details. Queryable via ArcGIS FeatureServer. | https://gis.toronto.ca/arcgis/rest/services/cot_geospatial11/FeatureServer/60 |
@@ -2801,6 +2802,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Royal Ontario Museum — Collections | Ontario · Agency | Museum | Search the ROM's online collections of natural history, art, and world cultures | https://www.rom.on.ca/ |
 | Teranet — Ontario Land Registry | Ontario · Agency | Land data | Property search and historical title data for Ontario | https://www.teranet.ca/ |
 | Mississauga Heritage — Heritage Register | Mississauga · Municipal | Heritage register | Mississauga's heritage register of designated built heritage properties and cultural heritage landscapes | https://www.mississauga.ca/heritage/ |
+| near & here | Toronto · Municipal | Local map & events guide | One free map for Toronto: 1,000+ events at a time, thousands of places with photos and street view, restaurants with City food-safety inspection data, live TTC arrivals, and directions. Built on Toronto and Ontario open data through a fully automated pipeline; Toronto servers; no Google APIs, no tracking or ads; iOS app live. Featured in the City of Toronto open data gallery. | https://nearandhere.ca/ |
 | Toronto Heritage Register — Built Heritage | Toronto · Municipal | Heritage register | Searchable list of Toronto's designated and listed heritage properties — built heritage, cultural landscapes, and archaeological sites | https://www.toronto.ca/city-government/data-research-maps/toronto-parks-trees-green-space/heritage-register/ |
 | Toronto Open Data landing page | Toronto · Municipal | Open data hub | Portal page with datasets, gallery, and city data access | https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-portal/ |
 | Toronto Public Library — Digital Archive | Toronto · Municipal | Archive | Toronto's digital heritage archive with photos, maps, and historical records | https://digitalarchive.tpl.ca/ |
