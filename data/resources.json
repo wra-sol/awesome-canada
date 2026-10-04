@@ -8793,6 +8793,22 @@
     "dateAdded": "2026-10-02"
   },
   {
+    "name": "FNESC — How Are We Doing? Report",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "education",
+    "type": "Annual report",
+    "description": "The First Nations Education Steering Committee's (British Columbia) public performance and accountability report on First Nations student outcomes — for educators, parents, researchers and education policymakers.",
+    "url": "https://www.fnesc.ca/how-are-we-doing-report/",
+    "tags": [
+      "indigenous",
+      "education",
+      "fnesc",
+      "accountability"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
     "name": "AI Consultation Deadlines Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -14453,6 +14469,22 @@
     ]
   },
   {
+    "name": "First Nations Health Authority — Services and Support",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Services directory",
+    "description": "Health services, benefits and support directory of the First Nations Health Authority (British Columbia) — culturally safe care, benefits navigation and wellness programs for First Nations patients and families.",
+    "url": "https://fnha.ca/services-and-support/",
+    "tags": [
+      "indigenous",
+      "health",
+      "fnha",
+      "services-directory"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
     "name": "CIHI — Indicator Library",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -17369,6 +17401,118 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Six Nations of the Grand River — Land Claims",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "indigenous",
+    "type": "Land claims hub",
+    "description": "Land claims and legal file hub for the Six Nations of the Grand River First Nation (Ontario), covering ongoing land claims and treaty history — for members, researchers and students of First Nations law.",
+    "url": "https://www.sixnations.ca/land-claims/",
+    "tags": [
+      "indigenous",
+      "land-claims",
+      "six-nations",
+      "treaty"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Six Nations of the Grand River — General Council Meetings and Minutes",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "indigenous",
+    "type": "Council records",
+    "description": "Agendas, minutes and decisions of the elected General Council of Six Nations of the Grand River (Ontario) — an Indigenous government transparency record for members, citizens and accountability researchers.",
+    "url": "https://www.sixnations.ca/general-council-meetings-minutes/",
+    "tags": [
+      "indigenous",
+      "six-nations",
+      "transparency",
+      "council-minutes"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Blackfoot Confederacy — Lands and Tribes",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "indigenous",
+    "type": "Governance overview",
+    "description": "Tribal governance and land overview for the Blackfoot Confederacy (Kainai, Siksika, Blood, Piikani, Tsuut'ina — Alberta/Saskatchewan), the treaty negotiating organization for the Blackfoot peoples — for citizens and treaty researchers.",
+    "url": "https://blackfootconfederacy.ca/lands-and-tribes/",
+    "tags": [
+      "indigenous",
+      "blackfoot",
+      "treaty",
+      "lands"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Kahnawà:ke — Land Management",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "indigenous",
+    "type": "Land management",
+    "description": "Land management department of the Mohawk Council of Kahnawà:ke (Quebec), covering land use, permits and development on Kahnawà:ke territory — for residents, developers and land-use researchers.",
+    "url": "https://kahnawake.com/land-management/",
+    "tags": [
+      "indigenous",
+      "kahnawake",
+      "land-management",
+      "permits"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Kahnawà:ke — Justice Services",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "indigenous",
+    "type": "Justice services",
+    "description": "Justice and legal services of the Mohawk Council of Kahnawà:ke (Quebec) — Kahnawà:ke court, policing and legal support — for community members and researchers of Indigenous justice systems.",
+    "url": "https://kahnawake.com/justice-services/",
+    "tags": [
+      "indigenous",
+      "kahnawake",
+      "justice",
+      "court"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Tahltan Central Government — TSI Lands Projects",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "indigenous",
+    "type": "Project register",
+    "description": "Tahltan Central Government's (British Columbia) register of Tahltan-Settlement-Initiated land and resource projects — a public-interest record of land-use decisions on Tahltan Territory for communities and industry.",
+    "url": "https://tahltan.org/tsi-lands-projects/",
+    "tags": [
+      "indigenous",
+      "tahltan",
+      "land-use",
+      "projects"
+    ],
+    "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Métis Nation British Columbia",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "indigenous",
+    "type": "Government portal",
+    "description": "Official site of Métis Nation British Columbia, the provincial government representing Métis citizens in BC, with citizenship, policy and rights information — for Métis citizens, policymakers and researchers.",
+    "url": "https://www.mnbc.ca/",
+    "tags": [
+      "indigenous",
+      "metis",
+      "citizenship",
+      "bc"
+    ],
+    "dateAdded": "2026-10-04"
   },
   {
     "name": "Canadian Human Rights Tribunal — Decisions Database",

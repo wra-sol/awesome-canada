@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1975 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 1984 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -34,10 +34,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 51
 - [💼 Employment & Labour](#employment-and-labour) — 40
-- [🎓 Education & Student Aid](#education-and-student-aid) — 35
+- [🎓 Education & Student Aid](#education-and-student-aid) — 36
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
-- [🩺 Health & Wellness](#health-and-wellness) — 72
+- [🩺 Health & Wellness](#health-and-wellness) — 73
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
@@ -56,7 +56,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 54
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 54
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 26
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 33
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 82
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 25
@@ -1268,6 +1268,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | B.C. Education System Performance (Student Success) | British Columbia · Provincial | Data dashboard | Ministry of Education and Child Care tool to look up K-12 data by school district or city: enrolment, completion rates, FSA and graduation assessments, Indigenous student outcomes, child care. | https://studentsuccess.gov.bc.ca/ |
+| FNESC — How Are We Doing? Report | British Columbia · Provincial | Annual report | The First Nations Education Steering Committee's (British Columbia) public performance and accountability report on First Nations student outcomes — for educators, parents, researchers and education policymakers. | https://www.fnesc.ca/how-are-we-doing-report/ |
 | StudentAid BC | British Columbia · Provincial | Student aid | Apply for BC loans, grants, and scholarships; calculate eligibility; repay student debt | https://studentaidbc.ca/ |
 
 ### Alberta
@@ -1552,6 +1553,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Health Gateway | British Columbia · Provincial | Patient health record portal | BC's official health-records portal: lab results, medication history, immunization records, and hospital and community-health visits in one timeline, with a mobile app and email/SMS notifications for new records. Logged in with the BC Services Card app. | https://www.gov.bc.ca/healthgateway |
 | British Columbia — Surgery Wait Times | British Columbia · Provincial | Wait-time lookup | Compare scheduled-surgery wait times in BC by procedure, hospital and surgeon — see the wait to consult a surgeon and the wait for surgery, updated bi-monthly. | https://swt.hlth.gov.bc.ca/ |
+| First Nations Health Authority — Services and Support | British Columbia · Provincial | Services directory | Health services, benefits and support directory of the First Nations Health Authority (British Columbia) — culturally safe care, benefits navigation and wellness programs for First Nations patients and families. | https://fnha.ca/services-and-support/ |
 | HealthLink BC — 8-1-1 | British Columbia · Provincial | Health service | 24/7 non-emergency health advice, dietitian, and pharmacist services by phone and web in BC | https://www.healthlinkbc.ca/ |
 | Vaccinate BC | British Columbia · Provincial | Service | Book BC immunizations, view records, and find vaccine availability | https://www.getvaccinated.gov.bc.ca/ |
 
@@ -3283,12 +3285,15 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Treaty Commission — Interactive Map | British Columbia · Agency | Interactive map | Explore First Nations in BC treaty negotiations and modern treaty nations, with layers for traditional territories, shared areas and negotiation stages. | https://bctreaty.ca/map/ |
+| Métis Nation British Columbia | British Columbia · Provincial | Government portal | Official site of Métis Nation British Columbia, the provincial government representing Métis citizens in BC, with citizenship, policy and rights information — for Métis citizens, policymakers and researchers. | https://www.mnbc.ca/ |
 | Nisga'a Lisims Government — Nisga'a Land Title Office | British Columbia · Provincial | Registry | Request parcel title searches in Canada's only Indigenous-run Torrens land registry, calculate fees, and download survey plans, forms and legislation (PDF). | https://nisgaalandtitle.ca/title-search-and-copy/ |
+| Tahltan Central Government — TSI Lands Projects | British Columbia · Provincial | Project register | Tahltan Central Government's (British Columbia) register of Tahltan-Settlement-Initiated land and resource projects — a public-interest record of land-use decisions on Tahltan Territory for communities and industry. | https://tahltan.org/tsi-lands-projects/ |
 
 ### Alberta
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Blackfoot Confederacy — Lands and Tribes | Alberta · Provincial | Governance overview | Tribal governance and land overview for the Blackfoot Confederacy (Kainai, Siksika, Blood, Piikani, Tsuut'ina — Alberta/Saskatchewan), the treaty negotiating organization for the Blackfoot peoples — for citizens and treaty researchers. | https://blackfootconfederacy.ca/lands-and-tribes/ |
 | Otipemisiwak Métis Government — Harvesting Program | Alberta · Provincial | Registry & program | Métis Harvester Identification Cards for Otipemisiwak citizens: hunt, fish and trap for food in designated Alberta harvesting areas, with RELM integration for free domestic fishing licences. | https://albertametis.com/harvesting/ |
 
 ### Saskatchewan
@@ -3308,6 +3313,15 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario — Map of Ontario Treaties and Reserves | Ontario · Provincial | Interactive map | Search an interactive map to find which of Ontario's 40+ treaties covers any location and click reserves to learn about First Nation communities. | https://www.ontario.ca/page/map-ontario-treaties-and-reserves |
+| Six Nations of the Grand River — General Council Meetings and Minutes | Ontario · Provincial | Council records | Agendas, minutes and decisions of the elected General Council of Six Nations of the Grand River (Ontario) — an Indigenous government transparency record for members, citizens and accountability researchers. | https://www.sixnations.ca/general-council-meetings-minutes/ |
+| Six Nations of the Grand River — Land Claims | Ontario · Provincial | Land claims hub | Land claims and legal file hub for the Six Nations of the Grand River First Nation (Ontario), covering ongoing land claims and treaty history — for members, researchers and students of First Nations law. | https://www.sixnations.ca/land-claims/ |
+
+### Quebec
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Kahnawà:ke — Justice Services | Quebec · Provincial | Justice services | Justice and legal services of the Mohawk Council of Kahnawà:ke (Quebec) — Kahnawà:ke court, policing and legal support — for community members and researchers of Indigenous justice systems. | https://kahnawake.com/justice-services/ |
+| Kahnawà:ke — Land Management | Quebec · Provincial | Land management | Land management department of the Mohawk Council of Kahnawà:ke (Quebec), covering land use, permits and development on Kahnawà:ke territory — for residents, developers and land-use researchers. | https://kahnawake.com/land-management/ |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
