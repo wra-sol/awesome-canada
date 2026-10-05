@@ -31274,5 +31274,282 @@
       "laval"
     ],
     "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Toronto — Waste Management Guide & Collection Schedules",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "gov-services",
+    "type": "Collection schedule download",
+    "description": "Official download hub for Toronto's 2026 waste collection schedules by district (printable large-text and icon versions, accessible PDF request, and the Waste Management Guide), plus how to get a printed copy via 311. Complements the catalog's Toronto Waste Wizard, which covers what-goes-where instead of schedule downloads.",
+    "url": "https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-management-guide-collection-schedules/",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "toronto"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Durham Region — Waste Collection Calendar",
+    "level": "Regional",
+    "jurisdiction": "Durham",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Address-search collection calendar for the Region of Durham: enter your home address to see what day collection happens and which bins to bring, then view, download or print the calendar, sign up for weekly reminders and service alerts, or subscribe via iCal, Google or Outlook.",
+    "url": "https://www.durham.ca/living-here/garbage-green-bin-and-other-collection/collection-calendar/",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "durham",
+      "green bin"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Kingston — Collection Calendar",
+    "level": "Municipal",
+    "jurisdiction": "Kingston",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Enter an address to get Kingston's collection day and next pick-up date, download and print the Collection Calendar, subscribe to email or phone reminders, and push the schedule to iCal, Google or Outlook. Also lists Giveaway Days and what-to-set-out guidance.",
+    "url": "https://www.cityofkingston.ca/garbage-and-recycling/collection-calendar/",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "kingston"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Greater Sudbury — Waste Wise",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "City-hosted Waste Wise address lookup returning garbage, recycling, green-cart and leaf-and-yard-waste collection schedules, plus what-is-accepted-in-which-cart guidance and service-provider details per address.",
+    "url": "https://www.greatersudbury.ca/live/garbage-and-recycling/waste-wise/",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "sudbury"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Kitchener — Leaf Options Lookup Tool",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Dedicated address-lookup tool for Kitchener leaf collection: enter your address to see the curbside leaf collection options for your area (zone-based set-out versus bring-to-facility), with raking and catch-basin rules.",
+    "url": "https://www.kitchener.ca/living-in-kitchener/leaves-snow-recycling-and-garbage/leaf-collection/leaf-options-lookup-tool/",
+    "tags": [
+      "municipal",
+      "waste",
+      "leaf collection",
+      "lookup",
+      "kitchener"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Calgary — Garbage, Recycling and Composting Pickup Schedule",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Calgary's scheduling tool: type an address to get blue, green and black cart collection days, sign up for free pickup-day reminders by email or phone, or print and add an online calendar. Also covers holiday shifts, missed-cart reasons and community collection alerts.",
+    "url": "https://www.calgary.ca/waste/residential/garbage-schedule.html",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "composting",
+      "collection schedule",
+      "calgary"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Edmonton — Waste Collection Calendar",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Official Edmonton Waste Collection Calendar page with the address look-up tool and a step-by-step view-and-print-your-calendar tutorial, plus the WasteWise app (schedule, reminders, sorting instructions) and guidance for apartment and condo collection days.",
+    "url": "https://www.edmonton.ca/programs_services/garbage_waste/waste-collection-days-schedule",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "edmonton"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Regina — Garbage, Recycling & Composting Collection Calendar",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Embedded address-search calendar on Regina's waste hub: search your address to sign up for cart collection reminders by email or phone, save the schedule to Outlook, iCal or Google, download and print a personalized calendar, use the Regina Waste app, or search the Waste Wizard to learn how to dispose of a given item.",
+    "url": "https://www.regina.ca/home-property/recycling-garbage/index.html",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "composting",
+      "collection schedule",
+      "regina"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Brandon — Collection Schedule and Guides",
+    "level": "Municipal",
+    "jurisdiction": "Brandon",
+    "category": "gov-services",
+    "type": "Collection schedule download",
+    "description": "Downloadable 2026 Collection Calendar (printable PDF) for Brandon, plus cart-placement and set-out times and holiday-shift rules for the weekly garbage and recycling and spring-to-fall green organics cart program. Points to Recyclepedia for item lookup.",
+    "url": "https://www.brandon.ca/home-property-environment/garbage-recycling-and-organics/collection-schedule-and-guides/",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "organics",
+      "collection schedule",
+      "brandon"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Delta — Waste Collection Schedule",
+    "level": "Municipal",
+    "jurisdiction": "Delta",
+    "category": "gov-services",
+    "type": "Collection schedule download",
+    "description": "Download tool for Delta's 2026 Curbside Collection Guide (January 2026 to January 2027) as both a printable PDF and an interactive guide, plus the Recycle Coach app and snow and holiday delay rules for garbage, recycling and Green Can materials.",
+    "url": "https://www.delta.ca/services/garbage-recycling/collection-schedule",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "delta"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Port Coquitlam — Collection Schedule & Zone Map",
+    "level": "Municipal",
+    "jurisdiction": "Coquitlam",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Two-part tool for Port Coquitlam: an enter-your-address collection-schedule lookup plus the 2026 Collection Calendar and Collection Zone Map (five zones, weekly green carts, alternating blue and grey weeks), with the Sort and Report app for reminders and a Sort It Right! item search.",
+    "url": "https://www.portcoquitlam.ca/services/waste-collection/collection-schedule-zone-map",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "port coquitlam"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Montréal — Horaire des collectes (Info-collectes)",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Official page for Montréal's Info-collectes service, which returns collection days by postal code or address for recyclables, food residuals, green residuals, organics, household waste, bulky items and construction debris, plus curb set-out times. 311 fallback when the system cannot find an address.",
+    "url": "https://montreal.ca/services/horaire-des-collectes",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "montreal"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Lévis — Horaire des collectes",
+    "level": "Municipal",
+    "jurisdiction": "Lévis",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "Address-search collection calendar for Lévis rolling bins: enter your address to learn your sector's schedule, or download the full calendar and collection-zone map, with per-stream frequencies and bin-placement rules.",
+    "url": "https://levis.ca/fr/services/collectes-et-ecocentres/calendrier-des-collectes",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "levis"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Québec — Info-Collecte",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "City of Québec's online service returning the collection schedule for residual materials at the entered street address or postal code (with worked examples), plus the 2026 blue-bin overflow ban and its borough and street exceptions. 311 for front- and rear-load containers.",
+    "url": "https://www.ville.quebec.qc.ca/services/info-collecte/",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "quebec city"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Halifax — Collection Schedules & What Goes Where",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "gov-services",
+    "type": "Lookup tool",
+    "description": "The Halifax Regional Municipality web app for What Goes Where search, weekly reminders and service alerts, plus printing a calendar customized for your address, alongside downloadable 2026 and 2025 collection-calendar PDFs and sorting guides. The Halifax Recycles mobile app mirrors it.",
+    "url": "https://www.halifax.ca/home-property/garbage-recycling-green-cart/collection-schedules-what-goes-where",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "green cart",
+      "collection schedule",
+      "halifax"
+    ],
+    "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Yellowknife — Collection Program Schedule",
+    "level": "Municipal",
+    "jurisdiction": "Yellowknife",
+    "category": "gov-services",
+    "type": "Collection schedule",
+    "description": "Yellowknife's residential curbside schedule page: two-cart biweekly black and green collection with named collection areas by weekday, cart placement rules and a map, plus the What Goes Where app that returns your address's collection schedule and reminders.",
+    "url": "https://www.yellowknife.ca/waste-management/collection-schedule",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "yellowknife"
+    ],
+    "dateAdded": "2026-10-05"
   }
 ]
