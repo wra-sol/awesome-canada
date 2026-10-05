@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 1995 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2007 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -29,7 +29,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 99
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
-- [🪪 Government Services & ID](#government-services-and-id) — 55
+- [🪪 Government Services & ID](#government-services-and-id) — 67
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 51
@@ -870,6 +870,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Vital Statistics Online Ordering System (eCOS) | British Columbia · Provincial | Document ordering | B.C. Vital Statistics online portal to order birth, marriage, and death certificates or certified registration copies, and register wills notices, with fully electronic applications and rush processing. | https://www2.gov.bc.ca/gov/content/life-events/order-certificates-copies |
 | Connected Services BC | British Columbia · Provincial | Digital service | British Columbia's initiative to build connected, people-centred digital government services and improve cross-government service delivery. | https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/csbc |
 | Service BC — Online Services | British Columbia · Provincial | Service | BC government service finder — IDs, permits, licences, vital stats, health card, payments | https://www2.gov.bc.ca/gov/content/governments/services-for-government |
+| Abbotsford — Report an Issue | Abbotsford · Municipal | 311 service hub | Submission hub for neighbourhood issues (potholes, streetlight outages, illegal dumping, park maintenance) via online form or the @abbotsford mobile app, routing reports to the correct city department. | https://www.abbotsford.ca/report-issue |
+| Port Coquitlam — Service Requests | Coquitlam · Municipal | 311 service hub | 'See it? Report it!' online form for submitting concerns and comments about city services and by-laws, with clear separation of emergency contacts and bylaw duty hours. | https://www.portcoquitlam.ca/services/service-requests |
+| New Westminster — Report a Problem (SeeClickFix) | New Westminster · Municipal | 311 service hub | Official page for the city's SeeClickFix platform, which lets residents report and track non-emergency maintenance issues; links iOS and Android apps alongside the web form. | https://www.newwestcity.ca/services/online-services/report-a-problem |
 
 ### Alberta
 
@@ -879,6 +882,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta.ca Account | Alberta · Provincial | Authentication | Single sign-in used to access Alberta government online services like MyAlberta Digital ID | https://account.alberta.ca/ |
 | MyAlberta Digital ID | Alberta · Provincial | Digital ID | Verified digital identity used to access Alberta government services remotely | https://account.alberta.ca/signin |
 | Calgary — Impounded and Lost Pets | Calgary · Municipal | Lookup tool | Photos and descriptions of stray cats and dogs at Calgary Animal Services, updated every 15 minutes, so owners can spot their lost pet online. | https://www.calgary.ca/pets/lost-animals.html |
+| Medicine Hat — Report a Problem | Medicine Hat · Municipal | 311 service hub | Entry point to Medicine Hat's service request system: submit an online ticket for infrastructure faults (burnt-out street lights, cracked sidewalks, potholes, park problems) and check commonly requested items. | https://www.medicinehat.ca/home-property-utilities/utilities/report-a-problem/ |
 
 ### Manitoba
 
@@ -897,9 +901,15 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario.ca Developer Hub | Ontario · Provincial | Developer portal | Ontario government developer hub with APIs, technical documentation, and code samples for building digital services | https://developer.ontario.ca/ |
 | Ontario.ca Login | Ontario · Provincial | Single sign-on | Ontario's single sign-on account and dashboard connecting citizens' government service accounts (replacing ONe-Key/ServiceOntario accounts) in one place. | https://www.ontario.ca/page/access-multiple-government-accounts-ontarioca-login |
 | ServiceOntario | Ontario · Provincial | Service portal | Ontario government's one-stop portal for driver’s licences, health cards, birth certificates, business registrations, and other provincial services | https://www.ontario.ca/page/serviceontario |
+| Durham Region — 311 Connecting You to Our Services | Durham · Regional | 311 service hub | Official 311 page for the regional government, documenting the 24/7 online self-service portal where residents submit and track requests for Regional services (waste, water/sewer, traffic). Includes contact-centre hours, request priorities and customer service standards. | https://www.durham.ca/living-here/311-connecting-you-to-our-services/ |
 | Brampton budget / Open Book resources | Brampton · Municipal | Transparency / budget | Budget transparency resources and project-oriented views | https://www.brampton.ca/EN/City-Hall/budget/ |
 | Guelph — Report a Problem Map | Guelph · Municipal | Service request map | Submit 311-style service requests (potholes, garbage, bylaw issues) on an interactive map with photos and get updates on the City's response. | https://experience.arcgis.com/experience/aa79df9526ab4c99914adc950eca9141 |
+| Milton — Report a Problem | Milton · Municipal | 311 service hub | Topic-routed reporting hub for municipal services, infrastructure and public spaces, separating by-law violations, wildlife, parking and road maintenance into distinct intake paths. | https://www.milton.ca/en/living-in-milton/report-a-problem.aspx |
 | MyServiceOttawa | Ottawa · Municipal | Service portal | The City of Ottawa's account-based online services portal: property-tax and utility accounts, parking tickets, recreation registration, building-permit applications, pet registration and service requests, all behind a single MyServiceOttawa sign-in. | https://ottawa.ca/en/city-hall/myserviceottawa |
+| Peterborough — Service Request | Peterborough · Municipal | 311 service hub | City service-request page offering issue reporting plus update registration so residents follow progress on requests (green bin repair, illegal dumping, graffiti, property standards). | https://www.peterborough.ca/living-in-peterborough/service-requests/ |
+| Pickering — Report an Issue | Pickering · Municipal | 311 service hub | Report an Issue form for concerns and service requests, with a published Customer Care Centre commitment to an initial response within two business days and 24/7 contact-centre fallback for urgent matters. | https://www.pickering.ca/council-city-administration/contact-us/report-an-issue/ |
+| Sault Ste. Marie — Service Requests | Sault Ste. Marie · Municipal | 311 service hub | Documents how to lodge Public Works service requests (required fields, the 24-hour emergency dispatch line for immediate items) and which requests need on-site inspection. | https://saultstemarie.ca/live/service-requests/ |
+| Thunder Bay — Report a Problem | Thunder Bay · Municipal | 311 service hub | Consolidated online intake for reporting issues to the city: by-law complaints, claims against the City, and general service requests, with routing guidance to the responsible division. | https://www.thunderbay.ca/city-services/report-a-problem/ |
 | 311 Service Standard Dashboard — City of Toronto | Toronto · Municipal | Dashboard | City of Toronto’s public 311 performance dashboard: interactive view of service-request volumes, service levels, geographic distribution and 311 call responsiveness measured against published service standards, plus static 2025 dashboards with glossary. | https://www.toronto.ca/home/311-toronto-at-your-service/311-frequently-asked-questions/311-service-standard-dashboard/ |
 | Toronto — Waste Wizard | Toronto · Municipal | Lookup tool | Type any of 2,500+ items to find out which bin it goes in and where to drop off hazardous waste — also in the TOwaste app with collection schedules. | https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/ |
 | Toronto 311 — Service Requests | Toronto · Municipal | Service | Report issues, request services, and track cases in Toronto via web, app, or phone | https://www.toronto.ca/home/311-toronto-at-your-service/ |
@@ -911,6 +921,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Directeur de l'état civil du Québec | Quebec · Provincial | Vital statistics | Order Quebec certificates of birth, marriage, civil union, and death online | https://www.etatcivil.gouv.qc.ca/ |
 | Québec — Accessibility | Quebec · Provincial | Portal | Government of Québec's accessibility portal: the law, standards and government commitments on accessibility in Quebec, for organizations and citizens. | https://www.quebec.ca/en/accessibility |
+| Laval — Joindre la Ville de Laval | Laval · Municipal | 311 service hub | Official 'how to reach the City' intake page in Laval's 311 et services en ligne section: guidance for questions, comments and requests, the 24/7 chat robot, permit applications, and service-counter hours. | https://www.laval.ca/organisation-municipale/311-services-en-ligne/nous-joindre/ |
 | Montréal — 311 Service Requests Dataset | Montreal · Municipal | 311 open dataset | Download geolocated 311 service requests, complaints and comments submitted to the City of Montreal from 2014 to present, in CSV format. | https://donnees.montreal.ca/dataset/requete-311 |
 
 ### Atlantic Canada (NB, NS, PE, NL)
@@ -930,6 +941,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Northwest Territories Geological Survey | Northwest Territories · Provincial | Geology maps | Geological maps, mining data, and geoscience publications for NWT | https://www.nwtgeoscience.ca/ |
 | NWT eServices Portal | Northwest Territories · Provincial | Service portal | The Government of the Northwest Territories' single-account online services portal: apprenticeship and trades certification, student financial assistance, fishing licences, and NWT health-care card applications and renewals. | https://services.nwt-tno.ca/ |
+| Yellowknife — Report an Issue (Click and Fix YK) | Yellowknife · Municipal | 311 service hub | Landing page for the city's Click and Fix YK online reporting platform, letting residents report issues and requests; distinguishes routine reporting from 9-1-1 emergencies. | https://www.yellowknife.ca/report-an-issue |
 
 ## 💰 Taxes & Revenue
 
