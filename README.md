@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2023 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2044 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -29,7 +29,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 99
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
-- [🪪 Government Services & ID](#government-services-and-id) — 83
+- [🪪 Government Services & ID](#government-services-and-id) — 89
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 30
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 51
@@ -42,7 +42,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
-- [🚌 Transit & Mobility](#transit-and-mobility) — 60
+- [🚌 Transit & Mobility](#transit-and-mobility) — 75
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 72
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 80
@@ -886,6 +886,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Calgary — Garbage, Recycling and Composting Pickup Schedule | Calgary · Municipal | Lookup tool | Calgary's scheduling tool: type an address to get blue, green and black cart collection days, sign up for free pickup-day reminders by email or phone, or print and add an online calendar. Also covers holiday shifts, missed-cart reasons and community collection alerts. | https://www.calgary.ca/waste/residential/garbage-schedule.html |
 | Calgary — Impounded and Lost Pets | Calgary · Municipal | Lookup tool | Photos and descriptions of stray cats and dogs at Calgary Animal Services, updated every 15 minutes, so owners can spot their lost pet online. | https://www.calgary.ca/pets/lost-animals.html |
 | Edmonton — Waste Collection Calendar | Edmonton · Municipal | Lookup tool | Official Edmonton Waste Collection Calendar page with the address look-up tool and a step-by-step view-and-print-your-calendar tutorial, plus the WasteWise app (schedule, reminders, sorting instructions) and guidance for apartment and condo collection days. | https://www.edmonton.ca/programs_services/garbage_waste/waste-collection-days-schedule |
+| Medicine Hat — Collection Schedule | Medicine Hat · Municipal | Collection schedule | Medicine Hat's 2026 collection schedule with a zone map, the myMH address portal and Recycle Coach. | https://www.medicinehat.ca/home-property-utilities/waste-collection/collection-schedule/ |
 | Medicine Hat — Report a Problem | Medicine Hat · Municipal | 311 service hub | Entry point to Medicine Hat's service request system: submit an online ticket for infrastructure faults (burnt-out street lights, cracked sidewalks, potholes, park problems) and check commonly requested items. | https://www.medicinehat.ca/home-property-utilities/utilities/report-a-problem/ |
 
 ### Saskatchewan
@@ -917,9 +918,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Brampton budget / Open Book resources | Brampton · Municipal | Transparency / budget | Budget transparency resources and project-oriented views | https://www.brampton.ca/EN/City-Hall/budget/ |
 | Greater Sudbury — Waste Wise | Greater Sudbury · Municipal | Lookup tool | City-hosted Waste Wise address lookup returning garbage, recycling, green-cart and leaf-and-yard-waste collection schedules, plus what-is-accepted-in-which-cart guidance and service-provider details per address. | https://www.greatersudbury.ca/live/garbage-and-recycling/waste-wise/ |
 | Guelph — Report a Problem Map | Guelph · Municipal | Service request map | Submit 311-style service requests (potholes, garbage, bylaw issues) on an interactive map with photos and get updates on the City's response. | https://experience.arcgis.com/experience/aa79df9526ab4c99914adc950eca9141 |
+| Guelph — Waste Collection Schedule | Guelph · Municipal | Collection schedule | Guelph's waste collection schedule page with an embedded address-search calendar widget, plus the Guelph Waste reminders app. | https://guelph.ca/living/environment/garbage-and-recycling/waste-collection-schedule/ |
+| Hamilton — Waste Collection Schedule | Hamilton · Municipal | Collection schedule | Hamilton's page to find and download the waste collection schedule for your neighbourhood, plus a holiday calendar. | https://www.hamilton.ca/home-neighbourhood/garbage-recycling/waste-collection-schedule |
 | Kingston — Collection Calendar | Kingston · Municipal | Lookup tool | Enter an address to get Kingston's collection day and next pick-up date, download and print the Collection Calendar, subscribe to email or phone reminders, and push the schedule to iCal, Google or Outlook. Also lists Giveaway Days and what-to-set-out guidance. | https://www.cityofkingston.ca/garbage-and-recycling/collection-calendar/ |
 | Kitchener — Leaf Options Lookup Tool | Kitchener · Municipal | Lookup tool | Dedicated address-lookup tool for Kitchener leaf collection: enter your address to see the curbside leaf collection options for your area (zone-based set-out versus bring-to-facility), with raking and catch-basin rules. | https://www.kitchener.ca/living-in-kitchener/leaves-snow-recycling-and-garbage/leaf-collection/leaf-options-lookup-tool/ |
+| London — Collection Schedule | London · Municipal | Collection schedule | London ON's collection schedule page with address lookup and calendar for garbage, recycling and organics. | https://london.ca/living-london/garbage-recycling/collection-calendar |
 | Milton — Report a Problem | Milton · Municipal | 311 service hub | Topic-routed reporting hub for municipal services, infrastructure and public spaces, separating by-law violations, wildlife, parking and road maintenance into distinct intake paths. | https://www.milton.ca/en/living-in-milton/report-a-problem.aspx |
+| North Bay — Curbside Collection | North Bay · Municipal | Collection schedule | North Bay's curbside collection page: zone-by-zone schedule table plus the North Bay Recycles app for address lookup and reminders. | https://www.northbay.ca/services-payments/garbage-recycling/curbside-collection/ |
 | MyServiceOttawa | Ottawa · Municipal | Service portal | The City of Ottawa's account-based online services portal: property-tax and utility accounts, parking tickets, recreation registration, building-permit applications, pet registration and service requests, all behind a single MyServiceOttawa sign-in. | https://ottawa.ca/en/city-hall/myserviceottawa |
 | Peterborough — Service Request | Peterborough · Municipal | 311 service hub | City service-request page offering issue reporting plus update registration so residents follow progress on requests (green bin repair, illegal dumping, graffiti, property standards). | https://www.peterborough.ca/living-in-peterborough/service-requests/ |
 | Pickering — Report an Issue | Pickering · Municipal | 311 service hub | Report an Issue form for concerns and service requests, with a published Customer Care Centre commitment to an initial response within two business days and 24/7 contact-centre fallback for urgent matters. | https://www.pickering.ca/council-city-administration/contact-us/report-an-issue/ |
@@ -930,6 +935,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Toronto — Waste Wizard | Toronto · Municipal | Lookup tool | Type any of 2,500+ items to find out which bin it goes in and where to drop off hazardous waste — also in the TOwaste app with collection schedules. | https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/ |
 | Toronto 311 — Service Requests | Toronto · Municipal | Service | Report issues, request services, and track cases in Toronto via web, app, or phone | https://www.toronto.ca/home/311-toronto-at-your-service/ |
 | Toronto Parking Tickets Online | Toronto · Municipal | Tickets & fines service | The City of Toronto's official parking-ticket hub: pay a penalty notice online, dispute a ticket (screening review and hearing requests), check fine amounts and payment deadlines, plus links for red-light-camera and other provincial offence tickets. | https://www.toronto.ca/services-payments/tickets-fines-penalties/ |
+| Windsor — Waste Collection Schedule | Windsor · Municipal | Collection schedule | Windsor's waste collection schedule page: view your calendar, plus 311, app and pickup-at-counter fallbacks. | https://www.citywindsor.ca/residents/waste-and-recycling/collection-schedule |
 
 ### Quebec
 
@@ -2008,25 +2014,33 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Bus Pass Program | British Columbia · Provincial | Transit pass program | The provincial BC Bus Pass Program page: eligibility and application for the annual transit pass for low-income seniors and people with disabilities. | https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/buses-taxis-limos/bus-pass |
 | BC Transit Open Data (GTFS) | British Columbia · Provincial | GTFS feeds | GTFS schedule files for BC Transit systems outside Metro Vancouver — download by community or region for provincial transit apps. | https://www.bctransit.com/open-data |
 | BC Transit — Trip Planner | British Columbia · Regional | Trip planner | Provincial and municipal transit connections across British Columbia | https://www.bctransit.com/ |
+| TransLink — Compass Card | Metro Vancouver · Regional | Fare card guide | TransLink's guide to the Compass Card: how it works, fare types, monthly passes and DayPasses, concessions, and lost-card help. | https://www.translink.ca/transit-fares/compass-card |
 | TransLink GTFS Data | Metro Vancouver · Regional | GTFS feed | GTFS schedule and real-time transit feed downloads for Metro Vancouver bus, SkyTrain, SeaBus, and West Coast Express. | https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources |
 | TransLink Trip Planner | Metro Vancouver · Regional | Trip planner | Great regional transit planning tool | https://www.translink.ca/ |
+| BC Transit — Victoria Region Fares | Victoria · Regional | Fare information | BC Transit's official fare page for the Victoria region: fares, passes and payment options. | https://www.bctransit.com/victoria/fares/ |
 
 ### Alberta
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Edmonton Transit Service (ETS) | Edmonton · Regional | Transit | ETS bus and LRT trip planning for Edmonton | https://www.edmonton.ca/ets |
+| Calgary Transit — Fares and Passes | Calgary · Municipal | Fare information | Calgary Transit's official fares and passes page: fare prices, pass types and where to buy. | https://www.calgarytransit.com/fares---passes.html |
 | Calgary Transit GTFS | Calgary · Municipal | GTFS feed | Download Calgary Transit GTFS.zip with routes, stops, and schedules from the City developer resources page. | https://data.calgary.ca/browse?category=Transit |
 | Edmonton ETS GTFS | Edmonton · Municipal | GTFS feed | ETS GTFS static feed and developer documentation for Edmonton transit routes, stops, and schedules. | https://data.edmonton.ca/Transit/ETS-Bus-Schedule-GTFS-Data-Feed-Stops/4vt2-8zrq |
+| Edmonton Transit — Fare Assistance Programs | Edmonton · Municipal | Fare assistance | Edmonton's official page on fare assistance and reduced-fare transit programs for eligible riders. | https://www.edmonton.ca/ets/fare-assistance |
+| Edmonton Transit — Fares and Passes | Edmonton · Municipal | Fare information | Edmonton's official ETS fare page: fare prices, passes and payment options. Complements the catalog's ETS homepage entry. | https://www.edmonton.ca/ets/fares-passes |
 | Lethbridge Transit GTFS | Lethbridge · Municipal | GTFS feed | Direct GTFS.zip download of Lethbridge Transit bus schedules, routes, stops, and shapes. Hosted on the City's GIS server and not indexed by Transitland — a hard-to-find feed. Updated with each service change; useful for trip planners, mobility apps, and transit analysis in southern Alberta. | https://gis.lethbridge.ca/OpenData/DataSets/GTFS_Transit_Data.zip |
 
 ### Saskatchewan
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Regina Transit — Fares and Passes | Regina · Municipal | Fare information | Regina's official transit fare page: stored value with fare capping, the Umo card, passes and where to buy. | https://www.regina.ca/transportation-roads-parking/transit/fares-passes/ |
 | Saskatoon Transit | Saskatoon · Municipal | Transit | Saskatoon Transit trip planning, schedules, and real-time info | https://saskatoontransit.ca/ |
+| Saskatoon Transit — Ways to Pay | Saskatoon · Municipal | Fare payment guide | Saskatoon Transit's official fares-and-payment page: payment options, passes and fare detail. The dedicated fare subpage of the catalog's Saskatoon Transit homepage entry. | https://saskatoontransit.ca/fares-passes/ways-pay |
 | Saskatoon Transit Open Data | Saskatoon · Municipal | GTFS and real-time | GTFS static downloads plus real-time trip updates and vehicle positions for Saskatoon Transit developer applications. | https://www.saskatoon.ca/moving-around/transit/open-data-saskatoon-transit |
 
 ### Manitoba
@@ -2054,9 +2068,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | York Region Transit (YRT/Viva) | Ontario/GTA · Regional | Transit | York Region Transit and Viva BRT trip planning across York Region | https://www.yrt.ca/ |
 | OC Transpo — Trip Planner | Ottawa · Regional | Trip planner | OC Transpo bus and O-Train trip planning for Ottawa | https://www.octranspo.com/ |
 | OC Transpo GTFS Feed | Ottawa · Regional | GTFS feed | Official OC Transpo GTFS static feed download and real-time API documentation for Ottawa transit | https://www.octranspo.com/en/plan-your-trip/travel-tools#GTFS |
+| Grand River Transit — EasyGO Fare Card | Waterloo · Regional | Fare card guide | GRT's EasyGO fare card page for Waterloo Region: how to get, load and use the card, with fare capping detail. | https://www.grt.ca/fares-and-payment/how-to-pay-your-fare/easygo-fare-card/ |
 | Grand River Transit — GTFS Open Data | Waterloo · Regional | GTFS feed | GRT static GTFS plus real-time vehicle positions, trip updates, and service alerts from the Region of Waterloo open data portal. | https://www.grt.ca/about-grt/open-data/ |
 | Grand River Transit (Waterloo Region) | Waterloo · Regional | Transit | Waterloo Region bus and ION LRT trip planning and schedules | https://www.grt.ca/ |
 | Windsor Transit | Windsor · Regional | Transit | Windsor transit routes and schedules | https://www.citywindsor.ca |
+| York Region Transit — Fares and Passes | York Region · Regional | Fare information | York Region Transit's official fares and passes page: fare prices, passes and concessions. | https://www.yrt.ca/en/fares-and-passes/fares-and-passes.aspx |
 | York Region Transit — GTFS Open Data | York Region · Regional | GTFS feed | YRT/Viva GTFS and real-time GTFS packages for developers — request download after accepting the open data licence. | https://www.yrt.ca/en/about-us/open-data.aspx |
 | Barrie Transit GTFS | Barrie · Municipal | GTFS feed | Direct download of Barrie Transit GTFS.zip from the City website for routes, stops, and schedule data. | https://www.barrie.ca/transit |
 | Brampton Transit — GTFS (GeoHub) | Brampton · Municipal | GTFS feed | Brampton Transit schedule GTFS ZIP on the City GeoHub — routes, stops, stop times, and shapes for Züm and local service. | https://geohub.brampton.ca/datasets/a355aabd5a8c490186bdce559c9c75fb |
@@ -2069,11 +2085,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Milton — GTFS Feed | Milton · Municipal | Dataset | Direct GTFS.zip download for Milton Transit bus routes and stops. Includes 9 local bus routes (e.g., Trudeau, Thompson/Clark, Yates, Willmott) with schedules, stop locations, and route shapes. Use for transit app development, accessibility planning, or service frequency analysis. Updated periodically by Metrolinx on behalf of Milton Transit. | https://discover-milton.hub.arcgis.com/datasets/6d91cda9496043a395710d0a73a7699f/about |
 | MiWay — GTFS Developer Download | Mississauga · Municipal | GTFS feed | MiWay scheduled GTFS and GTFS-Realtime feeds (vehicle positions, trip updates, alerts) for third-party transit apps. | https://www.mississauga.ca/miway-transit/developer-download/ |
 | MiWay — Mississauga Transit | Mississauga · Municipal | Transit | MiWay bus routes, schedules, and real-time info for Mississauga | https://www.mississauga.ca/miway |
+| MiWay — Ways to Pay Your Fare | Mississauga · Municipal | Fare payment guide | Mississauga MiWay's guide to paying fares: PRESTO, contactless, passes and concession details. Complements the catalog's MiWay homepage entry. | https://www.mississauga.ca/miway-transit/fares/ways-to-pay-your-fare/ |
 | North Bay Transit GTFS | North Bay · Municipal | GTFS feed | Direct GTFS.zip download of North Bay Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland. | https://northbay.tmix.se/gtfs/gtfs.zip |
 | Oakville Transit GTFS | Oakville · Municipal | GTFS feed | Direct GTFS.zip download of Oakville Transit bus schedules, routes, and stops. Updated as needed when service changes occur; archive versions available via Transitland. | https://www.arcgis.com/sharing/rest/content/items/d78a1c1ad6a940009de8b68839a8f606/data |
 | Toronto Bicycle Counters | Toronto · Municipal | Mobility map | Live map of Toronto's bicycle counters showing cycling activity from City of Toronto open data. By Isaac Berman (observingthecity.ca). | https://www.observingthecity.ca/bike-counters |
 | Toronto Bike Share station map | Toronto · Municipal | Mobility map | Station finder and system map for bike share | https://bikesharetoronto.com/system-map/ |
 | Toronto TTC GTFS Feed | Toronto · Municipal | GTFS feed | Official TTC GTFS static schedule feed for routes, stops, and trips — download zip from the Open Data Portal for app development. | https://open.toronto.ca/dataset/ttc-routes-and-schedules/ |
+| TTC — Fares and passes | Toronto · Municipal | Fare information | Toronto's official TTC fare page: fare prices, passes, concessions and payment options for riders. | https://www.ttc.ca/fares-and-passes |
 | TTC Service Advisories / maps | Toronto · Municipal | Transit tool | Route, service, and map resources for transit users | https://www.ttc.ca/ |
 | TTC Service Pulse | Toronto · Municipal | Transit tool | Independent civic dashboard tracking TTC service reliability — delays, cancellations and performance trends — built on public TTC open data. By Donald Williams, independent civic technologist. | https://transit.datalyiq.com/ |
 | Transit Windsor — GTFS | Windsor · Municipal | GTFS feed | Static GTFS feed for Windsor Transit routes, stops, and schedules from the City of Windsor open data portal. | https://opendata.citywindsor.ca/Uploads/google_transit.zip |
@@ -2084,10 +2102,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | exo — Greater Montreal Commuter Rail and Bus | Montreal · Regional | Trip planner | Trip planning and schedules for Greater Montreal commuter rail and suburban bus network | https://exo.quebec/en |
 | Exo GTFS (Montreal Region) | Montreal · Regional | GTFS feed | Exo commuter rail and bus GTFS feeds for Greater Montreal suburbs on Données Québec. | https://exo.quebec/en/about/open-data |
+| STO — Payment Methods | Gatineau · Municipal | Fare payment guide | Gatineau STO's official fare payment methods page (English version). | https://www.sto.ca/en/fares/payment-methods/ |
 | STM Info outils / network maps | Montreal · Municipal | Transit map/tools | Metro and bus map resources and rider tools | https://www.stm.info/en |
 | STM Montreal GTFS | Montreal · Municipal | GTFS feed | Société de transport de Montréal GTFS feed and API documentation for developers building trip planners and analysis tools. | https://www.stm.info/en/about/developers |
 | STO — GTFS Open Data (Gatineau) | Quebec · Municipal | GTFS feed | Société de transport de l’Outaouais planned GTFS download plus GTFS-Realtime API key registration for alerts and vehicle positions. | https://www.sto.ca/en/business/developer-space-open-data/ |
 | STO — Outaouais Transit (Gatineau) | Quebec · Municipal | Transit | Société de transport de l'Outaouais trip planning and schedules for Gatineau | https://www.sto.ca/en/ |
+| RTC — Fare Schedule | Quebec City · Municipal | Fare schedule | Quebec City RTC's official fare schedule: fare products and pricing (English version). | https://www.rtcquebec.ca/en/rates-and-purchase/rates-and-passes/fare-schedule |
 | RTC — Réseau de transport de la Capitale (Quebec City) | Quebec City · Municipal | Transit | Quebec City bus trip planning, schedules, and real-time arrivals | https://www.rtcquebec.ca/ |
 | RTC Québec — GTFS Open Data | Quebec City · Municipal | GTFS feed | Réseau de transport de la Capitale GTFS schedules and route shapes for Quebec City transit — direct download from RTC open data. | https://www.rtcquebec.ca/en/open-data |
 | Rimouski — GTFS Transit Data | Rimouski · Municipal | GTFS dataset | Downloadable GTFS dataset for Citébus and Taxibus transit networks in Rimouski, including stop locations, routes, and schedules. Available in GTFS, CSV, GeoJSON, KML, and SHP formats via Données Québec. | https://www.donneesquebec.ca/recherche/dataset/transport-collectif |
@@ -2097,6 +2117,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Halifax Transit GTFS | Halifax · Regional | GTFS feed | Halifax Transit GTFS schedule data available from the HRM open data catalogue. | https://www.halifax.ca/transportation/halifax-transit |
+| Halifax Transit — Fares, Tickets and Passes | Halifax · Municipal | Fare information | Halifax's official transit fare page: fare prices, tickets, passes and payment options. The dedicated fare subpage of the catalog's Halifax Transit homepage entry. | https://www.halifax.ca/transportation/halifax-transit/fares-tickets-passes |
 
 ## ✈️ Aviation, Marine & Rail
 
