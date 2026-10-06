@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2044 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2053 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -35,7 +35,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏢 Business & Procurement](#business-and-procurement) — 51
 - [💼 Employment & Labour](#employment-and-labour) — 40
 - [🎓 Education & Student Aid](#education-and-student-aid) — 36
-- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 47
+- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 56
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
 - [🩺 Health & Wellness](#health-and-wellness) — 73
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 34
@@ -1389,7 +1389,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Public Schools — Location Data | British Columbia · Provincial | School locations | Point locations of BC public schools from provincial open data — download for mapping catchments and facility analysis. | https://catalogue.data.gov.bc.ca/dataset/bc-schools-k-12-with-francophone-indicators |
 | BC School Districts (Spatial) | British Columbia · Provincial | Boundary dataset | Polygon boundaries of BC school districts under the School Act — download shapefile, KML, or access WMS/WFS services. | https://catalogue.data.gov.bc.ca/dataset/school-districts-of-bc |
 | BC Teacher Regulation — Find a Teacher (Online Registry) | British Columbia · Provincial | Teacher certification search | Public online registry to search BC teaching certificate holders and letter-of-permission holders by name, with certificate type, validity status, and any disciplinary action on record. | https://teacherregulation.gov.bc.ca/CertificateServices/FindATeacher.aspx |
+| Surrey School District — Find a School | Surrey · Municipal | School boundary lookup | Surrey School District's official school search with list and map views, filters for community, school year and program, and a warning when an address falls outside designated attendance areas. | https://www.surreyschools.ca/find-a-school |
 | Vancouver School Board — School Information | Vancouver · Municipal | School directory | Vancouver School District school finder with programs, catchments, and facility information for public schools. | https://www.vsb.bc.ca/schools |
+| Vancouver School Board — Your School Catchment | Vancouver · Municipal | Boundary map | Vancouver School Board's official catchment page explaining school catchment boundaries in Vancouver and how to find which catchment a home address falls in. Complements the catalog's VSB school directory entry. | https://www.vsb.bc.ca/your-school-catchment |
 
 ### Alberta
 
@@ -1401,6 +1403,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Calgary Board of Education — Find a School | Calgary · Municipal | School boundary lookup | Interactive address-based map to find your designated Calgary Board of Education school. Displays walk zones, program locations, attendance areas, and trustee ward boundaries. | https://cbe.ab.ca/schools/find-a-school/Pages/default.aspx |
 | Calgary Board of Education — School Directory | Calgary · Municipal | School directory | Search Calgary Board of Education schools by program, grade, and community with contact and boundary information. | https://www.cbe.ab.ca/schools/Pages/default.aspx |
 | Edmonton Catholic School District — School Finder | Edmonton · Municipal | Boundary map | Interactive school finder map for Edmonton Catholic Schools. Enter an address to find the designated Catholic school by grade level and program type. Includes ward boundaries and trustee information. | https://schoolmap.ecsd.net/ |
+| Edmonton Public Schools — Find a School Tool | Edmonton · Municipal | School boundary lookup | Edmonton Public Schools' address finder: enter a home address or drop a pin to find the designated elementary, junior high and high school for that address, with program and grade filters. | https://www.epsb.ca/schools/findaschool/fast/ |
 
 ### Saskatchewan
 
@@ -1430,8 +1433,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario School Board Boundaries — Scholars GeoPortal | Ontario · Provincial | Boundary shapefiles | English and French public and separate school board boundary shapefiles for Ontario — download via Scholars GeoPortal. | https://geo2.scholarsportal.info/#r/details/_uri@=1011603538 |
 | Ontario School Enrolment by Grade | Ontario · Provincial | Enrolment dataset | Annual school-level enrolment by grade from OnSIS October submission — filter by board, school type, and language. CSV download. | https://data.ontario.ca/dataset/school-enrolment-by-grade |
 | Ontario School Information and Demographics | Ontario · Provincial | School profiles dataset | Board and school contact data plus EQAO achievement indicators by school — download consolidated CSV for analysis. | https://data.ontario.ca/dataset/school-information-and-student-demographics |
+| Wellington Catholic District School Board — School Boundary and Accommodations | Guelph · Regional | Boundary map | Wellington Catholic DSB's boundary page linking an interactive boundary map for the Catholic district covering Guelph and surrounding townships, with attendance area review documents and the board's school list. | https://www.wellingtoncdsb.ca/schools/school_boundary_and_accommodations |
 | Halton Catholic District School Board — School Finder | Halton · Regional | Boundary map | Interactive map to find Catholic school catchment boundaries, school locations, and program offerings across Halton Region (Burlington, Oakville, Milton, Halton Hills). | https://schoolplanning.hcdsb.org/find-your-school/ |
+| Centre de services scolaire du Centre-Est — Trouver une école | Ontario · Regional | Boundary map | French-language school finder for the Centre-Est school service centre, offering a general boundary map plus individual maps for its schools so a resident can locate the school whose territory covers their address. | https://centreest.ca/ecoles-du-csce/trouver-une-ecole/ |
+| Thames Valley District School Board — Find My Local School | Ontario · Regional | School boundary lookup | Thames Valley DSB's Find My Local School page: the district's area across Elgin, Middlesex and Oxford counties is divided into attendance areas, and residents enter their address in the school locator to find theirs. | https://www.tvdsb.ca/schools/find-my-local-school |
 | Peel District School Board School Finder | Peel · Regional | School boundary lookup | Search Peel Region addresses to find assigned PDSB schools — links to Directions boundary maps for elementary and secondary catchments. | https://www.peelschools.org/school-finder |
+| Waterloo Region District School Board — School Boundary and Location Maps | Waterloo · Regional | Boundary map | WRDSB's school boundary and location maps: the home address determines which school a child attends, with current-year attendance boundary maps and a link to the School Eligibility lookup. | https://www.wrdsb.ca/planning/school-boundary-and-location-maps/ |
+| Waterloo Region District School Board — School List | Waterloo · Regional | School directory | WRDSB's full school directory with each school's street address, phone and map link, plus direct links to the School Finder eligibility lookup and the boundary maps. | https://www.wrdsb.ca/our-schools/schools/ |
 | YRDSB School Locator | York Region · Regional | School boundary lookup | Enter a York Region street address to find designated elementary and secondary schools with links to boundary map PDFs. | https://schoollocator.yrdsb.ca/ |
 | Ottawa-Carleton District School Board School Locator | Ottawa · Municipal | School boundary lookup | OCDSB interactive school locator — find elementary and secondary schools by home address within Ottawa. | https://www.ocdsb.ca/our-schools/school-locator |
 | TDSB Open Data | Toronto · Municipal | School board open data | Toronto District School Board open data policy portal — research datasets, census results, and public reports where publishable. | https://www.tdsb.on.ca/Open-Data |
@@ -1452,6 +1460,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | New Brunswick Anglophone School District Boundaries | New Brunswick · Provincial | School district maps | Official PDF maps showing the boundaries for New Brunswick's four anglophone school districts (North, South, East, West) and their sub-districts. Download to determine which school district a property falls into. | https://www.gnb.ca/en/topic/education-training/k-12/district/anglophone.html |
 | New Brunswick School Directory | New Brunswick · Provincial | School directory | Searchable directory of all New Brunswick public schools, district offices, and administrators. Search by school name, district, or language; includes print and download options. | https://www.nbed.nb.ca/SchoolDirectory |
 | NL Schools — BusPlanner School & Bus Eligibility Lookup | Newfoundland and Labrador · Provincial | Lookup tool | Address-based lookup for every NL community: find which school your address attends and whether it qualifies for busing, with bus stop info for 2026-27. Covers all Anglophone districts. | https://nlschools.mybusplanner.ca/Eligibility |
+| Conseil scolaire acadien provincial — Trouver une école | Nova Scotia · Provincial | School boundary lookup | Nova Scotia's only French-language school board tells parents to determine their child's school using their civic address and links the Trouver mon école lookup, alongside its schools and preschool sites. | https://csap.ca/ecoles/trouver-une-ecole |
 | Nova Scotia — School Board Zones (English) | Nova Scotia · Provincial | Dataset | Provincial geospatial dataset of English-language Regional Centres for Education (RCE) and school board zones in Nova Scotia. Downloadable as GeoJSON, Shapefile, and KML for mapping student catchment areas, trustee representation, and education planning. | https://data.novascotia.ca/dataset/v69y-jn74 |
 | Nova Scotia — School Board Zones (French) | Nova Scotia · Provincial | Dataset | Provincial geospatial dataset of French-language school board zones (Conseil scolaire acadien provincial) in Nova Scotia. Downloadable as GeoJSON, Shapefile, and KML for mapping minority-language education catchment areas and Acadian school boundaries. | https://data.novascotia.ca/dataset/76iu-75v2 |
 | NS Education — Directory of Public Schools | Nova Scotia · Provincial | Lookup tool | Interactive map of every NS public school with grades, contacts and RCE/CSAP; download the 2025–2026 directory as Excel plus historical editions. | https://stats-summary.ednet.ns.ca/directory-public-schools |

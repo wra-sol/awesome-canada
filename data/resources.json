@@ -31899,5 +31899,152 @@
       "medicine hat"
     ],
     "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Edmonton Public Schools — Find a School Tool",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Edmonton Public Schools' address finder: enter a home address or drop a pin to find the designated elementary, junior high and high school for that address, with program and grade filters.",
+    "url": "https://www.epsb.ca/schools/findaschool/fast/",
+    "tags": [
+      "municipal",
+      "schools",
+      "school finder",
+      "edmonton"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Waterloo Region District School Board — School Boundary and Location Maps",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "WRDSB's school boundary and location maps: the home address determines which school a child attends, with current-year attendance boundary maps and a link to the School Eligibility lookup.",
+    "url": "https://www.wrdsb.ca/planning/school-boundary-and-location-maps/",
+    "tags": [
+      "regional",
+      "schools",
+      "boundary maps",
+      "waterloo"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Surrey School District — Find a School",
+    "level": "Municipal",
+    "jurisdiction": "Surrey",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Surrey School District's official school search with list and map views, filters for community, school year and program, and a warning when an address falls outside designated attendance areas.",
+    "url": "https://www.surreyschools.ca/find-a-school",
+    "tags": [
+      "municipal",
+      "schools",
+      "school finder",
+      "surrey"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Waterloo Region District School Board — School List",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "school-board",
+    "type": "School directory",
+    "description": "WRDSB's full school directory with each school's street address, phone and map link, plus direct links to the School Finder eligibility lookup and the boundary maps.",
+    "url": "https://www.wrdsb.ca/our-schools/schools/",
+    "tags": [
+      "regional",
+      "schools",
+      "school directory",
+      "waterloo"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Thames Valley District School Board — Find My Local School",
+    "level": "Regional",
+    "jurisdiction": "Ontario",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Thames Valley DSB's Find My Local School page: the district's area across Elgin, Middlesex and Oxford counties is divided into attendance areas, and residents enter their address in the school locator to find theirs.",
+    "url": "https://www.tvdsb.ca/schools/find-my-local-school",
+    "tags": [
+      "regional",
+      "schools",
+      "school finder",
+      "thames valley",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Conseil scolaire acadien provincial — Trouver une école",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Nova Scotia's only French-language school board tells parents to determine their child's school using their civic address and links the Trouver mon école lookup, alongside its schools and preschool sites.",
+    "url": "https://csap.ca/ecoles/trouver-une-ecole",
+    "tags": [
+      "provincial",
+      "schools",
+      "school finder",
+      "french",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Wellington Catholic District School Board — School Boundary and Accommodations",
+    "level": "Regional",
+    "jurisdiction": "Guelph",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "Wellington Catholic DSB's boundary page linking an interactive boundary map for the Catholic district covering Guelph and surrounding townships, with attendance area review documents and the board's school list.",
+    "url": "https://www.wellingtoncdsb.ca/schools/school_boundary_and_accommodations",
+    "tags": [
+      "regional",
+      "schools",
+      "boundary maps",
+      "guelph",
+      "wellington"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Centre de services scolaire du Centre-Est — Trouver une école",
+    "level": "Regional",
+    "jurisdiction": "Ontario",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "French-language school finder for the Centre-Est school service centre, offering a general boundary map plus individual maps for its schools so a resident can locate the school whose territory covers their address.",
+    "url": "https://centreest.ca/ecoles-du-csce/trouver-une-ecole/",
+    "tags": [
+      "regional",
+      "schools",
+      "boundary maps",
+      "french"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Vancouver School Board — Your School Catchment",
+    "level": "Municipal",
+    "jurisdiction": "Vancouver",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "Vancouver School Board's official catchment page explaining school catchment boundaries in Vancouver and how to find which catchment a home address falls in. Complements the catalog's VSB school directory entry.",
+    "url": "https://www.vsb.bc.ca/your-school-catchment",
+    "tags": [
+      "municipal",
+      "schools",
+      "catchment",
+      "vancouver"
+    ],
+    "dateAdded": "2026-10-06"
   }
 ]
