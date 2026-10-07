@@ -32014,5 +32014,272 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "City of Toronto — MyVote",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "elections",
+    "type": "Voter tool",
+    "description": "Toronto's all-in-one voter self-service for the 2026 municipal election: enter a Toronto address to confirm whether you are on the voters' list, add or correct your record, find where and when to vote, see the candidates in your ward, and download or print a digital voter information card.",
+    "url": "https://www.toronto.ca/city-government/elections/voter-information/myvote/",
+    "tags": [
+      "municipal",
+      "elections",
+      "voters list",
+      "where to vote",
+      "voter information card",
+      "toronto"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Élections Québec — Vérifier mon inscription à la liste électorale",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Official Quebec tool for confirming a resident's name and address on the provincial electoral list and correcting the entry if it is wrong. French-only page.",
+    "url": "https://www.electionsquebec.qc.ca/voter/verifier-son-inscription-a-la-liste-electorale/",
+    "tags": [
+      "provincial",
+      "elections",
+      "voter registration",
+      "electoral list",
+      "french",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Elections BC — Local Candidate Information",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "Directory of declared candidates contesting BC's 2026 local general elections, with contact and filing details published by Elections BC.",
+    "url": "https://elections.bc.ca/local-elections/local-candidates/candidate-information/",
+    "tags": [
+      "provincial",
+      "elections",
+      "candidates",
+      "local elections",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "City of Barrie — 2026 Certified Candidates List",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "The City Clerk's certified list of candidates and registered third-party advertisers for Barrie's October 2026 municipal election.",
+    "url": "https://www.barrie.ca/government-news/2026-municipal-election/certified-candidates-list",
+    "tags": [
+      "municipal",
+      "elections",
+      "candidates",
+      "barrie"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "City of London ON — List of Candidates",
+    "level": "Municipal",
+    "jurisdiction": "London",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "London's official candidate listings covering municipal, board of education and biodiversity council races.",
+    "url": "https://www.london.ca/government/council-civic-administration/elections/list-candidates",
+    "tags": [
+      "municipal",
+      "elections",
+      "candidates",
+      "london"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "City of Brampton — Candidate Listing",
+    "level": "Municipal",
+    "jurisdiction": "Brampton",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "Brampton's official register of candidates for the municipal election, organised by office.",
+    "url": "https://www.brampton.ca/EN/City-Hall/Election/Candidates/Pages/candidateListing.aspx",
+    "tags": [
+      "municipal",
+      "elections",
+      "candidates",
+      "brampton"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "City of Guelph — Candidates of the 2026 Municipal Election",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "Official slate of candidates for Guelph's 2026 council, mayor and school board races.",
+    "url": "https://guelph.ca/city-government/mayor-and-council/municipal-elections/candidates-of-the-2026-municipal-and-school-board-election/",
+    "tags": [
+      "municipal",
+      "elections",
+      "candidates",
+      "guelph"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Greater Sudbury — Am I on the Voters' List?",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "elections",
+    "type": "Lookup tool",
+    "description": "Official city page hosting an address lookup so a Sudbury resident can confirm their name appears on the municipal voters list; the lookup widget is embedded from the city's voter services platform.",
+    "url": "https://www.sudbury.ca/city-hall/municipal-schoolboard-elections/for-voters/am-i-on-the-voters-list/",
+    "tags": [
+      "municipal",
+      "elections",
+      "voters list",
+      "lookup",
+      "greater sudbury"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "City of St. John's — Candidates",
+    "level": "Municipal",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "Official candidate information for St. John's municipal, school board and plebiscite votes.",
+    "url": "https://www.stjohns.ca/your-government/elections/candidates/",
+    "tags": [
+      "municipal",
+      "elections",
+      "candidates",
+      "st. john's",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Élections Québec — Results by Polling Station",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "elections",
+    "type": "Results database",
+    "description": "Official Quebec election results broken down to individual polling stations rather than only to constituency, a finer grain than most provincial results tools offer.",
+    "url": "https://www.electionsquebec.qc.ca/en/understand/understanding-voting/provincial-election-results-by-polling-station/",
+    "tags": [
+      "provincial",
+      "elections",
+      "results",
+      "polling stations",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Elections BC — 2026 General Local Elections",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "elections",
+    "type": "Elections portal",
+    "description": "Main voter hub for BC's October 2026 local general elections, gathering who can vote, registration, voting options, candidates and results in one place.",
+    "url": "https://elections.bc.ca/local-elections/2026-general-local-elections/",
+    "tags": [
+      "provincial",
+      "elections",
+      "local elections",
+      "voter hub",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Élections Québec — Provincial General Elections Live Results",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "elections",
+    "type": "Election results portal",
+    "description": "Real-time unofficial vote totals by constituency during election night, published by Quebec's chief electoral officer.",
+    "url": "https://www.electionsquebec.qc.ca/en/results-and-statistics/provincial-general-elections-live-results/",
+    "tags": [
+      "provincial",
+      "elections",
+      "live results",
+      "election night",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Elections Alberta — Official Election Results",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "elections",
+    "type": "Election results portal",
+    "description": "Standalone official results database: pick an election event, then read vote totals, turnout and seats won per electoral division from server-rendered tables.",
+    "url": "https://results.elections.ab.ca/",
+    "tags": [
+      "provincial",
+      "elections",
+      "official results",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Elections Saskatchewan — Election Results",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "elections",
+    "type": "Election results portal",
+    "description": "Results hub linking to Saskatchewan's live results service and to official general-election and by-election reports.",
+    "url": "https://www.elections.sk.ca/reports-data/election-results/",
+    "tags": [
+      "provincial",
+      "elections",
+      "results",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "City of Guelph — 2026 Voting Locations",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "elections",
+    "type": "Lookup tool",
+    "description": "Lookup of advance and election-day voting locations for Guelph's 2026 municipal and school board election.",
+    "url": "https://guelph.ca/city-government/mayor-and-council/municipal-elections/2026-municipal-and-school-board-elections-voting-locations/",
+    "tags": [
+      "municipal",
+      "elections",
+      "voting locations",
+      "where to vote",
+      "guelph"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "City of Winnipeg — 2026 Election",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "elections",
+    "type": "Elections portal",
+    "description": "Winnipeg's hub for its 2026 civic election, covering voting options, candidates, ward boundaries, identification rules and election workers.",
+    "url": "https://winnipeg.ca/city-governance/wards-elections/2026-election",
+    "tags": [
+      "municipal",
+      "elections",
+      "civic election",
+      "winnipeg"
+    ],
+    "dateAdded": "2026-10-07"
   }
 ]

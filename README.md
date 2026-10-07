@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2051 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2067 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 31
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 82
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 98
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 25
 
 ---
@@ -3470,7 +3470,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Legislative Assembly of British Columbia | British Columbia · Agency | Legislative | Bills, debates, committee work, and live webcasts from BC's Legislative Assembly | https://www.leg.bc.ca/ |
 | British Columbia — Political Contributions Search (FRPC) | British Columbia · Provincial | Contributions database | Elections BC's Financial Reports and Political Contributions system: combined contribution searches over $250 by contributor class (individual, corporation, union) with bulk download options. | https://contributions.electionsbc.gov.bc.ca/pcs/sa1asearch.aspx |
 | Elections BC | British Columbia · Provincial | Agency | BC electoral information, voter registration, and financial disclosure search | https://elections.bc.ca/ |
+| Elections BC — 2026 General Local Elections | British Columbia · Provincial | Elections portal | Main voter hub for BC's October 2026 local general elections, gathering who can vote, registration, voting options, candidates and results in one place. | https://elections.bc.ca/local-elections/2026-general-local-elections/ |
 | Elections BC — Find Your District | British Columbia · Provincial | Lookup tool | Enter an address or browse the map to find your British Columbia electoral district, see how 2024 boundaries changed from 2020/2017, and locate voting places. | https://elections.bc.ca/resources/maps/find-your-district/ |
+| Elections BC — Local Candidate Information | British Columbia · Provincial | Candidate directory | Directory of declared candidates contesting BC's 2026 local general elections, with contact and filing details published by Elections BC. | https://elections.bc.ca/local-elections/local-candidates/candidate-information/ |
 | Elections BC — Online Voter Registration | British Columbia · Provincial | Voter registration | Register to vote, update your registration, register as a future voter (16–17), or request a vote-by-mail package | https://eregister.electionsbc.gov.bc.ca/ovr/ |
 | Vancouver — Municipal Election Results | Vancouver · Municipal | Dataset | Official results for every Vancouver municipal election since 1996 — mayor, council, park board and school board — with breakdowns by voting place; CSV/XLS downloads. | https://opendata.vancouver.ca/explore/dataset/municipal-election-results/api/ |
 | Vancouver Open Data Portal | Vancouver · Municipal | Open data portal | High-quality datasets and APIs for civic use | https://opendata.vancouver.ca/ |
@@ -3484,6 +3486,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Alberta | Alberta · Provincial | Agency | Alberta provincial election administration, voter lookup, and results | https://www.elections.ab.ca/ |
 | Elections Alberta — Financial Disclosure Database | Alberta · Provincial | Searchable database | Search registrations, financial reports and contributions over $250 for Alberta parties, candidates, constituency associations and leadership contests since 2004. | https://efpublic.elections.ab.ca/ |
 | Elections Alberta — Maps & GIS Boundary Data | Alberta · Provincial | Maps & shapefiles | Download PDF maps of Alberta's 87 electoral divisions plus GIS boundary shapefiles of electoral division and voting-area boundaries for mapping software. | https://www.elections.ab.ca/resources/maps/ |
+| Elections Alberta — Official Election Results | Alberta · Provincial | Election results portal | Standalone official results database: pick an election event, then read vote totals, turnout and seats won per electoral division from server-rendered tables. | https://results.elections.ab.ca/ |
 | Elections Alberta — Register to Vote | Alberta · Provincial | Voter registration | Register to vote or check and update your voter registration with Elections Alberta | https://www.elections.ab.ca/voters/register-to-vote/ |
 | Elections Calgary — Results and Disclosures | Calgary · Municipal | Results and disclosure hub | Browse official Calgary municipal election results by ward and voting station, plus candidate campaign finance disclosure statements. | https://www.electionscalgary.ca/results.html |
 | Edmonton — 2025 Official Election Results by Voting Station | Edmonton · Municipal | Open dataset | Query and download station-level official results from Edmonton's 2025 municipal election; datasets for earlier elections are on the same portal. | https://data.edmonton.ca/Elected-Officials/2025-Official-Edmonton-Election-Results-by-Voting-/32te-6grv |
@@ -3493,6 +3496,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Elections Saskatchewan | Saskatchewan · Provincial | Agency | Saskatchewan provincial elections information and voter services | https://www.elections.sk.ca/ |
+| Elections Saskatchewan — Election Results | Saskatchewan · Provincial | Election results portal | Results hub linking to Saskatchewan's live results service and to official general-election and by-election reports. | https://www.elections.sk.ca/reports-data/election-results/ |
 | Elections Saskatchewan — Find My Constituency | Saskatchewan · Provincial | Lookup tool | Search by address to find your Saskatchewan provincial constituency, polling division and voting information. | https://www.elections.sk.ca/voters/findmyconstituency/ |
 | Elections Saskatchewan — Maps & Polling Division Data | Saskatchewan · Provincial | Maps & shapefiles | Download provincial and constituency PDF maps for Saskatchewan elections plus constituency and polling-division shapefiles and poll-key files. | https://www.elections.sk.ca/candidates-political-parties/maps/maps-archive-ge29/ |
 | Saskatchewan — Contribution Search Tool | Saskatchewan · Provincial | Contributions database | Elections Saskatchewan's searchable political contribution tool with per-party, per-year filtering and downloadable fiscal-period returns from 2016 onward. | https://www.elections.sk.ca/reports-data/candidate-political-party-finances/contribution-search-tool/ |
@@ -3506,6 +3510,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Manitoba | Manitoba · Provincial | Agency | Manitoba provincial elections information, candidates, and results | https://www.electionsmanitoba.ca/ |
 | Elections Manitoba — Electoral Maps | Manitoba · Provincial | Maps & shapefiles | Download PDF maps and shapefiles of Manitoba's electoral divisions and voting areas for the 2023, 2019 and earlier general elections, organized by region. | https://www.electionsmanitoba.ca/en/resources/maps |
 | Elections Manitoba — Financial Disclosure | Manitoba · Provincial | Finance portal | Browse public financial statements and returns filed under The Election Financing Act — election returns for candidates and parties, annual party and constituency-association returns, outstanding liabilities and loan agreements. | https://www.electionsmanitoba.ca/En/Finance/Financial_Disclosure |
+| City of Winnipeg — 2026 Election | Winnipeg · Municipal | Elections portal | Winnipeg's hub for its 2026 civic election, covering voting options, candidates, ward boundaries, identification rules and election workers. | https://winnipeg.ca/city-governance/wards-elections/2026-election |
 | Winnipeg — Election Results Dataset | Winnipeg · Municipal | Open dataset | Query and download Winnipeg mayoral, councillor and school trustee election results dating back to 1966 from the city's open data portal. | https://data.winnipeg.ca/Council-Services/Winnipeg-Election-Results/7753-3fjc |
 
 ### Ontario
@@ -3519,10 +3524,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Ontario — Official Results Data Explorer | Ontario · Provincial | Results database | Filter official Ontario election and referendum results by year, electoral district, party or candidate, with interactive charts and CSV/PDF downloads. | https://results.elections.on.ca/en/ |
 | Ontario — Municipal Election Results Dataset | Ontario · Provincial | Open dataset | Download post-election data for every Ontario municipality — eligible voters, turnout, voting methods and election statistics — from the provincial data catalogue. | https://data.ontario.ca/dataset/municipal-election-results |
 | Ontario — Political Contributions Search | Ontario · Provincial | Contributions database | Searchable register of provincial political contributions (414,000+ records) — donors to Ontario parties, candidates, and associations with downloadable results. | https://finances.elections.on.ca/en/contributions |
+| City of Barrie — 2026 Certified Candidates List | Barrie · Municipal | Candidate directory | The City Clerk's certified list of candidates and registered third-party advertisers for Barrie's October 2026 municipal election. | https://www.barrie.ca/government-news/2026-municipal-election/certified-candidates-list |
 | Brampton Open Data | Brampton · Municipal | Open data portal | Civic data portal with mapping and city datasets | https://geohub.brampton.ca/ |
+| City of Brampton — Candidate Listing | Brampton · Municipal | Candidate directory | Brampton's official register of candidates for the municipal election, organised by office. | https://www.brampton.ca/EN/City-Hall/Election/Candidates/Pages/candidateListing.aspx |
+| Greater Sudbury — Am I on the Voters' List? | Greater Sudbury · Municipal | Lookup tool | Official city page hosting an address lookup so a Sudbury resident can confirm their name appears on the municipal voters list; the lookup widget is embedded from the city's voter services platform. | https://www.sudbury.ca/city-hall/municipal-schoolboard-elections/for-voters/am-i-on-the-voters-list/ |
+| City of Guelph — 2026 Voting Locations | Guelph · Municipal | Lookup tool | Lookup of advance and election-day voting locations for Guelph's 2026 municipal and school board election. | https://guelph.ca/city-government/mayor-and-council/municipal-elections/2026-municipal-and-school-board-elections-voting-locations/ |
+| City of Guelph — Candidates of the 2026 Municipal Election | Guelph · Municipal | Candidate directory | Official slate of candidates for Guelph's 2026 council, mayor and school board races. | https://guelph.ca/city-government/mayor-and-council/municipal-elections/candidates-of-the-2026-municipal-and-school-board-election/ |
+| City of London ON — List of Candidates | London · Municipal | Candidate directory | London's official candidate listings covering municipal, board of education and biodiversity council races. | https://www.london.ca/government/council-civic-administration/elections/list-candidates |
 | London Open Data | London · Municipal | Open data | City of London's open data portal — datasets, maps, and civic information for southwestern Ontario's largest city | https://london.ca/open-data |
 | Ottawa — 2022 Elections Official Results | Ottawa · Municipal | Open dataset | Download poll-by-poll official results of Ottawa's 2022 municipal elections from the Open Ottawa portal. | https://open.ottawa.ca/documents/2022-elections-official-results |
 | Sault Ste. Marie Ward Finder | Sault Ste. Marie · Municipal | Ward lookup tool | Look up municipal ward by street address using official address GIS data — powered by city open data extracts. | https://cityssm.github.io/ward-finder/ |
+| City of Toronto — MyVote | Toronto · Municipal | Voter tool | Toronto's all-in-one voter self-service for the 2026 municipal election: enter a Toronto address to confirm whether you are on the voters' list, add or correct your record, find where and when to vote, see the candidates in your ward, and download or print a digital voter information card. | https://www.toronto.ca/city-government/elections/voter-information/myvote/ |
 | Civic Tech Toronto | Toronto · Municipal | Civic tech | Toronto-based civic tech community working on projects that improve government services, transparency, and democratic participation. | https://civictech.ca/ |
 | Toronto — Elections Financial Disclosure Search | Toronto · Municipal | Searchable database | Search campaign contributions and expenses from financial statements filed by Toronto election candidates and registered third-party advertisers. | https://app.toronto.ca/EFD/jsf/main/home.xhtml |
 | Toronto — Elections Official Results Dataset | Toronto · Municipal | Open dataset | Download poll-level official results for Toronto municipal elections from 2003 onward and by-elections from 2012 onward via the city's open data portal. | https://open.toronto.ca/dataset/election-results-official/ |
@@ -3533,9 +3545,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Élections Québec | Quebec · Provincial | Agency | Quebec electoral commission — voter info, results, and financial transparency | https://www.electionsquebec.qc.ca/ |
 | Élections Québec — Provincial Electoral Divisions | Quebec · Provincial | Interactive map | Browse Québec's 125 electoral divisions on an interactive map with per-division information sheets, results, maps and downloadable boundary data. | https://www.electionsquebec.qc.ca/en/electoral-maps/provincial-electoral-divisions/ |
+| Élections Québec — Provincial General Elections Live Results | Quebec · Provincial | Election results portal | Real-time unofficial vote totals by constituency during election night, published by Quebec's chief electoral officer. | https://www.electionsquebec.qc.ca/en/results-and-statistics/provincial-general-elections-live-results/ |
 | Élections Québec — Québec Electoral Map | Quebec · Provincial | Interactive map | Interactive map of Québec's 125 electoral divisions with per-division socioeconomic and historical information sheets, plus downloadable official maps, polling-subdivision maps and GeoJSON/CSV boundary data. | https://www.electionsquebec.qc.ca/en/electoral-maps/quebec-electoral-map/ |
 | Élections Québec — Research on Contributors | Quebec · Provincial | Searchable database | Search political contributions made to Quebec provincial and municipal parties and candidates by contributor name, political entity or year. | https://www.electionsquebec.qc.ca/en/financing-expenses-and-contributions/research-on-contributors/ |
+| Élections Québec — Results by Polling Station | Quebec · Provincial | Results database | Official Quebec election results broken down to individual polling stations rather than only to constituency, a finer grain than most provincial results tools offer. | https://www.electionsquebec.qc.ca/en/understand/understanding-voting/provincial-election-results-by-polling-station/ |
 | Élections Québec — S'inscrire sur la liste électorale | Quebec · Provincial | Voter registration | Inscription en ligne sur la liste électorale permanente du Québec ou modification d'une inscription existante (vérification de l'inscription aussi disponible) | https://www.electionsquebec.qc.ca/voter/sinscrire-sur-la-liste-electorale-ou-modifier-une-inscription/ |
+| Élections Québec — Vérifier mon inscription à la liste électorale | Quebec · Provincial | Voter registration | Official Quebec tool for confirming a resident's name and address on the provincial electoral list and correcting the entry if it is wrong. French-only page. | https://www.electionsquebec.qc.ca/voter/verifier-son-inscription-a-la-liste-electorale/ |
 | Quebec National Assembly — Hansard | Quebec · Provincial | Hansard | Quebec National Assembly debates, committee proceedings, and bill tracking | https://www.assnat.qc.ca/en/travaux-parlementaires/journaux-debats.html |
 | Gatineau Open Data | Quebec · Municipal | Open data | Gatineau's open data portal — municipal datasets, maps, and civic information for the National Capital Region | https://www.gatineau.ca/donneesouvertes/ |
 
@@ -3554,6 +3569,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections PEI — Election Contributions Search | PEI · Provincial | Lookup tool | Search political-party contribution lists in excess of $250 by party and year, plus download the yearly political-party contributions open-data set. | https://www.electionspei.ca/resources/feature/election-contributions |
 | Halifax — Past Municipal Election Results | Halifax · Municipal | Results archive | Downloadable official results from past Halifax regional council, school board and plebiscite elections in PDF format. | https://www.halifax.ca/city-hall/elections/about-elections/past-election-results |
 | Civic Tech Fredericton | New Brunswick · Municipal | Civic tech | Fredericton-based civic tech community working on projects that improve government services, transparency, and democratic participation. | https://www.civictechfredericton.com/ |
+| City of St. John's — Candidates | Newfoundland and Labrador · Municipal | Candidate directory | Official candidate information for St. John's municipal, school board and plebiscite votes. | https://www.stjohns.ca/your-government/elections/candidates/ |
 
 ### Northern Canada (YT, NT, NU)
 
