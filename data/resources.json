@@ -13389,6 +13389,23 @@
     "dateAdded": "2026-08-28"
   },
   {
+    "name": "Guelph — Waste Collection Schedule",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "gov-services",
+    "type": "Collection schedule",
+    "description": "Guelph's waste collection schedule page with an embedded address-search calendar widget, plus the Guelph Waste reminders app.",
+    "url": "https://guelph.ca/living/environment/garbage-and-recycling/waste-collection-schedule/",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "guelph"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
     "name": "Halifax — Collection Schedules & What Goes Where",
     "level": "Municipal",
     "jurisdiction": "Halifax",
@@ -13421,6 +13438,23 @@
       "halifax"
     ],
     "dateAdded": "2026-09-28"
+  },
+  {
+    "name": "Hamilton — Waste Collection Schedule",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "gov-services",
+    "type": "Collection schedule",
+    "description": "Hamilton's page to find and download the waste collection schedule for your neighbourhood, plus a holiday calendar.",
+    "url": "https://www.hamilton.ca/home-neighbourhood/garbage-recycling/waste-collection-schedule",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "hamilton"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "Kingston — Collection Calendar",
@@ -13488,6 +13522,40 @@
       "levis"
     ],
     "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "London — Collection Schedule",
+    "level": "Municipal",
+    "jurisdiction": "London",
+    "category": "gov-services",
+    "type": "Collection schedule",
+    "description": "London ON's collection schedule page with address lookup and calendar for garbage, recycling and organics.",
+    "url": "https://london.ca/living-london/garbage-recycling/collection-calendar",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "london"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Medicine Hat — Collection Schedule",
+    "level": "Municipal",
+    "jurisdiction": "Medicine Hat",
+    "category": "gov-services",
+    "type": "Collection schedule",
+    "description": "Medicine Hat's 2026 collection schedule with a zone map, the myMH address portal and Recycle Coach.",
+    "url": "https://www.medicinehat.ca/home-property-utilities/waste-collection/collection-schedule/",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "medicine hat"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "Medicine Hat — Report a Problem",
@@ -13568,6 +13636,23 @@
       "new-westminster"
     ],
     "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "North Bay — Curbside Collection",
+    "level": "Municipal",
+    "jurisdiction": "North Bay",
+    "category": "gov-services",
+    "type": "Collection schedule",
+    "description": "North Bay's curbside collection page: zone-by-zone schedule table plus the North Bay Recycles app for address lookup and reminders.",
+    "url": "https://www.northbay.ca/services-payments/garbage-recycling/curbside-collection/",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "north bay"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "MyServiceOttawa",
@@ -13764,6 +13849,23 @@
       "payments"
     ],
     "dateAdded": "2026-09-28"
+  },
+  {
+    "name": "Windsor — Waste Collection Schedule",
+    "level": "Municipal",
+    "jurisdiction": "Windsor",
+    "category": "gov-services",
+    "type": "Collection schedule",
+    "description": "Windsor's waste collection schedule page: view your calendar, plus 311, app and pickup-at-counter fallbacks.",
+    "url": "https://www.citywindsor.ca/residents/waste-and-recycling/collection-schedule",
+    "tags": [
+      "municipal",
+      "waste",
+      "recycling",
+      "collection schedule",
+      "windsor"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "Yellowknife — Collection Program Schedule",
@@ -17900,38 +18002,6 @@
       "first nations",
       "ontario"
     ]
-  },
-  {
-    "name": "Six Nations of the Grand River — General Council Meetings and Minutes",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "indigenous",
-    "type": "Council records",
-    "description": "Agendas, minutes and decisions of the elected General Council of Six Nations of the Grand River (Ontario) — an Indigenous government transparency record for members, citizens and accountability researchers.",
-    "url": "https://www.sixnations.ca/general-council-meetings-minutes/",
-    "tags": [
-      "indigenous",
-      "six-nations",
-      "transparency",
-      "council-minutes"
-    ],
-    "dateAdded": "2026-10-04"
-  },
-  {
-    "name": "Six Nations of the Grand River — Land Claims",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "indigenous",
-    "type": "Land claims hub",
-    "description": "Land claims and legal file hub for the Six Nations of the Grand River First Nation (Ontario), covering ongoing land claims and treaty history — for members, researchers and students of First Nations law.",
-    "url": "https://www.sixnations.ca/land-claims/",
-    "tags": [
-      "indigenous",
-      "land-claims",
-      "six-nations",
-      "treaty"
-    ],
-    "dateAdded": "2026-10-04"
   },
   {
     "name": "Kahnawà:ke — Justice Services",
@@ -26343,6 +26413,23 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Conseil scolaire acadien provincial — Trouver une école",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Nova Scotia's only French-language school board tells parents to determine their child's school using their civic address and links the Trouver mon école lookup, alongside its schools and preschool sites.",
+    "url": "https://csap.ca/ecoles/trouver-une-ecole",
+    "tags": [
+      "provincial",
+      "schools",
+      "school finder",
+      "french",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
     "name": "Nova Scotia — School Board Zones (English)",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -26550,6 +26637,23 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Wellington Catholic District School Board — School Boundary and Accommodations",
+    "level": "Regional",
+    "jurisdiction": "Guelph",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "Wellington Catholic DSB's boundary page linking an interactive boundary map for the Catholic district covering Guelph and surrounding townships, with attendance area review documents and the board's school list.",
+    "url": "https://www.wellingtoncdsb.ca/schools/school_boundary_and_accommodations",
+    "tags": [
+      "regional",
+      "schools",
+      "boundary maps",
+      "guelph",
+      "wellington"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
     "name": "Halton Catholic District School Board — School Finder",
     "level": "Regional",
     "jurisdiction": "Halton",
@@ -26673,6 +26777,39 @@
     ]
   },
   {
+    "name": "Centre de services scolaire du Centre-Est — Trouver une école",
+    "level": "Regional",
+    "jurisdiction": "Ontario",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "French-language school finder for the Centre-Est school service centre, offering a general boundary map plus individual maps for its schools so a resident can locate the school whose territory covers their address.",
+    "url": "https://centreest.ca/ecoles-du-csce/trouver-une-ecole/",
+    "tags": [
+      "regional",
+      "schools",
+      "boundary maps",
+      "french"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Thames Valley District School Board — Find My Local School",
+    "level": "Regional",
+    "jurisdiction": "Ontario",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Thames Valley DSB's Find My Local School page: the district's area across Elgin, Middlesex and Oxford counties is divided into attendance areas, and residents enter their address in the school locator to find theirs.",
+    "url": "https://www.tvdsb.ca/schools/find-my-local-school",
+    "tags": [
+      "regional",
+      "schools",
+      "school finder",
+      "thames valley",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
     "name": "Peel District School Board School Finder",
     "level": "Regional",
     "jurisdiction": "Peel",
@@ -26687,6 +26824,38 @@
       "mississauga",
       "brampton"
     ]
+  },
+  {
+    "name": "Waterloo Region District School Board — School Boundary and Location Maps",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "WRDSB's school boundary and location maps: the home address determines which school a child attends, with current-year attendance boundary maps and a link to the School Eligibility lookup.",
+    "url": "https://www.wrdsb.ca/planning/school-boundary-and-location-maps/",
+    "tags": [
+      "regional",
+      "schools",
+      "boundary maps",
+      "waterloo"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Waterloo Region District School Board — School List",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "school-board",
+    "type": "School directory",
+    "description": "WRDSB's full school directory with each school's street address, phone and map link, plus direct links to the School Finder eligibility lookup and the boundary maps.",
+    "url": "https://www.wrdsb.ca/our-schools/schools/",
+    "tags": [
+      "regional",
+      "schools",
+      "school directory",
+      "waterloo"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "YRDSB School Locator",
@@ -26751,6 +26920,22 @@
       "map",
       "interactive"
     ]
+  },
+  {
+    "name": "Edmonton Public Schools — Find a School Tool",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Edmonton Public Schools' address finder: enter a home address or drop a pin to find the designated elementary, junior high and high school for that address, with program and grade filters.",
+    "url": "https://www.epsb.ca/schools/findaschool/fast/",
+    "tags": [
+      "municipal",
+      "schools",
+      "school finder",
+      "edmonton"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "Halifax Regional Centre for Education — School Finder",
@@ -26819,6 +27004,22 @@
     ]
   },
   {
+    "name": "Surrey School District — Find a School",
+    "level": "Municipal",
+    "jurisdiction": "Surrey",
+    "category": "school-board",
+    "type": "School boundary lookup",
+    "description": "Surrey School District's official school search with list and map views, filters for community, school year and program, and a warning when an address falls outside designated attendance areas.",
+    "url": "https://www.surreyschools.ca/find-a-school",
+    "tags": [
+      "municipal",
+      "schools",
+      "school finder",
+      "surrey"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
     "name": "TDSB Open Data",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -26863,6 +27064,22 @@
       "schools",
       "directory"
     ]
+  },
+  {
+    "name": "Vancouver School Board — Your School Catchment",
+    "level": "Municipal",
+    "jurisdiction": "Vancouver",
+    "category": "school-board",
+    "type": "Boundary map",
+    "description": "Vancouver School Board's official catchment page explaining school catchment boundaries in Vancouver and how to find which catchment a home address falls in. Complements the catalog's VSB school directory entry.",
+    "url": "https://www.vsb.bc.ca/your-school-catchment",
+    "tags": [
+      "municipal",
+      "schools",
+      "catchment",
+      "vancouver"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "Louis Riel School Division — School Finder",
@@ -28681,6 +28898,23 @@
     ]
   },
   {
+    "name": "BC Bus Pass Program",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit pass program",
+    "description": "The provincial BC Bus Pass Program page: eligibility and application for the annual transit pass for low-income seniors and people with disabilities.",
+    "url": "https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/buses-taxis-limos/bus-pass",
+    "tags": [
+      "provincial",
+      "transit",
+      "bus pass",
+      "seniors",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
     "name": "BC Transit Open Data (GTFS)",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -28817,6 +29051,23 @@
       "transit",
       "London"
     ]
+  },
+  {
+    "name": "TransLink — Compass Card",
+    "level": "Regional",
+    "jurisdiction": "Metro Vancouver",
+    "category": "transit",
+    "type": "Fare card guide",
+    "description": "TransLink's guide to the Compass Card: how it works, fare types, monthly passes and DayPasses, concessions, and lost-card help.",
+    "url": "https://www.translink.ca/transit-fares/compass-card",
+    "tags": [
+      "regional",
+      "transit",
+      "fares",
+      "compass card",
+      "vancouver"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "TransLink GTFS Data",
@@ -28986,6 +29237,39 @@
     ]
   },
   {
+    "name": "BC Transit — Victoria Region Fares",
+    "level": "Regional",
+    "jurisdiction": "Victoria",
+    "category": "transit",
+    "type": "Fare information",
+    "description": "BC Transit's official fare page for the Victoria region: fares, passes and payment options.",
+    "url": "https://www.bctransit.com/victoria/fares/",
+    "tags": [
+      "regional",
+      "transit",
+      "fares",
+      "victoria"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Grand River Transit — EasyGO Fare Card",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "transit",
+    "type": "Fare card guide",
+    "description": "GRT's EasyGO fare card page for Waterloo Region: how to get, load and use the card, with fare capping detail.",
+    "url": "https://www.grt.ca/fares-and-payment/how-to-pay-your-fare/easygo-fare-card/",
+    "tags": [
+      "regional",
+      "transit",
+      "fares",
+      "fare card",
+      "waterloo"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
     "name": "Grand River Transit — GTFS Open Data",
     "level": "Regional",
     "jurisdiction": "Waterloo",
@@ -29026,6 +29310,22 @@
       "transit",
       "Windsor"
     ]
+  },
+  {
+    "name": "York Region Transit — Fares and Passes",
+    "level": "Regional",
+    "jurisdiction": "York Region",
+    "category": "transit",
+    "type": "Fare information",
+    "description": "York Region Transit's official fares and passes page: fare prices, passes and concessions.",
+    "url": "https://www.yrt.ca/en/fares-and-passes/fares-and-passes.aspx",
+    "tags": [
+      "regional",
+      "transit",
+      "fares",
+      "york region"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "York Region Transit — GTFS Open Data",
@@ -29087,6 +29387,22 @@
     ]
   },
   {
+    "name": "Calgary Transit — Fares and Passes",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "transit",
+    "type": "Fare information",
+    "description": "Calgary Transit's official fares and passes page: fare prices, pass types and where to buy.",
+    "url": "https://www.calgarytransit.com/fares---passes.html",
+    "tags": [
+      "municipal",
+      "transit",
+      "fares",
+      "calgary"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
     "name": "Calgary Transit GTFS",
     "level": "Municipal",
     "jurisdiction": "Calgary",
@@ -29115,6 +29431,55 @@
       "ets",
       "transit"
     ]
+  },
+  {
+    "name": "Edmonton Transit — Fare Assistance Programs",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "transit",
+    "type": "Fare assistance",
+    "description": "Edmonton's official page on fare assistance and reduced-fare transit programs for eligible riders.",
+    "url": "https://www.edmonton.ca/ets/fare-assistance",
+    "tags": [
+      "municipal",
+      "transit",
+      "fares",
+      "fare assistance",
+      "edmonton"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "Edmonton Transit — Fares and Passes",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "transit",
+    "type": "Fare information",
+    "description": "Edmonton's official ETS fare page: fare prices, passes and payment options. Complements the catalog's ETS homepage entry.",
+    "url": "https://www.edmonton.ca/ets/fares-passes",
+    "tags": [
+      "municipal",
+      "transit",
+      "fares",
+      "edmonton"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
+    "name": "STO — Payment Methods",
+    "level": "Municipal",
+    "jurisdiction": "Gatineau",
+    "category": "transit",
+    "type": "Fare payment guide",
+    "description": "Gatineau STO's official fare payment methods page (English version).",
+    "url": "https://www.sto.ca/en/fares/payment-methods/",
+    "tags": [
+      "municipal",
+      "transit",
+      "fares",
+      "gatineau"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "Guelph Transit — GTFS Open Data",
@@ -29147,6 +29512,22 @@
       "schedules",
       "routes"
     ]
+  },
+  {
+    "name": "Halifax Transit — Fares, Tickets and Passes",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "transit",
+    "type": "Fare information",
+    "description": "Halifax's official transit fare page: fare prices, tickets, passes and payment options. The dedicated fare subpage of the catalog's Halifax Transit homepage entry.",
+    "url": "https://www.halifax.ca/transportation/halifax-transit/fares-tickets-passes",
+    "tags": [
+      "municipal",
+      "transit",
+      "fares",
+      "halifax"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "Hamilton Street Railway GTFS",
@@ -29258,6 +29639,23 @@
     ]
   },
   {
+    "name": "MiWay — Ways to Pay Your Fare",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "transit",
+    "type": "Fare payment guide",
+    "description": "Mississauga MiWay's guide to paying fares: PRESTO, contactless, passes and concession details. Complements the catalog's MiWay homepage entry.",
+    "url": "https://www.mississauga.ca/miway-transit/fares/ways-to-pay-your-fare/",
+    "tags": [
+      "municipal",
+      "transit",
+      "fares",
+      "miway",
+      "mississauga"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
     "name": "STM Info outils / network maps",
     "level": "Municipal",
     "jurisdiction": "Montreal",
@@ -29350,6 +29748,22 @@
     ]
   },
   {
+    "name": "RTC — Fare Schedule",
+    "level": "Municipal",
+    "jurisdiction": "Quebec City",
+    "category": "transit",
+    "type": "Fare schedule",
+    "description": "Quebec City RTC's official fare schedule: fare products and pricing (English version).",
+    "url": "https://www.rtcquebec.ca/en/rates-and-purchase/rates-and-passes/fare-schedule",
+    "tags": [
+      "municipal",
+      "transit",
+      "fares",
+      "quebec city"
+    ],
+    "dateAdded": "2026-10-06"
+  },
+  {
     "name": "RTC — Réseau de transport de la Capitale (Quebec City)",
     "level": "Municipal",
     "jurisdiction": "Quebec City",
@@ -29376,6 +29790,22 @@
       "gtfs",
       "open data"
     ]
+  },
+  {
+    "name": "Regina Transit — Fares and Passes",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "transit",
+    "type": "Fare information",
+    "description": "Regina's official transit fare page: stored value with fare capping, the Umo card, passes and where to buy.",
+    "url": "https://www.regina.ca/transportation-roads-parking/transit/fares-passes/",
+    "tags": [
+      "municipal",
+      "transit",
+      "fares",
+      "regina"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "Rimouski — GTFS Transit Data",
@@ -29407,6 +29837,22 @@
       "Saskatoon",
       "transit"
     ]
+  },
+  {
+    "name": "Saskatoon Transit — Ways to Pay",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "transit",
+    "type": "Fare payment guide",
+    "description": "Saskatoon Transit's official fares-and-payment page: payment options, passes and fare detail. The dedicated fare subpage of the catalog's Saskatoon Transit homepage entry.",
+    "url": "https://saskatoontransit.ca/fares-passes/ways-pay",
+    "tags": [
+      "municipal",
+      "transit",
+      "fares",
+      "saskatoon"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "Saskatoon Transit Open Data",
@@ -29466,6 +29912,23 @@
       "transit",
       "api"
     ]
+  },
+  {
+    "name": "TTC — Fares and passes",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "transit",
+    "type": "Fare information",
+    "description": "Toronto's official TTC fare page: fare prices, passes, concessions and payment options for riders.",
+    "url": "https://www.ttc.ca/fares-and-passes",
+    "tags": [
+      "municipal",
+      "transit",
+      "fares",
+      "ttc",
+      "toronto"
+    ],
+    "dateAdded": "2026-10-06"
   },
   {
     "name": "TTC Service Advisories / maps",
@@ -31551,500 +32014,5 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "TTC — Fares and passes",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "transit",
-    "type": "Fare information",
-    "description": "Toronto's official TTC fare page: fare prices, passes, concessions and payment options for riders.",
-    "url": "https://www.ttc.ca/fares-and-passes",
-    "tags": [
-      "municipal",
-      "transit",
-      "fares",
-      "ttc",
-      "toronto"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "TransLink — Compass Card",
-    "level": "Regional",
-    "jurisdiction": "Metro Vancouver",
-    "category": "transit",
-    "type": "Fare card guide",
-    "description": "TransLink's guide to the Compass Card: how it works, fare types, monthly passes and DayPasses, concessions, and lost-card help.",
-    "url": "https://www.translink.ca/transit-fares/compass-card",
-    "tags": [
-      "regional",
-      "transit",
-      "fares",
-      "compass card",
-      "vancouver"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Calgary Transit — Fares and Passes",
-    "level": "Municipal",
-    "jurisdiction": "Calgary",
-    "category": "transit",
-    "type": "Fare information",
-    "description": "Calgary Transit's official fares and passes page: fare prices, pass types and where to buy.",
-    "url": "https://www.calgarytransit.com/fares---passes.html",
-    "tags": [
-      "municipal",
-      "transit",
-      "fares",
-      "calgary"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Edmonton Transit — Fares and Passes",
-    "level": "Municipal",
-    "jurisdiction": "Edmonton",
-    "category": "transit",
-    "type": "Fare information",
-    "description": "Edmonton's official ETS fare page: fare prices, passes and payment options. Complements the catalog's ETS homepage entry.",
-    "url": "https://www.edmonton.ca/ets/fares-passes",
-    "tags": [
-      "municipal",
-      "transit",
-      "fares",
-      "edmonton"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Edmonton Transit — Fare Assistance Programs",
-    "level": "Municipal",
-    "jurisdiction": "Edmonton",
-    "category": "transit",
-    "type": "Fare assistance",
-    "description": "Edmonton's official page on fare assistance and reduced-fare transit programs for eligible riders.",
-    "url": "https://www.edmonton.ca/ets/fare-assistance",
-    "tags": [
-      "municipal",
-      "transit",
-      "fares",
-      "fare assistance",
-      "edmonton"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "York Region Transit — Fares and Passes",
-    "level": "Regional",
-    "jurisdiction": "York Region",
-    "category": "transit",
-    "type": "Fare information",
-    "description": "York Region Transit's official fares and passes page: fare prices, passes and concessions.",
-    "url": "https://www.yrt.ca/en/fares-and-passes/fares-and-passes.aspx",
-    "tags": [
-      "regional",
-      "transit",
-      "fares",
-      "york region"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "MiWay — Ways to Pay Your Fare",
-    "level": "Municipal",
-    "jurisdiction": "Mississauga",
-    "category": "transit",
-    "type": "Fare payment guide",
-    "description": "Mississauga MiWay's guide to paying fares: PRESTO, contactless, passes and concession details. Complements the catalog's MiWay homepage entry.",
-    "url": "https://www.mississauga.ca/miway-transit/fares/ways-to-pay-your-fare/",
-    "tags": [
-      "municipal",
-      "transit",
-      "fares",
-      "miway",
-      "mississauga"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Halifax Transit — Fares, Tickets and Passes",
-    "level": "Municipal",
-    "jurisdiction": "Halifax",
-    "category": "transit",
-    "type": "Fare information",
-    "description": "Halifax's official transit fare page: fare prices, tickets, passes and payment options. The dedicated fare subpage of the catalog's Halifax Transit homepage entry.",
-    "url": "https://www.halifax.ca/transportation/halifax-transit/fares-tickets-passes",
-    "tags": [
-      "municipal",
-      "transit",
-      "fares",
-      "halifax"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Grand River Transit — EasyGO Fare Card",
-    "level": "Regional",
-    "jurisdiction": "Waterloo",
-    "category": "transit",
-    "type": "Fare card guide",
-    "description": "GRT's EasyGO fare card page for Waterloo Region: how to get, load and use the card, with fare capping detail.",
-    "url": "https://www.grt.ca/fares-and-payment/how-to-pay-your-fare/easygo-fare-card/",
-    "tags": [
-      "regional",
-      "transit",
-      "fares",
-      "fare card",
-      "waterloo"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Saskatoon Transit — Ways to Pay",
-    "level": "Municipal",
-    "jurisdiction": "Saskatoon",
-    "category": "transit",
-    "type": "Fare payment guide",
-    "description": "Saskatoon Transit's official fares-and-payment page: payment options, passes and fare detail. The dedicated fare subpage of the catalog's Saskatoon Transit homepage entry.",
-    "url": "https://saskatoontransit.ca/fares-passes/ways-pay",
-    "tags": [
-      "municipal",
-      "transit",
-      "fares",
-      "saskatoon"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Regina Transit — Fares and Passes",
-    "level": "Municipal",
-    "jurisdiction": "Regina",
-    "category": "transit",
-    "type": "Fare information",
-    "description": "Regina's official transit fare page: stored value with fare capping, the Umo card, passes and where to buy.",
-    "url": "https://www.regina.ca/transportation-roads-parking/transit/fares-passes/",
-    "tags": [
-      "municipal",
-      "transit",
-      "fares",
-      "regina"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "RTC — Fare Schedule",
-    "level": "Municipal",
-    "jurisdiction": "Quebec City",
-    "category": "transit",
-    "type": "Fare schedule",
-    "description": "Quebec City RTC's official fare schedule: fare products and pricing (English version).",
-    "url": "https://www.rtcquebec.ca/en/rates-and-purchase/rates-and-passes/fare-schedule",
-    "tags": [
-      "municipal",
-      "transit",
-      "fares",
-      "quebec city"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "STO — Payment Methods",
-    "level": "Municipal",
-    "jurisdiction": "Gatineau",
-    "category": "transit",
-    "type": "Fare payment guide",
-    "description": "Gatineau STO's official fare payment methods page (English version).",
-    "url": "https://www.sto.ca/en/fares/payment-methods/",
-    "tags": [
-      "municipal",
-      "transit",
-      "fares",
-      "gatineau"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "BC Transit — Victoria Region Fares",
-    "level": "Regional",
-    "jurisdiction": "Victoria",
-    "category": "transit",
-    "type": "Fare information",
-    "description": "BC Transit's official fare page for the Victoria region: fares, passes and payment options.",
-    "url": "https://www.bctransit.com/victoria/fares/",
-    "tags": [
-      "regional",
-      "transit",
-      "fares",
-      "victoria"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "BC Bus Pass Program",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "transit",
-    "type": "Transit pass program",
-    "description": "The provincial BC Bus Pass Program page: eligibility and application for the annual transit pass for low-income seniors and people with disabilities.",
-    "url": "https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/buses-taxis-limos/bus-pass",
-    "tags": [
-      "provincial",
-      "transit",
-      "bus pass",
-      "seniors",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Windsor — Waste Collection Schedule",
-    "level": "Municipal",
-    "jurisdiction": "Windsor",
-    "category": "gov-services",
-    "type": "Collection schedule",
-    "description": "Windsor's waste collection schedule page: view your calendar, plus 311, app and pickup-at-counter fallbacks.",
-    "url": "https://www.citywindsor.ca/residents/waste-and-recycling/collection-schedule",
-    "tags": [
-      "municipal",
-      "waste",
-      "recycling",
-      "collection schedule",
-      "windsor"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "London — Collection Schedule",
-    "level": "Municipal",
-    "jurisdiction": "London",
-    "category": "gov-services",
-    "type": "Collection schedule",
-    "description": "London ON's collection schedule page with address lookup and calendar for garbage, recycling and organics.",
-    "url": "https://london.ca/living-london/garbage-recycling/collection-calendar",
-    "tags": [
-      "municipal",
-      "waste",
-      "recycling",
-      "collection schedule",
-      "london"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Hamilton — Waste Collection Schedule",
-    "level": "Municipal",
-    "jurisdiction": "Hamilton",
-    "category": "gov-services",
-    "type": "Collection schedule",
-    "description": "Hamilton's page to find and download the waste collection schedule for your neighbourhood, plus a holiday calendar.",
-    "url": "https://www.hamilton.ca/home-neighbourhood/garbage-recycling/waste-collection-schedule",
-    "tags": [
-      "municipal",
-      "waste",
-      "recycling",
-      "collection schedule",
-      "hamilton"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "North Bay — Curbside Collection",
-    "level": "Municipal",
-    "jurisdiction": "North Bay",
-    "category": "gov-services",
-    "type": "Collection schedule",
-    "description": "North Bay's curbside collection page: zone-by-zone schedule table plus the North Bay Recycles app for address lookup and reminders.",
-    "url": "https://www.northbay.ca/services-payments/garbage-recycling/curbside-collection/",
-    "tags": [
-      "municipal",
-      "waste",
-      "recycling",
-      "collection schedule",
-      "north bay"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Guelph — Waste Collection Schedule",
-    "level": "Municipal",
-    "jurisdiction": "Guelph",
-    "category": "gov-services",
-    "type": "Collection schedule",
-    "description": "Guelph's waste collection schedule page with an embedded address-search calendar widget, plus the Guelph Waste reminders app.",
-    "url": "https://guelph.ca/living/environment/garbage-and-recycling/waste-collection-schedule/",
-    "tags": [
-      "municipal",
-      "waste",
-      "recycling",
-      "collection schedule",
-      "guelph"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Medicine Hat — Collection Schedule",
-    "level": "Municipal",
-    "jurisdiction": "Medicine Hat",
-    "category": "gov-services",
-    "type": "Collection schedule",
-    "description": "Medicine Hat's 2026 collection schedule with a zone map, the myMH address portal and Recycle Coach.",
-    "url": "https://www.medicinehat.ca/home-property-utilities/waste-collection/collection-schedule/",
-    "tags": [
-      "municipal",
-      "waste",
-      "recycling",
-      "collection schedule",
-      "medicine hat"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Edmonton Public Schools — Find a School Tool",
-    "level": "Municipal",
-    "jurisdiction": "Edmonton",
-    "category": "school-board",
-    "type": "School boundary lookup",
-    "description": "Edmonton Public Schools' address finder: enter a home address or drop a pin to find the designated elementary, junior high and high school for that address, with program and grade filters.",
-    "url": "https://www.epsb.ca/schools/findaschool/fast/",
-    "tags": [
-      "municipal",
-      "schools",
-      "school finder",
-      "edmonton"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Waterloo Region District School Board — School Boundary and Location Maps",
-    "level": "Regional",
-    "jurisdiction": "Waterloo",
-    "category": "school-board",
-    "type": "Boundary map",
-    "description": "WRDSB's school boundary and location maps: the home address determines which school a child attends, with current-year attendance boundary maps and a link to the School Eligibility lookup.",
-    "url": "https://www.wrdsb.ca/planning/school-boundary-and-location-maps/",
-    "tags": [
-      "regional",
-      "schools",
-      "boundary maps",
-      "waterloo"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Surrey School District — Find a School",
-    "level": "Municipal",
-    "jurisdiction": "Surrey",
-    "category": "school-board",
-    "type": "School boundary lookup",
-    "description": "Surrey School District's official school search with list and map views, filters for community, school year and program, and a warning when an address falls outside designated attendance areas.",
-    "url": "https://www.surreyschools.ca/find-a-school",
-    "tags": [
-      "municipal",
-      "schools",
-      "school finder",
-      "surrey"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Waterloo Region District School Board — School List",
-    "level": "Regional",
-    "jurisdiction": "Waterloo",
-    "category": "school-board",
-    "type": "School directory",
-    "description": "WRDSB's full school directory with each school's street address, phone and map link, plus direct links to the School Finder eligibility lookup and the boundary maps.",
-    "url": "https://www.wrdsb.ca/our-schools/schools/",
-    "tags": [
-      "regional",
-      "schools",
-      "school directory",
-      "waterloo"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Thames Valley District School Board — Find My Local School",
-    "level": "Regional",
-    "jurisdiction": "Ontario",
-    "category": "school-board",
-    "type": "School boundary lookup",
-    "description": "Thames Valley DSB's Find My Local School page: the district's area across Elgin, Middlesex and Oxford counties is divided into attendance areas, and residents enter their address in the school locator to find theirs.",
-    "url": "https://www.tvdsb.ca/schools/find-my-local-school",
-    "tags": [
-      "regional",
-      "schools",
-      "school finder",
-      "thames valley",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Conseil scolaire acadien provincial — Trouver une école",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "school-board",
-    "type": "School boundary lookup",
-    "description": "Nova Scotia's only French-language school board tells parents to determine their child's school using their civic address and links the Trouver mon école lookup, alongside its schools and preschool sites.",
-    "url": "https://csap.ca/ecoles/trouver-une-ecole",
-    "tags": [
-      "provincial",
-      "schools",
-      "school finder",
-      "french",
-      "nova scotia"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Wellington Catholic District School Board — School Boundary and Accommodations",
-    "level": "Regional",
-    "jurisdiction": "Guelph",
-    "category": "school-board",
-    "type": "Boundary map",
-    "description": "Wellington Catholic DSB's boundary page linking an interactive boundary map for the Catholic district covering Guelph and surrounding townships, with attendance area review documents and the board's school list.",
-    "url": "https://www.wellingtoncdsb.ca/schools/school_boundary_and_accommodations",
-    "tags": [
-      "regional",
-      "schools",
-      "boundary maps",
-      "guelph",
-      "wellington"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Centre de services scolaire du Centre-Est — Trouver une école",
-    "level": "Regional",
-    "jurisdiction": "Ontario",
-    "category": "school-board",
-    "type": "Boundary map",
-    "description": "French-language school finder for the Centre-Est school service centre, offering a general boundary map plus individual maps for its schools so a resident can locate the school whose territory covers their address.",
-    "url": "https://centreest.ca/ecoles-du-csce/trouver-une-ecole/",
-    "tags": [
-      "regional",
-      "schools",
-      "boundary maps",
-      "french"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
-    "name": "Vancouver School Board — Your School Catchment",
-    "level": "Municipal",
-    "jurisdiction": "Vancouver",
-    "category": "school-board",
-    "type": "Boundary map",
-    "description": "Vancouver School Board's official catchment page explaining school catchment boundaries in Vancouver and how to find which catchment a home address falls in. Complements the catalog's VSB school directory entry.",
-    "url": "https://www.vsb.bc.ca/your-school-catchment",
-    "tags": [
-      "municipal",
-      "schools",
-      "catchment",
-      "vancouver"
-    ],
-    "dateAdded": "2026-10-06"
   }
 ]

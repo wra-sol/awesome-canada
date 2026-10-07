@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2053 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2051 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -56,7 +56,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 65
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 54
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 33
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 31
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 82
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 25
@@ -3392,8 +3392,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario — Map of Ontario Treaties and Reserves | Ontario · Provincial | Interactive map | Search an interactive map to find which of Ontario's 40+ treaties covers any location and click reserves to learn about First Nation communities. | https://www.ontario.ca/page/map-ontario-treaties-and-reserves |
-| Six Nations of the Grand River — General Council Meetings and Minutes | Ontario · Provincial | Council records | Agendas, minutes and decisions of the elected General Council of Six Nations of the Grand River (Ontario) — an Indigenous government transparency record for members, citizens and accountability researchers. | https://www.sixnations.ca/general-council-meetings-minutes/ |
-| Six Nations of the Grand River — Land Claims | Ontario · Provincial | Land claims hub | Land claims and legal file hub for the Six Nations of the Grand River First Nation (Ontario), covering ongoing land claims and treaty history — for members, researchers and students of First Nations law. | https://www.sixnations.ca/land-claims/ |
 
 ### Quebec
 
