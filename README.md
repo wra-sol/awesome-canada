@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2067 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2073 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -30,7 +30,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
 - [🪪 Government Services & ID](#government-services-and-id) — 89
-- [💰 Taxes & Revenue](#taxes-and-revenue) — 30
+- [💰 Taxes & Revenue](#taxes-and-revenue) — 36
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 51
 - [💼 Employment & Labour](#employment-and-labour) — 40
@@ -996,7 +996,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Property Transfer Tax Calculator | British Columbia · Provincial | Calculator | Calculate the provincial property transfer tax due when buying property or acquiring land in British Columbia | https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax |
 | British Columbia — Speculation and Vacancy Tax | British Columbia · Provincial | Tax portal | Annual speculation and vacancy tax for residential property owners in designated BC taxable areas: declare online, check taxable areas with an interactive map, exemptions and tax credits. | https://www2.gov.bc.ca/gov/content/taxes/speculation-vacancy-tax |
+| Burnaby — Residential Property Tax Estimator | Burnaby · Municipal | Calculator | Class 1 estimator that multiplies an entered assessed value by the combined Burnaby mill rate (including the Infrastructure Growth Levy) and the rates of other taxing authorities, projected for 2026. Directs assessment queries to BC Assessment. | https://www.burnaby.ca/services-and-payments/property-taxes/tax-estimator-residential |
 | Vancouver Property Tax Calculator | Vancouver · Municipal | Calculator | Estimate your annual property tax in Vancouver based on assessed value and property classification | https://vancouver.ca/home-property-development/property-taxes-and-assessments.aspx |
+| Victoria — Property Tax Estimator | Victoria · Municipal | Calculator | Estimator split into Residential and Business streams; enter an assessed value from a tax or assessment notice and it returns a breakdown of the tax amounts. Rates are per $1,000 of assessment; properties above $3M may attract Additional School Tax. | https://www.victoria.ca/home-property/property-taxes/property-tax-estimator |
 
 ### Alberta
 
@@ -1005,6 +1007,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Calgary — Assessment Search (myTax) | Calgary · Municipal | Property assessment search | Look up City of Calgary property assessments by address or roll number, review value history, and access detailed assessment and tax tools via secure login. | https://assessmentsearch.calgary.ca/ |
 | Calgary — Property Tax Calculator | Calgary · Municipal | Calculator | Estimate and breakdown of Calgary property taxes from assessed value, split between municipal and education shares. | https://www.calgary.ca/property-owners/taxes/calculator.html |
 | Edmonton — MyProperty | Edmonton · Municipal | Property assessment and tax portal | See what makes up your Edmonton property's assessed value, compare it with similar properties in your neighbourhood, and view your tax account details. | https://myproperty.edmonton.ca/ |
+
+### Saskatchewan
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Saskatoon — Property Assessment & Tax Tool | Saskatoon · Municipal | Lookup tool | Address-keyed lookup returning a property's current and previous assessed values, current and historical tax figures, a service-by-service allocation of the municipal property tax charge, and neighbouring property records. Reflects the 2025 provincially legislated reassessment; figures update each May. | https://www.saskatoon.ca/services-residents/myproperty/assessment/property-assessment-tax-tool |
 
 ### Manitoba
 
@@ -1018,6 +1026,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Cambridge — Property Tax & Assessment Lookup | Cambridge · Municipal | Lookup tool | Look up a property's five-year tax and assessment history, current installment amounts, request a tax certificate or check account status online. | https://online.cambridge.ca/taxservice/TaxInfo.aspx |
+| Hamilton — Tax Calculator | Hamilton · Municipal | Calculator | Takes an address or tax roll number, or an MPAC assessment value, and returns how that property's tax charge is allocated across City services. Ontario's system is a revenue-funding model rather than a per-service fee, so the split is illustrative. | https://www.hamilton.ca/home-neighbourhood/property-taxes/understanding-property-tax/tax-calculator |
+| Hamilton — Tax Impact Mapping | Hamilton · Municipal | Mapping tool | Free mapping service, address-searchable, showing where citywide property taxes have risen and fallen, with per-property assessment values, total property taxes, any capping amount, and the dollar and percentage change over time. | https://www.hamilton.ca/home-neighbourhood/property-taxes/understanding-property-tax/tax-impact-mapping |
 | Mississauga Property Tax Calculator | Mississauga · Municipal | Calculator | Calculate your annual property tax bill in Mississauga based on your property's assessed value | https://www.mississauga.ca/portal/residents/propertytax |
 | Ottawa — Property Tax Estimator | Ottawa · Municipal | Calculator | City of Ottawa online estimator that projects total annual property taxes from assessment value based on selected area and municipal services. | https://propertytaxes-taxesfoncieres.ottawa.ca/en?t=taxestimator |
 | Toronto — Property Tax Calculator | Toronto · Municipal | Calculator | Instant estimate of Toronto residential property taxes from purchase price or MPAC assessed value. | https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-calculator/ |
@@ -1031,6 +1041,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Revenu Québec — Mon dossier | Quebec · Provincial | Secure portal | Quebec's tax portal for personal and business returns, refunds, and notices | https://www.revenuquebec.ca/en/online-services/online-services |
 | Montréal — Evalweb property assessment rolls | Montreal · Municipal | Property assessment search | Look up any property's assessment roll in the Montreal agglomeration by address, lot number or registration number: owner, lot surface, and assessed value of building, lot and property. | https://montreal.ca/en/how-to/check-property-assessment-rolls |
 | Montréal — Municipal tax account (Compte de taxes) | Montreal · Municipal | Property tax account tool | View copies of your Montreal municipal tax account statements (current and past 2 years) by tax account number or address, and check your tax account balance online. | https://montreal.ca/en/how-to/view-copy-your-tax-account |
+| Québec — Rôles d'évaluation 2025 à 2027 | Quebec City · Municipal | Assessment roll search | Address-keyed search over Quebec City's current municipal assessment roll (2025–2027 cycle), the roll every property tax charge is computed from. The roll is also consultable in person at the Service de l'évaluation. | https://www.ville.quebec.qc.ca/citoyens/taxes_evaluation/evaluation_fonciere/role/index.aspx |
 
 ## 🏦 Finance, Banking & Economy
 

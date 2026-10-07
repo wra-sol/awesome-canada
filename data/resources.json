@@ -32281,5 +32281,104 @@
       "winnipeg"
     ],
     "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Saskatoon — Property Assessment & Tax Tool",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "taxes",
+    "type": "Lookup tool",
+    "description": "Address-keyed lookup returning a property's current and previous assessed values, current and historical tax figures, a service-by-service allocation of the municipal property tax charge, and neighbouring property records. Reflects the 2025 provincially legislated reassessment; figures update each May.",
+    "url": "https://www.saskatoon.ca/services-residents/myproperty/assessment/property-assessment-tax-tool",
+    "tags": [
+      "municipal",
+      "property tax",
+      "assessment",
+      "lookup",
+      "saskatoon"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Québec — Rôles d'évaluation 2025 à 2027",
+    "level": "Municipal",
+    "jurisdiction": "Quebec City",
+    "category": "taxes",
+    "type": "Assessment roll search",
+    "description": "Address-keyed search over Quebec City's current municipal assessment roll (2025–2027 cycle), the roll every property tax charge is computed from. The roll is also consultable in person at the Service de l'évaluation.",
+    "url": "https://www.ville.quebec.qc.ca/citoyens/taxes_evaluation/evaluation_fonciere/role/index.aspx",
+    "tags": [
+      "municipal",
+      "property tax",
+      "assessment roll",
+      "french",
+      "quebec city"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Hamilton — Tax Calculator",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Takes an address or tax roll number, or an MPAC assessment value, and returns how that property's tax charge is allocated across City services. Ontario's system is a revenue-funding model rather than a per-service fee, so the split is illustrative.",
+    "url": "https://www.hamilton.ca/home-neighbourhood/property-taxes/understanding-property-tax/tax-calculator",
+    "tags": [
+      "municipal",
+      "property tax",
+      "calculator",
+      "hamilton"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Burnaby — Residential Property Tax Estimator",
+    "level": "Municipal",
+    "jurisdiction": "Burnaby",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Class 1 estimator that multiplies an entered assessed value by the combined Burnaby mill rate (including the Infrastructure Growth Levy) and the rates of other taxing authorities, projected for 2026. Directs assessment queries to BC Assessment.",
+    "url": "https://www.burnaby.ca/services-and-payments/property-taxes/tax-estimator-residential",
+    "tags": [
+      "municipal",
+      "property tax",
+      "estimator",
+      "burnaby"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Hamilton — Tax Impact Mapping",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "taxes",
+    "type": "Mapping tool",
+    "description": "Free mapping service, address-searchable, showing where citywide property taxes have risen and fallen, with per-property assessment values, total property taxes, any capping amount, and the dollar and percentage change over time.",
+    "url": "https://www.hamilton.ca/home-neighbourhood/property-taxes/understanding-property-tax/tax-impact-mapping",
+    "tags": [
+      "municipal",
+      "property tax",
+      "mapping",
+      "assessment",
+      "hamilton"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Victoria — Property Tax Estimator",
+    "level": "Municipal",
+    "jurisdiction": "Victoria",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Estimator split into Residential and Business streams; enter an assessed value from a tax or assessment notice and it returns a breakdown of the tax amounts. Rates are per $1,000 of assessment; properties above $3M may attract Additional School Tax.",
+    "url": "https://www.victoria.ca/home-property/property-taxes/property-tax-estimator",
+    "tags": [
+      "municipal",
+      "property tax",
+      "estimator",
+      "victoria"
+    ],
+    "dateAdded": "2026-10-07"
   }
 ]
