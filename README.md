@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2073 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2088 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,13 +26,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 ## Table of Contents
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 218
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 99
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 103
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
 - [🪪 Government Services & ID](#government-services-and-id) — 89
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 36
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
-- [🏢 Business & Procurement](#business-and-procurement) — 51
+- [🏢 Business & Procurement](#business-and-procurement) — 59
 - [💼 Employment & Labour](#employment-and-labour) — 40
 - [🎓 Education & Student Aid](#education-and-student-aid) — 36
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 56
@@ -53,9 +53,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 54
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 44
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 65
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 66
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 54
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 36
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 38
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 31
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 98
@@ -340,6 +340,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Abbotsford — Property Information Search | Abbotsford · Municipal | Lookup tool | Address-based parcel lookup for the City of Abbotsford. Entering an address returns a public summary covering building permits, business licences, assessments, zoning and development information, and service record cards — the quickest way for a resident to see what permits exist on a property. | https://www.abbotsford.ca/buildingpermits/property-information-search |
 | Abbotsford — WebMap | Abbotsford · Municipal | Interactive map | View properties with zoning, land use, lot area, air photos and utility layers; measure and draw graphics, print or export to PDF, and get property reports. | https://www.abbotsford.ca/city-services/mapping-data-analytics/webmap |
 | Abbotsford Development Data — Development Application Tracker | Abbotsford · Municipal | Dataset | Live searchable reporting system tracking development activity in Abbotsford — covers development variance permits (in progress, issued current/previous year, with approval in principle), instream development applications, rezoning applications (at 3rd reading, in progress, final approval current/previous year), and subdivision applications (in progress, final approval, preliminary layout approvals). Each report lists application details, addresses, and status; export results to CSV, Excel, or PDF. Useful for monitoring construction, land use change, and development trends without filing a FOI request. | https://www.abbotsford.ca/developmentdata |
 | Coquitlam Planning and Development Open Data | Coquitlam · Municipal | Planning datasets | Zoning, development permit areas, neighbourhood plans, and planning boundaries for Coquitlam — download via ArcGIS Hub. | https://data.coquitlam.ca/datasets/Coquitlam::planning-and-development-1 |
@@ -362,6 +363,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Calgary — Development Map (DMap) | Calgary · Municipal | Development application map | Search Calgary development permits and land-use redesignations by address, permit number or community, view proposals in 3D, and comment on applications. | https://dmap.calgary.ca/ |
+| Calgary — Noise Exemption Permit | Calgary · Municipal | Permit application | How to apply for a Calgary noise exemption permit for construction or demolition work outside permitted hours, with the application route and fees. | https://www.calgary.ca/bylaws/noise-exemption-permit.html |
+| Calgary — Permit Application Search | Calgary · Municipal | Permit search | Calgary's Development Map route for searching land use and development permit applications by address, and how the permit application process works through it — the address-keyed way to see what is being built or changed on a property. | https://www.calgary.ca/development/permits/permit-application-search.html |
 | Calgary Building Permits | Calgary · Municipal | Building permits dataset | Search and download building permit records from Open Calgary — filter by date, community, and permit type with API access. | https://data.calgary.ca/browse?category=Building+Permits |
 | Edmonton Development Permits Open Data | Edmonton · Municipal | Development permits | Development permit records on the Edmonton Open Data Portal — search by community, permit type, and status with Socrata API export. | https://data.edmonton.ca/browse?category=Planning+%26+Development |
 | Edmonton Zoning Map — Development Permits | Edmonton · Municipal | Development permit map | Interactive zoning map layer showing development permit applications with applicant, location, and job description fields. | https://gis.edmonton.ca/site1/rest/services/VertiGIS/ZoningMap/MapServer |
@@ -407,6 +410,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Hamilton Building Permits Open Data | Hamilton · Municipal | Building permits dataset | Issued building permits and related planning datasets on Open Hamilton — filter, map, and download via ArcGIS Hub. | https://open.hamilton.ca/datasets?q=building%20permit |
 | Hamilton Development Applications Open Data | Hamilton · Municipal | Development applications | Active development applications and planning status layers published on the City of Hamilton open data portal. | https://open.hamilton.ca/datasets?q=development%20application |
 | Kingston Building Permits — ArcGIS Hub | Kingston · Municipal | Dataset | Geocoded building permit dataset for City of Kingston showing active permits (last 3 years) and closed permits (last 18 months) with addresses, permit values, project descriptions, and status. Download as GeoJSON or explore on interactive map — useful for tracking construction activity and development in specific neighbourhoods. | https://maps-cityofkingston.hub.arcgis.com/datasets/cityofkingston::building-permits/about |
+| Kitchener — Active Permits and Interactive Mapping | Kitchener · Municipal | Permit mapping | Explains the two ways to see Kitchener's building permits — an online permit system and an interactive map with Current and Historic Building Permits layers, refreshed daily. It walks through opening the property viewer, toggling the layer, searching an address and reading permit details from the property popup. | https://www.kitchener.ca/development-and-construction/building-permits/active-permits-and-interactive-mapping/ |
 | Kitchener — OnPoint Interactive Mapping | Kitchener · Municipal | Interactive map | One-stop GIS viewer: look up zoning, active building permits, traffic closures, city-owned water/storm/sewer infrastructure, trails, bikeways and parks with aerial imagery. | https://maps.kitchener.ca/OnPointExternal/RMap/Default.aspx |
 | Markham — Interactive Zoning Map | Markham · Municipal | Interactive map | Search any Markham address to view zoning designations under the Comprehensive Zoning By-Law. Interactive ArcGIS Experience app showing permitted uses, development standards, and appeal status. | https://experience.arcgis.com/experience/c0f5d5fa61004716b88adbc0c804614a |
 | Markham — MappiT Development Application Viewer | Markham · Municipal | Interactive map | Look up development applications and tree removal permits by address, status, ward or application type, with detail, map and results tally views. | https://markham.maps.arcgis.com/apps/dashboards/891da101b4a348859874886aeef70d79 |
@@ -1137,6 +1141,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Intellectual Property Office (CIPO) | Canada · Federal | Service | Search and apply for patents, trademarks, copyrights, and industrial designs in Canada | https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en |
 | Canadian Patents Database | Canada · Federal | Search tool | Search over 2.6 million Canadian patent documents from 1869 to the present, with full-text and images, maintained by CIPO. | https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html |
 | Canadian Trademarks Database | Canada · Federal | Search tool | CIPO's searchable database of more than 1.4 million Canadian trademarks registered from 1865 to the present, updated weekly. | https://ised-isde.canada.ca/cipo/trademark-search/srch |
+| CBSA — Licensed Customs Brokers | Canada · Federal | Licence register | The federal licensing page for customs brokers, with the public list of licensed brokers a business can use to check that a broker actually holds a licence, plus how brokers may act for importers and exporters. It explains the April 2024 move to national licensing and where to file a complaint about a broker or report someone acting as one without a licence. | https://www.cbsa-asfc.gc.ca/services/cb-cd/menu-eng.html |
 | CFIA — Automated Import Reference System (AIRS) | Canada · Federal | Import tool | Question-and-answer tool that walks importers through the exact CFIA requirements, documents and HS codes for bringing food, plants and animals into Canada. | https://inspection.canada.ca/en/importing-food-plants-animals/airs |
 | CIPO — Canadian Copyrights Database | Canada · Federal | Searchable database | Search Canadian copyright registrations from 1991 onward by title, owner name, or registration number and view registration details. | https://www.ic.gc.ca/app/opic-cipo/cpyrghts/dsplySrch.do?lang=eng |
 | CIPO — Canadian Industrial Designs Database | Canada · Federal | Searchable IP database | Search all registered Canadian industrial designs by title, owner, classification, or registration date, with drawings and status for each design. | https://www.ic.gc.ca/app/opic-cipo/id/bscSrch.do?lang=eng |
@@ -1167,6 +1172,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Bid — Provincial Procurement | British Columbia · Provincial | Procurement | BC's electronic tendering portal for public-sector opportunities across the province | https://www.bcbid.gov.bc.ca/ |
 | BC Business Registry — Corporate Online | British Columbia · Provincial | Business registry | Search BC corporate records, register a new business, and file annual reports through BC Corporate Online | https://www.corporateonline.gov.bc.ca/ |
 | OrgBook BC | British Columbia · Provincial | Registry search | Public verifiable-credential directory from BC Registries to confirm a business is legally incorporated and in good standing, with API access. | https://orgbook.gov.bc.ca/ |
+| Abbotsford — Business Licences | Abbotsford · Municipal | Licensing hub | Business licensing hub covering which trades need a licence and what each category covers, with online new applications, annual renewals, and a licence inquiry route. It also spells out the rules businesses hit most often — 12-month validity, a $130 base fee, non-transferable licences, and what to do when a business moves, changes hands, or closes. | https://www.abbotsford.ca/business-development/business-licences |
+| Vernon — Business Licence Search | British Columbia · Municipal | Licence search | Keyword search across Vernon's issued business licences. Filter on business name, business type, street address or date issued, or search with no criteria to browse the whole list. Short-term rental licences are withheld under freedom-of-information limits. | https://www.vernon.ca/business/business-licences-permits/business-licence-search |
+| Nanaimo — Business Licence Search | Nanaimo · Municipal | Licence search | Nanaimo's issued business licence register, searchable five ways: by address, by month issued, by product or service, by industry sector, or by keyword — plus a view-all tab. One of the few BC municipalities publishing a public lookup of licences already issued. | https://www.nanaimo.ca/business_report/ |
 
 ### Alberta
 
@@ -1195,6 +1203,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario Business Account | Ontario · Provincial | Service portal | Single dashboard (launched Feb 2026) for Ontario businesses to register, link their Ontario Business Registry profile, manage filings, and see all government messages in one place. | https://www.ontario.ca/page/ontario-business-account |
 | Ontario Business Registry | Ontario · Provincial | Business registry | Register, search, and manage Ontario business names, corporations, and partnerships online | https://www.ontario.ca/page/ontario-business-registry |
+| Kitchener — Business Licences | Kitchener · Municipal | Licensing hub | Business licensing page for Kitchener covering which business categories need a licence, the general conditions (non-refundable fees, multiple licences per business, March 31 expiry), online apply and renew, three-to-four week processing, and related licensing such as AGCO liquor non-objection letters. | https://www.kitchener.ca/business-in-kitchener/licences/business-licences/ |
+| Waterloo — Get a Business Licence | Waterloo · Municipal | Licence application | Waterloo's business licence application page: every licence type with its requirements and fee, the mandatory documents (owner authorization letter, insurance certificate, proof of business status, photo ID, corporate profile report), criminal record checks where required, and the portal route for applying and renewing annually. Processing can run up to eight weeks. | https://www.waterloo.ca/business-support/get-a-business-licence-or-permit/get-a-business-licence/ |
+| Waterloo — Renew Your Rental Licence | Waterloo · Municipal | Licence renewal | The renewal half of Waterloo's rental licensing: annual renewal for both short-term and long-term licences, the first renewal on March 31 and then a street-name-based cycle, prorated first fees, and the document tables for each licence class including the gas and oil appliance inspection forms. | https://www.waterloo.ca/building-and-renovating/residential-rental-licences/renew-your-rental-licence/ |
+| Waterloo — Short-Term Rental Licence | Waterloo · Municipal | Licence application | Licensing route for renting a home for 30 days or less, including on Airbnb and VRBO. Sets out which property types are covered, the owner-occupancy rule, the Class B and Class S licence classes, and a table of required documents per class and situation, with new requirements flagged from July 1 2026. Short-term rental platforms also need their own business licence. | https://www.waterloo.ca/building-and-renovating/residential-rental-licences/get-a-short-term-rental-licence/ |
 
 ### Quebec
 
@@ -3152,6 +3164,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | WorkplaceNL — Certification Training Registry (CTR) Course Marketplace | Newfoundland and Labrador · Provincial | Lookup tool | Search the marketplace of WorkplaceNL-approved OHS training providers and courses, with workers' certification records stored electronically. | https://ctr.bluedrop.io/ |
 | Department of Natural Resources — BurnSafe Fire Restrictions | Nova Scotia · Provincial | Dashboard | Daily county-level burn ban map and table (updated 2pm in wildfire season): no-burn, restricted, or allowed hours. Check before campfires or brush burning. | https://novascotia.ca/burnsafe/ |
 | Nova Scotia Department of Emergency Management | Nova Scotia · Provincial | Department page | The department responsible for coordinating provincial emergency planning, preparedness, response and recovery, issuing timely emergency alerts and information, and supporting municipal emergency organizations; also houses the Office of the Fire Marshal. | https://novascotia.ca/government/emergency-management |
+| Halifax — Alarm Registration | Halifax · Municipal | Registration | Halifax alarm registration: property owners and businesses register and renew burglar and fire alarm systems, check registration details, and find the bylaw and false-alarm process. | https://www.halifax.ca/home-property/building-development-permits/alarm-registration |
 | Halifax — Police Crime Mapping | Halifax · Municipal | Interactive crime map | See recent Halifax crimes on a map updated daily — search five crime types by street name or community for the last day, four days or week. | https://www.halifax.ca/safety-security/police/crime-mapping |
 | Halifax Emergency Management | Halifax · Municipal | Municipal emergency hub | Halifax Regional Municipality's emergency hub: municipal emergency notification signup by text, email or phone, a three-step preparedness guide with a fillable Home Emergency Plan, and the Voluntary Vulnerable Persons Registry for residents needing extra support. | https://www.halifax.ca/safety-security/emergency-management |
 
@@ -3291,6 +3304,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| AGLC — Cannabis Licensee Search | Alberta · Provincial | Licence search | Alberta's gaming regulator publishes every licensed retail cannabis store in the province in one searchable table. You look up a retailer by name or city, and a column flags which stores sell online; the page also links out to the federal list of licensed producers. | https://www.aglc.ca/cannabis/retail-cannabis/cannabis-licensee-search |
+| AGLC — Gaming Registrants | Alberta · Provincial | Public register | Public register of Alberta gaming registration holders — casinos, iGaming operators, gaming and terminal suppliers, and advisors. Each entry gives the licence number, expiry date, gaming stream and class of registration, so a resident or business can check whether an operator or supplier is properly registered and whether its registration has lapsed. | https://www.aglc.ca/gaming-registrants |
 | Alberta Ombudsman | Alberta · Provincial | Ombudsman | Investigates complaints of unfair treatment by Alberta government authorities and designated professional organizations | https://www.ombudsman.ab.ca/ |
 | Consumer Protection Alberta — Service Alberta | Alberta · Provincial | Resources | Alberta consumer protection information, complaints, and business licensing | https://www.alberta.ca/consumer-protection |
 | OIPC Alberta | Alberta · Provincial | Regulator | Alberta's Information and Privacy Commissioner — access to information reviews and privacy breach reports | https://oipc.ab.ca/ |

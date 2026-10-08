@@ -32380,5 +32380,252 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "AGLC — Cannabis Licensee Search",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "consumer",
+    "type": "Licence search",
+    "description": "Alberta's gaming regulator publishes every licensed retail cannabis store in the province in one searchable table. You look up a retailer by name or city, and a column flags which stores sell online; the page also links out to the federal list of licensed producers.",
+    "url": "https://www.aglc.ca/cannabis/retail-cannabis/cannabis-licensee-search",
+    "tags": [
+      "provincial",
+      "cannabis",
+      "licence search",
+      "alberta",
+      "aglc"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "AGLC — Gaming Registrants",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "consumer",
+    "type": "Public register",
+    "description": "Public register of Alberta gaming registration holders — casinos, iGaming operators, gaming and terminal suppliers, and advisors. Each entry gives the licence number, expiry date, gaming stream and class of registration, so a resident or business can check whether an operator or supplier is properly registered and whether its registration has lapsed.",
+    "url": "https://www.aglc.ca/gaming-registrants",
+    "tags": [
+      "provincial",
+      "gaming",
+      "register",
+      "licence",
+      "alberta",
+      "aglc"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Abbotsford — Property Information Search",
+    "level": "Municipal",
+    "jurisdiction": "Abbotsford",
+    "category": "planning-zoning",
+    "type": "Lookup tool",
+    "description": "Address-based parcel lookup for the City of Abbotsford. Entering an address returns a public summary covering building permits, business licences, assessments, zoning and development information, and service record cards — the quickest way for a resident to see what permits exist on a property.",
+    "url": "https://www.abbotsford.ca/buildingpermits/property-information-search",
+    "tags": [
+      "municipal",
+      "property",
+      "permits",
+      "lookup",
+      "abbotsford"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Abbotsford — Business Licences",
+    "level": "Municipal",
+    "jurisdiction": "Abbotsford",
+    "category": "business",
+    "type": "Licensing hub",
+    "description": "Business licensing hub covering which trades need a licence and what each category covers, with online new applications, annual renewals, and a licence inquiry route. It also spells out the rules businesses hit most often — 12-month validity, a $130 base fee, non-transferable licences, and what to do when a business moves, changes hands, or closes.",
+    "url": "https://www.abbotsford.ca/business-development/business-licences",
+    "tags": [
+      "municipal",
+      "business licence",
+      "apply",
+      "renew",
+      "abbotsford"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Nanaimo — Business Licence Search",
+    "level": "Municipal",
+    "jurisdiction": "Nanaimo",
+    "category": "business",
+    "type": "Licence search",
+    "description": "Nanaimo's issued business licence register, searchable five ways: by address, by month issued, by product or service, by industry sector, or by keyword — plus a view-all tab. One of the few BC municipalities publishing a public lookup of licences already issued.",
+    "url": "https://www.nanaimo.ca/business_report/",
+    "tags": [
+      "municipal",
+      "business licence",
+      "search",
+      "nanaimo"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Vernon — Business Licence Search",
+    "level": "Municipal",
+    "jurisdiction": "British Columbia",
+    "category": "business",
+    "type": "Licence search",
+    "description": "Keyword search across Vernon's issued business licences. Filter on business name, business type, street address or date issued, or search with no criteria to browse the whole list. Short-term rental licences are withheld under freedom-of-information limits.",
+    "url": "https://www.vernon.ca/business/business-licences-permits/business-licence-search",
+    "tags": [
+      "municipal",
+      "business licence",
+      "search",
+      "vernon"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Kitchener — Active Permits and Interactive Mapping",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "planning-zoning",
+    "type": "Permit mapping",
+    "description": "Explains the two ways to see Kitchener's building permits — an online permit system and an interactive map with Current and Historic Building Permits layers, refreshed daily. It walks through opening the property viewer, toggling the layer, searching an address and reading permit details from the property popup.",
+    "url": "https://www.kitchener.ca/development-and-construction/building-permits/active-permits-and-interactive-mapping/",
+    "tags": [
+      "municipal",
+      "building permits",
+      "mapping",
+      "kitchener"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Kitchener — Business Licences",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "business",
+    "type": "Licensing hub",
+    "description": "Business licensing page for Kitchener covering which business categories need a licence, the general conditions (non-refundable fees, multiple licences per business, March 31 expiry), online apply and renew, three-to-four week processing, and related licensing such as AGCO liquor non-objection letters.",
+    "url": "https://www.kitchener.ca/business-in-kitchener/licences/business-licences/",
+    "tags": [
+      "municipal",
+      "business licence",
+      "apply",
+      "renew",
+      "kitchener"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Waterloo — Get a Business Licence",
+    "level": "Municipal",
+    "jurisdiction": "Waterloo",
+    "category": "business",
+    "type": "Licence application",
+    "description": "Waterloo's business licence application page: every licence type with its requirements and fee, the mandatory documents (owner authorization letter, insurance certificate, proof of business status, photo ID, corporate profile report), criminal record checks where required, and the portal route for applying and renewing annually. Processing can run up to eight weeks.",
+    "url": "https://www.waterloo.ca/business-support/get-a-business-licence-or-permit/get-a-business-licence/",
+    "tags": [
+      "municipal",
+      "business licence",
+      "apply",
+      "waterloo"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Waterloo — Short-Term Rental Licence",
+    "level": "Municipal",
+    "jurisdiction": "Waterloo",
+    "category": "business",
+    "type": "Licence application",
+    "description": "Licensing route for renting a home for 30 days or less, including on Airbnb and VRBO. Sets out which property types are covered, the owner-occupancy rule, the Class B and Class S licence classes, and a table of required documents per class and situation, with new requirements flagged from July 1 2026. Short-term rental platforms also need their own business licence.",
+    "url": "https://www.waterloo.ca/building-and-renovating/residential-rental-licences/get-a-short-term-rental-licence/",
+    "tags": [
+      "municipal",
+      "short-term rental",
+      "licence",
+      "waterloo"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Waterloo — Renew Your Rental Licence",
+    "level": "Municipal",
+    "jurisdiction": "Waterloo",
+    "category": "business",
+    "type": "Licence renewal",
+    "description": "The renewal half of Waterloo's rental licensing: annual renewal for both short-term and long-term licences, the first renewal on March 31 and then a street-name-based cycle, prorated first fees, and the document tables for each licence class including the gas and oil appliance inspection forms.",
+    "url": "https://www.waterloo.ca/building-and-renovating/residential-rental-licences/renew-your-rental-licence/",
+    "tags": [
+      "municipal",
+      "rental licence",
+      "renewal",
+      "waterloo"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "CBSA — Licensed Customs Brokers",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Licence register",
+    "description": "The federal licensing page for customs brokers, with the public list of licensed brokers a business can use to check that a broker actually holds a licence, plus how brokers may act for importers and exporters. It explains the April 2024 move to national licensing and where to file a complaint about a broker or report someone acting as one without a licence.",
+    "url": "https://www.cbsa-asfc.gc.ca/services/cb-cd/menu-eng.html",
+    "tags": [
+      "federal",
+      "customs brokers",
+      "licence",
+      "cbsa"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Calgary — Permit Application Search",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "planning-zoning",
+    "type": "Permit search",
+    "description": "Calgary's Development Map route for searching land use and development permit applications by address, and how the permit application process works through it — the address-keyed way to see what is being built or changed on a property.",
+    "url": "https://www.calgary.ca/development/permits/permit-application-search.html",
+    "tags": [
+      "municipal",
+      "development permits",
+      "search",
+      "calgary"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Calgary — Noise Exemption Permit",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "planning-zoning",
+    "type": "Permit application",
+    "description": "How to apply for a Calgary noise exemption permit for construction or demolition work outside permitted hours, with the application route and fees.",
+    "url": "https://www.calgary.ca/bylaws/noise-exemption-permit.html",
+    "tags": [
+      "municipal",
+      "noise",
+      "permit",
+      "calgary"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Halifax — Alarm Registration",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "safety",
+    "type": "Registration",
+    "description": "Halifax alarm registration: property owners and businesses register and renew burglar and fire alarm systems, check registration details, and find the bylaw and false-alarm process.",
+    "url": "https://www.halifax.ca/home-property/building-development-permits/alarm-registration",
+    "tags": [
+      "municipal",
+      "alarm",
+      "registration",
+      "halifax",
+      "safety"
+    ],
+    "dateAdded": "2026-10-08"
   }
 ]
