@@ -9342,6 +9342,22 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Elections Alberta — Official Election Results",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "elections",
+    "type": "Election results portal",
+    "description": "Standalone official results database: pick an election event, then read vote totals, turnout and seats won per electoral division from server-rendered tables.",
+    "url": "https://results.elections.ab.ca/",
+    "tags": [
+      "provincial",
+      "elections",
+      "official results",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
     "name": "Elections Alberta — Register to Vote",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -9385,6 +9401,23 @@
     ]
   },
   {
+    "name": "Elections BC — 2026 General Local Elections",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "elections",
+    "type": "Elections portal",
+    "description": "Main voter hub for BC's October 2026 local general elections, gathering who can vote, registration, voting options, candidates and results in one place.",
+    "url": "https://elections.bc.ca/local-elections/2026-general-local-elections/",
+    "tags": [
+      "provincial",
+      "elections",
+      "local elections",
+      "voter hub",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
     "name": "Elections BC — Find Your District",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -9399,6 +9432,23 @@
       "british columbia"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Elections BC — Local Candidate Information",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "Directory of declared candidates contesting BC's 2026 local general elections, with contact and filing details published by Elections BC.",
+    "url": "https://elections.bc.ca/local-elections/local-candidates/candidate-information/",
+    "tags": [
+      "provincial",
+      "elections",
+      "candidates",
+      "local elections",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-07"
   },
   {
     "name": "Elections BC — Online Voter Registration",
@@ -9684,6 +9734,23 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Élections Québec — Provincial General Elections Live Results",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "elections",
+    "type": "Election results portal",
+    "description": "Real-time unofficial vote totals by constituency during election night, published by Quebec's chief electoral officer.",
+    "url": "https://www.electionsquebec.qc.ca/en/results-and-statistics/provincial-general-elections-live-results/",
+    "tags": [
+      "provincial",
+      "elections",
+      "live results",
+      "election night",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
     "name": "Élections Québec — Québec Electoral Map",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -9716,6 +9783,23 @@
     ]
   },
   {
+    "name": "Élections Québec — Results by Polling Station",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "elections",
+    "type": "Results database",
+    "description": "Official Quebec election results broken down to individual polling stations rather than only to constituency, a finer grain than most provincial results tools offer.",
+    "url": "https://www.electionsquebec.qc.ca/en/understand/understanding-voting/provincial-election-results-by-polling-station/",
+    "tags": [
+      "provincial",
+      "elections",
+      "results",
+      "polling stations",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
     "name": "Élections Québec — S'inscrire sur la liste électorale",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -9729,6 +9813,24 @@
       "voter registration"
     ],
     "dateAdded": "2026-10-03"
+  },
+  {
+    "name": "Élections Québec — Vérifier mon inscription à la liste électorale",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Official Quebec tool for confirming a resident's name and address on the provincial electoral list and correcting the entry if it is wrong. French-only page.",
+    "url": "https://www.electionsquebec.qc.ca/voter/verifier-son-inscription-a-la-liste-electorale/",
+    "tags": [
+      "provincial",
+      "elections",
+      "voter registration",
+      "electoral list",
+      "french",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-07"
   },
   {
     "name": "Quebec National Assembly — Hansard",
@@ -9755,6 +9857,22 @@
       "Saskatchewan",
       "elections"
     ]
+  },
+  {
+    "name": "Elections Saskatchewan — Election Results",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "elections",
+    "type": "Election results portal",
+    "description": "Results hub linking to Saskatchewan's live results service and to official general-election and by-election reports.",
+    "url": "https://www.elections.sk.ca/reports-data/election-results/",
+    "tags": [
+      "provincial",
+      "elections",
+      "results",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-07"
   },
   {
     "name": "Elections Saskatchewan — Find My Constituency",
@@ -9805,6 +9923,22 @@
     ]
   },
   {
+    "name": "City of Barrie — 2026 Certified Candidates List",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "The City Clerk's certified list of candidates and registered third-party advertisers for Barrie's October 2026 municipal election.",
+    "url": "https://www.barrie.ca/government-news/2026-municipal-election/certified-candidates-list",
+    "tags": [
+      "municipal",
+      "elections",
+      "candidates",
+      "barrie"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
     "name": "Brampton Open Data",
     "level": "Municipal",
     "jurisdiction": "Brampton",
@@ -9816,6 +9950,22 @@
       "open data",
       "GTA"
     ]
+  },
+  {
+    "name": "City of Brampton — Candidate Listing",
+    "level": "Municipal",
+    "jurisdiction": "Brampton",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "Brampton's official register of candidates for the municipal election, organised by office.",
+    "url": "https://www.brampton.ca/EN/City-Hall/Election/Candidates/Pages/candidateListing.aspx",
+    "tags": [
+      "municipal",
+      "elections",
+      "candidates",
+      "brampton"
+    ],
+    "dateAdded": "2026-10-07"
   },
   {
     "name": "Elections Calgary — Results and Disclosures",
@@ -9848,6 +9998,56 @@
     ]
   },
   {
+    "name": "Greater Sudbury — Am I on the Voters' List?",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "elections",
+    "type": "Lookup tool",
+    "description": "Official city page hosting an address lookup so a Sudbury resident can confirm their name appears on the municipal voters list; the lookup widget is embedded from the city's voter services platform.",
+    "url": "https://www.sudbury.ca/city-hall/municipal-schoolboard-elections/for-voters/am-i-on-the-voters-list/",
+    "tags": [
+      "municipal",
+      "elections",
+      "voters list",
+      "lookup",
+      "greater sudbury"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "City of Guelph — 2026 Voting Locations",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "elections",
+    "type": "Lookup tool",
+    "description": "Lookup of advance and election-day voting locations for Guelph's 2026 municipal and school board election.",
+    "url": "https://guelph.ca/city-government/mayor-and-council/municipal-elections/2026-municipal-and-school-board-elections-voting-locations/",
+    "tags": [
+      "municipal",
+      "elections",
+      "voting locations",
+      "where to vote",
+      "guelph"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "City of Guelph — Candidates of the 2026 Municipal Election",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "Official slate of candidates for Guelph's 2026 council, mayor and school board races.",
+    "url": "https://guelph.ca/city-government/mayor-and-council/municipal-elections/candidates-of-the-2026-municipal-and-school-board-election/",
+    "tags": [
+      "municipal",
+      "elections",
+      "candidates",
+      "guelph"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
     "name": "Halifax — Past Municipal Election Results",
     "level": "Municipal",
     "jurisdiction": "Halifax",
@@ -9862,6 +10062,22 @@
       "halifax"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "City of London ON — List of Candidates",
+    "level": "Municipal",
+    "jurisdiction": "London",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "London's official candidate listings covering municipal, board of education and biodiversity council races.",
+    "url": "https://www.london.ca/government/council-civic-administration/elections/list-candidates",
+    "tags": [
+      "municipal",
+      "elections",
+      "candidates",
+      "london"
+    ],
+    "dateAdded": "2026-10-07"
   },
   {
     "name": "London Open Data",
@@ -9891,6 +10107,23 @@
       "democracy",
       "community"
     ]
+  },
+  {
+    "name": "City of St. John's — Candidates",
+    "level": "Municipal",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "elections",
+    "type": "Candidate directory",
+    "description": "Official candidate information for St. John's municipal, school board and plebiscite votes.",
+    "url": "https://www.stjohns.ca/your-government/elections/candidates/",
+    "tags": [
+      "municipal",
+      "elections",
+      "candidates",
+      "st. john's",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-07"
   },
   {
     "name": "Ottawa — 2022 Elections Official Results",
@@ -9968,6 +10201,24 @@
       "elections",
       "address lookup"
     ]
+  },
+  {
+    "name": "City of Toronto — MyVote",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "elections",
+    "type": "Voter tool",
+    "description": "Toronto's all-in-one voter self-service for the 2026 municipal election: enter a Toronto address to confirm whether you are on the voters' list, add or correct your record, find where and when to vote, see the candidates in your ward, and download or print a digital voter information card.",
+    "url": "https://www.toronto.ca/city-government/elections/voter-information/myvote/",
+    "tags": [
+      "municipal",
+      "elections",
+      "voters list",
+      "where to vote",
+      "voter information card",
+      "toronto"
+    ],
+    "dateAdded": "2026-10-07"
   },
   {
     "name": "Civic Tech Toronto",
@@ -10060,6 +10311,22 @@
       "victoria"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "City of Winnipeg — 2026 Election",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "elections",
+    "type": "Elections portal",
+    "description": "Winnipeg's hub for its 2026 civic election, covering voting options, candidates, ward boundaries, identification rules and election workers.",
+    "url": "https://winnipeg.ca/city-governance/wards-elections/2026-election",
+    "tags": [
+      "municipal",
+      "elections",
+      "civic election",
+      "winnipeg"
+    ],
+    "dateAdded": "2026-10-07"
   },
   {
     "name": "Winnipeg — Election Results Dataset",
@@ -28296,6 +28563,22 @@
     ]
   },
   {
+    "name": "Burnaby — Residential Property Tax Estimator",
+    "level": "Municipal",
+    "jurisdiction": "Burnaby",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Class 1 estimator that multiplies an entered assessed value by the combined Burnaby mill rate (including the Infrastructure Growth Levy) and the rates of other taxing authorities, projected for 2026. Directs assessment queries to BC Assessment.",
+    "url": "https://www.burnaby.ca/services-and-payments/property-taxes/tax-estimator-residential",
+    "tags": [
+      "municipal",
+      "property tax",
+      "estimator",
+      "burnaby"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
     "name": "Calgary — Assessment Search (myTax)",
     "level": "Municipal",
     "jurisdiction": "Calgary",
@@ -28354,6 +28637,39 @@
       "portal",
       "edmonton"
     ]
+  },
+  {
+    "name": "Hamilton — Tax Calculator",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Takes an address or tax roll number, or an MPAC assessment value, and returns how that property's tax charge is allocated across City services. Ontario's system is a revenue-funding model rather than a per-service fee, so the split is illustrative.",
+    "url": "https://www.hamilton.ca/home-neighbourhood/property-taxes/understanding-property-tax/tax-calculator",
+    "tags": [
+      "municipal",
+      "property tax",
+      "calculator",
+      "hamilton"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Hamilton — Tax Impact Mapping",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "taxes",
+    "type": "Mapping tool",
+    "description": "Free mapping service, address-searchable, showing where citywide property taxes have risen and fallen, with per-property assessment values, total property taxes, any capping amount, and the dollar and percentage change over time.",
+    "url": "https://www.hamilton.ca/home-neighbourhood/property-taxes/understanding-property-tax/tax-impact-mapping",
+    "tags": [
+      "municipal",
+      "property tax",
+      "mapping",
+      "assessment",
+      "hamilton"
+    ],
+    "dateAdded": "2026-10-07"
   },
   {
     "name": "Mississauga Property Tax Calculator",
@@ -28418,6 +28734,40 @@
     "dateAdded": "2026-08-27"
   },
   {
+    "name": "Québec — Rôles d'évaluation 2025 à 2027",
+    "level": "Municipal",
+    "jurisdiction": "Quebec City",
+    "category": "taxes",
+    "type": "Assessment roll search",
+    "description": "Address-keyed search over Quebec City's current municipal assessment roll (2025–2027 cycle), the roll every property tax charge is computed from. The roll is also consultable in person at the Service de l'évaluation.",
+    "url": "https://www.ville.quebec.qc.ca/citoyens/taxes_evaluation/evaluation_fonciere/role/index.aspx",
+    "tags": [
+      "municipal",
+      "property tax",
+      "assessment roll",
+      "french",
+      "quebec city"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
+    "name": "Saskatoon — Property Assessment & Tax Tool",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "taxes",
+    "type": "Lookup tool",
+    "description": "Address-keyed lookup returning a property's current and previous assessed values, current and historical tax figures, a service-by-service allocation of the municipal property tax charge, and neighbouring property records. Reflects the 2025 provincially legislated reassessment; figures update each May.",
+    "url": "https://www.saskatoon.ca/services-residents/myproperty/assessment/property-assessment-tax-tool",
+    "tags": [
+      "municipal",
+      "property tax",
+      "assessment",
+      "lookup",
+      "saskatoon"
+    ],
+    "dateAdded": "2026-10-07"
+  },
+  {
     "name": "Toronto — Property Tax Calculator",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -28475,6 +28825,22 @@
       "property",
       "calculator"
     ]
+  },
+  {
+    "name": "Victoria — Property Tax Estimator",
+    "level": "Municipal",
+    "jurisdiction": "Victoria",
+    "category": "taxes",
+    "type": "Calculator",
+    "description": "Estimator split into Residential and Business streams; enter an assessed value from a tax or assessment notice and it returns a breakdown of the tax amounts. Rates are per $1,000 of assessment; properties above $3M may attract Additional School Tax.",
+    "url": "https://www.victoria.ca/home-property/property-taxes/property-tax-estimator",
+    "tags": [
+      "municipal",
+      "property tax",
+      "estimator",
+      "victoria"
+    ],
+    "dateAdded": "2026-10-07"
   },
   {
     "name": "Winnipeg — Property Assessment Search",
@@ -32014,371 +32380,5 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "City of Toronto — MyVote",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "elections",
-    "type": "Voter tool",
-    "description": "Toronto's all-in-one voter self-service for the 2026 municipal election: enter a Toronto address to confirm whether you are on the voters' list, add or correct your record, find where and when to vote, see the candidates in your ward, and download or print a digital voter information card.",
-    "url": "https://www.toronto.ca/city-government/elections/voter-information/myvote/",
-    "tags": [
-      "municipal",
-      "elections",
-      "voters list",
-      "where to vote",
-      "voter information card",
-      "toronto"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Élections Québec — Vérifier mon inscription à la liste électorale",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "elections",
-    "type": "Voter registration",
-    "description": "Official Quebec tool for confirming a resident's name and address on the provincial electoral list and correcting the entry if it is wrong. French-only page.",
-    "url": "https://www.electionsquebec.qc.ca/voter/verifier-son-inscription-a-la-liste-electorale/",
-    "tags": [
-      "provincial",
-      "elections",
-      "voter registration",
-      "electoral list",
-      "french",
-      "quebec"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Elections BC — Local Candidate Information",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "elections",
-    "type": "Candidate directory",
-    "description": "Directory of declared candidates contesting BC's 2026 local general elections, with contact and filing details published by Elections BC.",
-    "url": "https://elections.bc.ca/local-elections/local-candidates/candidate-information/",
-    "tags": [
-      "provincial",
-      "elections",
-      "candidates",
-      "local elections",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "City of Barrie — 2026 Certified Candidates List",
-    "level": "Municipal",
-    "jurisdiction": "Barrie",
-    "category": "elections",
-    "type": "Candidate directory",
-    "description": "The City Clerk's certified list of candidates and registered third-party advertisers for Barrie's October 2026 municipal election.",
-    "url": "https://www.barrie.ca/government-news/2026-municipal-election/certified-candidates-list",
-    "tags": [
-      "municipal",
-      "elections",
-      "candidates",
-      "barrie"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "City of London ON — List of Candidates",
-    "level": "Municipal",
-    "jurisdiction": "London",
-    "category": "elections",
-    "type": "Candidate directory",
-    "description": "London's official candidate listings covering municipal, board of education and biodiversity council races.",
-    "url": "https://www.london.ca/government/council-civic-administration/elections/list-candidates",
-    "tags": [
-      "municipal",
-      "elections",
-      "candidates",
-      "london"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "City of Brampton — Candidate Listing",
-    "level": "Municipal",
-    "jurisdiction": "Brampton",
-    "category": "elections",
-    "type": "Candidate directory",
-    "description": "Brampton's official register of candidates for the municipal election, organised by office.",
-    "url": "https://www.brampton.ca/EN/City-Hall/Election/Candidates/Pages/candidateListing.aspx",
-    "tags": [
-      "municipal",
-      "elections",
-      "candidates",
-      "brampton"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "City of Guelph — Candidates of the 2026 Municipal Election",
-    "level": "Municipal",
-    "jurisdiction": "Guelph",
-    "category": "elections",
-    "type": "Candidate directory",
-    "description": "Official slate of candidates for Guelph's 2026 council, mayor and school board races.",
-    "url": "https://guelph.ca/city-government/mayor-and-council/municipal-elections/candidates-of-the-2026-municipal-and-school-board-election/",
-    "tags": [
-      "municipal",
-      "elections",
-      "candidates",
-      "guelph"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Greater Sudbury — Am I on the Voters' List?",
-    "level": "Municipal",
-    "jurisdiction": "Greater Sudbury",
-    "category": "elections",
-    "type": "Lookup tool",
-    "description": "Official city page hosting an address lookup so a Sudbury resident can confirm their name appears on the municipal voters list; the lookup widget is embedded from the city's voter services platform.",
-    "url": "https://www.sudbury.ca/city-hall/municipal-schoolboard-elections/for-voters/am-i-on-the-voters-list/",
-    "tags": [
-      "municipal",
-      "elections",
-      "voters list",
-      "lookup",
-      "greater sudbury"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "City of St. John's — Candidates",
-    "level": "Municipal",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "elections",
-    "type": "Candidate directory",
-    "description": "Official candidate information for St. John's municipal, school board and plebiscite votes.",
-    "url": "https://www.stjohns.ca/your-government/elections/candidates/",
-    "tags": [
-      "municipal",
-      "elections",
-      "candidates",
-      "st. john's",
-      "newfoundland and labrador"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Élections Québec — Results by Polling Station",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "elections",
-    "type": "Results database",
-    "description": "Official Quebec election results broken down to individual polling stations rather than only to constituency, a finer grain than most provincial results tools offer.",
-    "url": "https://www.electionsquebec.qc.ca/en/understand/understanding-voting/provincial-election-results-by-polling-station/",
-    "tags": [
-      "provincial",
-      "elections",
-      "results",
-      "polling stations",
-      "quebec"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Elections BC — 2026 General Local Elections",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "elections",
-    "type": "Elections portal",
-    "description": "Main voter hub for BC's October 2026 local general elections, gathering who can vote, registration, voting options, candidates and results in one place.",
-    "url": "https://elections.bc.ca/local-elections/2026-general-local-elections/",
-    "tags": [
-      "provincial",
-      "elections",
-      "local elections",
-      "voter hub",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Élections Québec — Provincial General Elections Live Results",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "elections",
-    "type": "Election results portal",
-    "description": "Real-time unofficial vote totals by constituency during election night, published by Quebec's chief electoral officer.",
-    "url": "https://www.electionsquebec.qc.ca/en/results-and-statistics/provincial-general-elections-live-results/",
-    "tags": [
-      "provincial",
-      "elections",
-      "live results",
-      "election night",
-      "quebec"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Elections Alberta — Official Election Results",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "elections",
-    "type": "Election results portal",
-    "description": "Standalone official results database: pick an election event, then read vote totals, turnout and seats won per electoral division from server-rendered tables.",
-    "url": "https://results.elections.ab.ca/",
-    "tags": [
-      "provincial",
-      "elections",
-      "official results",
-      "alberta"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Elections Saskatchewan — Election Results",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "elections",
-    "type": "Election results portal",
-    "description": "Results hub linking to Saskatchewan's live results service and to official general-election and by-election reports.",
-    "url": "https://www.elections.sk.ca/reports-data/election-results/",
-    "tags": [
-      "provincial",
-      "elections",
-      "results",
-      "saskatchewan"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "City of Guelph — 2026 Voting Locations",
-    "level": "Municipal",
-    "jurisdiction": "Guelph",
-    "category": "elections",
-    "type": "Lookup tool",
-    "description": "Lookup of advance and election-day voting locations for Guelph's 2026 municipal and school board election.",
-    "url": "https://guelph.ca/city-government/mayor-and-council/municipal-elections/2026-municipal-and-school-board-elections-voting-locations/",
-    "tags": [
-      "municipal",
-      "elections",
-      "voting locations",
-      "where to vote",
-      "guelph"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "City of Winnipeg — 2026 Election",
-    "level": "Municipal",
-    "jurisdiction": "Winnipeg",
-    "category": "elections",
-    "type": "Elections portal",
-    "description": "Winnipeg's hub for its 2026 civic election, covering voting options, candidates, ward boundaries, identification rules and election workers.",
-    "url": "https://winnipeg.ca/city-governance/wards-elections/2026-election",
-    "tags": [
-      "municipal",
-      "elections",
-      "civic election",
-      "winnipeg"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Saskatoon — Property Assessment & Tax Tool",
-    "level": "Municipal",
-    "jurisdiction": "Saskatoon",
-    "category": "taxes",
-    "type": "Lookup tool",
-    "description": "Address-keyed lookup returning a property's current and previous assessed values, current and historical tax figures, a service-by-service allocation of the municipal property tax charge, and neighbouring property records. Reflects the 2025 provincially legislated reassessment; figures update each May.",
-    "url": "https://www.saskatoon.ca/services-residents/myproperty/assessment/property-assessment-tax-tool",
-    "tags": [
-      "municipal",
-      "property tax",
-      "assessment",
-      "lookup",
-      "saskatoon"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Québec — Rôles d'évaluation 2025 à 2027",
-    "level": "Municipal",
-    "jurisdiction": "Quebec City",
-    "category": "taxes",
-    "type": "Assessment roll search",
-    "description": "Address-keyed search over Quebec City's current municipal assessment roll (2025–2027 cycle), the roll every property tax charge is computed from. The roll is also consultable in person at the Service de l'évaluation.",
-    "url": "https://www.ville.quebec.qc.ca/citoyens/taxes_evaluation/evaluation_fonciere/role/index.aspx",
-    "tags": [
-      "municipal",
-      "property tax",
-      "assessment roll",
-      "french",
-      "quebec city"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Hamilton — Tax Calculator",
-    "level": "Municipal",
-    "jurisdiction": "Hamilton",
-    "category": "taxes",
-    "type": "Calculator",
-    "description": "Takes an address or tax roll number, or an MPAC assessment value, and returns how that property's tax charge is allocated across City services. Ontario's system is a revenue-funding model rather than a per-service fee, so the split is illustrative.",
-    "url": "https://www.hamilton.ca/home-neighbourhood/property-taxes/understanding-property-tax/tax-calculator",
-    "tags": [
-      "municipal",
-      "property tax",
-      "calculator",
-      "hamilton"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Burnaby — Residential Property Tax Estimator",
-    "level": "Municipal",
-    "jurisdiction": "Burnaby",
-    "category": "taxes",
-    "type": "Calculator",
-    "description": "Class 1 estimator that multiplies an entered assessed value by the combined Burnaby mill rate (including the Infrastructure Growth Levy) and the rates of other taxing authorities, projected for 2026. Directs assessment queries to BC Assessment.",
-    "url": "https://www.burnaby.ca/services-and-payments/property-taxes/tax-estimator-residential",
-    "tags": [
-      "municipal",
-      "property tax",
-      "estimator",
-      "burnaby"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Hamilton — Tax Impact Mapping",
-    "level": "Municipal",
-    "jurisdiction": "Hamilton",
-    "category": "taxes",
-    "type": "Mapping tool",
-    "description": "Free mapping service, address-searchable, showing where citywide property taxes have risen and fallen, with per-property assessment values, total property taxes, any capping amount, and the dollar and percentage change over time.",
-    "url": "https://www.hamilton.ca/home-neighbourhood/property-taxes/understanding-property-tax/tax-impact-mapping",
-    "tags": [
-      "municipal",
-      "property tax",
-      "mapping",
-      "assessment",
-      "hamilton"
-    ],
-    "dateAdded": "2026-10-07"
-  },
-  {
-    "name": "Victoria — Property Tax Estimator",
-    "level": "Municipal",
-    "jurisdiction": "Victoria",
-    "category": "taxes",
-    "type": "Calculator",
-    "description": "Estimator split into Residential and Business streams; enter an assessed value from a tax or assessment notice and it returns a breakdown of the tax amounts. Rates are per $1,000 of assessment; properties above $3M may attract Additional School Tax.",
-    "url": "https://www.victoria.ca/home-property/property-taxes/property-tax-estimator",
-    "tags": [
-      "municipal",
-      "property tax",
-      "estimator",
-      "victoria"
-    ],
-    "dateAdded": "2026-10-07"
   }
 ]
