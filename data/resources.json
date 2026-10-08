@@ -32627,5 +32627,291 @@
       "safety"
     ],
     "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "WRHA — Walk-In Clinic Wait Times and Locations",
+    "level": "Regional",
+    "jurisdiction": "Winnipeg",
+    "category": "health-region",
+    "type": "Wait-time lookup",
+    "description": "Live directory of every WRHA-listed walk-in and family clinic in Winnipeg with street address, phone, and current open/closed state, plus how to reach each one.",
+    "url": "https://wrha.mb.ca/wait-times/walk-in-clinics/",
+    "tags": [
+      "regional",
+      "manitoba",
+      "winnipeg",
+      "walk-in clinics",
+      "wait times"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "WRHA — My Right Care",
+    "level": "Regional",
+    "jurisdiction": "Winnipeg",
+    "category": "health-region",
+    "type": "Health service",
+    "description": "Winnipeg's \"where should I go\" triage hub: routes a resident with no family doctor to the right clinic type — walk-in, extended-hours primary care, minor-injury, urgent care, ED or virtual — with live wait-time links for each.",
+    "url": "https://www.wrha.mb.ca/wait-times/",
+    "tags": [
+      "regional",
+      "manitoba",
+      "winnipeg",
+      "wait times",
+      "find care"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Québec — Québec Family Doctor Finder (GAMF)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Finder",
+    "description": "Official instructions and eligibility rules for Québec's provincial family-doctor waiting list (GAMF), including priority scoring, how to keep your place, and the special phone route for Nunavik and James Bay residents.",
+    "url": "https://www.quebec.ca/en/health/finding-a-resource/quebec-family-doctor-finder",
+    "tags": [
+      "provincial",
+      "quebec",
+      "family doctor",
+      "waitlist",
+      "gamf"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Nova Scotia Health — Need a Family Practice Registry",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Finder",
+    "description": "Landing page for Nova Scotia's official family practice registry: register online or by 811 to get a family doctor or nurse practitioner, with an honest FAQ on how the list works and how new arrivals without a health card qualify.",
+    "url": "https://nshealth.ca/clinics-programs-and-services/need-family-practice-registry",
+    "tags": [
+      "provincial",
+      "nova scotia",
+      "family doctor",
+      "registry",
+      "nurse practitioner"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Island Health — Care Locations",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "health-region",
+    "type": "Services directory",
+    "description": "Island Health's filterable facility directory, broken out by service line — hospitals and health centres, mental health and substance use, long-term care, lab, imaging, Indigenous health, sexual health and more, with a \"locations by community\" view.",
+    "url": "https://www.islandhealth.ca/care-locations",
+    "tags": [
+      "regional",
+      "british columbia",
+      "island health",
+      "facilities",
+      "directory"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Saskatchewan Health Authority — Facilities and Locations",
+    "level": "Regional",
+    "jurisdiction": "Saskatchewan",
+    "category": "health-region",
+    "type": "Services directory",
+    "description": "Searchable list-and-map directory of all 417 Saskatchewan Health Authority facilities, each with street address and phone number, filterable by type and region.",
+    "url": "https://www.saskhealthauthority.ca/facilities-locations",
+    "tags": [
+      "regional",
+      "saskatchewan",
+      "facilities",
+      "directory",
+      "map"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "ConnexOntario — Services Directory",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "health",
+    "type": "Services directory",
+    "description": "Ontario's provincial mental-health, addiction and problem-gambling navigator: a browsable database of roughly 5,300 support programs province-wide, plus 24/7 phone, text and chat access.",
+    "url": "https://connexontario.ca/",
+    "tags": [
+      "provincial",
+      "ontario",
+      "mental health",
+      "addictions",
+      "directory"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Interior Health — Where to Get Care",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "health-region",
+    "type": "Health service",
+    "description": "Interior Health's symptom-indexed care router: pick the situation that applies (emergency, urgent, mental health, pharmacy, virtual) and it points to the right service, with 911 and ED escalation guidance.",
+    "url": "https://www.interiorhealth.ca/wheretogetcare",
+    "tags": [
+      "regional",
+      "british columbia",
+      "interior health",
+      "find care"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Vancouver Coastal Health — Locations",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "health-region",
+    "type": "Services directory",
+    "description": "Full searchable list of VCH's 120-plus sites across Vancouver, Richmond and the Coast — hospitals, urgent and primary care centres, community health centres, mental health clinics, travel clinics, long-term care and hospices.",
+    "url": "https://www.vch.ca/en/locations",
+    "tags": [
+      "regional",
+      "british columbia",
+      "vancouver coastal health",
+      "locations",
+      "directory"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Vitalité Health Network — Service Directory",
+    "level": "Regional",
+    "jurisdiction": "New Brunswick",
+    "category": "health-region",
+    "type": "Services directory",
+    "description": "Filterable directory of 67 Vitalité (francophone New Brunswick) services — hospitals, health centres and clinics, mental health centres and public health units — searchable by keyword, region and establishment type.",
+    "url": "https://www.vitalitenb.ca/en/services-and-locations/service-directory",
+    "tags": [
+      "regional",
+      "new brunswick",
+      "vitalité",
+      "services",
+      "directory"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Québec — Répertoire des ressources en santé et services sociaux",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Services directory",
+    "description": "The province's official service-finder front door: ~50 searchable service categories from walk-in consultations and CLSCs to vaccination, screening, midwifery, addiction and needle exchanges, each searchable by postal code or region.",
+    "url": "https://sante.gouv.qc.ca/en/repertoire-ressources/",
+    "tags": [
+      "provincial",
+      "quebec",
+      "health services",
+      "directory",
+      "finder"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Shared Health Manitoba — Mental Health and Wellness Resource Finder",
+    "level": "Regional",
+    "jurisdiction": "Manitoba",
+    "category": "health-region",
+    "type": "Finder",
+    "description": "Manitoba's province-wide mental-health, wellness and addictions finder: pick the situation and get the right crisis line, counselling service or program, with youth supports flagged.",
+    "url": "https://sharedhealthmb.ca/services/mental-health/mental-health-and-wellness-resource-finder/",
+    "tags": [
+      "regional",
+      "manitoba",
+      "mental health",
+      "addictions",
+      "finder"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Ontario — Public Health Unit Locations",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "health",
+    "type": "Services directory",
+    "description": "Official table of all 34 Ontario public health units with address, phone, toll-free number, website and health region — the place to find your local unit for vaccinations, sexual health, dental and addiction programs.",
+    "url": "https://www.ontario.ca/page/public-health-unit-locations",
+    "tags": [
+      "provincial",
+      "ontario",
+      "public health",
+      "locations"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Québec — Schedule an Appointment Online with a Family Doctor",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Health appointment booking",
+    "description": "Explains Québec's free online medical appointment scheduler: who can use it (any RAMQ card, even expired), what you can book (family doctor, specialized nurse practitioner, medical resident), and how to cancel.",
+    "url": "https://www.quebec.ca/en/health/finding-a-resource/family-doctor-schedule-an-appointment",
+    "tags": [
+      "provincial",
+      "quebec",
+      "family doctor",
+      "booking",
+      "appointments"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "NL Health Services — Book an Online Appointment",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "health",
+    "type": "Health appointment booking",
+    "description": "Concrete booking instructions for NL Health Services: online blood-collection booking at four named clinics (no account required), flu and COVID-19 vaccine appointments by health authority region with phone lines, and hospital appointment contacts.",
+    "url": "https://nlhealthservices.ca/find-health-care/book-an-online-appointment/",
+    "tags": [
+      "provincial",
+      "newfoundland and labrador",
+      "booking",
+      "appointments",
+      "vaccination"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Saskatchewan — Health Care Facilities Map",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "health",
+    "type": "Services directory",
+    "description": "Government of Saskatchewan's searchable map of 207 health and social-service facilities — mental health, addictions, detox, HIV testing, STD clinics, eating disorders — each with address, phone and intake line.",
+    "url": "https://www.saskatchewan.ca/residents/health/accessing-health-care-services/health-care-facilities",
+    "tags": [
+      "provincial",
+      "saskatchewan",
+      "facilities",
+      "map",
+      "health care"
+    ],
+    "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Nova Scotia Health — Urgent Treatment Centres",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Health service",
+    "description": "Explains and lists Nova Scotia's Urgent Treatment Centres — walk-in care for urgent but non-life-threatening problems — with what to bring, how the visit works, and a location map.",
+    "url": "https://nshealth.ca/clinics-programs-and-services/urgent-treatment-centres",
+    "tags": [
+      "provincial",
+      "nova scotia",
+      "urgent care",
+      "walk-in"
+    ],
+    "dateAdded": "2026-10-08"
   }
 ]
