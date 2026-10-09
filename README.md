@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2105 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2104 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -28,7 +28,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 218
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 103
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
 - [🪪 Government Services & ID](#government-services-and-id) — 89
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 36
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
@@ -763,7 +763,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Haldimand County — OpenBook Budget Explorer (Questica) | Haldimand County · Municipal | Budget transparency portal | Interactive Questica OpenBook budget transparency portal for Haldimand County — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected). | https://haldimandcounty.openbook.questica.com/ |
 | Hamilton — OpenBook Budget Explorer (Questica) | Hamilton · Municipal | Budget transparency portal | Interactive Questica OpenBook budget transparency portal for Hamilton — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected). | https://hamilton.openbook.questica.com/ |
 | Kitchener — OpenBook Budget Explorer (Questica) | Kitchener · Municipal | Budget transparency portal | Interactive Questica OpenBook budget transparency portal for Kitchener — explore operating and capital budgets by department, project, and year, with drill-down visuals and CSV export. Verified live (direct 200, city-named tenant; wildcard placeholders redirect and were rejected). | https://kitchener.openbook.questica.com/ |
-| Milton — Financial Reports | Milton · Municipal | Budget documents | Direct PDF downloads of Town of Milton annual financial reports (audited statements) from 2019 to 2024, including assets, liabilities, net worth, revenue, and expenses. Useful for fiscal accountability and trend analysis. | https://www.milton.ca/en/town-hall/financial-reports-plans-and-studies.aspx |
 | Mississauga Procurement Awards Open Data | Mississauga · Municipal | Procurement awards | Awarded contracts and procurement results published on the Mississauga open data catalogue for vendor transparency. | https://data.mississauga.ca/browse?category=Finance |
 | Newmarket — Consolidated Financial Statements | Newmarket · Municipal | Financial report | Town of Newmarket consolidated financial statements, management discussion and analysis, and BIA financial reports for 2024–2025. Downloadable PDFs. | https://www.newmarket.ca/local-government/budgets-finances/financial-statements |
 | Niagara Falls Budget & Financial Reports | Niagara Falls · Municipal | Budget documents | Direct PDF downloads of Niagara Falls operating, capital, water, wastewater, and parking budgets from 2024 to 2026, including mayor's proposed and adopted versions. | https://niagarafalls.ca/city-government/budget-and-finances/budgets/ |
