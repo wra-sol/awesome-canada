@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2120 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2136 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -42,7 +42,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
-- [🚌 Transit & Mobility](#transit-and-mobility) — 75
+- [🚌 Transit & Mobility](#transit-and-mobility) — 91
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 88
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 80
@@ -2074,6 +2074,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Wood Buffalo Transit (Fort McMurray) | Alberta · Regional | Transit | Transit program page of the Regional Municipality of Wood Buffalo, the municipal transit authority for Fort McMurray, with routes and schedules, fares, and paratransit information. | https://www.rmwb.ca/programs-and-services/transit/ |
 | Edmonton Transit Service (ETS) | Edmonton · Regional | Transit | ETS bus and LRT trip planning for Edmonton | https://www.edmonton.ca/ets |
 | Calgary Transit — Fares and Passes | Calgary · Municipal | Fare information | Calgary Transit's official fares and passes page: fare prices, pass types and where to buy. | https://www.calgarytransit.com/fares---passes.html |
 | Calgary Transit GTFS | Calgary · Municipal | GTFS feed | Download Calgary Transit GTFS.zip with routes, stops, and schedules from the City developer resources page. | https://data.calgary.ca/browse?category=Transit |
@@ -2081,6 +2082,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Edmonton Transit — Fare Assistance Programs | Edmonton · Municipal | Fare assistance | Edmonton's official page on fare assistance and reduced-fare transit programs for eligible riders. | https://www.edmonton.ca/ets/fare-assistance |
 | Edmonton Transit — Fares and Passes | Edmonton · Municipal | Fare information | Edmonton's official ETS fare page: fare prices, passes and payment options. Complements the catalog's ETS homepage entry. | https://www.edmonton.ca/ets/fares-passes |
 | Lethbridge Transit GTFS | Lethbridge · Municipal | GTFS feed | Direct GTFS.zip download of Lethbridge Transit bus schedules, routes, stops, and shapes. Hosted on the City's GIS server and not indexed by Transitland — a hard-to-find feed. Updated with each service change; useful for trip planners, mobility apps, and transit analysis in southern Alberta. | https://gis.lethbridge.ca/OpenData/DataSets/GTFS_Transit_Data.zip |
+| Medicine Hat Transit | Medicine Hat · Municipal | Transit | Transit section of the City of Medicine Hat, with route and schedule information, fares and passes, and links to the city's transit app and reload card portal. | https://www.medicinehat.ca/roads-parking-transportation/transit/ |
 
 ### Saskatchewan
 
@@ -2095,6 +2097,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Brandon Transit | Brandon · Municipal | Transit | City of Brandon transit page: routes and schedules, fare and pass information, and service updates for Manitoba's second-largest city. | https://www.brandon.ca/transit |
 | Winnipeg Transit — Trip Planner | Winnipeg · Municipal | Trip planner | Winnipeg Transit trip planning, schedules, and real-time vehicle info | https://www.winnipegtransit.com/ |
 | Winnipeg Transit GTFS | Winnipeg · Municipal | GTFS feed | Winnipeg Transit GTFS static feed and developer documentation on the open data portal. | https://data.winnipeg.ca/browse?category=Transit |
 
@@ -2124,10 +2127,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | York Region Transit — GTFS Open Data | York Region · Regional | GTFS feed | YRT/Viva GTFS and real-time GTFS packages for developers — request download after accepting the open data licence. | https://www.yrt.ca/en/about-us/open-data.aspx |
 | Barrie Transit GTFS | Barrie · Municipal | GTFS feed | Direct download of Barrie Transit GTFS.zip from the City website for routes, stops, and schedule data. | https://www.barrie.ca/transit |
 | Brampton Transit — GTFS (GeoHub) | Brampton · Municipal | GTFS feed | Brampton Transit schedule GTFS ZIP on the City GeoHub — routes, stops, stop times, and shapes for Züm and local service. | https://geohub.brampton.ca/datasets/a355aabd5a8c490186bdce559c9c75fb |
+| Brantford Transit | Brantford · Municipal | Transit | City of Brantford's transit section, the official entry point to its bus routes, schedules and fare information. | https://www.brantford.ca/transportation/brantford-transit/ |
 | Burlington Transit — GTFS | Burlington · Municipal | GTFS feed | Burlington Transit GTFS feed for routes, stops, and schedules from the municipal open data program. | https://navburl-burlington.opendata.arcgis.com/pages/data |
 | Guelph Transit — GTFS Open Data | Guelph · Municipal | GTFS feed | Guelph Transit GTFS schedule data published on the City open data catalogue for app developers. | https://opendata-guelph.hub.arcgis.com/datasets/guelph-transit-gtfs |
 | Guelph Transit GTFS | Guelph · Municipal | GTFS feed | Direct GTFS.zip download of Guelph Transit bus schedules, routes, and stops. Updated when routing or scheduling changes occur; historical versions available via Transitland. | https://gismaps.guelph.ca/Pages/GTFS/google_transit.zip |
 | Hamilton Street Railway GTFS | Hamilton · Municipal | GTFS feed | HSR GTFS static schedule data for Hamilton transit routes and stops. | https://open.hamilton.ca/documents/6eeccf172c824c2db0484aea54ed7fe4/explore |
+| Kingston Transit | Kingston · Municipal | Trip planner | Trip-planning site for Kingston's city buses: an origin/destination planner with fastest / fewest-transfers / least-walking options, schedules and maps, standard fares and passes, online pass loading, service alerts, and a report-a-bus form. | https://www.kingstontransit.ca/ |
 | Kingston Transit GTFS | Kingston · Municipal | GTFS feed | Direct GTFS.zip download of Kingston Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland. | https://api.cityofkingston.ca/gtfs/gtfs.zip |
 | London Transit Commission GTFS | London · Municipal | GTFS feed | LTC GTFS feed download for London, Ontario bus routes, stops, and schedules. | https://www.londontransit.ca/open-data/ |
 | Milton — GTFS Feed | Milton · Municipal | Dataset | Direct GTFS.zip download for Milton Transit bus routes and stops. Includes 9 local bus routes (e.g., Trudeau, Thompson/Clark, Yates, Willmott) with schedules, stop locations, and route shapes. Use for transit app development, accessibility planning, or service frequency analysis. Updated periodically by Metrolinx on behalf of Milton Transit. | https://discover-milton.hub.arcgis.com/datasets/6d91cda9496043a395710d0a73a7699f/about |
@@ -2136,12 +2141,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | MiWay — Ways to Pay Your Fare | Mississauga · Municipal | Fare payment guide | Mississauga MiWay's guide to paying fares: PRESTO, contactless, passes and concession details. Complements the catalog's MiWay homepage entry. | https://www.mississauga.ca/miway-transit/fares/ways-to-pay-your-fare/ |
 | North Bay Transit GTFS | North Bay · Municipal | GTFS feed | Direct GTFS.zip download of North Bay Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland. | https://northbay.tmix.se/gtfs/gtfs.zip |
 | Oakville Transit GTFS | Oakville · Municipal | GTFS feed | Direct GTFS.zip download of Oakville Transit bus schedules, routes, and stops. Updated as needed when service changes occur; archive versions available via Transitland. | https://www.arcgis.com/sharing/rest/content/items/d78a1c1ad6a940009de8b68839a8f606/data |
+| Oshawa Transit | Oshawa · Municipal | Transit | Transit page for the City of Oshawa in Durham Region, covering bus routes and schedules, fares and passes, and service information for the city's own transit operation. | https://www.oshawa.ca/getting-around/transit/ |
+| Peterborough Transit | Peterborough · Municipal | Transit | Municipal transit page for Peterborough with route and schedule information, fare products, and service details for the city's bus network. | https://www.peterborough.ca/transit |
+| Sault Ste. Marie Transit | Sault Ste. Marie · Municipal | Transit | City of Sault Ste. Marie transit section, including bus routes and schedules, fare information, and service updates for the Ontario city's transit system. | https://saultstemarie.ca/live/transit/ |
+| Thunder Bay Transit | Thunder Bay · Municipal | Transit | City page for Thunder Bay's transit division, the entry point to route schedules and maps, fare and pass details, and accessible transit information for the Ontario city. | https://www.thunderbay.ca/city-services/transit/ |
+| Timmins Transit | Timmins · Municipal | Transit | Timmins transit service page: route maps and schedules, fares, and Handy Transit accessible-service details for the Northern Ontario city. | https://www.timmins.ca/our_services/timmins_transit |
 | Toronto Bicycle Counters | Toronto · Municipal | Mobility map | Live map of Toronto's bicycle counters showing cycling activity from City of Toronto open data. By Isaac Berman (observingthecity.ca). | https://www.observingthecity.ca/bike-counters |
 | Toronto Bike Share station map | Toronto · Municipal | Mobility map | Station finder and system map for bike share | https://bikesharetoronto.com/system-map/ |
 | Toronto TTC GTFS Feed | Toronto · Municipal | GTFS feed | Official TTC GTFS static schedule feed for routes, stops, and trips — download zip from the Open Data Portal for app development. | https://open.toronto.ca/dataset/ttc-routes-and-schedules/ |
 | TTC — Fares and passes | Toronto · Municipal | Fare information | Toronto's official TTC fare page: fare prices, passes, concessions and payment options for riders. | https://www.ttc.ca/fares-and-passes |
 | TTC Service Advisories / maps | Toronto · Municipal | Transit tool | Route, service, and map resources for transit users | https://www.ttc.ca/ |
 | TTC Service Pulse | Toronto · Municipal | Transit tool | Independent civic dashboard tracking TTC service reliability — delays, cancellations and performance trends — built on public TTC open data. By Donald Williams, independent civic technologist. | https://transit.datalyiq.com/ |
+| TTC Wheel-Trans (paratransit booking) | Toronto · Municipal | Transit | Registration and booking hub for Toronto's municipal paratransit service for people with disabilities, including eligibility, new-customer FAQs, booking online or by phone, and the Wheel-Trans 10-year strategy. | https://www.ttc.ca/wheel-trans |
 | Transit Windsor — GTFS | Windsor · Municipal | GTFS feed | Static GTFS feed for Windsor Transit routes, stops, and schedules from the City of Windsor open data portal. | https://opendata.citywindsor.ca/Uploads/google_transit.zip |
 
 ### Quebec
@@ -2151,6 +2162,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | exo — Greater Montreal Commuter Rail and Bus | Montreal · Regional | Trip planner | Trip planning and schedules for Greater Montreal commuter rail and suburban bus network | https://exo.quebec/en |
 | Exo GTFS (Montreal Region) | Montreal · Regional | GTFS feed | Exo commuter rail and bus GTFS feeds for Greater Montreal suburbs on Données Québec. | https://exo.quebec/en/about/open-data |
 | STO — Payment Methods | Gatineau · Municipal | Fare payment guide | Gatineau STO's official fare payment methods page (English version). | https://www.sto.ca/en/fares/payment-methods/ |
+| Société de transport de Laval (STL) | Laval · Municipal | Transit | English landing page of the intermunicipal transit society that runs Laval's bus network: route and schedule planning, fare products and a trip planner for the largest purely residential suburb in Quebec. | https://stlaval.ca/en/ |
+| Réseau de transport de Longueuil (RTL) | Longueuil · Municipal | Transit | English portal of the South Shore agency serving Longueuil, Boucherville, Saint-Lambert and Brossard, with route itineraries, schedules, fare tables and service notices. | https://www.rtl-longueuil.qc.ca/en |
 | STM Info outils / network maps | Montreal · Municipal | Transit map/tools | Metro and bus map resources and rider tools | https://www.stm.info/en |
 | STM Montreal GTFS | Montreal · Municipal | GTFS feed | Société de transport de Montréal GTFS feed and API documentation for developers building trip planners and analysis tools. | https://www.stm.info/en/about/developers |
 | STO — GTFS Open Data (Gatineau) | Quebec · Municipal | GTFS feed | Société de transport de l’Outaouais planned GTFS download plus GTFS-Realtime API key registration for alerts and vehicle positions. | https://www.sto.ca/en/business/developer-space-open-data/ |
@@ -2159,6 +2172,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | RTC — Réseau de transport de la Capitale (Quebec City) | Quebec City · Municipal | Transit | Quebec City bus trip planning, schedules, and real-time arrivals | https://www.rtcquebec.ca/ |
 | RTC Québec — GTFS Open Data | Quebec City · Municipal | GTFS feed | Réseau de transport de la Capitale GTFS schedules and route shapes for Quebec City transit — direct download from RTC open data. | https://www.rtcquebec.ca/en/open-data |
 | Rimouski — GTFS Transit Data | Rimouski · Municipal | GTFS dataset | Downloadable GTFS dataset for Citébus and Taxibus transit networks in Rimouski, including stop locations, routes, and schedules. Available in GTFS, CSV, GeoJSON, KML, and SHP formats via Données Québec. | https://www.donneesquebec.ca/recherche/dataset/transport-collectif |
+| Société de transport de Sherbrooke (STS) | Sherbrooke · Municipal | Transit | French portal of Sherbrooke's municipal bus operator, covering the route network, schedules and itineraries, fares, and adapted (accessible) transit for the Estrie region. | https://www.sts.qc.ca/ |
+| Société de transport de Trois-Rivières (STTR) | Trois-Rivières · Municipal | Transit | French homepage of the Trois-Rivières urban transit society: network maps, hourly timetables, fare rules and adapted-transport information for the Mauricie city. | https://sttr.qc.ca/ |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -2166,6 +2181,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Halifax Transit GTFS | Halifax · Regional | GTFS feed | Halifax Transit GTFS schedule data available from the HRM open data catalogue. | https://www.halifax.ca/transportation/halifax-transit |
 | Halifax Transit — Fares, Tickets and Passes | Halifax · Municipal | Fare information | Halifax's official transit fare page: fare prices, tickets, passes and payment options. The dedicated fare subpage of the catalog's Halifax Transit homepage entry. | https://www.halifax.ca/transportation/halifax-transit/fares-tickets-passes |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Yellowknife Transit | Yellowknife · Municipal | Transit | Transit hub for the City of Yellowknife in the Northwest Territories: bus routes and schedules, fare information, and service updates for the territory's capital. | https://www.yellowknife.ca/transit |
 
 ## ✈️ Aviation, Marine & Rail
 

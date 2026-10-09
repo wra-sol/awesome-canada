@@ -33182,5 +33182,308 @@
     "type": "Booking portal",
     "url": "https://www.whitehorse.ca/living-in-whitehorse/parks-recreation/facility-booking/",
     "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "English landing page of the intermunicipal transit society that runs Laval's bus network: route and schedule planning, fare products and a trip planner for the largest purely residential suburb in Quebec.",
+    "jurisdiction": "Laval",
+    "level": "Municipal",
+    "name": "Société de transport de Laval (STL)",
+    "tags": [
+      "municipal",
+      "laval",
+      "quebec",
+      "transit",
+      "bus",
+      "trip planner",
+      "fares"
+    ],
+    "type": "Transit",
+    "url": "https://stlaval.ca/en/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "English portal of the South Shore agency serving Longueuil, Boucherville, Saint-Lambert and Brossard, with route itineraries, schedules, fare tables and service notices.",
+    "jurisdiction": "Longueuil",
+    "level": "Municipal",
+    "name": "Réseau de transport de Longueuil (RTL)",
+    "tags": [
+      "municipal",
+      "longueuil",
+      "quebec",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "type": "Transit",
+    "url": "https://www.rtl-longueuil.qc.ca/en",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "French homepage of the Trois-Rivières urban transit society: network maps, hourly timetables, fare rules and adapted-transport information for the Mauricie city.",
+    "jurisdiction": "Trois-Rivières",
+    "level": "Municipal",
+    "name": "Société de transport de Trois-Rivières (STTR)",
+    "tags": [
+      "municipal",
+      "trois-rivieres",
+      "quebec",
+      "french",
+      "transit",
+      "bus",
+      "schedules"
+    ],
+    "type": "Transit",
+    "url": "https://sttr.qc.ca/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "French portal of Sherbrooke's municipal bus operator, covering the route network, schedules and itineraries, fares, and adapted (accessible) transit for the Estrie region.",
+    "jurisdiction": "Sherbrooke",
+    "level": "Municipal",
+    "name": "Société de transport de Sherbrooke (STS)",
+    "tags": [
+      "municipal",
+      "sherbrooke",
+      "quebec",
+      "french",
+      "transit",
+      "bus",
+      "schedules"
+    ],
+    "type": "Transit",
+    "url": "https://www.sts.qc.ca/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "Registration and booking hub for Toronto's municipal paratransit service for people with disabilities, including eligibility, new-customer FAQs, booking online or by phone, and the Wheel-Trans 10-year strategy.",
+    "jurisdiction": "Toronto",
+    "level": "Municipal",
+    "name": "TTC Wheel-Trans (paratransit booking)",
+    "tags": [
+      "municipal",
+      "toronto",
+      "ontario",
+      "transit",
+      "paratransit",
+      "accessible",
+      "booking"
+    ],
+    "type": "Transit",
+    "url": "https://www.ttc.ca/wheel-trans",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "Trip-planning site for Kingston's city buses: an origin/destination planner with fastest / fewest-transfers / least-walking options, schedules and maps, standard fares and passes, online pass loading, service alerts, and a report-a-bus form.",
+    "jurisdiction": "Kingston",
+    "level": "Municipal",
+    "name": "Kingston Transit",
+    "tags": [
+      "municipal",
+      "kingston",
+      "ontario",
+      "transit",
+      "bus",
+      "trip planner",
+      "fares"
+    ],
+    "type": "Trip planner",
+    "url": "https://www.kingstontransit.ca/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "City page for Thunder Bay's transit division, the entry point to route schedules and maps, fare and pass details, and accessible transit information for the Ontario city.",
+    "jurisdiction": "Thunder Bay",
+    "level": "Municipal",
+    "name": "Thunder Bay Transit",
+    "tags": [
+      "municipal",
+      "thunder bay",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "type": "Transit",
+    "url": "https://www.thunderbay.ca/city-services/transit/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "Municipal transit page for Peterborough with route and schedule information, fare products, and service details for the city's bus network.",
+    "jurisdiction": "Peterborough",
+    "level": "Municipal",
+    "name": "Peterborough Transit",
+    "tags": [
+      "municipal",
+      "peterborough",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "type": "Transit",
+    "url": "https://www.peterborough.ca/transit",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "City of Sault Ste. Marie transit section, including bus routes and schedules, fare information, and service updates for the Ontario city's transit system.",
+    "jurisdiction": "Sault Ste. Marie",
+    "level": "Municipal",
+    "name": "Sault Ste. Marie Transit",
+    "tags": [
+      "municipal",
+      "sault ste. marie",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules"
+    ],
+    "type": "Transit",
+    "url": "https://saultstemarie.ca/live/transit/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "Timmins transit service page: route maps and schedules, fares, and Handy Transit accessible-service details for the Northern Ontario city.",
+    "jurisdiction": "Timmins",
+    "level": "Municipal",
+    "name": "Timmins Transit",
+    "tags": [
+      "municipal",
+      "timmins",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules",
+      "accessible"
+    ],
+    "type": "Transit",
+    "url": "https://www.timmins.ca/our_services/timmins_transit",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "City of Brantford's transit section, the official entry point to its bus routes, schedules and fare information.",
+    "jurisdiction": "Brantford",
+    "level": "Municipal",
+    "name": "Brantford Transit",
+    "tags": [
+      "municipal",
+      "brantford",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "type": "Transit",
+    "url": "https://www.brantford.ca/transportation/brantford-transit/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "Transit page for the City of Oshawa in Durham Region, covering bus routes and schedules, fares and passes, and service information for the city's own transit operation.",
+    "jurisdiction": "Oshawa",
+    "level": "Municipal",
+    "name": "Oshawa Transit",
+    "tags": [
+      "municipal",
+      "oshawa",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "type": "Transit",
+    "url": "https://www.oshawa.ca/getting-around/transit/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "City of Brandon transit page: routes and schedules, fare and pass information, and service updates for Manitoba's second-largest city.",
+    "jurisdiction": "Brandon",
+    "level": "Municipal",
+    "name": "Brandon Transit",
+    "tags": [
+      "municipal",
+      "brandon",
+      "manitoba",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "type": "Transit",
+    "url": "https://www.brandon.ca/transit",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "Transit section of the City of Medicine Hat, with route and schedule information, fares and passes, and links to the city's transit app and reload card portal.",
+    "jurisdiction": "Medicine Hat",
+    "level": "Municipal",
+    "name": "Medicine Hat Transit",
+    "tags": [
+      "municipal",
+      "medicine hat",
+      "alberta",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "type": "Transit",
+    "url": "https://www.medicinehat.ca/roads-parking-transportation/transit/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "Transit program page of the Regional Municipality of Wood Buffalo, the municipal transit authority for Fort McMurray, with routes and schedules, fares, and paratransit information.",
+    "jurisdiction": "Alberta",
+    "level": "Regional",
+    "name": "Wood Buffalo Transit (Fort McMurray)",
+    "tags": [
+      "regional",
+      "alberta",
+      "fort mcmurray",
+      "wood buffalo",
+      "transit",
+      "bus",
+      "schedules"
+    ],
+    "type": "Transit",
+    "url": "https://www.rmwb.ca/programs-and-services/transit/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "transit",
+    "description": "Transit hub for the City of Yellowknife in the Northwest Territories: bus routes and schedules, fare information, and service updates for the territory's capital.",
+    "jurisdiction": "Yellowknife",
+    "level": "Municipal",
+    "name": "Yellowknife Transit",
+    "tags": [
+      "municipal",
+      "yellowknife",
+      "northwest territories",
+      "transit",
+      "bus",
+      "schedules",
+      "northern"
+    ],
+    "type": "Transit",
+    "url": "https://www.yellowknife.ca/transit",
+    "dateAdded": "2026-10-09"
   }
 ]
