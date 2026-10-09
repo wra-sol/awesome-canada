@@ -32897,5 +32897,290 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "category": "parks",
+    "description": "Government of the Northwest Territories' official booking front door for its 20 territorial campgrounds; per-park Reserve Now buttons open the Going Toe to Toe engine with campsite availability and date selection, and each campground page states its own season dates.",
+    "jurisdiction": "Northwest Territories",
+    "level": "Provincial",
+    "name": "NWT Parks — Reservations",
+    "tags": [
+      "provincial",
+      "northwest territories",
+      "camping",
+      "reservations",
+      "parks"
+    ],
+    "type": "Reservation system",
+    "url": "https://www.nwtparks.ca/reservations",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "City booking page for municipal arena ice: a real calendar with slot picking and book-now actions, plus a last-minute availability calendar for gaps.",
+    "jurisdiction": "Ontario",
+    "level": "Municipal",
+    "name": "Owen Sound Ice Rentals",
+    "tags": [
+      "municipal",
+      "ontario",
+      "owen sound",
+      "arena",
+      "ice rentals",
+      "booking"
+    ],
+    "type": "Booking portal",
+    "url": "https://www.owensound.ca/recreation-culture/parks-trails-and-facilities/book-a-facility/ice-rentals",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "The city's own ActiveNet registration storefront for recreation programs, drop-in activities and facility bookings, with account creation and card checkout.",
+    "jurisdiction": "Regina",
+    "level": "Municipal",
+    "name": "Regina Recreation Online Registration",
+    "tags": [
+      "municipal",
+      "regina",
+      "saskatchewan",
+      "recreation",
+      "registration",
+      "activenet"
+    ],
+    "type": "Registration portal",
+    "url": "https://ca.apm.activecommunities.com/regina/",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "Kelowna's ActiveNet registration portal: browse live program categories (Aquatics, Adult Sports, Fitness, Drop-In, Public Skating), open a cart and register as a new customer.",
+    "jurisdiction": "Kelowna",
+    "level": "Municipal",
+    "name": "Kelowna Recreation Online",
+    "tags": [
+      "municipal",
+      "kelowna",
+      "british columbia",
+      "recreation",
+      "registration",
+      "activenet"
+    ],
+    "type": "Registration portal",
+    "url": "https://rec.kelowna.ca/registration/public",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "Nunavut's capital recreation booking storefront on ActiveCommunities, where residents register for programs and reserve city facilities.",
+    "jurisdiction": "Iqaluit",
+    "level": "Municipal",
+    "name": "Iqaluit Recreation Online Services",
+    "tags": [
+      "municipal",
+      "iqaluit",
+      "nunavut",
+      "recreation",
+      "registration",
+      "booking"
+    ],
+    "type": "Registration portal",
+    "url": "https://anc.ca.apm.activecommunities.com/iqaluitrecreation/home?onlineSiteId=0",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "The city's facility availability calendar with a select-a-facility filter, covering ice, turf, court and pool time at its sports complexes.",
+    "jurisdiction": "Moose Jaw",
+    "level": "Municipal",
+    "name": "Moose Jaw Facility Availability Booking",
+    "tags": [
+      "municipal",
+      "moose jaw",
+      "saskatchewan",
+      "facility booking",
+      "recreation"
+    ],
+    "type": "Booking portal",
+    "url": "https://cityofmoosejaw.perfectmind.com/24467/Clients/BookMe4?widgetId=0368d91d-3b21-4f2a-aabf-6f51dd15b269",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "A live court-booking system with availability lookup, drop-in time listings and hourly reservations up to three weeks ahead.",
+    "jurisdiction": "Victoria",
+    "level": "Municipal",
+    "name": "Victoria Tennis and Pickleball Court Reservations",
+    "tags": [
+      "municipal",
+      "victoria",
+      "british columbia",
+      "tennis",
+      "pickleball",
+      "reservations"
+    ],
+    "type": "Reservation system",
+    "url": "https://www.victoria.ca/parks-recreation/recreation/tennis-pickleball-court-reservations",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "Regional Municipality signup hub: browse seasonal programs by course number, book drop-in activities, and start a facility rental booking, all through myREC.",
+    "jurisdiction": "Halifax",
+    "level": "Municipal",
+    "name": "Halifax Recreation Activities and Program Registration (myREC)",
+    "tags": [
+      "municipal",
+      "halifax",
+      "nova scotia",
+      "recreation",
+      "registration",
+      "myrec"
+    ],
+    "type": "Registration portal",
+    "url": "https://www.halifax.ca/myrec",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "Tee-time reservation entry for Mississauga's two municipal courses, with resident booking windows and links into the live tee-sheet system.",
+    "jurisdiction": "Mississauga",
+    "level": "Municipal",
+    "name": "Mississauga Book a Tee Time",
+    "tags": [
+      "municipal",
+      "mississauga",
+      "ontario",
+      "golf",
+      "tee time",
+      "booking"
+    ],
+    "type": "Booking portal",
+    "url": "https://www.mississauga.ca/golf/book-a-tee-time",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "The city's official WebReg short link, resolving to Burnaby's ActiveNet registration and facility-booking portal.",
+    "jurisdiction": "Burnaby",
+    "level": "Municipal",
+    "name": "Burnaby WebReg Online Registration",
+    "tags": [
+      "municipal",
+      "burnaby",
+      "british columbia",
+      "recreation",
+      "registration",
+      "webreg"
+    ],
+    "type": "Registration portal",
+    "url": "https://www.burnaby.ca/webreg",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "Charlottetown's UniVersus Rec portal: view facility availability, request or book facilities, and browse programs and calendars by client account.",
+    "jurisdiction": "Charlottetown",
+    "level": "Municipal",
+    "name": "Charlottetown Online Program Registration",
+    "tags": [
+      "municipal",
+      "charlottetown",
+      "pei",
+      "recreation",
+      "registration",
+      "booking"
+    ],
+    "type": "Registration portal",
+    "url": "https://www.charlottetown.ca/leisure___recreation/programs_and_activities/online_program_registration",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "Tee-time reservation page for the city's two municipal courses, with online booking and sign-up routed into the live tee sheets.",
+    "jurisdiction": "Thunder Bay",
+    "level": "Municipal",
+    "name": "Thunder Bay Book a Tee-Time",
+    "tags": [
+      "municipal",
+      "thunder bay",
+      "ontario",
+      "golf",
+      "tee time",
+      "booking"
+    ],
+    "type": "Booking portal",
+    "url": "https://www.thunderbay.ca/recreation/golf/book-a-tee-time",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "Calgary's RecInfo portal showing bookable rental categories — arenas and leagues, sport fields, boat stalls and moorings — with account creation and a reservation flow.",
+    "jurisdiction": "Calgary",
+    "level": "Municipal",
+    "name": "Calgary Live and Play — Rentals and Bookings",
+    "tags": [
+      "municipal",
+      "calgary",
+      "alberta",
+      "recreation",
+      "rentals",
+      "booking"
+    ],
+    "type": "Booking portal",
+    "url": "https://liveandplay.calgary.ca/REGPROG/public/category/browse/RENTALS",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "Central booking hub for parks, sport fields, arenas, pools and school applications, with an embedded arena-booking widget and change/cancel functions.",
+    "jurisdiction": "Prince George",
+    "level": "Municipal",
+    "name": "Prince George Book a Park, School, Sport Field, Arena or Pool",
+    "tags": [
+      "municipal",
+      "prince george",
+      "british columbia",
+      "booking",
+      "arena",
+      "sport fields"
+    ],
+    "type": "Booking portal",
+    "url": "https://www.princegeorge.ca/parks-recreation/book-park-school-arena-or-field",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "French-language day-camp registration page stating two dated registration periods and routing residents to the city's online signup platform, with a phone option flagged as slow.",
+    "jurisdiction": "Lévis",
+    "level": "Municipal",
+    "name": "Lévis — Inscription au camp de jour",
+    "tags": [
+      "municipal",
+      "levis",
+      "quebec",
+      "french",
+      "day camp",
+      "registration"
+    ],
+    "type": "Registration portal",
+    "url": "https://levis.ca/fr/loisirs-et-communaute/camp-de-jour/inscription",
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "category": "parks",
+    "description": "Per-space Book online links for the Canada Games Centre ice, the Northwestel Arena, fieldhouse and halls, with hourly and full-day rates.",
+    "jurisdiction": "Whitehorse",
+    "level": "Municipal",
+    "name": "Whitehorse Facility Booking",
+    "tags": [
+      "municipal",
+      "whitehorse",
+      "yukon",
+      "facility booking",
+      "recreation"
+    ],
+    "type": "Booking portal",
+    "url": "https://www.whitehorse.ca/living-in-whitehorse/parks-recreation/facility-booking/",
+    "dateAdded": "2026-10-09"
   }
 ]

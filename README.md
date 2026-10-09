@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2104 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2120 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -44,7 +44,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 43
 - [🚌 Transit & Mobility](#transit-and-mobility) — 75
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 72
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 88
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 80
 - [🌦️ Weather & Climate](#weather-and-climate) — 26
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
@@ -2306,6 +2306,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Parks Find a Park | British Columbia · Provincial | Finder | Filterable park explorer by activity, facilities, and area | https://bcparks.ca/find-a-park/ |
 | BC Parks Maps | British Columbia · Provincial | Interactive maps | Rich park map with overlays like closures, weather, cell coverage, and earthquakes | https://bcparks.ca/plan-your-trip/maps |
 | Recreation Sites and Trails B.C. | British Columbia · Provincial | Outdoor map / finder | Great search and filterable map for trails, recreation sites, alerts, and closures | https://www.sitesandtrailsbc.ca/ |
+| Burnaby WebReg Online Registration | Burnaby · Municipal | Registration portal | The city's official WebReg short link, resolving to Burnaby's ActiveNet registration and facility-booking portal. | https://www.burnaby.ca/webreg |
+| Kelowna Recreation Online | Kelowna · Municipal | Registration portal | Kelowna's ActiveNet registration portal: browse live program categories (Aquatics, Adult Sports, Fitness, Drop-In, Public Skating), open a cart and register as a new customer. | https://rec.kelowna.ca/registration/public |
+| Prince George Book a Park, School, Sport Field, Arena or Pool | Prince George · Municipal | Booking portal | Central booking hub for parks, sport fields, arenas, pools and school applications, with an embedded arena-booking widget and change/cancel functions. | https://www.princegeorge.ca/parks-recreation/book-park-school-arena-or-field |
+| Victoria Tennis and Pickleball Court Reservations | Victoria · Municipal | Reservation system | A live court-booking system with availability lookup, drop-in time listings and hourly reservations up to three weeks ahead. | https://www.victoria.ca/parks-recreation/recreation/tennis-pickleball-court-reservations |
 
 ### Alberta
 
@@ -2315,12 +2319,15 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta Parks — Reservations | Alberta · Provincial | Reservation system | Book campsites and comfort camping across Alberta's provincial parks and recreation areas | https://reserve.albertaparks.ca/ |
 | Public Land Recreation Maps | Alberta · Provincial | Recreation map hub | Downloadable and georeferenced recreation maps for public land | https://www.alberta.ca/public-land-recreation-maps |
 | Public Land Use | Alberta · Provincial | Outdoor info hub | Closures, advisories, PLUZ info, maps, and camping pass links | https://www.alberta.ca/public-land-use-zones |
+| Calgary Live and Play — Rentals and Bookings | Calgary · Municipal | Booking portal | Calgary's RecInfo portal showing bookable rental categories — arenas and leagues, sport fields, boat stalls and moorings — with account creation and a reservation flow. | https://liveandplay.calgary.ca/REGPROG/public/category/browse/RENTALS |
 
 ### Saskatchewan
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Sask Parks — Provincial Parks Portal | Saskatchewan · Provincial | Park finder & reservations | Official portal for Saskatchewan's provincial parks and recreation sites: campsite and yurt reservations, park entry permits, park guides, maps and seasonal reservation schedules. | https://www.saskparks.com/ |
+| Moose Jaw Facility Availability Booking | Moose Jaw · Municipal | Booking portal | The city's facility availability calendar with a select-a-facility filter, covering ice, turf, court and pool time at its sports complexes. | https://cityofmoosejaw.perfectmind.com/24467/Clients/BookMe4?widgetId=0368d91d-3b21-4f2a-aabf-6f51dd15b269 |
+| Regina Recreation Online Registration | Regina · Municipal | Registration portal | The city's own ActiveNet registration storefront for recreation programs, drop-in activities and facility bookings, with account creation and card checkout. | https://ca.apm.activecommunities.com/regina/ |
 
 ### Manitoba
 
@@ -2338,6 +2345,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Parks — Fall Colour Report | Ontario · Provincial | Fall colour report | Official fall colour reports for 60+ provincial parks: colour-change %, leaf fall, dominant colours, and best viewing spots, updated daily through the season. | https://www.ontarioparks.ca/fallcolour |
 | Ontario Parks — Reservations | Ontario · Provincial | Reservation system | Book campsites, roofed accommodations, and backcountry permits across Ontario's provincial parks | https://reservations.ontarioparks.ca/ |
 | Caledon Trails Open Data | Caledon · Municipal | Trails GIS dataset | Caledon trail network GIS layers on the municipal open data hub — download paths and recreation routes or explore via the geohub. | https://geohub-caledon.hub.arcgis.com/ |
+| Mississauga Book a Tee Time | Mississauga · Municipal | Booking portal | Tee-time reservation entry for Mississauga's two municipal courses, with resident booking windows and links into the live tee-sheet system. | https://www.mississauga.ca/golf/book-a-tee-time |
+| Owen Sound Ice Rentals | Ontario · Municipal | Booking portal | City booking page for municipal arena ice: a real calendar with slot picking and book-now actions, plus a last-minute availability calendar for gaps. | https://www.owensound.ca/recreation-culture/parks-trails-and-facilities/book-a-facility/ice-rentals |
+| Thunder Bay Book a Tee-Time | Thunder Bay · Municipal | Booking portal | Tee-time reservation page for the city's two municipal courses, with online booking and sign-up routed into the live tee sheets. | https://www.thunderbay.ca/recreation/golf/book-a-tee-time |
 | TONearby | Toronto · Municipal | Parks & recreation finder | Free app by independent developer Dmytro Kordik: find nearby drop-in activities, recreation programs, parks and community centres from City of Toronto open data — one map with date and age filters. Featured in the City of Toronto open data gallery. | https://tonearby.com/ |
 
 ### Quebec
@@ -2346,6 +2356,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Sépaq | Quebec · Provincial | Outdoor network portal | Huge outdoor destination network with parks, lodging, and activity discovery | https://www.sepaq.com/ |
 | Sépaq — Quebec Parks Online Reservations | Quebec · Provincial | Booking | Reserve camping, lodging, and activities across Quebec's Sépaq parks and wildlife reserves | https://www.sepaq.com/reservation/index.dot?language_id=1 |
+| Lévis — Inscription au camp de jour | Lévis · Municipal | Registration portal | French-language day-camp registration page stating two dated registration periods and routing residents to the city's online signup platform, with a phone option flagged as slow. | https://levis.ca/fr/loisirs-et-communaute/camp-de-jour/inscription |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -2358,14 +2369,19 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Department of Natural Resources and Renewables — Find a Provincial Park | Nova Scotia · Provincial | Lookup/filterable directory | Browse every provincial park filtered by region, activity (camping, beaches, hiking trails) and amenities (showers, electrical hookups, accessibility), with descriptions and maps. | https://parks.novascotia.ca/parks/all/all |
 | Nova Scotia Provincial Parks | Nova Scotia · Provincial | Parks portal | Find and book Nova Scotia's provincial parks, campgrounds, and beaches | https://parks.novascotia.ca/ |
 | PEI Parks | PEI · Provincial | Park finder | PEI provincial parks and beaches, camping and booking info | https://www.princeedwardisland.ca/en/topics/parks-and-environment |
+| Charlottetown Online Program Registration | Charlottetown · Municipal | Registration portal | Charlottetown's UniVersus Rec portal: view facility availability, request or book facilities, and browse programs and calendars by client account. | https://www.charlottetown.ca/leisure___recreation/programs_and_activities/online_program_registration |
+| Halifax Recreation Activities and Program Registration (myREC) | Halifax · Municipal | Registration portal | Regional Municipality signup hub: browse seasonal programs by course number, book drop-in activities, and start a facility rental booking, all through myREC. | https://www.halifax.ca/myrec |
 
 ### Northern Canada (YT, NT, NU)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | NWT Parks — Find a Park | Northwest Territories · Provincial | Park finder | Filter 34 NWT territorial parks by activity, facility and open/closed status; book campsites via the linked reservation portal. | https://www.nwtparks.ca/find-a-park |
+| NWT Parks — Reservations | Northwest Territories · Provincial | Reservation system | Government of the Northwest Territories' official booking front door for its 20 territorial campgrounds; per-park Reserve Now buttons open the Going Toe to Toe engine with campsite availability and date selection, and each campground page states its own season dates. | https://www.nwtparks.ca/reservations |
 | Nunavut Parks and Special Places | Nunavut · Provincial | Park finder | Government of Nunavut directory of the territory's 15 territorial parks and special places, from Sylvia Grinnell to Katannilik. | https://www.gov.nu.ca/en/department-environment/parks-and-special-places |
 | Yukon Parks — Camping Reservations | Yukon · Provincial | Reservation tool | Book frontcountry, backcountry and group campsites at Yukon territorial campgrounds; search availability by park, dates and equipment. | https://yukon.goingtocamp.com/ |
+| Iqaluit Recreation Online Services | Iqaluit · Municipal | Registration portal | Nunavut's capital recreation booking storefront on ActiveCommunities, where residents register for programs and reserve city facilities. | https://anc.ca.apm.activecommunities.com/iqaluitrecreation/home?onlineSiteId=0 |
+| Whitehorse Facility Booking | Whitehorse · Municipal | Booking portal | Per-space Book online links for the Canada Games Centre ice, the Northwestel Arena, fieldhouse and halls, with hourly and full-day rates. | https://www.whitehorse.ca/living-in-whitehorse/parks-recreation/facility-booking/ |
 
 ## 🌍 Environment, Climate & Monitoring
 
