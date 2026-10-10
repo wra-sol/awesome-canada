@@ -33704,5 +33704,285 @@
       "health"
     ],
     "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Peterborough — Snow Plow Map",
+    "url": "https://www.peterborough.ca/living-in-peterborough/roads-and-sidewalks/snow-removal/snow-plow-map/",
+    "description": "Auto-refreshing map of the city's plow fleet, colour-coded by how recently each street was last cleared (uncoloured = more than 24 hours). Refreshes every five minutes; the city explicitly disclaims any guarantee of safe conditions.",
+    "category": "transport-roads",
+    "jurisdiction": "Peterborough",
+    "level": "Municipal",
+    "type": "Snow plow map",
+    "tags": [
+      "municipal",
+      "snow",
+      "plow tracker",
+      "winter",
+      "roads",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "City of Greater Sudbury — Snow Plow Status Map",
+    "url": "https://www.greatersudbury.ca/live/transportation-parking-and-roads/road-maintenance/plow-status/",
+    "description": "Near-real-time map of snow clearing on streets and sidewalks, refreshed about every 30 minutes, with per-street last-serviced times. Runs on Geotab Citizen Insights inside the City's own portal.",
+    "category": "transport-roads",
+    "jurisdiction": "Greater Sudbury",
+    "level": "Municipal",
+    "type": "Snow plow map",
+    "tags": [
+      "municipal",
+      "snow",
+      "plow tracker",
+      "winter",
+      "roads",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Thunder Bay — Snowplow Status Map",
+    "url": "https://www.thunderbay.ca/city-services/roads-and-active-transportation/snow-removal/",
+    "description": "Winter operations page built around an interactive map showing which streets were last serviced by which plow during and after snow events, alongside the City's clearing standards and a dispatch line for service complaints.",
+    "category": "transport-roads",
+    "jurisdiction": "Thunder Bay",
+    "level": "Municipal",
+    "type": "Snow plow map",
+    "tags": [
+      "municipal",
+      "snow",
+      "plow tracker",
+      "winter",
+      "roads",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Barrie — Winter Road and Sidewalk Maintenance",
+    "url": "https://www.barrie.ca/services-payments/road-sidewalk-maintenance/winter-maintenance",
+    "description": "Winter maintenance hub whose centrepiece is the Plow Tracker, a map showing when a given street was last serviced, plus overnight parking restrictions, service levels and downtown business responsibilities.",
+    "category": "transport-roads",
+    "jurisdiction": "Barrie",
+    "level": "Municipal",
+    "type": "Winter maintenance",
+    "tags": [
+      "municipal",
+      "snow",
+      "plow tracker",
+      "winter",
+      "roads",
+      "parking"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Saskatoon — Snow and Ice Report",
+    "url": "https://www.saskatoon.ca/moving-around/driving-roadways/winter-road-maintenance/snow-and-ice-report",
+    "description": "Live winter operations report: current weather assessment, what crews are doing on priority streets right now, sidewalk clearing deadlines and driving advice — republished as a subscribeable RSS alert feed.",
+    "category": "transport-roads",
+    "jurisdiction": "Saskatoon",
+    "level": "Municipal",
+    "type": "Road conditions",
+    "tags": [
+      "municipal",
+      "snow",
+      "ice",
+      "winter",
+      "roads",
+      "alerts"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "York Region — Traffic Cameras",
+    "url": "https://www.york.ca/transportation/roads/traffic-cameras",
+    "description": "Regional live camera viewer showing camera locations and recent road photos, images auto-updating every three minutes. The Region states it records nothing; documents the 24/7 operations centre and its 430+ Bluetooth travel-time sensors.",
+    "category": "transport-roads",
+    "jurisdiction": "York Region",
+    "level": "Regional",
+    "type": "Traffic cameras",
+    "tags": [
+      "regional",
+      "roads",
+      "cameras",
+      "traffic",
+      "live"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Brantford — Road Closures",
+    "url": "https://www.brantford.ca/transportation/road-closures/",
+    "description": "Feeds three live closure lists to maps: city construction projects, non-city construction (utilities, private contractors), and special events. Explicitly excludes emergency closures. Backed by an ArcGIS feature service.",
+    "category": "transport-roads",
+    "jurisdiction": "Brantford",
+    "level": "Municipal",
+    "type": "Road closures",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "construction",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Burnaby — Road Closures Map",
+    "url": "https://www.burnaby.ca/services-and-payments/roads-and-traffic/road-closures",
+    "description": "Interactive map of current and planned construction closures citywide, lookupable by location. The page states that accident, emergency, special-event and filming closures are excluded.",
+    "category": "transport-roads",
+    "jurisdiction": "Burnaby",
+    "level": "Municipal",
+    "type": "Road closures map",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "construction",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Brandon — Road Closures",
+    "url": "https://www.brandon.ca/roads-parking-transportation/road-closures/",
+    "description": "Described by the City as a real-time central hub for road, street and lane closures, covering construction projects, detour routes and traffic advisories, plus the statutory notice for permanently opening or closing municipal roads.",
+    "category": "transport-roads",
+    "jurisdiction": "Brandon",
+    "level": "Municipal",
+    "type": "Road closures",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "detours",
+      "traffic"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Fredericton — Web Cameras",
+    "url": "https://www.fredericton.ca/about-fredericton/web-cameras",
+    "description": "Embeds five live municipal camera views on the City's own ArcGIS platform for residents to check current conditions around town.",
+    "category": "transport-roads",
+    "jurisdiction": "Fredericton",
+    "level": "Municipal",
+    "type": "Web cameras",
+    "tags": [
+      "municipal",
+      "roads",
+      "cameras",
+      "live",
+      "conditions"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "York Region — Road Closures",
+    "url": "https://www.york.ca/transportation/roads/road-closures",
+    "description": "Live list of current and upcoming planned road closures, each entry giving the road segment, start and end date-times, and the project or reason — emergency repairs through major capital works such as the Yonge Street revitalization.",
+    "category": "transport-roads",
+    "jurisdiction": "York Region",
+    "level": "Regional",
+    "type": "Road closures",
+    "tags": [
+      "regional",
+      "roads",
+      "closures",
+      "construction",
+      "live"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Cambridge — Road Closures Map",
+    "url": "https://www.cambridge.ca/business-building-development/road-closures/",
+    "description": "Live ArcGIS map of active municipal road closures, with a pointer to the Region of Waterloo for regional road and lane closures.",
+    "category": "transport-roads",
+    "jurisdiction": "Cambridge",
+    "level": "Municipal",
+    "type": "Road closures map",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "map",
+      "arcgis"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Halifax — Winter Street and Sidewalk Information Maps",
+    "url": "https://www.halifax.ca/transportation/winter-operations/winter-street-information",
+    "description": "Three interactive maps: winter street information (snow priority level, street ownership, maintenance responsibility), winter sidewalk information, and the overnight winter parking ban zone map. Supports address search and per-street pop-ups.",
+    "category": "transport-roads",
+    "jurisdiction": "Halifax",
+    "level": "Municipal",
+    "type": "Winter operations maps",
+    "tags": [
+      "municipal",
+      "snow",
+      "winter",
+      "roads",
+      "sidewalks",
+      "parking",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "St. John's — Traffic Advisories",
+    "url": "https://www.stjohns.ca/resident-services/transportation/traffic-advisories/",
+    "description": "Live advisory list covering current and scheduled closures for construction, road work, special events and street rehab, each with location and date range, updated as advisories are issued.",
+    "category": "transport-roads",
+    "jurisdiction": "St. John's",
+    "level": "Municipal",
+    "type": "Traffic advisories",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "traffic",
+      "advisories"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Hamilton — Lane Restrictions and Road Closures",
+    "url": "https://www.hamilton.ca/home-neighbourhood/getting-around/driving-traffic/lane-restrictions-and-road-closures",
+    "description": "Hub collecting current lane restrictions, permanent road and alleyway closures, corridor project impacts and detour information, linked to the City's map dashboards.",
+    "category": "transport-roads",
+    "jurisdiction": "Hamilton",
+    "level": "Municipal",
+    "type": "Road closures",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "detours",
+      "traffic"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Kitchener — Snow Plow Priorities Map",
+    "url": "https://www.kitchener.ca/living-in-kitchener/leaves-snow-recycling-and-garbage/snow-plow-priorities-map/",
+    "description": "Publishes the city's street-by-street plowing priority ranking (Priority 1 arterial and GRT bus routes down through lower tiers) with service levels, searchable by address, so residents can see how quickly their road will be cleared.",
+    "category": "transport-roads",
+    "jurisdiction": "Kitchener",
+    "level": "Municipal",
+    "type": "Snow plow map",
+    "tags": [
+      "municipal",
+      "snow",
+      "plow",
+      "winter",
+      "roads",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
   }
 ]

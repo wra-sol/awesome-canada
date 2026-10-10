@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2149 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2165 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -41,7 +41,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 43
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 59
 - [🚌 Transit & Mobility](#transit-and-mobility) — 91
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 88
@@ -1978,6 +1978,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | DriveBC | British Columbia · Provincial | Road conditions map | Cameras, closures, incidents, and route conditions | https://www.drivebc.ca/ |
 | ICBC — Crash Statistics and Open Data | British Columbia · Provincial | Open data portal | Download ICBC crash, casualty, intersection and vehicle-population open datasets (CSV) and explore interactive Tableau dashboards of reported crashes across B.C. | https://www.icbc.com/about-icbc/newsroom/Statistics |
 | ICBC — Driver Licensing | British Columbia · Provincial | Service | Book knowledge tests, road tests, renew BC driver's licences, and manage BC ID | https://www.icbc.com/driver-licensing |
+| Burnaby — Road Closures Map | Burnaby · Municipal | Road closures map | Interactive map of current and planned construction closures citywide, lookupable by location. The page states that accident, emergency, special-event and filming closures are excluded. | https://www.burnaby.ca/services-and-payments/roads-and-traffic/road-closures |
 
 ### Alberta
 
@@ -1995,6 +1996,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Saskatchewan 511 | Saskatchewan · Provincial | Road conditions map | Highway conditions, construction, and road cameras across SK | https://hotline.gov.sk.ca/ |
 | SGI — Saskatchewan Driver and Vehicle Services | Saskatchewan · Provincial | Service | Saskatchewan Government Insurance — driver's licence, vehicle registration, and road tests | https://www.sgi.sk.ca/ |
+| Saskatoon — Snow and Ice Report | Saskatoon · Municipal | Road conditions | Live winter operations report: current weather assessment, what crews are doing on priority streets right now, sidewalk clearing deadlines and driving advice — republished as a subscribeable RSS alert feed. | https://www.saskatoon.ca/moving-around/driving-roadways/winter-road-maintenance/snow-and-ice-report |
 
 ### Manitoba
 
@@ -2003,6 +2005,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Manitoba 511 — Highway Conditions | Manitoba · Provincial | Road conditions map | View live provincial highway conditions on an interactive map: road status, traffic speeds, closures, construction, winter roads, CCTV cameras, and route-planning with email/SMS alerts. | https://www.manitoba511.ca/ |
 | Manitoba Public Insurance — Driver Services | Manitoba · Provincial | Service | MPI account for driver's licence, insurance, and vehicle registration in Manitoba | https://www.mpi.mb.ca/ |
 | Manitoba Transportation and Infrastructure — Spring Road Restrictions Maps | Manitoba · Provincial | Map collection | Print current-year spring weight-restriction maps for provincial highways by region (11 zone PDFs plus Winnipeg enlargement) alongside the legal Spring Road Restrictions Order. | https://www.gov.mb.ca/mti/srr/srrmap.html |
+| Brandon — Road Closures | Brandon · Municipal | Road closures | Described by the City as a real-time central hub for road, street and lane closures, covering construction projects, detour routes and traffic advisories, plus the statutory notice for permanently opening or closing municipal roads. | https://www.brandon.ca/roads-parking-transportation/road-closures/ |
 | Winnipeg — Know Your Zone | Winnipeg · Municipal | Snow zone lookup | Look up your street's snow-clearing zone and get alerts on residential parking bans during Winnipeg plowing operations via address search or the mobile app. | https://www.winnipeg.ca/services-programs/transportation-roads-parking/road-boulevard-maintenance/know-your-zone-app |
 
 ### Ontario
@@ -2015,7 +2018,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario — Licence Plate Sticker Renewal | Ontario · Provincial | Service | Renew your Ontario licence plate sticker online and check renewal status | https://www.ontario.ca/page/renew-licence-plate-sticker |
 | Ontario Photo Card | Ontario · Provincial | ID service | Apply for an Ontario Photo Card — government-issued photo ID for residents who don't have a driver's licence | https://www.ontario.ca/page/ontario-photo-card |
 | ServiceOntario — Vehicle Registration Renewal | Ontario · Provincial | Service | Renew Ontario vehicle registration, transfer ownership, and order licence plate stickers online | https://www.ontario.ca/page/renew-drivers-licence |
+| York Region — Road Closures | York Region · Regional | Road closures | Live list of current and upcoming planned road closures, each entry giving the road segment, start and end date-times, and the project or reason — emergency repairs through major capital works such as the Yonge Street revitalization. | https://www.york.ca/transportation/roads/road-closures |
+| York Region — Traffic Cameras | York Region · Regional | Traffic cameras | Regional live camera viewer showing camera locations and recent road photos, images auto-updating every three minutes. The Region states it records nothing; documents the 24/7 operations centre and its 430+ Bluetooth travel-time sensors. | https://www.york.ca/transportation/roads/traffic-cameras |
+| Barrie — Winter Road and Sidewalk Maintenance | Barrie · Municipal | Winter maintenance | Winter maintenance hub whose centrepiece is the Plow Tracker, a map showing when a given street was last serviced, plus overnight parking restrictions, service levels and downtown business responsibilities. | https://www.barrie.ca/services-payments/road-sidewalk-maintenance/winter-maintenance |
+| Brantford — Road Closures | Brantford · Municipal | Road closures | Feeds three live closure lists to maps: city construction projects, non-city construction (utilities, private contractors), and special events. Explicitly excludes emergency closures. Backed by an ArcGIS feature service. | https://www.brantford.ca/transportation/road-closures/ |
+| Cambridge — Road Closures Map | Cambridge · Municipal | Road closures map | Live ArcGIS map of active municipal road closures, with a pointer to the Region of Waterloo for regional road and lane closures. | https://www.cambridge.ca/business-building-development/road-closures/ |
+| City of Greater Sudbury — Snow Plow Status Map | Greater Sudbury · Municipal | Snow plow map | Near-real-time map of snow clearing on streets and sidewalks, refreshed about every 30 minutes, with per-street last-serviced times. Runs on Geotab Citizen Insights inside the City's own portal. | https://www.greatersudbury.ca/live/transportation-parking-and-roads/road-maintenance/plow-status/ |
+| Hamilton — Lane Restrictions and Road Closures | Hamilton · Municipal | Road closures | Hub collecting current lane restrictions, permanent road and alleyway closures, corridor project impacts and detour information, linked to the City's map dashboards. | https://www.hamilton.ca/home-neighbourhood/getting-around/driving-traffic/lane-restrictions-and-road-closures |
+| Kitchener — Snow Plow Priorities Map | Kitchener · Municipal | Snow plow map | Publishes the city's street-by-street plowing priority ranking (Priority 1 arterial and GRT bus routes down through lower tiers) with service levels, searchable by address, so residents can see how quickly their road will be cleared. | https://www.kitchener.ca/living-in-kitchener/leaves-snow-recycling-and-garbage/snow-plow-priorities-map/ |
 | Ottawa Traffic, Parking and Road Bans | Ottawa · Municipal | Service | View real-time traffic conditions, road closures, parking restrictions, and seasonal road bans in Ottawa | https://traffic.ottawa.ca/ |
+| Peterborough — Snow Plow Map | Peterborough · Municipal | Snow plow map | Auto-refreshing map of the city's plow fleet, colour-coded by how recently each street was last cleared (uncoloured = more than 24 hours). Refreshes every five minutes; the city explicitly disclaims any guarantee of safe conditions. | https://www.peterborough.ca/living-in-peterborough/roads-and-sidewalks/snow-removal/snow-plow-map/ |
+| Thunder Bay — Snowplow Status Map | Thunder Bay · Municipal | Snow plow map | Winter operations page built around an interactive map showing which streets were last serviced by which plow during and after snow events, alongside the City's clearing standards and a dispatch line for service complaints. | https://www.thunderbay.ca/city-services/roads-and-active-transportation/snow-removal/ |
 | PlowTO — Snow Plow Tracker | Toronto · Municipal | Live map | Near-real-time GPS map of Toronto's salters, road plows, sidewalk plows and cycling-network plows, with colour-coded streets showing how recently each was serviced. | https://www.toronto.ca/services-payments/streets-parking-transportation/road-maintenance/winter-maintenance/plowto/ |
 | Toronto — T.O. INview Infrastructure Map | Toronto · Municipal | Construction projects map | Map planned and current construction in Toronto's right of way — road, sewer, water, utility, TTC and Metrolinx projects — searchable by year, location and type. | https://map.toronto.ca/toinview/ |
 
@@ -2041,6 +2054,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nova Scotia Registry of Motor Vehicles | Nova Scotia · Provincial | Service | Renew or replace NS driver's licence, vehicle registration, and plates | https://novascotia.ca/sns/access/drivers.asp |
 | Access PEI — Driver and Vehicle Services | PEI · Provincial | Service | PEI government services for driver's licences, vehicle registrations, and plates | https://www.princeedwardisland.ca/en/service/driver-licences-vehicle-registration |
 | PEI 511 — Road Conditions | PEI · Provincial | Road conditions map | Official provincial traveller service: interactive map and text report of highway conditions, closures, incidents, construction, road cameras, ferries and parks, plus saved routes with email/SMS alerts. | https://511.gov.pe.ca/ |
+| Fredericton — Web Cameras | Fredericton · Municipal | Web cameras | Embeds five live municipal camera views on the City's own ArcGIS platform for residents to check current conditions around town. | https://www.fredericton.ca/about-fredericton/web-cameras |
+| Halifax — Winter Street and Sidewalk Information Maps | Halifax · Municipal | Winter operations maps | Three interactive maps: winter street information (snow priority level, street ownership, maintenance responsibility), winter sidewalk information, and the overnight winter parking ban zone map. Supports address search and per-street pop-ups. | https://www.halifax.ca/transportation/winter-operations/winter-street-information |
+| St. John's — Traffic Advisories | St. John's · Municipal | Traffic advisories | Live advisory list covering current and scheduled closures for construction, road work, special events and street rehab, each with location and date range, updated as advisories are issued. | https://www.stjohns.ca/resident-services/transportation/traffic-advisories/ |
 
 ### Northern Canada (YT, NT, NU)
 
