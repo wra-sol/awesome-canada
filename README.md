@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2136 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2149 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -45,8 +45,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🚌 Transit & Mobility](#transit-and-mobility) — 91
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 88
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 80
-- [🌦️ Weather & Climate](#weather-and-climate) — 26
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
+- [🌦️ Weather & Climate](#weather-and-climate) — 30
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
@@ -2440,6 +2440,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Wildfire Service — Active Wildfires Map | British Columbia · Provincial | Wildfire map | Live BC wildfire locations, sizes, statuses, and evacuation orders | https://www2.gov.bc.ca/gov/content/safety/wildfire-status |
+| British Columbia — Algae Watch | British Columbia · Provincial | Water quality advisories | BC's public blue-green algae / cyanobacteria bloom advisory program: current beach and lake advisories, how to read the advisory levels before swimming, and how to report a bloom. | https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/water-quality/algae-watch |
+| British Columbia — Drought Information | British Columbia · Provincial | Drought monitoring | Current drought status and level by region across BC, the province's drought monitoring and reporting, water-supply outlooks and water-conservation guidance. | https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/drought-information |
 | British Columbia — GWELLS Groundwater Wells and Aquifers | British Columbia · Provincial | Searchable well database | Search BC water well records by owner, address, well tag or map, view aquifer details, and pull public well data through a REST API. | https://apps.nrs.gov.bc.ca/gwells/ |
 | British Columbia — Mineral Titles Online | British Columbia · Provincial | Tenure registry and map viewer | Map viewers and search tools for every mineral, placer and coal claim or lease in BC — locate tenures, check holders and status, and view reserve boundaries. | https://www.mtonline.gov.bc.ca/ |
 | Environmental Reporting BC | British Columbia · Provincial | Indicator library | Ministry of Environment indicator library across air, climate change, water, land, forests and species: graphs, maps, downloadable datasets and trend reports on groundwater, timber harvest and air quality. | https://www2.gov.bc.ca/gov/content/environment/research-monitoring-reporting/reporting/environmental-reporting-bc |
@@ -2451,11 +2453,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta — Drought | Alberta · Provincial | Drought monitoring | Government of Alberta's drought watch and monitoring page: current drought status by basin (Peace, Bow, Oldman, South Saskatchewan and others), drought reports and recovery information. | https://www.alberta.ca/drought |
 | Alberta — Water Well Information Database | Alberta · Provincial | Searchable well database | Search roughly 500,000 Alberta water well drilling reports, chemistry analyses and pump tests by owner name, well ID, legal land location or map selection. | https://groundwater.alberta.ca/waterwells/d/ |
 | Alberta Flood Awareness Map (FAMA) | Alberta · Provincial | Interactive map | Environment & Protected Areas viewer of provincial flood studies: switch between flood hazard, inundation, likelihood and forecast maps, click for flow/depth details, search by address and print summaries. | https://floods.alberta.ca/ |
 | Alberta Wildfire Status | Alberta · Provincial | Wildfire map | Live Alberta wildfire locations, sizes, causes, and fire bans | https://wildfire.alberta.ca/ |
 | Environment & Protected Areas — Air Data Warehouse | Alberta · Provincial | Dataset | Filter industrial and airshed ambient stations and download Alberta air-quality extracts (PM2.5, NO2, SO2, O3+) as CSV. | https://datamanagementplatform.alberta.ca/ambient |
 | Environment & Protected Areas — Environmental Records Viewer | Alberta · Provincial | Lookup tool | Map-search and download contaminated-site files, reclamation certificates, waste/industrial/pesticide authorizations and Water Act licences. | https://geospatial.alberta.ca/erv/ |
+| Calgary — Air Quality | Calgary · Municipal | Air quality index | The city's air quality program: current AQHI and pollutant readings from Calgary's monitoring network, the Air Quality Monitoring Plan, and what to do when air quality is poor. | https://www.calgary.ca/environment/policies/air-quality.html |
 | Edmonton — Trees Map | Edmonton · Municipal | Interactive map | Map of 260,000+ city-maintained trees with species and location — the open-data inventory behind Edmonton's urban forest program. | https://data.edmonton.ca/Environmental-Services/Trees-Map/udbt-eiax |
 
 ### Saskatchewan
@@ -2489,6 +2493,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Air Quality Ontario — AQHI and Real-Time Pollutant Data | Ontario · Provincial | Monitoring dashboard | Hourly Air Quality Health Index observations and forecasts across ~38 provincial stations, real-time O3, PM2.5, NO2 concentrations, alerts, and historical AQHI data search. | https://www.airqualityontario.com/ |
 | Ministry of Natural Resources — Hunting Regulations Summary | Ontario · Provincial | Regulations guide | Annual hunt-and-trap guide: licences and fees, season dates and rules per game species (moose, deer, bear, turkey), WMU maps and mandatory reporting; full PDF download. | https://www.ontario.ca/document/ontario-hunting-regulations-summary |
 | Ministry of the Environment — Source Protection Information Atlas | Ontario · Provincial | Interactive map | Look up any address to see wellhead protection areas, intake zones, vulnerable aquifers and water-taking permits on the provincial source-water atlas. | https://www.lioapplications.lrc.gov.on.ca/SourceWaterProtection/index.html?viewer=SourceWaterProtection.SWPViewer&locale=en-CA |
+| Ontario — Air Quality Health Index | Ontario · Provincial | Air quality index | Ontario's provincial AQHI lookup and guidance: how the index works, current AQHI for Ontario communities, and health advice per risk level for children, seniors and people with heart or breathing conditions. | https://www.ontario.ca/page/air-quality-health-index |
 | Ontario — Environmental Registry (ERO) | Ontario · Provincial | Decision registry | Official public notice and comment registry for Ontario environmentally significant proposals: policies, permits (incl. water takings), and regulations open for comment, with ministry decisions posted. | https://ero.ontario.ca/ |
 | Ontario — Forest Fires Information | Ontario · Provincial | Wildfire map | Active Ontario forest fires, fire bans, and fire-weather conditions | https://www.ontario.ca/page/forest-fires |
 | Ontario — Well Records Search | Ontario · Provincial | Search database | Interactive map of every reported water well in Ontario from the Water Well Information System — click a well for its record, plus a companion map of active water-taking permits. | https://www.ontario.ca/page/well-records |
@@ -2512,8 +2517,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Department of Environment and Local Government — Contaminated Sites Viewer | New Brunswick · Provincial | Interactive map | Map every open and closed contaminated-site file in NB; search by address, click a site for details. Weekday-updated GeoNB interactive map. | https://geonb.snb.ca/contaminated_sites__lieux_contamines/index.html |
 | Ministry of Environment and Climate Change — Environmental Assessment Projects Register | Newfoundland and Labrador · Provincial | Public Register | Filterable register of provincial environmental assessments since March 2000: browse projects by year with proponents, registration dates, status and release decisions. | https://www.gov.nl.ca/eccc/env-assessment/projects-list/ |
 | MMSB — Green Depot Locator | Newfoundland and Labrador · Provincial | Lookup tool | Interactive Leaflet map plus searchable listing of all ~55 licensed beverage-container recycling depots across NL, with addresses, hours, contacts and paint/electronics acceptance notes. | https://mmsb.nl.ca/green-depot/ |
+| Newfoundland and Labrador — Water and Climate Monitoring | Newfoundland and Labrador · Provincial | Environmental monitoring | NL's surface-water and climate monitoring program: real-time streamflow and lake-level gauges, water temperature, and climate station data, with links through to the provincial data portals. | https://www.gov.nl.ca/eccc/waterres/water-and-climate-monitoring/ |
+| Newfoundland and Labrador Water Resources Portal | Newfoundland and Labrador · Provincial | Interactive map | The province's interactive water-resources map service: water bodies and watersheds with gauging stations and current readings, plus mapped flood-prone areas and water-use zones. | https://maps.gov.nl.ca/water/ |
 | NL Water Resources Management Division Portal | Newfoundland and Labrador · Provincial | Water data portal | Real-time streamflow and water level monitoring, drinking water quality, boil water advisories, floodplain maps, water rights registry and an interactive water resources map. | https://www.gov.nl.ca/eccc/waterres/ |
 | Department of Environment and Climate Change — Water Resources Data Portal | Nova Scotia · Provincial | Dashboard | Interactive maps and charts of provincial groundwater levels, river flows, lake/river water quality, and weather used to track water conditions over time. | https://novascotia.ca/water-resources-data-portal/ |
+| Nova Scotia — Air Quality Health Index | Nova Scotia · Provincial | Air quality index | The province's own AQHI page from Natural Resources and Renewables: current index readings for Nova Scotia's monitoring stations, plus what each risk level means and what residents, children and seniors should do about it. | https://novascotia.ca/nse/aqhi/ |
+| Nova Scotia — Ambient Air Quality Data | Nova Scotia · Provincial | Monitoring data | Portal to Nova Scotia's ambient air monitoring record — station observations for SO2, NOx, PM2.5, O3 and haze, data summaries and access to the underlying monitoring data. | https://novascotia.ca/nse/airdata/ |
 | Nova Scotia Coastal Hazard Map (NSGI) | Nova Scotia · Provincial | Interactive map | Province of Nova GeoNova viewer for coastal hazard layers including flooding and erosion risk, complementing legacy provincial flood-risk mapping data. | https://nsgi.novascotia.ca/chm |
 | Wildfire Nova Scotia Viewer (DNRR) | Nova Scotia · Provincial | Map viewer | Interactive map of current-year wildfires showing location, size and control status, published by Natural Resources and Renewables Forest Protection. | https://experience.arcgis.com/experience/0ee935539ce5495d86ce607d11a57a30/ |
 | Department of Land and Environment — PEI Air Monitoring | PEI · Provincial | Dashboard | Explore PEI ambient air-quality dashboards (AQHI, CAAQS) and download provincial air-quality reports from the monitoring network. | https://air.princeedwardisland.ca/ |
@@ -2543,6 +2552,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Weather Radar — Interactive Map | Canada · Federal | Interactive map | Environment Canada's national radar mosaic — animated precipitation radar for the whole country on one interactive map, with rain/snow layers and station-level detail. | https://weather.gc.ca/index_e.html?layers=%2Cradar |
 | ECCC FireWork — Wildfire Smoke Forecasts | Canada · Federal | Smoke forecast maps | Environment and Climate Change Canada's official 72-hour wildfire smoke dispersion and PM2.5 forecast maps, feeding the Air Quality Health Index. | https://weather.gc.ca/firework/ |
 | MSC GeoMet — Weather and Climate API | Canada · Federal | Weather API | OGC API for Environment Canada weather, climate, and hydrometric layers — query forecasts, alerts, and station data programmatically. | https://api.weather.gc.ca/ |
+| Satellite Images and Animation — Environment Canada | Canada · Federal | Satellite imagery viewer | ECCC's satellite viewer on weather.gc.ca: browse GOES and other imagery over Canada, pick a sector or station, and step through animated loops of past and forecast frames to read cloud, smoke and storm cover yourself. | https://weather.gc.ca/satellite/index_e.html |
+| Seasonal Forecasts — Environment Canada | Canada · Federal | Forecast tool | Entry point to the Canadian seasonal prediction system, with month-by-month temperature and precipitation outlook maps for Canada over 6-, 9- and 12-month horizons. | https://weather.gc.ca/saisons/index_e.html |
 | Space Weather Canada | Canada · Federal | Forecast tool | Current conditions and short- and long-term forecasts of geomagnetic activity, aurora visibility, and solar and ionospheric data for Canadian regions. | https://www.spaceweather.gc.ca/index-en.php |
 | ClimateWest — Prairie Climate Data Hub | Canada · Agency | Climate services hub | Regional climate services hub for the three Prairie provinces: help desk for finding/using climate data, directory of Canadian climate data portals, sector guidance (agriculture, water, infrastructure, municipalities) and adaptation publications, case studies and training. | https://climatewest.ca/ |
 
@@ -2578,6 +2589,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Ausable Bayfield Conservation Authority — Flood Status | Ontario · Agency | Flood monitoring | The authority's live Flood Status feed reports current and forecast flooding across the Ausable, Bayfield, Parkhill, Mud and Lakeshore watersheds, with a parallel Low Water Status feed. | https://www.abca.ca/ |
+| Catfish Creek Conservation Authority — Flood Notices | Ontario · Agency | Flood monitoring | Live flood forecasting and warning for the Catfish Creek watershed: dated flood notices and emergency watershed condition statements, alongside the authority's low water advisories. | https://www.catfishcreek.ca/programs/water-management/flood-forecasting-and-warning/flood-notices/ |
 | Ontario Flood Forecasting and Warning | Ontario · Provincial | Flood monitoring | Provincial flood outlooks, watershed condition reports, and real-time flood messages for Ontario conservation authorities. | https://www.ontario.ca/floodforecast/ |
 | Ontario Low Water Response | Ontario · Provincial | Drought monitoring | Provincial low water level advisories and drought status by conservation authority watershed in Ontario. | https://www.ontario.ca/page/low-water-response-program |
 

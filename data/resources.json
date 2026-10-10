@@ -33485,5 +33485,224 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Satellite Images and Animation — Environment Canada",
+    "url": "https://weather.gc.ca/satellite/index_e.html",
+    "description": "ECCC's satellite viewer on weather.gc.ca: browse GOES and other imagery over Canada, pick a sector or station, and step through animated loops of past and forecast frames to read cloud, smoke and storm cover yourself.",
+    "category": "weather",
+    "jurisdiction": "Canada",
+    "level": "Federal",
+    "type": "Satellite imagery viewer",
+    "tags": [
+      "federal",
+      "satellite",
+      "imagery",
+      "animation",
+      "weather"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Seasonal Forecasts — Environment Canada",
+    "url": "https://weather.gc.ca/saisons/index_e.html",
+    "description": "Entry point to the Canadian seasonal prediction system, with month-by-month temperature and precipitation outlook maps for Canada over 6-, 9- and 12-month horizons.",
+    "category": "weather",
+    "jurisdiction": "Canada",
+    "level": "Federal",
+    "type": "Forecast tool",
+    "tags": [
+      "federal",
+      "forecast",
+      "seasonal",
+      "outlook",
+      "weather"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Nova Scotia — Air Quality Health Index",
+    "url": "https://novascotia.ca/nse/aqhi/",
+    "description": "The province's own AQHI page from Natural Resources and Renewables: current index readings for Nova Scotia's monitoring stations, plus what each risk level means and what residents, children and seniors should do about it.",
+    "category": "environment",
+    "jurisdiction": "Nova Scotia",
+    "level": "Provincial",
+    "type": "Air quality index",
+    "tags": [
+      "provincial",
+      "air-quality",
+      "aqhi",
+      "monitoring",
+      "health"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Nova Scotia — Ambient Air Quality Data",
+    "url": "https://novascotia.ca/nse/airdata/",
+    "description": "Portal to Nova Scotia's ambient air monitoring record — station observations for SO2, NOx, PM2.5, O3 and haze, data summaries and access to the underlying monitoring data.",
+    "category": "environment",
+    "jurisdiction": "Nova Scotia",
+    "level": "Provincial",
+    "type": "Monitoring data",
+    "tags": [
+      "provincial",
+      "air-quality",
+      "monitoring",
+      "data",
+      "pollutants"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Newfoundland and Labrador — Water and Climate Monitoring",
+    "url": "https://www.gov.nl.ca/eccc/waterres/water-and-climate-monitoring/",
+    "description": "NL's surface-water and climate monitoring program: real-time streamflow and lake-level gauges, water temperature, and climate station data, with links through to the provincial data portals.",
+    "category": "environment",
+    "jurisdiction": "Newfoundland and Labrador",
+    "level": "Provincial",
+    "type": "Environmental monitoring",
+    "tags": [
+      "provincial",
+      "water",
+      "streamflow",
+      "gauges",
+      "monitoring"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Newfoundland and Labrador Water Resources Portal",
+    "url": "https://maps.gov.nl.ca/water/",
+    "description": "The province's interactive water-resources map service: water bodies and watersheds with gauging stations and current readings, plus mapped flood-prone areas and water-use zones.",
+    "category": "environment",
+    "jurisdiction": "Newfoundland and Labrador",
+    "level": "Provincial",
+    "type": "Interactive map",
+    "tags": [
+      "provincial",
+      "water",
+      "map",
+      "gauges",
+      "flood"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "British Columbia — Drought Information",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/drought-information",
+    "description": "Current drought status and level by region across BC, the province's drought monitoring and reporting, water-supply outlooks and water-conservation guidance.",
+    "category": "environment",
+    "jurisdiction": "British Columbia",
+    "level": "Provincial",
+    "type": "Drought monitoring",
+    "tags": [
+      "provincial",
+      "drought",
+      "water",
+      "monitoring"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "British Columbia — Algae Watch",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/water-quality/algae-watch",
+    "description": "BC's public blue-green algae / cyanobacteria bloom advisory program: current beach and lake advisories, how to read the advisory levels before swimming, and how to report a bloom.",
+    "category": "environment",
+    "jurisdiction": "British Columbia",
+    "level": "Provincial",
+    "type": "Water quality advisories",
+    "tags": [
+      "provincial",
+      "algae",
+      "bloom",
+      "water-quality",
+      "advisories"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Alberta — Drought",
+    "url": "https://www.alberta.ca/drought",
+    "description": "Government of Alberta's drought watch and monitoring page: current drought status by basin (Peace, Bow, Oldman, South Saskatchewan and others), drought reports and recovery information.",
+    "category": "environment",
+    "jurisdiction": "Alberta",
+    "level": "Provincial",
+    "type": "Drought monitoring",
+    "tags": [
+      "provincial",
+      "drought",
+      "water",
+      "monitoring"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Ausable Bayfield Conservation Authority — Flood Status",
+    "url": "https://www.abca.ca/",
+    "description": "The authority's live Flood Status feed reports current and forecast flooding across the Ausable, Bayfield, Parkhill, Mud and Lakeshore watersheds, with a parallel Low Water Status feed.",
+    "category": "weather",
+    "jurisdiction": "Ontario",
+    "level": "Agency",
+    "type": "Flood monitoring",
+    "tags": [
+      "agency",
+      "flood",
+      "conservation-authority",
+      "alerts",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Catfish Creek Conservation Authority — Flood Notices",
+    "url": "https://www.catfishcreek.ca/programs/water-management/flood-forecasting-and-warning/flood-notices/",
+    "description": "Live flood forecasting and warning for the Catfish Creek watershed: dated flood notices and emergency watershed condition statements, alongside the authority's low water advisories.",
+    "category": "weather",
+    "jurisdiction": "Ontario",
+    "level": "Agency",
+    "type": "Flood monitoring",
+    "tags": [
+      "agency",
+      "flood",
+      "conservation-authority",
+      "alerts",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Calgary — Air Quality",
+    "url": "https://www.calgary.ca/environment/policies/air-quality.html",
+    "description": "The city's air quality program: current AQHI and pollutant readings from Calgary's monitoring network, the Air Quality Monitoring Plan, and what to do when air quality is poor.",
+    "category": "environment",
+    "jurisdiction": "Calgary",
+    "level": "Municipal",
+    "type": "Air quality index",
+    "tags": [
+      "municipal",
+      "air-quality",
+      "aqhi",
+      "monitoring",
+      "health"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Ontario — Air Quality Health Index",
+    "url": "https://www.ontario.ca/page/air-quality-health-index",
+    "description": "Ontario's provincial AQHI lookup and guidance: how the index works, current AQHI for Ontario communities, and health advice per risk level for children, seniors and people with heart or breathing conditions.",
+    "category": "environment",
+    "jurisdiction": "Ontario",
+    "level": "Provincial",
+    "type": "Air quality index",
+    "tags": [
+      "provincial",
+      "air-quality",
+      "aqhi",
+      "monitoring",
+      "health"
+    ],
+    "dateAdded": "2026-10-10"
   }
 ]
