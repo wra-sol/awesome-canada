@@ -24014,6 +24014,23 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "NWT Parks — Reservations",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "parks",
+    "type": "Reservation system",
+    "description": "Government of the Northwest Territories' official booking front door for its 20 territorial campgrounds; per-park Reserve Now buttons open the Going Toe to Toe engine with campsite availability and date selection, and each campground page states its own season dates.",
+    "url": "https://www.nwtparks.ca/reservations",
+    "tags": [
+      "provincial",
+      "northwest territories",
+      "camping",
+      "reservations",
+      "parks"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
     "name": "Department of Natural Resources and Renewables — Find a Provincial Park",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -24190,6 +24207,24 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Burnaby WebReg Online Registration",
+    "level": "Municipal",
+    "jurisdiction": "Burnaby",
+    "category": "parks",
+    "type": "Registration portal",
+    "description": "The city's official WebReg short link, resolving to Burnaby's ActiveNet registration and facility-booking portal.",
+    "url": "https://www.burnaby.ca/webreg",
+    "tags": [
+      "municipal",
+      "burnaby",
+      "british columbia",
+      "recreation",
+      "registration",
+      "webreg"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
     "name": "Caledon Trails Open Data",
     "level": "Municipal",
     "jurisdiction": "Caledon",
@@ -24204,6 +24239,221 @@
       "gis",
       "arcgis"
     ]
+  },
+  {
+    "name": "Calgary Live and Play — Rentals and Bookings",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "parks",
+    "type": "Booking portal",
+    "description": "Calgary's RecInfo portal showing bookable rental categories — arenas and leagues, sport fields, boat stalls and moorings — with account creation and a reservation flow.",
+    "url": "https://liveandplay.calgary.ca/REGPROG/public/category/browse/RENTALS",
+    "tags": [
+      "municipal",
+      "calgary",
+      "alberta",
+      "recreation",
+      "rentals",
+      "booking"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Charlottetown Online Program Registration",
+    "level": "Municipal",
+    "jurisdiction": "Charlottetown",
+    "category": "parks",
+    "type": "Registration portal",
+    "description": "Charlottetown's UniVersus Rec portal: view facility availability, request or book facilities, and browse programs and calendars by client account.",
+    "url": "https://www.charlottetown.ca/leisure___recreation/programs_and_activities/online_program_registration",
+    "tags": [
+      "municipal",
+      "charlottetown",
+      "pei",
+      "recreation",
+      "registration",
+      "booking"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Halifax Recreation Activities and Program Registration (myREC)",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "parks",
+    "type": "Registration portal",
+    "description": "Regional Municipality signup hub: browse seasonal programs by course number, book drop-in activities, and start a facility rental booking, all through myREC.",
+    "url": "https://www.halifax.ca/myrec",
+    "tags": [
+      "municipal",
+      "halifax",
+      "nova scotia",
+      "recreation",
+      "registration",
+      "myrec"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Iqaluit Recreation Online Services",
+    "level": "Municipal",
+    "jurisdiction": "Iqaluit",
+    "category": "parks",
+    "type": "Registration portal",
+    "description": "Nunavut's capital recreation booking storefront on ActiveCommunities, where residents register for programs and reserve city facilities.",
+    "url": "https://anc.ca.apm.activecommunities.com/iqaluitrecreation/home?onlineSiteId=0",
+    "tags": [
+      "municipal",
+      "iqaluit",
+      "nunavut",
+      "recreation",
+      "registration",
+      "booking"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Kelowna Recreation Online",
+    "level": "Municipal",
+    "jurisdiction": "Kelowna",
+    "category": "parks",
+    "type": "Registration portal",
+    "description": "Kelowna's ActiveNet registration portal: browse live program categories (Aquatics, Adult Sports, Fitness, Drop-In, Public Skating), open a cart and register as a new customer.",
+    "url": "https://rec.kelowna.ca/registration/public",
+    "tags": [
+      "municipal",
+      "kelowna",
+      "british columbia",
+      "recreation",
+      "registration",
+      "activenet"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Lévis — Inscription au camp de jour",
+    "level": "Municipal",
+    "jurisdiction": "Lévis",
+    "category": "parks",
+    "type": "Registration portal",
+    "description": "French-language day-camp registration page stating two dated registration periods and routing residents to the city's online signup platform, with a phone option flagged as slow.",
+    "url": "https://levis.ca/fr/loisirs-et-communaute/camp-de-jour/inscription",
+    "tags": [
+      "municipal",
+      "levis",
+      "quebec",
+      "french",
+      "day camp",
+      "registration"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Mississauga Book a Tee Time",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "parks",
+    "type": "Booking portal",
+    "description": "Tee-time reservation entry for Mississauga's two municipal courses, with resident booking windows and links into the live tee-sheet system.",
+    "url": "https://www.mississauga.ca/golf/book-a-tee-time",
+    "tags": [
+      "municipal",
+      "mississauga",
+      "ontario",
+      "golf",
+      "tee time",
+      "booking"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Moose Jaw Facility Availability Booking",
+    "level": "Municipal",
+    "jurisdiction": "Moose Jaw",
+    "category": "parks",
+    "type": "Booking portal",
+    "description": "The city's facility availability calendar with a select-a-facility filter, covering ice, turf, court and pool time at its sports complexes.",
+    "url": "https://cityofmoosejaw.perfectmind.com/24467/Clients/BookMe4?widgetId=0368d91d-3b21-4f2a-aabf-6f51dd15b269",
+    "tags": [
+      "municipal",
+      "moose jaw",
+      "saskatchewan",
+      "facility booking",
+      "recreation"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Owen Sound Ice Rentals",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "parks",
+    "type": "Booking portal",
+    "description": "City booking page for municipal arena ice: a real calendar with slot picking and book-now actions, plus a last-minute availability calendar for gaps.",
+    "url": "https://www.owensound.ca/recreation-culture/parks-trails-and-facilities/book-a-facility/ice-rentals",
+    "tags": [
+      "municipal",
+      "ontario",
+      "owen sound",
+      "arena",
+      "ice rentals",
+      "booking"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Prince George Book a Park, School, Sport Field, Arena or Pool",
+    "level": "Municipal",
+    "jurisdiction": "Prince George",
+    "category": "parks",
+    "type": "Booking portal",
+    "description": "Central booking hub for parks, sport fields, arenas, pools and school applications, with an embedded arena-booking widget and change/cancel functions.",
+    "url": "https://www.princegeorge.ca/parks-recreation/book-park-school-arena-or-field",
+    "tags": [
+      "municipal",
+      "prince george",
+      "british columbia",
+      "booking",
+      "arena",
+      "sport fields"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Regina Recreation Online Registration",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "parks",
+    "type": "Registration portal",
+    "description": "The city's own ActiveNet registration storefront for recreation programs, drop-in activities and facility bookings, with account creation and card checkout.",
+    "url": "https://ca.apm.activecommunities.com/regina/",
+    "tags": [
+      "municipal",
+      "regina",
+      "saskatchewan",
+      "recreation",
+      "registration",
+      "activenet"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Thunder Bay Book a Tee-Time",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "parks",
+    "type": "Booking portal",
+    "description": "Tee-time reservation page for the city's two municipal courses, with online booking and sign-up routed into the live tee sheets.",
+    "url": "https://www.thunderbay.ca/recreation/golf/book-a-tee-time",
+    "tags": [
+      "municipal",
+      "thunder bay",
+      "ontario",
+      "golf",
+      "tee time",
+      "booking"
+    ],
+    "dateAdded": "2026-10-09"
   },
   {
     "name": "TONearby",
@@ -24221,6 +24471,41 @@
       "open-data"
     ],
     "dateAdded": "2026-10-03"
+  },
+  {
+    "name": "Victoria Tennis and Pickleball Court Reservations",
+    "level": "Municipal",
+    "jurisdiction": "Victoria",
+    "category": "parks",
+    "type": "Reservation system",
+    "description": "A live court-booking system with availability lookup, drop-in time listings and hourly reservations up to three weeks ahead.",
+    "url": "https://www.victoria.ca/parks-recreation/recreation/tennis-pickleball-court-reservations",
+    "tags": [
+      "municipal",
+      "victoria",
+      "british columbia",
+      "tennis",
+      "pickleball",
+      "reservations"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Whitehorse Facility Booking",
+    "level": "Municipal",
+    "jurisdiction": "Whitehorse",
+    "category": "parks",
+    "type": "Booking portal",
+    "description": "Per-space Book online links for the Canada Games Centre ice, the Northwestel Arena, fieldhouse and halls, with hourly and full-day rates.",
+    "url": "https://www.whitehorse.ca/living-in-whitehorse/parks-recreation/facility-booking/",
+    "tags": [
+      "municipal",
+      "whitehorse",
+      "yukon",
+      "facility booking",
+      "recreation"
+    ],
+    "dateAdded": "2026-10-09"
   },
   {
     "name": "Codes Canada — CODES-GUIDES Online Library",
@@ -29830,6 +30115,25 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Wood Buffalo Transit (Fort McMurray)",
+    "level": "Regional",
+    "jurisdiction": "Alberta",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Transit program page of the Regional Municipality of Wood Buffalo, the municipal transit authority for Fort McMurray, with routes and schedules, fares, and paratransit information.",
+    "url": "https://www.rmwb.ca/programs-and-services/transit/",
+    "tags": [
+      "regional",
+      "alberta",
+      "fort mcmurray",
+      "wood buffalo",
+      "transit",
+      "bus",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
     "name": "Brampton Transit",
     "level": "Regional",
     "jurisdiction": "Brampton",
@@ -30255,6 +30559,44 @@
     ]
   },
   {
+    "name": "Brandon Transit",
+    "level": "Municipal",
+    "jurisdiction": "Brandon",
+    "category": "transit",
+    "type": "Transit",
+    "description": "City of Brandon transit page: routes and schedules, fare and pass information, and service updates for Manitoba's second-largest city.",
+    "url": "https://www.brandon.ca/transit",
+    "tags": [
+      "municipal",
+      "brandon",
+      "manitoba",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Brantford Transit",
+    "level": "Municipal",
+    "jurisdiction": "Brantford",
+    "category": "transit",
+    "type": "Transit",
+    "description": "City of Brantford's transit section, the official entry point to its bus routes, schedules and fare information.",
+    "url": "https://www.brantford.ca/transportation/brantford-transit/",
+    "tags": [
+      "municipal",
+      "brantford",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
     "name": "Burlington Transit — GTFS",
     "level": "Municipal",
     "jurisdiction": "Burlington",
@@ -30428,6 +30770,25 @@
     ]
   },
   {
+    "name": "Kingston Transit",
+    "level": "Municipal",
+    "jurisdiction": "Kingston",
+    "category": "transit",
+    "type": "Trip planner",
+    "description": "Trip-planning site for Kingston's city buses: an origin/destination planner with fastest / fewest-transfers / least-walking options, schedules and maps, standard fares and passes, online pass loading, service alerts, and a report-a-bus form.",
+    "url": "https://www.kingstontransit.ca/",
+    "tags": [
+      "municipal",
+      "kingston",
+      "ontario",
+      "transit",
+      "bus",
+      "trip planner",
+      "fares"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
     "name": "Kingston Transit GTFS",
     "level": "Municipal",
     "jurisdiction": "Kingston",
@@ -30443,6 +30804,25 @@
       "schedules",
       "routes"
     ]
+  },
+  {
+    "name": "Société de transport de Laval (STL)",
+    "level": "Municipal",
+    "jurisdiction": "Laval",
+    "category": "transit",
+    "type": "Transit",
+    "description": "English landing page of the intermunicipal transit society that runs Laval's bus network: route and schedule planning, fare products and a trip planner for the largest purely residential suburb in Quebec.",
+    "url": "https://stlaval.ca/en/",
+    "tags": [
+      "municipal",
+      "laval",
+      "quebec",
+      "transit",
+      "bus",
+      "trip planner",
+      "fares"
+    ],
+    "dateAdded": "2026-10-09"
   },
   {
     "name": "Lethbridge Transit GTFS",
@@ -30476,6 +30856,44 @@
       "transit",
       "ontario"
     ]
+  },
+  {
+    "name": "Réseau de transport de Longueuil (RTL)",
+    "level": "Municipal",
+    "jurisdiction": "Longueuil",
+    "category": "transit",
+    "type": "Transit",
+    "description": "English portal of the South Shore agency serving Longueuil, Boucherville, Saint-Lambert and Brossard, with route itineraries, schedules, fare tables and service notices.",
+    "url": "https://www.rtl-longueuil.qc.ca/en",
+    "tags": [
+      "municipal",
+      "longueuil",
+      "quebec",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Medicine Hat Transit",
+    "level": "Municipal",
+    "jurisdiction": "Medicine Hat",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Transit section of the City of Medicine Hat, with route and schedule information, fares and passes, and links to the city's transit app and reload card portal.",
+    "url": "https://www.medicinehat.ca/roads-parking-transportation/transit/",
+    "tags": [
+      "municipal",
+      "medicine hat",
+      "alberta",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-09"
   },
   {
     "name": "Milton — GTFS Feed",
@@ -30600,6 +31018,44 @@
       "schedules",
       "routes"
     ]
+  },
+  {
+    "name": "Oshawa Transit",
+    "level": "Municipal",
+    "jurisdiction": "Oshawa",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Transit page for the City of Oshawa in Durham Region, covering bus routes and schedules, fares and passes, and service information for the city's own transit operation.",
+    "url": "https://www.oshawa.ca/getting-around/transit/",
+    "tags": [
+      "municipal",
+      "oshawa",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Peterborough Transit",
+    "level": "Municipal",
+    "jurisdiction": "Peterborough",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Municipal transit page for Peterborough with route and schedule information, fare products, and service details for the city's bus network.",
+    "url": "https://www.peterborough.ca/transit",
+    "tags": [
+      "municipal",
+      "peterborough",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-09"
   },
   {
     "name": "STO — GTFS Open Data (Gatineau)",
@@ -30753,6 +31209,81 @@
     ]
   },
   {
+    "name": "Sault Ste. Marie Transit",
+    "level": "Municipal",
+    "jurisdiction": "Sault Ste. Marie",
+    "category": "transit",
+    "type": "Transit",
+    "description": "City of Sault Ste. Marie transit section, including bus routes and schedules, fare information, and service updates for the Ontario city's transit system.",
+    "url": "https://saultstemarie.ca/live/transit/",
+    "tags": [
+      "municipal",
+      "sault ste. marie",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Société de transport de Sherbrooke (STS)",
+    "level": "Municipal",
+    "jurisdiction": "Sherbrooke",
+    "category": "transit",
+    "type": "Transit",
+    "description": "French portal of Sherbrooke's municipal bus operator, covering the route network, schedules and itineraries, fares, and adapted (accessible) transit for the Estrie region.",
+    "url": "https://www.sts.qc.ca/",
+    "tags": [
+      "municipal",
+      "sherbrooke",
+      "quebec",
+      "french",
+      "transit",
+      "bus",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Thunder Bay Transit",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "transit",
+    "type": "Transit",
+    "description": "City page for Thunder Bay's transit division, the entry point to route schedules and maps, fare and pass details, and accessible transit information for the Ontario city.",
+    "url": "https://www.thunderbay.ca/city-services/transit/",
+    "tags": [
+      "municipal",
+      "thunder bay",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Timmins Transit",
+    "level": "Municipal",
+    "jurisdiction": "Timmins",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Timmins transit service page: route maps and schedules, fares, and Handy Transit accessible-service details for the Northern Ontario city.",
+    "url": "https://www.timmins.ca/our_services/timmins_transit",
+    "tags": [
+      "municipal",
+      "timmins",
+      "ontario",
+      "transit",
+      "bus",
+      "schedules",
+      "accessible"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
     "name": "Toronto Bicycle Counters",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -30843,6 +31374,44 @@
     "dateAdded": "2026-09-29"
   },
   {
+    "name": "TTC Wheel-Trans (paratransit booking)",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Registration and booking hub for Toronto's municipal paratransit service for people with disabilities, including eligibility, new-customer FAQs, booking online or by phone, and the Wheel-Trans 10-year strategy.",
+    "url": "https://www.ttc.ca/wheel-trans",
+    "tags": [
+      "municipal",
+      "toronto",
+      "ontario",
+      "transit",
+      "paratransit",
+      "accessible",
+      "booking"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Société de transport de Trois-Rivières (STTR)",
+    "level": "Municipal",
+    "jurisdiction": "Trois-Rivières",
+    "category": "transit",
+    "type": "Transit",
+    "description": "French homepage of the Trois-Rivières urban transit society: network maps, hourly timetables, fare rules and adapted-transport information for the Mauricie city.",
+    "url": "https://sttr.qc.ca/",
+    "tags": [
+      "municipal",
+      "trois-rivieres",
+      "quebec",
+      "french",
+      "transit",
+      "bus",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-09"
+  },
+  {
     "name": "Transit Windsor — GTFS",
     "level": "Municipal",
     "jurisdiction": "Windsor",
@@ -30884,6 +31453,25 @@
       "transit",
       "open data"
     ]
+  },
+  {
+    "name": "Yellowknife Transit",
+    "level": "Municipal",
+    "jurisdiction": "Yellowknife",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Transit hub for the City of Yellowknife in the Northwest Territories: bus routes and schedules, fare information, and service updates for the territory's capital.",
+    "url": "https://www.yellowknife.ca/transit",
+    "tags": [
+      "municipal",
+      "yellowknife",
+      "northwest territories",
+      "transit",
+      "bus",
+      "schedules",
+      "northern"
+    ],
+    "dateAdded": "2026-10-09"
   },
   {
     "name": "CBSA Border Wait Times",
@@ -32897,593 +33485,5 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "category": "parks",
-    "description": "Government of the Northwest Territories' official booking front door for its 20 territorial campgrounds; per-park Reserve Now buttons open the Going Toe to Toe engine with campsite availability and date selection, and each campground page states its own season dates.",
-    "jurisdiction": "Northwest Territories",
-    "level": "Provincial",
-    "name": "NWT Parks — Reservations",
-    "tags": [
-      "provincial",
-      "northwest territories",
-      "camping",
-      "reservations",
-      "parks"
-    ],
-    "type": "Reservation system",
-    "url": "https://www.nwtparks.ca/reservations",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "City booking page for municipal arena ice: a real calendar with slot picking and book-now actions, plus a last-minute availability calendar for gaps.",
-    "jurisdiction": "Ontario",
-    "level": "Municipal",
-    "name": "Owen Sound Ice Rentals",
-    "tags": [
-      "municipal",
-      "ontario",
-      "owen sound",
-      "arena",
-      "ice rentals",
-      "booking"
-    ],
-    "type": "Booking portal",
-    "url": "https://www.owensound.ca/recreation-culture/parks-trails-and-facilities/book-a-facility/ice-rentals",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "The city's own ActiveNet registration storefront for recreation programs, drop-in activities and facility bookings, with account creation and card checkout.",
-    "jurisdiction": "Regina",
-    "level": "Municipal",
-    "name": "Regina Recreation Online Registration",
-    "tags": [
-      "municipal",
-      "regina",
-      "saskatchewan",
-      "recreation",
-      "registration",
-      "activenet"
-    ],
-    "type": "Registration portal",
-    "url": "https://ca.apm.activecommunities.com/regina/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "Kelowna's ActiveNet registration portal: browse live program categories (Aquatics, Adult Sports, Fitness, Drop-In, Public Skating), open a cart and register as a new customer.",
-    "jurisdiction": "Kelowna",
-    "level": "Municipal",
-    "name": "Kelowna Recreation Online",
-    "tags": [
-      "municipal",
-      "kelowna",
-      "british columbia",
-      "recreation",
-      "registration",
-      "activenet"
-    ],
-    "type": "Registration portal",
-    "url": "https://rec.kelowna.ca/registration/public",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "Nunavut's capital recreation booking storefront on ActiveCommunities, where residents register for programs and reserve city facilities.",
-    "jurisdiction": "Iqaluit",
-    "level": "Municipal",
-    "name": "Iqaluit Recreation Online Services",
-    "tags": [
-      "municipal",
-      "iqaluit",
-      "nunavut",
-      "recreation",
-      "registration",
-      "booking"
-    ],
-    "type": "Registration portal",
-    "url": "https://anc.ca.apm.activecommunities.com/iqaluitrecreation/home?onlineSiteId=0",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "The city's facility availability calendar with a select-a-facility filter, covering ice, turf, court and pool time at its sports complexes.",
-    "jurisdiction": "Moose Jaw",
-    "level": "Municipal",
-    "name": "Moose Jaw Facility Availability Booking",
-    "tags": [
-      "municipal",
-      "moose jaw",
-      "saskatchewan",
-      "facility booking",
-      "recreation"
-    ],
-    "type": "Booking portal",
-    "url": "https://cityofmoosejaw.perfectmind.com/24467/Clients/BookMe4?widgetId=0368d91d-3b21-4f2a-aabf-6f51dd15b269",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "A live court-booking system with availability lookup, drop-in time listings and hourly reservations up to three weeks ahead.",
-    "jurisdiction": "Victoria",
-    "level": "Municipal",
-    "name": "Victoria Tennis and Pickleball Court Reservations",
-    "tags": [
-      "municipal",
-      "victoria",
-      "british columbia",
-      "tennis",
-      "pickleball",
-      "reservations"
-    ],
-    "type": "Reservation system",
-    "url": "https://www.victoria.ca/parks-recreation/recreation/tennis-pickleball-court-reservations",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "Regional Municipality signup hub: browse seasonal programs by course number, book drop-in activities, and start a facility rental booking, all through myREC.",
-    "jurisdiction": "Halifax",
-    "level": "Municipal",
-    "name": "Halifax Recreation Activities and Program Registration (myREC)",
-    "tags": [
-      "municipal",
-      "halifax",
-      "nova scotia",
-      "recreation",
-      "registration",
-      "myrec"
-    ],
-    "type": "Registration portal",
-    "url": "https://www.halifax.ca/myrec",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "Tee-time reservation entry for Mississauga's two municipal courses, with resident booking windows and links into the live tee-sheet system.",
-    "jurisdiction": "Mississauga",
-    "level": "Municipal",
-    "name": "Mississauga Book a Tee Time",
-    "tags": [
-      "municipal",
-      "mississauga",
-      "ontario",
-      "golf",
-      "tee time",
-      "booking"
-    ],
-    "type": "Booking portal",
-    "url": "https://www.mississauga.ca/golf/book-a-tee-time",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "The city's official WebReg short link, resolving to Burnaby's ActiveNet registration and facility-booking portal.",
-    "jurisdiction": "Burnaby",
-    "level": "Municipal",
-    "name": "Burnaby WebReg Online Registration",
-    "tags": [
-      "municipal",
-      "burnaby",
-      "british columbia",
-      "recreation",
-      "registration",
-      "webreg"
-    ],
-    "type": "Registration portal",
-    "url": "https://www.burnaby.ca/webreg",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "Charlottetown's UniVersus Rec portal: view facility availability, request or book facilities, and browse programs and calendars by client account.",
-    "jurisdiction": "Charlottetown",
-    "level": "Municipal",
-    "name": "Charlottetown Online Program Registration",
-    "tags": [
-      "municipal",
-      "charlottetown",
-      "pei",
-      "recreation",
-      "registration",
-      "booking"
-    ],
-    "type": "Registration portal",
-    "url": "https://www.charlottetown.ca/leisure___recreation/programs_and_activities/online_program_registration",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "Tee-time reservation page for the city's two municipal courses, with online booking and sign-up routed into the live tee sheets.",
-    "jurisdiction": "Thunder Bay",
-    "level": "Municipal",
-    "name": "Thunder Bay Book a Tee-Time",
-    "tags": [
-      "municipal",
-      "thunder bay",
-      "ontario",
-      "golf",
-      "tee time",
-      "booking"
-    ],
-    "type": "Booking portal",
-    "url": "https://www.thunderbay.ca/recreation/golf/book-a-tee-time",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "Calgary's RecInfo portal showing bookable rental categories — arenas and leagues, sport fields, boat stalls and moorings — with account creation and a reservation flow.",
-    "jurisdiction": "Calgary",
-    "level": "Municipal",
-    "name": "Calgary Live and Play — Rentals and Bookings",
-    "tags": [
-      "municipal",
-      "calgary",
-      "alberta",
-      "recreation",
-      "rentals",
-      "booking"
-    ],
-    "type": "Booking portal",
-    "url": "https://liveandplay.calgary.ca/REGPROG/public/category/browse/RENTALS",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "Central booking hub for parks, sport fields, arenas, pools and school applications, with an embedded arena-booking widget and change/cancel functions.",
-    "jurisdiction": "Prince George",
-    "level": "Municipal",
-    "name": "Prince George Book a Park, School, Sport Field, Arena or Pool",
-    "tags": [
-      "municipal",
-      "prince george",
-      "british columbia",
-      "booking",
-      "arena",
-      "sport fields"
-    ],
-    "type": "Booking portal",
-    "url": "https://www.princegeorge.ca/parks-recreation/book-park-school-arena-or-field",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "French-language day-camp registration page stating two dated registration periods and routing residents to the city's online signup platform, with a phone option flagged as slow.",
-    "jurisdiction": "Lévis",
-    "level": "Municipal",
-    "name": "Lévis — Inscription au camp de jour",
-    "tags": [
-      "municipal",
-      "levis",
-      "quebec",
-      "french",
-      "day camp",
-      "registration"
-    ],
-    "type": "Registration portal",
-    "url": "https://levis.ca/fr/loisirs-et-communaute/camp-de-jour/inscription",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "parks",
-    "description": "Per-space Book online links for the Canada Games Centre ice, the Northwestel Arena, fieldhouse and halls, with hourly and full-day rates.",
-    "jurisdiction": "Whitehorse",
-    "level": "Municipal",
-    "name": "Whitehorse Facility Booking",
-    "tags": [
-      "municipal",
-      "whitehorse",
-      "yukon",
-      "facility booking",
-      "recreation"
-    ],
-    "type": "Booking portal",
-    "url": "https://www.whitehorse.ca/living-in-whitehorse/parks-recreation/facility-booking/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "English landing page of the intermunicipal transit society that runs Laval's bus network: route and schedule planning, fare products and a trip planner for the largest purely residential suburb in Quebec.",
-    "jurisdiction": "Laval",
-    "level": "Municipal",
-    "name": "Société de transport de Laval (STL)",
-    "tags": [
-      "municipal",
-      "laval",
-      "quebec",
-      "transit",
-      "bus",
-      "trip planner",
-      "fares"
-    ],
-    "type": "Transit",
-    "url": "https://stlaval.ca/en/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "English portal of the South Shore agency serving Longueuil, Boucherville, Saint-Lambert and Brossard, with route itineraries, schedules, fare tables and service notices.",
-    "jurisdiction": "Longueuil",
-    "level": "Municipal",
-    "name": "Réseau de transport de Longueuil (RTL)",
-    "tags": [
-      "municipal",
-      "longueuil",
-      "quebec",
-      "transit",
-      "bus",
-      "schedules",
-      "fares"
-    ],
-    "type": "Transit",
-    "url": "https://www.rtl-longueuil.qc.ca/en",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "French homepage of the Trois-Rivières urban transit society: network maps, hourly timetables, fare rules and adapted-transport information for the Mauricie city.",
-    "jurisdiction": "Trois-Rivières",
-    "level": "Municipal",
-    "name": "Société de transport de Trois-Rivières (STTR)",
-    "tags": [
-      "municipal",
-      "trois-rivieres",
-      "quebec",
-      "french",
-      "transit",
-      "bus",
-      "schedules"
-    ],
-    "type": "Transit",
-    "url": "https://sttr.qc.ca/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "French portal of Sherbrooke's municipal bus operator, covering the route network, schedules and itineraries, fares, and adapted (accessible) transit for the Estrie region.",
-    "jurisdiction": "Sherbrooke",
-    "level": "Municipal",
-    "name": "Société de transport de Sherbrooke (STS)",
-    "tags": [
-      "municipal",
-      "sherbrooke",
-      "quebec",
-      "french",
-      "transit",
-      "bus",
-      "schedules"
-    ],
-    "type": "Transit",
-    "url": "https://www.sts.qc.ca/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "Registration and booking hub for Toronto's municipal paratransit service for people with disabilities, including eligibility, new-customer FAQs, booking online or by phone, and the Wheel-Trans 10-year strategy.",
-    "jurisdiction": "Toronto",
-    "level": "Municipal",
-    "name": "TTC Wheel-Trans (paratransit booking)",
-    "tags": [
-      "municipal",
-      "toronto",
-      "ontario",
-      "transit",
-      "paratransit",
-      "accessible",
-      "booking"
-    ],
-    "type": "Transit",
-    "url": "https://www.ttc.ca/wheel-trans",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "Trip-planning site for Kingston's city buses: an origin/destination planner with fastest / fewest-transfers / least-walking options, schedules and maps, standard fares and passes, online pass loading, service alerts, and a report-a-bus form.",
-    "jurisdiction": "Kingston",
-    "level": "Municipal",
-    "name": "Kingston Transit",
-    "tags": [
-      "municipal",
-      "kingston",
-      "ontario",
-      "transit",
-      "bus",
-      "trip planner",
-      "fares"
-    ],
-    "type": "Trip planner",
-    "url": "https://www.kingstontransit.ca/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "City page for Thunder Bay's transit division, the entry point to route schedules and maps, fare and pass details, and accessible transit information for the Ontario city.",
-    "jurisdiction": "Thunder Bay",
-    "level": "Municipal",
-    "name": "Thunder Bay Transit",
-    "tags": [
-      "municipal",
-      "thunder bay",
-      "ontario",
-      "transit",
-      "bus",
-      "schedules",
-      "fares"
-    ],
-    "type": "Transit",
-    "url": "https://www.thunderbay.ca/city-services/transit/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "Municipal transit page for Peterborough with route and schedule information, fare products, and service details for the city's bus network.",
-    "jurisdiction": "Peterborough",
-    "level": "Municipal",
-    "name": "Peterborough Transit",
-    "tags": [
-      "municipal",
-      "peterborough",
-      "ontario",
-      "transit",
-      "bus",
-      "schedules",
-      "fares"
-    ],
-    "type": "Transit",
-    "url": "https://www.peterborough.ca/transit",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "City of Sault Ste. Marie transit section, including bus routes and schedules, fare information, and service updates for the Ontario city's transit system.",
-    "jurisdiction": "Sault Ste. Marie",
-    "level": "Municipal",
-    "name": "Sault Ste. Marie Transit",
-    "tags": [
-      "municipal",
-      "sault ste. marie",
-      "ontario",
-      "transit",
-      "bus",
-      "schedules"
-    ],
-    "type": "Transit",
-    "url": "https://saultstemarie.ca/live/transit/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "Timmins transit service page: route maps and schedules, fares, and Handy Transit accessible-service details for the Northern Ontario city.",
-    "jurisdiction": "Timmins",
-    "level": "Municipal",
-    "name": "Timmins Transit",
-    "tags": [
-      "municipal",
-      "timmins",
-      "ontario",
-      "transit",
-      "bus",
-      "schedules",
-      "accessible"
-    ],
-    "type": "Transit",
-    "url": "https://www.timmins.ca/our_services/timmins_transit",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "City of Brantford's transit section, the official entry point to its bus routes, schedules and fare information.",
-    "jurisdiction": "Brantford",
-    "level": "Municipal",
-    "name": "Brantford Transit",
-    "tags": [
-      "municipal",
-      "brantford",
-      "ontario",
-      "transit",
-      "bus",
-      "schedules",
-      "fares"
-    ],
-    "type": "Transit",
-    "url": "https://www.brantford.ca/transportation/brantford-transit/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "Transit page for the City of Oshawa in Durham Region, covering bus routes and schedules, fares and passes, and service information for the city's own transit operation.",
-    "jurisdiction": "Oshawa",
-    "level": "Municipal",
-    "name": "Oshawa Transit",
-    "tags": [
-      "municipal",
-      "oshawa",
-      "ontario",
-      "transit",
-      "bus",
-      "schedules",
-      "fares"
-    ],
-    "type": "Transit",
-    "url": "https://www.oshawa.ca/getting-around/transit/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "City of Brandon transit page: routes and schedules, fare and pass information, and service updates for Manitoba's second-largest city.",
-    "jurisdiction": "Brandon",
-    "level": "Municipal",
-    "name": "Brandon Transit",
-    "tags": [
-      "municipal",
-      "brandon",
-      "manitoba",
-      "transit",
-      "bus",
-      "schedules",
-      "fares"
-    ],
-    "type": "Transit",
-    "url": "https://www.brandon.ca/transit",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "Transit section of the City of Medicine Hat, with route and schedule information, fares and passes, and links to the city's transit app and reload card portal.",
-    "jurisdiction": "Medicine Hat",
-    "level": "Municipal",
-    "name": "Medicine Hat Transit",
-    "tags": [
-      "municipal",
-      "medicine hat",
-      "alberta",
-      "transit",
-      "bus",
-      "schedules",
-      "fares"
-    ],
-    "type": "Transit",
-    "url": "https://www.medicinehat.ca/roads-parking-transportation/transit/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "Transit program page of the Regional Municipality of Wood Buffalo, the municipal transit authority for Fort McMurray, with routes and schedules, fares, and paratransit information.",
-    "jurisdiction": "Alberta",
-    "level": "Regional",
-    "name": "Wood Buffalo Transit (Fort McMurray)",
-    "tags": [
-      "regional",
-      "alberta",
-      "fort mcmurray",
-      "wood buffalo",
-      "transit",
-      "bus",
-      "schedules"
-    ],
-    "type": "Transit",
-    "url": "https://www.rmwb.ca/programs-and-services/transit/",
-    "dateAdded": "2026-10-09"
-  },
-  {
-    "category": "transit",
-    "description": "Transit hub for the City of Yellowknife in the Northwest Territories: bus routes and schedules, fare information, and service updates for the territory's capital.",
-    "jurisdiction": "Yellowknife",
-    "level": "Municipal",
-    "name": "Yellowknife Transit",
-    "tags": [
-      "municipal",
-      "yellowknife",
-      "northwest territories",
-      "transit",
-      "bus",
-      "schedules",
-      "northern"
-    ],
-    "type": "Transit",
-    "url": "https://www.yellowknife.ca/transit",
-    "dateAdded": "2026-10-09"
   }
 ]
