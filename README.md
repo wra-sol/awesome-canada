@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2165 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2181 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -29,7 +29,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 103
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
-- [🪪 Government Services & ID](#government-services-and-id) — 89
+- [🪪 Government Services & ID](#government-services-and-id) — 90
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 36
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
 - [🏢 Business & Procurement](#business-and-procurement) — 59
@@ -46,14 +46,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 88
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
-- [🌦️ Weather & Climate](#weather-and-climate) — 30
+- [🌦️ Weather & Climate](#weather-and-climate) — 32
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 54
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 44
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 66
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 79
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 54
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 38
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 31
@@ -888,6 +888,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | MyAlberta Digital ID | Alberta · Provincial | Digital ID | Verified digital identity used to access Alberta government services remotely | https://account.alberta.ca/signin |
 | Calgary — Garbage, Recycling and Composting Pickup Schedule | Calgary · Municipal | Lookup tool | Calgary's scheduling tool: type an address to get blue, green and black cart collection days, sign up for free pickup-day reminders by email or phone, or print and add an online calendar. Also covers holiday shifts, missed-cart reasons and community collection alerts. | https://www.calgary.ca/waste/residential/garbage-schedule.html |
 | Calgary — Impounded and Lost Pets | Calgary · Municipal | Lookup tool | Photos and descriptions of stray cats and dogs at Calgary Animal Services, updated every 15 minutes, so owners can spot their lost pet online. | https://www.calgary.ca/pets/lost-animals.html |
+| Edmonton — Service Alerts, Outages and Disruptions | Edmonton · Municipal | Service alerts | The City of Edmonton's official board of current service alerts, infrastructure outages and disruptions — the single place residents check for water, road and facility incident notices. | https://www.edmonton.ca/programs_services/alerts-disruptions |
 | Edmonton — Waste Collection Calendar | Edmonton · Municipal | Lookup tool | Official Edmonton Waste Collection Calendar page with the address look-up tool and a step-by-step view-and-print-your-calendar tutorial, plus the WasteWise app (schedule, reminders, sorting instructions) and guidance for apartment and condo collection days. | https://www.edmonton.ca/programs_services/garbage_waste/waste-collection-days-schedule |
 | Medicine Hat — Collection Schedule | Medicine Hat · Municipal | Collection schedule | Medicine Hat's 2026 collection schedule with a zone map, the myMH address portal and Recycle Coach. | https://www.medicinehat.ca/home-property-utilities/waste-collection/collection-schedule/ |
 | Medicine Hat — Report a Problem | Medicine Hat · Municipal | 311 service hub | Entry point to Medicine Hat's service request system: submit an online ticket for infrastructure faults (burnt-out street lights, cracked sidewalks, potholes, park problems) and check commonly requested items. | https://www.medicinehat.ca/home-property-utilities/utilities/report-a-problem/ |
@@ -2567,6 +2568,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Hurricane Centre | Canada · Federal | Forecast tool | Track maps, information statements and technical discussions for tropical and post-tropical cyclones threatening Canada, active June through November. | https://weather.gc.ca/hurricane/index_e.html |
 | Canadian Weather Radar — Interactive Map | Canada · Federal | Interactive map | Environment Canada's national radar mosaic — animated precipitation radar for the whole country on one interactive map, with rain/snow layers and station-level detail. | https://weather.gc.ca/index_e.html?layers=%2Cradar |
 | ECCC FireWork — Wildfire Smoke Forecasts | Canada · Federal | Smoke forecast maps | Environment and Climate Change Canada's official 72-hour wildfire smoke dispersion and PM2.5 forecast maps, feeding the Air Quality Health Index. | https://weather.gc.ca/firework/ |
+| ECCC GeoMet — Weather Alerts API | Canada · Federal | Weather API | The GeoMet-OGC API feature collection that serves Environment Canada's weather alerts as machine-readable GeoJSON — the structured feed behind the public alert pages, queryable by bounding box or geometry. | https://api.weather.gc.ca/collections/weather-alerts |
+| Environment Canada — Weather Alerts | Canada · Federal | Weather alerts | ECCC's master alert index: every active weather watch, warning and special weather statement in Canada in one browsable list, the page behind the familiar Environment Canada alert links. | https://weather.gc.ca/mainmenu/alert_menu_e.html |
 | MSC GeoMet — Weather and Climate API | Canada · Federal | Weather API | OGC API for Environment Canada weather, climate, and hydrometric layers — query forecasts, alerts, and station data programmatically. | https://api.weather.gc.ca/ |
 | Satellite Images and Animation — Environment Canada | Canada · Federal | Satellite imagery viewer | ECCC's satellite viewer on weather.gc.ca: browse GOES and other imagery over Canada, pick a sector or station, and step through animated loops of past and forecast frames to read cloud, smoke and storm cover yourself. | https://weather.gc.ca/satellite/index_e.html |
 | Seasonal Forecasts — Environment Canada | Canada · Federal | Forecast tool | Entry point to the Canadian seasonal prediction system, with month-by-month temperature and precipitation outlook maps for Canada over 6-, 9- and 12-month horizons. | https://weather.gc.ca/saisons/index_e.html |
@@ -3190,6 +3193,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | EmergencyInfoBC — Active Emergencies and Evacuation Orders | British Columbia · Provincial | Emergency alerts register | Ministry of Emergency Management portal listing current wildfires, floods, evacuation orders/alerts and states of provincial emergency, with links to EmergencyMapBC; updated continuously by local authorities. | https://www.emergencyinfobc.gov.bc.ca/ |
 | Financial Assistance in a Disaster (Evacuation Emergency Recovery) | British Columbia · Provincial | Disaster financial assistance | B.C.'s Evacuation Emergency Recovery program — eligibility and application routes for disaster financial assistance for evacuees, covering housing, rental and basic living costs after a declared emergency. | https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/evacuation-recovery/disaster-financial-assistance |
 | PreparedBC — Public Emergency Preparation and Recovery | British Columbia · Provincial | Preparedness portal | B.C.'s public-facing preparedness and recovery portal: how to prepare for floods, wildfires, earthquakes and other hazards, plus evacuation and disaster recovery information including financial assistance. | https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc |
+| Regional District of North Okanagan — Alertable | British Columbia · Regional | Emergency alerts | The Regional District of North Okanagan's Alertable alert page — a regional emergency notification service spanning member municipalities, including evacuation and shelter notices. | https://www.rdno.ca/alertable |
+| Nanaimo — Emergency Alert System (Voyent Alert) | Nanaimo · Municipal | Emergency alerts | The City of Nanaimo's official page for its Voyent Alert emergency call alert system, the channel used to issue and subscribe to city emergency notifications. | https://www.nanaimo.ca/public-safety/emergency-management/emergency-call-alert-system |
 | Vancouver — GeoDASH Crime Map | Vancouver · Municipal | Interactive crime map | Map crimes reported to Vancouver Police, filtering by neighbourhood, crime type and date range, with statistical reports updated every 24 hours. | https://geodash.vpd.ca/ |
 
 ### Alberta
@@ -3198,6 +3203,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alberta Emergency Preparedness | Alberta · Provincial | Preparedness hub | Albertans' preparedness hub — stocking essential items, building support networks, creating a plan, hazard awareness, pet preparedness, plus public education materials (videos, posters, fact sheets) and Alberta's annual preparedness survey. | https://www.alberta.ca/emergency-preparedness |
 | Public Safety & Emergency Services — Alberta Emergency Alert | Alberta · Provincial | Alert map & feed | View critical and advisory emergency alerts on a live map, browse a 7-year alert archive, and subscribe province-wide via the official Atom/RSS feed or mobile apps. | https://emergencyalert.alberta.ca/ |
+| Calgary — Flood alerts and notices | Calgary · Municipal | Flood alerts | Calgary Water's flood status page: which parts of the city are exposed when the Bow River rises, the current flood alert level and active notices, and what residents should do at each stage. | https://www.calgary.ca/water/flooding/stay-informed.html |
 | Edmonton — Neighbourhood Crime Mapping | Edmonton · Municipal | Interactive crime map | Click any Edmonton neighbourhood to plot eight crime types (assault, break and enter, vehicle theft, more) on a map for any date range up to 60 days. | https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping |
 
 ### Saskatchewan
@@ -3206,6 +3212,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | SaskAlert — Provincial Emergency Alert System | Saskatchewan · Provincial | Lookup tool | View current Saskatchewan emergency alerts (wildfires, floods, severe weather) by area and get notification info from the SPSA's official alerting service. | https://www.saskalert.ca/ |
 | Prince Albert — CSWB Data & Crime Dashboard | Prince Albert · Municipal | Dashboard | Interactive GIS crime dashboard updated weekly with police call data, plus encampment mapping and needle reporting for community safety and well-being. | https://www.citypa.ca/living-in-our-community/cswb/data-cswb/ |
+| Regina — NotifyNow | Regina · Municipal | Emergency alerts | The City of Regina's NotifyNow page — the municipal alert subscription flow for emergency and service notifications, run by the city under its own brand. | https://www.regina.ca/home-property/safety-emergencies/emergency-preparedness/notifynow/ |
+| Saskatoon — NotifyNow | Saskatoon · Municipal | Emergency alerts | The City of Saskatoon's NotifyNow page — the municipal alert subscription flow residents register with to receive emergency and service alert messages by text, phone or email. | https://www.saskatoon.ca/services-residents/fire-emergency/emergency-management/notifynow |
 | Saskatoon — Police Crime Map | Saskatoon · Municipal | Interactive crime map | View approximate locations of crimes and traffic collisions reported to Saskatoon Police on an interactive city map, by neighbourhood or citywide. | https://map.saskatoonpolice.ca/ |
 
 ### Manitoba
@@ -3233,9 +3241,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Québec en Alerte | Quebec · Provincial | Emergency alerts | Québec's official provincial public alerting system — a single page showing the current alert level by region, and where residents register to receive SMS, email and voice messages from the province during an emergency. | https://alerte.gouv.qc.ca/fr |
 | SOPFEU — Interactive Wildfire Map | Quebec · Provincial | Interactive map | Real-time map of active forest fires (size, status, cause), fire danger index by zone, and current burn restrictions across Quebec, with saved locations and email alerts; updated daily at 9am. | https://www.sopfeu.qc.ca/carte/ |
 | Vigilance — Surveillance de la crue des eaux | Quebec · Provincial | Monitoring portal | Sécurité publique real-time flood watch: river gauges, flood-extent surveillance maps and civil-security updates during spring freshet; complements regulatory flood-zone cartography. | https://vigilance.geo.msp.gouv.qc.ca/ |
+| Gatineau — Avis importants, alertes et urgences | Gatineau · Municipal | Notices and alerts | Ville de Gatineau's official important-notices, alerts and emergencies hub, with a direct path to subscribing to municipal emergency notifications. | https://www.gatineau.ca/portail/default.aspx?p=avis_importants_alertes_urgences |
+| Montreal — Avis et alertes | Montreal · Municipal | Notices and alerts | Ville de Montréal's official notices-and-alerts board, the municipal channel residents check for city-issued advisories and emergency notices. | https://montreal.ca/avis-et-alertes |
 | Montréal — Vue sur la sécurité publique | Montreal · Municipal | Crime data visualization | Visualize SPVM police data on Montreal crime since 2015 through an interactive map and charts, by borough, category and time period. | https://ville.montreal.qc.ca/vuesurlasecuritepublique/ |
+| Quebec City — Québec en alerte | Quebec City · Municipal | Emergency alerts | Ville de Québec's own instance of the Québec en alerte system, showing the current municipal alert state and letting residents subscribe to city-issued alerts. | https://alerte.ville.quebec.qc.ca/ |
+| Sherbrooke — Situations d'urgence | Sherbrooke · Municipal | Emergency information | Sherbrooke's official emergency situations page, covering the city's alert levels, alerts by sector and what to do during a crisis. | https://www.sherbrooke.ca/fr/services-a-la-population/securite-publique-et-situations-d-urgence/situations-d-urgence |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -3246,6 +3259,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | WorkplaceNL — Certification Training Registry (CTR) Course Marketplace | Newfoundland and Labrador · Provincial | Lookup tool | Search the marketplace of WorkplaceNL-approved OHS training providers and courses, with workers' certification records stored electronically. | https://ctr.bluedrop.io/ |
 | Department of Natural Resources — BurnSafe Fire Restrictions | Nova Scotia · Provincial | Dashboard | Daily county-level burn ban map and table (updated 2pm in wildfire season): no-burn, restricted, or allowed hours. Check before campfires or brush burning. | https://novascotia.ca/burnsafe/ |
 | Nova Scotia Department of Emergency Management | Nova Scotia · Provincial | Department page | The department responsible for coordinating provincial emergency planning, preparedness, response and recovery, issuing timely emergency alerts and information, and supporting municipal emergency organizations; also houses the Office of the Fire Marshal. | https://novascotia.ca/government/emergency-management |
+| Nova Scotia Emergency Alert | Nova Scotia · Provincial | Emergency alerts | The provincial page a Nova Scotian uses to register for emergency alerts, explaining the channels used, what the alert classes mean, and how to get notifications for your area. | https://novascotia.ca/nova-scotia-emergency-alert-app/ |
+| Nova Scotia Emergency Information — All Hazards | Nova Scotia · Provincial | Emergency information | Nova Scotia's all-hazards emergency portal, with a live sub-page per hazard — floods, wildfire, power outages, hurricanes, extreme heat, winter storms, freezing rain, drought — plus 911 facts and recovery guidance. | https://emergencyinfo.novascotia.ca/ |
 | Halifax — Alarm Registration | Halifax · Municipal | Registration | Halifax alarm registration: property owners and businesses register and renew burglar and fire alarm systems, check registration details, and find the bylaw and false-alarm process. | https://www.halifax.ca/home-property/building-development-permits/alarm-registration |
 | Halifax — Police Crime Mapping | Halifax · Municipal | Interactive crime map | See recent Halifax crimes on a map updated daily — search five crime types by street name or community for the last day, four days or week. | https://www.halifax.ca/safety-security/police/crime-mapping |
 | Halifax Emergency Management | Halifax · Municipal | Municipal emergency hub | Halifax Regional Municipality's emergency hub: municipal emergency notification signup by text, email or phone, a three-step preparedness guide with a fillable Home Emergency Plan, and the Voluntary Vulnerable Persons Registry for residents needing extra support. | https://www.halifax.ca/safety-security/emergency-management |
@@ -3257,6 +3272,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NWT Wildfire Update (ECC) | Northwest Territories · Provincial | Fire status dashboard | GNWT Environment & Climate Change wildfire hub: live fire map with satellite hotspots, regional updates for all five regions, active-fire counts, hectares burned, smoke forecast and evacuation links. | https://www.ecc.gov.nt.ca/en/services/wildfire-update |
 | Workers' Safety and Compensation Board (WSCB) — WHS Regulations Search | Yukon · Provincial | Lookup tool | Full-text browse/search of Yukon's Occupational Health and Safety Regulations in 19 parts plus WHMIS, diving and radiation rules — the board's consolidated HTML regulations library. | https://www.wcb.yk.ca/regulations |
 | Yukon Wildfires Map (Wildland Fire Management) | Yukon · Provincial | Fire map | Live Government of Yukon map of active wildfires and prescribed burns with status, size, response type, plus fire danger ratings and fire ban information across the territory. | https://wildfires.service.yukon.ca/ |
+| Fort Smith — Alertable | Northwest Territories · Municipal | Emergency alerts | The Town of Fort Smith's official sign-up page for its Alertable emergency alert service, where residents register a phone or email to receive notifications about local incidents. | https://www.fortsmith.ca/alertable |
 
 ## ⚖️ Justice, Courts & Legal
 

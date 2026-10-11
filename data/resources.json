@@ -33984,5 +33984,260 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "category": "safety",
+    "description": "Québec's official provincial public alerting system — a single page showing the current alert level by region, and where residents register to receive SMS, email and voice messages from the province during an emergency.",
+    "jurisdiction": "Quebec",
+    "level": "Provincial",
+    "name": "Québec en Alerte",
+    "tags": [
+      "alerts",
+      "emergency",
+      "public-safety",
+      "notifications"
+    ],
+    "type": "Emergency alerts",
+    "url": "https://alerte.gouv.qc.ca/fr",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "weather",
+    "description": "ECCC's master alert index: every active weather watch, warning and special weather statement in Canada in one browsable list, the page behind the familiar Environment Canada alert links.",
+    "jurisdiction": "Canada",
+    "level": "Federal",
+    "name": "Environment Canada — Weather Alerts",
+    "tags": [
+      "weather",
+      "alerts",
+      "warnings",
+      "federal"
+    ],
+    "type": "Weather alerts",
+    "url": "https://weather.gc.ca/mainmenu/alert_menu_e.html",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "Nova Scotia's all-hazards emergency portal, with a live sub-page per hazard — floods, wildfire, power outages, hurricanes, extreme heat, winter storms, freezing rain, drought — plus 911 facts and recovery guidance.",
+    "jurisdiction": "Nova Scotia",
+    "level": "Provincial",
+    "name": "Nova Scotia Emergency Information — All Hazards",
+    "tags": [
+      "emergency",
+      "alerts",
+      "hazards",
+      "public-safety"
+    ],
+    "type": "Emergency information",
+    "url": "https://emergencyinfo.novascotia.ca/",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "Ville de Québec's own instance of the Québec en alerte system, showing the current municipal alert state and letting residents subscribe to city-issued alerts.",
+    "jurisdiction": "Quebec City",
+    "level": "Municipal",
+    "name": "Quebec City — Québec en alerte",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "municipal"
+    ],
+    "type": "Emergency alerts",
+    "url": "https://alerte.ville.quebec.qc.ca/",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "Ville de Montréal's official notices-and-alerts board, the municipal channel residents check for city-issued advisories and emergency notices.",
+    "jurisdiction": "Montreal",
+    "level": "Municipal",
+    "name": "Montreal — Avis et alertes",
+    "tags": [
+      "alerts",
+      "notices",
+      "emergency",
+      "municipal"
+    ],
+    "type": "Notices and alerts",
+    "url": "https://montreal.ca/avis-et-alertes",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "The Regional District of North Okanagan's Alertable alert page — a regional emergency notification service spanning member municipalities, including evacuation and shelter notices.",
+    "jurisdiction": "British Columbia",
+    "level": "Regional",
+    "name": "Regional District of North Okanagan — Alertable",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "regional"
+    ],
+    "type": "Emergency alerts",
+    "url": "https://www.rdno.ca/alertable",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "The City of Saskatoon's NotifyNow page — the municipal alert subscription flow residents register with to receive emergency and service alert messages by text, phone or email.",
+    "jurisdiction": "Saskatoon",
+    "level": "Municipal",
+    "name": "Saskatoon — NotifyNow",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "municipal"
+    ],
+    "type": "Emergency alerts",
+    "url": "https://www.saskatoon.ca/services-residents/fire-emergency/emergency-management/notifynow",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "Ville de Gatineau's official important-notices, alerts and emergencies hub, with a direct path to subscribing to municipal emergency notifications.",
+    "jurisdiction": "Gatineau",
+    "level": "Municipal",
+    "name": "Gatineau — Avis importants, alertes et urgences",
+    "tags": [
+      "alerts",
+      "notices",
+      "emergency",
+      "municipal"
+    ],
+    "type": "Notices and alerts",
+    "url": "https://www.gatineau.ca/portail/default.aspx?p=avis_importants_alertes_urgences",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "The Town of Fort Smith's official sign-up page for its Alertable emergency alert service, where residents register a phone or email to receive notifications about local incidents.",
+    "jurisdiction": "Northwest Territories",
+    "level": "Municipal",
+    "name": "Fort Smith — Alertable",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "municipal"
+    ],
+    "type": "Emergency alerts",
+    "url": "https://www.fortsmith.ca/alertable",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "The City of Regina's NotifyNow page — the municipal alert subscription flow for emergency and service notifications, run by the city under its own brand.",
+    "jurisdiction": "Regina",
+    "level": "Municipal",
+    "name": "Regina — NotifyNow",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "municipal"
+    ],
+    "type": "Emergency alerts",
+    "url": "https://www.regina.ca/home-property/safety-emergencies/emergency-preparedness/notifynow/",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "The City of Nanaimo's official page for its Voyent Alert emergency call alert system, the channel used to issue and subscribe to city emergency notifications.",
+    "jurisdiction": "Nanaimo",
+    "level": "Municipal",
+    "name": "Nanaimo — Emergency Alert System (Voyent Alert)",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "municipal"
+    ],
+    "type": "Emergency alerts",
+    "url": "https://www.nanaimo.ca/public-safety/emergency-management/emergency-call-alert-system",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "Sherbrooke's official emergency situations page, covering the city's alert levels, alerts by sector and what to do during a crisis.",
+    "jurisdiction": "Sherbrooke",
+    "level": "Municipal",
+    "name": "Sherbrooke — Situations d'urgence",
+    "tags": [
+      "emergency",
+      "alerts",
+      "municipal"
+    ],
+    "type": "Emergency information",
+    "url": "https://www.sherbrooke.ca/fr/services-a-la-population/securite-publique-et-situations-d-urgence/situations-d-urgence",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "The provincial page a Nova Scotian uses to register for emergency alerts, explaining the channels used, what the alert classes mean, and how to get notifications for your area.",
+    "jurisdiction": "Nova Scotia",
+    "level": "Provincial",
+    "name": "Nova Scotia Emergency Alert",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications"
+    ],
+    "type": "Emergency alerts",
+    "url": "https://novascotia.ca/nova-scotia-emergency-alert-app/",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "safety",
+    "description": "Calgary Water's flood status page: which parts of the city are exposed when the Bow River rises, the current flood alert level and active notices, and what residents should do at each stage.",
+    "jurisdiction": "Calgary",
+    "level": "Municipal",
+    "name": "Calgary — Flood alerts and notices",
+    "tags": [
+      "flood",
+      "alerts",
+      "emergency",
+      "municipal"
+    ],
+    "type": "Flood alerts",
+    "url": "https://www.calgary.ca/water/flooding/stay-informed.html",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "gov-services",
+    "description": "The City of Edmonton's official board of current service alerts, infrastructure outages and disruptions — the single place residents check for water, road and facility incident notices.",
+    "jurisdiction": "Edmonton",
+    "level": "Municipal",
+    "name": "Edmonton — Service Alerts, Outages and Disruptions",
+    "tags": [
+      "alerts",
+      "outages",
+      "services",
+      "municipal"
+    ],
+    "type": "Service alerts",
+    "url": "https://www.edmonton.ca/programs_services/alerts-disruptions",
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "category": "weather",
+    "description": "The GeoMet-OGC API feature collection that serves Environment Canada's weather alerts as machine-readable GeoJSON — the structured feed behind the public alert pages, queryable by bounding box or geometry.",
+    "jurisdiction": "Canada",
+    "level": "Federal",
+    "name": "ECCC GeoMet — Weather Alerts API",
+    "tags": [
+      "weather",
+      "alerts",
+      "api",
+      "geojson",
+      "federal"
+    ],
+    "type": "Weather API",
+    "url": "https://api.weather.gc.ca/collections/weather-alerts",
+    "dateAdded": "2026-10-11"
   }
 ]
