@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2181 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2197 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,25 +26,25 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 ## Table of Contents
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 218
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 103
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 104
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
-- [🪪 Government Services & ID](#government-services-and-id) — 90
+- [🪪 Government Services & ID](#government-services-and-id) — 92
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 36
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
-- [🏢 Business & Procurement](#business-and-procurement) — 59
+- [🏢 Business & Procurement](#business-and-procurement) — 66
 - [💼 Employment & Labour](#employment-and-labour) — 40
 - [🎓 Education & Student Aid](#education-and-student-aid) — 36
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 56
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
-- [🩺 Health & Wellness](#health-and-wellness) — 82
+- [🩺 Health & Wellness](#health-and-wellness) — 83
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 59
 - [🚌 Transit & Mobility](#transit-and-mobility) — 91
-- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 44
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 88
+- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 45
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 92
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
 - [🌦️ Weather & Climate](#weather-and-climate) — 32
 - [⚡ Energy & Utilities](#energy-and-utilities) — 45
@@ -425,6 +425,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | St. Thomas CMAP Interactive City Maps | St. Thomas · Municipal | Interactive zoning map | CartoVista web map for St. Thomas — zoning, property, and city map layers for parcel and planning lookups. | https://cmap2.stthomas.ca/CartoVistaServer/maps/view |
 | Thunder Bay — Property Information & Development Map | Thunder Bay · Municipal | Interactive map | Parcel lookup combining assessment, legal description, dwelling-unit count, zoning, Official Plan designation and garbage day cycle, plus a building-activity layer from 2014. | https://experience.arcgis.com/experience/ec7df78a1a7642f397655c84c4741e98 |
 | Kildrin | Toronto · Municipal | Renovation cost benchmarks | Toronto renovation-cost benchmarks built from City of Toronto building-permit records (3,278 retained category records, Oct 2024–Aug 2026): medians and middle-50% declared construction values across 7 job categories — laneway suite, garden suite, rear addition, basement underpinning, second suite conversion, deck, front porch — with postal-area breakdowns, methodology notes, and CSV downloads. Featured in the City of Toronto open data gallery. | https://kildrin.ca/ |
+| Toronto — Building Permits | Toronto · Municipal | Permit service | The City of Toronto's building-permit hub: when a permit is required, how to apply, fees, inspections and how to check the status of a building permit application. | https://www.toronto.ca/services-payments/building-construction/building-permit/ |
 | Toronto Application Information Centre | Toronto · Municipal | Development application search | Map-based search for active and closed development applications, Committee of Adjustment minor variances, rezonings, and site plan control with downloadable supporting documents. | https://www.toronto.ca/city-government/planning-development/application-information-centre/ |
 | Toronto Building Permits — Cleared Permits | Toronto · Municipal | Building permits dataset | Download cleared building permits since 2000 as CSV or JSON — permit type, dates, address, and construction value for completed permits. | https://open.toronto.ca/dataset/building-permits-cleared-permits/ |
 | Toronto Development Applications (IBMS) | Toronto · Municipal | Development application tracker | Point layer of active planning applications with status, type, hearing dates, and links to application details. Queryable via ArcGIS FeatureServer. | https://gis.toronto.ca/arcgis/rest/services/cot_geospatial11/FeatureServer/60 |
@@ -926,8 +927,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Hamilton — Waste Collection Schedule | Hamilton · Municipal | Collection schedule | Hamilton's page to find and download the waste collection schedule for your neighbourhood, plus a holiday calendar. | https://www.hamilton.ca/home-neighbourhood/garbage-recycling/waste-collection-schedule |
 | Kingston — Collection Calendar | Kingston · Municipal | Lookup tool | Enter an address to get Kingston's collection day and next pick-up date, download and print the Collection Calendar, subscribe to email or phone reminders, and push the schedule to iCal, Google or Outlook. Also lists Giveaway Days and what-to-set-out guidance. | https://www.cityofkingston.ca/garbage-and-recycling/collection-calendar/ |
 | Kitchener — Leaf Options Lookup Tool | Kitchener · Municipal | Lookup tool | Dedicated address-lookup tool for Kitchener leaf collection: enter your address to see the curbside leaf collection options for your area (zone-based set-out versus bring-to-facility), with raking and catch-basin rules. | https://www.kitchener.ca/living-in-kitchener/leaves-snow-recycling-and-garbage/leaf-collection/leaf-options-lookup-tool/ |
+| Kitchener — Marriage Licences | Kitchener · Municipal | Licence service | The City of Kitchener's marriage page: apply for a marriage licence online or in person, book a licence pick-up appointment, and check licence requirements, expiry and replacement rules. | https://www.kitchener.ca/living-in-kitchener/marriage-and-divorce/ |
 | London — Collection Schedule | London · Municipal | Collection schedule | London ON's collection schedule page with address lookup and calendar for garbage, recycling and organics. | https://london.ca/living-london/garbage-recycling/collection-calendar |
 | Milton — Report a Problem | Milton · Municipal | 311 service hub | Topic-routed reporting hub for municipal services, infrastructure and public spaces, separating by-law violations, wildlife, parking and road maintenance into distinct intake paths. | https://www.milton.ca/en/living-in-milton/report-a-problem.aspx |
+| Mississauga — Marriage Licence | Mississauga · Municipal | Licence service | The City of Mississauga's marriage-licence application page: complete the application online, book a City Clerk appointment, and pick up an Ontario marriage licence in person with the required identification. | https://www.mississauga.ca/services-and-programs/pay-apply-report/apply-for-a-marriage-licence/ |
 | North Bay — Curbside Collection | North Bay · Municipal | Collection schedule | North Bay's curbside collection page: zone-by-zone schedule table plus the North Bay Recycles app for address lookup and reminders. | https://www.northbay.ca/services-payments/garbage-recycling/curbside-collection/ |
 | MyServiceOttawa | Ottawa · Municipal | Service portal | The City of Ottawa's account-based online services portal: property-tax and utility accounts, parking tickets, recreation registration, building-permit applications, pet registration and service requests, all behind a single MyServiceOttawa sign-in. | https://ottawa.ca/en/city-hall/myserviceottawa |
 | Peterborough — Service Request | Peterborough · Municipal | 311 service hub | City service-request page offering issue reporting plus update registration so residents follow progress on requests (green bin repair, illegal dumping, graffiti, property standards). | https://www.peterborough.ca/living-in-peterborough/service-requests/ |
@@ -1143,11 +1146,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Trademarks Database | Canada · Federal | Search tool | CIPO's searchable database of more than 1.4 million Canadian trademarks registered from 1865 to the present, updated weekly. | https://ised-isde.canada.ca/cipo/trademark-search/srch |
 | CBSA — Licensed Customs Brokers | Canada · Federal | Licence register | The federal licensing page for customs brokers, with the public list of licensed brokers a business can use to check that a broker actually holds a licence, plus how brokers may act for importers and exporters. It explains the April 2024 move to national licensing and where to file a complaint about a broker or report someone acting as one without a licence. | https://www.cbsa-asfc.gc.ca/services/cb-cd/menu-eng.html |
 | CFIA — Automated Import Reference System (AIRS) | Canada · Federal | Import tool | Question-and-answer tool that walks importers through the exact CFIA requirements, documents and HS codes for bringing food, plants and animals into Canada. | https://inspection.canada.ca/en/importing-food-plants-animals/airs |
+| CFIA — Food Licences | Canada · Federal | Licensing portal | The Canadian Food Inspection Agency's food-licence hub under the Safe Food for Canadians Regulations: who needs a licence, how to apply through My CFIA, and how to validate a licence number. | https://inspection.canada.ca/en/making-trading-food/food-licences |
 | CIPO — Canadian Copyrights Database | Canada · Federal | Searchable database | Search Canadian copyright registrations from 1991 onward by title, owner name, or registration number and view registration details. | https://www.ic.gc.ca/app/opic-cipo/cpyrghts/dsplySrch.do?lang=eng |
 | CIPO — Canadian Industrial Designs Database | Canada · Federal | Searchable IP database | Search all registered Canadian industrial designs by title, owner, classification, or registration date, with drawings and status for each design. | https://www.ic.gc.ca/app/opic-cipo/id/bscSrch.do?lang=eng |
 | CIPO — Goods and Services Manual | Canada · Federal | Trademark filing tool | Search CIPO's pre-approved goods and services terms and use the Classify List feature to assign Nice classes before filing a Canadian trademark application. | https://www.ic.gc.ca/app/scr/ic/cgs/ext/home.html |
 | Corporations Canada — Federal Corporation Search | Canada · Federal | Registry search | Confirm the existence and status of any federally incorporated business, not-for-profit, cooperative or board of trade by name, corporation number or business number. | https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html |
 | Corporations Canada — Nuans Name Search | Canada · Federal | Name search service | Run pre-searches and order official Nuans reports comparing a proposed corporate name against Canada's database of existing corporate names and trademarks. | https://ised-isde.canada.ca/site/nuans-corporate-name-trademark-reports/en/nuansr-corporate-name-and-trademark-reports |
+| DFO — National Online Licensing System | Canada · Federal | Licensing portal | Fisheries and Oceans Canada's online system where commercial fish harvesters and recreational fishers in DFO-managed waters apply for, renew and pay for fishing licences and print licence documents. | https://fishing-peche.dfo-mpo.gc.ca/ |
 | FedDev Ontario | Canada · Federal | Economic development | Federal economic development agency supporting business growth, innovation, and community economic development in southern Ontario | https://feddev-ontario.canada.ca/ |
 | Innovation Canada — Business Benefits Finder | Canada · Federal | Finder | Personalized search of federal, provincial, and regional business funding and support programs | https://ised-isde.canada.ca/ |
 | ISED — Canadian Importers Database | Canada · Federal | Searchable database | Look up which companies import specific goods into Canada — search by product, city, or country to get lists of major importers based on CBSA customs data. | https://ised-isde.canada.ca/app/ixb/cid-bdic/searchProduct.html |
@@ -1171,10 +1176,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Bid — Provincial Procurement | British Columbia · Provincial | Procurement | BC's electronic tendering portal for public-sector opportunities across the province | https://www.bcbid.gov.bc.ca/ |
 | BC Business Registry — Corporate Online | British Columbia · Provincial | Business registry | Search BC corporate records, register a new business, and file annual reports through BC Corporate Online | https://www.corporateonline.gov.bc.ca/ |
+| British Columbia — Liquor and Cannabis Licensing | British Columbia · Provincial | Licensing portal | BC's Liquor and Cannabis Regulation Branch hub: apply for or amend liquor and cannabis licences, find licensed establishments, and check licensing policy for bars, restaurants, manufacturers and cannabis retailers. | https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing |
 | OrgBook BC | British Columbia · Provincial | Registry search | Public verifiable-credential directory from BC Registries to confirm a business is legally incorporated and in good standing, with API access. | https://orgbook.gov.bc.ca/ |
 | Abbotsford — Business Licences | Abbotsford · Municipal | Licensing hub | Business licensing hub covering which trades need a licence and what each category covers, with online new applications, annual renewals, and a licence inquiry route. It also spells out the rules businesses hit most often — 12-month validity, a $130 base fee, non-transferable licences, and what to do when a business moves, changes hands, or closes. | https://www.abbotsford.ca/business-development/business-licences |
 | Vernon — Business Licence Search | British Columbia · Municipal | Licence search | Keyword search across Vernon's issued business licences. Filter on business name, business type, street address or date issued, or search with no criteria to browse the whole list. Short-term rental licences are withheld under freedom-of-information limits. | https://www.vernon.ca/business/business-licences-permits/business-licence-search |
+| Burnaby — Business Licences | Burnaby · Municipal | Licensing portal | The City of Burnaby's business-licence hub: apply for and renew resident, non-resident and inter-municipal business licences, including home-based, rental and short-term rental licences. | https://www.burnaby.ca/business/business-licences |
 | Nanaimo — Business Licence Search | Nanaimo · Municipal | Licence search | Nanaimo's issued business licence register, searchable five ways: by address, by month issued, by product or service, by industry sector, or by keyword — plus a view-all tab. One of the few BC municipalities publishing a public lookup of licences already issued. | https://www.nanaimo.ca/business_report/ |
+| Surrey — Applying for a Business Licence | Surrey · Municipal | Licensing portal | The City of Surrey's business-licence application page: apply for a new licence through the online portal or by form, with requirements for commercial, home-based and non-resident businesses. | https://www.surrey.ca/business-economy/business-licensing/applying-for-a-business-licence |
 
 ### Alberta
 
@@ -1189,6 +1197,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Saskatchewan — Corporate Registry (ISC) | Saskatchewan · Provincial | Business registry search | Search Saskatchewan's corporate registry for businesses, non-profits and legal entities; register or incorporate, file annual returns, and get digitally verified documents and certificates online. | https://www.saskregistries.ca/corporateregistry |
 | SaskTenders | Saskatchewan · Provincial | Procurement | Saskatchewan government and public-sector tenders and bid opportunities | https://sasktenders.ca/ |
+| Saskatoon — Business Licences | Saskatoon · Municipal | Licensing portal | The City of Saskatoon's business-licence hub: apply for, renew and look up commercial, home-based and rental-property business licences and check licence requirements by business type. | https://www.saskatoon.ca/business-development/business-licences |
 
 ### Manitoba
 
@@ -1201,6 +1210,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| AGCO — Search Licences and Registrations (iAGCO) | Ontario · Agency | Licence registry search | The Alcohol and Gaming Commission of Ontario's guide to searching iAGCO for liquor, gaming, cannabis retail, lottery and horse-racing licences, permits, authorizations and registrations without an account. | https://www.agco.ca/en/general/iagco-support |
 | Ontario Business Account | Ontario · Provincial | Service portal | Single dashboard (launched Feb 2026) for Ontario businesses to register, link their Ontario Business Registry profile, manage filings, and see all government messages in one place. | https://www.ontario.ca/page/ontario-business-account |
 | Ontario Business Registry | Ontario · Provincial | Business registry | Register, search, and manage Ontario business names, corporations, and partnerships online | https://www.ontario.ca/page/ontario-business-registry |
 | Kitchener — Business Licences | Kitchener · Municipal | Licensing hub | Business licensing page for Kitchener covering which business categories need a licence, the general conditions (non-refundable fees, multiple licences per business, March 31 expiry), online apply and renew, three-to-four week processing, and related licensing such as AGCO liquor non-objection letters. | https://www.kitchener.ca/business-in-kitchener/licences/business-licences/ |
@@ -1660,6 +1670,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Cancer Care Ontario — Ontario Cancer System | Ontario · Federal | Cancer data | Wait times, screening program results, cancer statistics for Ontario | https://www.cancercareontario.ca/en |
+| College of Nurses of Ontario — Find a Nurse | Ontario · Agency | Licence registry search | The College of Nurses of Ontario's public-register entry point: confirm any Ontario nurse's registration status by name, workplace or registration number through the Find a Nurse register, covering RNs, RPNs and nurse practitioners. | https://cno.org/protect-the-public/confirm-a-nurses-status |
 | Ontario — CPSO Physician Register | Ontario · Agency | Licence registry search | Search Ontario's official physician register by name or CPSO number to verify a doctor's licence status, specialty, hospital privileges and disciplinary history. | https://register.cpso.on.ca/ |
 | Ontario — Ontario Health Wait Times | Ontario · Agency | Wait-time lookup | Search wait times for surgeries, MRI/CT scans and breast screening by procedure and postal code, with a map of nearby hospitals and their current waits. | https://www.ontariohealth.ca/public-reporting/wait-times |
 | ConnexOntario — Services Directory | Ontario · Provincial | Services directory | Ontario's provincial mental-health, addiction and problem-gambling navigator: a browsable database of roughly 5,300 support programs province-wide, plus 24/7 phone, text and chat access. | https://connexontario.ca/ |
@@ -2226,6 +2237,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Transport Canada — Drone Registration | Canada · Federal | Service | Register your drone, take the pilot certificate exam, and review Canadian drone rules | https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing |
 | Transport Canada — Grade Crossings Inventory | Canada · Federal | Open dataset | Download the location and safety characteristics of every railway grade crossing in Canada, the dataset used by the Railway Safety Oversight Program, updated annually. | https://open.canada.ca/data/en/dataset/d0f54727-6c0b-4e5a-aa04-ea1463cf9f4c |
 | Transport Canada — Navigation Protection Program Registry | Canada · Federal | Lookup tool | Search proposed and approved works on Canadian navigable waters by map or waterway; view project records and public comment notices. | https://nwar-rlen.tc.canada.ca/about-apropos |
+| Transport Canada — Pleasure Craft Licence: How to Apply | Canada · Federal | Licence service | Transport Canada's how-to for a Pleasure Craft Licence: apply for a new licence, transfer or renew an existing one, replace a lost document or cancel a licence, including required ID, proof of ownership and vessel photo. | https://tc.canada.ca/en/marine-transportation/vessel-licensing-registration/licensing-pleasure-craft/apply-manage-pleasure-craft-licence-pcl/how-apply |
 | Transport Canada — Vessel Registration Query System | Canada · Federal | Searchable registry | Look up any vessel on the Canadian Register of Vessels by name, official number, or owner, including tonnage, dimensions, and registration status. | https://wwwapps.tc.gc.ca/Saf-Sec-Sur/4/vrqs-srib/eng/vessel-registrations |
 | Transportation Safety Board — Investigation reports | Canada · Federal | Investigation report database | Search TSB rail, marine, pipeline and aviation investigation reports (EN/FR): findings, causes, safety actions, PDF downloads back to 1990. | https://tsb.gc.ca/eng/rapports-reports/rail/index.html |
 | VIA Rail — Trip Planner and Booking | Canada · Federal | Trip planner | Train schedules, booking, and trip planning across Canada | https://www.viarail.ca/en/plan |
@@ -2343,6 +2355,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Parks — Camping Reservations | British Columbia · Provincial | Reservation system | Reserve frontcountry campsites, backcountry permits, and group sites in BC's provincial parks | https://camping.bcparks.ca/ |
 | BC Parks Find a Park | British Columbia · Provincial | Finder | Filterable park explorer by activity, facilities, and area | https://bcparks.ca/find-a-park/ |
 | BC Parks Maps | British Columbia · Provincial | Interactive maps | Rich park map with overlays like closures, weather, cell coverage, and earthquakes | https://bcparks.ca/plan-your-trip/maps |
+| British Columbia — Hunting Licences | British Columbia · Provincial | Licence service | BC's official hunting-licence page: get a Fish and Wildlife ID, buy basic and species licences online, enter the Limited Entry Hunting draw and check licence requirements for resident and non-resident hunters. | https://www2.gov.bc.ca/gov/content/sports-culture/recreation/fishing-hunting/hunting/hunting-licences |
 | Recreation Sites and Trails B.C. | British Columbia · Provincial | Outdoor map / finder | Great search and filterable map for trails, recreation sites, alerts, and closures | https://www.sitesandtrailsbc.ca/ |
 | Burnaby WebReg Online Registration | Burnaby · Municipal | Registration portal | The city's official WebReg short link, resolving to Burnaby's ActiveNet registration and facility-booking portal. | https://www.burnaby.ca/webreg |
 | Kelowna Recreation Online | Kelowna · Municipal | Registration portal | Kelowna's ActiveNet registration portal: browse live program categories (Aquatics, Adult Sports, Fitness, Drop-In, Public Skating), open a cart and register as a new customer. | https://rec.kelowna.ca/registration/public |
@@ -2355,6 +2368,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alberta Parks | Alberta · Provincial | Park finder | Park discovery, activities, reservations, and maps | https://www.albertaparks.ca/ |
 | Alberta Parks — Reservations | Alberta · Provincial | Reservation system | Book campsites and comfort camping across Alberta's provincial parks and recreation areas | https://reserve.albertaparks.ca/ |
+| AlbertaRELM — Hunting and Fishing Licences | Alberta · Provincial | Licence service | Alberta's official online licensing service for hunting and fishing: buy and renew recreational fishing licences, hunting licences and tags, manage a WIN card account and enter special licence draws. | https://www.albertarelm.com/ |
 | Public Land Recreation Maps | Alberta · Provincial | Recreation map hub | Downloadable and georeferenced recreation maps for public land | https://www.alberta.ca/public-land-recreation-maps |
 | Public Land Use | Alberta · Provincial | Outdoor info hub | Closures, advisories, PLUZ info, maps, and camping pass links | https://www.alberta.ca/public-land-use-zones |
 | Calgary Live and Play — Rentals and Bookings | Calgary · Municipal | Booking portal | Calgary's RecInfo portal showing bookable rental categories — arenas and leagues, sport fields, boat stalls and moorings — with account creation and a reservation flow. | https://liveandplay.calgary.ca/REGPROG/public/category/browse/RENTALS |
@@ -2364,6 +2378,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Sask Parks — Provincial Parks Portal | Saskatchewan · Provincial | Park finder & reservations | Official portal for Saskatchewan's provincial parks and recreation sites: campsite and yurt reservations, park entry permits, park guides, maps and seasonal reservation schedules. | https://www.saskparks.com/ |
+| Saskatchewan — Hunting Licences | Saskatchewan · Provincial | Licence service | Saskatchewan's official page for buying a hunting licence through the Hunting, Angling and Trapping Licence (HAL) system, including eligibility, licence types, draws and where to buy in person. | https://www.saskatchewan.ca/residents/parks-culture-heritage-and-sport/hunting-trapping-and-angling/hunting/buy-a-hunting-licence |
 | Moose Jaw Facility Availability Booking | Moose Jaw · Municipal | Booking portal | The city's facility availability calendar with a select-a-facility filter, covering ice, turf, court and pool time at its sports complexes. | https://cityofmoosejaw.perfectmind.com/24467/Clients/BookMe4?widgetId=0368d91d-3b21-4f2a-aabf-6f51dd15b269 |
 | Regina Recreation Online Registration | Regina · Municipal | Registration portal | The city's own ActiveNet registration storefront for recreation programs, drop-in activities and facility bookings, with account creation and card checkout. | https://ca.apm.activecommunities.com/regina/ |
 
@@ -2379,6 +2394,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario Trails Council | Ontario · Agency | Trails finder | Searchable directory of 2,300+ Ontario trails across hiking, biking, paddling, and skiing | https://ontariotrails.on.ca/ |
 | Fish ON-Line | Ontario · Provincial | Interactive map | Ontario's angler map of 20,000+ waterbodies: fish species observed, stocking records, regulations and sanctuaries, access points and lake depth contours. | https://www.lioapplications.lrc.gov.on.ca/fishonline/Index.html?viewer=FishONLine.FishONLine&locale=en-CA |
+| Ontario — Outdoors Card and Licence Summary | Ontario · Provincial | Licence service | Ontario's official page for buying, renewing or replacing an Outdoors Card and licence summary, the credential required before buying Ontario hunting and fishing licences through the Fish and Wildlife Licensing Service. | https://www.ontario.ca/page/get-outdoors-card-and-licence-summary |
 | Ontario Parks | Ontario · Provincial | Park finder / booking | Park discovery, camping, maps, and trip planning | https://www.ontarioparks.ca/ |
 | Ontario Parks — Fall Colour Report | Ontario · Provincial | Fall colour report | Official fall colour reports for 60+ provincial parks: colour-change %, leaf fall, dominant colours, and best viewing spots, updated daily through the season. | https://www.ontarioparks.ca/fallcolour |
 | Ontario Parks — Reservations | Ontario · Provincial | Reservation system | Book campsites, roofed accommodations, and backcountry permits across Ontario's provincial parks | https://reservations.ontarioparks.ca/ |

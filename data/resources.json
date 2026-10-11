@@ -34239,5 +34239,257 @@
     "type": "Weather API",
     "url": "https://api.weather.gc.ca/collections/weather-alerts",
     "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "CFIA — Food Licences",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "The Canadian Food Inspection Agency's food-licence hub under the Safe Food for Canadians Regulations: who needs a licence, how to apply through My CFIA, and how to validate a licence number.",
+    "url": "https://inspection.canada.ca/en/making-trading-food/food-licences",
+    "tags": [
+      "food safety",
+      "business licensing",
+      "federal",
+      "cfia"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "DFO — National Online Licensing System",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "Fisheries and Oceans Canada's online system where commercial fish harvesters and recreational fishers in DFO-managed waters apply for, renew and pay for fishing licences and print licence documents.",
+    "url": "https://fishing-peche.dfo-mpo.gc.ca/",
+    "tags": [
+      "fishing",
+      "licensing",
+      "federal",
+      "commercial fishing"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "British Columbia — Liquor and Cannabis Licensing",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "BC's Liquor and Cannabis Regulation Branch hub: apply for or amend liquor and cannabis licences, find licensed establishments, and check licensing policy for bars, restaurants, manufacturers and cannabis retailers.",
+    "url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing",
+    "tags": [
+      "liquor",
+      "cannabis",
+      "business licensing",
+      "provincial"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Saskatchewan — Hunting Licences",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Saskatchewan's official page for buying a hunting licence through the Hunting, Angling and Trapping Licence (HAL) system, including eligibility, licence types, draws and where to buy in person.",
+    "url": "https://www.saskatchewan.ca/residents/parks-culture-heritage-and-sport/hunting-trapping-and-angling/hunting/buy-a-hunting-licence",
+    "tags": [
+      "hunting",
+      "licences",
+      "provincial",
+      "outdoors"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "College of Nurses of Ontario — Find a Nurse",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "health",
+    "type": "Licence registry search",
+    "description": "The College of Nurses of Ontario's public-register entry point: confirm any Ontario nurse's registration status by name, workplace or registration number through the Find a Nurse register, covering RNs, RPNs and nurse practitioners.",
+    "url": "https://cno.org/protect-the-public/confirm-a-nurses-status",
+    "tags": [
+      "nurses",
+      "licence verification",
+      "registry",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "AlbertaRELM — Hunting and Fishing Licences",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Alberta's official online licensing service for hunting and fishing: buy and renew recreational fishing licences, hunting licences and tags, manage a WIN card account and enter special licence draws.",
+    "url": "https://www.albertarelm.com/",
+    "tags": [
+      "hunting",
+      "fishing",
+      "licences",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "British Columbia — Hunting Licences",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "BC's official hunting-licence page: get a Fish and Wildlife ID, buy basic and species licences online, enter the Limited Entry Hunting draw and check licence requirements for resident and non-resident hunters.",
+    "url": "https://www2.gov.bc.ca/gov/content/sports-culture/recreation/fishing-hunting/hunting/hunting-licences",
+    "tags": [
+      "hunting",
+      "licences",
+      "provincial",
+      "outdoors"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "AGCO — Search Licences and Registrations (iAGCO)",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "business",
+    "type": "Licence registry search",
+    "description": "The Alcohol and Gaming Commission of Ontario's guide to searching iAGCO for liquor, gaming, cannabis retail, lottery and horse-racing licences, permits, authorizations and registrations without an account.",
+    "url": "https://www.agco.ca/en/general/iagco-support",
+    "tags": [
+      "liquor",
+      "gaming",
+      "cannabis",
+      "licence search",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Toronto — Building Permits",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "planning-zoning",
+    "type": "Permit service",
+    "description": "The City of Toronto's building-permit hub: when a permit is required, how to apply, fees, inspections and how to check the status of a building permit application.",
+    "url": "https://www.toronto.ca/services-payments/building-construction/building-permit/",
+    "tags": [
+      "building permits",
+      "construction",
+      "toronto",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Saskatoon — Business Licences",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "The City of Saskatoon's business-licence hub: apply for, renew and look up commercial, home-based and rental-property business licences and check licence requirements by business type.",
+    "url": "https://www.saskatoon.ca/business-development/business-licences",
+    "tags": [
+      "business licensing",
+      "municipal",
+      "saskatoon"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Ontario — Outdoors Card and Licence Summary",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Ontario's official page for buying, renewing or replacing an Outdoors Card and licence summary, the credential required before buying Ontario hunting and fishing licences through the Fish and Wildlife Licensing Service.",
+    "url": "https://www.ontario.ca/page/get-outdoors-card-and-licence-summary",
+    "tags": [
+      "hunting",
+      "fishing",
+      "outdoors card",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Transport Canada — Pleasure Craft Licence: How to Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "aviation-marine",
+    "type": "Licence service",
+    "description": "Transport Canada's how-to for a Pleasure Craft Licence: apply for a new licence, transfer or renew an existing one, replace a lost document or cancel a licence, including required ID, proof of ownership and vessel photo.",
+    "url": "https://tc.canada.ca/en/marine-transportation/vessel-licensing-registration/licensing-pleasure-craft/apply-manage-pleasure-craft-licence-pcl/how-apply",
+    "tags": [
+      "boating",
+      "pleasure craft",
+      "licensing",
+      "federal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Burnaby — Business Licences",
+    "level": "Municipal",
+    "jurisdiction": "Burnaby",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "The City of Burnaby's business-licence hub: apply for and renew resident, non-resident and inter-municipal business licences, including home-based, rental and short-term rental licences.",
+    "url": "https://www.burnaby.ca/business/business-licences",
+    "tags": [
+      "business licensing",
+      "municipal",
+      "burnaby"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Surrey — Applying for a Business Licence",
+    "level": "Municipal",
+    "jurisdiction": "Surrey",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "The City of Surrey's business-licence application page: apply for a new licence through the online portal or by form, with requirements for commercial, home-based and non-resident businesses.",
+    "url": "https://www.surrey.ca/business-economy/business-licensing/applying-for-a-business-licence",
+    "tags": [
+      "business licensing",
+      "municipal",
+      "surrey"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Mississauga — Marriage Licence",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "gov-services",
+    "type": "Licence service",
+    "description": "The City of Mississauga's marriage-licence application page: complete the application online, book a City Clerk appointment, and pick up an Ontario marriage licence in person with the required identification.",
+    "url": "https://www.mississauga.ca/services-and-programs/pay-apply-report/apply-for-a-marriage-licence/",
+    "tags": [
+      "marriage licence",
+      "municipal",
+      "mississauga"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Kitchener — Marriage Licences",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "gov-services",
+    "type": "Licence service",
+    "description": "The City of Kitchener's marriage page: apply for a marriage licence online or in person, book a licence pick-up appointment, and check licence requirements, expiry and replacement rules.",
+    "url": "https://www.kitchener.ca/living-in-kitchener/marriage-and-divorce/",
+    "tags": [
+      "marriage licence",
+      "municipal",
+      "kitchener"
+    ],
+    "dateAdded": "2026-10-11"
   }
 ]
