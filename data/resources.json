@@ -11585,6 +11585,22 @@
     ]
   },
   {
+    "name": "Alberta — Drought",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "environment",
+    "type": "Drought monitoring",
+    "description": "Government of Alberta's drought watch and monitoring page: current drought status by basin (Peace, Bow, Oldman, South Saskatchewan and others), drought reports and recovery information.",
+    "url": "https://www.alberta.ca/drought",
+    "tags": [
+      "provincial",
+      "drought",
+      "water",
+      "monitoring"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
     "name": "Alberta — Water Well Information Database",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -11674,6 +11690,39 @@
       "BC",
       "wildfire"
     ]
+  },
+  {
+    "name": "British Columbia — Algae Watch",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "environment",
+    "type": "Water quality advisories",
+    "description": "BC's public blue-green algae / cyanobacteria bloom advisory program: current beach and lake advisories, how to read the advisory levels before swimming, and how to report a bloom.",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/water-quality/algae-watch",
+    "tags": [
+      "provincial",
+      "algae",
+      "bloom",
+      "water-quality",
+      "advisories"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "British Columbia — Drought Information",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "environment",
+    "type": "Drought monitoring",
+    "description": "Current drought status and level by region across BC, the province's drought monitoring and reporting, water-supply outlooks and water-conservation guidance.",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/drought-information",
+    "tags": [
+      "provincial",
+      "drought",
+      "water",
+      "monitoring"
+    ],
+    "dateAdded": "2026-10-10"
   },
   {
     "name": "British Columbia — GWELLS Groundwater Wells and Aquifers",
@@ -11878,6 +11927,40 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Newfoundland and Labrador — Water and Climate Monitoring",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "environment",
+    "type": "Environmental monitoring",
+    "description": "NL's surface-water and climate monitoring program: real-time streamflow and lake-level gauges, water temperature, and climate station data, with links through to the provincial data portals.",
+    "url": "https://www.gov.nl.ca/eccc/waterres/water-and-climate-monitoring/",
+    "tags": [
+      "provincial",
+      "water",
+      "streamflow",
+      "gauges",
+      "monitoring"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Newfoundland and Labrador Water Resources Portal",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "environment",
+    "type": "Interactive map",
+    "description": "The province's interactive water-resources map service: water bodies and watersheds with gauging stations and current readings, plus mapped flood-prone areas and water-use zones.",
+    "url": "https://maps.gov.nl.ca/water/",
+    "tags": [
+      "provincial",
+      "water",
+      "map",
+      "gauges",
+      "flood"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
     "name": "NL Water Resources Management Division Portal",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",
@@ -11962,6 +12045,40 @@
       "dashboard"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Nova Scotia — Air Quality Health Index",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "environment",
+    "type": "Air quality index",
+    "description": "The province's own AQHI page from Natural Resources and Renewables: current index readings for Nova Scotia's monitoring stations, plus what each risk level means and what residents, children and seniors should do about it.",
+    "url": "https://novascotia.ca/nse/aqhi/",
+    "tags": [
+      "provincial",
+      "air-quality",
+      "aqhi",
+      "monitoring",
+      "health"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Nova Scotia — Ambient Air Quality Data",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "environment",
+    "type": "Monitoring data",
+    "description": "Portal to Nova Scotia's ambient air monitoring record — station observations for SO2, NOx, PM2.5, O3 and haze, data summaries and access to the underlying monitoring data.",
+    "url": "https://novascotia.ca/nse/airdata/",
+    "tags": [
+      "provincial",
+      "air-quality",
+      "monitoring",
+      "data",
+      "pollutants"
+    ],
+    "dateAdded": "2026-10-10"
   },
   {
     "name": "Nova Scotia Coastal Hazard Map (NSGI)",
@@ -12062,6 +12179,23 @@
       "environment"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Ontario — Air Quality Health Index",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Air quality index",
+    "description": "Ontario's provincial AQHI lookup and guidance: how the index works, current AQHI for Ontario communities, and health advice per risk level for children, seniors and people with heart or breathing conditions.",
+    "url": "https://www.ontario.ca/page/air-quality-health-index",
+    "tags": [
+      "provincial",
+      "air-quality",
+      "aqhi",
+      "monitoring",
+      "health"
+    ],
+    "dateAdded": "2026-10-10"
   },
   {
     "name": "Ontario — Environmental Registry (ERO)",
@@ -12343,6 +12477,23 @@
       "shapefile"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Calgary — Air Quality",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "environment",
+    "type": "Air quality index",
+    "description": "The city's air quality program: current AQHI and pollutant readings from Calgary's monitoring network, the Air Quality Monitoring Plan, and what to do when air quality is poor.",
+    "url": "https://www.calgary.ca/environment/policies/air-quality.html",
+    "tags": [
+      "municipal",
+      "air-quality",
+      "aqhi",
+      "monitoring",
+      "health"
+    ],
+    "dateAdded": "2026-10-10"
   },
   {
     "name": "Edmonton — Trees Map",
@@ -31946,6 +32097,109 @@
     ]
   },
   {
+    "name": "York Region — Road Closures",
+    "level": "Regional",
+    "jurisdiction": "York Region",
+    "category": "transport-roads",
+    "type": "Road closures",
+    "description": "Live list of current and upcoming planned road closures, each entry giving the road segment, start and end date-times, and the project or reason — emergency repairs through major capital works such as the Yonge Street revitalization.",
+    "url": "https://www.york.ca/transportation/roads/road-closures",
+    "tags": [
+      "regional",
+      "roads",
+      "closures",
+      "construction",
+      "live"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "York Region — Traffic Cameras",
+    "level": "Regional",
+    "jurisdiction": "York Region",
+    "category": "transport-roads",
+    "type": "Traffic cameras",
+    "description": "Regional live camera viewer showing camera locations and recent road photos, images auto-updating every three minutes. The Region states it records nothing; documents the 24/7 operations centre and its 430+ Bluetooth travel-time sensors.",
+    "url": "https://www.york.ca/transportation/roads/traffic-cameras",
+    "tags": [
+      "regional",
+      "roads",
+      "cameras",
+      "traffic",
+      "live"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Barrie — Winter Road and Sidewalk Maintenance",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "transport-roads",
+    "type": "Winter maintenance",
+    "description": "Winter maintenance hub whose centrepiece is the Plow Tracker, a map showing when a given street was last serviced, plus overnight parking restrictions, service levels and downtown business responsibilities.",
+    "url": "https://www.barrie.ca/services-payments/road-sidewalk-maintenance/winter-maintenance",
+    "tags": [
+      "municipal",
+      "snow",
+      "plow tracker",
+      "winter",
+      "roads",
+      "parking"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Brandon — Road Closures",
+    "level": "Municipal",
+    "jurisdiction": "Brandon",
+    "category": "transport-roads",
+    "type": "Road closures",
+    "description": "Described by the City as a real-time central hub for road, street and lane closures, covering construction projects, detour routes and traffic advisories, plus the statutory notice for permanently opening or closing municipal roads.",
+    "url": "https://www.brandon.ca/roads-parking-transportation/road-closures/",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "detours",
+      "traffic"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Brantford — Road Closures",
+    "level": "Municipal",
+    "jurisdiction": "Brantford",
+    "category": "transport-roads",
+    "type": "Road closures",
+    "description": "Feeds three live closure lists to maps: city construction projects, non-city construction (utilities, private contractors), and special events. Explicitly excludes emergency closures. Backed by an ArcGIS feature service.",
+    "url": "https://www.brantford.ca/transportation/road-closures/",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "construction",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Burnaby — Road Closures Map",
+    "level": "Municipal",
+    "jurisdiction": "Burnaby",
+    "category": "transport-roads",
+    "type": "Road closures map",
+    "description": "Interactive map of current and planned construction closures citywide, lookupable by location. The page states that accident, emergency, special-event and filming closures are excluded.",
+    "url": "https://www.burnaby.ca/services-and-payments/roads-and-traffic/road-closures",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "construction",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
     "name": "Calgary — Traffic Information Map",
     "level": "Municipal",
     "jurisdiction": "Calgary",
@@ -31989,6 +32243,23 @@
     ]
   },
   {
+    "name": "Cambridge — Road Closures Map",
+    "level": "Municipal",
+    "jurisdiction": "Cambridge",
+    "category": "transport-roads",
+    "type": "Road closures map",
+    "description": "Live ArcGIS map of active municipal road closures, with a pointer to the Region of Waterloo for regional road and lane closures.",
+    "url": "https://www.cambridge.ca/business-building-development/road-closures/",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "map",
+      "arcgis"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
     "name": "Edmonton — Current Traffic Disruptions Map",
     "level": "Municipal",
     "jurisdiction": "Edmonton",
@@ -32003,6 +32274,95 @@
       "map",
       "edmonton"
     ]
+  },
+  {
+    "name": "Fredericton — Web Cameras",
+    "level": "Municipal",
+    "jurisdiction": "Fredericton",
+    "category": "transport-roads",
+    "type": "Web cameras",
+    "description": "Embeds five live municipal camera views on the City's own ArcGIS platform for residents to check current conditions around town.",
+    "url": "https://www.fredericton.ca/about-fredericton/web-cameras",
+    "tags": [
+      "municipal",
+      "roads",
+      "cameras",
+      "live",
+      "conditions"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "City of Greater Sudbury — Snow Plow Status Map",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "transport-roads",
+    "type": "Snow plow map",
+    "description": "Near-real-time map of snow clearing on streets and sidewalks, refreshed about every 30 minutes, with per-street last-serviced times. Runs on Geotab Citizen Insights inside the City's own portal.",
+    "url": "https://www.greatersudbury.ca/live/transportation-parking-and-roads/road-maintenance/plow-status/",
+    "tags": [
+      "municipal",
+      "snow",
+      "plow tracker",
+      "winter",
+      "roads",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Halifax — Winter Street and Sidewalk Information Maps",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "transport-roads",
+    "type": "Winter operations maps",
+    "description": "Three interactive maps: winter street information (snow priority level, street ownership, maintenance responsibility), winter sidewalk information, and the overnight winter parking ban zone map. Supports address search and per-street pop-ups.",
+    "url": "https://www.halifax.ca/transportation/winter-operations/winter-street-information",
+    "tags": [
+      "municipal",
+      "snow",
+      "winter",
+      "roads",
+      "sidewalks",
+      "parking",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Hamilton — Lane Restrictions and Road Closures",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "transport-roads",
+    "type": "Road closures",
+    "description": "Hub collecting current lane restrictions, permanent road and alleyway closures, corridor project impacts and detour information, linked to the City's map dashboards.",
+    "url": "https://www.hamilton.ca/home-neighbourhood/getting-around/driving-traffic/lane-restrictions-and-road-closures",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "detours",
+      "traffic"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Kitchener — Snow Plow Priorities Map",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "transport-roads",
+    "type": "Snow plow map",
+    "description": "Publishes the city's street-by-street plowing priority ranking (Priority 1 arterial and GRT bus routes down through lower tiers) with service levels, searchable by address, so residents can see how quickly their road will be cleared.",
+    "url": "https://www.kitchener.ca/living-in-kitchener/leaves-snow-recycling-and-garbage/snow-plow-priorities-map/",
+    "tags": [
+      "municipal",
+      "snow",
+      "plow",
+      "winter",
+      "roads",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
   },
   {
     "name": "Allo-MTL — Montréal en temps réel",
@@ -32061,6 +32421,77 @@
       "traffic",
       "roads"
     ]
+  },
+  {
+    "name": "Peterborough — Snow Plow Map",
+    "level": "Municipal",
+    "jurisdiction": "Peterborough",
+    "category": "transport-roads",
+    "type": "Snow plow map",
+    "description": "Auto-refreshing map of the city's plow fleet, colour-coded by how recently each street was last cleared (uncoloured = more than 24 hours). Refreshes every five minutes; the city explicitly disclaims any guarantee of safe conditions.",
+    "url": "https://www.peterborough.ca/living-in-peterborough/roads-and-sidewalks/snow-removal/snow-plow-map/",
+    "tags": [
+      "municipal",
+      "snow",
+      "plow tracker",
+      "winter",
+      "roads",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Saskatoon — Snow and Ice Report",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "transport-roads",
+    "type": "Road conditions",
+    "description": "Live winter operations report: current weather assessment, what crews are doing on priority streets right now, sidewalk clearing deadlines and driving advice — republished as a subscribeable RSS alert feed.",
+    "url": "https://www.saskatoon.ca/moving-around/driving-roadways/winter-road-maintenance/snow-and-ice-report",
+    "tags": [
+      "municipal",
+      "snow",
+      "ice",
+      "winter",
+      "roads",
+      "alerts"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "St. John's — Traffic Advisories",
+    "level": "Municipal",
+    "jurisdiction": "St. John's",
+    "category": "transport-roads",
+    "type": "Traffic advisories",
+    "description": "Live advisory list covering current and scheduled closures for construction, road work, special events and street rehab, each with location and date range, updated as advisories are issued.",
+    "url": "https://www.stjohns.ca/resident-services/transportation/traffic-advisories/",
+    "tags": [
+      "municipal",
+      "roads",
+      "closures",
+      "traffic",
+      "advisories"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Thunder Bay — Snowplow Status Map",
+    "level": "Municipal",
+    "jurisdiction": "Thunder Bay",
+    "category": "transport-roads",
+    "type": "Snow plow map",
+    "description": "Winter operations page built around an interactive map showing which streets were last serviced by which plow during and after snow events, alongside the City's clearing standards and a dispatch line for service complaints.",
+    "url": "https://www.thunderbay.ca/city-services/roads-and-active-transportation/snow-removal/",
+    "tags": [
+      "municipal",
+      "snow",
+      "plow tracker",
+      "winter",
+      "roads",
+      "map"
+    ],
+    "dateAdded": "2026-10-10"
   },
   {
     "name": "PlowTO — Snow Plow Tracker",
@@ -33143,6 +33574,40 @@
     ]
   },
   {
+    "name": "Satellite Images and Animation — Environment Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Satellite imagery viewer",
+    "description": "ECCC's satellite viewer on weather.gc.ca: browse GOES and other imagery over Canada, pick a sector or station, and step through animated loops of past and forecast frames to read cloud, smoke and storm cover yourself.",
+    "url": "https://weather.gc.ca/satellite/index_e.html",
+    "tags": [
+      "federal",
+      "satellite",
+      "imagery",
+      "animation",
+      "weather"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Seasonal Forecasts — Environment Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Forecast tool",
+    "description": "Entry point to the Canadian seasonal prediction system, with month-by-month temperature and precipitation outlook maps for Canada over 6-, 9- and 12-month horizons.",
+    "url": "https://weather.gc.ca/saisons/index_e.html",
+    "tags": [
+      "federal",
+      "forecast",
+      "seasonal",
+      "outlook",
+      "weather"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
     "name": "Space Weather Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -33175,6 +33640,40 @@
       "adaptation"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "Ausable Bayfield Conservation Authority — Flood Status",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "weather",
+    "type": "Flood monitoring",
+    "description": "The authority's live Flood Status feed reports current and forecast flooding across the Ausable, Bayfield, Parkhill, Mud and Lakeshore watersheds, with a parallel Low Water Status feed.",
+    "url": "https://www.abca.ca/",
+    "tags": [
+      "agency",
+      "flood",
+      "conservation-authority",
+      "alerts",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-10"
+  },
+  {
+    "name": "Catfish Creek Conservation Authority — Flood Notices",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "weather",
+    "type": "Flood monitoring",
+    "description": "Live flood forecasting and warning for the Catfish Creek watershed: dated flood notices and emergency watershed condition statements, alongside the authority's low water advisories.",
+    "url": "https://www.catfishcreek.ca/programs/water-management/flood-forecasting-and-warning/flood-notices/",
+    "tags": [
+      "agency",
+      "flood",
+      "conservation-authority",
+      "alerts",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-10"
   },
   {
     "name": "Ouranos — Climate Portraits (Portraits climatiques)",
@@ -33485,504 +33984,5 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "Satellite Images and Animation — Environment Canada",
-    "url": "https://weather.gc.ca/satellite/index_e.html",
-    "description": "ECCC's satellite viewer on weather.gc.ca: browse GOES and other imagery over Canada, pick a sector or station, and step through animated loops of past and forecast frames to read cloud, smoke and storm cover yourself.",
-    "category": "weather",
-    "jurisdiction": "Canada",
-    "level": "Federal",
-    "type": "Satellite imagery viewer",
-    "tags": [
-      "federal",
-      "satellite",
-      "imagery",
-      "animation",
-      "weather"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Seasonal Forecasts — Environment Canada",
-    "url": "https://weather.gc.ca/saisons/index_e.html",
-    "description": "Entry point to the Canadian seasonal prediction system, with month-by-month temperature and precipitation outlook maps for Canada over 6-, 9- and 12-month horizons.",
-    "category": "weather",
-    "jurisdiction": "Canada",
-    "level": "Federal",
-    "type": "Forecast tool",
-    "tags": [
-      "federal",
-      "forecast",
-      "seasonal",
-      "outlook",
-      "weather"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Nova Scotia — Air Quality Health Index",
-    "url": "https://novascotia.ca/nse/aqhi/",
-    "description": "The province's own AQHI page from Natural Resources and Renewables: current index readings for Nova Scotia's monitoring stations, plus what each risk level means and what residents, children and seniors should do about it.",
-    "category": "environment",
-    "jurisdiction": "Nova Scotia",
-    "level": "Provincial",
-    "type": "Air quality index",
-    "tags": [
-      "provincial",
-      "air-quality",
-      "aqhi",
-      "monitoring",
-      "health"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Nova Scotia — Ambient Air Quality Data",
-    "url": "https://novascotia.ca/nse/airdata/",
-    "description": "Portal to Nova Scotia's ambient air monitoring record — station observations for SO2, NOx, PM2.5, O3 and haze, data summaries and access to the underlying monitoring data.",
-    "category": "environment",
-    "jurisdiction": "Nova Scotia",
-    "level": "Provincial",
-    "type": "Monitoring data",
-    "tags": [
-      "provincial",
-      "air-quality",
-      "monitoring",
-      "data",
-      "pollutants"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Newfoundland and Labrador — Water and Climate Monitoring",
-    "url": "https://www.gov.nl.ca/eccc/waterres/water-and-climate-monitoring/",
-    "description": "NL's surface-water and climate monitoring program: real-time streamflow and lake-level gauges, water temperature, and climate station data, with links through to the provincial data portals.",
-    "category": "environment",
-    "jurisdiction": "Newfoundland and Labrador",
-    "level": "Provincial",
-    "type": "Environmental monitoring",
-    "tags": [
-      "provincial",
-      "water",
-      "streamflow",
-      "gauges",
-      "monitoring"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Newfoundland and Labrador Water Resources Portal",
-    "url": "https://maps.gov.nl.ca/water/",
-    "description": "The province's interactive water-resources map service: water bodies and watersheds with gauging stations and current readings, plus mapped flood-prone areas and water-use zones.",
-    "category": "environment",
-    "jurisdiction": "Newfoundland and Labrador",
-    "level": "Provincial",
-    "type": "Interactive map",
-    "tags": [
-      "provincial",
-      "water",
-      "map",
-      "gauges",
-      "flood"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "British Columbia — Drought Information",
-    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/drought-information",
-    "description": "Current drought status and level by region across BC, the province's drought monitoring and reporting, water-supply outlooks and water-conservation guidance.",
-    "category": "environment",
-    "jurisdiction": "British Columbia",
-    "level": "Provincial",
-    "type": "Drought monitoring",
-    "tags": [
-      "provincial",
-      "drought",
-      "water",
-      "monitoring"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "British Columbia — Algae Watch",
-    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/water-quality/algae-watch",
-    "description": "BC's public blue-green algae / cyanobacteria bloom advisory program: current beach and lake advisories, how to read the advisory levels before swimming, and how to report a bloom.",
-    "category": "environment",
-    "jurisdiction": "British Columbia",
-    "level": "Provincial",
-    "type": "Water quality advisories",
-    "tags": [
-      "provincial",
-      "algae",
-      "bloom",
-      "water-quality",
-      "advisories"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Alberta — Drought",
-    "url": "https://www.alberta.ca/drought",
-    "description": "Government of Alberta's drought watch and monitoring page: current drought status by basin (Peace, Bow, Oldman, South Saskatchewan and others), drought reports and recovery information.",
-    "category": "environment",
-    "jurisdiction": "Alberta",
-    "level": "Provincial",
-    "type": "Drought monitoring",
-    "tags": [
-      "provincial",
-      "drought",
-      "water",
-      "monitoring"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Ausable Bayfield Conservation Authority — Flood Status",
-    "url": "https://www.abca.ca/",
-    "description": "The authority's live Flood Status feed reports current and forecast flooding across the Ausable, Bayfield, Parkhill, Mud and Lakeshore watersheds, with a parallel Low Water Status feed.",
-    "category": "weather",
-    "jurisdiction": "Ontario",
-    "level": "Agency",
-    "type": "Flood monitoring",
-    "tags": [
-      "agency",
-      "flood",
-      "conservation-authority",
-      "alerts",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Catfish Creek Conservation Authority — Flood Notices",
-    "url": "https://www.catfishcreek.ca/programs/water-management/flood-forecasting-and-warning/flood-notices/",
-    "description": "Live flood forecasting and warning for the Catfish Creek watershed: dated flood notices and emergency watershed condition statements, alongside the authority's low water advisories.",
-    "category": "weather",
-    "jurisdiction": "Ontario",
-    "level": "Agency",
-    "type": "Flood monitoring",
-    "tags": [
-      "agency",
-      "flood",
-      "conservation-authority",
-      "alerts",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Calgary — Air Quality",
-    "url": "https://www.calgary.ca/environment/policies/air-quality.html",
-    "description": "The city's air quality program: current AQHI and pollutant readings from Calgary's monitoring network, the Air Quality Monitoring Plan, and what to do when air quality is poor.",
-    "category": "environment",
-    "jurisdiction": "Calgary",
-    "level": "Municipal",
-    "type": "Air quality index",
-    "tags": [
-      "municipal",
-      "air-quality",
-      "aqhi",
-      "monitoring",
-      "health"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Ontario — Air Quality Health Index",
-    "url": "https://www.ontario.ca/page/air-quality-health-index",
-    "description": "Ontario's provincial AQHI lookup and guidance: how the index works, current AQHI for Ontario communities, and health advice per risk level for children, seniors and people with heart or breathing conditions.",
-    "category": "environment",
-    "jurisdiction": "Ontario",
-    "level": "Provincial",
-    "type": "Air quality index",
-    "tags": [
-      "provincial",
-      "air-quality",
-      "aqhi",
-      "monitoring",
-      "health"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Peterborough — Snow Plow Map",
-    "url": "https://www.peterborough.ca/living-in-peterborough/roads-and-sidewalks/snow-removal/snow-plow-map/",
-    "description": "Auto-refreshing map of the city's plow fleet, colour-coded by how recently each street was last cleared (uncoloured = more than 24 hours). Refreshes every five minutes; the city explicitly disclaims any guarantee of safe conditions.",
-    "category": "transport-roads",
-    "jurisdiction": "Peterborough",
-    "level": "Municipal",
-    "type": "Snow plow map",
-    "tags": [
-      "municipal",
-      "snow",
-      "plow tracker",
-      "winter",
-      "roads",
-      "map"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "City of Greater Sudbury — Snow Plow Status Map",
-    "url": "https://www.greatersudbury.ca/live/transportation-parking-and-roads/road-maintenance/plow-status/",
-    "description": "Near-real-time map of snow clearing on streets and sidewalks, refreshed about every 30 minutes, with per-street last-serviced times. Runs on Geotab Citizen Insights inside the City's own portal.",
-    "category": "transport-roads",
-    "jurisdiction": "Greater Sudbury",
-    "level": "Municipal",
-    "type": "Snow plow map",
-    "tags": [
-      "municipal",
-      "snow",
-      "plow tracker",
-      "winter",
-      "roads",
-      "map"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Thunder Bay — Snowplow Status Map",
-    "url": "https://www.thunderbay.ca/city-services/roads-and-active-transportation/snow-removal/",
-    "description": "Winter operations page built around an interactive map showing which streets were last serviced by which plow during and after snow events, alongside the City's clearing standards and a dispatch line for service complaints.",
-    "category": "transport-roads",
-    "jurisdiction": "Thunder Bay",
-    "level": "Municipal",
-    "type": "Snow plow map",
-    "tags": [
-      "municipal",
-      "snow",
-      "plow tracker",
-      "winter",
-      "roads",
-      "map"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Barrie — Winter Road and Sidewalk Maintenance",
-    "url": "https://www.barrie.ca/services-payments/road-sidewalk-maintenance/winter-maintenance",
-    "description": "Winter maintenance hub whose centrepiece is the Plow Tracker, a map showing when a given street was last serviced, plus overnight parking restrictions, service levels and downtown business responsibilities.",
-    "category": "transport-roads",
-    "jurisdiction": "Barrie",
-    "level": "Municipal",
-    "type": "Winter maintenance",
-    "tags": [
-      "municipal",
-      "snow",
-      "plow tracker",
-      "winter",
-      "roads",
-      "parking"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Saskatoon — Snow and Ice Report",
-    "url": "https://www.saskatoon.ca/moving-around/driving-roadways/winter-road-maintenance/snow-and-ice-report",
-    "description": "Live winter operations report: current weather assessment, what crews are doing on priority streets right now, sidewalk clearing deadlines and driving advice — republished as a subscribeable RSS alert feed.",
-    "category": "transport-roads",
-    "jurisdiction": "Saskatoon",
-    "level": "Municipal",
-    "type": "Road conditions",
-    "tags": [
-      "municipal",
-      "snow",
-      "ice",
-      "winter",
-      "roads",
-      "alerts"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "York Region — Traffic Cameras",
-    "url": "https://www.york.ca/transportation/roads/traffic-cameras",
-    "description": "Regional live camera viewer showing camera locations and recent road photos, images auto-updating every three minutes. The Region states it records nothing; documents the 24/7 operations centre and its 430+ Bluetooth travel-time sensors.",
-    "category": "transport-roads",
-    "jurisdiction": "York Region",
-    "level": "Regional",
-    "type": "Traffic cameras",
-    "tags": [
-      "regional",
-      "roads",
-      "cameras",
-      "traffic",
-      "live"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Brantford — Road Closures",
-    "url": "https://www.brantford.ca/transportation/road-closures/",
-    "description": "Feeds three live closure lists to maps: city construction projects, non-city construction (utilities, private contractors), and special events. Explicitly excludes emergency closures. Backed by an ArcGIS feature service.",
-    "category": "transport-roads",
-    "jurisdiction": "Brantford",
-    "level": "Municipal",
-    "type": "Road closures",
-    "tags": [
-      "municipal",
-      "roads",
-      "closures",
-      "construction",
-      "map"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Burnaby — Road Closures Map",
-    "url": "https://www.burnaby.ca/services-and-payments/roads-and-traffic/road-closures",
-    "description": "Interactive map of current and planned construction closures citywide, lookupable by location. The page states that accident, emergency, special-event and filming closures are excluded.",
-    "category": "transport-roads",
-    "jurisdiction": "Burnaby",
-    "level": "Municipal",
-    "type": "Road closures map",
-    "tags": [
-      "municipal",
-      "roads",
-      "closures",
-      "construction",
-      "map"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Brandon — Road Closures",
-    "url": "https://www.brandon.ca/roads-parking-transportation/road-closures/",
-    "description": "Described by the City as a real-time central hub for road, street and lane closures, covering construction projects, detour routes and traffic advisories, plus the statutory notice for permanently opening or closing municipal roads.",
-    "category": "transport-roads",
-    "jurisdiction": "Brandon",
-    "level": "Municipal",
-    "type": "Road closures",
-    "tags": [
-      "municipal",
-      "roads",
-      "closures",
-      "detours",
-      "traffic"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Fredericton — Web Cameras",
-    "url": "https://www.fredericton.ca/about-fredericton/web-cameras",
-    "description": "Embeds five live municipal camera views on the City's own ArcGIS platform for residents to check current conditions around town.",
-    "category": "transport-roads",
-    "jurisdiction": "Fredericton",
-    "level": "Municipal",
-    "type": "Web cameras",
-    "tags": [
-      "municipal",
-      "roads",
-      "cameras",
-      "live",
-      "conditions"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "York Region — Road Closures",
-    "url": "https://www.york.ca/transportation/roads/road-closures",
-    "description": "Live list of current and upcoming planned road closures, each entry giving the road segment, start and end date-times, and the project or reason — emergency repairs through major capital works such as the Yonge Street revitalization.",
-    "category": "transport-roads",
-    "jurisdiction": "York Region",
-    "level": "Regional",
-    "type": "Road closures",
-    "tags": [
-      "regional",
-      "roads",
-      "closures",
-      "construction",
-      "live"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Cambridge — Road Closures Map",
-    "url": "https://www.cambridge.ca/business-building-development/road-closures/",
-    "description": "Live ArcGIS map of active municipal road closures, with a pointer to the Region of Waterloo for regional road and lane closures.",
-    "category": "transport-roads",
-    "jurisdiction": "Cambridge",
-    "level": "Municipal",
-    "type": "Road closures map",
-    "tags": [
-      "municipal",
-      "roads",
-      "closures",
-      "map",
-      "arcgis"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Halifax — Winter Street and Sidewalk Information Maps",
-    "url": "https://www.halifax.ca/transportation/winter-operations/winter-street-information",
-    "description": "Three interactive maps: winter street information (snow priority level, street ownership, maintenance responsibility), winter sidewalk information, and the overnight winter parking ban zone map. Supports address search and per-street pop-ups.",
-    "category": "transport-roads",
-    "jurisdiction": "Halifax",
-    "level": "Municipal",
-    "type": "Winter operations maps",
-    "tags": [
-      "municipal",
-      "snow",
-      "winter",
-      "roads",
-      "sidewalks",
-      "parking",
-      "map"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "St. John's — Traffic Advisories",
-    "url": "https://www.stjohns.ca/resident-services/transportation/traffic-advisories/",
-    "description": "Live advisory list covering current and scheduled closures for construction, road work, special events and street rehab, each with location and date range, updated as advisories are issued.",
-    "category": "transport-roads",
-    "jurisdiction": "St. John's",
-    "level": "Municipal",
-    "type": "Traffic advisories",
-    "tags": [
-      "municipal",
-      "roads",
-      "closures",
-      "traffic",
-      "advisories"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Hamilton — Lane Restrictions and Road Closures",
-    "url": "https://www.hamilton.ca/home-neighbourhood/getting-around/driving-traffic/lane-restrictions-and-road-closures",
-    "description": "Hub collecting current lane restrictions, permanent road and alleyway closures, corridor project impacts and detour information, linked to the City's map dashboards.",
-    "category": "transport-roads",
-    "jurisdiction": "Hamilton",
-    "level": "Municipal",
-    "type": "Road closures",
-    "tags": [
-      "municipal",
-      "roads",
-      "closures",
-      "detours",
-      "traffic"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
-    "name": "Kitchener — Snow Plow Priorities Map",
-    "url": "https://www.kitchener.ca/living-in-kitchener/leaves-snow-recycling-and-garbage/snow-plow-priorities-map/",
-    "description": "Publishes the city's street-by-street plowing priority ranking (Priority 1 arterial and GRT bus routes down through lower tiers) with service levels, searchable by address, so residents can see how quickly their road will be cleared.",
-    "category": "transport-roads",
-    "jurisdiction": "Kitchener",
-    "level": "Municipal",
-    "type": "Snow plow map",
-    "tags": [
-      "municipal",
-      "snow",
-      "plow",
-      "winter",
-      "roads",
-      "map"
-    ],
-    "dateAdded": "2026-10-10"
   }
 ]
