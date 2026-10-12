@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2212 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2211 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -42,7 +42,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 59
-- [🚌 Transit & Mobility](#transit-and-mobility) — 91
+- [🚌 Transit & Mobility](#transit-and-mobility) — 90
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 45
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 92
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
@@ -2138,7 +2138,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Guelph Transit | Guelph · Regional | Transit | Guelph bus routes and trip planning | https://guelph.ca/living/getting-around/bus/ |
 | Hamilton Street Railway (HSR) | Hamilton · Regional | Transit | Hamilton bus routes and BLine rapid transit info | https://www.hamilton.ca/hsr |
 | London Transit | London · Regional | Transit | London, Ontario bus routes and schedules | https://www.londontransit.ca/ |
-| Metrolinx Triplinx | Ontario · Regional | Trip planner | Region-wide transit trip planner across many systems | https://www.triplinx.ca/ |
 | Durham Region Transit | Ontario/GTA · Regional | Transit | Durham Region's transit service — routes, schedules, and fares | https://www.durhamregiontransit.com/ |
 | Durham Region Transit — GTFS | Ontario/GTA · Regional | GTFS feed | DRT static GTFS schedule package for Durham Region bus routes — direct ZIP download from regional open data. | https://maps.durham.ca/OpenDataGTFS/GTFS_Durham_TXT.zip |
 | GO Transit — Trip Planner | Ontario/GTA · Regional | Trip planner | GO Transit schedules, trip planning, and fare information for Greater Toronto Area | https://www.gotransit.com/en/ |

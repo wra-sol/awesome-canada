@@ -30925,19 +30925,6 @@
     ]
   },
   {
-    "name": "Metrolinx Triplinx",
-    "level": "Regional",
-    "jurisdiction": "Ontario",
-    "category": "transit",
-    "type": "Trip planner",
-    "description": "Region-wide transit trip planner across many systems",
-    "url": "https://www.triplinx.ca/",
-    "tags": [
-      "transit",
-      "trip planner"
-    ]
-  },
-  {
     "name": "Durham Region Transit",
     "level": "Regional",
     "jurisdiction": "Ontario/GTA",
