@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2211 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2223 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -47,7 +47,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 92
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
 - [🌦️ Weather & Climate](#weather-and-climate) — 32
-- [⚡ Energy & Utilities](#energy-and-utilities) — 45
+- [⚡ Energy & Utilities](#energy-and-utilities) — 57
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 54
@@ -2656,6 +2656,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Energy Regulator — International Power Lines Dashboard | Canada · Federal | Dashboard | Map and filter Canada's international power lines by status, origin and destination; view voltage, capacity and length, with CSV download from Open Government. | https://www.cer-rec.gc.ca/en/data-analysis/facilities-we-regulate/international-power-lines-dashboard/index.html |
 | Canada Energy Regulator — Pipeline Incidents Dashboard | Canada · Federal | Interactive dashboard | Explore incidents at CER-regulated pipelines and facilities since 2008 by company, region, cause and substance released; underlying data downloadable as CSV. | https://apps2.cer-rec.gc.ca/pipeline-incidents |
 | Canada Energy Regulator — Pipeline Profiles | Canada · Federal | Data | Capacity, throughput, and tolls for major federally regulated pipelines | https://www.cer-rec.gc.ca/en/data-analysis/facilities-we-regulate/pipeline-profiles/ |
+| Canada Energy Regulator — REGDOCS Registry | Canada · Federal | Regulatory document registry | REGDOCS is the CER's public registry of regulatory documents: search filings, applications, evidence and decisions for federally regulated pipelines, power lines and energy projects. | https://apps.cer-rec.gc.ca/REGDOCS/ |
 | Canadian Centre for Energy Information | Canada · Federal | Data portal | One-stop federal energy data hub: search datasets, publications and use the Stat Data Explorer plus near-real-time provincial electricity data with API access. | https://energy-information.canada.ca/en |
 | CNSC — Map of Nuclear Facilities | Canada · Federal | Interactive map | Interactive map of every CNSC-licensed nuclear facility — power plants, uranium mines and mills, research and waste sites — filterable by province and facility type. | https://www.cnsc-ccsn.gc.ca/eng/resources/maps-of-nuclear-facilities/ |
 | NRCan — Fuel Prices by City | Canada · Federal | Lookup tool | Compare daily, weekly or monthly retail gasoline, diesel, propane and furnace-oil prices for 70+ Canadian cities; export tables as XLS with tax and margin breakdowns. | https://www2.nrcan-rncan.gc.ca/eneene/sources/pripri/prices_bycity_e.cfm |
@@ -2672,6 +2673,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Hydro — Planned Outages and Outage List | British Columbia · Provincial | Outage info | Browse list of current, planned, and recently restored power outages across BC Hydro's service territory | https://www.bchydro.com/power-outages |
 | BC Hydro — Power Outage Map | British Columbia · Provincial | Outage map | Interactive map showing current and recent power outages across BC — view affected areas, estimated restoration times, and outage cause | https://app.bchydro.com/power-outages/app/outage-map.html |
 | BC Hydro — Report an Outage | British Columbia · Provincial | Service | Report a power outage to BC Hydro online or check the outage map for your area | https://www.bchydro.com/outages/orsmapview.jsp |
+| BC Utilities Commission — Orders and Decisions Search | British Columbia · Provincial | Decisions database | Search BCUC orders and decisions by keyword, company, date, proceeding or document name — the rulings that set BC electricity, gas and thermal energy rates. | https://www.ordersdecisions.bcuc.com/bcuc/en/nav.do |
 | FortisBC — Gas Outage Map | British Columbia · Provincial | Outage map | Map of current gas service interruptions in FortisBC's service territory across British Columbia | https://www.fortisbc.com/outages |
 | Vancouver VanMap | Vancouver · Municipal | Interactive map | Parcel, zoning, parks, utilities, and city layers | https://maps.vancouver.ca/vanmap-viewer/ |
 
@@ -2682,7 +2684,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | AESO — Market and System Reporting | Alberta · Agency | Live grid data | Near-real-time Alberta electricity data: pool price, supply and demand, generation mix by fuel, and transmission outages from the provincial grid operator. | https://www.aeso.ca/market/market-and-system-reporting/ |
 | Alberta Energy Regulator | Alberta · Provincial | Regulator | Regulates the upstream oil, gas, and coal development in Alberta, including licensing, compliance, and environmental monitoring | https://aer.ca/ |
 | Alberta Utilities Commission — Consumer Services | Alberta · Provincial | Consumer protection | Alberta Utilities Commission consumer services — complaints, dispute resolution, and utility rate information for Alberta energy consumers | https://www.auc.ab.ca/ |
+| Alberta Utilities Commission — eFiling System | Alberta · Provincial | Regulatory filing system | The AUC's eFiling system: file and search applications, evidence, decisions and proceeding documents for Alberta electricity and natural gas rate and facility cases. | https://efiling.auc.ab.ca/ |
 | ATCO — Gas Outage Map and Emergency | Alberta · Provincial | Outage map | ATCO's gas and electric outage information — view current outages and report gas emergencies in Alberta | https://electric.atco.com/en-ca/power-outages.html |
+| FortisAlberta — Outage Map | Alberta · Provincial | Outage map | Live outage map and outage list for FortisAlberta, the electricity distribution utility serving more than 240 Alberta communities outside the major cities. | https://service.fortisalberta.com/ |
+| Utilities Consumer Advocate — Cost Comparison Tool | Alberta · Provincial | Rate comparison tool | Compare Alberta electricity and natural gas offers side by side — regulated rates and competitive retailer plans — from the provincial Utilities Consumer Advocate, including the Rate of Last Resort. | https://ucahelps.alberta.ca/cost-comparison-tool/ |
 | Utilities Consumer Advocate Alberta | Alberta · Provincial | Advocacy | Free advocacy for Alberta energy consumers — compare electricity and gas rates, understand your options, and get help with disputes | https://ucahelps.alberta.ca/ |
 | Calgary Electric Utility — ENMAX Outages | Calgary · Municipal | Outage map | ENMAX's power outage information and map for Calgary — view current outages and report service issues | https://www.enmax.com/outages |
 | Edmonton Electric Utility — EPCOR Outages | Edmonton · Municipal | Outage map | EPCOR's electric outage map for Edmonton — current power outages, outage causes, and restoration times | https://www.epcor.com/outages-safety/outages/current/Pages/default.aspx |
@@ -2702,16 +2707,20 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Manitoba Hydro — Outage Map | Manitoba · Crown Corp | Outage map | Manitoba Hydro outage map and reporting | https://www.hydro.mb.ca/outages/ |
 | Manitoba Office of Drinking Water — Advisories Map | Manitoba · Provincial | Advisory map | See current boil-water, water-quality and avoidance advisories for public and semi-public systems on a map, with short/medium/long-term status. | https://www.gov.mb.ca/sd/water/drinking-water/advisory/map.html |
+| Manitoba Public Utilities Board — Proceedings and Decisions | Manitoba · Provincial | Proceedings and decisions | Orders, decisions and proceeding records of the Manitoba Public Utilities Board, which regulates Manitoba Hydro electricity rates, Centra Gas, MPI basic insurance and municipal water utilities. | https://www.pubmanitoba.ca/v1/proceedings-decisions/index.html |
 
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | IESO — Power Data | Ontario · Agency | Live grid data | Ontario's grid operator publishes real-time electricity demand, supply mix, and market prices in 5-minute intervals, with a full historical data directory. | https://www.ieso.ca/power-data |
+| Save on Energy — IESO Energy-Efficiency Programs | Ontario · Agency | Energy-efficiency programs | Ontario's Save on Energy portal run by the IESO: rebates, retrofit incentives and energy-efficiency programs for homes, businesses, industry and municipalities. | https://saveonenergy.ca/ |
 | Hydro One — Outage Map | Ontario · Provincial | Outage map | Live outage map for Hydro One's rural and regional Ontario distribution network | https://www.hydroone.com/power-outages |
 | Ontario Energy Board | Ontario · Provincial | Regulator | Independent regulator of the electricity and natural gas sectors in Ontario, including utility rate decisions, consumer protection, and energy policy | https://www.oeb.ca/ |
+| Ontario Energy Board — Archived Decisions | Ontario · Provincial | Decisions archive | Filter past Ontario Energy Board applications by year, energy type and application type and open the case record — decisions and orders that set Ontario electricity and gas rates. | https://www.oeb.ca/applications/major-decisions/archived-decisions |
 | Ontario Power Generation — Dam Safety and Water Management | Ontario · Provincial | Water management | OPG's dam safety monitoring, water level data, and water management information for Ontario's hydroelectric facilities | https://www.opg.com/power-safety/dams/ |
 | Ontario Power Generation — Nuclear Monitoring Dashboard | Ontario · Provincial | Dashboard | Nuclear generation data, environmental monitoring results, and safety performance information from OPG's Pickering and Darlington stations | https://www.opg.com/power-generation/nuclear/ |
+| Synergy North — Outage Map | Ontario · Regional | Outage map | Live outage map for Synergy North, the municipal electricity utility serving Thunder Bay and Kenora, with affected areas and restoration updates. | https://synergynorth.ca/outage-map/ |
 | Alectra — Outage Map | Ontario/GTA · Regional | Outage map | Live power outage map across Alectra Utilities' Ontario service territory | https://www.alectrautilities.com/outage-map |
 | Hydro Ottawa — Outage Map | Ottawa · Municipal | Outage map | Live power outage map and reporting for Ottawa and surrounding areas | https://hydroottawa.com/outage |
 | Toronto Hydro — Outage Map | Toronto · Municipal | Outage map | Toronto Hydro's power outage map — view current outages in Toronto's electricity distribution area | https://www.torontohydro.com/outages |
@@ -2722,12 +2731,15 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Hydro-Québec — Estimate a Home's Electricity Costs | Quebec · Crown Corp | Bill estimator | Address-based estimator (building number + postal code) that instantly produces an approximate annual electricity cost for a home, useful when moving or comparing residences in Quebec. | https://www.hydroquebec.com/residential/customer-space/moving/estimate-electricity-costs.html |
 | Hydro-Québec — Report an Outage and Mobile App | Quebec · Provincial | Service | Report a power outage to Hydro-Québec, check real-time status by address, and access the Hydro-Québec mobile app for notifications | https://www.hydroquebec.com/mobile-app.html |
+| Régie de l'énergie — Decisions | Quebec · Provincial | Decisions database | Decisions and regulatory files of Quebec's Régie de l'énergie, the tribunal that sets Hydro-Québec distribution rates and regulates natural gas and petroleum product pricing in Quebec. | https://www.regie-energie.qc.ca/en/participants/decisions |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | NB Power — Current Outages | New Brunswick · Crown Corp | Outage dashboard | Live outage map and per-region outage lists for NB Power — unplanned and planned interruptions with customers affected, refreshed every 10 minutes; lookup by phone or account number. | https://www.nbpower.com/open/outages.aspx?lang=en |
+| Newfoundland and Labrador Hydro — Outage Map | Newfoundland and Labrador · Crown Corp | Outage map | Outage information and map for NL Hydro, the provincial Crown utility serving Labrador and rural Newfoundland communities not covered by Newfoundland Power. | https://my.nlhydro.com/outage/ |
+| Newfoundland Power — Outage Centre | Newfoundland and Labrador · Provincial | Outage centre | Current planned and unplanned outages for Newfoundland Power customers, updated every 10 minutes, with address-level outage search, restoration estimates and outage alerts. | https://www.newfoundlandpower.com/Outages/Outage-Centre |
 | Nova Scotia Power — Outage Map | Nova Scotia · Provincial | Outage map | Live power outage map across Nova Scotia | https://outagemap.nspower.ca/ |
 | Maritime Electric — Outage Map | PEI · Provincial | Outage map | Maritime Electric's Prince Edward Island outage map | https://maritimeelectric.com/outages/ |
 

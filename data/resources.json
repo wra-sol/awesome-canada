@@ -34716,5 +34716,205 @@
       "alberta"
     ],
     "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Alberta Utilities Commission — eFiling System",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "utilities",
+    "type": "Regulatory filing system",
+    "description": "The AUC's eFiling system: file and search applications, evidence, decisions and proceeding documents for Alberta electricity and natural gas rate and facility cases.",
+    "url": "https://efiling.auc.ab.ca/",
+    "tags": [
+      "alberta",
+      "utilities",
+      "regulator",
+      "efiling",
+      "decisions"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "BC Utilities Commission — Orders and Decisions Search",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "utilities",
+    "type": "Decisions database",
+    "description": "Search BCUC orders and decisions by keyword, company, date, proceeding or document name — the rulings that set BC electricity, gas and thermal energy rates.",
+    "url": "https://www.ordersdecisions.bcuc.com/bcuc/en/nav.do",
+    "tags": [
+      "bc",
+      "utilities",
+      "regulator",
+      "decisions",
+      "orders"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Ontario Energy Board — Archived Decisions",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Decisions archive",
+    "description": "Filter past Ontario Energy Board applications by year, energy type and application type and open the case record — decisions and orders that set Ontario electricity and gas rates.",
+    "url": "https://www.oeb.ca/applications/major-decisions/archived-decisions",
+    "tags": [
+      "ontario",
+      "energy",
+      "regulator",
+      "decisions",
+      "rates"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Canada Energy Regulator — REGDOCS Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "utilities",
+    "type": "Regulatory document registry",
+    "description": "REGDOCS is the CER's public registry of regulatory documents: search filings, applications, evidence and decisions for federally regulated pipelines, power lines and energy projects.",
+    "url": "https://apps.cer-rec.gc.ca/REGDOCS/",
+    "tags": [
+      "cer",
+      "pipelines",
+      "energy",
+      "filings",
+      "registry"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Manitoba Public Utilities Board — Proceedings and Decisions",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "utilities",
+    "type": "Proceedings and decisions",
+    "description": "Orders, decisions and proceeding records of the Manitoba Public Utilities Board, which regulates Manitoba Hydro electricity rates, Centra Gas, MPI basic insurance and municipal water utilities.",
+    "url": "https://www.pubmanitoba.ca/v1/proceedings-decisions/index.html",
+    "tags": [
+      "manitoba",
+      "utilities",
+      "regulator",
+      "decisions",
+      "orders"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Régie de l'énergie — Decisions",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "utilities",
+    "type": "Decisions database",
+    "description": "Decisions and regulatory files of Quebec's Régie de l'énergie, the tribunal that sets Hydro-Québec distribution rates and regulates natural gas and petroleum product pricing in Quebec.",
+    "url": "https://www.regie-energie.qc.ca/en/participants/decisions",
+    "tags": [
+      "quebec",
+      "energy",
+      "regulator",
+      "decisions"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Utilities Consumer Advocate — Cost Comparison Tool",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "utilities",
+    "type": "Rate comparison tool",
+    "description": "Compare Alberta electricity and natural gas offers side by side — regulated rates and competitive retailer plans — from the provincial Utilities Consumer Advocate, including the Rate of Last Resort.",
+    "url": "https://ucahelps.alberta.ca/cost-comparison-tool/",
+    "tags": [
+      "alberta",
+      "utilities",
+      "consumer",
+      "rates",
+      "comparison"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Save on Energy — IESO Energy-Efficiency Programs",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Energy-efficiency programs",
+    "description": "Ontario's Save on Energy portal run by the IESO: rebates, retrofit incentives and energy-efficiency programs for homes, businesses, industry and municipalities.",
+    "url": "https://saveonenergy.ca/",
+    "tags": [
+      "ontario",
+      "ieso",
+      "energy-efficiency",
+      "rebates",
+      "programs"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Synergy North — Outage Map",
+    "level": "Regional",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Outage map",
+    "description": "Live outage map for Synergy North, the municipal electricity utility serving Thunder Bay and Kenora, with affected areas and restoration updates.",
+    "url": "https://synergynorth.ca/outage-map/",
+    "tags": [
+      "ontario",
+      "thunder bay",
+      "kenora",
+      "outages",
+      "electricity"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "FortisAlberta — Outage Map",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "utilities",
+    "type": "Outage map",
+    "description": "Live outage map and outage list for FortisAlberta, the electricity distribution utility serving more than 240 Alberta communities outside the major cities.",
+    "url": "https://service.fortisalberta.com/",
+    "tags": [
+      "alberta",
+      "electricity",
+      "outages",
+      "map"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Newfoundland Power — Outage Centre",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "utilities",
+    "type": "Outage centre",
+    "description": "Current planned and unplanned outages for Newfoundland Power customers, updated every 10 minutes, with address-level outage search, restoration estimates and outage alerts.",
+    "url": "https://www.newfoundlandpower.com/Outages/Outage-Centre",
+    "tags": [
+      "newfoundland",
+      "electricity",
+      "outages"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Newfoundland and Labrador Hydro — Outage Map",
+    "level": "Crown Corp",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "utilities",
+    "type": "Outage map",
+    "description": "Outage information and map for NL Hydro, the provincial Crown utility serving Labrador and rural Newfoundland communities not covered by Newfoundland Power.",
+    "url": "https://my.nlhydro.com/outage/",
+    "tags": [
+      "newfoundland",
+      "labrador",
+      "electricity",
+      "outages",
+      "crown corporation"
+    ],
+    "dateAdded": "2026-10-12"
   }
 ]
