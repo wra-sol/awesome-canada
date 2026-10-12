@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2197 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2213 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -54,7 +54,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 44
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 79
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 54
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 70
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 38
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 31
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
@@ -3302,12 +3302,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Correctional Service Canada — Research Publications | Canada · Federal | Research library | Browse CSC research reports and summaries by topic — recidivism, mental health, Indigenous corrections, women offenders, substance use, and more. | https://www.csc-scc.gc.ca/research/005008-2000-en.shtml |
 | Court Martial Appeal Court of Canada — Decisions | Canada · Federal | Court decisions | Read the reasons for judgment of the superior court that hears appeals from Canadian courts martial, published in both official languages. | https://www.cmac-cacm.ca/en/pages/decisions-and-law-reports |
 | Ethics Canada — Conflict of Interest and Ethics Commissioner | Canada · Federal | Public registry | Official site of the independent parliamentary ethics office (replaces ciec-ccie.parl.gc.ca); hosts the searchable public registry of disclosures under the Conflict of Interest Act and the MPs' Code. | https://www.ethicscanada.ca/ |
+| Federal Court — Decisions Database | Canada · Federal | Court decisions database | Search and read decisions and reasons for judgment of the Federal Court of Canada, including immigration, Indigenous, maritime and federal administrative law cases. | https://decisions.fct-cf.gc.ca/fc-cf/en/nav.do |
+| Federal Court of Appeal — Decisions Database | Canada · Federal | Court decisions database | Search and read decisions and reasons for judgment of the Federal Court of Appeal, Canada's national appellate court for federal matters. | https://decisions.fca-caf.gc.ca/fca-caf/en/nav.do |
 | Federal Court of Canada | Canada · Federal | Court | Federal Court decisions, forms, rules, and case filings | https://www.fct-cf.gc.ca/en/home |
+| Immigration and Refugee Board — Decisions | Canada · Federal | Decisions database | Access Immigration and Refugee Board of Canada decisions, including selected refugee protection and appeal decisions and the board's decision resources. | https://www.irb-cisr.gc.ca/en/decisions |
 | Justice Canada — Laws of Canada | Canada · Federal | Legislation | Consolidated federal statutes and regulations — the Justice Laws Website | https://laws-lois.justice.gc.ca/ |
 | Justice Canada — Research and Statistics Division reports | Canada · Federal | Report catalogue | Browse and download 700+ Justice Canada research reports, JustFacts briefs and State of the Criminal Justice System annuals (EN/FR, HTML and PDF), from the RSD catalogue. | https://justice.gc.ca/eng/rp-pr/jr/request-demande.html |
 | Public Prosecution Service of Canada | Canada · Federal | Agency | Federal prosecution policies, annual reports, and case information | https://www.ppsc-sppc.gc.ca/ |
+| Supreme Court of Canada — Case Information Search | Canada · Federal | Case search | Search Supreme Court of Canada case information by docket number, party name or citation to track appeals, hearing dates, docket entries and filed documents. | https://www.scc-csc.ca/cases-dossiers/search-recherche/ |
 | Supreme Court of Canada — Judgments | Canada · Federal | Decisions | Search SCC decisions, docket, hearings, and leave-to-appeal rulings | https://www.scc-csc.ca/ |
 | Tax Court of Canada | Canada · Federal | Court | Tax Court decisions, procedures, and appeal filings | https://www.tcc-cci.gc.ca/ |
+| Tax Court of Canada — Find a Decision | Canada · Federal | Court decisions database | Search Tax Court of Canada decisions on income tax, GST/HST, employment insurance and CPP appeals by name, citation or docket. | https://decision.tcc-cci.gc.ca/tcc-cci/en/nav.do |
 | CanLII — Canadian Legal Information Institute | Canada · Agency | Case law | Free Canadian legislation and case law search across all federal, provincial, and tribunal levels | https://www.canlii.org/ |
 | CanLII — Legal Research API | Canada · Agency | Legal data API | Programmatic access to Canada's free legal research database — search case law, statutes and tribunal decisions by jurisdiction, court, citation or full text; free API key required. | https://canlii.ca/s/api |
 | Office of the Correctional Investigator — Reports | Canada · Agency | Report library | Read annual and special investigation reports from the federal prison ombudsman on conditions, treatment, and systemic issues in Canadian penitentiaries. | https://oci-bec.gc.ca/en/reports |
@@ -3318,6 +3323,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Civil Resolution Tribunal | British Columbia · Provincial | Online dispute resolution portal | Canada's first online tribunal: resolve small claims under $5,000, strata property, vehicle accident and society/co-op disputes without court, via the Solution Explorer, online claims and searchable decisions. | https://civilresolutionbc.ca/ |
+| BC Human Rights Tribunal | British Columbia · Provincial | Tribunal portal | File and respond to human rights complaints in British Columbia, search tribunal decisions and follow cases through mediation and hearings. | https://www.bchrt.bc.ca/ |
+| BC Labour Relations Board | British Columbia · Provincial | Tribunal portal | British Columbia's labour relations tribunal for union certification, collective bargaining and Labour Relations Code complaints, with a searchable decisions database and filing services. | https://www.lrb.bc.ca/ |
 | BC Laws | British Columbia · Provincial | Statutes database | Official consolidated statutes and regulations of British Columbia, free to search and cite | https://www.bclaws.gov.bc.ca/ |
 | British Columbia — Court Services Online | British Columbia · Provincial | Court records search | E-search BC Provincial and Supreme civil, traffic and criminal court files by party name or file number, view daily court lists, and e-file documents. | https://justice.gov.bc.ca/cso/index.do |
 | Courts of British Columbia — Judgments | British Columbia · Provincial | Court decisions | Judgments and hearing lists from the BC Court of Appeal, Supreme Court, and Provincial Court | https://www.bccourts.ca/ |
@@ -3331,6 +3338,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta Courts | Alberta · Provincial | Court portal | Court of Appeal, Court of King's Bench, and Alberta Court of Justice — sittings, decisions, and filing information | https://albertacourts.ca/ |
 | Alberta King's Printer — Laws Online | Alberta · Provincial | Statutes database | Official source for Alberta's statutes, regulations, and orders in council | https://kings-printer.alberta.ca/ |
 | Alberta King's Printer — Laws Online Catalogue | Alberta · Provincial | Lookup tool | Search Alberta's official catalogue of acts, regulations and codes by title, chapter number or responsible ministry; most available free as consolidated HTML or PDF. | https://kings-printer.alberta.ca/Laws_Online.cfm |
+| Alberta Labour Relations Board | Alberta · Provincial | Tribunal portal | Alberta's labour relations tribunal for union certification, unfair labour practice complaints and strike and lockout matters, with board decisions, forms and filing information. | https://www.alrb.gov.ab.ca/ |
 | Legal Aid Alberta | Alberta · Provincial | Legal aid | Alberta legal aid eligibility, application, and duty counsel information | https://www.legalaid.ab.ca/ |
 
 ### Saskatchewan
@@ -3338,6 +3346,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Legal Aid Saskatchewan | Saskatchewan · Provincial | Legal aid | Free legal services in criminal and family matters for eligible Saskatchewan residents | https://legalaid.sk.ca/ |
+| Saskatchewan eCourt — e-Filing Portal | Saskatchewan · Provincial | Court portal | Electronic filing and court services portal for Saskatchewan courts, starting with Court of Appeal e-filing for parties and counsel. | https://ecourt.sasklawcourts.ca/ |
 | Saskatchewan Law Courts | Saskatchewan · Provincial | Court portal | Saskatchewan's courts — daily dockets, judgments, and self-represented litigant resources | https://sasklawcourts.ca/ |
 | Saskatchewan Publications Centre | Saskatchewan · Provincial | Statutes database | Freelaw access to Saskatchewan's statutes, regulations, and official government publications | https://publications.saskatchewan.ca/ |
 
@@ -3360,8 +3369,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Legal Aid Ontario | Ontario · Provincial | Legal aid | Ontario legal aid eligibility checker, duty counsel, and legal information | https://www.legalaid.on.ca/ |
 | Ontario — Integrated Accessibility Standards Regulation (O. Reg. 191/11) | Ontario · Provincial | Legislation | The e-Laws text of Ontario's Integrated Accessibility Standards Regulation: accessibility, information and communications, customer service and built-environment standards. The authoritative compliance text for AODA accessibility requirements. | https://www.ontario.ca/laws/regulation/110191 |
 | Ontario — Provincial Offences Act Online Services | Ontario · Provincial | Ticket case status lookup | Check the case status of traffic tickets and fines, see how much you owe, pay, request an early resolution meeting with a prosecutor, or request a trial online for Provincial Offences Act matters. | https://www.justiceservices.jus.gov.on.ca/POA/ |
+| Ontario Animal Care Review Board | Ontario · Provincial | Tribunal portal | Appeal animal welfare inspector orders, removals and cost statements to Ontario's Animal Care Review Board, part of Tribunals Ontario. | https://tribunalsontario.ca/acrb/ |
 | Ontario Courts Public Portal | Ontario · Provincial | Court portal | Ontario's digital court portal for filing documents, accessing case information, and managing court matters online. | https://www.ontario.ca/page/ontario-courts-public-portal |
 | Ontario e-Laws | Ontario · Provincial | Statutes database | Official consolidated statutes and regulations of Ontario, searchable and current to the day | https://www.ontario.ca/laws |
+| Ontario Financial Services Tribunal | Ontario · Provincial | Tribunal portal | Adjudicates appeals and applications under Ontario financial services legislation, including insurance, mortgage brokering, credit unions and pension matters, with published decisions and hearing information. | https://www.fstontario.ca/en/ |
+| Ontario Health Professions Appeal and Review Board | Ontario · Provincial | Tribunal portal | Review complaints decisions of Ontario health regulatory colleges and appeal hospital privileges and public health order decisions through the Health Professions Appeal and Review Board. | https://www.hparb.on.ca/ |
+| Ontario Labour Relations Board | Ontario · Provincial | Tribunal portal | Ontario Labour Relations Board portal for union certification, unfair labour practice and employment standards appeals, with board decisions, forms, e-filing and hearing information. | https://www.olrb.gov.on.ca/ |
+| Ontario Social Benefits Tribunal | Ontario · Provincial | Tribunal portal | Appeal Ontario Works and Ontario Disability Support Program decisions to the Social Benefits Tribunal: file an appeal, request interim assistance and prepare for a hearing. | https://tribunalsontario.ca/sbt/ |
+| Ontario Workplace Safety and Insurance Appeals Tribunal | Ontario · Provincial | Tribunal portal | Final level of appeal for Ontario workplace safety and insurance claims: search WSIAT decisions, file appeals and access tribunal procedures and forms. | https://www.wsiat.on.ca/ |
 | Tribunals Ontario — Online Hearing Portal | Ontario · Provincial | Tribunal portal | File and manage matters across LTB, SBT, HRTO, LAT and other Tribunals Ontario bodies | https://tribunalsontario.ca/ |
 
 ### Quebec
@@ -3371,6 +3386,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | SOQUIJ — Décisions des tribunaux du Québec | Quebec · Crown Corp | Court decisions | Free public search of judgments from Quebec's judicial and administrative tribunals, updated daily by the province's legal information corporation; searchable with English keywords. | https://soquij.qc.ca/ |
 | Commission des services juridiques (Quebec) | Quebec · Provincial | Legal aid | Quebec legal aid eligibility and regional office finder | https://www.csj.qc.ca/ |
 | Quebec — LégisQuébec | Quebec · Provincial | Legislation database | Search official consolidated Quebec statutes and regulations in French and English, with historical point-in-time versions and annual laws in PDF since 1996. | https://www.legisquebec.gouv.qc.ca/en |
+| Tribunal administratif du Québec | Quebec · Provincial | Tribunal portal | Quebec's general administrative tribunal: contest decisions of ministries, municipalities and public bodies in social, economic, real estate and environmental matters, and follow case progress online. | https://www.taq.gouv.qc.ca/ |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
