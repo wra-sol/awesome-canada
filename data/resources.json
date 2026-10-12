@@ -767,6 +767,22 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Transport Canada — Pleasure Craft Licence: How to Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "aviation-marine",
+    "type": "Licence service",
+    "description": "Transport Canada's how-to for a Pleasure Craft Licence: apply for a new licence, transfer or renew an existing one, replace a lost document or cancel a licence, including required ID, proof of ownership and vessel photo.",
+    "url": "https://tc.canada.ca/en/marine-transportation/vessel-licensing-registration/licensing-pleasure-craft/apply-manage-pleasure-craft-licence-pcl/how-apply",
+    "tags": [
+      "boating",
+      "pleasure craft",
+      "licensing",
+      "federal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Transport Canada — Vessel Registration Query System",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -3876,6 +3892,22 @@
     ]
   },
   {
+    "name": "CFIA — Food Licences",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "The Canadian Food Inspection Agency's food-licence hub under the Safe Food for Canadians Regulations: who needs a licence, how to apply through My CFIA, and how to validate a licence number.",
+    "url": "https://inspection.canada.ca/en/making-trading-food/food-licences",
+    "tags": [
+      "food safety",
+      "business licensing",
+      "federal",
+      "cfia"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "CIPO — Canadian Copyrights Database",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -3951,6 +3983,22 @@
       "search",
       "nuans"
     ]
+  },
+  {
+    "name": "DFO — National Online Licensing System",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "Fisheries and Oceans Canada's online system where commercial fish harvesters and recreational fishers in DFO-managed waters apply for, renew and pay for fishing licences and print licence documents.",
+    "url": "https://fishing-peche.dfo-mpo.gc.ca/",
+    "tags": [
+      "fishing",
+      "licensing",
+      "federal",
+      "commercial fishing"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "FedDev Ontario",
@@ -4199,6 +4247,23 @@
     ]
   },
   {
+    "name": "AGCO — Search Licences and Registrations (iAGCO)",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "business",
+    "type": "Licence registry search",
+    "description": "The Alcohol and Gaming Commission of Ontario's guide to searching iAGCO for liquor, gaming, cannabis retail, lottery and horse-racing licences, permits, authorizations and registrations without an account.",
+    "url": "https://www.agco.ca/en/general/iagco-support",
+    "tags": [
+      "liquor",
+      "gaming",
+      "cannabis",
+      "licence search",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Alberta Purchasing Connection",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -4254,6 +4319,22 @@
       "business",
       "registry"
     ]
+  },
+  {
+    "name": "British Columbia — Liquor and Cannabis Licensing",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "BC's Liquor and Cannabis Regulation Branch hub: apply for or amend liquor and cannabis licences, find licensed establishments, and check licensing policy for bars, restaurants, manufacturers and cannabis retailers.",
+    "url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing",
+    "tags": [
+      "liquor",
+      "cannabis",
+      "business licensing",
+      "provincial"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "OrgBook BC",
@@ -4528,6 +4609,21 @@
     "dateAdded": "2026-10-08"
   },
   {
+    "name": "Burnaby — Business Licences",
+    "level": "Municipal",
+    "jurisdiction": "Burnaby",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "The City of Burnaby's business-licence hub: apply for and renew resident, non-resident and inter-municipal business licences, including home-based, rental and short-term rental licences.",
+    "url": "https://www.burnaby.ca/business/business-licences",
+    "tags": [
+      "business licensing",
+      "municipal",
+      "burnaby"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Kitchener — Business Licences",
     "level": "Municipal",
     "jurisdiction": "Kitchener",
@@ -4559,6 +4655,36 @@
       "nanaimo"
     ],
     "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Saskatoon — Business Licences",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "The City of Saskatoon's business-licence hub: apply for, renew and look up commercial, home-based and rental-property business licences and check licence requirements by business type.",
+    "url": "https://www.saskatoon.ca/business-development/business-licences",
+    "tags": [
+      "business licensing",
+      "municipal",
+      "saskatoon"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Surrey — Applying for a Business Licence",
+    "level": "Municipal",
+    "jurisdiction": "Surrey",
+    "category": "business",
+    "type": "Licensing portal",
+    "description": "The City of Surrey's business-licence application page: apply for a new licence through the online portal or by form, with requirements for commercial, home-based and non-resident businesses.",
+    "url": "https://www.surrey.ca/business-economy/business-licensing/applying-for-a-business-licence",
+    "tags": [
+      "business licensing",
+      "municipal",
+      "surrey"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "Waterloo — Get a Business Licence",
@@ -13905,6 +14031,22 @@
     "dateAdded": "2026-10-05"
   },
   {
+    "name": "Edmonton — Service Alerts, Outages and Disruptions",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "gov-services",
+    "type": "Service alerts",
+    "description": "The City of Edmonton's official board of current service alerts, infrastructure outages and disruptions — the single place residents check for water, road and facility incident notices.",
+    "url": "https://www.edmonton.ca/programs_services/alerts-disruptions",
+    "tags": [
+      "alerts",
+      "outages",
+      "services",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Edmonton — Waste Collection Calendar",
     "level": "Municipal",
     "jurisdiction": "Edmonton",
@@ -14058,6 +14200,21 @@
     "dateAdded": "2026-10-05"
   },
   {
+    "name": "Kitchener — Marriage Licences",
+    "level": "Municipal",
+    "jurisdiction": "Kitchener",
+    "category": "gov-services",
+    "type": "Licence service",
+    "description": "The City of Kitchener's marriage page: apply for a marriage licence online or in person, book a licence pick-up appointment, and check licence requirements, expiry and replacement rules.",
+    "url": "https://www.kitchener.ca/living-in-kitchener/marriage-and-divorce/",
+    "tags": [
+      "marriage licence",
+      "municipal",
+      "kitchener"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Laval — Joindre la Ville de Laval",
     "level": "Municipal",
     "jurisdiction": "Laval",
@@ -14155,6 +14312,21 @@
       "milton"
     ],
     "dateAdded": "2026-10-05"
+  },
+  {
+    "name": "Mississauga — Marriage Licence",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "gov-services",
+    "type": "Licence service",
+    "description": "The City of Mississauga's marriage-licence application page: complete the application online, book a City Clerk appointment, and pick up an Ontario marriage licence in person with the required identification.",
+    "url": "https://www.mississauga.ca/services-and-programs/pay-apply-report/apply-for-a-marriage-licence/",
+    "tags": [
+      "marriage licence",
+      "municipal",
+      "mississauga"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "Montréal — 311 Service Requests Dataset",
@@ -14969,6 +15141,22 @@
       "blood",
       "donation"
     ]
+  },
+  {
+    "name": "College of Nurses of Ontario — Find a Nurse",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "health",
+    "type": "Licence registry search",
+    "description": "The College of Nurses of Ontario's public-register entry point: confirm any Ontario nurse's registration status by name, workplace or registration number through the Find a Nurse register, covering RNs, RPNs and nurse practitioners.",
+    "url": "https://cno.org/protect-the-public/confirm-a-nurses-status",
+    "tags": [
+      "nurses",
+      "licence verification",
+      "registry",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "Ontario — CPSO Physician Register",
@@ -23956,6 +24144,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "AlbertaRELM — Hunting and Fishing Licences",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Alberta's official online licensing service for hunting and fishing: buy and renew recreational fishing licences, hunting licences and tags, manage a WIN card account and enter special licence draws.",
+    "url": "https://www.albertarelm.com/",
+    "tags": [
+      "hunting",
+      "fishing",
+      "licences",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Public Land Recreation Maps",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -24053,6 +24257,22 @@
       "maps",
       "parks"
     ]
+  },
+  {
+    "name": "British Columbia — Hunting Licences",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "BC's official hunting-licence page: get a Fish and Wildlife ID, buy basic and species licences online, enter the Limited Entry Hunting draw and check licence requirements for resident and non-resident hunters.",
+    "url": "https://www2.gov.bc.ca/gov/content/sports-culture/recreation/fishing-hunting/hunting/hunting-licences",
+    "tags": [
+      "hunting",
+      "licences",
+      "provincial",
+      "outdoors"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "Recreation Sites and Trails B.C.",
@@ -24243,6 +24463,22 @@
     ]
   },
   {
+    "name": "Ontario — Outdoors Card and Licence Summary",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Ontario's official page for buying, renewing or replacing an Outdoors Card and licence summary, the credential required before buying Ontario hunting and fishing licences through the Fish and Wildlife Licensing Service.",
+    "url": "https://www.ontario.ca/page/get-outdoors-card-and-licence-summary",
+    "tags": [
+      "hunting",
+      "fishing",
+      "outdoors card",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Ontario Parks",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -24339,6 +24575,22 @@
       "outdoors",
       "recreation"
     ]
+  },
+  {
+    "name": "Saskatchewan — Hunting Licences",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Saskatchewan's official page for buying a hunting licence through the Hunting, Angling and Trapping Licence (HAL) system, including eligibility, licence types, draws and where to buy in person.",
+    "url": "https://www.saskatchewan.ca/residents/parks-culture-heritage-and-sport/hunting-trapping-and-angling/hunting/buy-a-hunting-licence",
+    "tags": [
+      "hunting",
+      "licences",
+      "provincial",
+      "outdoors"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "Yukon Parks — Camping Reservations",
@@ -26078,6 +26330,22 @@
     "dateAdded": "2026-10-03"
   },
   {
+    "name": "Toronto — Building Permits",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "planning-zoning",
+    "type": "Permit service",
+    "description": "The City of Toronto's building-permit hub: when a permit is required, how to apply, fees, inspections and how to check the status of a building permit application.",
+    "url": "https://www.toronto.ca/services-payments/building-construction/building-permit/",
+    "tags": [
+      "building permits",
+      "construction",
+      "toronto",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Toronto Application Information Centre",
     "level": "Municipal",
     "jurisdiction": "Toronto",
@@ -27065,6 +27333,37 @@
     "dateAdded": "2026-10-04"
   },
   {
+    "name": "Nova Scotia Emergency Alert",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "The provincial page a Nova Scotian uses to register for emergency alerts, explaining the channels used, what the alert classes mean, and how to get notifications for your area.",
+    "url": "https://novascotia.ca/nova-scotia-emergency-alert-app/",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Nova Scotia Emergency Information — All Hazards",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "safety",
+    "type": "Emergency information",
+    "description": "Nova Scotia's all-hazards emergency portal, with a live sub-page per hazard — floods, wildfire, power outages, hurricanes, extreme heat, winter storms, freezing rain, drought — plus 911 facts and recovery guidance.",
+    "url": "https://emergencyinfo.novascotia.ca/",
+    "tags": [
+      "emergency",
+      "alerts",
+      "hazards",
+      "public-safety"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Ministry of Emergency Preparedness and Response",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -27091,6 +27390,22 @@
       "Ontario",
       "wildfire"
     ]
+  },
+  {
+    "name": "Québec en Alerte",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "Québec's official provincial public alerting system — a single page showing the current alert level by region, and where residents register to receive SMS, email and voice messages from the province during an emergency.",
+    "url": "https://alerte.gouv.qc.ca/fr",
+    "tags": [
+      "alerts",
+      "emergency",
+      "public-safety",
+      "notifications"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "SOPFEU — Interactive Wildfire Map",
@@ -27179,6 +27494,38 @@
     ]
   },
   {
+    "name": "Regional District of North Okanagan — Alertable",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "The Regional District of North Okanagan's Alertable alert page — a regional emergency notification service spanning member municipalities, including evacuation and shelter notices.",
+    "url": "https://www.rdno.ca/alertable",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "regional"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Calgary — Flood alerts and notices",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "safety",
+    "type": "Flood alerts",
+    "description": "Calgary Water's flood status page: which parts of the city are exposed when the Bow River rises, the current flood alert level and active notices, and what residents should do at each stage.",
+    "url": "https://www.calgary.ca/water/flooding/stay-informed.html",
+    "tags": [
+      "flood",
+      "alerts",
+      "emergency",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Edmonton — Neighbourhood Crime Mapping",
     "level": "Municipal",
     "jurisdiction": "Edmonton",
@@ -27193,6 +27540,22 @@
       "neighbourhood",
       "edmonton"
     ]
+  },
+  {
+    "name": "Gatineau — Avis importants, alertes et urgences",
+    "level": "Municipal",
+    "jurisdiction": "Gatineau",
+    "category": "safety",
+    "type": "Notices and alerts",
+    "description": "Ville de Gatineau's official important-notices, alerts and emergencies hub, with a direct path to subscribing to municipal emergency notifications.",
+    "url": "https://www.gatineau.ca/portail/default.aspx?p=avis_importants_alertes_urgences",
+    "tags": [
+      "alerts",
+      "notices",
+      "emergency",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "Halifax — Alarm Registration",
@@ -27259,6 +27622,22 @@
     ]
   },
   {
+    "name": "Montreal — Avis et alertes",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "safety",
+    "type": "Notices and alerts",
+    "description": "Ville de Montréal's official notices-and-alerts board, the municipal channel residents check for city-issued advisories and emergency notices.",
+    "url": "https://montreal.ca/avis-et-alertes",
+    "tags": [
+      "alerts",
+      "notices",
+      "emergency",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Montréal — Vue sur la sécurité publique",
     "level": "Municipal",
     "jurisdiction": "Montreal",
@@ -27273,6 +27652,38 @@
       "map",
       "montreal"
     ]
+  },
+  {
+    "name": "Nanaimo — Emergency Alert System (Voyent Alert)",
+    "level": "Municipal",
+    "jurisdiction": "Nanaimo",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "The City of Nanaimo's official page for its Voyent Alert emergency call alert system, the channel used to issue and subscribe to city emergency notifications.",
+    "url": "https://www.nanaimo.ca/public-safety/emergency-management/emergency-call-alert-system",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Fort Smith — Alertable",
+    "level": "Municipal",
+    "jurisdiction": "Northwest Territories",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "The Town of Fort Smith's official sign-up page for its Alertable emergency alert service, where residents register a phone or email to receive notifications about local incidents.",
+    "url": "https://www.fortsmith.ca/alertable",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "Ottawa — Police Community Safety Data Portal",
@@ -27308,6 +27719,54 @@
     "dateAdded": "2026-08-28"
   },
   {
+    "name": "Quebec City — Québec en alerte",
+    "level": "Municipal",
+    "jurisdiction": "Quebec City",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "Ville de Québec's own instance of the Québec en alerte system, showing the current municipal alert state and letting residents subscribe to city-issued alerts.",
+    "url": "https://alerte.ville.quebec.qc.ca/",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Regina — NotifyNow",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "The City of Regina's NotifyNow page — the municipal alert subscription flow for emergency and service notifications, run by the city under its own brand.",
+    "url": "https://www.regina.ca/home-property/safety-emergencies/emergency-preparedness/notifynow/",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Saskatoon — NotifyNow",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "The City of Saskatoon's NotifyNow page — the municipal alert subscription flow residents register with to receive emergency and service alert messages by text, phone or email.",
+    "url": "https://www.saskatoon.ca/services-residents/fire-emergency/emergency-management/notifynow",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "Saskatoon — Police Crime Map",
     "level": "Municipal",
     "jurisdiction": "Saskatoon",
@@ -27322,6 +27781,21 @@
       "collisions",
       "saskatoon"
     ]
+  },
+  {
+    "name": "Sherbrooke — Situations d'urgence",
+    "level": "Municipal",
+    "jurisdiction": "Sherbrooke",
+    "category": "safety",
+    "type": "Emergency information",
+    "description": "Sherbrooke's official emergency situations page, covering the city's alert levels, alerts by sector and what to do during a crisis.",
+    "url": "https://www.sherbrooke.ca/fr/services-a-la-population/securite-publique-et-situations-d-urgence/situations-d-urgence",
+    "tags": [
+      "emergency",
+      "alerts",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-11"
   },
   {
     "name": "The Keelson",
@@ -33558,6 +34032,39 @@
     "dateAdded": "2026-09-26"
   },
   {
+    "name": "ECCC GeoMet — Weather Alerts API",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Weather API",
+    "description": "The GeoMet-OGC API feature collection that serves Environment Canada's weather alerts as machine-readable GeoJSON — the structured feed behind the public alert pages, queryable by bounding box or geometry.",
+    "url": "https://api.weather.gc.ca/collections/weather-alerts",
+    "tags": [
+      "weather",
+      "alerts",
+      "api",
+      "geojson",
+      "federal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Environment Canada — Weather Alerts",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Weather alerts",
+    "description": "ECCC's master alert index: every active weather watch, warning and special weather statement in Canada in one browsable list, the page behind the familiar Environment Canada alert links.",
+    "url": "https://weather.gc.ca/mainmenu/alert_menu_e.html",
+    "tags": [
+      "weather",
+      "alerts",
+      "warnings",
+      "federal"
+    ],
+    "dateAdded": "2026-10-11"
+  },
+  {
     "name": "MSC GeoMet — Weather and Climate API",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -33984,512 +34491,5 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "category": "safety",
-    "description": "Québec's official provincial public alerting system — a single page showing the current alert level by region, and where residents register to receive SMS, email and voice messages from the province during an emergency.",
-    "jurisdiction": "Quebec",
-    "level": "Provincial",
-    "name": "Québec en Alerte",
-    "tags": [
-      "alerts",
-      "emergency",
-      "public-safety",
-      "notifications"
-    ],
-    "type": "Emergency alerts",
-    "url": "https://alerte.gouv.qc.ca/fr",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "weather",
-    "description": "ECCC's master alert index: every active weather watch, warning and special weather statement in Canada in one browsable list, the page behind the familiar Environment Canada alert links.",
-    "jurisdiction": "Canada",
-    "level": "Federal",
-    "name": "Environment Canada — Weather Alerts",
-    "tags": [
-      "weather",
-      "alerts",
-      "warnings",
-      "federal"
-    ],
-    "type": "Weather alerts",
-    "url": "https://weather.gc.ca/mainmenu/alert_menu_e.html",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "Nova Scotia's all-hazards emergency portal, with a live sub-page per hazard — floods, wildfire, power outages, hurricanes, extreme heat, winter storms, freezing rain, drought — plus 911 facts and recovery guidance.",
-    "jurisdiction": "Nova Scotia",
-    "level": "Provincial",
-    "name": "Nova Scotia Emergency Information — All Hazards",
-    "tags": [
-      "emergency",
-      "alerts",
-      "hazards",
-      "public-safety"
-    ],
-    "type": "Emergency information",
-    "url": "https://emergencyinfo.novascotia.ca/",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "Ville de Québec's own instance of the Québec en alerte system, showing the current municipal alert state and letting residents subscribe to city-issued alerts.",
-    "jurisdiction": "Quebec City",
-    "level": "Municipal",
-    "name": "Quebec City — Québec en alerte",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications",
-      "municipal"
-    ],
-    "type": "Emergency alerts",
-    "url": "https://alerte.ville.quebec.qc.ca/",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "Ville de Montréal's official notices-and-alerts board, the municipal channel residents check for city-issued advisories and emergency notices.",
-    "jurisdiction": "Montreal",
-    "level": "Municipal",
-    "name": "Montreal — Avis et alertes",
-    "tags": [
-      "alerts",
-      "notices",
-      "emergency",
-      "municipal"
-    ],
-    "type": "Notices and alerts",
-    "url": "https://montreal.ca/avis-et-alertes",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "The Regional District of North Okanagan's Alertable alert page — a regional emergency notification service spanning member municipalities, including evacuation and shelter notices.",
-    "jurisdiction": "British Columbia",
-    "level": "Regional",
-    "name": "Regional District of North Okanagan — Alertable",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications",
-      "regional"
-    ],
-    "type": "Emergency alerts",
-    "url": "https://www.rdno.ca/alertable",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "The City of Saskatoon's NotifyNow page — the municipal alert subscription flow residents register with to receive emergency and service alert messages by text, phone or email.",
-    "jurisdiction": "Saskatoon",
-    "level": "Municipal",
-    "name": "Saskatoon — NotifyNow",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications",
-      "municipal"
-    ],
-    "type": "Emergency alerts",
-    "url": "https://www.saskatoon.ca/services-residents/fire-emergency/emergency-management/notifynow",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "Ville de Gatineau's official important-notices, alerts and emergencies hub, with a direct path to subscribing to municipal emergency notifications.",
-    "jurisdiction": "Gatineau",
-    "level": "Municipal",
-    "name": "Gatineau — Avis importants, alertes et urgences",
-    "tags": [
-      "alerts",
-      "notices",
-      "emergency",
-      "municipal"
-    ],
-    "type": "Notices and alerts",
-    "url": "https://www.gatineau.ca/portail/default.aspx?p=avis_importants_alertes_urgences",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "The Town of Fort Smith's official sign-up page for its Alertable emergency alert service, where residents register a phone or email to receive notifications about local incidents.",
-    "jurisdiction": "Northwest Territories",
-    "level": "Municipal",
-    "name": "Fort Smith — Alertable",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications",
-      "municipal"
-    ],
-    "type": "Emergency alerts",
-    "url": "https://www.fortsmith.ca/alertable",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "The City of Regina's NotifyNow page — the municipal alert subscription flow for emergency and service notifications, run by the city under its own brand.",
-    "jurisdiction": "Regina",
-    "level": "Municipal",
-    "name": "Regina — NotifyNow",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications",
-      "municipal"
-    ],
-    "type": "Emergency alerts",
-    "url": "https://www.regina.ca/home-property/safety-emergencies/emergency-preparedness/notifynow/",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "The City of Nanaimo's official page for its Voyent Alert emergency call alert system, the channel used to issue and subscribe to city emergency notifications.",
-    "jurisdiction": "Nanaimo",
-    "level": "Municipal",
-    "name": "Nanaimo — Emergency Alert System (Voyent Alert)",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications",
-      "municipal"
-    ],
-    "type": "Emergency alerts",
-    "url": "https://www.nanaimo.ca/public-safety/emergency-management/emergency-call-alert-system",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "Sherbrooke's official emergency situations page, covering the city's alert levels, alerts by sector and what to do during a crisis.",
-    "jurisdiction": "Sherbrooke",
-    "level": "Municipal",
-    "name": "Sherbrooke — Situations d'urgence",
-    "tags": [
-      "emergency",
-      "alerts",
-      "municipal"
-    ],
-    "type": "Emergency information",
-    "url": "https://www.sherbrooke.ca/fr/services-a-la-population/securite-publique-et-situations-d-urgence/situations-d-urgence",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "The provincial page a Nova Scotian uses to register for emergency alerts, explaining the channels used, what the alert classes mean, and how to get notifications for your area.",
-    "jurisdiction": "Nova Scotia",
-    "level": "Provincial",
-    "name": "Nova Scotia Emergency Alert",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications"
-    ],
-    "type": "Emergency alerts",
-    "url": "https://novascotia.ca/nova-scotia-emergency-alert-app/",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "safety",
-    "description": "Calgary Water's flood status page: which parts of the city are exposed when the Bow River rises, the current flood alert level and active notices, and what residents should do at each stage.",
-    "jurisdiction": "Calgary",
-    "level": "Municipal",
-    "name": "Calgary — Flood alerts and notices",
-    "tags": [
-      "flood",
-      "alerts",
-      "emergency",
-      "municipal"
-    ],
-    "type": "Flood alerts",
-    "url": "https://www.calgary.ca/water/flooding/stay-informed.html",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "gov-services",
-    "description": "The City of Edmonton's official board of current service alerts, infrastructure outages and disruptions — the single place residents check for water, road and facility incident notices.",
-    "jurisdiction": "Edmonton",
-    "level": "Municipal",
-    "name": "Edmonton — Service Alerts, Outages and Disruptions",
-    "tags": [
-      "alerts",
-      "outages",
-      "services",
-      "municipal"
-    ],
-    "type": "Service alerts",
-    "url": "https://www.edmonton.ca/programs_services/alerts-disruptions",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "category": "weather",
-    "description": "The GeoMet-OGC API feature collection that serves Environment Canada's weather alerts as machine-readable GeoJSON — the structured feed behind the public alert pages, queryable by bounding box or geometry.",
-    "jurisdiction": "Canada",
-    "level": "Federal",
-    "name": "ECCC GeoMet — Weather Alerts API",
-    "tags": [
-      "weather",
-      "alerts",
-      "api",
-      "geojson",
-      "federal"
-    ],
-    "type": "Weather API",
-    "url": "https://api.weather.gc.ca/collections/weather-alerts",
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "CFIA — Food Licences",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "business",
-    "type": "Licensing portal",
-    "description": "The Canadian Food Inspection Agency's food-licence hub under the Safe Food for Canadians Regulations: who needs a licence, how to apply through My CFIA, and how to validate a licence number.",
-    "url": "https://inspection.canada.ca/en/making-trading-food/food-licences",
-    "tags": [
-      "food safety",
-      "business licensing",
-      "federal",
-      "cfia"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "DFO — National Online Licensing System",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "business",
-    "type": "Licensing portal",
-    "description": "Fisheries and Oceans Canada's online system where commercial fish harvesters and recreational fishers in DFO-managed waters apply for, renew and pay for fishing licences and print licence documents.",
-    "url": "https://fishing-peche.dfo-mpo.gc.ca/",
-    "tags": [
-      "fishing",
-      "licensing",
-      "federal",
-      "commercial fishing"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "British Columbia — Liquor and Cannabis Licensing",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "business",
-    "type": "Licensing portal",
-    "description": "BC's Liquor and Cannabis Regulation Branch hub: apply for or amend liquor and cannabis licences, find licensed establishments, and check licensing policy for bars, restaurants, manufacturers and cannabis retailers.",
-    "url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing",
-    "tags": [
-      "liquor",
-      "cannabis",
-      "business licensing",
-      "provincial"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "Saskatchewan — Hunting Licences",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "parks",
-    "type": "Licence service",
-    "description": "Saskatchewan's official page for buying a hunting licence through the Hunting, Angling and Trapping Licence (HAL) system, including eligibility, licence types, draws and where to buy in person.",
-    "url": "https://www.saskatchewan.ca/residents/parks-culture-heritage-and-sport/hunting-trapping-and-angling/hunting/buy-a-hunting-licence",
-    "tags": [
-      "hunting",
-      "licences",
-      "provincial",
-      "outdoors"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "College of Nurses of Ontario — Find a Nurse",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "health",
-    "type": "Licence registry search",
-    "description": "The College of Nurses of Ontario's public-register entry point: confirm any Ontario nurse's registration status by name, workplace or registration number through the Find a Nurse register, covering RNs, RPNs and nurse practitioners.",
-    "url": "https://cno.org/protect-the-public/confirm-a-nurses-status",
-    "tags": [
-      "nurses",
-      "licence verification",
-      "registry",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "AlbertaRELM — Hunting and Fishing Licences",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "parks",
-    "type": "Licence service",
-    "description": "Alberta's official online licensing service for hunting and fishing: buy and renew recreational fishing licences, hunting licences and tags, manage a WIN card account and enter special licence draws.",
-    "url": "https://www.albertarelm.com/",
-    "tags": [
-      "hunting",
-      "fishing",
-      "licences",
-      "alberta"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "British Columbia — Hunting Licences",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "parks",
-    "type": "Licence service",
-    "description": "BC's official hunting-licence page: get a Fish and Wildlife ID, buy basic and species licences online, enter the Limited Entry Hunting draw and check licence requirements for resident and non-resident hunters.",
-    "url": "https://www2.gov.bc.ca/gov/content/sports-culture/recreation/fishing-hunting/hunting/hunting-licences",
-    "tags": [
-      "hunting",
-      "licences",
-      "provincial",
-      "outdoors"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "AGCO — Search Licences and Registrations (iAGCO)",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "business",
-    "type": "Licence registry search",
-    "description": "The Alcohol and Gaming Commission of Ontario's guide to searching iAGCO for liquor, gaming, cannabis retail, lottery and horse-racing licences, permits, authorizations and registrations without an account.",
-    "url": "https://www.agco.ca/en/general/iagco-support",
-    "tags": [
-      "liquor",
-      "gaming",
-      "cannabis",
-      "licence search",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "Toronto — Building Permits",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "planning-zoning",
-    "type": "Permit service",
-    "description": "The City of Toronto's building-permit hub: when a permit is required, how to apply, fees, inspections and how to check the status of a building permit application.",
-    "url": "https://www.toronto.ca/services-payments/building-construction/building-permit/",
-    "tags": [
-      "building permits",
-      "construction",
-      "toronto",
-      "municipal"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "Saskatoon — Business Licences",
-    "level": "Municipal",
-    "jurisdiction": "Saskatoon",
-    "category": "business",
-    "type": "Licensing portal",
-    "description": "The City of Saskatoon's business-licence hub: apply for, renew and look up commercial, home-based and rental-property business licences and check licence requirements by business type.",
-    "url": "https://www.saskatoon.ca/business-development/business-licences",
-    "tags": [
-      "business licensing",
-      "municipal",
-      "saskatoon"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "Ontario — Outdoors Card and Licence Summary",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "parks",
-    "type": "Licence service",
-    "description": "Ontario's official page for buying, renewing or replacing an Outdoors Card and licence summary, the credential required before buying Ontario hunting and fishing licences through the Fish and Wildlife Licensing Service.",
-    "url": "https://www.ontario.ca/page/get-outdoors-card-and-licence-summary",
-    "tags": [
-      "hunting",
-      "fishing",
-      "outdoors card",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "Transport Canada — Pleasure Craft Licence: How to Apply",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "aviation-marine",
-    "type": "Licence service",
-    "description": "Transport Canada's how-to for a Pleasure Craft Licence: apply for a new licence, transfer or renew an existing one, replace a lost document or cancel a licence, including required ID, proof of ownership and vessel photo.",
-    "url": "https://tc.canada.ca/en/marine-transportation/vessel-licensing-registration/licensing-pleasure-craft/apply-manage-pleasure-craft-licence-pcl/how-apply",
-    "tags": [
-      "boating",
-      "pleasure craft",
-      "licensing",
-      "federal"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "Burnaby — Business Licences",
-    "level": "Municipal",
-    "jurisdiction": "Burnaby",
-    "category": "business",
-    "type": "Licensing portal",
-    "description": "The City of Burnaby's business-licence hub: apply for and renew resident, non-resident and inter-municipal business licences, including home-based, rental and short-term rental licences.",
-    "url": "https://www.burnaby.ca/business/business-licences",
-    "tags": [
-      "business licensing",
-      "municipal",
-      "burnaby"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "Surrey — Applying for a Business Licence",
-    "level": "Municipal",
-    "jurisdiction": "Surrey",
-    "category": "business",
-    "type": "Licensing portal",
-    "description": "The City of Surrey's business-licence application page: apply for a new licence through the online portal or by form, with requirements for commercial, home-based and non-resident businesses.",
-    "url": "https://www.surrey.ca/business-economy/business-licensing/applying-for-a-business-licence",
-    "tags": [
-      "business licensing",
-      "municipal",
-      "surrey"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "Mississauga — Marriage Licence",
-    "level": "Municipal",
-    "jurisdiction": "Mississauga",
-    "category": "gov-services",
-    "type": "Licence service",
-    "description": "The City of Mississauga's marriage-licence application page: complete the application online, book a City Clerk appointment, and pick up an Ontario marriage licence in person with the required identification.",
-    "url": "https://www.mississauga.ca/services-and-programs/pay-apply-report/apply-for-a-marriage-licence/",
-    "tags": [
-      "marriage licence",
-      "municipal",
-      "mississauga"
-    ],
-    "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "Kitchener — Marriage Licences",
-    "level": "Municipal",
-    "jurisdiction": "Kitchener",
-    "category": "gov-services",
-    "type": "Licence service",
-    "description": "The City of Kitchener's marriage page: apply for a marriage licence online or in person, book a licence pick-up appointment, and check licence requirements, expiry and replacement rules.",
-    "url": "https://www.kitchener.ca/living-in-kitchener/marriage-and-divorce/",
-    "tags": [
-      "marriage licence",
-      "municipal",
-      "kitchener"
-    ],
-    "dateAdded": "2026-10-11"
   }
 ]
