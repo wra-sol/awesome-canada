@@ -15407,21 +15407,6 @@
     "dateAdded": "2026-10-01"
   },
   {
-    "name": "NL Centre for Health Information — Health Reports",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "health",
-    "type": "Health analytics reports",
-    "description": "Provincial health system analytics: published health reports and indicator data used by government and regional health authorities for performance monitoring and policy.",
-    "url": "https://nlchi.nl.ca/index.php/quality-information/health-analytics/health-reports",
-    "tags": [
-      "health",
-      "analytics",
-      "indicators",
-      "reports"
-    ]
-  },
-  {
     "name": "NL Health Services — Book an Online Appointment",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",

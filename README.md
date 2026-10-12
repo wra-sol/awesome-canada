@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2213 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2212 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 36
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 56
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
-- [🩺 Health & Wellness](#health-and-wellness) — 83
+- [🩺 Health & Wellness](#health-and-wellness) — 82
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
@@ -1704,7 +1704,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Department of Health — NB Health Link Patient Registry | New Brunswick · Provincial | Patient registry and booking tool | Register online if you lack a family doctor or nurse practitioner; book in-person, phone or virtual appointments and find clinic locations across the province. | https://nbhealthlink.ca/ |
 | Department of Health — Surgical Wait Times | New Brunswick · Provincial | Dashboard | Look up typical wait times by surgical procedure (hip/knee, cataract, CABG and more) plus trending, target and surgeon-level reports. | https://www1.gnb.ca/0217/SurgicalWaitTimes/Index-e.aspx |
 | MyHealthNB | New Brunswick · Provincial | Patient health record portal | New Brunswick's official patient health portal (myhealth.gnb.ca) and mobile app: lab results, diagnostic imaging reports, immunization records and dispensed medications, plus a pan-Canadian Patient Summary (PS-CA) shareable QR code — first jurisdiction in North America with patient-mediated record sharing. | https://myhealth.gnb.ca/ |
-| NL Centre for Health Information — Health Reports | Newfoundland and Labrador · Provincial | Health analytics reports | Provincial health system analytics: published health reports and indicator data used by government and regional health authorities for performance monitoring and policy. | https://nlchi.nl.ca/index.php/quality-information/health-analytics/health-reports |
 | NL Health Services — Book an Online Appointment | Newfoundland and Labrador · Provincial | Health appointment booking | Concrete booking instructions for NL Health Services: online blood-collection booking at four named clinics (no account required), flu and COVID-19 vaccine appointments by health authority region with phone lines, and hospital appointment contacts. | https://nlhealthservices.ca/find-health-care/book-an-online-appointment/ |
 | Nova Scotia — Wait Time Information | Nova Scotia · Provincial | Wait-time lookup | Compare wait times for 150+ surgical procedures, MRI/CT scans, cancer care and mental health services across Nova Scotia to find the shortest-wait locations. | https://waittimes.novascotia.ca/ |
 | Nova Scotia 811 | Nova Scotia · Provincial | Health service | Non-emergency health information and advice from registered nurses, by phone or online in Nova Scotia | https://811.novascotia.ca/ |
