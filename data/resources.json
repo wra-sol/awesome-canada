@@ -19172,6 +19172,37 @@
     "dateAdded": "2026-09-27"
   },
   {
+    "name": "Federal Court — Decisions Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Court decisions database",
+    "description": "Search and read decisions and reasons for judgment of the Federal Court of Canada, including immigration, Indigenous, maritime and federal administrative law cases.",
+    "url": "https://decisions.fct-cf.gc.ca/fc-cf/en/nav.do",
+    "tags": [
+      "court",
+      "decisions",
+      "federal"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Federal Court of Appeal — Decisions Database",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Court decisions database",
+    "description": "Search and read decisions and reasons for judgment of the Federal Court of Appeal, Canada's national appellate court for federal matters.",
+    "url": "https://decisions.fca-caf.gc.ca/fca-caf/en/nav.do",
+    "tags": [
+      "court",
+      "decisions",
+      "federal",
+      "appeals"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
     "name": "Federal Court of Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -19182,6 +19213,22 @@
     "tags": [
       "federal court"
     ]
+  },
+  {
+    "name": "Immigration and Refugee Board — Decisions",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Decisions database",
+    "description": "Access Immigration and Refugee Board of Canada decisions, including selected refugee protection and appeal decisions and the board's decision resources.",
+    "url": "https://www.irb-cisr.gc.ca/en/decisions",
+    "tags": [
+      "immigration",
+      "refugee",
+      "decisions",
+      "tribunal"
+    ],
+    "dateAdded": "2026-10-12"
   },
   {
     "name": "Justice Canada — Laws of Canada",
@@ -19226,6 +19273,22 @@
     ]
   },
   {
+    "name": "Supreme Court of Canada — Case Information Search",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Case search",
+    "description": "Search Supreme Court of Canada case information by docket number, party name or citation to track appeals, hearing dates, docket entries and filed documents.",
+    "url": "https://www.scc-csc.ca/cases-dossiers/search-recherche/",
+    "tags": [
+      "court",
+      "case search",
+      "supreme court",
+      "docket"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
     "name": "Supreme Court of Canada — Judgments",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -19250,6 +19313,22 @@
       "tax",
       "court"
     ]
+  },
+  {
+    "name": "Tax Court of Canada — Find a Decision",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "justice",
+    "type": "Court decisions database",
+    "description": "Search Tax Court of Canada decisions on income tax, GST/HST, employment insurance and CPP appeals by name, citation or docket.",
+    "url": "https://decision.tcc-cci.gc.ca/tcc-cci/en/nav.do",
+    "tags": [
+      "court",
+      "decisions",
+      "tax",
+      "federal"
+    ],
+    "dateAdded": "2026-10-12"
   },
   {
     "name": "Courts of Ontario — Case Search",
@@ -19449,6 +19528,22 @@
     "dateAdded": "2026-08-24"
   },
   {
+    "name": "Alberta Labour Relations Board",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "justice",
+    "type": "Tribunal portal",
+    "description": "Alberta's labour relations tribunal for union certification, unfair labour practice complaints and strike and lockout matters, with board decisions, forms and filing information.",
+    "url": "https://www.alrb.gov.ab.ca/",
+    "tags": [
+      "labour",
+      "tribunal",
+      "decisions",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
     "name": "Legal Aid Alberta",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -19477,6 +19572,38 @@
       "british columbia"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "BC Human Rights Tribunal",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "justice",
+    "type": "Tribunal portal",
+    "description": "File and respond to human rights complaints in British Columbia, search tribunal decisions and follow cases through mediation and hearings.",
+    "url": "https://www.bchrt.bc.ca/",
+    "tags": [
+      "human rights",
+      "tribunal",
+      "decisions",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "BC Labour Relations Board",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "justice",
+    "type": "Tribunal portal",
+    "description": "British Columbia's labour relations tribunal for union certification, collective bargaining and Labour Relations Code complaints, with a searchable decisions database and filing services.",
+    "url": "https://www.lrb.bc.ca/",
+    "tags": [
+      "labour",
+      "tribunal",
+      "decisions",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-12"
   },
   {
     "name": "BC Laws",
@@ -19756,6 +19883,22 @@
     "dateAdded": "2026-08-27"
   },
   {
+    "name": "Ontario Animal Care Review Board",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "justice",
+    "type": "Tribunal portal",
+    "description": "Appeal animal welfare inspector orders, removals and cost statements to Ontario's Animal Care Review Board, part of Tribunals Ontario.",
+    "url": "https://tribunalsontario.ca/acrb/",
+    "tags": [
+      "tribunal",
+      "animal welfare",
+      "appeals",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
     "name": "Ontario Courts Public Portal",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -19784,6 +19927,86 @@
       "regulations"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Ontario Financial Services Tribunal",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "justice",
+    "type": "Tribunal portal",
+    "description": "Adjudicates appeals and applications under Ontario financial services legislation, including insurance, mortgage brokering, credit unions and pension matters, with published decisions and hearing information.",
+    "url": "https://www.fstontario.ca/en/",
+    "tags": [
+      "finance",
+      "tribunal",
+      "decisions",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Ontario Health Professions Appeal and Review Board",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "justice",
+    "type": "Tribunal portal",
+    "description": "Review complaints decisions of Ontario health regulatory colleges and appeal hospital privileges and public health order decisions through the Health Professions Appeal and Review Board.",
+    "url": "https://www.hparb.on.ca/",
+    "tags": [
+      "health",
+      "tribunal",
+      "appeals",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Ontario Labour Relations Board",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "justice",
+    "type": "Tribunal portal",
+    "description": "Ontario Labour Relations Board portal for union certification, unfair labour practice and employment standards appeals, with board decisions, forms, e-filing and hearing information.",
+    "url": "https://www.olrb.gov.on.ca/",
+    "tags": [
+      "labour",
+      "tribunal",
+      "decisions",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Ontario Social Benefits Tribunal",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "justice",
+    "type": "Tribunal portal",
+    "description": "Appeal Ontario Works and Ontario Disability Support Program decisions to the Social Benefits Tribunal: file an appeal, request interim assistance and prepare for a hearing.",
+    "url": "https://tribunalsontario.ca/sbt/",
+    "tags": [
+      "tribunal",
+      "social assistance",
+      "appeals",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Ontario Workplace Safety and Insurance Appeals Tribunal",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "justice",
+    "type": "Tribunal portal",
+    "description": "Final level of appeal for Ontario workplace safety and insurance claims: search WSIAT decisions, file appeals and access tribunal procedures and forms.",
+    "url": "https://www.wsiat.on.ca/",
+    "tags": [
+      "workers compensation",
+      "tribunal",
+      "decisions",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-12"
   },
   {
     "name": "Tribunals Ontario — Online Hearing Portal",
@@ -19827,6 +20050,21 @@
     ]
   },
   {
+    "name": "Tribunal administratif du Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "justice",
+    "type": "Tribunal portal",
+    "description": "Quebec's general administrative tribunal: contest decisions of ministries, municipalities and public bodies in social, economic, real estate and environmental matters, and follow case progress online.",
+    "url": "https://www.taq.gouv.qc.ca/",
+    "tags": [
+      "tribunal",
+      "administrative",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
     "name": "Legal Aid Saskatchewan",
     "level": "Provincial",
     "jurisdiction": "Saskatchewan",
@@ -19840,6 +20078,21 @@
       "family law"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Saskatchewan eCourt — e-Filing Portal",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "justice",
+    "type": "Court portal",
+    "description": "Electronic filing and court services portal for Saskatchewan courts, starting with Court of Appeal e-filing for parties and counsel.",
+    "url": "https://ecourt.sasklawcourts.ca/",
+    "tags": [
+      "court",
+      "e-filing",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-12"
   },
   {
     "name": "Saskatchewan Law Courts",
@@ -33066,6 +33319,23 @@
     ]
   },
   {
+    "name": "Canada Energy Regulator — REGDOCS Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "utilities",
+    "type": "Regulatory document registry",
+    "description": "REGDOCS is the CER's public registry of regulatory documents: search filings, applications, evidence and decisions for federally regulated pipelines, power lines and energy projects.",
+    "url": "https://apps.cer-rec.gc.ca/REGDOCS/",
+    "tags": [
+      "cer",
+      "pipelines",
+      "energy",
+      "filings",
+      "registry"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
     "name": "Canadian Centre for Energy Information",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -33174,6 +33444,23 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Newfoundland and Labrador Hydro — Outage Map",
+    "level": "Crown Corp",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "utilities",
+    "type": "Outage map",
+    "description": "Outage information and map for NL Hydro, the provincial Crown utility serving Labrador and rural Newfoundland communities not covered by Newfoundland Power.",
+    "url": "https://my.nlhydro.com/outage/",
+    "tags": [
+      "newfoundland",
+      "labrador",
+      "electricity",
+      "outages",
+      "crown corporation"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
     "name": "Hydro-Québec — Estimate a Home's Electricity Costs",
     "level": "Crown Corp",
     "jurisdiction": "Quebec",
@@ -33271,6 +33558,23 @@
     ]
   },
   {
+    "name": "Save on Energy — IESO Energy-Efficiency Programs",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Energy-efficiency programs",
+    "description": "Ontario's Save on Energy portal run by the IESO: rebates, retrofit incentives and energy-efficiency programs for homes, businesses, industry and municipalities.",
+    "url": "https://saveonenergy.ca/",
+    "tags": [
+      "ontario",
+      "ieso",
+      "energy-efficiency",
+      "rebates",
+      "programs"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
     "name": "Alberta Energy Regulator",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -33300,6 +33604,23 @@
     ]
   },
   {
+    "name": "Alberta Utilities Commission — eFiling System",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "utilities",
+    "type": "Regulatory filing system",
+    "description": "The AUC's eFiling system: file and search applications, evidence, decisions and proceeding documents for Alberta electricity and natural gas rate and facility cases.",
+    "url": "https://www2.auc.ab.ca/",
+    "tags": [
+      "alberta",
+      "utilities",
+      "regulator",
+      "efiling",
+      "decisions"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
     "name": "ATCO — Gas Outage Map and Emergency",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -33312,6 +33633,39 @@
       "utilities",
       "outages"
     ]
+  },
+  {
+    "name": "FortisAlberta — Outage Map",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "utilities",
+    "type": "Outage map",
+    "description": "Live outage map and outage list for FortisAlberta, the electricity distribution utility serving more than 240 Alberta communities outside the major cities.",
+    "url": "https://service.fortisalberta.com/",
+    "tags": [
+      "alberta",
+      "electricity",
+      "outages",
+      "map"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Utilities Consumer Advocate — Cost Comparison Tool",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "utilities",
+    "type": "Rate comparison tool",
+    "description": "Compare Alberta electricity and natural gas offers side by side — regulated rates and competitive retailer plans — from the provincial Utilities Consumer Advocate, including the Rate of Last Resort.",
+    "url": "https://ucahelps.alberta.ca/cost-comparison-tool/",
+    "tags": [
+      "alberta",
+      "utilities",
+      "consumer",
+      "rates",
+      "comparison"
+    ],
+    "dateAdded": "2026-10-12"
   },
   {
     "name": "Utilities Consumer Advocate Alberta",
@@ -33370,6 +33724,23 @@
     ]
   },
   {
+    "name": "BC Utilities Commission — Orders and Decisions Search",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "utilities",
+    "type": "Decisions database",
+    "description": "Search BCUC orders and decisions by keyword, company, date, proceeding or document name — the rulings that set BC electricity, gas and thermal energy rates.",
+    "url": "https://www.ordersdecisions.bcuc.com/bcuc/en/nav.do",
+    "tags": [
+      "bc",
+      "utilities",
+      "regulator",
+      "decisions",
+      "orders"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
     "name": "FortisBC — Gas Outage Map",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -33399,6 +33770,38 @@
       "manitoba"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Manitoba Public Utilities Board — Proceedings and Decisions",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "utilities",
+    "type": "Proceedings and decisions",
+    "description": "Orders, decisions and proceeding records of the Manitoba Public Utilities Board, which regulates Manitoba Hydro electricity rates, Centra Gas, MPI basic insurance and municipal water utilities.",
+    "url": "https://www.pubmanitoba.ca/v1/proceedings-decisions/index.html",
+    "tags": [
+      "manitoba",
+      "utilities",
+      "regulator",
+      "decisions",
+      "orders"
+    ],
+    "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Newfoundland Power — Outage Centre",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "utilities",
+    "type": "Outage centre",
+    "description": "Current planned and unplanned outages for Newfoundland Power customers, updated every 10 minutes, with address-level outage search, restoration estimates and outage alerts.",
+    "url": "https://www.newfoundlandpower.com/Outages/Outage-Centre",
+    "tags": [
+      "newfoundland",
+      "electricity",
+      "outages"
+    ],
+    "dateAdded": "2026-10-12"
   },
   {
     "name": "Nova Scotia Power — Outage Map",
@@ -33440,6 +33843,23 @@
       "regulator",
       "utilities"
     ]
+  },
+  {
+    "name": "Ontario Energy Board — Archived Decisions",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Decisions archive",
+    "description": "Filter past Ontario Energy Board applications by year, energy type and application type and open the case record — decisions and orders that set Ontario electricity and gas rates.",
+    "url": "https://www.oeb.ca/applications/major-decisions/archived-decisions",
+    "tags": [
+      "ontario",
+      "energy",
+      "regulator",
+      "decisions",
+      "rates"
+    ],
+    "dateAdded": "2026-10-12"
   },
   {
     "name": "Ontario Power Generation — Dam Safety and Water Management",
@@ -33495,6 +33915,22 @@
       "utilities",
       "outages"
     ]
+  },
+  {
+    "name": "Régie de l'énergie — Decisions",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "utilities",
+    "type": "Decisions database",
+    "description": "Decisions and regulatory files of Quebec's Régie de l'énergie, the tribunal that sets Hydro-Québec distribution rates and regulates natural gas and petroleum product pricing in Quebec.",
+    "url": "https://www.regie-energie.qc.ca/en/participants/decisions",
+    "tags": [
+      "quebec",
+      "energy",
+      "regulator",
+      "decisions"
+    ],
+    "dateAdded": "2026-10-12"
   },
   {
     "name": "Saskatchewan Rate Review Panel",
@@ -33560,6 +33996,23 @@
       "energy",
       "maps"
     ]
+  },
+  {
+    "name": "Synergy North — Outage Map",
+    "level": "Regional",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Outage map",
+    "description": "Live outage map for Synergy North, the municipal electricity utility serving Thunder Bay and Kenora, with affected areas and restoration updates.",
+    "url": "https://synergynorth.ca/outage-map/",
+    "tags": [
+      "ontario",
+      "thunder bay",
+      "kenora",
+      "outages",
+      "electricity"
+    ],
+    "dateAdded": "2026-10-12"
   },
   {
     "name": "Alectra — Outage Map",
@@ -34463,458 +34916,5 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "Federal Court of Appeal — Decisions Database",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "justice",
-    "type": "Court decisions database",
-    "description": "Search and read decisions and reasons for judgment of the Federal Court of Appeal, Canada's national appellate court for federal matters.",
-    "url": "https://decisions.fca-caf.gc.ca/fca-caf/en/nav.do",
-    "tags": [
-      "court",
-      "decisions",
-      "federal",
-      "appeals"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Federal Court — Decisions Database",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "justice",
-    "type": "Court decisions database",
-    "description": "Search and read decisions and reasons for judgment of the Federal Court of Canada, including immigration, Indigenous, maritime and federal administrative law cases.",
-    "url": "https://decisions.fct-cf.gc.ca/fc-cf/en/nav.do",
-    "tags": [
-      "court",
-      "decisions",
-      "federal"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Tax Court of Canada — Find a Decision",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "justice",
-    "type": "Court decisions database",
-    "description": "Search Tax Court of Canada decisions on income tax, GST/HST, employment insurance and CPP appeals by name, citation or docket.",
-    "url": "https://decision.tcc-cci.gc.ca/tcc-cci/en/nav.do",
-    "tags": [
-      "court",
-      "decisions",
-      "tax",
-      "federal"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Immigration and Refugee Board — Decisions",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "justice",
-    "type": "Decisions database",
-    "description": "Access Immigration and Refugee Board of Canada decisions, including selected refugee protection and appeal decisions and the board's decision resources.",
-    "url": "https://www.irb-cisr.gc.ca/en/decisions",
-    "tags": [
-      "immigration",
-      "refugee",
-      "decisions",
-      "tribunal"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Supreme Court of Canada — Case Information Search",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "justice",
-    "type": "Case search",
-    "description": "Search Supreme Court of Canada case information by docket number, party name or citation to track appeals, hearing dates, docket entries and filed documents.",
-    "url": "https://www.scc-csc.ca/cases-dossiers/search-recherche/",
-    "tags": [
-      "court",
-      "case search",
-      "supreme court",
-      "docket"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Ontario Social Benefits Tribunal",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "justice",
-    "type": "Tribunal portal",
-    "description": "Appeal Ontario Works and Ontario Disability Support Program decisions to the Social Benefits Tribunal: file an appeal, request interim assistance and prepare for a hearing.",
-    "url": "https://tribunalsontario.ca/sbt/",
-    "tags": [
-      "tribunal",
-      "social assistance",
-      "appeals",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Ontario Animal Care Review Board",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "justice",
-    "type": "Tribunal portal",
-    "description": "Appeal animal welfare inspector orders, removals and cost statements to Ontario's Animal Care Review Board, part of Tribunals Ontario.",
-    "url": "https://tribunalsontario.ca/acrb/",
-    "tags": [
-      "tribunal",
-      "animal welfare",
-      "appeals",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Ontario Labour Relations Board",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "justice",
-    "type": "Tribunal portal",
-    "description": "Ontario Labour Relations Board portal for union certification, unfair labour practice and employment standards appeals, with board decisions, forms, e-filing and hearing information.",
-    "url": "https://www.olrb.gov.on.ca/",
-    "tags": [
-      "labour",
-      "tribunal",
-      "decisions",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Ontario Workplace Safety and Insurance Appeals Tribunal",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "justice",
-    "type": "Tribunal portal",
-    "description": "Final level of appeal for Ontario workplace safety and insurance claims: search WSIAT decisions, file appeals and access tribunal procedures and forms.",
-    "url": "https://www.wsiat.on.ca/",
-    "tags": [
-      "workers compensation",
-      "tribunal",
-      "decisions",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Ontario Financial Services Tribunal",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "justice",
-    "type": "Tribunal portal",
-    "description": "Adjudicates appeals and applications under Ontario financial services legislation, including insurance, mortgage brokering, credit unions and pension matters, with published decisions and hearing information.",
-    "url": "https://www.fstontario.ca/en/",
-    "tags": [
-      "finance",
-      "tribunal",
-      "decisions",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Ontario Health Professions Appeal and Review Board",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "justice",
-    "type": "Tribunal portal",
-    "description": "Review complaints decisions of Ontario health regulatory colleges and appeal hospital privileges and public health order decisions through the Health Professions Appeal and Review Board.",
-    "url": "https://www.hparb.on.ca/",
-    "tags": [
-      "health",
-      "tribunal",
-      "appeals",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Saskatchewan eCourt — e-Filing Portal",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "justice",
-    "type": "Court portal",
-    "description": "Electronic filing and court services portal for Saskatchewan courts, starting with Court of Appeal e-filing for parties and counsel.",
-    "url": "https://ecourt.sasklawcourts.ca/",
-    "tags": [
-      "court",
-      "e-filing",
-      "saskatchewan"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Tribunal administratif du Québec",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "justice",
-    "type": "Tribunal portal",
-    "description": "Quebec's general administrative tribunal: contest decisions of ministries, municipalities and public bodies in social, economic, real estate and environmental matters, and follow case progress online.",
-    "url": "https://www.taq.gouv.qc.ca/",
-    "tags": [
-      "tribunal",
-      "administrative",
-      "quebec"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "BC Labour Relations Board",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "justice",
-    "type": "Tribunal portal",
-    "description": "British Columbia's labour relations tribunal for union certification, collective bargaining and Labour Relations Code complaints, with a searchable decisions database and filing services.",
-    "url": "https://www.lrb.bc.ca/",
-    "tags": [
-      "labour",
-      "tribunal",
-      "decisions",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "BC Human Rights Tribunal",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "justice",
-    "type": "Tribunal portal",
-    "description": "File and respond to human rights complaints in British Columbia, search tribunal decisions and follow cases through mediation and hearings.",
-    "url": "https://www.bchrt.bc.ca/",
-    "tags": [
-      "human rights",
-      "tribunal",
-      "decisions",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Alberta Labour Relations Board",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "justice",
-    "type": "Tribunal portal",
-    "description": "Alberta's labour relations tribunal for union certification, unfair labour practice complaints and strike and lockout matters, with board decisions, forms and filing information.",
-    "url": "https://www.alrb.gov.ab.ca/",
-    "tags": [
-      "labour",
-      "tribunal",
-      "decisions",
-      "alberta"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Alberta Utilities Commission — eFiling System",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "utilities",
-    "type": "Regulatory filing system",
-    "description": "The AUC's eFiling system: file and search applications, evidence, decisions and proceeding documents for Alberta electricity and natural gas rate and facility cases.",
-    "url": "https://www2.auc.ab.ca/",
-    "tags": [
-      "alberta",
-      "utilities",
-      "regulator",
-      "efiling",
-      "decisions"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "BC Utilities Commission — Orders and Decisions Search",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "utilities",
-    "type": "Decisions database",
-    "description": "Search BCUC orders and decisions by keyword, company, date, proceeding or document name — the rulings that set BC electricity, gas and thermal energy rates.",
-    "url": "https://www.ordersdecisions.bcuc.com/bcuc/en/nav.do",
-    "tags": [
-      "bc",
-      "utilities",
-      "regulator",
-      "decisions",
-      "orders"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Ontario Energy Board — Archived Decisions",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "utilities",
-    "type": "Decisions archive",
-    "description": "Filter past Ontario Energy Board applications by year, energy type and application type and open the case record — decisions and orders that set Ontario electricity and gas rates.",
-    "url": "https://www.oeb.ca/applications/major-decisions/archived-decisions",
-    "tags": [
-      "ontario",
-      "energy",
-      "regulator",
-      "decisions",
-      "rates"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Canada Energy Regulator — REGDOCS Registry",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "utilities",
-    "type": "Regulatory document registry",
-    "description": "REGDOCS is the CER's public registry of regulatory documents: search filings, applications, evidence and decisions for federally regulated pipelines, power lines and energy projects.",
-    "url": "https://apps.cer-rec.gc.ca/REGDOCS/",
-    "tags": [
-      "cer",
-      "pipelines",
-      "energy",
-      "filings",
-      "registry"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Manitoba Public Utilities Board — Proceedings and Decisions",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "utilities",
-    "type": "Proceedings and decisions",
-    "description": "Orders, decisions and proceeding records of the Manitoba Public Utilities Board, which regulates Manitoba Hydro electricity rates, Centra Gas, MPI basic insurance and municipal water utilities.",
-    "url": "https://www.pubmanitoba.ca/v1/proceedings-decisions/index.html",
-    "tags": [
-      "manitoba",
-      "utilities",
-      "regulator",
-      "decisions",
-      "orders"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Régie de l'énergie — Decisions",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "utilities",
-    "type": "Decisions database",
-    "description": "Decisions and regulatory files of Quebec's Régie de l'énergie, the tribunal that sets Hydro-Québec distribution rates and regulates natural gas and petroleum product pricing in Quebec.",
-    "url": "https://www.regie-energie.qc.ca/en/participants/decisions",
-    "tags": [
-      "quebec",
-      "energy",
-      "regulator",
-      "decisions"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Utilities Consumer Advocate — Cost Comparison Tool",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "utilities",
-    "type": "Rate comparison tool",
-    "description": "Compare Alberta electricity and natural gas offers side by side — regulated rates and competitive retailer plans — from the provincial Utilities Consumer Advocate, including the Rate of Last Resort.",
-    "url": "https://ucahelps.alberta.ca/cost-comparison-tool/",
-    "tags": [
-      "alberta",
-      "utilities",
-      "consumer",
-      "rates",
-      "comparison"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Save on Energy — IESO Energy-Efficiency Programs",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "utilities",
-    "type": "Energy-efficiency programs",
-    "description": "Ontario's Save on Energy portal run by the IESO: rebates, retrofit incentives and energy-efficiency programs for homes, businesses, industry and municipalities.",
-    "url": "https://saveonenergy.ca/",
-    "tags": [
-      "ontario",
-      "ieso",
-      "energy-efficiency",
-      "rebates",
-      "programs"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Synergy North — Outage Map",
-    "level": "Regional",
-    "jurisdiction": "Ontario",
-    "category": "utilities",
-    "type": "Outage map",
-    "description": "Live outage map for Synergy North, the municipal electricity utility serving Thunder Bay and Kenora, with affected areas and restoration updates.",
-    "url": "https://synergynorth.ca/outage-map/",
-    "tags": [
-      "ontario",
-      "thunder bay",
-      "kenora",
-      "outages",
-      "electricity"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "FortisAlberta — Outage Map",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "utilities",
-    "type": "Outage map",
-    "description": "Live outage map and outage list for FortisAlberta, the electricity distribution utility serving more than 240 Alberta communities outside the major cities.",
-    "url": "https://service.fortisalberta.com/",
-    "tags": [
-      "alberta",
-      "electricity",
-      "outages",
-      "map"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Newfoundland Power — Outage Centre",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "utilities",
-    "type": "Outage centre",
-    "description": "Current planned and unplanned outages for Newfoundland Power customers, updated every 10 minutes, with address-level outage search, restoration estimates and outage alerts.",
-    "url": "https://www.newfoundlandpower.com/Outages/Outage-Centre",
-    "tags": [
-      "newfoundland",
-      "electricity",
-      "outages"
-    ],
-    "dateAdded": "2026-10-12"
-  },
-  {
-    "name": "Newfoundland and Labrador Hydro — Outage Map",
-    "level": "Crown Corp",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "utilities",
-    "type": "Outage map",
-    "description": "Outage information and map for NL Hydro, the provincial Crown utility serving Labrador and rural Newfoundland communities not covered by Newfoundland Power.",
-    "url": "https://my.nlhydro.com/outage/",
-    "tags": [
-      "newfoundland",
-      "labrador",
-      "electricity",
-      "outages",
-      "crown corporation"
-    ],
-    "dateAdded": "2026-10-12"
   }
 ]
