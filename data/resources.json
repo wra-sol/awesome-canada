@@ -35111,5 +35111,181 @@
       "lookup tool"
     ],
     "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "NWT Alert",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "The Northwest Territories' public alerting system: live emergency alerts and evacuation notices for NWT communities, issued through the Alert Ready partnership, with the Alertable app for ongoing updates.",
+    "url": "https://nwtalert.ca/",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "Northwest Territories"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Yukon — Emergency Preparedness",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "safety",
+    "type": "Preparedness hub",
+    "description": "Government of Yukon's emergency preparedness hub: current alerts and advisories, household emergency planning and 72-hour kit guidance, and community emergency program information.",
+    "url": "https://yukon.ca/en/emergency-preparedness",
+    "tags": [
+      "emergency",
+      "preparedness",
+      "alerts",
+      "Yukon"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Ontario — Emergency Information",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "safety",
+    "type": "Emergency information",
+    "description": "Ontario's official emergency information page: provincial emergency declarations and alerts in effect, plus links to municipal and ministry emergency resources.",
+    "url": "https://www.ontario.ca/page/emergency-information",
+    "tags": [
+      "emergency",
+      "alerts",
+      "Ontario",
+      "public safety"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Saskatchewan Public Safety Agency",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "safety",
+    "type": "Department page",
+    "description": "The Saskatchewan Public Safety Agency's hub: the provincial body behind SaskAlert, wildfire response and municipal emergency programs, with current program and incident information.",
+    "url": "https://www.saskpublicsafety.ca/",
+    "tags": [
+      "emergency",
+      "public safety",
+      "wildfire",
+      "Saskatchewan"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Toronto — Active Alerts & Emergencies",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "City of Toronto's active alerts hub: emergency and major service alerts currently in effect across the city, with links to city notification services.",
+    "url": "https://www.toronto.ca/community-people/public-safety-alerts/alerts-notifications/",
+    "tags": [
+      "alerts",
+      "emergency",
+      "Toronto",
+      "notifications"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Ottawa — Emergency Preparedness & Ottawa Alert",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "safety",
+    "type": "Preparedness hub",
+    "description": "City of Ottawa's emergency preparedness hub: current and ongoing emergencies, hazard guides and kit checklists, and sign-up for Ottawa Alert (Alertable) public emergency notifications.",
+    "url": "https://ottawa.ca/en/health-and-public-safety/emergency-preparedness",
+    "tags": [
+      "emergency",
+      "preparedness",
+      "alerts",
+      "Ottawa"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Manitoba Emergency Measures Organization",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "safety",
+    "type": "Department page",
+    "description": "Home of Manitoba's Emergency Measures Organization: provincial emergency alerts, disaster financial assistance, and the municipal emergency programs the EMO coordinates.",
+    "url": "https://www.manitoba.ca/emo/",
+    "tags": [
+      "emergency",
+      "alerts",
+      "disaster assistance",
+      "Manitoba"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Halifax — hfxALERT",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "Halifax Regional Municipality's hfxALERT mass-notification service: residents sign up to receive emergency and public-safety alerts by text, phone or email.",
+    "url": "https://www.halifax.ca/safety-security/emergency-management/hfxalert",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "Halifax"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Alert Waterloo Region",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "Waterloo Region's official emergency notification service: residents sign up once to receive alerts from the region and its local municipalities during emergencies.",
+    "url": "https://www.alertwr.ca/",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "Waterloo Region"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Central Okanagan Emergency Operations",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "safety",
+    "type": "Emergency information",
+    "description": "Central Okanagan's emergency operations site: evacuation alerts and orders, incident updates and recovery information for Kelowna and neighbouring communities during active emergencies.",
+    "url": "https://www.cordemergency.ca/",
+    "tags": [
+      "emergency",
+      "evacuations",
+      "alerts",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Capital Regional District — Public Alert Notification System",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "Capital Regional District's Public Alert Notification System: residents of the CRD's electoral areas (Salt Spring Island, Juan de Fuca and the Southern Gulf Islands) sign up for emergency alerts by text, email or phone.",
+    "url": "https://www.crd.ca/programs-services/fire-emergency/electoral-area-emergency-management/public-alert-notification-system",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-10-13"
   }
 ]
