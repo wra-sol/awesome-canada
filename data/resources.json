@@ -34916,5 +34916,200 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "OSC — Get Smarter About Money",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Investor education",
+    "description": "Ontario Securities Commission investor education site with calculators, fraud-spotting guides and tools to check whether an investment seller is registered before investing.",
+    "url": "https://www.getsmarteraboutmoney.ca/",
+    "tags": [
+      "investing",
+      "fraud prevention",
+      "securities",
+      "Ontario"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "CheckFirst — Alberta Securities Commission",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "consumer",
+    "type": "Investor education",
+    "description": "Alberta Securities Commission investor site: verify an investment seller's registration, learn scam red flags, and check disciplined persons before investing.",
+    "url": "https://checkfirst.ca/",
+    "tags": [
+      "investing",
+      "fraud prevention",
+      "securities",
+      "Alberta"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Manitoba Consumer Protection Office",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "Manitoba's consumer protection office: file a consumer complaint, check payday loan and direct seller rules, and look up consumer rights under Manitoba law.",
+    "url": "https://www.gov.mb.ca/cca/cpo/",
+    "tags": [
+      "consumer protection",
+      "complaints",
+      "Manitoba",
+      "payday loans"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Nova Scotia Ombudsman",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Investigates complaints about Nova Scotia provincial and municipal government services and decisions when internal complaint processes have not resolved them.",
+    "url": "https://ombudsman.novascotia.ca/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "Nova Scotia"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Ombud NB",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Investigates complaints of unfair treatment by New Brunswick provincial government departments, agencies, municipalities and other public bodies.",
+    "url": "https://ombudnb.ca/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "New Brunswick"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Ombudsman Toronto — City of Toronto",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Independent office that investigates complaints about City of Toronto services, fairness and decision-making, and reports publicly on systemic issues.",
+    "url": "https://www.toronto.ca/city-government/accountability-operations-customer-service/accountability-officers/ombudsman-toronto/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "Toronto"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "HCRA — Ontario Builder Directory",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Home Construction Regulatory Authority directory: search every licensed Ontario new-home builder and vendor by name, licence number or principal, with licence status, discipline history, charges and Tarion warranty data.",
+    "url": "https://obd.hcraontario.ca/",
+    "tags": [
+      "new homes",
+      "builders",
+      "licensing",
+      "Ontario",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Ontario Consumer Beware List",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Searchable Ontario record of businesses that were charged or convicted under consumer protection laws, failed to comply with ministry orders, or did not answer consumer complaints.",
+    "url": "https://www.ontario.ca/page/search-consumer-beware-list",
+    "tags": [
+      "consumer protection",
+      "business warnings",
+      "Ontario",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "BCFSA — Before You Sign, Search",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "BC Financial Services Authority verification hub: confirm that a real estate licensee, mortgage broker, credit union or other regulated financial professional is licensed before signing, and report a concern.",
+    "url": "https://www.bcfsa.ca/home/before-you-sign-search",
+    "tags": [
+      "licensing",
+      "real estate",
+      "mortgage brokers",
+      "BC",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "AMF Québec — Registers of Authorized Firms and Individuals",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Autorité des marchés financiers registers: verify that a firm or individual is authorized to sell insurance, investments or financial planning services in Quebec, and check discipline history.",
+    "url": "https://lautorite.qc.ca/grand-public/registres",
+    "tags": [
+      "securities",
+      "insurance",
+      "registration check",
+      "Quebec",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "PEI Consumer Services",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "Prince Edward Island consumer protection hub: file a consumer complaint, check business and lender licences, and get help with payday loans, gift cards, contracts and collection agencies. Verified live in a real browser (sandbox curl hits a bot wall).",
+    "url": "https://www.princeedwardisland.ca/en/topic/consumer-services",
+    "tags": [
+      "consumer protection",
+      "complaints",
+      "licences",
+      "PEI"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "RECO — Registrant Search",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Real Estate Council of Ontario public register: confirm that an Ontario real estate salesperson, broker or brokerage is registered, and see conditions, charges and discipline from the last 60 months. The search now lives on reco.on.ca.",
+    "url": "https://www.reco.on.ca/RegistrantSearch",
+    "tags": [
+      "real estate",
+      "registration check",
+      "Ontario",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-10-13"
   }
 ]

@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2223 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2235 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -55,7 +55,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 79
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 70
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 38
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 50
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 31
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 98
@@ -3437,6 +3437,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Ombudsperson | British Columbia · Provincial | Ombudsman | Investigates complaints of unfair treatment by BC public bodies and recommends fixes | https://bcombudsperson.ca/ |
 | BC Residential Tenancy Branch — Search Past Decisions | British Columbia · Provincial | Decision lookup | Searchable database of RTB past decisions (direct request, participatory, special application, monetary orders and administrative penalties) to find how the tribunal ruled on similar landlord-tenant issues. | https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/solving-problems/tenancy-dispute-resolution/past-decisions |
+| BCFSA — Before You Sign, Search | British Columbia · Provincial | Lookup tool | BC Financial Services Authority verification hub: confirm that a real estate licensee, mortgage broker, credit union or other regulated financial professional is licensed before signing, and report a concern. | https://www.bcfsa.ca/home/before-you-sign-search |
 | Consumer Protection BC | British Columbia · Provincial | Regulator | BC's consumer protection regulator — complaint filing and industry information | https://www.consumerprotectionbc.ca/ |
 | Office of the Information and Privacy Commissioner of BC | British Columbia · Provincial | Regulator | BC's privacy regulator — complaint filing, FIPPA/PIPA decisions, and reports | https://www.oipc.bc.ca/ |
 
@@ -3447,6 +3448,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | AGLC — Cannabis Licensee Search | Alberta · Provincial | Licence search | Alberta's gaming regulator publishes every licensed retail cannabis store in the province in one searchable table. You look up a retailer by name or city, and a column flags which stores sell online; the page also links out to the federal list of licensed producers. | https://www.aglc.ca/cannabis/retail-cannabis/cannabis-licensee-search |
 | AGLC — Gaming Registrants | Alberta · Provincial | Public register | Public register of Alberta gaming registration holders — casinos, iGaming operators, gaming and terminal suppliers, and advisors. Each entry gives the licence number, expiry date, gaming stream and class of registration, so a resident or business can check whether an operator or supplier is properly registered and whether its registration has lapsed. | https://www.aglc.ca/gaming-registrants |
 | Alberta Ombudsman | Alberta · Provincial | Ombudsman | Investigates complaints of unfair treatment by Alberta government authorities and designated professional organizations | https://www.ombudsman.ab.ca/ |
+| CheckFirst — Alberta Securities Commission | Alberta · Provincial | Investor education | Alberta Securities Commission investor site: verify an investment seller's registration, learn scam red flags, and check disciplined persons before investing. | https://checkfirst.ca/ |
 | Consumer Protection Alberta — Service Alberta | Alberta · Provincial | Resources | Alberta consumer protection information, complaints, and business licensing | https://www.alberta.ca/consumer-protection |
 | OIPC Alberta | Alberta · Provincial | Regulator | Alberta's Information and Privacy Commissioner — access to information reviews and privacy breach reports | https://oipc.ab.ca/ |
 | Service Alberta — Search for a Licensed Business | Alberta · Provincial | Licence lookup | Search active Alberta consumer-program licences and registrations: collection agencies, payday lenders, high-cost credit, home inspectors, direct sellers, prepaid contractors, and more. Downloads available in Excel. | https://www.servicealberta.gov.ab.ca/consumer/business_search/ |
@@ -3464,6 +3466,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba Consumer Protection Office | Manitoba · Provincial | Regulator | Manitoba's consumer protection office: file a consumer complaint, check payday loan and direct seller rules, and look up consumer rights under Manitoba law. | https://www.gov.mb.ca/cca/cpo/ |
 | Manitoba Ombudsman | Manitoba · Provincial | Ombudsman | Independent oversight of Manitoba government fairness, privacy, and whistleblower protection | https://www.ombudsman.mb.ca/ |
 
 ### Ontario
@@ -3472,14 +3475,20 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Consumer Protection Ontario — Tools | Ontario · Federal | Calculators | Find, compare, and understand consumer protections including car loans, leases, and contracts | https://www.ontario.ca/page/consumer-protection-ontario |
 | Condominium Authority of Ontario — Condo Registry | Ontario · Agency | Registry lookup | Free searchable database of Ontario condo corporations: address for service, voting units, board director names, management company, based on CAO filings. Search by legal/operating name, director or municipal address. | https://www.condoauthorityontario.ca/condo-registry-search/ |
+| HCRA — Ontario Builder Directory | Ontario · Provincial | Lookup tool | Home Construction Regulatory Authority directory: search every licensed Ontario new-home builder and vendor by name, licence number or principal, with licence status, discipline history, charges and Tarion warranty data. | https://obd.hcraontario.ca/ |
 | Information and Privacy Commissioner of Ontario | Ontario · Provincial | Regulator | Ontario's privacy and FOI oversight — complaint process, decisions, and guidance | https://www.ipc.on.ca/ |
 | Ombudsman Ontario | Ontario · Provincial | Ombudsman | Independent office investigating complaints about Ontario government services, municipalities, universities, and school boards | https://www.ombudsman.on.ca/ |
+| Ontario Consumer Beware List | Ontario · Provincial | Lookup tool | Searchable Ontario record of businesses that were charged or convicted under consumer protection laws, failed to comply with ministry orders, or did not answer consumer complaints. | https://www.ontario.ca/page/search-consumer-beware-list |
 | Ontario Data Catalogue — LTB Order Catalogue | Ontario · Provincial | Order lookup | Public catalogue of final Landlord and Tenant Board orders (Jan 2026 onward, phased back to 2021) from Tribunals Ontario. Monthly CSV downloads available to search specific LTB decisions. | https://data.ontario.ca/dataset/ltb-order-catalogue |
+| OSC — Get Smarter About Money | Ontario · Provincial | Investor education | Ontario Securities Commission investor education site with calculators, fraud-spotting guides and tools to check whether an investment seller is registered before investing. | https://www.getsmarteraboutmoney.ca/ |
+| RECO — Registrant Search | Ontario · Provincial | Lookup tool | Real Estate Council of Ontario public register: confirm that an Ontario real estate salesperson, broker or brokerage is registered, and see conditions, charges and discipline from the last 60 months. The search now lives on reco.on.ca. | https://www.reco.on.ca/RegistrantSearch |
+| Ombudsman Toronto — City of Toronto | Toronto · Municipal | Ombudsman | Independent office that investigates complaints about City of Toronto services, fairness and decision-making, and reports publicly on systemic issues. | https://www.toronto.ca/city-government/accountability-operations-customer-service/accountability-officers/ombudsman-toronto/ |
 
 ### Quebec
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| AMF Québec — Registers of Authorized Firms and Individuals | Quebec · Provincial | Lookup tool | Autorité des marchés financiers registers: verify that a firm or individual is authorized to sell insurance, investments or financial planning services in Quebec, and check discipline history. | https://lautorite.qc.ca/grand-public/registres |
 | Commission d'accès à l'information du Québec | Quebec · Provincial | Regulator | Quebec's access to information and privacy commission — decisions, complaints, guidance | https://www.cai.gouv.qc.ca/english/ |
 | Office de la protection du consommateur (Quebec) | Quebec · Provincial | Regulator | Quebec's consumer protection office — complaint filing, contract guides, and business records | https://www.opc.gouv.qc.ca/en/ |
 | Protecteur du citoyen (Québec) | Quebec · Provincial | Ombudsman | Québec's ombudsman — handles complaints about provincial ministries, agencies, and the health network | https://protecteurducitoyen.qc.ca/ |
@@ -3490,10 +3499,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | FCNB — Check Licence and Registration | New Brunswick · Provincial | Lookup tool | Financial and Consumer Services Commission portal to verify insurance, investment, mortgage, real estate, direct-seller, debt-collection and payday-loan licences, plus complaint filing. | https://www.fcnb.ca/en/frauds-and-scams/check-licence-and-registration |
+| Ombud NB | New Brunswick · Provincial | Ombudsman | Investigates complaints of unfair treatment by New Brunswick provincial government departments, agencies, municipalities and other public bodies. | https://ombudnb.ca/ |
 | NL Consumer Affairs Division | Newfoundland and Labrador · Provincial | Portal | Digital Government and Service NL consumer affairs hub: right to cancel, distance contracts, direct-seller licensing and complaints, identity-theft guidance, plus consumer alerts feed. | https://www.gov.nl.ca/dgsnl/consumer/consumer-affairs/ |
 | Public Utilities Board — Regulated Fuel Price Schedule | Newfoundland and Labrador · Provincial | Dashboard | Weekly/daily maximum prices for gas, diesel, furnace oil and propane across all 14+ PUB pricing zones, with current PDF price orders per zone, historical pricing archive and zone map. | https://www.pub.nf.ca/PP_petroleumproducts.php |
+| Nova Scotia Ombudsman | Nova Scotia · Provincial | Ombudsman | Investigates complaints about Nova Scotia provincial and municipal government services and decisions when internal complaint processes have not resolved them. | https://ombudsman.novascotia.ca/ |
 | Service Nova Scotia — Consumer Protection | Nova Scotia · Provincial | Portal | Service NS hub for consumer rights under the Consumer Protection Act: direct sellers, collections, credit reports, payday loans, funerals, condominiums, and online business complaints. | https://beta.novascotia.ca/programs-and-services/consumer-protection |
 | IRAC — Current Regulated Petroleum Prices | PEI · Provincial | Regulated price schedule | IRAC's regulated minimum/maximum pump prices for gasoline, diesel, furnace oil and propane, adjusted twice weekly, with pricing orders and notices (PDF). | https://irac.pe.ca/petrol/current-petroleum-prices/ |
+| PEI Consumer Services | Prince Edward Island · Provincial | Regulator | Prince Edward Island consumer protection hub: file a consumer complaint, check business and lender licences, and get help with payday loans, gift cards, contracts and collection agencies. Verified live in a real browser (sandbox curl hits a bot wall). | https://www.princeedwardisland.ca/en/topic/consumer-services |
 
 ### Northern Canada (YT, NT, NU)
 
