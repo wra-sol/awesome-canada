@@ -13866,7 +13866,7 @@
     "category": "gov-services",
     "type": "Geology maps",
     "description": "Interactive geological maps, mineral deposits, and geoscience data for NB",
-    "url": "https://www2.gnb.ca/content/gnb/en/departments/10.html",
+    "url": "https://www.gnb.ca/minerals",
     "tags": [
       "geology",
       "maps"
@@ -35287,5 +35287,223 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "AgriStability",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Business risk management program",
+    "description": "Agriculture and Agri-Food Canada's margin-based program that supports producers when they experience a large decline in farming income, covering part of the loss beyond a 30 percent drop from their reference margin.",
+    "url": "https://agriculture.canada.ca/en/programs/agristability",
+    "tags": [
+      "agriculture",
+      "farm income",
+      "risk management",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "AgriInvest",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Business risk management program",
+    "description": "A self-managed producer-government savings account from Agriculture and Agri-Food Canada that helps farmers manage small income declines and make investments to manage risk and improve market income.",
+    "url": "https://agriculture.canada.ca/en/programs/agriinvest",
+    "tags": [
+      "agriculture",
+      "savings",
+      "risk management",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "AAFC — Tools to Manage Farm Risk and Finance",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Program hub",
+    "description": "Agriculture and Agri-Food Canada's hub for farm financing and risk tools: business risk management programs, farm debt mediation, cyber security for farm businesses, and mental health resources for producers.",
+    "url": "https://agriculture.canada.ca/en/programs/tools-manage-farm-risk-and-finance",
+    "tags": [
+      "agriculture",
+      "finance",
+      "risk management",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Health Canada — Nutrient Data & Canadian Nutrient File",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Food composition database",
+    "description": "Health Canada's nutrient data hub, home of the Canadian Nutrient File: a bilingual food composition database reporting amounts of up to 173 nutrients in thousands of foods commonly consumed in Canada.",
+    "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data.html",
+    "tags": [
+      "nutrition",
+      "food",
+      "database",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Census of Agriculture — Statistics Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Census portal",
+    "description": "Statistics Canada's Census of Agriculture portal: farm and farm operator data, crop and livestock statistics, and the national statistical portrait of Canadian agriculture collected every five years.",
+    "url": "https://www.statcan.gc.ca/en/census-agriculture",
+    "tags": [
+      "agriculture",
+      "census",
+      "statistics",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "BC — Agriculture & Seafood Hub",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "agriculture",
+    "type": "Department hub",
+    "description": "British Columbia's agriculture and seafood hub: programs and information for farmers, fishers and food producers, covering animal and plant health, food safety, land use and sector development.",
+    "url": "https://www2.gov.bc.ca/gov/content/industry/agriculture-seafood",
+    "tags": [
+      "agriculture",
+      "seafood",
+      "British Columbia",
+      "food"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Alberta — Ministry of Agriculture and Irrigation",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "agriculture",
+    "type": "Department page",
+    "description": "Alberta's agriculture ministry page: provincial programs, services and information for the agriculture and irrigation sectors, including livestock, crops and agri-food industry support.",
+    "url": "https://www.alberta.ca/agriculture",
+    "tags": [
+      "agriculture",
+      "irrigation",
+      "Alberta"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Manitoba Agriculture",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "agriculture",
+    "type": "Department hub",
+    "description": "Manitoba's agriculture department hub: programs, services and production information for farmers and agri-food businesses, from crops and livestock to food development and rural services.",
+    "url": "https://www.gov.mb.ca/agriculture/",
+    "tags": [
+      "agriculture",
+      "farming",
+      "Manitoba"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "New Brunswick — Department of Agriculture, Aquaculture and Fisheries",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "agriculture",
+    "type": "Department page",
+    "description": "New Brunswick's Department of Agriculture, Aquaculture and Fisheries: provincial programs and services for farming, aquaculture and fisheries, including industry development and open data.",
+    "url": "https://www2.gnb.ca/content/gnb/en/departments/10.html",
+    "tags": [
+      "agriculture",
+      "aquaculture",
+      "fisheries",
+      "New Brunswick"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Nova Scotia — Department of Agriculture",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "agriculture",
+    "type": "Department hub",
+    "description": "Nova Scotia's Department of Agriculture hub: department information, programs and services supporting farming and agri-food across the province.",
+    "url": "https://novascotia.ca/agri/",
+    "tags": [
+      "agriculture",
+      "farming",
+      "Nova Scotia"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "PEI — Agriculture Topic Hub",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "agriculture",
+    "type": "Topic hub",
+    "description": "Prince Edward Island's agriculture topic hub: provincial farming programs, services and information from the PEI Department of Agriculture for producers and agri-food businesses.",
+    "url": "https://www.princeedwardisland.ca/en/topic/agriculture",
+    "tags": [
+      "agriculture",
+      "farming",
+      "PEI"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "AAFC — Agricultural Weather Information",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Weather hub",
+    "description": "Agriculture and Agri-Food Canada's agricultural weather hub: agroclimate maps, drought and climate tools, and weather information services for producers, including the Canadian Drought Monitor and agroclimate impact reporting.",
+    "url": "https://agriculture.canada.ca/en/agricultural-production/weather",
+    "tags": [
+      "agriculture",
+      "weather",
+      "drought",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Newfoundland and Labrador — Agriculture Programs and Funding",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "agriculture",
+    "type": "Programs hub",
+    "description": "Newfoundland and Labrador's agriculture programs and funding page: provincial and cost-shared supports for farmers, including the Community Garden Support Program, vegetable transplant program and farm equipment leasing.",
+    "url": "https://www.gov.nl.ca/fal/programs-and-funding/programs/",
+    "tags": [
+      "agriculture",
+      "funding",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Yukon — Agriculture Branch",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "agriculture",
+    "type": "Branch page",
+    "description": "The Government of Yukon's Agriculture Branch page: territorial support for farming north of 60, including agriculture land, local food production programs and producer resources in Whitehorse.",
+    "url": "https://yukon.ca/en/places/agriculture-branch",
+    "tags": [
+      "agriculture",
+      "farming",
+      "Yukon"
+    ],
+    "dateAdded": "2026-10-14"
   }
 ]

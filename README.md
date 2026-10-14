@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2246 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2260 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -48,7 +48,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
 - [🌦️ Weather & Climate](#weather-and-climate) — 32
 - [⚡ Energy & Utilities](#energy-and-utilities) — 57
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 34
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 54
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 44
@@ -961,7 +961,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | New Brunswick — Accessibility | New Brunswick · Provincial | Portal | Government of New Brunswick's accessibility hub: its Accessibility Act, advisory board and related policy resources, for organizations, municipalities and citizens. | https://www.gnb.ca/en/campaign/accessibility.html |
-| New Brunswick Geological Survey | New Brunswick · Provincial | Geology maps | Interactive geological maps, mineral deposits, and geoscience data for NB | https://www2.gnb.ca/content/gnb/en/departments/10.html |
+| New Brunswick Geological Survey | New Brunswick · Provincial | Geology maps | Interactive geological maps, mineral deposits, and geoscience data for NB | https://www.gnb.ca/minerals |
 | Post-Secondary Education, Training and Labour (PETL) — Employment Standards Online Complaint Form | New Brunswick · Provincial | Self-service portal | File an Employment Standards Act complaint online without paper: unpaid wages, overtime, vacation pay, termination pay and more, routed directly to PETL investigators. | https://www.gnb.ca/en/topic/jobs-workplaces/labour-market-workforce/employment-standards/employment-standards-complaint.html |
 | Access Nova Scotia | Nova Scotia · Provincial | Service portal | Official Nova Scotia provincial services portal: find in-person Access Nova Scotia locations, online services, and program information. | https://www.novascotia.ca/access-nova-scotia |
 | Nova Scotia Vital Statistics Online Services | Nova Scotia · Provincial | Document ordering | Apply online to Nova Scotia Vital Statistics for short- or long-form birth certificates, with X gender option and no sex display, credit card payment, and alternative mail/fax/in-person options. | https://www.novascotia.ca/apply-birth-certificate |
@@ -2755,15 +2755,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| AAFC — Agricultural Weather Information | Canada · Federal | Weather hub | Agriculture and Agri-Food Canada's agricultural weather hub: agroclimate maps, drought and climate tools, and weather information services for producers, including the Canadian Drought Monitor and agroclimate impact reporting. | https://agriculture.canada.ca/en/agricultural-production/weather |
 | AAFC — Livestock Traceability | Canada · Federal | Traceability reference | Federal hub on Canada's livestock and poultry traceability system: mandatory animal identification, premises identification and movement reporting for cattle, bison, pigs and sheep, plus CFIA regulatory links and funding info. | https://agriculture.canada.ca/en/sector/animal-industry/livestock-traceability |
+| AAFC — Tools to Manage Farm Risk and Finance | Canada · Federal | Program hub | Agriculture and Agri-Food Canada's hub for farm financing and risk tools: business risk management programs, farm debt mediation, cyber security for farm businesses, and mental health resources for producers. | https://agriculture.canada.ca/en/programs/tools-manage-farm-risk-and-finance |
 | Agri-Food Data Canada | Canada · Federal | Research data | Agricultural research and producer data platform supporting Canadian farms and AI projects | https://agrifooddatacanada.ca/ |
 | Agriculture and Agri-Food Canada | Canada · Federal | Government department | Federal department supporting Canadian agriculture through research, policies, market development, and producer programs | https://agriculture.canada.ca/en |
+| AgriInvest | Canada · Federal | Business risk management program | A self-managed producer-government savings account from Agriculture and Agri-Food Canada that helps farmers manage small income declines and make investments to manage risk and improve market income. | https://agriculture.canada.ca/en/programs/agriinvest |
+| AgriStability | Canada · Federal | Business risk management program | Agriculture and Agri-Food Canada's margin-based program that supports producers when they experience a large decline in farming income, covering part of the loss beyond a 30 percent drop from their reference margin. | https://agriculture.canada.ca/en/programs/agristability |
 | Canada's Plant Hardiness Site | Canada · Federal | Interactive map | NRCan's interactive plant hardiness zone maps showing what can grow where, built from seven climate variables using 1991-2020 averages — essential for gardeners and growers. | https://planthardiness.gc.ca/ |
 | Canadian Drought Monitor | Canada · Federal | Monitoring map | Canada's official monthly drought maps from Agriculture and Agri-Food Canada, classifying conditions from abnormally dry to exceptional drought using vegetation, streamflow and climate indicators. | https://agriculture.canada.ca/en/agricultural-production/weather/canadian-drought-monitor |
 | Canadian Food Inspection Agency (CFIA) | Canada · Federal | Regulator | Federal food safety, plant and animal health regulator — recalls, inspections, and standards | https://inspection.canada.ca/ |
 | Canadian Grain Commission | Canada · Federal | Regulator | Canada's grain quality regulator — grading, testing, and producer protection services | https://www.grainscanada.gc.ca/ |
 | Canadian Wine Authority — VQA Wine Info | Canada · Federal | Wine info | Ontario's Vintners Quality Alliance wine standards, producer listings, and wine info | https://vqaontario.ca/ |
+| Census of Agriculture — Statistics Canada | Canada · Federal | Census portal | Statistics Canada's Census of Agriculture portal: farm and farm operator data, crop and livestock statistics, and the national statistical portrait of Canadian agriculture collected every five years. | https://www.statcan.gc.ca/en/census-agriculture |
 | Foodland Ontario — Seasonal Availability | Canada · Federal | Seasonal guide | What's in season across Ontario farms and markets | https://www.ontario.ca/foodland/ |
+| Health Canada — Nutrient Data & Canadian Nutrient File | Canada · Federal | Food composition database | Health Canada's nutrient data hub, home of the Canadian Nutrient File: a bilingual food composition database reporting amounts of up to 173 nutrients in thousands of foods commonly consumed in Canada. | https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data.html |
 | Health Canada — Pesticide Maximum Residue Limits Search | Canada · Federal | Regulatory search tool | Look up legal pesticide residue limits by chemical and food commodity; full result sets downloadable as CSV, plus an open REST API. | https://pest-control.canada.ca/pesticide-registry/en/mrl-search.html |
 | Pesticide Label Search | Canada · Federal | Product database | Search Health Canada’s pesticide product registry by registration number, active ingredient, or company; view and download current registered labels (PDF). | https://pest-control.canada.ca/pesticide-registry/en/label-search.html |
 | Farm Credit Canada | Canada · Crown Corp | Agricultural financing | Federal crown corporation providing financing, insurance, and software to Canadian farmers and agribusinesses | https://www.fcc-fac.ca/ |
@@ -2774,6 +2780,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Liquor Stores | British Columbia · Crown Corp | Retail | BCLS product catalogue, inventory by store, and special releases | https://www.bcliquorstores.com/ |
 | Agricultural Land Commission — ALR Property and Map Finder | British Columbia · Provincial | Interactive map | Check if any BC parcel is inside the Agricultural Land Reserve by PID or address; view ALC applications, print 1:20k mapsheets, download quarterly ALR shapefiles and KMZ. | https://www.alc.gov.bc.ca/alr-maps/ |
+| BC — Agriculture & Seafood Hub | British Columbia · Provincial | Department hub | British Columbia's agriculture and seafood hub: programs and information for farmers, fishers and food producers, covering animal and plant health, food safety, land use and sector development. | https://www2.gov.bc.ca/gov/content/industry/agriculture-seafood |
 
 ### Alberta
 
@@ -2781,6 +2788,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | AFSC — Alberta Crop Insurance | Alberta · Crown Corp | Crop insurance programs | Agriculture Financial Services Corporation: Alberta crop insurance for annual/perennial crops, apiary, straight hail and wildlife damage; current pricing, 2026 insuring agreements and terms, plus 'Yield Alberta' indemnity and claims statistics. | https://afsc.ca/crop-insurance/ |
 | Agriculture & Irrigation — Alberta Soil Information Viewer | Alberta · Provincial | Interactive map | Query AGRASID soil types, land suitability ratings and elevation profiles per quarter section across Alberta's 26-million-hectare farm region; GIS spatial data available. | https://soil.agric.gov.ab.ca/agrasidviewer/ |
+| Alberta — Ministry of Agriculture and Irrigation | Alberta · Provincial | Department page | Alberta's agriculture ministry page: provincial programs, services and information for the agriculture and irrigation sectors, including livestock, crops and agri-food industry support. | https://www.alberta.ca/agriculture |
 | Alberta Agriculture Statistics Publications | Alberta · Provincial | Statistics hub | Official Alberta agri-food statistics: Agriculture Statistics Yearbook (150+ tables on crops, livestock, farm income, agri-food exports), fact sheets, crop production estimates, weekly crop market review and livestock inventory statistics with downloads. | https://www.alberta.ca/agriculture-statistics-publications |
 
 ### Saskatchewan
@@ -2796,6 +2804,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Manitoba Liquor and Lotteries | Manitoba · Crown Corp | Retail | Manitoba's crown retailer with liquor product and lottery services | https://www.mbll.ca/ |
+| Manitoba Agriculture | Manitoba · Provincial | Department hub | Manitoba's agriculture department hub: programs, services and production information for farmers and agri-food businesses, from crops and livestock to food development and rural services. | https://www.gov.mb.ca/agriculture/ |
 | Manitoba Agriculture — Crop Markets and Statistics | Manitoba · Provincial | Statistical datasets | Download Manitoba crop statistics as XLSX: acreage/yield/production 1965–2025, costs of production 1981–2026, grain stocks, deliveries, elevator capacity, plus sector profiles (PDF). | https://www.gov.mb.ca/agriculture/markets-and-statistics/crop-statistics/index.html |
 | MASC — Management Plus Municipal Yield Data | Manitoba · Provincial | Yield statistics | Manitoba Agricultural Services Corporation's Management Plus: actual insured crop yields by municipality, crop type, and year — granular farm production data unavailable anywhere else. | https://www.masc.mb.ca/masc.nsf/mmpp_index.html |
 
@@ -2822,8 +2831,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | NSLC — Nova Scotia Liquor Corporation | Nova Scotia · Crown Corp | Retail | Nova Scotia's crown liquor retailer with product search and store inventory | https://www.mynslc.com/ |
 | Department of Agriculture, Aquaculture and Fisheries — GIS Open Data Download | New Brunswick · Provincial | Dataset downloads (SHP/KML) | Daily-updated shapefile/KML downloads: farm locations (ARMS), maple sugary potential, marine aquaculture lease sites for finfish, shellfish and lobster, and rockweed sectors. | https://www2.gnb.ca/content/gnb/en/departments/10/open-data/data_download.html |
+| New Brunswick — Department of Agriculture, Aquaculture and Fisheries | New Brunswick · Provincial | Department page | New Brunswick's Department of Agriculture, Aquaculture and Fisheries: provincial programs and services for farming, aquaculture and fisheries, including industry development and open data. | https://www2.gnb.ca/content/gnb/en/departments/10.html |
+| Newfoundland and Labrador — Agriculture Programs and Funding | Newfoundland and Labrador · Provincial | Programs hub | Newfoundland and Labrador's agriculture programs and funding page: provincial and cost-shared supports for farmers, including the Community Garden Support Program, vegetable transplant program and farm equipment leasing. | https://www.gov.nl.ca/fal/programs-and-funding/programs/ |
 | Department of Fisheries and Aquaculture — Aquaculture Site Licences | Nova Scotia · Provincial | Lookup tool | Sortable table of every issued aquaculture licence/lease by operator, county, size and cultivation type, with downloadable licence and lease PDFs. | https://novascotia.ca/fish/aquaculture/public-information/ |
+| Nova Scotia — Department of Agriculture | Nova Scotia · Provincial | Department hub | Nova Scotia's Department of Agriculture hub: department information, programs and services supporting farming and agri-food across the province. | https://novascotia.ca/agri/ |
 | IRAC — Lands Protection Act Applications Databank | PEI · Provincial | Land holdings registry | Searchable IRAC databank of Lands Protection Act applications since 1993: corporate and non-resident land holding approvals, parcel numbers, purchasers, current owners, and amendment/cancellation records. | https://irac.pe.ca/lands/land/lpa-applications-databank/ |
+| PEI — Agriculture Topic Hub | PEI · Provincial | Topic hub | Prince Edward Island's agriculture topic hub: provincial farming programs, services and information from the PEI Department of Agriculture for producers and agri-food businesses. | https://www.princeedwardisland.ca/en/topic/agriculture |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Yukon — Agriculture Branch | Yukon · Provincial | Branch page | The Government of Yukon's Agriculture Branch page: territorial support for farming north of 60, including agriculture land, local food production programs and producer resources in Whitehorse. | https://yukon.ca/en/places/agriculture-branch |
 
 ## 🔬 Science, Research & Space
 
