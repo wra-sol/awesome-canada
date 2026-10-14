@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2260 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2272 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -46,7 +46,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 45
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 92
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
-- [🌦️ Weather & Climate](#weather-and-climate) — 32
+- [🌦️ Weather & Climate](#weather-and-climate) — 44
 - [⚡ Energy & Utilities](#energy-and-utilities) — 57
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
@@ -2578,22 +2578,30 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Air Quality Health Index (AQHI) — Observations Map | Canada · Federal | Air quality observations | Current AQHI readings and health risk levels at monitoring stations across Canada — map and station-level observations. | https://weather.gc.ca/airquality/pages/index_e.html |
+| Canada in a Changing Climate — National Assessment | Canada · Federal | Climate assessment portal | Natural Resources Canada's national climate assessment portal: the Canada in a Changing Climate report series on how Canada's climate is changing, the impacts, and adaptation actions, with regional and sector chapters. | https://changingclimate.ca/ |
+| Canadian Centre for Climate Services | Canada · Federal | Climate services hub | The Canadian Centre for Climate Services' main hub: ECCC's climate services centre helping Canadians understand and become resilient to climate change, with climate information, training, support and resources for local governments. | https://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services.html |
 | Canadian Centre for Climate Services — Advanced Data Tools | Canada · Federal | OGC API | Query ECCC climate datasets programmatically via OGC API Features and WCS — daily climate data by station or year in CSV/GeoJSON, plus bulk access through the Datamart. | https://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services/display-download/advanced-tools.html |
+| Canadian Climate Normals | Canada · Federal | Climate normals search | Environment and Climate Change Canada's climate normals search: 30-year average temperature, precipitation and other climate normals for stations across Canada, the standard reference for a location's typical climate. | https://climate.weather.gc.ca/climate_normals/index_e.html |
 | Canadian Hurricane Centre | Canada · Federal | Forecast tool | Track maps, information statements and technical discussions for tropical and post-tropical cyclones threatening Canada, active June through November. | https://weather.gc.ca/hurricane/index_e.html |
 | Canadian Weather Radar — Interactive Map | Canada · Federal | Interactive map | Environment Canada's national radar mosaic — animated precipitation radar for the whole country on one interactive map, with rain/snow layers and station-level detail. | https://weather.gc.ca/index_e.html?layers=%2Cradar |
 | ECCC FireWork — Wildfire Smoke Forecasts | Canada · Federal | Smoke forecast maps | Environment and Climate Change Canada's official 72-hour wildfire smoke dispersion and PM2.5 forecast maps, feeding the Air Quality Health Index. | https://weather.gc.ca/firework/ |
 | ECCC GeoMet — Weather Alerts API | Canada · Federal | Weather API | The GeoMet-OGC API feature collection that serves Environment Canada's weather alerts as machine-readable GeoJSON — the structured feed behind the public alert pages, queryable by bounding box or geometry. | https://api.weather.gc.ca/collections/weather-alerts |
 | Environment Canada — Weather Alerts | Canada · Federal | Weather alerts | ECCC's master alert index: every active weather watch, warning and special weather statement in Canada in one browsable list, the page behind the familiar Environment Canada alert links. | https://weather.gc.ca/mainmenu/alert_menu_e.html |
 | MSC GeoMet — Weather and Climate API | Canada · Federal | Weather API | OGC API for Environment Canada weather, climate, and hydrometric layers — query forecasts, alerts, and station data programmatically. | https://api.weather.gc.ca/ |
+| MSC Open Data — ECCC Weather & Climate Data Portal | Canada · Federal | Open data portal | The Meteorological Service of Canada's open data documentation portal: how to access ECCC weather, climate and water data through GeoMet APIs, the MSC Datamart and AniMet, with datasets, licences and user guides. | https://eccc-msc.github.io/open-data/ |
 | Satellite Images and Animation — Environment Canada | Canada · Federal | Satellite imagery viewer | ECCC's satellite viewer on weather.gc.ca: browse GOES and other imagery over Canada, pick a sector or station, and step through animated loops of past and forecast frames to read cloud, smoke and storm cover yourself. | https://weather.gc.ca/satellite/index_e.html |
 | Seasonal Forecasts — Environment Canada | Canada · Federal | Forecast tool | Entry point to the Canadian seasonal prediction system, with month-by-month temperature and precipitation outlook maps for Canada over 6-, 9- and 12-month horizons. | https://weather.gc.ca/saisons/index_e.html |
 | Space Weather Canada | Canada · Federal | Forecast tool | Current conditions and short- and long-term forecasts of geomagnetic activity, aurora visibility, and solar and ionospheric data for Canadian regions. | https://www.spaceweather.gc.ca/index-en.php |
+| WeatherCAN — ECCC Weather App | Canada · Federal | Weather app | Environment and Climate Change Canada's official WeatherCAN mobile app page: real-time forecasts, weather alerts and push notifications for watches and warnings on iOS and Android, with terms and privacy details. | https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/weathercan.html |
+| Climate Atlas of Canada | Canada · Agency | Interactive climate map | The Climate Atlas of Canada: an interactive mapping and data portal from the Prairie Climate Centre combining climate science, mapping and storytelling to show how climate change affects places across Canada. | https://climateatlas.ca/ |
 | ClimateWest — Prairie Climate Data Hub | Canada · Agency | Climate services hub | Regional climate services hub for the three Prairie provinces: help desk for finding/using climate data, directory of Canadian climate data portals, sector guidance (agriculture, water, infrastructure, municipalities) and adaptation publications, case studies and training. | https://climatewest.ca/ |
 
 ### British Columbia
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC — Climate Change Hub | British Columbia · Provincial | Climate hub | British Columbia's climate change hub: provincial action on reducing emissions and preparing for climate impacts, including CleanBC, adaptation resources and climate data for residents and communities. | https://www2.gov.bc.ca/gov/content/environment/climate-change |
+| BC — Snow Conditions and Water Supply Bulletin | British Columbia · Provincial | Snow survey bulletin | The BC River Forecast Centre's snow bulletin: province-wide snow survey measurements, snow basin indices and water supply outlooks used to assess flood and drought risk across British Columbia. | https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre/snow-survey-water-supply-bulletin |
 | BC Meteorological Station Data Portal (PCIC) | British Columbia · Provincial | Weather data portal | Interactive map interface to explore 100+ weather stations across British Columbia from the Provincial Climate Data Set. Filter by date range, variable type, observing agency, and region. Download station metadata and observational data in CSV, NetCDF, or MS Excel format. Covers temperature, precipitation, wind, humidity, and other climate variables. | https://www.uvic.ca/pcic/data-analysis-tools/data-portal/station-data/index.php |
 | BC River Forecast Centre — Open Data | British Columbia · Provincial | Hydrometric data | Snowpack, streamflow, and flood forecasting data for British Columbia watersheds — maps and downloadable hydrometric datasets. | https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre |
 | PCIC Plan2Adapt — BC Climate Projections | British Columbia · Provincial | Climate projections tool | Explore projected climate change across BC under a high-emissions scenario (SSP5-8.5) with user-friendly maps, trend graphs and summary tables, sliced by regional district, health authority or ecoprovince; based on PCIC statistically downscaled CMIP6 scenarios. | https://services.pacificclimate.org/plan2adapt/app/ |
@@ -2602,6 +2610,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta Climate Information Service (ACIS) — Data Products & Tools | Alberta · Provincial | Climate data hub | The Alberta Climate Information Service hub: ACIS data products and tools built on Alberta's weather station network, including current and historical weather data, climate maps and agricultural weather tools. | https://acis.alberta.ca/ |
 | Alberta Climate Information Service (ACIS) — Weather Station Data Viewer | Alberta · Provincial | Weather data portal | Interactive map viewer and download tool for over 535 Alberta weather stations. View near-real-time and historical data including precipitation, temperature, wind, heat units, and climate normals. Both hourly and daily data available for download in CSV format. | https://acis.alberta.ca/weather-data-viewer.jsp |
 | Alberta River Basins — Flow and Forecast | Alberta · Provincial | Hydrometric monitoring | Real-time river flows, basin conditions, and flood advisories for Alberta river systems. | https://rivers.alberta.ca/ |
 
@@ -2624,6 +2633,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ausable Bayfield Conservation Authority — Flood Status | Ontario · Agency | Flood monitoring | The authority's live Flood Status feed reports current and forecast flooding across the Ausable, Bayfield, Parkhill, Mud and Lakeshore watersheds, with a parallel Low Water Status feed. | https://www.abca.ca/ |
 | Catfish Creek Conservation Authority — Flood Notices | Ontario · Agency | Flood monitoring | Live flood forecasting and warning for the Catfish Creek watershed: dated flood notices and emergency watershed condition statements, alongside the authority's low water advisories. | https://www.catfishcreek.ca/programs/water-management/flood-forecasting-and-warning/flood-notices/ |
+| Upper Thames River Conservation Authority — Flood Forecasting and Warning | Ontario · Agency | Flood monitoring | The Upper Thames River Conservation Authority's flood forecasting and warning program: current watershed conditions, flood messages and safety information for the Thames River watershed around London, Ontario. | https://thamesriver.on.ca/flood-forecasting-warning/ |
 | Ontario Flood Forecasting and Warning | Ontario · Provincial | Flood monitoring | Provincial flood outlooks, watershed condition reports, and real-time flood messages for Ontario conservation authorities. | https://www.ontario.ca/floodforecast/ |
 | Ontario Low Water Response | Ontario · Provincial | Drought monitoring | Provincial low water level advisories and drought status by conservation authority watershed in Ontario. | https://www.ontario.ca/page/low-water-response-program |
 
@@ -2644,6 +2654,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NL Statistics Agency — Community Accounts Climate Data | Newfoundland and Labrador · Provincial | Climate data portal | Query 70+ NL weather stations for daily/monthly/annual temperature, rain and snow from 1874–2026; nearest-station search plus charts. | https://nl.communityaccounts.ca/climate/ |
 | Department of Public Works — NS Weather Station Data | Nova Scotia · Provincial | Dataset | Download 31M+ readings (2011–2024) from 56 provincial road-weather stations: temp, wind, humidity, precip, pavement status. CSV/JSON/Socrata API. | https://data.novascotia.ca/Environment-and-Energy/NS-Weather-Station-Data/kafq-j9u4 |
 | PEI Weather & Climate App | PEI · Provincial | Dashboard | View and download real-time observations from 100+ PEI weather stations plus historical climate (temperature, precipitation, wind, humidity) on an interactive map. | https://weather.peiclimate.ca/ |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Nunavut Climate Change Centre | Nunavut · Provincial | Climate resource centre | The Government of Nunavut Climate Change Secretariat's web resource centre: climate change information for Nunavummiut, including adaptation resources, permafrost information and territorial climate programs. | https://www.climatechangenunavut.ca/ |
+| Yukon — Snow Surveys and Water Supply Forecasts | Yukon · Provincial | Snow survey bulletin | The Government of Yukon's snow survey page: the Yukon Snow Survey Bulletin and Water Supply Forecast, issued each March, April and May, reporting snowpack, flow conditions and spring flood potential by river basin. | https://yukon.ca/en/snow-survey |
 
 ## ⚡ Energy & Utilities
 

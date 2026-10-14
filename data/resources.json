@@ -35505,5 +35505,193 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "WeatherCAN — ECCC Weather App",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Weather app",
+    "description": "Environment and Climate Change Canada's official WeatherCAN mobile app page: real-time forecasts, weather alerts and push notifications for watches and warnings on iOS and Android, with terms and privacy details.",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/weathercan.html",
+    "tags": [
+      "weather",
+      "forecast",
+      "alerts",
+      "app",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Canadian Climate Normals",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Climate normals search",
+    "description": "Environment and Climate Change Canada's climate normals search: 30-year average temperature, precipitation and other climate normals for stations across Canada, the standard reference for a location's typical climate.",
+    "url": "https://climate.weather.gc.ca/climate_normals/index_e.html",
+    "tags": [
+      "climate",
+      "normals",
+      "statistics",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Canada in a Changing Climate — National Assessment",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Climate assessment portal",
+    "description": "Natural Resources Canada's national climate assessment portal: the Canada in a Changing Climate report series on how Canada's climate is changing, the impacts, and adaptation actions, with regional and sector chapters.",
+    "url": "https://changingclimate.ca/",
+    "tags": [
+      "climate change",
+      "adaptation",
+      "assessment",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Climate Atlas of Canada",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Interactive climate map",
+    "description": "The Climate Atlas of Canada: an interactive mapping and data portal from the Prairie Climate Centre combining climate science, mapping and storytelling to show how climate change affects places across Canada.",
+    "url": "https://climateatlas.ca/",
+    "tags": [
+      "climate change",
+      "maps",
+      "data",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Nunavut Climate Change Centre",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "weather",
+    "type": "Climate resource centre",
+    "description": "The Government of Nunavut Climate Change Secretariat's web resource centre: climate change information for Nunavummiut, including adaptation resources, permafrost information and territorial climate programs.",
+    "url": "https://www.climatechangenunavut.ca/",
+    "tags": [
+      "climate change",
+      "adaptation",
+      "Nunavut"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "BC — Climate Change Hub",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "weather",
+    "type": "Climate hub",
+    "description": "British Columbia's climate change hub: provincial action on reducing emissions and preparing for climate impacts, including CleanBC, adaptation resources and climate data for residents and communities.",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/climate-change",
+    "tags": [
+      "climate change",
+      "adaptation",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Alberta Climate Information Service (ACIS) — Data Products & Tools",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "weather",
+    "type": "Climate data hub",
+    "description": "The Alberta Climate Information Service hub: ACIS data products and tools built on Alberta's weather station network, including current and historical weather data, climate maps and agricultural weather tools.",
+    "url": "https://acis.alberta.ca/",
+    "tags": [
+      "weather",
+      "climate data",
+      "Alberta"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Yukon — Snow Surveys and Water Supply Forecasts",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "weather",
+    "type": "Snow survey bulletin",
+    "description": "The Government of Yukon's snow survey page: the Yukon Snow Survey Bulletin and Water Supply Forecast, issued each March, April and May, reporting snowpack, flow conditions and spring flood potential by river basin.",
+    "url": "https://yukon.ca/en/snow-survey",
+    "tags": [
+      "snow",
+      "water supply",
+      "forecast",
+      "Yukon"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "BC — Snow Conditions and Water Supply Bulletin",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "weather",
+    "type": "Snow survey bulletin",
+    "description": "The BC River Forecast Centre's snow bulletin: province-wide snow survey measurements, snow basin indices and water supply outlooks used to assess flood and drought risk across British Columbia.",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre/snow-survey-water-supply-bulletin",
+    "tags": [
+      "snow",
+      "water supply",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "MSC Open Data — ECCC Weather & Climate Data Portal",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Open data portal",
+    "description": "The Meteorological Service of Canada's open data documentation portal: how to access ECCC weather, climate and water data through GeoMet APIs, the MSC Datamart and AniMet, with datasets, licences and user guides.",
+    "url": "https://eccc-msc.github.io/open-data/",
+    "tags": [
+      "weather",
+      "open data",
+      "API",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Upper Thames River Conservation Authority — Flood Forecasting and Warning",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "weather",
+    "type": "Flood monitoring",
+    "description": "The Upper Thames River Conservation Authority's flood forecasting and warning program: current watershed conditions, flood messages and safety information for the Thames River watershed around London, Ontario.",
+    "url": "https://thamesriver.on.ca/flood-forecasting-warning/",
+    "tags": [
+      "flood",
+      "watershed",
+      "Ontario"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Canadian Centre for Climate Services",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Climate services hub",
+    "description": "The Canadian Centre for Climate Services' main hub: ECCC's climate services centre helping Canadians understand and become resilient to climate change, with climate information, training, support and resources for local governments.",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services.html",
+    "tags": [
+      "climate",
+      "adaptation",
+      "services",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
   }
 ]
