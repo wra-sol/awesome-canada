@@ -4931,6 +4931,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "CheckFirst — Alberta Securities Commission",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "consumer",
+    "type": "Investor education",
+    "description": "Alberta Securities Commission investor site: verify an investment seller's registration, learn scam red flags, and check disciplined persons before investing.",
+    "url": "https://checkfirst.ca/",
+    "tags": [
+      "investing",
+      "fraud prevention",
+      "securities",
+      "Alberta"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
     "name": "Consumer Protection Alberta — Service Alberta",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -5008,6 +5024,23 @@
     "dateAdded": "2026-08-27"
   },
   {
+    "name": "BCFSA — Before You Sign, Search",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "BC Financial Services Authority verification hub: confirm that a real estate licensee, mortgage broker, credit union or other regulated financial professional is licensed before signing, and report a concern.",
+    "url": "https://www.bcfsa.ca/home/before-you-sign-search",
+    "tags": [
+      "licensing",
+      "real estate",
+      "mortgage brokers",
+      "BC",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
     "name": "Consumer Protection BC",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -5032,6 +5065,22 @@
       "BC",
       "privacy"
     ]
+  },
+  {
+    "name": "Manitoba Consumer Protection Office",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "Manitoba's consumer protection office: file a consumer complaint, check payday loan and direct seller rules, and look up consumer rights under Manitoba law.",
+    "url": "https://www.gov.mb.ca/cca/cpo/",
+    "tags": [
+      "consumer protection",
+      "complaints",
+      "Manitoba",
+      "payday loans"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "Manitoba Ombudsman",
@@ -5063,6 +5112,22 @@
       "new-brunswick"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Ombud NB",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Investigates complaints of unfair treatment by New Brunswick provincial government departments, agencies, municipalities and other public bodies.",
+    "url": "https://ombudnb.ca/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "New Brunswick"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "NL Consumer Affairs Division",
@@ -5116,6 +5181,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Nova Scotia Ombudsman",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Investigates complaints about Nova Scotia provincial and municipal government services and decisions when internal complaint processes have not resolved them.",
+    "url": "https://ombudsman.novascotia.ca/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "Nova Scotia"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
     "name": "Service Nova Scotia — Consumer Protection",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -5130,6 +5211,23 @@
       "collections"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "HCRA — Ontario Builder Directory",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Home Construction Regulatory Authority directory: search every licensed Ontario new-home builder and vendor by name, licence number or principal, with licence status, discipline history, charges and Tarion warranty data.",
+    "url": "https://obd.hcraontario.ca/",
+    "tags": [
+      "new homes",
+      "builders",
+      "licensing",
+      "Ontario",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "Information and Privacy Commissioner of Ontario",
@@ -5160,6 +5258,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Ontario Consumer Beware List",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Searchable Ontario record of businesses that were charged or convicted under consumer protection laws, failed to comply with ministry orders, or did not answer consumer complaints.",
+    "url": "https://www.ontario.ca/page/search-consumer-beware-list",
+    "tags": [
+      "consumer protection",
+      "business warnings",
+      "Ontario",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
     "name": "Ontario Data Catalogue — LTB Order Catalogue",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -5178,6 +5292,38 @@
     "dateAdded": "2026-08-27"
   },
   {
+    "name": "OSC — Get Smarter About Money",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Investor education",
+    "description": "Ontario Securities Commission investor education site with calculators, fraud-spotting guides and tools to check whether an investment seller is registered before investing.",
+    "url": "https://www.getsmarteraboutmoney.ca/",
+    "tags": [
+      "investing",
+      "fraud prevention",
+      "securities",
+      "Ontario"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "RECO — Registrant Search",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Real Estate Council of Ontario public register: confirm that an Ontario real estate salesperson, broker or brokerage is registered, and see conditions, charges and discipline from the last 60 months. The search now lives on reco.on.ca.",
+    "url": "https://www.reco.on.ca/RegistrantSearch",
+    "tags": [
+      "real estate",
+      "registration check",
+      "Ontario",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
     "name": "IRAC — Current Regulated Petroleum Prices",
     "level": "Provincial",
     "jurisdiction": "PEI",
@@ -5192,6 +5338,39 @@
       "regulation"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "PEI Consumer Services",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "Prince Edward Island consumer protection hub: file a consumer complaint, check business and lender licences, and get help with payday loans, gift cards, contracts and collection agencies. Verified live in a real browser (sandbox curl hits a bot wall).",
+    "url": "https://www.princeedwardisland.ca/en/topic/consumer-services",
+    "tags": [
+      "consumer protection",
+      "complaints",
+      "licences",
+      "PEI"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "AMF Québec — Registers of Authorized Firms and Individuals",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Autorité des marchés financiers registers: verify that a firm or individual is authorized to sell insurance, investments or financial planning services in Quebec, and check discipline history.",
+    "url": "https://lautorite.qc.ca/grand-public/registres",
+    "tags": [
+      "securities",
+      "insurance",
+      "registration check",
+      "Quebec",
+      "lookup tool"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "Commission d'accès à l'information du Québec",
@@ -5312,6 +5491,22 @@
       "yukon"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Ombudsman Toronto — City of Toronto",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Independent office that investigates complaints about City of Toronto services, fairness and decision-making, and reports publicly on systemic issues.",
+    "url": "https://www.toronto.ca/city-government/accountability-operations-customer-service/accountability-officers/ombudsman-toronto/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "Toronto"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "Elections Canada Voter Turnout Visualization",
@@ -27475,6 +27670,22 @@
     "dateAdded": "2026-10-04"
   },
   {
+    "name": "Manitoba Emergency Measures Organization",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "safety",
+    "type": "Department page",
+    "description": "Home of Manitoba's Emergency Measures Organization: provincial emergency alerts, disaster financial assistance, and the municipal emergency programs the EMO coordinates.",
+    "url": "https://www.manitoba.ca/emo/",
+    "tags": [
+      "emergency",
+      "alerts",
+      "disaster assistance",
+      "Manitoba"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
     "name": "Department of Natural Resources and Energy Development — Fire Watch & Wildfire Dashboard",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -27521,6 +27732,22 @@
       "lookup tool"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "NWT Alert",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "The Northwest Territories' public alerting system: live emergency alerts and evacuation notices for NWT communities, issued through the Alert Ready partnership, with the Alertable app for ongoing updates.",
+    "url": "https://nwtalert.ca/",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "Northwest Territories"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "NWT Wildfire Update (ECC)",
@@ -27617,6 +27844,22 @@
     "dateAdded": "2026-10-04"
   },
   {
+    "name": "Ontario — Emergency Information",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "safety",
+    "type": "Emergency information",
+    "description": "Ontario's official emergency information page: provincial emergency declarations and alerts in effect, plus links to municipal and ministry emergency resources.",
+    "url": "https://www.ontario.ca/page/emergency-information",
+    "tags": [
+      "emergency",
+      "alerts",
+      "Ontario",
+      "public safety"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
     "name": "Ontario Wildfire Map (Interactive)",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -27699,6 +27942,22 @@
     "dateAdded": "2026-08-24"
   },
   {
+    "name": "Saskatchewan Public Safety Agency",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "safety",
+    "type": "Department page",
+    "description": "The Saskatchewan Public Safety Agency's hub: the provincial body behind SaskAlert, wildfire response and municipal emergency programs, with current program and incident information.",
+    "url": "https://www.saskpublicsafety.ca/",
+    "tags": [
+      "emergency",
+      "public safety",
+      "wildfire",
+      "Saskatchewan"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
     "name": "Workers' Safety and Compensation Board (WSCB) — WHS Regulations Search",
     "level": "Provincial",
     "jurisdiction": "Yukon",
@@ -27714,6 +27973,22 @@
       "html"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Yukon — Emergency Preparedness",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "safety",
+    "type": "Preparedness hub",
+    "description": "Government of Yukon's emergency preparedness hub: current alerts and advisories, household emergency planning and 72-hour kit guidance, and community emergency program information.",
+    "url": "https://yukon.ca/en/emergency-preparedness",
+    "tags": [
+      "emergency",
+      "preparedness",
+      "alerts",
+      "Yukon"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "Yukon Wildfires Map (Wildland Fire Management)",
@@ -27732,6 +28007,38 @@
     ]
   },
   {
+    "name": "Capital Regional District — Public Alert Notification System",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "Capital Regional District's Public Alert Notification System: residents of the CRD's electoral areas (Salt Spring Island, Juan de Fuca and the Southern Gulf Islands) sign up for emergency alerts by text, email or phone.",
+    "url": "https://www.crd.ca/programs-services/fire-emergency/electoral-area-emergency-management/public-alert-notification-system",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
+    "name": "Central Okanagan Emergency Operations",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "safety",
+    "type": "Emergency information",
+    "description": "Central Okanagan's emergency operations site: evacuation alerts and orders, incident updates and recovery information for Kelowna and neighbouring communities during active emergencies.",
+    "url": "https://www.cordemergency.ca/",
+    "tags": [
+      "emergency",
+      "evacuations",
+      "alerts",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-10-13"
+  },
+  {
     "name": "Regional District of North Okanagan — Alertable",
     "level": "Regional",
     "jurisdiction": "British Columbia",
@@ -27746,6 +28053,22 @@
       "regional"
     ],
     "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Alert Waterloo Region",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "Waterloo Region's official emergency notification service: residents sign up once to receive alerts from the region and its local municipalities during emergencies.",
+    "url": "https://www.alertwr.ca/",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "Waterloo Region"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "Calgary — Flood alerts and notices",
@@ -27811,6 +28134,22 @@
       "safety"
     ],
     "dateAdded": "2026-10-08"
+  },
+  {
+    "name": "Halifax — hfxALERT",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "Halifax Regional Municipality's hfxALERT mass-notification service: residents sign up to receive emergency and public-safety alerts by text, phone or email.",
+    "url": "https://www.halifax.ca/safety-security/emergency-management/hfxalert",
+    "tags": [
+      "alerts",
+      "emergency",
+      "notifications",
+      "Halifax"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "Halifax — Police Crime Mapping",
@@ -27922,6 +28261,22 @@
       "municipal"
     ],
     "dateAdded": "2026-10-11"
+  },
+  {
+    "name": "Ottawa — Emergency Preparedness & Ottawa Alert",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "safety",
+    "type": "Preparedness hub",
+    "description": "City of Ottawa's emergency preparedness hub: current and ongoing emergencies, hazard guides and kit checklists, and sign-up for Ottawa Alert (Alertable) public emergency notifications.",
+    "url": "https://ottawa.ca/en/health-and-public-safety/emergency-preparedness",
+    "tags": [
+      "emergency",
+      "preparedness",
+      "alerts",
+      "Ottawa"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "Ottawa — Police Community Safety Data Portal",
@@ -28053,6 +28408,22 @@
       "housing"
     ],
     "dateAdded": "2026-10-01"
+  },
+  {
+    "name": "Toronto — Active Alerts & Emergencies",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "safety",
+    "type": "Emergency alerts",
+    "description": "City of Toronto's active alerts hub: emergency and major service alerts currently in effect across the city, with links to city notification services.",
+    "url": "https://www.toronto.ca/community-people/public-safety-alerts/alerts-notifications/",
+    "tags": [
+      "alerts",
+      "emergency",
+      "Toronto",
+      "notifications"
+    ],
+    "dateAdded": "2026-10-13"
   },
   {
     "name": "Toronto — Fire Active Incidents",
@@ -34916,376 +35287,5 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "OSC — Get Smarter About Money",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "consumer",
-    "type": "Investor education",
-    "description": "Ontario Securities Commission investor education site with calculators, fraud-spotting guides and tools to check whether an investment seller is registered before investing.",
-    "url": "https://www.getsmarteraboutmoney.ca/",
-    "tags": [
-      "investing",
-      "fraud prevention",
-      "securities",
-      "Ontario"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "CheckFirst — Alberta Securities Commission",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "consumer",
-    "type": "Investor education",
-    "description": "Alberta Securities Commission investor site: verify an investment seller's registration, learn scam red flags, and check disciplined persons before investing.",
-    "url": "https://checkfirst.ca/",
-    "tags": [
-      "investing",
-      "fraud prevention",
-      "securities",
-      "Alberta"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Manitoba Consumer Protection Office",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "consumer",
-    "type": "Regulator",
-    "description": "Manitoba's consumer protection office: file a consumer complaint, check payday loan and direct seller rules, and look up consumer rights under Manitoba law.",
-    "url": "https://www.gov.mb.ca/cca/cpo/",
-    "tags": [
-      "consumer protection",
-      "complaints",
-      "Manitoba",
-      "payday loans"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Nova Scotia Ombudsman",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "consumer",
-    "type": "Ombudsman",
-    "description": "Investigates complaints about Nova Scotia provincial and municipal government services and decisions when internal complaint processes have not resolved them.",
-    "url": "https://ombudsman.novascotia.ca/",
-    "tags": [
-      "complaints",
-      "fairness",
-      "oversight",
-      "Nova Scotia"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Ombud NB",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "consumer",
-    "type": "Ombudsman",
-    "description": "Investigates complaints of unfair treatment by New Brunswick provincial government departments, agencies, municipalities and other public bodies.",
-    "url": "https://ombudnb.ca/",
-    "tags": [
-      "complaints",
-      "fairness",
-      "oversight",
-      "New Brunswick"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Ombudsman Toronto — City of Toronto",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "consumer",
-    "type": "Ombudsman",
-    "description": "Independent office that investigates complaints about City of Toronto services, fairness and decision-making, and reports publicly on systemic issues.",
-    "url": "https://www.toronto.ca/city-government/accountability-operations-customer-service/accountability-officers/ombudsman-toronto/",
-    "tags": [
-      "complaints",
-      "fairness",
-      "oversight",
-      "Toronto"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "HCRA — Ontario Builder Directory",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "consumer",
-    "type": "Lookup tool",
-    "description": "Home Construction Regulatory Authority directory: search every licensed Ontario new-home builder and vendor by name, licence number or principal, with licence status, discipline history, charges and Tarion warranty data.",
-    "url": "https://obd.hcraontario.ca/",
-    "tags": [
-      "new homes",
-      "builders",
-      "licensing",
-      "Ontario",
-      "lookup tool"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Ontario Consumer Beware List",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "consumer",
-    "type": "Lookup tool",
-    "description": "Searchable Ontario record of businesses that were charged or convicted under consumer protection laws, failed to comply with ministry orders, or did not answer consumer complaints.",
-    "url": "https://www.ontario.ca/page/search-consumer-beware-list",
-    "tags": [
-      "consumer protection",
-      "business warnings",
-      "Ontario",
-      "lookup tool"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "BCFSA — Before You Sign, Search",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "consumer",
-    "type": "Lookup tool",
-    "description": "BC Financial Services Authority verification hub: confirm that a real estate licensee, mortgage broker, credit union or other regulated financial professional is licensed before signing, and report a concern.",
-    "url": "https://www.bcfsa.ca/home/before-you-sign-search",
-    "tags": [
-      "licensing",
-      "real estate",
-      "mortgage brokers",
-      "BC",
-      "lookup tool"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "AMF Québec — Registers of Authorized Firms and Individuals",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "consumer",
-    "type": "Lookup tool",
-    "description": "Autorité des marchés financiers registers: verify that a firm or individual is authorized to sell insurance, investments or financial planning services in Quebec, and check discipline history.",
-    "url": "https://lautorite.qc.ca/grand-public/registres",
-    "tags": [
-      "securities",
-      "insurance",
-      "registration check",
-      "Quebec",
-      "lookup tool"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "PEI Consumer Services",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "consumer",
-    "type": "Regulator",
-    "description": "Prince Edward Island consumer protection hub: file a consumer complaint, check business and lender licences, and get help with payday loans, gift cards, contracts and collection agencies. Verified live in a real browser (sandbox curl hits a bot wall).",
-    "url": "https://www.princeedwardisland.ca/en/topic/consumer-services",
-    "tags": [
-      "consumer protection",
-      "complaints",
-      "licences",
-      "PEI"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "RECO — Registrant Search",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "consumer",
-    "type": "Lookup tool",
-    "description": "Real Estate Council of Ontario public register: confirm that an Ontario real estate salesperson, broker or brokerage is registered, and see conditions, charges and discipline from the last 60 months. The search now lives on reco.on.ca.",
-    "url": "https://www.reco.on.ca/RegistrantSearch",
-    "tags": [
-      "real estate",
-      "registration check",
-      "Ontario",
-      "lookup tool"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "NWT Alert",
-    "level": "Provincial",
-    "jurisdiction": "Northwest Territories",
-    "category": "safety",
-    "type": "Emergency alerts",
-    "description": "The Northwest Territories' public alerting system: live emergency alerts and evacuation notices for NWT communities, issued through the Alert Ready partnership, with the Alertable app for ongoing updates.",
-    "url": "https://nwtalert.ca/",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications",
-      "Northwest Territories"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Yukon — Emergency Preparedness",
-    "level": "Provincial",
-    "jurisdiction": "Yukon",
-    "category": "safety",
-    "type": "Preparedness hub",
-    "description": "Government of Yukon's emergency preparedness hub: current alerts and advisories, household emergency planning and 72-hour kit guidance, and community emergency program information.",
-    "url": "https://yukon.ca/en/emergency-preparedness",
-    "tags": [
-      "emergency",
-      "preparedness",
-      "alerts",
-      "Yukon"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Ontario — Emergency Information",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "safety",
-    "type": "Emergency information",
-    "description": "Ontario's official emergency information page: provincial emergency declarations and alerts in effect, plus links to municipal and ministry emergency resources.",
-    "url": "https://www.ontario.ca/page/emergency-information",
-    "tags": [
-      "emergency",
-      "alerts",
-      "Ontario",
-      "public safety"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Saskatchewan Public Safety Agency",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "safety",
-    "type": "Department page",
-    "description": "The Saskatchewan Public Safety Agency's hub: the provincial body behind SaskAlert, wildfire response and municipal emergency programs, with current program and incident information.",
-    "url": "https://www.saskpublicsafety.ca/",
-    "tags": [
-      "emergency",
-      "public safety",
-      "wildfire",
-      "Saskatchewan"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Toronto — Active Alerts & Emergencies",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "safety",
-    "type": "Emergency alerts",
-    "description": "City of Toronto's active alerts hub: emergency and major service alerts currently in effect across the city, with links to city notification services.",
-    "url": "https://www.toronto.ca/community-people/public-safety-alerts/alerts-notifications/",
-    "tags": [
-      "alerts",
-      "emergency",
-      "Toronto",
-      "notifications"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Ottawa — Emergency Preparedness & Ottawa Alert",
-    "level": "Municipal",
-    "jurisdiction": "Ottawa",
-    "category": "safety",
-    "type": "Preparedness hub",
-    "description": "City of Ottawa's emergency preparedness hub: current and ongoing emergencies, hazard guides and kit checklists, and sign-up for Ottawa Alert (Alertable) public emergency notifications.",
-    "url": "https://ottawa.ca/en/health-and-public-safety/emergency-preparedness",
-    "tags": [
-      "emergency",
-      "preparedness",
-      "alerts",
-      "Ottawa"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Manitoba Emergency Measures Organization",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "safety",
-    "type": "Department page",
-    "description": "Home of Manitoba's Emergency Measures Organization: provincial emergency alerts, disaster financial assistance, and the municipal emergency programs the EMO coordinates.",
-    "url": "https://www.manitoba.ca/emo/",
-    "tags": [
-      "emergency",
-      "alerts",
-      "disaster assistance",
-      "Manitoba"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Halifax — hfxALERT",
-    "level": "Municipal",
-    "jurisdiction": "Halifax",
-    "category": "safety",
-    "type": "Emergency alerts",
-    "description": "Halifax Regional Municipality's hfxALERT mass-notification service: residents sign up to receive emergency and public-safety alerts by text, phone or email.",
-    "url": "https://www.halifax.ca/safety-security/emergency-management/hfxalert",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications",
-      "Halifax"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Alert Waterloo Region",
-    "level": "Regional",
-    "jurisdiction": "Waterloo",
-    "category": "safety",
-    "type": "Emergency alerts",
-    "description": "Waterloo Region's official emergency notification service: residents sign up once to receive alerts from the region and its local municipalities during emergencies.",
-    "url": "https://www.alertwr.ca/",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications",
-      "Waterloo Region"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Central Okanagan Emergency Operations",
-    "level": "Regional",
-    "jurisdiction": "British Columbia",
-    "category": "safety",
-    "type": "Emergency information",
-    "description": "Central Okanagan's emergency operations site: evacuation alerts and orders, incident updates and recovery information for Kelowna and neighbouring communities during active emergencies.",
-    "url": "https://www.cordemergency.ca/",
-    "tags": [
-      "emergency",
-      "evacuations",
-      "alerts",
-      "British Columbia"
-    ],
-    "dateAdded": "2026-10-13"
-  },
-  {
-    "name": "Capital Regional District — Public Alert Notification System",
-    "level": "Regional",
-    "jurisdiction": "British Columbia",
-    "category": "safety",
-    "type": "Emergency alerts",
-    "description": "Capital Regional District's Public Alert Notification System: residents of the CRD's electoral areas (Salt Spring Island, Juan de Fuca and the Southern Gulf Islands) sign up for emergency alerts by text, email or phone.",
-    "url": "https://www.crd.ca/programs-services/fire-emergency/electoral-area-emergency-management/public-alert-notification-system",
-    "tags": [
-      "alerts",
-      "emergency",
-      "notifications",
-      "British Columbia"
-    ],
-    "dateAdded": "2026-10-13"
   }
 ]
