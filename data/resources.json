@@ -35693,5 +35693,262 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Vancouver Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Vancouver",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Vancouver's public library system: catalogue search, ebooks and streaming, branch locations and hours, programs and events, and library card services for Canada's third-largest public library system.",
+    "url": "https://www.vpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Vancouver",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Calgary Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Calgary's public library system: catalogue search, digital collections, branch locations including Central Library, programs, and free membership for Calgary residents.",
+    "url": "https://calgarylibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Calgary",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Edmonton Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Edmonton",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Edmonton's public library system (EPL): catalogue search, ebooks and digital resources, branch locations and hours, makerspaces, programs and events.",
+    "url": "https://www.epl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Edmonton",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Ottawa Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Ottawa's bilingual public library system: catalogue search in English and French, ebooks, branch locations and hours, programs, and library services for the capital region.",
+    "url": "https://biblioottawalibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Ottawa",
+      "catalogue",
+      "bilingual"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Halifax Public Libraries",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Halifax's public library system: catalogue search, ebooks and streaming, branch locations and hours, programs and community services across Halifax Regional Municipality.",
+    "url": "https://www.halifaxpubliclibraries.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Halifax",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Winnipeg Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Winnipeg",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Winnipeg's public library system: catalogue search, ebooks, branch locations including Millennium Library, programs, and information services for Winnipeg residents.",
+    "url": "https://wpl.winnipeg.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Winnipeg",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Saskatoon Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Saskatoon's public library system: catalogue search, ebooks and digital resources, branch locations and hours, local history collections, programs and events.",
+    "url": "https://saskatoonlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Saskatoon",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Hamilton Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Hamilton",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Hamilton's public library system: catalogue search, ebooks, branch locations and hours, local history and archives, programs and events.",
+    "url": "https://www.hpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Hamilton",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "London Public Library",
+    "level": "Municipal",
+    "jurisdiction": "London",
+    "category": "culture",
+    "type": "Public library",
+    "description": "London's public library system: catalogue search, ebooks, branch locations and hours, programs, and community services in London, Ontario.",
+    "url": "https://www.lpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "London",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Toronto Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Toronto's public library system, the largest in Canada: catalogue search, ebooks and digital resources, 100 branch locations and hours, programs, and special collections.",
+    "url": "https://www.torontopubliclibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Toronto",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Mississauga Library",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Mississauga's library system: catalogue search, ebooks, branch locations and hours, programs and events in Mississauga, Ontario.",
+    "url": "https://www.mississaugalibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Mississauga",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Brampton Library",
+    "level": "Municipal",
+    "jurisdiction": "Brampton",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Brampton's library system: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Brampton, Ontario.",
+    "url": "https://www.bramptonlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Brampton",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Newfoundland and Labrador Public Libraries",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "culture",
+    "type": "Public library",
+    "description": "The provincial public library system of Newfoundland and Labrador: catalogue search, ebooks, branch locations and hours, and library services across the province.",
+    "url": "https://nlpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Newfoundland and Labrador",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Yukon Archives",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "heritage",
+    "type": "Archives",
+    "description": "The Yukon Archives in Whitehorse: the territory's documentary heritage, with archival records, photographs, and research services for Yukon history and genealogy.",
+    "url": "https://yukon.ca/en/yukon-archives",
+    "tags": [
+      "archives",
+      "Yukon",
+      "genealogy",
+      "history"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "NWT Archives",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "heritage",
+    "type": "Archives",
+    "description": "The Northwest Territories Archives at the Prince of Wales Northern Heritage Centre: territorial government and private records, photographs, and research services for Northern history.",
+    "url": "https://www.nwtarchives.ca/",
+    "tags": [
+      "archives",
+      "Northwest Territories",
+      "genealogy",
+      "history"
+    ],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Nova Scotia Archives",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "heritage",
+    "type": "Archives",
+    "description": "The Nova Scotia Archives in Halifax: the province's archival records, digitized collections, virtual exhibits, and genealogy and research services.",
+    "url": "https://archives.novascotia.ca/",
+    "tags": [
+      "archives",
+      "Nova Scotia",
+      "genealogy",
+      "history"
+    ],
+    "dateAdded": "2026-10-15"
   }
 ]

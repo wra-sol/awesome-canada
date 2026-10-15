@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2272 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2288 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -50,8 +50,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚡ Energy & Utilities](#energy-and-utilities) — 57
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 54
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 44
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 67
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 70
@@ -3016,6 +3016,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Royal BC Museum — Collections | British Columbia · Agency | Museum | Natural and human history collections and learning portal for BC | https://royalbcmuseum.bc.ca/ |
 | Vancouver Heritage Register — Vancouver Heritage Database | Vancouver · Municipal | Heritage register | Search Vancouver's heritage database — designated A, B, C heritage resources and potential heritage sites | https://vancouver.ca/home-property-development/heritage-register.aspx |
+| Vancouver Public Library | Vancouver · Municipal | Public library | Vancouver's public library system: catalogue search, ebooks and streaming, branch locations and hours, programs and events, and library card services for Canada's third-largest public library system. | https://www.vpl.ca/ |
 
 ### Alberta
 
@@ -3023,12 +3024,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Glenbow Museum — Collections Online | Alberta · Agency | Museum | Western Canadian art, Indigenous collections, and historical photos from Glenbow | https://www.glenbow.org/collections/ |
 | Royal Alberta Museum | Alberta · Provincial | Museum | Western Canada's largest museum — natural and human history of Alberta, with online collections | https://royalalbertamuseum.ca/ |
+| Calgary Public Library | Calgary · Municipal | Public library | Calgary's public library system: catalogue search, digital collections, branch locations including Central Library, programs, and free membership for Calgary residents. | https://calgarylibrary.ca/ |
+| Edmonton Public Library | Edmonton · Municipal | Public library | Edmonton's public library system (EPL): catalogue search, ebooks and digital resources, branch locations and hours, makerspaces, programs and events. | https://www.epl.ca/ |
 
 ### Saskatchewan
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Royal Saskatchewan Museum | Saskatchewan · Provincial | Museum | Saskatchewan's natural history museum — galleries, research, and the T. rex Discovery Centre | https://royalsaskmuseum.ca/ |
+| Saskatoon Public Library | Saskatoon · Municipal | Public library | Saskatoon's public library system: catalogue search, ebooks and digital resources, branch locations and hours, local history collections, programs and events. | https://saskatoonlibrary.ca/ |
+
+### Manitoba
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Winnipeg Public Library | Winnipeg · Municipal | Public library | Winnipeg's public library system: catalogue search, ebooks, branch locations including Millennium Library, programs, and information services for Winnipeg residents. | https://wpl.winnipeg.ca/ |
 
 ### Ontario
 
@@ -3036,10 +3046,16 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Royal Ontario Museum — Collections | Ontario · Agency | Museum | Search the ROM's online collections of natural history, art, and world cultures | https://www.rom.on.ca/ |
 | Teranet — Ontario Land Registry | Ontario · Agency | Land data | Property search and historical title data for Ontario | https://www.teranet.ca/ |
+| Brampton Library | Brampton · Municipal | Public library | Brampton's library system: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Brampton, Ontario. | https://www.bramptonlibrary.ca/ |
+| Hamilton Public Library | Hamilton · Municipal | Public library | Hamilton's public library system: catalogue search, ebooks, branch locations and hours, local history and archives, programs and events. | https://www.hpl.ca/ |
+| London Public Library | London · Municipal | Public library | London's public library system: catalogue search, ebooks, branch locations and hours, programs, and community services in London, Ontario. | https://www.lpl.ca/ |
 | Mississauga Heritage — Heritage Register | Mississauga · Municipal | Heritage register | Mississauga's heritage register of designated built heritage properties and cultural heritage landscapes | https://www.mississauga.ca/heritage/ |
+| Mississauga Library | Mississauga · Municipal | Public library | Mississauga's library system: catalogue search, ebooks, branch locations and hours, programs and events in Mississauga, Ontario. | https://www.mississaugalibrary.ca/ |
+| Ottawa Public Library | Ottawa · Municipal | Public library | Ottawa's bilingual public library system: catalogue search in English and French, ebooks, branch locations and hours, programs, and library services for the capital region. | https://biblioottawalibrary.ca/ |
 | near & here | Toronto · Municipal | Local map & events guide | One free map for Toronto: 1,000+ events at a time, thousands of places with photos and street view, restaurants with City food-safety inspection data, live TTC arrivals, and directions. Built on Toronto and Ontario open data through a fully automated pipeline; Toronto servers; no Google APIs, no tracking or ads; iOS app live. Featured in the City of Toronto open data gallery. | https://nearandhere.ca/ |
 | Toronto Heritage Register — Built Heritage | Toronto · Municipal | Heritage register | Searchable list of Toronto's designated and listed heritage properties — built heritage, cultural landscapes, and archaeological sites | https://www.toronto.ca/city-government/data-research-maps/toronto-parks-trees-green-space/heritage-register/ |
 | Toronto Open Data landing page | Toronto · Municipal | Open data hub | Portal page with datasets, gallery, and city data access | https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-portal/ |
+| Toronto Public Library | Toronto · Municipal | Public library | Toronto's public library system, the largest in Canada: catalogue search, ebooks and digital resources, 100 branch locations and hours, programs, and special collections. | https://www.torontopubliclibrary.ca/ |
 | Toronto Public Library — Digital Archive | Toronto · Municipal | Archive | Toronto's digital heritage archive with photos, maps, and historical records | https://digitalarchive.tpl.ca/ |
 
 ### Quebec
@@ -3056,7 +3072,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | New Brunswick Museum | New Brunswick · Provincial | Museum | New Brunswick's provincial museum — natural science and human history collections and online resources | https://www.nbm-mnb.ca/ |
+| Newfoundland and Labrador Public Libraries | Newfoundland and Labrador · Provincial | Public library | The provincial public library system of Newfoundland and Labrador: catalogue search, ebooks, branch locations and hours, and library services across the province. | https://nlpl.ca/ |
 | The Rooms (Newfoundland and Labrador) | Newfoundland and Labrador · Provincial | Museum | Newfoundland and Labrador's provincial museum, art gallery, and archives — collections and online exhibits | https://www.therooms.ca/ |
+| Halifax Public Libraries | Halifax · Municipal | Public library | Halifax's public library system: catalogue search, ebooks and streaming, branch locations and hours, programs and community services across Halifax Regional Municipality. | https://www.halifaxpubliclibraries.ca/ |
 
 ## 🖼️ Heritage Registers & Public Art
 
@@ -3142,7 +3160,15 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Provincial Archives of New Brunswick | New Brunswick · Provincial | Archives | Searchable genealogical databases, land petitions, and historical images from New Brunswick's archives | https://archives.gnb.ca/ |
 | Heritage NL — Provincial Register of Historic Places Search | Newfoundland and Labrador · Provincial | Lookup tool | Filterable register of 995 designated heritage properties province-wide: Registered Heritage Structures and Districts, municipal designations, fisheries heritage buildings and Century Farms, by type and region. | https://heritagenl.ca/discover/heritage-property-search/ |
+| Nova Scotia Archives | Nova Scotia · Provincial | Archives | The Nova Scotia Archives in Halifax: the province's archival records, digitized collections, virtual exhibits, and genealogy and research services. | https://archives.novascotia.ca/ |
 | Nova Scotia Archives — Vital Statistics Search | Nova Scotia · Provincial | Genealogy database | Free search of historical Nova Scotia births (1864-1876, 1909+), marriages (from 1763 bonds) and deaths, every name linked to the digitized original record. | https://archives.novascotia.ca/vital-statistics/ |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| NWT Archives | Northwest Territories · Provincial | Archives | The Northwest Territories Archives at the Prince of Wales Northern Heritage Centre: territorial government and private records, photographs, and research services for Northern history. | https://www.nwtarchives.ca/ |
+| Yukon Archives | Yukon · Provincial | Archives | The Yukon Archives in Whitehorse: the territory's documentary heritage, with archival records, photographs, and research services for Yukon history and genealogy. | https://yukon.ca/en/yukon-archives |
 
 ## 📋 Lobbyists, Ethics & Disclosure
 
