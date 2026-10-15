@@ -1,5 +1,21 @@
 [
   {
+    "name": "AAFC — Agricultural Weather Information",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Weather hub",
+    "description": "Agriculture and Agri-Food Canada's agricultural weather hub: agroclimate maps, drought and climate tools, and weather information services for producers, including the Canadian Drought Monitor and agroclimate impact reporting.",
+    "url": "https://agriculture.canada.ca/en/agricultural-production/weather",
+    "tags": [
+      "agriculture",
+      "weather",
+      "drought",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
     "name": "AAFC — Livestock Traceability",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -16,6 +32,22 @@
       "movement reporting"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "AAFC — Tools to Manage Farm Risk and Finance",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Program hub",
+    "description": "Agriculture and Agri-Food Canada's hub for farm financing and risk tools: business risk management programs, farm debt mediation, cyber security for farm businesses, and mental health resources for producers.",
+    "url": "https://agriculture.canada.ca/en/programs/tools-manage-farm-risk-and-finance",
+    "tags": [
+      "agriculture",
+      "finance",
+      "risk management",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "Agri-Food Data Canada",
@@ -46,6 +78,38 @@
       "research",
       "food"
     ]
+  },
+  {
+    "name": "AgriInvest",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Business risk management program",
+    "description": "A self-managed producer-government savings account from Agriculture and Agri-Food Canada that helps farmers manage small income declines and make investments to manage risk and improve market income.",
+    "url": "https://agriculture.canada.ca/en/programs/agriinvest",
+    "tags": [
+      "agriculture",
+      "savings",
+      "risk management",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "AgriStability",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Business risk management program",
+    "description": "Agriculture and Agri-Food Canada's margin-based program that supports producers when they experience a large decline in farming income, covering part of the loss beyond a 30 percent drop from their reference margin.",
+    "url": "https://agriculture.canada.ca/en/programs/agristability",
+    "tags": [
+      "agriculture",
+      "farm income",
+      "risk management",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "Canada's Plant Hardiness Site",
@@ -119,6 +183,22 @@
     ]
   },
   {
+    "name": "Census of Agriculture — Statistics Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Census portal",
+    "description": "Statistics Canada's Census of Agriculture portal: farm and farm operator data, crop and livestock statistics, and the national statistical portrait of Canadian agriculture collected every five years.",
+    "url": "https://www.statcan.gc.ca/en/census-agriculture",
+    "tags": [
+      "agriculture",
+      "census",
+      "statistics",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
     "name": "Foodland Ontario — Seasonal Availability",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -130,6 +210,22 @@
       "food",
       "local"
     ]
+  },
+  {
+    "name": "Health Canada — Nutrient Data & Canadian Nutrient File",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "agriculture",
+    "type": "Food composition database",
+    "description": "Health Canada's nutrient data hub, home of the Canadian Nutrient File: a bilingual food composition database reporting amounts of up to 173 nutrients in thousands of foods commonly consumed in Canada.",
+    "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data.html",
+    "tags": [
+      "nutrition",
+      "food",
+      "database",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "Health Canada — Pesticide Maximum Residue Limits Search",
@@ -309,6 +405,21 @@
     "dateAdded": "2026-08-24"
   },
   {
+    "name": "Alberta — Ministry of Agriculture and Irrigation",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "agriculture",
+    "type": "Department page",
+    "description": "Alberta's agriculture ministry page: provincial programs, services and information for the agriculture and irrigation sectors, including livestock, crops and agri-food industry support.",
+    "url": "https://www.alberta.ca/agriculture",
+    "tags": [
+      "agriculture",
+      "irrigation",
+      "Alberta"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
     "name": "Alberta Agriculture Statistics Publications",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -347,6 +458,37 @@
       "kmz"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "BC — Agriculture & Seafood Hub",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "agriculture",
+    "type": "Department hub",
+    "description": "British Columbia's agriculture and seafood hub: programs and information for farmers, fishers and food producers, covering animal and plant health, food safety, land use and sector development.",
+    "url": "https://www2.gov.bc.ca/gov/content/industry/agriculture-seafood",
+    "tags": [
+      "agriculture",
+      "seafood",
+      "British Columbia",
+      "food"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Manitoba Agriculture",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "agriculture",
+    "type": "Department hub",
+    "description": "Manitoba's agriculture department hub: programs, services and production information for farmers and agri-food businesses, from crops and livestock to food development and rural services.",
+    "url": "https://www.gov.mb.ca/agriculture/",
+    "tags": [
+      "agriculture",
+      "farming",
+      "Manitoba"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "Manitoba Agriculture — Crop Markets and Statistics",
@@ -400,6 +542,37 @@
     "dateAdded": "2026-08-24"
   },
   {
+    "name": "New Brunswick — Department of Agriculture, Aquaculture and Fisheries",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "agriculture",
+    "type": "Department page",
+    "description": "New Brunswick's Department of Agriculture, Aquaculture and Fisheries: provincial programs and services for farming, aquaculture and fisheries, including industry development and open data.",
+    "url": "https://www2.gnb.ca/content/gnb/en/departments/10.html",
+    "tags": [
+      "agriculture",
+      "aquaculture",
+      "fisheries",
+      "New Brunswick"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Newfoundland and Labrador — Agriculture Programs and Funding",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "agriculture",
+    "type": "Programs hub",
+    "description": "Newfoundland and Labrador's agriculture programs and funding page: provincial and cost-shared supports for farmers, including the Community Garden Support Program, vegetable transplant program and farm equipment leasing.",
+    "url": "https://www.gov.nl.ca/fal/programs-and-funding/programs/",
+    "tags": [
+      "agriculture",
+      "funding",
+      "Newfoundland and Labrador"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
     "name": "Department of Fisheries and Aquaculture — Aquaculture Site Licences",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -416,6 +589,21 @@
       "registry"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Nova Scotia — Department of Agriculture",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "agriculture",
+    "type": "Department hub",
+    "description": "Nova Scotia's Department of Agriculture hub: department information, programs and services supporting farming and agri-food across the province.",
+    "url": "https://novascotia.ca/agri/",
+    "tags": [
+      "agriculture",
+      "farming",
+      "Nova Scotia"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "Ministry of Agriculture, Food and Agribusiness — AgMaps",
@@ -465,6 +653,21 @@
       "irac",
       "parcels"
     ]
+  },
+  {
+    "name": "PEI — Agriculture Topic Hub",
+    "level": "Provincial",
+    "jurisdiction": "PEI",
+    "category": "agriculture",
+    "type": "Topic hub",
+    "description": "Prince Edward Island's agriculture topic hub: provincial farming programs, services and information from the PEI Department of Agriculture for producers and agri-food businesses.",
+    "url": "https://www.princeedwardisland.ca/en/topic/agriculture",
+    "tags": [
+      "agriculture",
+      "farming",
+      "PEI"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "CPTAQ — Rechercher un dossier",
@@ -543,6 +746,21 @@
       "harvest",
       "saskatchewan"
     ]
+  },
+  {
+    "name": "Yukon — Agriculture Branch",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "agriculture",
+    "type": "Branch page",
+    "description": "The Government of Yukon's Agriculture Branch page: territorial support for farming north of 60, including agriculture land, local food production programs and producer resources in Whitehorse.",
+    "url": "https://yukon.ca/en/places/agriculture-branch",
+    "tags": [
+      "agriculture",
+      "farming",
+      "Yukon"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "CADORS — Civil Aviation Occurrence Reports",
@@ -34762,6 +34980,38 @@
     ]
   },
   {
+    "name": "Canada in a Changing Climate — National Assessment",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Climate assessment portal",
+    "description": "Natural Resources Canada's national climate assessment portal: the Canada in a Changing Climate report series on how Canada's climate is changing, the impacts, and adaptation actions, with regional and sector chapters.",
+    "url": "https://changingclimate.ca/",
+    "tags": [
+      "climate change",
+      "adaptation",
+      "assessment",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Canadian Centre for Climate Services",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Climate services hub",
+    "description": "The Canadian Centre for Climate Services' main hub: ECCC's climate services centre helping Canadians understand and become resilient to climate change, with climate information, training, support and resources for local governments.",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services.html",
+    "tags": [
+      "climate",
+      "adaptation",
+      "services",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
     "name": "Canadian Centre for Climate Services — Advanced Data Tools",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -34777,6 +35027,22 @@
       "eccc"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Canadian Climate Normals",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Climate normals search",
+    "description": "Environment and Climate Change Canada's climate normals search: 30-year average temperature, precipitation and other climate normals for stations across Canada, the standard reference for a location's typical climate.",
+    "url": "https://climate.weather.gc.ca/climate_normals/index_e.html",
+    "tags": [
+      "climate",
+      "normals",
+      "statistics",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "Canadian Hurricane Centre",
@@ -34877,6 +35143,22 @@
     ]
   },
   {
+    "name": "MSC Open Data — ECCC Weather & Climate Data Portal",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Open data portal",
+    "description": "The Meteorological Service of Canada's open data documentation portal: how to access ECCC weather, climate and water data through GeoMet APIs, the MSC Datamart and AniMet, with datasets, licences and user guides.",
+    "url": "https://eccc-msc.github.io/open-data/",
+    "tags": [
+      "weather",
+      "open data",
+      "API",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
     "name": "Satellite Images and Animation — Environment Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -34924,6 +35206,39 @@
       "geomagnetic",
       "forecast"
     ]
+  },
+  {
+    "name": "WeatherCAN — ECCC Weather App",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Weather app",
+    "description": "Environment and Climate Change Canada's official WeatherCAN mobile app page: real-time forecasts, weather alerts and push notifications for watches and warnings on iOS and Android, with terms and privacy details.",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/weathercan.html",
+    "tags": [
+      "weather",
+      "forecast",
+      "alerts",
+      "app",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Climate Atlas of Canada",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "weather",
+    "type": "Interactive climate map",
+    "description": "The Climate Atlas of Canada: an interactive mapping and data portal from the Prairie Climate Centre combining climate science, mapping and storytelling to show how climate change affects places across Canada.",
+    "url": "https://climateatlas.ca/",
+    "tags": [
+      "climate change",
+      "maps",
+      "data",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "ClimateWest — Prairie Climate Data Hub",
@@ -34979,6 +35294,21 @@
     "dateAdded": "2026-10-10"
   },
   {
+    "name": "Upper Thames River Conservation Authority — Flood Forecasting and Warning",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "weather",
+    "type": "Flood monitoring",
+    "description": "The Upper Thames River Conservation Authority's flood forecasting and warning program: current watershed conditions, flood messages and safety information for the Thames River watershed around London, Ontario.",
+    "url": "https://thamesriver.on.ca/flood-forecasting-warning/",
+    "tags": [
+      "flood",
+      "watershed",
+      "Ontario"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
     "name": "Ouranos — Climate Portraits (Portraits climatiques)",
     "level": "Agency",
     "jurisdiction": "Quebec",
@@ -34995,6 +35325,21 @@
       "download"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "Alberta Climate Information Service (ACIS) — Data Products & Tools",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "weather",
+    "type": "Climate data hub",
+    "description": "The Alberta Climate Information Service hub: ACIS data products and tools built on Alberta's weather station network, including current and historical weather data, climate maps and agricultural weather tools.",
+    "url": "https://acis.alberta.ca/",
+    "tags": [
+      "weather",
+      "climate data",
+      "Alberta"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "Alberta Climate Information Service (ACIS) — Weather Station Data Viewer",
@@ -35028,6 +35373,36 @@
       "flood",
       "hydrology"
     ]
+  },
+  {
+    "name": "BC — Climate Change Hub",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "weather",
+    "type": "Climate hub",
+    "description": "British Columbia's climate change hub: provincial action on reducing emissions and preparing for climate impacts, including CleanBC, adaptation resources and climate data for residents and communities.",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/climate-change",
+    "tags": [
+      "climate change",
+      "adaptation",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "BC — Snow Conditions and Water Supply Bulletin",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "weather",
+    "type": "Snow survey bulletin",
+    "description": "The BC River Forecast Centre's snow bulletin: province-wide snow survey measurements, snow basin indices and water supply outlooks used to assess flood and drought risk across British Columbia.",
+    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre/snow-survey-water-supply-bulletin",
+    "tags": [
+      "snow",
+      "water supply",
+      "British Columbia"
+    ],
+    "dateAdded": "2026-10-14"
   },
   {
     "name": "BC Meteorological Station Data Portal (PCIC)",
@@ -35190,6 +35565,21 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Nunavut Climate Change Centre",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "weather",
+    "type": "Climate resource centre",
+    "description": "The Government of Nunavut Climate Change Secretariat's web resource centre: climate change information for Nunavummiut, including adaptation resources, permafrost information and territorial climate programs.",
+    "url": "https://www.climatechangenunavut.ca/",
+    "tags": [
+      "climate change",
+      "adaptation",
+      "Nunavut"
+    ],
+    "dateAdded": "2026-10-14"
+  },
+  {
     "name": "Ontario Flood Forecasting and Warning",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -35289,334 +35679,6 @@
     "dateAdded": "2026-08-25"
   },
   {
-    "name": "AgriStability",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Business risk management program",
-    "description": "Agriculture and Agri-Food Canada's margin-based program that supports producers when they experience a large decline in farming income, covering part of the loss beyond a 30 percent drop from their reference margin.",
-    "url": "https://agriculture.canada.ca/en/programs/agristability",
-    "tags": [
-      "agriculture",
-      "farm income",
-      "risk management",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "AgriInvest",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Business risk management program",
-    "description": "A self-managed producer-government savings account from Agriculture and Agri-Food Canada that helps farmers manage small income declines and make investments to manage risk and improve market income.",
-    "url": "https://agriculture.canada.ca/en/programs/agriinvest",
-    "tags": [
-      "agriculture",
-      "savings",
-      "risk management",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "AAFC — Tools to Manage Farm Risk and Finance",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Program hub",
-    "description": "Agriculture and Agri-Food Canada's hub for farm financing and risk tools: business risk management programs, farm debt mediation, cyber security for farm businesses, and mental health resources for producers.",
-    "url": "https://agriculture.canada.ca/en/programs/tools-manage-farm-risk-and-finance",
-    "tags": [
-      "agriculture",
-      "finance",
-      "risk management",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Health Canada — Nutrient Data & Canadian Nutrient File",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Food composition database",
-    "description": "Health Canada's nutrient data hub, home of the Canadian Nutrient File: a bilingual food composition database reporting amounts of up to 173 nutrients in thousands of foods commonly consumed in Canada.",
-    "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data.html",
-    "tags": [
-      "nutrition",
-      "food",
-      "database",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Census of Agriculture — Statistics Canada",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Census portal",
-    "description": "Statistics Canada's Census of Agriculture portal: farm and farm operator data, crop and livestock statistics, and the national statistical portrait of Canadian agriculture collected every five years.",
-    "url": "https://www.statcan.gc.ca/en/census-agriculture",
-    "tags": [
-      "agriculture",
-      "census",
-      "statistics",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "BC — Agriculture & Seafood Hub",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "agriculture",
-    "type": "Department hub",
-    "description": "British Columbia's agriculture and seafood hub: programs and information for farmers, fishers and food producers, covering animal and plant health, food safety, land use and sector development.",
-    "url": "https://www2.gov.bc.ca/gov/content/industry/agriculture-seafood",
-    "tags": [
-      "agriculture",
-      "seafood",
-      "British Columbia",
-      "food"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Alberta — Ministry of Agriculture and Irrigation",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "agriculture",
-    "type": "Department page",
-    "description": "Alberta's agriculture ministry page: provincial programs, services and information for the agriculture and irrigation sectors, including livestock, crops and agri-food industry support.",
-    "url": "https://www.alberta.ca/agriculture",
-    "tags": [
-      "agriculture",
-      "irrigation",
-      "Alberta"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Manitoba Agriculture",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "agriculture",
-    "type": "Department hub",
-    "description": "Manitoba's agriculture department hub: programs, services and production information for farmers and agri-food businesses, from crops and livestock to food development and rural services.",
-    "url": "https://www.gov.mb.ca/agriculture/",
-    "tags": [
-      "agriculture",
-      "farming",
-      "Manitoba"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "New Brunswick — Department of Agriculture, Aquaculture and Fisheries",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "agriculture",
-    "type": "Department page",
-    "description": "New Brunswick's Department of Agriculture, Aquaculture and Fisheries: provincial programs and services for farming, aquaculture and fisheries, including industry development and open data.",
-    "url": "https://www2.gnb.ca/content/gnb/en/departments/10.html",
-    "tags": [
-      "agriculture",
-      "aquaculture",
-      "fisheries",
-      "New Brunswick"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Nova Scotia — Department of Agriculture",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "agriculture",
-    "type": "Department hub",
-    "description": "Nova Scotia's Department of Agriculture hub: department information, programs and services supporting farming and agri-food across the province.",
-    "url": "https://novascotia.ca/agri/",
-    "tags": [
-      "agriculture",
-      "farming",
-      "Nova Scotia"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "PEI — Agriculture Topic Hub",
-    "level": "Provincial",
-    "jurisdiction": "PEI",
-    "category": "agriculture",
-    "type": "Topic hub",
-    "description": "Prince Edward Island's agriculture topic hub: provincial farming programs, services and information from the PEI Department of Agriculture for producers and agri-food businesses.",
-    "url": "https://www.princeedwardisland.ca/en/topic/agriculture",
-    "tags": [
-      "agriculture",
-      "farming",
-      "PEI"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "AAFC — Agricultural Weather Information",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "agriculture",
-    "type": "Weather hub",
-    "description": "Agriculture and Agri-Food Canada's agricultural weather hub: agroclimate maps, drought and climate tools, and weather information services for producers, including the Canadian Drought Monitor and agroclimate impact reporting.",
-    "url": "https://agriculture.canada.ca/en/agricultural-production/weather",
-    "tags": [
-      "agriculture",
-      "weather",
-      "drought",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Newfoundland and Labrador — Agriculture Programs and Funding",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "agriculture",
-    "type": "Programs hub",
-    "description": "Newfoundland and Labrador's agriculture programs and funding page: provincial and cost-shared supports for farmers, including the Community Garden Support Program, vegetable transplant program and farm equipment leasing.",
-    "url": "https://www.gov.nl.ca/fal/programs-and-funding/programs/",
-    "tags": [
-      "agriculture",
-      "funding",
-      "Newfoundland and Labrador"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Yukon — Agriculture Branch",
-    "level": "Provincial",
-    "jurisdiction": "Yukon",
-    "category": "agriculture",
-    "type": "Branch page",
-    "description": "The Government of Yukon's Agriculture Branch page: territorial support for farming north of 60, including agriculture land, local food production programs and producer resources in Whitehorse.",
-    "url": "https://yukon.ca/en/places/agriculture-branch",
-    "tags": [
-      "agriculture",
-      "farming",
-      "Yukon"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "WeatherCAN — ECCC Weather App",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "weather",
-    "type": "Weather app",
-    "description": "Environment and Climate Change Canada's official WeatherCAN mobile app page: real-time forecasts, weather alerts and push notifications for watches and warnings on iOS and Android, with terms and privacy details.",
-    "url": "https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/weathercan.html",
-    "tags": [
-      "weather",
-      "forecast",
-      "alerts",
-      "app",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Canadian Climate Normals",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "weather",
-    "type": "Climate normals search",
-    "description": "Environment and Climate Change Canada's climate normals search: 30-year average temperature, precipitation and other climate normals for stations across Canada, the standard reference for a location's typical climate.",
-    "url": "https://climate.weather.gc.ca/climate_normals/index_e.html",
-    "tags": [
-      "climate",
-      "normals",
-      "statistics",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Canada in a Changing Climate — National Assessment",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "weather",
-    "type": "Climate assessment portal",
-    "description": "Natural Resources Canada's national climate assessment portal: the Canada in a Changing Climate report series on how Canada's climate is changing, the impacts, and adaptation actions, with regional and sector chapters.",
-    "url": "https://changingclimate.ca/",
-    "tags": [
-      "climate change",
-      "adaptation",
-      "assessment",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Climate Atlas of Canada",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "weather",
-    "type": "Interactive climate map",
-    "description": "The Climate Atlas of Canada: an interactive mapping and data portal from the Prairie Climate Centre combining climate science, mapping and storytelling to show how climate change affects places across Canada.",
-    "url": "https://climateatlas.ca/",
-    "tags": [
-      "climate change",
-      "maps",
-      "data",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Nunavut Climate Change Centre",
-    "level": "Provincial",
-    "jurisdiction": "Nunavut",
-    "category": "weather",
-    "type": "Climate resource centre",
-    "description": "The Government of Nunavut Climate Change Secretariat's web resource centre: climate change information for Nunavummiut, including adaptation resources, permafrost information and territorial climate programs.",
-    "url": "https://www.climatechangenunavut.ca/",
-    "tags": [
-      "climate change",
-      "adaptation",
-      "Nunavut"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "BC — Climate Change Hub",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "weather",
-    "type": "Climate hub",
-    "description": "British Columbia's climate change hub: provincial action on reducing emissions and preparing for climate impacts, including CleanBC, adaptation resources and climate data for residents and communities.",
-    "url": "https://www2.gov.bc.ca/gov/content/environment/climate-change",
-    "tags": [
-      "climate change",
-      "adaptation",
-      "British Columbia"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Alberta Climate Information Service (ACIS) — Data Products & Tools",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "weather",
-    "type": "Climate data hub",
-    "description": "The Alberta Climate Information Service hub: ACIS data products and tools built on Alberta's weather station network, including current and historical weather data, climate maps and agricultural weather tools.",
-    "url": "https://acis.alberta.ca/",
-    "tags": [
-      "weather",
-      "climate data",
-      "Alberta"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
     "name": "Yukon — Snow Surveys and Water Supply Forecasts",
     "level": "Provincial",
     "jurisdiction": "Yukon",
@@ -35629,68 +35691,6 @@
       "water supply",
       "forecast",
       "Yukon"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "BC — Snow Conditions and Water Supply Bulletin",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "weather",
-    "type": "Snow survey bulletin",
-    "description": "The BC River Forecast Centre's snow bulletin: province-wide snow survey measurements, snow basin indices and water supply outlooks used to assess flood and drought risk across British Columbia.",
-    "url": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre/snow-survey-water-supply-bulletin",
-    "tags": [
-      "snow",
-      "water supply",
-      "British Columbia"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "MSC Open Data — ECCC Weather & Climate Data Portal",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "weather",
-    "type": "Open data portal",
-    "description": "The Meteorological Service of Canada's open data documentation portal: how to access ECCC weather, climate and water data through GeoMet APIs, the MSC Datamart and AniMet, with datasets, licences and user guides.",
-    "url": "https://eccc-msc.github.io/open-data/",
-    "tags": [
-      "weather",
-      "open data",
-      "API",
-      "Canada"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Upper Thames River Conservation Authority — Flood Forecasting and Warning",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "weather",
-    "type": "Flood monitoring",
-    "description": "The Upper Thames River Conservation Authority's flood forecasting and warning program: current watershed conditions, flood messages and safety information for the Thames River watershed around London, Ontario.",
-    "url": "https://thamesriver.on.ca/flood-forecasting-warning/",
-    "tags": [
-      "flood",
-      "watershed",
-      "Ontario"
-    ],
-    "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Canadian Centre for Climate Services",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "weather",
-    "type": "Climate services hub",
-    "description": "The Canadian Centre for Climate Services' main hub: ECCC's climate services centre helping Canadians understand and become resilient to climate change, with climate information, training, support and resources for local governments.",
-    "url": "https://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services.html",
-    "tags": [
-      "climate",
-      "adaptation",
-      "services",
-      "Canada"
     ],
     "dateAdded": "2026-10-14"
   }
