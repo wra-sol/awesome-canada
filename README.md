@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2315 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2380 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -50,7 +50,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚡ Energy & Utilities](#energy-and-utilities) — 57
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 94
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 159
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
@@ -3015,17 +3015,28 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Royal BC Museum — Collections | British Columbia · Agency | Museum | Natural and human history collections and learning portal for BC | https://royalbcmuseum.bc.ca/ |
+| Cariboo Regional District Library | British Columbia · Regional | Public library | The Cariboo Regional District's library system in British Columbia (Cariboo Library Network): a shared catalogue, ebooks, and branch locations, hours and programs across the Cariboo. | https://www.cln.ca/ |
 | Fraser Valley Regional Library | British Columbia · Regional | Public library | The Fraser Valley regional library system: catalogue search, ebooks, branch locations and hours for communities across BC's Fraser Valley. | https://www.fvrl.bc.ca/ |
 | Okanagan Regional Library | British Columbia · Regional | Public library | The Okanagan regional library system: catalogue search, ebooks, branch locations and hours for communities across BC's Okanagan and Similkameen. | https://www.orl.bc.ca/ |
 | Vancouver Island Regional Library | British Columbia · Regional | Public library | The regional library system for Vancouver Island, the Gulf Islands and parts of the BC coast: catalogue search, ebooks, branch locations and hours for 39 branches. | https://virl.bc.ca/ |
+| Thompson-Nicola Regional Library | Kamloops · Regional | Public library | The Thompson-Nicola regional library system in British Columbia, based in Kamloops: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the region. | https://www.tnrl.ca/ |
 | Greater Victoria Public Library | Victoria · Regional | Public library | The Greater Victoria public library system: catalogue search, ebooks, branch locations and hours, programs and events serving Greater Victoria municipalities. | https://www.gvpl.ca/ |
+| Squamish Public Library | British Columbia · Municipal | Public library | Squamish's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events. | https://squamishlibrary.ca/ |
+| Terrace Public Library | British Columbia · Municipal | Public library | Terrace's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.terracelibrary.ca/ |
 | Burnaby Public Library | Burnaby · Municipal | Public library | Burnaby's public library system: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Burnaby, British Columbia. | https://bpl.bc.ca/ |
 | Coquitlam Public Library | Coquitlam · Municipal | Public library | Coquitlam's public library: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Coquitlam, British Columbia. | https://www.coqlibrary.ca/ |
+| North Vancouver City Library | Metro Vancouver · Municipal | Public library | The City of North Vancouver's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.nvcl.ca/ |
 | North Vancouver District Public Library | Metro Vancouver · Municipal | Public library | The North Vancouver District public library system: catalogue search, ebooks, branch locations and hours, programs and events in North Vancouver, British Columbia. | https://www.nvdpl.ca/ |
+| Port Moody Public Library | Metro Vancouver · Municipal | Public library | Port Moody's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.portmoodylibrary.ca/ |
+| Richmond Public Library | Metro Vancouver · Municipal | Public library | Richmond's public library system in British Columbia: catalogue search, ebooks and streaming, branch locations and hours for the Brighouse, Ironwood, Cambie, Steveston and Hamilton branches, and programs for all ages. | https://www.yourlibrary.ca/ |
 | West Vancouver Memorial Library | Metro Vancouver · Municipal | Public library | West Vancouver's public library: catalogue search, ebooks and streaming, hours, programs and events in West Vancouver, British Columbia. | https://westvanlibrary.ca/ |
+| New Westminster Public Library | New Westminster · Municipal | Public library | New Westminster's public library in British Columbia: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.nwpl.ca/ |
+| Penticton Public Library | Penticton · Municipal | Public library | Penticton's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.pentictonlibrary.ca/ |
+| Prince George Public Library | Prince George · Municipal | Public library | Prince George's public library in British Columbia: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.pgpl.ca/ |
 | Surrey Libraries | Surrey · Municipal | Public library | Surrey's public library system: catalogue search, ebooks, branch locations and hours, programs and events in Surrey, British Columbia. | https://www.surreylibraries.ca/ |
 | Vancouver Heritage Register — Vancouver Heritage Database | Vancouver · Municipal | Heritage register | Search Vancouver's heritage database — designated A, B, C heritage resources and potential heritage sites | https://vancouver.ca/home-property-development/heritage-register.aspx |
 | Vancouver Public Library | Vancouver · Municipal | Public library | Vancouver's public library system: catalogue search, ebooks and streaming, branch locations and hours, programs and events, and library card services for Canada's third-largest public library system. | https://www.vpl.ca/ |
+| Whistler Public Library | Whistler · Municipal | Public library | Whistler's public library in British Columbia: catalogue search and library accounts, ebooks, hours and location, and programs and events. | https://www.whistlerlibrary.ca/ |
 
 ### Alberta
 
@@ -3033,15 +3044,30 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Glenbow Museum — Collections Online | Alberta · Agency | Museum | Western Canadian art, Indigenous collections, and historical photos from Glenbow | https://www.glenbow.org/collections/ |
 | Royal Alberta Museum | Alberta · Provincial | Museum | Western Canada's largest museum — natural and human history of Alberta, with online collections | https://royalalbertamuseum.ca/ |
+| Chinook Arch Regional Library System | Alberta · Regional | Library system | A regional library system supporting public libraries in southwestern Alberta: the shared catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations. | https://chinookarch.ca/ |
+| Marigold Library System | Alberta · Regional | Library system | A regional library system supporting public libraries in south-central Alberta: the shared TRAC catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations. | https://marigold.ab.ca/ |
+| Northern Lights Library System | Alberta · Regional | Library system | A regional library system supporting public libraries in northeastern Alberta: the shared catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations. | https://www.nlls.ab.ca/ |
+| Parkland Regional Library System | Alberta · Regional | Library system | A regional library system supporting public libraries in central Alberta: the shared catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations. | https://prl.ab.ca/ |
+| Peace Library System | Alberta · Regional | Library system | A regional library system supporting public libraries in northwestern Alberta: the shared TRAC catalogue, ebook collections, and member library locations and services. | https://peacelibrarysystem.ab.ca/ |
+| Shortgrass Library System | Alberta · Regional | Library system | A regional library system supporting public libraries in southeastern Alberta, based in Medicine Hat: the shared catalogue, ebook collections, and member library locations and services. | https://shortgrass.ca/ |
+| Wood Buffalo Regional Library | Alberta · Regional | Public library | The Wood Buffalo regional library in Alberta, serving Fort McMurray and rural communities: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.wbrl.ca/ |
+| Yellowhead Regional Library | Alberta · Regional | Library system | A regional library system supporting public libraries west of Edmonton in Alberta: the shared TRAC catalogue, ebook collections, and member library locations and services. | https://yrl.ab.ca/ |
+| Airdrie Public Library | Airdrie · Municipal | Public library | Airdrie's public library in Alberta: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.airdriepubliclibrary.ca/ |
+| Spruce Grove Public Library | Alberta · Municipal | Public library | Spruce Grove's public library in Alberta: catalogue search, ebooks and digital resources, hours, and programs and events. | https://sgpl.ca/ |
 | Calgary Public Library | Calgary · Municipal | Public library | Calgary's public library system: catalogue search, digital collections, branch locations including Central Library, programs, and free membership for Calgary residents. | https://calgarylibrary.ca/ |
 | Edmonton Public Library | Edmonton · Municipal | Public library | Edmonton's public library system (EPL): catalogue search, ebooks and digital resources, branch locations and hours, makerspaces, programs and events. | https://www.epl.ca/ |
+| Grande Prairie Public Library | Grande Prairie · Municipal | Public library | Grande Prairie's public library in Alberta: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.gppl.ca/ |
+| Lethbridge Public Library | Lethbridge · Municipal | Public library | Lethbridge's public library system in Alberta: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.lethlib.ca/ |
 | Red Deer Public Library | Red Deer · Municipal | Public library | Red Deer's public library system: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Red Deer, Alberta. | https://www.rdpl.org/ |
+| St. Albert Public Library | St. Albert · Municipal | Public library | St. Albert's public library in Alberta: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.sapl.ca/ |
+| Strathcona County Library | Strathcona County · Municipal | Public library | Strathcona County's library in Alberta (Sherwood Park): catalogue search, ebooks and digital resources, bookmobile stops, hours, and programs and events. | https://sclibrary.ca/ |
 
 ### Saskatchewan
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Royal Saskatchewan Museum | Saskatchewan · Provincial | Museum | Saskatchewan's natural history museum — galleries, research, and the T. rex Discovery Centre | https://royalsaskmuseum.ca/ |
+| Moose Jaw Public Library | Moose Jaw · Municipal | Public library | Moose Jaw's public library in Saskatchewan: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.mjlibrary.ca/ |
 | Regina Public Library | Regina · Municipal | Public library | Regina's public library system: catalogue search, ebooks, branch locations, the Dunlop Art Gallery and Film Theatre, programs and community services. | https://www.reginalibrary.ca/ |
 | Saskatoon Public Library | Saskatoon · Municipal | Public library | Saskatoon's public library system: catalogue search, ebooks and digital resources, branch locations and hours, local history collections, programs and events. | https://saskatoonlibrary.ca/ |
 
@@ -3049,6 +3075,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Western Manitoba Regional Library | Brandon · Regional | Public library | Western Manitoba's regional library system, based in Brandon: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the region. | https://wmrl.ca/ |
+| Parkland Regional Library | Dauphin · Regional | Public library | Manitoba's Parkland regional library system, based in Dauphin: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs. | https://parklandlib.mb.ca/ |
 | Winnipeg Public Library | Winnipeg · Municipal | Public library | Winnipeg's public library system: catalogue search, ebooks, branch locations including Millennium Library, programs, and information services for Winnipeg residents. | https://wpl.winnipeg.ca/ |
 
 ### Ontario
@@ -3058,21 +3086,46 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | OurDigitalWorld — VITA Digital Toolkit | Ontario · Agency | Digital collection | OurDigitalWorld's VITA toolkit and Ontario digital heritage portal: searchable digitized newspapers, photos and local history collections from Ontario libraries, archives and museums. | https://ourdigitalworld.org/ |
 | Royal Ontario Museum — Collections | Ontario · Agency | Museum | Search the ROM's online collections of natural history, art, and world cultures | https://www.rom.on.ca/ |
 | Teranet — Ontario Land Registry | Ontario · Agency | Land data | Property search and historical title data for Ontario | https://www.teranet.ca/ |
+| SDG Library | Cornwall · Regional | Public library | The Stormont, Dundas and Glengarry county library system in Ontario: a shared catalogue for its branch libraries, ebooks and digital resources, and branch locations, hours and programs. | https://sdglibrary.ca/ |
+| Huron County Library | Huron County · Regional | Public library | Huron County's library system in Ontario: a shared catalogue for 12 branch libraries, ebooks and digital resources, and branch locations, hours and programs. | https://www.huroncountylibrary.ca/ |
 | Kingston Frontenac Public Library | Kingston · Regional | Public library | The Kingston Frontenac public library system: catalogue search, ebooks, branch locations and hours, and programs serving Kingston and Frontenac County, Ontario. | https://www.kfpl.ca/ |
+| Prince Edward County Public Library | Ontario · Regional | Public library | Prince Edward County's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.peclibrary.org/ |
+| Lambton County Library | Sarnia · Regional | Public library | Lambton County's library system in Ontario: a shared catalogue for 25 branch libraries across the county, ebooks and digital resources, and branch locations, hours and programs. | https://www.lclibrary.ca/ |
+| Oxford County Library | Woodstock · Regional | Public library | Oxford County's library system in Ontario: a shared catalogue for 14 branch libraries, ebooks and digital resources, and branch locations, hours and programs. | https://www.ocl.net/ |
+| Ajax Public Library | Ajax · Municipal | Public library | Ajax's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.ajaxlibrary.ca/ |
+| Barrie Public Library | Barrie · Municipal | Public library | Barrie's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.barrielibrary.ca/ |
+| Belleville Public Library | Belleville · Municipal | Public library | Belleville's public library and John M. Parrott Art Gallery in Ontario: catalogue search, library card accounts, digital resources, events, and gallery exhibitions. | https://www.bellevillelibrary.ca/ |
 | Brampton Library | Brampton · Municipal | Public library | Brampton's library system: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Brampton, Ontario. | https://www.bramptonlibrary.ca/ |
+| Brantford Public Library | Brantford · Municipal | Public library | Brantford's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://brantfordlibrary.ca/ |
 | Burlington Public Library | Burlington · Municipal | Public library | Burlington's public library system: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Burlington, Ontario. | https://www.bpl.on.ca/ |
+| Cambridge Public Library | Cambridge · Municipal | Public library | Cambridge's public library system in Ontario (formerly Idea Exchange): catalogue search, ebooks, library and gallery locations and hours, membership, and programs and exhibitions. | https://cambridgepl.ca/ |
+| Cornwall Public Library | Cornwall · Municipal | Public library | Cornwall's public library in Ontario: catalogue search, ebooks and digital resources, hours, and bilingual programs and events. | https://library.cornwall.on.ca/ |
 | Greater Sudbury Public Library | Greater Sudbury · Municipal | Public library | Greater Sudbury's bilingual public library system: catalogue search, ebooks, branch locations and hours, programs and events in Greater Sudbury, Ontario. | https://www.sudburylibraries.ca/ |
 | Guelph Public Library | Guelph · Municipal | Public library | Guelph's public library system: catalogue search, ebooks, branch locations and hours, programs and events in Guelph, Ontario. | https://www.guelphpl.ca/ |
+| Halton Hills Public Library | Halton · Municipal | Public library | Halton Hills' public library system in Ontario (Georgetown and Acton): catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.hhpl.ca/ |
 | Hamilton Public Library | Hamilton · Municipal | Public library | Hamilton's public library system: catalogue search, ebooks, branch locations and hours, local history and archives, programs and events. | https://www.hpl.ca/ |
 | Kitchener Public Library | Kitchener · Municipal | Public library | Kitchener's public library system: catalogue search, ebooks and streaming, branch locations and hours, programs and events in Kitchener, Ontario. | https://www.kpl.org/ |
 | London Public Library | London · Municipal | Public library | London's public library system: catalogue search, ebooks, branch locations and hours, programs, and community services in London, Ontario. | https://www.lpl.ca/ |
 | Markham Public Library | Markham · Municipal | Public library | Markham's public library system: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Markham, Ontario. | https://markhampubliclibrary.ca/ |
+| Milton Public Library | Milton · Municipal | Public library | Milton's public library system in Ontario: catalogue search, ebooks and online resources, branch locations and hours, and programs and events. | https://beinspired.ca/ |
 | Mississauga Heritage — Heritage Register | Mississauga · Municipal | Heritage register | Mississauga's heritage register of designated built heritage properties and cultural heritage landscapes | https://www.mississauga.ca/heritage/ |
 | Mississauga Library | Mississauga · Municipal | Public library | Mississauga's library system: catalogue search, ebooks, branch locations and hours, programs and events in Mississauga, Ontario. | https://www.mississaugalibrary.ca/ |
+| Newmarket Public Library | Newmarket · Municipal | Public library | Newmarket's public library in Ontario: catalogue search, ebooks and streaming services, programs for children and adults, and events. | https://www.newmarketpl.ca/ |
+| Niagara Falls Public Library | Niagara Falls · Municipal | Public library | Niagara Falls' public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://nflibrary.ca/ |
 | Oakville Public Library | Oakville · Municipal | Public library | Oakville's public library system: catalogue search, ebooks, branch locations and hours, programs and events in Oakville, Ontario. | https://opl.ca/ |
+| Chatham-Kent Public Library | Ontario · Municipal | Public library | Chatham-Kent's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.ckpl.ca/ |
+| Kawartha Lakes Public Library | Ontario · Municipal | Public library | The City of Kawartha Lakes' public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours across the city, and programs and events. | https://www.kawarthalakeslibrary.ca/ |
+| Orillia Public Library | Orillia · Municipal | Public library | Orillia's public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.orilliapubliclibrary.ca/ |
 | Oshawa Public Libraries | Oshawa · Municipal | Public library | Oshawa's public library system: catalogue search, ebooks, branch locations and hours, programs and events in Oshawa, Ontario. | https://oshawalibrary.ca/ |
 | Ottawa Public Library | Ottawa · Municipal | Public library | Ottawa's bilingual public library system: catalogue search in English and French, ebooks, branch locations and hours, programs, and library services for the capital region. | https://biblioottawalibrary.ca/ |
+| Peterborough Public Library | Peterborough · Municipal | Public library | Peterborough's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.ptbolibrary.ca/ |
+| Pickering Public Library | Pickering · Municipal | Public library | Pickering's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://pickeringlibrary.ca/ |
+| Richmond Hill Public Library | Richmond Hill · Municipal | Public library | Richmond Hill's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.rhpl.ca/ |
+| Sault Ste. Marie Public Library | Sault Ste. Marie · Municipal | Public library | Sault Ste. Marie's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://ssmpl.ca/ |
+| St. Catharines Public Library | St. Catharines · Municipal | Public library | St. Catharines' public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.myscpl.ca/ |
+| St. Thomas Public Library | St. Thomas · Municipal | Public library | St. Thomas' public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.stthomaspubliclibrary.ca/ |
 | Thunder Bay Public Library | Thunder Bay · Municipal | Public library | Thunder Bay's public library system: catalogue search, ebooks, branch locations and hours, Indigenous resources, programs and events in Thunder Bay, Ontario. | https://www.tbpl.ca/ |
+| Timmins Public Library | Timmins · Municipal | Public library | Timmins' bilingual public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events in English and French. | https://www.timminspubliclibrary.ca/ |
 | near & here | Toronto · Municipal | Local map & events guide | One free map for Toronto: 1,000+ events at a time, thousands of places with photos and street view, restaurants with City food-safety inspection data, live TTC arrivals, and directions. Built on Toronto and Ontario open data through a fully automated pipeline; Toronto servers; no Google APIs, no tracking or ads; iOS app live. Featured in the City of Toronto open data gallery. | https://nearandhere.ca/ |
 | Toronto Heritage Register — Built Heritage | Toronto · Municipal | Heritage register | Searchable list of Toronto's designated and listed heritage properties — built heritage, cultural landscapes, and archaeological sites | https://www.toronto.ca/city-government/data-research-maps/toronto-parks-trees-green-space/heritage-register/ |
 | Toronto Open Data landing page | Toronto · Municipal | Open data hub | Portal page with datasets, gallery, and city data access | https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-portal/ |
@@ -3080,7 +3133,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Toronto Public Library — Digital Archive | Toronto · Municipal | Archive | Toronto's digital heritage archive with photos, maps, and historical records | https://digitalarchive.tpl.ca/ |
 | Vaughan Public Libraries | Vaughan · Municipal | Public library | Vaughan's public library system: catalogue search, ebooks, branch locations and hours, programs and events in Vaughan, Ontario. | https://www.vaughanpl.info/ |
 | Waterloo Public Library | Waterloo · Municipal | Public library | Waterloo's public library system: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Waterloo, Ontario. | https://www.wpl.ca/ |
+| Welland Public Library | Welland · Municipal | Public library | Welland's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://wellandlibrary.ca/ |
+| Whitby Public Library | Whitby · Municipal | Public library | Whitby's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events. | https://www.whitbylibrary.ca/ |
 | Windsor Public Library | Windsor · Municipal | Public library | Windsor's public library system: catalogue search, ebooks, branch locations and hours, local history collections, programs and events in Windsor, Ontario. | https://www.windsorpubliclibrary.com/ |
+| Woodstock Public Library | Woodstock · Municipal | Public library | Woodstock's public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.mywpl.ca/ |
 
 ### Quebec
 
@@ -3089,7 +3145,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BAnQ — Bibliothèque et Archives nationales du Québec | Quebec · Provincial | Archive | Quebec's national library and archives with digitized newspapers, records, and genealogy | https://www.banq.qc.ca/ |
 | BAnQ numérique | Quebec · Provincial | Digital heritage portal | Browse and download Quebec's digitized heritage — newspapers, maps, photos, civil registers and notarial archives — including 100,000+ freely reusable public-domain documents. | https://numerique.banq.qc.ca/ |
 | BAnQ Pistard | Quebec · Provincial | Archive search | Bibliothèque et Archives nationales du Québec's archival-records search tool (Pistard): search descriptions and digitized documents across Quebec's national archival holdings — civil registers, notarial archives, photographs, maps — searchable by keyword, name, place and date. | https://pistard.banq.qc.ca |
+| Bibliothèque de Gatineau | Gatineau · Municipal | Public library | Gatineau's municipal library network in Quebec: membership, catalogue search, online resources, branch addresses and hours, and activities across the city's libraries. In French. | https://www.gatineau.ca/bibliotheque |
 | Montreal Open Data showcase | Montreal · Municipal | App gallery | Gallery of applications built from Montreal open data | https://donnees.montreal.ca/en/showcase |
+| Bibliothèque de Québec | Quebec City · Municipal | Public library | Quebec City's public library network: catalogue search, digital books and resources, branch locations and hours across the city's libraries, and activities and exhibitions. In French. | https://www.bibliothequedequebec.qc.ca/ |
+| Bibliothèques de Saguenay | Saguenay · Municipal | Public library | Saguenay's municipal library network in Quebec: catalogue search and library accounts, digital lending, borrowing information, and library programming. In French. | https://bibliotheque.saguenay.ca/ |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -3099,6 +3158,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | New Brunswick Public Libraries | New Brunswick · Provincial | Public library | The New Brunswick Public Library Service: a province-wide library card, catalogue search, ebooks and online resources, and locations and hours for 64 public and public-school libraries across New Brunswick. | https://www.gnb.ca/publiclibraries |
 | Newfoundland and Labrador Public Libraries | Newfoundland and Labrador · Provincial | Public library | The provincial public library system of Newfoundland and Labrador: catalogue search, ebooks, branch locations and hours, and library services across the province. | https://nlpl.ca/ |
 | The Rooms (Newfoundland and Labrador) | Newfoundland and Labrador · Provincial | Museum | Newfoundland and Labrador's provincial museum, art gallery, and archives — collections and online exhibits | https://www.therooms.ca/ |
+| Cape Breton Regional Library | Cape Breton · Regional | Public library | Cape Breton's regional library system in Nova Scotia: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across Cape Breton and Victoria counties. | https://cbrl.ca/ |
+| Annapolis Valley Regional Library | Nova Scotia · Regional | Public library | The Annapolis Valley regional library system in Nova Scotia: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the valley. | https://valleylibrary.ca/ |
+| Cumberland Public Libraries | Nova Scotia · Regional | Public library | Cumberland County's library system in Nova Scotia: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs. | https://www.cumberlandpubliclibraries.ca/ |
+| Eastern Counties Regional Library | Nova Scotia · Regional | Public library | Eastern Nova Scotia's regional library system (Richmond and Inverness counties): a shared catalogue, ebooks, and branch locations, hours and programs. | https://www.ecrl.ca/ |
+| South Shore Public Libraries | Nova Scotia · Regional | Public library | Nova Scotia's South Shore library system (Lunenburg and Queens counties): a shared catalogue, ebooks and digital resources, and branch locations, hours and programs. | https://www.southshorepubliclibraries.ca/ |
+| Western Counties Regional Library | Nova Scotia · Regional | Public library | Western Nova Scotia's regional library system, based in Yarmouth: a shared catalogue, ebooks, and branch locations, hours and programs across Digby, Shelburne and Yarmouth counties. | https://westerncounties.ca/ |
 | Halifax Public Libraries | Halifax · Municipal | Public library | Halifax's public library system: catalogue search, ebooks and streaming, branch locations and hours, programs and community services across Halifax Regional Municipality. | https://www.halifaxpubliclibraries.ca/ |
 
 ### Northern Canada (YT, NT, NU)
