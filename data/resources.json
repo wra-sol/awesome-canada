@@ -37622,5 +37622,617 @@
       "French"
     ],
     "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Greater Sudbury Transit (GOVA)",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Greater Sudbury's municipal transit service (GOVA): routes and schedules, fares and passes, detours and service alerts, and accessible transit information.",
+    "url": "https://www.greatersudbury.ca/living/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Greater Sudbury",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Niagara Region Transit",
+    "level": "Regional",
+    "jurisdiction": "Niagara",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The regional transit system for Niagara Region, Ontario: inter-municipal routes connecting St. Catharines, Niagara Falls, Welland and neighbouring communities, with schedules, fares, and a trip planner.",
+    "url": "https://nrtransit.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Niagara",
+      "trip planner",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Collingwood Transit (COLLTRANS)",
+    "level": "Municipal",
+    "jurisdiction": "Collingwood",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Collingwood's COLLTRANS transit service in Ontario: routes and schedules, fares, the real-time bus tracker, and links to the inter-community Blue Mountains and Wasaga Beach links.",
+    "url": "https://www.collingwood.ca/transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Collingwood",
+      "real-time",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Simcoe County LINX Transit",
+    "level": "Regional",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Simcoe County's inter-community LINX transit service in Ontario: routes linking Barrie, Midland, Orillia, Collingwood, Wasaga Beach and other communities, with schedules and fares.",
+    "url": "https://www.simcoe.ca/dpt/linx-transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Simcoe County",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Brockville Transit",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Brockville's transit service in Ontario: bus routes and schedules, fares, and accessible para-transit information.",
+    "url": "https://brockville.com/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Brockville",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Milton Transit",
+    "level": "Municipal",
+    "jurisdiction": "Milton",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Town of Milton's transit service in Ontario: routes and schedules, fares and passes, service alerts, and access+ accessible transit information.",
+    "url": "https://www.milton.ca/en/living-in-milton/transit.aspx",
+    "tags": [
+      "transit",
+      "bus",
+      "Milton",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Quinte Transit",
+    "level": "Regional",
+    "jurisdiction": "Belleville",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Quinte Transit's regional bus service in the Quinte region of Ontario, serving Belleville, Quinte West, Brighton and Prince Edward County: routes and schedules, fares, and accessible transit booking.",
+    "url": "https://quintetransit.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Quinte",
+      "Belleville",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Chatham-Kent Transit (Ride CK)",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Chatham-Kent's Ride CK public transit service in Ontario: inter-community and Chatham routes, schedules, fares, and accessible transit information.",
+    "url": "https://www.chatham-kent.ca/transit/Pages/default.aspx",
+    "tags": [
+      "transit",
+      "bus",
+      "Chatham-Kent",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "St. Albert Transit (StAT)",
+    "level": "Municipal",
+    "jurisdiction": "St. Albert",
+    "category": "transit",
+    "type": "Transit",
+    "description": "St. Albert Transit in Alberta: local and Edmonton commuter routes, schedules, fares, and Handibus accessible service information.",
+    "url": "https://stalbert.ca/city/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "St. Albert",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Roam Transit (Bow Valley)",
+    "level": "Regional",
+    "jurisdiction": "Banff",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Roam Public Transit, the Bow Valley Regional Transit Services Commission system serving Banff, Canmore and Lake Louise in Alberta: routes and schedules, fares, and real-time bus tracking.",
+    "url": "https://roamtransit.com/",
+    "tags": [
+      "transit",
+      "bus",
+      "Banff",
+      "Canmore",
+      "real-time",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Fort Saskatchewan Transit (FST)",
+    "level": "Municipal",
+    "jurisdiction": "Alberta",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Fort Saskatchewan Transit in Alberta: local routes and the Edmonton commuter route, schedules, fares, and service information.",
+    "url": "https://www.fortsask.ca/en/living-here/transit.aspx",
+    "tags": [
+      "transit",
+      "bus",
+      "Fort Saskatchewan",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Leduc Transit",
+    "level": "Municipal",
+    "jurisdiction": "Alberta",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Leduc Transit in Alberta: local routes, the Leduc Assisted Transportation Service, and the Route 747 airport connector, with schedules and fares.",
+    "url": "https://www.leduc.ca/transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Leduc",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Calgary Transit",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Calgary Transit's main site: CTrain and bus trip planning, routes and schedules, fares, service alerts, and the Calgary Transit app.",
+    "url": "https://www.calgarytransit.com/",
+    "tags": [
+      "transit",
+      "bus",
+      "Calgary",
+      "trip planner",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Regina Transit",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Regina Transit's main page in Saskatchewan: routes and schedules, trip planning, fares, and paratransit information.",
+    "url": "https://www.regina.ca/transportation-roads-parking/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Regina",
+      "trip planner",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Kelowna Regional Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "Kelowna",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Kelowna regional transit system operated with BC Transit: routes and schedules for Kelowna, West Kelowna, Peachland and Lake Country, fares, and trip planning.",
+    "url": "https://www.bctransit.com/kelowna/",
+    "tags": [
+      "transit",
+      "bus",
+      "Kelowna",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Regional District of Nanaimo Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "Nanaimo",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Regional District of Nanaimo transit system operated with BC Transit: routes and schedules for Nanaimo, Parksville, Qualicum Beach and area, fares, and trip planning.",
+    "url": "https://www.bctransit.com/nanaimo/",
+    "tags": [
+      "transit",
+      "bus",
+      "Nanaimo",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Kamloops Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "Kamloops",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Kamloops transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Kamloops.",
+    "url": "https://www.bctransit.com/kamloops/",
+    "tags": [
+      "transit",
+      "bus",
+      "Kamloops",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Comox Valley Regional Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "Courtenay",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Comox Valley regional transit system operated with BC Transit: routes and schedules for Courtenay, Comox and Cumberland, fares, and trip planning.",
+    "url": "https://www.bctransit.com/comox-valley/",
+    "tags": [
+      "transit",
+      "bus",
+      "Comox Valley",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Central Fraser Valley Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "Abbotsford",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Central Fraser Valley transit system operated with BC Transit: routes and schedules for Abbotsford and Mission, fares, and trip planning.",
+    "url": "https://www.bctransit.com/central-fraser-valley/",
+    "tags": [
+      "transit",
+      "bus",
+      "Abbotsford",
+      "Mission",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Chilliwack Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "Chilliwack",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Chilliwack transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Chilliwack.",
+    "url": "https://www.bctransit.com/chilliwack/",
+    "tags": [
+      "transit",
+      "bus",
+      "Chilliwack",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Prince George Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "Prince George",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Prince George transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Prince George.",
+    "url": "https://www.bctransit.com/prince-george/",
+    "tags": [
+      "transit",
+      "bus",
+      "Prince George",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Vernon Regional Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Vernon regional transit system operated with BC Transit: routes and schedules for Vernon, Coldstream and the North Okanagan, fares, and trip planning.",
+    "url": "https://www.bctransit.com/vernon/",
+    "tags": [
+      "transit",
+      "bus",
+      "Vernon",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "East Kootenay Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The East Kootenay transit system operated with BC Transit: routes and schedules for Cranbrook, Kimberley and area, fares, and trip planning.",
+    "url": "https://www.bctransit.com/cranbrook/",
+    "tags": [
+      "transit",
+      "bus",
+      "Cranbrook",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Campbell River Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Campbell River transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Campbell River.",
+    "url": "https://www.bctransit.com/campbell-river/",
+    "tags": [
+      "transit",
+      "bus",
+      "Campbell River",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Sunshine Coast Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Sunshine Coast transit system operated with BC Transit: routes and schedules for Gibsons, Sechelt and area, fares, and trip planning.",
+    "url": "https://www.bctransit.com/sunshine-coast/",
+    "tags": [
+      "transit",
+      "bus",
+      "Sunshine Coast",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Squamish Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Squamish transit system operated with BC Transit: routes and schedules, fares, and trip planning for the District of Squamish.",
+    "url": "https://www.bctransit.com/squamish/",
+    "tags": [
+      "transit",
+      "bus",
+      "Squamish",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Whistler Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "Whistler",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Whistler transit system operated with BC Transit: routes and schedules, fares, and trip planning for the Resort Municipality of Whistler.",
+    "url": "https://www.bctransit.com/whistler/",
+    "tags": [
+      "transit",
+      "bus",
+      "Whistler",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "South Okanagan-Similkameen Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "Penticton",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The South Okanagan-Similkameen transit system operated with BC Transit: routes and schedules for Penticton and area communities, fares, and trip planning.",
+    "url": "https://www.bctransit.com/penticton/",
+    "tags": [
+      "transit",
+      "bus",
+      "Penticton",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Société de transport de Lévis (STLévis)",
+    "level": "Municipal",
+    "jurisdiction": "Lévis",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Lévis's public transit authority in Quebec: bus routes and schedules, fares and passes, and service alerts for the Lévis area. In French.",
+    "url": "https://www.stlevis.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Lévis",
+      "schedules",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Société de transport du Saguenay (STS)",
+    "level": "Municipal",
+    "jurisdiction": "Saguenay",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Saguenay's public transit authority in Quebec: bus routes and schedules, fares, and accessible transit information. In French.",
+    "url": "https://www.stsaguenay.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Saguenay",
+      "schedules",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Transport collectif de la MRC de Joliette",
+    "level": "Regional",
+    "jurisdiction": "Quebec",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Rural collective transport for the Joliette regional county municipality in Quebec: shared-transport booking, service area, and fares for area municipalities. In French.",
+    "url": "https://www.mrcjoliette.qc.ca/transport-collectif",
+    "tags": [
+      "transit",
+      "bus",
+      "Joliette",
+      "booking",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Metrobus (St. John's)",
+    "level": "Municipal",
+    "jurisdiction": "St. John's",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Metrobus, the public transit system for St. John's, Mount Pearl and Paradise in Newfoundland and Labrador: routes and schedules, fares, real-time bus tracking, and the m-Card.",
+    "url": "https://www.metrobus.com/",
+    "tags": [
+      "transit",
+      "bus",
+      "St. John's",
+      "real-time",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "T3 Transit (PEI)",
+    "level": "Regional",
+    "jurisdiction": "Charlottetown",
+    "category": "transit",
+    "type": "Transit",
+    "description": "T3 Transit, the public transit system serving Charlottetown, Stratford and Cornwall on Prince Edward Island: routes and schedules, fares, and service alerts.",
+    "url": "https://t3transit.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Charlottetown",
+      "PEI",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Kings Transit (Nova Scotia)",
+    "level": "Regional",
+    "jurisdiction": "Kentville",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Kings Transit, the public transit system for Kings County in Nova Scotia's Annapolis Valley: routes and schedules, fares, and service information.",
+    "url": "https://www.kingstransit.ns.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Kings County",
+      "Nova Scotia",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Strait Area Transit (Nova Scotia)",
+    "level": "Regional",
+    "jurisdiction": "Cape Breton",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Strait Area Transit, the community transit service for the Strait of Canso area of Nova Scotia (Port Hawkesbury, Richmond and Inverness counties): routes, schedules, and booking information.",
+    "url": "https://satbus.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Strait Area",
+      "Nova Scotia",
+      "booking"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Whitehorse Transit",
+    "level": "Municipal",
+    "jurisdiction": "Whitehorse",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Whitehorse Transit in Yukon: bus routes and schedules, fares and passes, and service alerts for the City of Whitehorse.",
+    "url": "https://www.whitehorse.ca/living-in-whitehorse/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Whitehorse",
+      "Yukon",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
   }
 ]
