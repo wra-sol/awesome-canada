@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2380 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2389 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -50,7 +50,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚡ Energy & Utilities](#energy-and-utilities) — 57
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 159
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 168
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
@@ -3146,8 +3146,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BAnQ numérique | Quebec · Provincial | Digital heritage portal | Browse and download Quebec's digitized heritage — newspapers, maps, photos, civil registers and notarial archives — including 100,000+ freely reusable public-domain documents. | https://numerique.banq.qc.ca/ |
 | BAnQ Pistard | Quebec · Provincial | Archive search | Bibliothèque et Archives nationales du Québec's archival-records search tool (Pistard): search descriptions and digitized documents across Quebec's national archival holdings — civil registers, notarial archives, photographs, maps — searchable by keyword, name, place and date. | https://pistard.banq.qc.ca |
 | Bibliothèque de Gatineau | Gatineau · Municipal | Public library | Gatineau's municipal library network in Quebec: membership, catalogue search, online resources, branch addresses and hours, and activities across the city's libraries. In French. | https://www.gatineau.ca/bibliotheque |
+| Beaconsfield Library | Montreal · Municipal | Public library | Beaconsfield's municipal library on the Island of Montreal: catalogue, borrowing, hours and programs via the city's official library pages. | https://beaconsfield.ca/en/library |
+| Côte Saint-Luc Public Library | Montreal · Municipal | Public library | The Eleanor London Côte Saint-Luc Public Library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services. | https://csllibrary.com/ |
 | Montreal Open Data showcase | Montreal · Municipal | App gallery | Gallery of applications built from Montreal open data | https://donnees.montreal.ca/en/showcase |
+| Pointe-Claire Public Library | Montreal · Municipal | Public library | Pointe-Claire's public library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services. | https://biblio.pointe-claire.ca/ |
+| Westmount Public Library | Montreal · Municipal | Public library | Westmount's public library on the Island of Montreal: catalogue, programs, hours and services via the city's official library pages. | https://westmount.org/biblio/ |
+| Bibliothèque de Saint-Eustache | Quebec · Municipal | Public library | Saint-Eustache's municipal library in Quebec: catalogue, borrowing, hours and activities from the city's official site. In French. | https://www.saint-eustache.ca/bibliotheque |
+| Bibliothèque de Sainte-Catherine | Quebec · Municipal | Public library | Sainte-Catherine's municipal library in Quebec: catalogue and borrowing services, hours, and activities from the city's official library site. In French. | https://www.ville.sainte-catherine.qc.ca/bibliotheque/ |
+| Bibliothèque de Sainte-Julie | Quebec · Municipal | Public library | Sainte-Julie's municipal library in Quebec: catalogue search, borrowing, hours and activities. In French. | https://biblio.saintejulie.ca/ |
+| Bibliothèque de Vaudreuil-Dorion | Quebec · Municipal | Public library | Vaudreuil-Dorion's municipal library in Quebec: catalogue search, borrowing, hours and programming. In French. | https://www.bibliotheque.vaudreuil-dorion.qc.ca/ |
 | Bibliothèque de Québec | Quebec City · Municipal | Public library | Quebec City's public library network: catalogue search, digital books and resources, branch locations and hours across the city's libraries, and activities and exhibitions. In French. | https://www.bibliothequedequebec.qc.ca/ |
+| Bibliothèque de Repentigny | Repentigny · Municipal | Public library | Repentigny's municipal library service in Quebec: catalogue, borrowing, hours and programming from the city's official site. In French. | https://repentigny.ca/bibliotheque |
 | Bibliothèques de Saguenay | Saguenay · Municipal | Public library | Saguenay's municipal library network in Quebec: catalogue search and library accounts, digital lending, borrowing information, and library programming. In French. | https://bibliotheque.saguenay.ca/ |
 
 ### Atlantic Canada (NB, NS, PE, NL)

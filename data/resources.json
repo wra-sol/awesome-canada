@@ -37462,5 +37462,165 @@
       "catalogue"
     ],
     "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèque de Sainte-Catherine",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Sainte-Catherine's municipal library in Quebec: catalogue and borrowing services, hours, and activities from the city's official library site. In French.",
+    "url": "https://www.ville.sainte-catherine.qc.ca/bibliotheque/",
+    "tags": [
+      "library",
+      "books",
+      "Sainte-Catherine",
+      "Quebec",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèque de Repentigny",
+    "level": "Municipal",
+    "jurisdiction": "Repentigny",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Repentigny's municipal library service in Quebec: catalogue, borrowing, hours and programming from the city's official site. In French.",
+    "url": "https://repentigny.ca/bibliotheque",
+    "tags": [
+      "library",
+      "books",
+      "Repentigny",
+      "Quebec",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèque de Saint-Eustache",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Saint-Eustache's municipal library in Quebec: catalogue, borrowing, hours and activities from the city's official site. In French.",
+    "url": "https://www.saint-eustache.ca/bibliotheque",
+    "tags": [
+      "library",
+      "books",
+      "Saint-Eustache",
+      "Quebec",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Pointe-Claire Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Pointe-Claire's public library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services.",
+    "url": "https://biblio.pointe-claire.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Pointe-Claire",
+      "Montreal",
+      "catalogue",
+      "bilingual"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Westmount Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Westmount's public library on the Island of Montreal: catalogue, programs, hours and services via the city's official library pages.",
+    "url": "https://westmount.org/biblio/",
+    "tags": [
+      "library",
+      "books",
+      "Westmount",
+      "Montreal",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Côte Saint-Luc Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "culture",
+    "type": "Public library",
+    "description": "The Eleanor London Côte Saint-Luc Public Library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services.",
+    "url": "https://csllibrary.com/",
+    "tags": [
+      "library",
+      "books",
+      "Côte Saint-Luc",
+      "Montreal",
+      "catalogue",
+      "bilingual"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Beaconsfield Library",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Beaconsfield's municipal library on the Island of Montreal: catalogue, borrowing, hours and programs via the city's official library pages.",
+    "url": "https://beaconsfield.ca/en/library",
+    "tags": [
+      "library",
+      "books",
+      "Beaconsfield",
+      "Montreal",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèque de Sainte-Julie",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Sainte-Julie's municipal library in Quebec: catalogue search, borrowing, hours and activities. In French.",
+    "url": "https://biblio.saintejulie.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Sainte-Julie",
+      "Quebec",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèque de Vaudreuil-Dorion",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Vaudreuil-Dorion's municipal library in Quebec: catalogue search, borrowing, hours and programming. In French.",
+    "url": "https://www.bibliotheque.vaudreuil-dorion.qc.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Vaudreuil-Dorion",
+      "Quebec",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
   }
 ]
