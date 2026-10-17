@@ -38873,5 +38873,493 @@
       "sudbury"
     ],
     "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "PHAC — STARVAX Vaccination Coverage",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Data tool",
+    "description": "STARVAX (Standardized Reporting on Vaccination), operated by the Public Health Agency of Canada with provincial and territorial partners, provides vaccination coverage rates for routine childhood immunization at milestone ages and for seasonal COVID-19 and influenza vaccination, by age, sex and vaccine type.",
+    "url": "https://health-infobase.canada.ca/vaccination-coverage/starvax/",
+    "tags": [
+      "vaccination",
+      "immunization",
+      "coverage",
+      "phac",
+      "canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "PHAC — Adverse Events Following Immunization (AEFI) Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Dashboard",
+    "description": "Public Health Agency of Canada dashboard of adverse events following immunization reported to CAEFISS for people vaccinated in Canada, filterable by year, age, sex, vaccine and seriousness, with downloadable data.",
+    "url": "https://health-infobase.canada.ca/vaccination/adverse-events/",
+    "tags": [
+      "vaccines",
+      "immunization",
+      "safety",
+      "phac",
+      "canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Health Canada — Medical Devices Establishment Licence (MDEL) Listing",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Licence registry search",
+    "description": "Health Canada's searchable listing of active Medical Device Establishment Licences, issued to Class I manufacturers and to importers or distributors of all device classes; search by licence number, company, activity, country and province to see authorized activities and device classes.",
+    "url": "https://health-products.canada.ca/mdel-leim/index-eng.jsp",
+    "tags": [
+      "medical devices",
+      "licence search",
+      "registry",
+      "health canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Health Canada — Get Help with Substance Use",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Service finder",
+    "description": "Health Canada's national finder for substance-use help: Canada-wide services including the National Overdose Response Service hotline and supervised consumption site finder, plus provincial, territorial and Indigenous-specific programs, overdose prevention and naloxone resources.",
+    "url": "https://www.canada.ca/en/health-canada/services/substance-use/get-help-with-substance-use.html",
+    "tags": [
+      "substance use",
+      "addictions",
+      "overdose",
+      "naloxone",
+      "canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "PHAC — Mental Health Support: Get Help",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Service finder",
+    "description": "The Public Health Agency of Canada's mental-health help page: support organized by province and territory and by audience, including 9-8-8, services for First Nations, Inuit and Métis peoples, youth, Veterans and families, and national organizations.",
+    "url": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/taking-care-mental-health.html",
+    "tags": [
+      "mental health",
+      "support",
+      "crisis",
+      "phac",
+      "canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Hope for Wellness Helpline",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Crisis helpline",
+    "description": "The Hope for Wellness Helpline offers immediate mental-health counselling and crisis intervention to all Indigenous people across Canada, 24/7, by phone at 1-855-242-3310 or online chat, in English and French and on request in Cree, Ojibway and Inuktitut.",
+    "url": "https://www.hopeforwellness.ca/",
+    "tags": [
+      "indigenous",
+      "mental health",
+      "helpline",
+      "crisis",
+      "canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "NIHB — Pharmacy Benefits and Drug Benefit List",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Drug coverage search",
+    "description": "Indigenous Services Canada's Non-Insured Health Benefits (NIHB) pharmacy benefits page for eligible First Nations and Inuit clients, explaining open and limited-use benefits and linking to the searchable NIHB Drug Benefit List.",
+    "url": "https://www.sac-isc.gc.ca/eng/1574784515492",
+    "tags": [
+      "nihb",
+      "first nations",
+      "inuit",
+      "pharmacy",
+      "benefits"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "CIHI — Wait Times for Priority Procedures",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Data tool",
+    "description": "CIHI's interactive wait-times tool: median and 90th-percentile wait times, volumes and benchmark performance for priority procedures across Canada, including hip and knee replacement, cataract surgery, radiation therapy, hip fracture repair, cancer surgeries, CT and MRI scans and bypass surgery.",
+    "url": "https://www.cihi.ca/en/explore-wait-times-for-priority-procedures-across-canada",
+    "tags": [
+      "cihi",
+      "wait times",
+      "surgery",
+      "data",
+      "canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "PHAC — Tick-Borne Disease Surveillance Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Dashboard",
+    "description": "Public Health Agency of Canada dashboard of recent and historical human tick-borne disease cases, including Lyme disease, reported by provinces and territories, with maps and graphs by indicator, measure and timeframe.",
+    "url": "https://health-infobase.canada.ca/zoonoses/ticks/maps.html",
+    "tags": [
+      "lyme disease",
+      "ticks",
+      "surveillance",
+      "phac",
+      "canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Health Canada — Canadian Biomonitoring Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Dashboard",
+    "description": "Health Canada dashboard of environmental chemical levels in the Canadian population measured through the Canadian Health Measures Survey since 2007: select a biomarker and matrix to view concentrations by collection period, age group and sex, with CSV downloads.",
+    "url": "https://health-infobase.canada.ca/biomonitoring/",
+    "tags": [
+      "biomonitoring",
+      "chemicals",
+      "survey data",
+      "health canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Health Canada — Supervised Consumption Sites Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Dashboard",
+    "description": "Health Canada dashboard summarizing data reported by every federally exempted supervised consumption site in Canada, including a site map, visits and unique clients, drugs used, non-fatal overdoses and naloxone use, and services and referrals provided.",
+    "url": "https://health-infobase.canada.ca/supervised-consumption-sites/",
+    "tags": [
+      "harm reduction",
+      "overdose",
+      "opioids",
+      "health canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "PHAC — Tuberculosis Disease Surveillance Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Dashboard",
+    "description": "Public Health Agency of Canada dashboard of national tuberculosis surveillance data from the Canadian Tuberculosis Reporting System: new cases and incidence by province/territory, age, sex and population group, plus treatment outcomes.",
+    "url": "https://health-infobase.canada.ca/tuberculosis/",
+    "tags": [
+      "tuberculosis",
+      "surveillance",
+      "infectious disease",
+      "phac",
+      "canada"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Durham Region — Check&GO! Durham Inspection Disclosure",
+    "level": "Regional",
+    "jurisdiction": "Durham",
+    "category": "health",
+    "type": "Inspection search",
+    "description": "Durham Region Health Department's Check&GO! disclosure program: online inspection results, confirmed IPAC lapses, legal action and complaints for restaurants and food stores, spas and personal service settings, pools and splash pads, child care centres, beaches, recreational camps and small drinking water systems.",
+    "url": "https://www.durham.ca/en/health-and-wellness/CheckAndGoDurham.aspx",
+    "tags": [
+      "health",
+      "inspections",
+      "disclosure",
+      "durham"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Simcoe Muskoka District Health Unit — Inspection Connection",
+    "level": "Regional",
+    "jurisdiction": "Barrie",
+    "category": "health",
+    "type": "Inspection search",
+    "description": "Simcoe Muskoka District Health Unit's Inspection Connection: online public health inspection reports for food premises and licensed child care centres in Simcoe County and Muskoka, showing infractions, corrections, follow-ups and legal actions, kept online for two years.",
+    "url": "https://www.simcoemuskokahealth.org/healthunit/Services/Disclosure/FAQs",
+    "tags": [
+      "health",
+      "inspections",
+      "disclosure",
+      "simcoe muskoka"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Windsor-Essex County Health Unit — Inspection Reports",
+    "level": "Regional",
+    "jurisdiction": "Windsor",
+    "category": "health",
+    "type": "Inspection search",
+    "description": "Windsor-Essex County Health Unit's inspection reports access: routine reports and enforcement information for food premises, personal service settings, licensed child care centres, pools, spas and splash pads, small drinking water systems and campgrounds, with convictions and orders published.",
+    "url": "https://www.wechu.org/your-environment/requests-inspection-and-inspection-reports",
+    "tags": [
+      "health",
+      "inspections",
+      "enforcement",
+      "windsor-essex"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Manitoba — Family Doctor Finder",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "health",
+    "type": "Finder",
+    "description": "Manitoba's Family Doctor Finder: residents register online or by phone to be connected with a home clinic — a family practice team including family doctors and nurse practitioners that coordinates their care.",
+    "url": "https://www.gov.mb.ca/health/familydoctorfinder/",
+    "tags": [
+      "health",
+      "family doctor",
+      "clinic finder",
+      "manitoba"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Island Health — Emergency Department and Urgent Care Wait Times",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Live wait-time dashboard",
+    "description": "Island Health's 'Need care now?' page for Vancouver Island: emergency department and urgent care centre wait times updated every five minutes, plus same-day care options including 8-1-1 advice and pharmacist care.",
+    "url": "https://www.islandhealth.ca/find-care",
+    "tags": [
+      "health",
+      "wait times",
+      "emergency",
+      "vancouver island"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Nova Scotia — Beaches: Monitoring and Sampling",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Beach water quality tracker",
+    "description": "Nova Scotia's beach monitoring program: provincially supervised beaches are regularly sampled for bacteriological water quality (E. coli in fresh water, enterococci in salt water), and swimming advisories are issued when bacteria exceed national recreational water quality guidelines.",
+    "url": "https://novascotia.ca/nse/environmental-health/beaches.asp",
+    "tags": [
+      "health",
+      "beaches",
+      "water quality",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "New Brunswick — Beach Water Quality",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "health",
+    "type": "Beach water quality tracker",
+    "description": "New Brunswick's beach water quality program: provincial park beaches including Parlee, Murray, Mactaquac, Mount Carleton, Oak Bay, New River, Miscou and Val-Comeau are tested during the swimming season, with results and current beach status published online and 'No Swimming' advisories issued when bacteria are too high.",
+    "url": "https://www.gnb.ca/en/topic/environment-resources/water/beach-water-quality.html",
+    "tags": [
+      "health",
+      "beaches",
+      "water quality",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Ottawa Public Health — Beach Water Quality Results",
+    "level": "Municipal",
+    "jurisdiction": "Ottawa",
+    "category": "health",
+    "type": "Beach water quality tracker",
+    "description": "Ottawa Public Health's water quality and safety hub: beach water test results for Ottawa's supervised beaches, plus recreational water safety information, free well water testing, small drinking water systems and blue-green algae guidance.",
+    "url": "https://www.ottawapublichealth.ca/en/public-health-services/water-quality-safety.aspx?_mid_=29315",
+    "tags": [
+      "health",
+      "beaches",
+      "water quality",
+      "ottawa"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "New Brunswick — Tele-Care 811",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "health",
+    "type": "Health service",
+    "description": "New Brunswick's free, bilingual, confidential Tele-Care 811 line: a registered nurse assesses symptoms at any hour and can offer self-care advice, schedule a virtual nurse-practitioner appointment, or direct callers to a clinic, community service or emergency room.",
+    "url": "https://www.gnb.ca/en/topic/health-wellness/access-health-care/tele-care-811.html",
+    "tags": [
+      "health",
+      "811",
+      "nurse line",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Prince Edward Island — 811 Telehealth",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "health",
+    "type": "Health service",
+    "description": "Prince Edward Island's 8-1-1 telehealth service: a registered nurse is available 24 hours a day to answer health questions, help callers decide whether they need emergency or non-urgent care, and guide them to health services in the province.",
+    "url": "https://www.princeedwardisland.ca/en/information/health-and-wellness/811-telehealth",
+    "tags": [
+      "health",
+      "811",
+      "nurse line",
+      "pei"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Newfoundland and Labrador — 811 HealthLine",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "health",
+    "type": "Health service",
+    "description": "Newfoundland and Labrador's confidential, free 811 HealthLine: call 811 any time to speak to a registered nurse about health concerns and self-care, or to a registered dietitian for nutrition advice.",
+    "url": "https://www.811healthline.ca/",
+    "tags": [
+      "health",
+      "811",
+      "nurse line",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Yukon — HealthLine 811",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "health",
+    "type": "Health service",
+    "description": "Yukon's 24-hour HealthLine 811: registered nurses answer health questions and direct callers to help in their community, with an after-hours pharmacist connection from 5 p.m. to 9 a.m.",
+    "url": "https://yukon.ca/en/health-and-wellness/care-services/access-24-hour-health-advice-811",
+    "tags": [
+      "health",
+      "811",
+      "nurse line",
+      "yukon"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "VaxRecordNS",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Immunization record lookup",
+    "description": "Nova Scotia Health's VaxRecordNS: anyone 16 or older with a Nova Scotia health card can view and print their vaccination records online, covering vaccinations reported to Public Health from public health, primary care, pharmacies and COVID-19 clinics; parents can connect a child under 16.",
+    "url": "https://www.nshealth.ca/vaxrecordns",
+    "tags": [
+      "health",
+      "immunization",
+      "vaccination records",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "BC PharmaCare — Formulary Search",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Drug coverage search",
+    "description": "British Columbia's official PharmaCare formulary search: search by drug name, DIN/PIN/NPN, PharmaCare plan, therapeutic classification or manufacturer to determine which products PharmaCare covers and how much it pays.",
+    "url": "https://pharmacareformularysearch.gov.bc.ca/Search.xhtml",
+    "tags": [
+      "health",
+      "pharmacare",
+      "formulary",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Manitoba — Drug Formulary Lookup",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "health",
+    "type": "Drug coverage search",
+    "description": "Manitoba Health's online lookup for the Manitoba Drug Benefits Formulary, searchable by brand name, active ingredient, DIN or therapeutic classification, showing which drugs are eligible benefits under Manitoba Pharmacare.",
+    "url": "https://web22.gov.mb.ca/eFormulary/",
+    "tags": [
+      "health",
+      "formulary",
+      "pharmacare",
+      "manitoba"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "RAMQ — Prescription Drug Search",
+    "level": "Agency",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Drug coverage search",
+    "description": "RAMQ's search tool for checking whether a prescription drug is covered under Québec's Public Prescription Drug Insurance Plan, whose regularly updated list covers over 9,000 prescription drugs, with coverage status, manufacturer, strength, dosage form and DIN.",
+    "url": "https://www.ramq.gouv.qc.ca/en/citoyens/assurance-medicaments/savoir-si-medicament-est-couvert",
+    "tags": [
+      "health",
+      "formulary",
+      "ramq",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Alberta — Screening for Life",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "health",
+    "type": "Health service",
+    "description": "Alberta's Screening for Life: the province's population-based cancer screening programs for breast, cervical and colorectal cancer plus the lung cancer screening pilot, with an interactive guide that tells Albertans whether they should start screening, mobile Screen Test mammography and the at-home FIT test.",
+    "url": "https://screeningforlife.ca/",
+    "tags": [
+      "health",
+      "cancer screening",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Saskatchewan — Surgical Performance and Wait Times",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "health",
+    "type": "Data tool",
+    "description": "Saskatchewan's surgical wait-time reporting, updated quarterly: surgeries performed, the share of patients receiving or offered surgery within three, six and twelve months, and how many patients are waiting, broken down by area of the province.",
+    "url": "https://www.saskatchewan.ca/residents/health/accessing-health-care-services/surgery/surgical-performance-and-wait-times",
+    "tags": [
+      "health",
+      "wait times",
+      "surgery",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-17"
   }
 ]
