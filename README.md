@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2425 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2452 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -42,7 +42,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 59
-- [🚌 Transit & Mobility](#transit-and-mobility) — 126
+- [🚌 Transit & Mobility](#transit-and-mobility) — 153
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 45
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 92
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
@@ -2118,22 +2118,31 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Wood Buffalo Transit (Fort McMurray) | Alberta · Regional | Transit | Transit program page of the Regional Municipality of Wood Buffalo, the municipal transit authority for Fort McMurray, with routes and schedules, fares, and paratransit information. | https://www.rmwb.ca/programs-and-services/transit/ |
 | Roam Transit (Bow Valley) | Banff · Regional | Transit | Roam Public Transit, the Bow Valley Regional Transit Services Commission system serving Banff, Canmore and Lake Louise in Alberta: routes and schedules, fares, and real-time bus tracking. | https://roamtransit.com/ |
 | Edmonton Transit Service (ETS) | Edmonton · Regional | Transit | ETS bus and LRT trip planning for Edmonton | https://www.edmonton.ca/ets |
+| Airdrie Transit | Airdrie · Municipal | Transit | The City of Airdrie's transit service in Alberta: local routes, the ICE express bus to Calgary, schedules, fares, and accessible transit information. | https://www.airdrie.ca/index.cfm?serviceID=1909 |
+| Cochrane Transit (COLT) | Alberta · Municipal | Transit | Cochrane On-Demand Local Transit (COLT) in Alberta: book on-demand bus rides in the Town of Cochrane online or by app, with fares and service-area information. | https://cochrane.ca/transit |
 | Fort Saskatchewan Transit (FST) | Alberta · Municipal | Transit | Fort Saskatchewan Transit in Alberta: local routes and the Edmonton commuter route, schedules, fares, and service information. | https://www.fortsask.ca/en/living-here/transit.aspx |
 | Leduc Transit | Alberta · Municipal | Transit | Leduc Transit in Alberta: local routes, the Leduc Assisted Transportation Service, and the Route 747 airport connector, with schedules and fares. | https://www.leduc.ca/transit |
+| Spruce Grove Transit | Alberta · Municipal | Transit | Spruce Grove Transit in Alberta: local and Edmonton commuter routes (with Stony Plain), schedules, fares, and service alerts. | https://www.sprucegrove.org/services/spruce-grove-transit/ |
 | Calgary Transit | Calgary · Municipal | Transit | Calgary Transit's main site: CTrain and bus trip planning, routes and schedules, fares, service alerts, and the Calgary Transit app. | https://www.calgarytransit.com/ |
 | Calgary Transit — Fares and Passes | Calgary · Municipal | Fare information | Calgary Transit's official fares and passes page: fare prices, pass types and where to buy. | https://www.calgarytransit.com/fares---passes.html |
 | Calgary Transit GTFS | Calgary · Municipal | GTFS feed | Download Calgary Transit GTFS.zip with routes, stops, and schedules from the City developer resources page. | https://data.calgary.ca/browse?category=Transit |
 | Edmonton ETS GTFS | Edmonton · Municipal | GTFS feed | ETS GTFS static feed and developer documentation for Edmonton transit routes, stops, and schedules. | https://data.edmonton.ca/Transit/ETS-Bus-Schedule-GTFS-Data-Feed-Stops/4vt2-8zrq |
 | Edmonton Transit — Fare Assistance Programs | Edmonton · Municipal | Fare assistance | Edmonton's official page on fare assistance and reduced-fare transit programs for eligible riders. | https://www.edmonton.ca/ets/fare-assistance |
 | Edmonton Transit — Fares and Passes | Edmonton · Municipal | Fare information | Edmonton's official ETS fare page: fare prices, passes and payment options. Complements the catalog's ETS homepage entry. | https://www.edmonton.ca/ets/fares-passes |
+| Grande Prairie Transit | Grande Prairie · Municipal | Transit | The City of Grande Prairie's transit service in Alberta: routes and schedules, fares and passes, and service alerts. | https://cityofgp.com/transit |
+| Lethbridge Transit (Link) | Lethbridge · Municipal | Transit | Lethbridge Transit (Link) in Alberta: routes and schedules, fares and passes, real-time information, and Access-A-Ride accessible service. | https://www.lethbridge.ca/roads-parking-transit/transit/ |
 | Lethbridge Transit GTFS | Lethbridge · Municipal | GTFS feed | Direct GTFS.zip download of Lethbridge Transit bus schedules, routes, stops, and shapes. Hosted on the City's GIS server and not indexed by Transitland — a hard-to-find feed. Updated with each service change; useful for trip planners, mobility apps, and transit analysis in southern Alberta. | https://gis.lethbridge.ca/OpenData/DataSets/GTFS_Transit_Data.zip |
 | Medicine Hat Transit | Medicine Hat · Municipal | Transit | Transit section of the City of Medicine Hat, with route and schedule information, fares and passes, and links to the city's transit app and reload card portal. | https://www.medicinehat.ca/roads-parking-transportation/transit/ |
+| Okotoks Transit | Okotoks · Municipal | Transit | Okotoks Transit in Alberta: the town's on-demand transit booking service, with fares, hours, and how-to-ride information. | https://www.okotokstransit.ca/ |
+| Red Deer Transit | Red Deer · Municipal | Transit | The City of Red Deer's transit service in Alberta: routes and schedules, fares and passes, and the MyBus real-time trip planner. | https://www.reddeer.ca/transit |
 | St. Albert Transit (StAT) | St. Albert · Municipal | Transit | St. Albert Transit in Alberta: local and Edmonton commuter routes, schedules, fares, and Handibus accessible service information. | https://stalbert.ca/city/transit/ |
+| Strathcona County Transit | Strathcona County · Municipal | Transit | Strathcona County Transit in Alberta (Sherwood Park): local and Edmonton commuter routes, schedules, fares, and mobility bus information. | https://www.strathcona.ca/transportation-roads/transportation/schedules-routes/ |
 
 ### Saskatchewan
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Prince Albert Transit | Prince Albert · Municipal | Transit | The City of Prince Albert's transit service in Saskatchewan: bus routes and schedules, fares, and service information. | https://www.citypa.ca/parking-streets-and-transportation/transit/ |
 | Regina Transit | Regina · Municipal | Transit | Regina Transit's main page in Saskatchewan: routes and schedules, trip planning, fares, and paratransit information. | https://www.regina.ca/transportation-roads-parking/transit/ |
 | Regina Transit — Fares and Passes | Regina · Municipal | Fare information | Regina's official transit fare page: stored value with fare capping, the Umo card, passes and where to buy. | https://www.regina.ca/transportation-roads-parking/transit/fares-passes/ |
 | Saskatoon Transit | Saskatoon · Municipal | Transit | Saskatoon Transit trip planning, schedules, and real-time info | https://saskatoontransit.ca/ |
@@ -2175,11 +2184,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | York Region Transit — Fares and Passes | York Region · Regional | Fare information | York Region Transit's official fares and passes page: fare prices, passes and concessions. | https://www.yrt.ca/en/fares-and-passes/fares-and-passes.aspx |
 | York Region Transit — GTFS Open Data | York Region · Regional | GTFS feed | YRT/Viva GTFS and real-time GTFS packages for developers — request download after accepting the open data licence. | https://www.yrt.ca/en/about-us/open-data.aspx |
 | Barrie Transit GTFS | Barrie · Municipal | GTFS feed | Direct download of Barrie Transit GTFS.zip from the City website for routes, stops, and schedule data. | https://www.barrie.ca/transit |
+| Belleville Transit | Belleville · Municipal | Transit | The City of Belleville's transit service in Ontario: routes and schedules, fares and passes, service alerts, and information on the Belleville Transit Terminal. | https://www.belleville.ca/walk-ride-and-drive/transit/ |
 | Brampton Transit — GTFS (GeoHub) | Brampton · Municipal | GTFS feed | Brampton Transit schedule GTFS ZIP on the City GeoHub — routes, stops, stop times, and shapes for Züm and local service. | https://geohub.brampton.ca/datasets/a355aabd5a8c490186bdce559c9c75fb |
 | Brantford Transit | Brantford · Municipal | Transit | City of Brantford's transit section, the official entry point to its bus routes, schedules and fare information. | https://www.brantford.ca/transportation/brantford-transit/ |
 | Burlington Transit — GTFS | Burlington · Municipal | GTFS feed | Burlington Transit GTFS feed for routes, stops, and schedules from the municipal open data program. | https://navburl-burlington.opendata.arcgis.com/pages/data |
 | Collingwood Transit (COLLTRANS) | Collingwood · Municipal | Transit | Collingwood's COLLTRANS transit service in Ontario: routes and schedules, fares, the real-time bus tracker, and links to the inter-community Blue Mountains and Wasaga Beach links. | https://www.collingwood.ca/transit |
+| Cornwall Transit | Cornwall · Municipal | Transit | The City of Cornwall's transit service in Ontario: bus routes and schedules, fares, handi-transit accessible service, and service notices. | https://www.cornwall.ca/en/public-safety-transportation/transit/ |
 | Greater Sudbury Transit (GOVA) | Greater Sudbury · Municipal | Transit | Greater Sudbury's municipal transit service (GOVA): routes and schedules, fares and passes, detours and service alerts, and accessible transit information. | https://www.greatersudbury.ca/living/transit/ |
+| Owen Sound Transit | Grey County · Municipal | Transit | The City of Owen Sound's transit service in Ontario: bus routes and schedules, fares, and mobility transit information. | https://www.owensound.ca/living-here/public-transit/city-bus-service/ |
 | Guelph Transit — GTFS Open Data | Guelph · Municipal | GTFS feed | Guelph Transit GTFS schedule data published on the City open data catalogue for app developers. | https://opendata-guelph.hub.arcgis.com/datasets/guelph-transit-gtfs |
 | Guelph Transit GTFS | Guelph · Municipal | GTFS feed | Direct GTFS.zip download of Guelph Transit bus schedules, routes, and stops. Updated when routing or scheduling changes occur; historical versions available via Transitland. | https://gismaps.guelph.ca/Pages/GTFS/google_transit.zip |
 | Hamilton Street Railway GTFS | Hamilton · Municipal | GTFS feed | HSR GTFS static schedule data for Hamilton transit routes and stops. | https://open.hamilton.ca/documents/6eeccf172c824c2db0484aea54ed7fe4/explore |
@@ -2191,10 +2203,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | MiWay — GTFS Developer Download | Mississauga · Municipal | GTFS feed | MiWay scheduled GTFS and GTFS-Realtime feeds (vehicle positions, trip updates, alerts) for third-party transit apps. | https://www.mississauga.ca/miway-transit/developer-download/ |
 | MiWay — Mississauga Transit | Mississauga · Municipal | Transit | MiWay bus routes, schedules, and real-time info for Mississauga | https://www.mississauga.ca/miway |
 | MiWay — Ways to Pay Your Fare | Mississauga · Municipal | Fare payment guide | Mississauga MiWay's guide to paying fares: PRESTO, contactless, passes and concession details. Complements the catalog's MiWay homepage entry. | https://www.mississauga.ca/miway-transit/fares/ways-to-pay-your-fare/ |
+| North Bay Transit | North Bay · Municipal | Transit | The City of North Bay's transit service in Ontario: routes and schedules, fares, the myRide NBT real-time app, and paratransit booking. | https://northbay.ca/services-payments/north-bay-transit/ |
 | North Bay Transit GTFS | North Bay · Municipal | GTFS feed | Direct GTFS.zip download of North Bay Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland. | https://northbay.tmix.se/gtfs/gtfs.zip |
+| Oakville Transit | Oakville · Municipal | Transit | The Town of Oakville's transit service in Ontario: routes and schedules, fares, real-time bus information, and care-A-van accessible transit. | https://www.oakvilletransit.ca/ |
 | Oakville Transit GTFS | Oakville · Municipal | GTFS feed | Direct GTFS.zip download of Oakville Transit bus schedules, routes, and stops. Updated as needed when service changes occur; archive versions available via Transitland. | https://www.arcgis.com/sharing/rest/content/items/d78a1c1ad6a940009de8b68839a8f606/data |
+| Bradford West Gwillimbury Transit | Ontario · Municipal | Transit | Bradford West Gwillimbury's BWG Transit service in Ontario: town bus routes and schedules, fares, and service information. | https://www.townofbwg.com/living-in-bwg/roads-and-transit/transit/ |
 | Brockville Transit | Ontario · Municipal | Transit | The City of Brockville's transit service in Ontario: bus routes and schedules, fares, and accessible para-transit information. | https://brockville.com/transit/ |
 | Chatham-Kent Transit (Ride CK) | Ontario · Municipal | Transit | Chatham-Kent's Ride CK public transit service in Ontario: inter-community and Chatham routes, schedules, fares, and accessible transit information. | https://www.chatham-kent.ca/transit/Pages/default.aspx |
+| Cobourg Transit | Ontario · Municipal | Transit | The Town of Cobourg's transit service in Ontario: routes and schedules, fares, the Wheels accessible transit service, and service notices. | https://www.cobourg.ca/en/parks-recreation-community/public-transit.aspx |
+| Kawartha Lakes Transit | Ontario · Municipal | Transit | The City of Kawartha Lakes' transit service in Ontario: Lindsay Transit routes and schedules, fares, and the LIMO rural on-demand service. | https://www.kawarthalakes.ca/property-environment/transportation-and-transit/lindsay-transit/ |
+| Kenora Transit | Ontario · Municipal | Transit | The City of Kenora's transit service in northwestern Ontario: 'The Wave' on-demand microtransit (which replaced fixed-route buses in 2024), with fares, service hours and booking information. | https://www.kenora.ca/living-here/transit/ |
+| Leamington Transit (LTGO) | Ontario · Municipal | Transit | The Municipality of Leamington's transit service in Ontario: LTGO on-demand transit (which replaced the fixed-route service; the LTW Leamington-to-Windsor route was discontinued in 2026), with fares, service hours and booking information. | https://www.leamington.ca/our-community/transit/ |
+| Midland-Penetanguishene Transit | Ontario · Municipal | Transit | The transit service for Midland and Penetanguishene in Ontario: routes and schedules, fares, and service information for the two towns' shared bus system. | https://penetanguishene.ca/living-here/transit/ |
+| Orangeville Transit | Ontario · Municipal | Transit | The Town of Orangeville's transit service in Ontario: bus routes and schedules, fares, and transit service notices. | https://www.orangeville.ca/transit |
+| Stratford Transit | Ontario · Municipal | Transit | The City of Stratford's transit service in Ontario: bus routes and schedules, fares, and information on the Stratford Transit Terminal and parallel transit. | https://www.stratford.ca/live-here/transportation/transit/ |
+| Orillia Transit | Orillia · Municipal | Transit | The City of Orillia's transit service in Ontario: routes and schedules, fares and passes, and service updates for city bus routes. | https://www.orillia.ca/roads-and-environment/getting-around/transit/ |
 | Oshawa Transit | Oshawa · Municipal | Transit | Transit page for the City of Oshawa in Durham Region, covering bus routes and schedules, fares and passes, and service information for the city's own transit operation. | https://www.oshawa.ca/getting-around/transit/ |
 | Peterborough Transit | Peterborough · Municipal | Transit | Municipal transit page for Peterborough with route and schedule information, fare products, and service details for the city's bus network. | https://www.peterborough.ca/transit |
 | Sault Ste. Marie Transit | Sault Ste. Marie · Municipal | Transit | City of Sault Ste. Marie transit section, including bus routes and schedules, fare information, and service updates for the Ontario city's transit system. | https://saultstemarie.ca/live/transit/ |
@@ -2208,6 +2231,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | TTC Service Pulse | Toronto · Municipal | Transit tool | Independent civic dashboard tracking TTC service reliability — delays, cancellations and performance trends — built on public TTC open data. By Donald Williams, independent civic technologist. | https://transit.datalyiq.com/ |
 | TTC Wheel-Trans (paratransit booking) | Toronto · Municipal | Transit | Registration and booking hub for Toronto's municipal paratransit service for people with disabilities, including eligibility, new-customer FAQs, booking online or by phone, and the Wheel-Trans 10-year strategy. | https://www.ttc.ca/wheel-trans |
 | Transit Windsor — GTFS | Windsor · Municipal | GTFS feed | Static GTFS feed for Windsor Transit routes, stops, and schedules from the City of Windsor open data portal. | https://opendata.citywindsor.ca/Uploads/google_transit.zip |
+| Woodstock Transit | Woodstock · Municipal | Transit | The City of Woodstock's transit service in Ontario: bus routes and schedules, fares, and transit service information. | https://www.cityofwoodstock.ca/transit |
 
 ### Quebec
 
@@ -2240,7 +2264,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | T3 Transit (PEI) | Charlottetown · Regional | Transit | T3 Transit, the public transit system serving Charlottetown, Stratford and Cornwall on Prince Edward Island: routes and schedules, fares, and service alerts. | https://t3transit.ca/ |
 | Halifax Transit GTFS | Halifax · Regional | GTFS feed | Halifax Transit GTFS schedule data available from the HRM open data catalogue. | https://www.halifax.ca/transportation/halifax-transit |
 | Kings Transit (Nova Scotia) | Kentville · Regional | Transit | Kings Transit, the public transit system for Kings County in Nova Scotia's Annapolis Valley: routes and schedules, fares, and service information. | https://www.kingstransit.ns.ca/ |
+| Codiac Transpo (Moncton) | Moncton · Regional | Transit | Codiac Transpo, the transit system for Moncton, Dieppe and Riverview in New Brunswick: routes and schedules, fares, and service alerts, in English and French. | https://www.codiactranspo.ca/ |
+| Fredericton Transit | Fredericton · Municipal | Transit | Fredericton Transit in New Brunswick: bus routes and schedules, fares, and service information for the capital city. | https://www.fredericton.ca/en/resident-services/fredericton-transit |
 | Halifax Transit — Fares, Tickets and Passes | Halifax · Municipal | Fare information | Halifax's official transit fare page: fare prices, tickets, passes and payment options. The dedicated fare subpage of the catalog's Halifax Transit homepage entry. | https://www.halifax.ca/transportation/halifax-transit/fares-tickets-passes |
+| Saint John Transit | Saint John · Municipal | Transit | Saint John Transit in New Brunswick: bus routes and schedules, fares and passes, and service alerts for the City of Saint John. | https://saintjohn.ca/en/transit |
 | Metrobus (St. John's) | St. John's · Municipal | Transit | Metrobus, the public transit system for St. John's, Mount Pearl and Paradise in Newfoundland and Labrador: routes and schedules, fares, real-time bus tracking, and the m-Card. | https://www.metrobus.com/ |
 
 ### Northern Canada (YT, NT, NU)

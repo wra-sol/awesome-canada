@@ -38234,5 +38234,452 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Stratford Transit",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Stratford's transit service in Ontario: bus routes and schedules, fares, and information on the Stratford Transit Terminal and parallel transit.",
+    "url": "https://www.stratford.ca/live-here/transportation/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Stratford",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Belleville Transit",
+    "level": "Municipal",
+    "jurisdiction": "Belleville",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Belleville's transit service in Ontario: routes and schedules, fares and passes, service alerts, and information on the Belleville Transit Terminal.",
+    "url": "https://www.belleville.ca/walk-ride-and-drive/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Belleville",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Cornwall Transit",
+    "level": "Municipal",
+    "jurisdiction": "Cornwall",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Cornwall's transit service in Ontario: bus routes and schedules, fares, handi-transit accessible service, and service notices.",
+    "url": "https://www.cornwall.ca/en/public-safety-transportation/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Cornwall",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Orillia Transit",
+    "level": "Municipal",
+    "jurisdiction": "Orillia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Orillia's transit service in Ontario: routes and schedules, fares and passes, and service updates for city bus routes.",
+    "url": "https://www.orillia.ca/roads-and-environment/getting-around/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Orillia",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Woodstock Transit",
+    "level": "Municipal",
+    "jurisdiction": "Woodstock",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Woodstock's transit service in Ontario: bus routes and schedules, fares, and transit service information.",
+    "url": "https://www.cityofwoodstock.ca/transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Woodstock",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Orangeville Transit",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Town of Orangeville's transit service in Ontario: bus routes and schedules, fares, and transit service notices.",
+    "url": "https://www.orangeville.ca/transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Orangeville",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Kawartha Lakes Transit",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Kawartha Lakes' transit service in Ontario: Lindsay Transit routes and schedules, fares, and the LIMO rural on-demand service.",
+    "url": "https://www.kawarthalakes.ca/property-environment/transportation-and-transit/lindsay-transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Kawartha Lakes",
+      "Lindsay",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Owen Sound Transit",
+    "level": "Municipal",
+    "jurisdiction": "Grey County",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Owen Sound's transit service in Ontario: bus routes and schedules, fares, and mobility transit information.",
+    "url": "https://www.owensound.ca/living-here/public-transit/city-bus-service/",
+    "tags": [
+      "transit",
+      "bus",
+      "Owen Sound",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Cobourg Transit",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Town of Cobourg's transit service in Ontario: routes and schedules, fares, the Wheels accessible transit service, and service notices.",
+    "url": "https://www.cobourg.ca/en/parks-recreation-community/public-transit.aspx",
+    "tags": [
+      "transit",
+      "bus",
+      "Cobourg",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Midland-Penetanguishene Transit",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The transit service for Midland and Penetanguishene in Ontario: routes and schedules, fares, and service information for the two towns' shared bus system.",
+    "url": "https://penetanguishene.ca/living-here/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Midland",
+      "Penetanguishene",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Kenora Transit",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Kenora's transit service in northwestern Ontario: 'The Wave' on-demand microtransit (which replaced fixed-route buses in 2024), with fares, service hours and booking information.",
+    "url": "https://www.kenora.ca/living-here/transit/",
+    "tags": [
+      "transit",
+      "microtransit",
+      "on-demand",
+      "Kenora",
+      "fares"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Oakville Transit",
+    "level": "Municipal",
+    "jurisdiction": "Oakville",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Town of Oakville's transit service in Ontario: routes and schedules, fares, real-time bus information, and care-A-van accessible transit.",
+    "url": "https://www.oakvilletransit.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Oakville",
+      "schedules",
+      "real-time"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "North Bay Transit",
+    "level": "Municipal",
+    "jurisdiction": "North Bay",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of North Bay's transit service in Ontario: routes and schedules, fares, the myRide NBT real-time app, and paratransit booking.",
+    "url": "https://northbay.ca/services-payments/north-bay-transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "North Bay",
+      "schedules",
+      "real-time"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Bradford West Gwillimbury Transit",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Bradford West Gwillimbury's BWG Transit service in Ontario: town bus routes and schedules, fares, and service information.",
+    "url": "https://www.townofbwg.com/living-in-bwg/roads-and-transit/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Bradford",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Red Deer Transit",
+    "level": "Municipal",
+    "jurisdiction": "Red Deer",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Red Deer's transit service in Alberta: routes and schedules, fares and passes, and the MyBus real-time trip planner.",
+    "url": "https://www.reddeer.ca/transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Red Deer",
+      "trip planner",
+      "fares"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Strathcona County Transit",
+    "level": "Municipal",
+    "jurisdiction": "Strathcona County",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Strathcona County Transit in Alberta (Sherwood Park): local and Edmonton commuter routes, schedules, fares, and mobility bus information.",
+    "url": "https://www.strathcona.ca/transportation-roads/transportation/schedules-routes/",
+    "tags": [
+      "transit",
+      "bus",
+      "Strathcona County",
+      "Sherwood Park",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Airdrie Transit",
+    "level": "Municipal",
+    "jurisdiction": "Airdrie",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Airdrie's transit service in Alberta: local routes, the ICE express bus to Calgary, schedules, fares, and accessible transit information.",
+    "url": "https://www.airdrie.ca/index.cfm?serviceID=1909",
+    "tags": [
+      "transit",
+      "bus",
+      "Airdrie",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Grande Prairie Transit",
+    "level": "Municipal",
+    "jurisdiction": "Grande Prairie",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Grande Prairie's transit service in Alberta: routes and schedules, fares and passes, and service alerts.",
+    "url": "https://cityofgp.com/transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Grande Prairie",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Cochrane Transit (COLT)",
+    "level": "Municipal",
+    "jurisdiction": "Alberta",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Cochrane On-Demand Local Transit (COLT) in Alberta: book on-demand bus rides in the Town of Cochrane online or by app, with fares and service-area information.",
+    "url": "https://cochrane.ca/transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Cochrane",
+      "on-demand",
+      "booking"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Okotoks Transit",
+    "level": "Municipal",
+    "jurisdiction": "Okotoks",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Okotoks Transit in Alberta: the town's on-demand transit booking service, with fares, hours, and how-to-ride information.",
+    "url": "https://www.okotokstransit.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Okotoks",
+      "on-demand",
+      "booking"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Spruce Grove Transit",
+    "level": "Municipal",
+    "jurisdiction": "Alberta",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Spruce Grove Transit in Alberta: local and Edmonton commuter routes (with Stony Plain), schedules, fares, and service alerts.",
+    "url": "https://www.sprucegrove.org/services/spruce-grove-transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Spruce Grove",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Lethbridge Transit (Link)",
+    "level": "Municipal",
+    "jurisdiction": "Lethbridge",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Lethbridge Transit (Link) in Alberta: routes and schedules, fares and passes, real-time information, and Access-A-Ride accessible service.",
+    "url": "https://www.lethbridge.ca/roads-parking-transit/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Lethbridge",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Prince Albert Transit",
+    "level": "Municipal",
+    "jurisdiction": "Prince Albert",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Prince Albert's transit service in Saskatchewan: bus routes and schedules, fares, and service information.",
+    "url": "https://www.citypa.ca/parking-streets-and-transportation/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Prince Albert",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Codiac Transpo (Moncton)",
+    "level": "Regional",
+    "jurisdiction": "Moncton",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Codiac Transpo, the transit system for Moncton, Dieppe and Riverview in New Brunswick: routes and schedules, fares, and service alerts, in English and French.",
+    "url": "https://www.codiactranspo.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Moncton",
+      "schedules",
+      "bilingual"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Saint John Transit",
+    "level": "Municipal",
+    "jurisdiction": "Saint John",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Saint John Transit in New Brunswick: bus routes and schedules, fares and passes, and service alerts for the City of Saint John.",
+    "url": "https://saintjohn.ca/en/transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Saint John",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Fredericton Transit",
+    "level": "Municipal",
+    "jurisdiction": "Fredericton",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Fredericton Transit in New Brunswick: bus routes and schedules, fares, and service information for the capital city.",
+    "url": "https://www.fredericton.ca/en/resident-services/fredericton-transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Fredericton",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Leamington Transit (LTGO)",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Municipality of Leamington's transit service in Ontario: LTGO on-demand transit (which replaced the fixed-route service; the LTW Leamington-to-Windsor route was discontinued in 2026), with fares, service hours and booking information.",
+    "url": "https://www.leamington.ca/our-community/transit/",
+    "tags": [
+      "transit",
+      "on-demand",
+      "Leamington",
+      "LTGO",
+      "fares"
+    ],
+    "dateAdded": "2026-10-17"
   }
 ]
