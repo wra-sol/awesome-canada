@@ -8914,6 +8914,170 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Chinook Arch Regional Library System",
+    "level": "Regional",
+    "jurisdiction": "Alberta",
+    "category": "culture",
+    "type": "Library system",
+    "description": "A regional library system supporting public libraries in southwestern Alberta: the shared catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations.",
+    "url": "https://chinookarch.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Marigold Library System",
+    "level": "Regional",
+    "jurisdiction": "Alberta",
+    "category": "culture",
+    "type": "Library system",
+    "description": "A regional library system supporting public libraries in south-central Alberta: the shared TRAC catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations.",
+    "url": "https://marigold.ab.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Northern Lights Library System",
+    "level": "Regional",
+    "jurisdiction": "Alberta",
+    "category": "culture",
+    "type": "Library system",
+    "description": "A regional library system supporting public libraries in northeastern Alberta: the shared catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations.",
+    "url": "https://www.nlls.ab.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Parkland Regional Library System",
+    "level": "Regional",
+    "jurisdiction": "Alberta",
+    "category": "culture",
+    "type": "Library system",
+    "description": "A regional library system supporting public libraries in central Alberta: the shared catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations.",
+    "url": "https://prl.ab.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Peace Library System",
+    "level": "Regional",
+    "jurisdiction": "Alberta",
+    "category": "culture",
+    "type": "Library system",
+    "description": "A regional library system supporting public libraries in northwestern Alberta: the shared TRAC catalogue, ebook collections, and member library locations and services.",
+    "url": "https://peacelibrarysystem.ab.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Shortgrass Library System",
+    "level": "Regional",
+    "jurisdiction": "Alberta",
+    "category": "culture",
+    "type": "Library system",
+    "description": "A regional library system supporting public libraries in southeastern Alberta, based in Medicine Hat: the shared catalogue, ebook collections, and member library locations and services.",
+    "url": "https://shortgrass.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Alberta",
+      "Medicine Hat",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Wood Buffalo Regional Library",
+    "level": "Regional",
+    "jurisdiction": "Alberta",
+    "category": "culture",
+    "type": "Public library",
+    "description": "The Wood Buffalo regional library in Alberta, serving Fort McMurray and rural communities: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.wbrl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Fort McMurray",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Yellowhead Regional Library",
+    "level": "Regional",
+    "jurisdiction": "Alberta",
+    "category": "culture",
+    "type": "Library system",
+    "description": "A regional library system supporting public libraries west of Edmonton in Alberta: the shared TRAC catalogue, ebook collections, and member library locations and services.",
+    "url": "https://yrl.ab.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Western Manitoba Regional Library",
+    "level": "Regional",
+    "jurisdiction": "Brandon",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Western Manitoba's regional library system, based in Brandon: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the region.",
+    "url": "https://wmrl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Brandon",
+      "Manitoba",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Cariboo Regional District Library",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "culture",
+    "type": "Public library",
+    "description": "The Cariboo Regional District's library system in British Columbia (Cariboo Library Network): a shared catalogue, ebooks, and branch locations, hours and programs across the Cariboo.",
+    "url": "https://www.cln.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Cariboo",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Fraser Valley Regional Library",
     "level": "Regional",
     "jurisdiction": "British Columbia",
@@ -8965,6 +9129,89 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Cape Breton Regional Library",
+    "level": "Regional",
+    "jurisdiction": "Cape Breton",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Cape Breton's regional library system in Nova Scotia: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across Cape Breton and Victoria counties.",
+    "url": "https://cbrl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Cape Breton",
+      "Nova Scotia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "SDG Library",
+    "level": "Regional",
+    "jurisdiction": "Cornwall",
+    "category": "culture",
+    "type": "Public library",
+    "description": "The Stormont, Dundas and Glengarry county library system in Ontario: a shared catalogue for its branch libraries, ebooks and digital resources, and branch locations, hours and programs.",
+    "url": "https://sdglibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Stormont Dundas Glengarry",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Parkland Regional Library",
+    "level": "Regional",
+    "jurisdiction": "Dauphin",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Manitoba's Parkland regional library system, based in Dauphin: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs.",
+    "url": "https://parklandlib.mb.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Dauphin",
+      "Manitoba",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Huron County Library",
+    "level": "Regional",
+    "jurisdiction": "Huron County",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Huron County's library system in Ontario: a shared catalogue for 12 branch libraries, ebooks and digital resources, and branch locations, hours and programs.",
+    "url": "https://www.huroncountylibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Huron County",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Thompson-Nicola Regional Library",
+    "level": "Regional",
+    "jurisdiction": "Kamloops",
+    "category": "culture",
+    "type": "Public library",
+    "description": "The Thompson-Nicola regional library system in British Columbia, based in Kamloops: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the region.",
+    "url": "https://www.tnrl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Kamloops",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Kingston Frontenac Public Library",
     "level": "Regional",
     "jurisdiction": "Kingston",
@@ -8979,6 +9226,120 @@
       "catalogue"
     ],
     "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Annapolis Valley Regional Library",
+    "level": "Regional",
+    "jurisdiction": "Nova Scotia",
+    "category": "culture",
+    "type": "Public library",
+    "description": "The Annapolis Valley regional library system in Nova Scotia: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the valley.",
+    "url": "https://valleylibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Nova Scotia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Cumberland Public Libraries",
+    "level": "Regional",
+    "jurisdiction": "Nova Scotia",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Cumberland County's library system in Nova Scotia: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs.",
+    "url": "https://www.cumberlandpubliclibraries.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Nova Scotia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Eastern Counties Regional Library",
+    "level": "Regional",
+    "jurisdiction": "Nova Scotia",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Eastern Nova Scotia's regional library system (Richmond and Inverness counties): a shared catalogue, ebooks, and branch locations, hours and programs.",
+    "url": "https://www.ecrl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Nova Scotia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "South Shore Public Libraries",
+    "level": "Regional",
+    "jurisdiction": "Nova Scotia",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Nova Scotia's South Shore library system (Lunenburg and Queens counties): a shared catalogue, ebooks and digital resources, and branch locations, hours and programs.",
+    "url": "https://www.southshorepubliclibraries.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Nova Scotia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Western Counties Regional Library",
+    "level": "Regional",
+    "jurisdiction": "Nova Scotia",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Western Nova Scotia's regional library system, based in Yarmouth: a shared catalogue, ebooks, and branch locations, hours and programs across Digby, Shelburne and Yarmouth counties.",
+    "url": "https://westerncounties.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Yarmouth",
+      "Nova Scotia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Prince Edward County Public Library",
+    "level": "Regional",
+    "jurisdiction": "Ontario",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Prince Edward County's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.peclibrary.org/",
+    "tags": [
+      "library",
+      "books",
+      "Prince Edward County",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Lambton County Library",
+    "level": "Regional",
+    "jurisdiction": "Sarnia",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Lambton County's library system in Ontario: a shared catalogue for 25 branch libraries across the county, ebooks and digital resources, and branch locations, hours and programs.",
+    "url": "https://www.lclibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Lambton County",
+      "Sarnia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Greater Victoria Public Library",
@@ -8997,6 +9358,104 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Oxford County Library",
+    "level": "Regional",
+    "jurisdiction": "Woodstock",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Oxford County's library system in Ontario: a shared catalogue for 14 branch libraries, ebooks and digital resources, and branch locations, hours and programs.",
+    "url": "https://www.ocl.net/",
+    "tags": [
+      "library",
+      "books",
+      "Oxford County",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Airdrie Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Airdrie",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Airdrie's public library in Alberta: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.airdriepubliclibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Airdrie",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Ajax Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Ajax",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Ajax's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.ajaxlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Ajax",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Spruce Grove Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Alberta",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Spruce Grove's public library in Alberta: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://sgpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Spruce Grove",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Barrie Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Barrie's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.barrielibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Barrie",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Belleville Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Belleville",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Belleville's public library and John M. Parrott Art Gallery in Ontario: catalogue search, library card accounts, digital resources, events, and gallery exhibitions.",
+    "url": "https://www.bellevillelibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Belleville",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Brampton Library",
     "level": "Municipal",
     "jurisdiction": "Brampton",
@@ -9011,6 +9470,56 @@
       "catalogue"
     ],
     "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Brantford Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Brantford",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Brantford's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://brantfordlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Brantford",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Squamish Public Library",
+    "level": "Municipal",
+    "jurisdiction": "British Columbia",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Squamish's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://squamishlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Squamish",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Terrace Public Library",
+    "level": "Municipal",
+    "jurisdiction": "British Columbia",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Terrace's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.terracelibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Terrace",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Burlington Public Library",
@@ -9062,6 +9571,22 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Cambridge Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Cambridge",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Cambridge's public library system in Ontario (formerly Idea Exchange): catalogue search, ebooks, library and gallery locations and hours, membership, and programs and exhibitions.",
+    "url": "https://cambridgepl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Cambridge",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Coquitlam Public Library",
     "level": "Municipal",
     "jurisdiction": "Coquitlam",
@@ -9079,6 +9604,23 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Cornwall Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Cornwall",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Cornwall's public library in Ontario: catalogue search, ebooks and digital resources, hours, and bilingual programs and events.",
+    "url": "https://library.cornwall.on.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Cornwall",
+      "catalogue",
+      "bilingual"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Edmonton Public Library",
     "level": "Municipal",
     "jurisdiction": "Edmonton",
@@ -9093,6 +9635,40 @@
       "catalogue"
     ],
     "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Bibliothèque de Gatineau",
+    "level": "Municipal",
+    "jurisdiction": "Gatineau",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Gatineau's municipal library network in Quebec: membership, catalogue search, online resources, branch addresses and hours, and activities across the city's libraries. In French.",
+    "url": "https://www.gatineau.ca/bibliotheque",
+    "tags": [
+      "library",
+      "books",
+      "Gatineau",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Grande Prairie Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Grande Prairie",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Grande Prairie's public library in Alberta: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.gppl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Grande Prairie",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Greater Sudbury Public Library",
@@ -9144,6 +9720,22 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Halton Hills Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Halton",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Halton Hills' public library system in Ontario (Georgetown and Acton): catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.hhpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Halton Hills",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Hamilton Public Library",
     "level": "Municipal",
     "jurisdiction": "Hamilton",
@@ -9174,6 +9766,23 @@
       "catalogue"
     ],
     "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Lethbridge Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Lethbridge",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Lethbridge's public library system in Alberta: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.lethlib.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Lethbridge",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "London Public Library",
@@ -9208,6 +9817,23 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "North Vancouver City Library",
+    "level": "Municipal",
+    "jurisdiction": "Metro Vancouver",
+    "category": "culture",
+    "type": "Public library",
+    "description": "The City of North Vancouver's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.nvcl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "North Vancouver",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "North Vancouver District Public Library",
     "level": "Municipal",
     "jurisdiction": "Metro Vancouver",
@@ -9225,6 +9851,40 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Port Moody Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Metro Vancouver",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Port Moody's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.portmoodylibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Port Moody",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Richmond Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Metro Vancouver",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Richmond's public library system in British Columbia: catalogue search, ebooks and streaming, branch locations and hours for the Brighouse, Ironwood, Cambie, Steveston and Hamilton branches, and programs for all ages.",
+    "url": "https://www.yourlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Richmond",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "West Vancouver Memorial Library",
     "level": "Municipal",
     "jurisdiction": "Metro Vancouver",
@@ -9240,6 +9900,22 @@
       "catalogue"
     ],
     "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Milton Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Milton",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Milton's public library system in Ontario: catalogue search, ebooks and online resources, branch locations and hours, and programs and events.",
+    "url": "https://beinspired.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Milton",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Mississauga Heritage — Heritage Register",
@@ -9272,6 +9948,41 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Beaconsfield Library",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Beaconsfield's municipal library on the Island of Montreal: catalogue, borrowing, hours and programs via the city's official library pages.",
+    "url": "https://beaconsfield.ca/en/library",
+    "tags": [
+      "library",
+      "books",
+      "Beaconsfield",
+      "Montreal",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Côte Saint-Luc Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "culture",
+    "type": "Public library",
+    "description": "The Eleanor London Côte Saint-Luc Public Library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services.",
+    "url": "https://csllibrary.com/",
+    "tags": [
+      "library",
+      "books",
+      "Côte Saint-Luc",
+      "Montreal",
+      "catalogue",
+      "bilingual"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Montreal Open Data showcase",
     "level": "Municipal",
     "jurisdiction": "Montreal",
@@ -9283,6 +9994,107 @@
       "open data",
       "apps"
     ]
+  },
+  {
+    "name": "Pointe-Claire Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Pointe-Claire's public library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services.",
+    "url": "https://biblio.pointe-claire.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Pointe-Claire",
+      "Montreal",
+      "catalogue",
+      "bilingual"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Westmount Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Montreal",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Westmount's public library on the Island of Montreal: catalogue, programs, hours and services via the city's official library pages.",
+    "url": "https://westmount.org/biblio/",
+    "tags": [
+      "library",
+      "books",
+      "Westmount",
+      "Montreal",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Moose Jaw Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Moose Jaw",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Moose Jaw's public library in Saskatchewan: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.mjlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Moose Jaw",
+      "Saskatchewan",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "New Westminster Public Library",
+    "level": "Municipal",
+    "jurisdiction": "New Westminster",
+    "category": "culture",
+    "type": "Public library",
+    "description": "New Westminster's public library in British Columbia: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.nwpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "New Westminster",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Newmarket Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Newmarket",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Newmarket's public library in Ontario: catalogue search, ebooks and streaming services, programs for children and adults, and events.",
+    "url": "https://www.newmarketpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Newmarket",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Niagara Falls Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Niagara Falls",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Niagara Falls' public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://nflibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Niagara Falls",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Oakville Public Library",
@@ -9299,6 +10111,54 @@
       "catalogue"
     ],
     "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Chatham-Kent Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Chatham-Kent's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.ckpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Chatham-Kent",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Kawartha Lakes Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "culture",
+    "type": "Public library",
+    "description": "The City of Kawartha Lakes' public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours across the city, and programs and events.",
+    "url": "https://www.kawarthalakeslibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Kawartha Lakes",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Orillia Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Orillia",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Orillia's public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.orilliapubliclibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Orillia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Oshawa Public Libraries",
@@ -9334,6 +10194,161 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Penticton Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Penticton",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Penticton's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.pentictonlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Penticton",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Peterborough Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Peterborough",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Peterborough's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.ptbolibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Peterborough",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Pickering Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Pickering",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Pickering's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://pickeringlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Pickering",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Prince George Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Prince George",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Prince George's public library in British Columbia: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.pgpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Prince George",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèque de Saint-Eustache",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Saint-Eustache's municipal library in Quebec: catalogue, borrowing, hours and activities from the city's official site. In French.",
+    "url": "https://www.saint-eustache.ca/bibliotheque",
+    "tags": [
+      "library",
+      "books",
+      "Saint-Eustache",
+      "Quebec",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèque de Sainte-Catherine",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Sainte-Catherine's municipal library in Quebec: catalogue and borrowing services, hours, and activities from the city's official library site. In French.",
+    "url": "https://www.ville.sainte-catherine.qc.ca/bibliotheque/",
+    "tags": [
+      "library",
+      "books",
+      "Sainte-Catherine",
+      "Quebec",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèque de Sainte-Julie",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Sainte-Julie's municipal library in Quebec: catalogue search, borrowing, hours and activities. In French.",
+    "url": "https://biblio.saintejulie.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Sainte-Julie",
+      "Quebec",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèque de Vaudreuil-Dorion",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Vaudreuil-Dorion's municipal library in Quebec: catalogue search, borrowing, hours and programming. In French.",
+    "url": "https://www.bibliotheque.vaudreuil-dorion.qc.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Vaudreuil-Dorion",
+      "Quebec",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèque de Québec",
+    "level": "Municipal",
+    "jurisdiction": "Quebec City",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Quebec City's public library network: catalogue search, digital books and resources, branch locations and hours across the city's libraries, and activities and exhibitions. In French.",
+    "url": "https://www.bibliothequedequebec.qc.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Quebec City",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Red Deer Public Library",
     "level": "Municipal",
     "jurisdiction": "Red Deer",
@@ -9367,6 +10382,57 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Bibliothèque de Repentigny",
+    "level": "Municipal",
+    "jurisdiction": "Repentigny",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Repentigny's municipal library service in Quebec: catalogue, borrowing, hours and programming from the city's official site. In French.",
+    "url": "https://repentigny.ca/bibliotheque",
+    "tags": [
+      "library",
+      "books",
+      "Repentigny",
+      "Quebec",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Richmond Hill Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Richmond Hill",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Richmond Hill's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.rhpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Richmond Hill",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Bibliothèques de Saguenay",
+    "level": "Municipal",
+    "jurisdiction": "Saguenay",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Saguenay's municipal library network in Quebec: catalogue search and library accounts, digital lending, borrowing information, and library programming. In French.",
+    "url": "https://bibliotheque.saguenay.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Saguenay",
+      "catalogue",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Saskatoon Public Library",
     "level": "Municipal",
     "jurisdiction": "Saskatoon",
@@ -9381,6 +10447,88 @@
       "catalogue"
     ],
     "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Sault Ste. Marie Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Sault Ste. Marie",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Sault Ste. Marie's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://ssmpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Sault Ste. Marie",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "St. Albert Public Library",
+    "level": "Municipal",
+    "jurisdiction": "St. Albert",
+    "category": "culture",
+    "type": "Public library",
+    "description": "St. Albert's public library in Alberta: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.sapl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "St. Albert",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "St. Catharines Public Library",
+    "level": "Municipal",
+    "jurisdiction": "St. Catharines",
+    "category": "culture",
+    "type": "Public library",
+    "description": "St. Catharines' public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.myscpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "St. Catharines",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "St. Thomas Public Library",
+    "level": "Municipal",
+    "jurisdiction": "St. Thomas",
+    "category": "culture",
+    "type": "Public library",
+    "description": "St. Thomas' public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.stthomaspubliclibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "St. Thomas",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Strathcona County Library",
+    "level": "Municipal",
+    "jurisdiction": "Strathcona County",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Strathcona County's library in Alberta (Sherwood Park): catalogue search, ebooks and digital resources, bookmobile stops, hours, and programs and events.",
+    "url": "https://sclibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Strathcona County",
+      "Alberta",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Surrey Libraries",
@@ -9414,6 +10562,23 @@
       "catalogue"
     ],
     "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Timmins Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Timmins",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Timmins' bilingual public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events in English and French.",
+    "url": "https://www.timminspubliclibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Timmins",
+      "catalogue",
+      "bilingual"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "near & here",
@@ -9552,6 +10717,55 @@
     "dateAdded": "2026-10-15"
   },
   {
+    "name": "Welland Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Welland",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Welland's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://wellandlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Welland",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Whistler Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Whistler",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Whistler's public library in British Columbia: catalogue search and library accounts, ebooks, hours and location, and programs and events.",
+    "url": "https://www.whistlerlibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Whistler",
+      "British Columbia",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Whitby Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Whitby",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Whitby's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
+    "url": "https://www.whitbylibrary.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Whitby",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Windsor Public Library",
     "level": "Municipal",
     "jurisdiction": "Windsor",
@@ -9582,6 +10796,22 @@
       "catalogue"
     ],
     "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Woodstock Public Library",
+    "level": "Municipal",
+    "jurisdiction": "Woodstock",
+    "category": "culture",
+    "type": "Public library",
+    "description": "Woodstock's public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events.",
+    "url": "https://www.mywpl.ca/",
+    "tags": [
+      "library",
+      "books",
+      "Woodstock",
+      "catalogue"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Canada Student Loans and Grants",
@@ -32266,6 +33496,24 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Central Fraser Valley Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "Abbotsford",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Central Fraser Valley transit system operated with BC Transit: routes and schedules for Abbotsford and Mission, fares, and trip planning.",
+    "url": "https://www.bctransit.com/central-fraser-valley/",
+    "tags": [
+      "transit",
+      "bus",
+      "Abbotsford",
+      "Mission",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Wood Buffalo Transit (Fort McMurray)",
     "level": "Regional",
     "jurisdiction": "Alberta",
@@ -32283,6 +33531,41 @@
       "schedules"
     ],
     "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Roam Transit (Bow Valley)",
+    "level": "Regional",
+    "jurisdiction": "Banff",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Roam Public Transit, the Bow Valley Regional Transit Services Commission system serving Banff, Canmore and Lake Louise in Alberta: routes and schedules, fares, and real-time bus tracking.",
+    "url": "https://roamtransit.com/",
+    "tags": [
+      "transit",
+      "bus",
+      "Banff",
+      "Canmore",
+      "real-time",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Quinte Transit",
+    "level": "Regional",
+    "jurisdiction": "Belleville",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Quinte Transit's regional bus service in the Quinte region of Ontario, serving Belleville, Quinte West, Brighton and Prince Edward County: routes and schedules, fares, and accessible transit booking.",
+    "url": "https://quintetransit.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Quinte",
+      "Belleville",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Brampton Transit",
@@ -32311,6 +33594,57 @@
     ]
   },
   {
+    "name": "East Kootenay Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The East Kootenay transit system operated with BC Transit: routes and schedules for Cranbrook, Kimberley and area, fares, and trip planning.",
+    "url": "https://www.bctransit.com/cranbrook/",
+    "tags": [
+      "transit",
+      "bus",
+      "Cranbrook",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Sunshine Coast Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Sunshine Coast transit system operated with BC Transit: routes and schedules for Gibsons, Sechelt and area, fares, and trip planning.",
+    "url": "https://www.bctransit.com/sunshine-coast/",
+    "tags": [
+      "transit",
+      "bus",
+      "Sunshine Coast",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Vernon Regional Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Vernon regional transit system operated with BC Transit: routes and schedules for Vernon, Coldstream and the North Okanagan, fares, and trip planning.",
+    "url": "https://www.bctransit.com/vernon/",
+    "tags": [
+      "transit",
+      "bus",
+      "Vernon",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Burlington Transit",
     "level": "Regional",
     "jurisdiction": "Burlington",
@@ -32322,6 +33656,57 @@
       "transit",
       "Burlington"
     ]
+  },
+  {
+    "name": "Strait Area Transit (Nova Scotia)",
+    "level": "Regional",
+    "jurisdiction": "Cape Breton",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Strait Area Transit, the community transit service for the Strait of Canso area of Nova Scotia (Port Hawkesbury, Richmond and Inverness counties): routes, schedules, and booking information.",
+    "url": "https://satbus.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Strait Area",
+      "Nova Scotia",
+      "booking"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "T3 Transit (PEI)",
+    "level": "Regional",
+    "jurisdiction": "Charlottetown",
+    "category": "transit",
+    "type": "Transit",
+    "description": "T3 Transit, the public transit system serving Charlottetown, Stratford and Cornwall on Prince Edward Island: routes and schedules, fares, and service alerts.",
+    "url": "https://t3transit.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Charlottetown",
+      "PEI",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Comox Valley Regional Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "Courtenay",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Comox Valley regional transit system operated with BC Transit: routes and schedules for Courtenay, Comox and Cumberland, fares, and trip planning.",
+    "url": "https://www.bctransit.com/comox-valley/",
+    "tags": [
+      "transit",
+      "bus",
+      "Comox Valley",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Edmonton Transit Service (ETS)",
@@ -32376,6 +33761,40 @@
       "transit",
       "Hamilton"
     ]
+  },
+  {
+    "name": "Kelowna Regional Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "Kelowna",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Kelowna regional transit system operated with BC Transit: routes and schedules for Kelowna, West Kelowna, Peachland and Lake Country, fares, and trip planning.",
+    "url": "https://www.bctransit.com/kelowna/",
+    "tags": [
+      "transit",
+      "bus",
+      "Kelowna",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Kings Transit (Nova Scotia)",
+    "level": "Regional",
+    "jurisdiction": "Kentville",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Kings Transit, the public transit system for Kings County in Nova Scotia's Annapolis Valley: routes and schedules, fares, and service information.",
+    "url": "https://www.kingstransit.ns.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Kings County",
+      "Nova Scotia",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "London Transit",
@@ -32464,6 +33883,57 @@
       "commuter",
       "quebec"
     ]
+  },
+  {
+    "name": "Regional District of Nanaimo Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "Nanaimo",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Regional District of Nanaimo transit system operated with BC Transit: routes and schedules for Nanaimo, Parksville, Qualicum Beach and area, fares, and trip planning.",
+    "url": "https://www.bctransit.com/nanaimo/",
+    "tags": [
+      "transit",
+      "bus",
+      "Nanaimo",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Niagara Region Transit",
+    "level": "Regional",
+    "jurisdiction": "Niagara",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The regional transit system for Niagara Region, Ontario: inter-municipal routes connecting St. Catharines, Niagara Falls, Welland and neighbouring communities, with schedules, fares, and a trip planner.",
+    "url": "https://nrtransit.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Niagara",
+      "trip planner",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Simcoe County LINX Transit",
+    "level": "Regional",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Simcoe County's inter-community LINX transit service in Ontario: routes linking Barrie, Midland, Orillia, Collingwood, Wasaga Beach and other communities, with schedules and fares.",
+    "url": "https://www.simcoe.ca/dpt/linx-transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Simcoe County",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Durham Region Transit",
@@ -32560,6 +34030,40 @@
       "OC Transpo",
       "real-time"
     ]
+  },
+  {
+    "name": "South Okanagan-Similkameen Transit (BC Transit)",
+    "level": "Regional",
+    "jurisdiction": "Penticton",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The South Okanagan-Similkameen transit system operated with BC Transit: routes and schedules for Penticton and area communities, fares, and trip planning.",
+    "url": "https://www.bctransit.com/penticton/",
+    "tags": [
+      "transit",
+      "bus",
+      "Penticton",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Transport collectif de la MRC de Joliette",
+    "level": "Regional",
+    "jurisdiction": "Quebec",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Rural collective transport for the Joliette regional county municipality in Quebec: shared-transport booking, service area, and fares for area municipalities. In French.",
+    "url": "https://www.mrcjoliette.qc.ca/transport-collectif",
+    "tags": [
+      "transit",
+      "bus",
+      "Joliette",
+      "booking",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "BC Transit — Victoria Region Fares",
@@ -32668,6 +34172,39 @@
     ]
   },
   {
+    "name": "Fort Saskatchewan Transit (FST)",
+    "level": "Municipal",
+    "jurisdiction": "Alberta",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Fort Saskatchewan Transit in Alberta: local routes and the Edmonton commuter route, schedules, fares, and service information.",
+    "url": "https://www.fortsask.ca/en/living-here/transit.aspx",
+    "tags": [
+      "transit",
+      "bus",
+      "Fort Saskatchewan",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Leduc Transit",
+    "level": "Municipal",
+    "jurisdiction": "Alberta",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Leduc Transit in Alberta: local routes, the Leduc Assisted Transportation Service, and the Route 747 airport connector, with schedules and fares.",
+    "url": "https://www.leduc.ca/transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Leduc",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Barrie Transit GTFS",
     "level": "Municipal",
     "jurisdiction": "Barrie",
@@ -32735,6 +34272,40 @@
     "dateAdded": "2026-10-09"
   },
   {
+    "name": "Campbell River Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Campbell River transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Campbell River.",
+    "url": "https://www.bctransit.com/campbell-river/",
+    "tags": [
+      "transit",
+      "bus",
+      "Campbell River",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Squamish Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "British Columbia",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Squamish transit system operated with BC Transit: routes and schedules, fares, and trip planning for the District of Squamish.",
+    "url": "https://www.bctransit.com/squamish/",
+    "tags": [
+      "transit",
+      "bus",
+      "Squamish",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Burlington Transit — GTFS",
     "level": "Municipal",
     "jurisdiction": "Burlington",
@@ -32748,6 +34319,23 @@
       "gtfs",
       "open data"
     ]
+  },
+  {
+    "name": "Calgary Transit",
+    "level": "Municipal",
+    "jurisdiction": "Calgary",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Calgary Transit's main site: CTrain and bus trip planning, routes and schedules, fares, service alerts, and the Calgary Transit app.",
+    "url": "https://www.calgarytransit.com/",
+    "tags": [
+      "transit",
+      "bus",
+      "Calgary",
+      "trip planner",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Calgary Transit — Fares and Passes",
@@ -32779,6 +34367,40 @@
       "transit",
       "csv"
     ]
+  },
+  {
+    "name": "Chilliwack Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "Chilliwack",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Chilliwack transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Chilliwack.",
+    "url": "https://www.bctransit.com/chilliwack/",
+    "tags": [
+      "transit",
+      "bus",
+      "Chilliwack",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Collingwood Transit (COLLTRANS)",
+    "level": "Municipal",
+    "jurisdiction": "Collingwood",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Collingwood's COLLTRANS transit service in Ontario: routes and schedules, fares, the real-time bus tracker, and links to the inter-community Blue Mountains and Wasaga Beach links.",
+    "url": "https://www.collingwood.ca/transit",
+    "tags": [
+      "transit",
+      "bus",
+      "Collingwood",
+      "real-time",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Edmonton ETS GTFS",
@@ -32845,6 +34467,23 @@
     "dateAdded": "2026-10-06"
   },
   {
+    "name": "Greater Sudbury Transit (GOVA)",
+    "level": "Municipal",
+    "jurisdiction": "Greater Sudbury",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Greater Sudbury's municipal transit service (GOVA): routes and schedules, fares and passes, detours and service alerts, and accessible transit information.",
+    "url": "https://www.greatersudbury.ca/living/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Greater Sudbury",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Guelph Transit — GTFS Open Data",
     "level": "Municipal",
     "jurisdiction": "Guelph",
@@ -32906,6 +34545,23 @@
       "transit",
       "hsr"
     ]
+  },
+  {
+    "name": "Kamloops Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "Kamloops",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Kamloops transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Kamloops.",
+    "url": "https://www.bctransit.com/kamloops/",
+    "tags": [
+      "transit",
+      "bus",
+      "Kamloops",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Kingston Transit",
@@ -32981,6 +34637,23 @@
     ]
   },
   {
+    "name": "Société de transport de Lévis (STLévis)",
+    "level": "Municipal",
+    "jurisdiction": "Lévis",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Lévis's public transit authority in Quebec: bus routes and schedules, fares and passes, and service alerts for the Lévis area. In French.",
+    "url": "https://www.stlevis.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Lévis",
+      "schedules",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "London Transit Commission GTFS",
     "level": "Municipal",
     "jurisdiction": "London",
@@ -33048,6 +34721,23 @@
       "zip",
       "bus"
     ]
+  },
+  {
+    "name": "Milton Transit",
+    "level": "Municipal",
+    "jurisdiction": "Milton",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Town of Milton's transit service in Ontario: routes and schedules, fares and passes, service alerts, and access+ accessible transit information.",
+    "url": "https://www.milton.ca/en/living-in-milton/transit.aspx",
+    "tags": [
+      "transit",
+      "bus",
+      "Milton",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "MiWay — GTFS Developer Download",
@@ -33158,6 +34848,39 @@
     ]
   },
   {
+    "name": "Brockville Transit",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The City of Brockville's transit service in Ontario: bus routes and schedules, fares, and accessible para-transit information.",
+    "url": "https://brockville.com/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Brockville",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Chatham-Kent Transit (Ride CK)",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Chatham-Kent's Ride CK public transit service in Ontario: inter-community and Chatham routes, schedules, fares, and accessible transit information.",
+    "url": "https://www.chatham-kent.ca/transit/Pages/default.aspx",
+    "tags": [
+      "transit",
+      "bus",
+      "Chatham-Kent",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Oshawa Transit",
     "level": "Municipal",
     "jurisdiction": "Oshawa",
@@ -33194,6 +34917,23 @@
       "fares"
     ],
     "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Prince George Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "Prince George",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Prince George transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Prince George.",
+    "url": "https://www.bctransit.com/prince-george/",
+    "tags": [
+      "transit",
+      "bus",
+      "Prince George",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "STO — GTFS Open Data (Gatineau)",
@@ -33269,6 +35009,23 @@
     ]
   },
   {
+    "name": "Regina Transit",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Regina Transit's main page in Saskatchewan: routes and schedules, trip planning, fares, and paratransit information.",
+    "url": "https://www.regina.ca/transportation-roads-parking/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Regina",
+      "trip planner",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
     "name": "Regina Transit — Fares and Passes",
     "level": "Municipal",
     "jurisdiction": "Regina",
@@ -33301,6 +35058,23 @@
       "Quebec",
       "zip"
     ]
+  },
+  {
+    "name": "Société de transport du Saguenay (STS)",
+    "level": "Municipal",
+    "jurisdiction": "Saguenay",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Saguenay's public transit authority in Quebec: bus routes and schedules, fares, and accessible transit information. In French.",
+    "url": "https://www.stsaguenay.ca/",
+    "tags": [
+      "transit",
+      "bus",
+      "Saguenay",
+      "schedules",
+      "French"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Saskatoon Transit",
@@ -33382,6 +35156,40 @@
       "schedules"
     ],
     "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "St. Albert Transit (StAT)",
+    "level": "Municipal",
+    "jurisdiction": "St. Albert",
+    "category": "transit",
+    "type": "Transit",
+    "description": "St. Albert Transit in Alberta: local and Edmonton commuter routes, schedules, fares, and Handibus accessible service information.",
+    "url": "https://stalbert.ca/city/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "St. Albert",
+      "schedules",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Metrobus (St. John's)",
+    "level": "Municipal",
+    "jurisdiction": "St. John's",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Metrobus, the public transit system for St. John's, Mount Pearl and Paradise in Newfoundland and Labrador: routes and schedules, fares, real-time bus tracking, and the m-Card.",
+    "url": "https://www.metrobus.com/",
+    "tags": [
+      "transit",
+      "bus",
+      "St. John's",
+      "real-time",
+      "fares"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Thunder Bay Transit",
@@ -33548,6 +35356,40 @@
       "schedules"
     ],
     "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "Whistler Transit (BC Transit)",
+    "level": "Municipal",
+    "jurisdiction": "Whistler",
+    "category": "transit",
+    "type": "Transit",
+    "description": "The Whistler transit system operated with BC Transit: routes and schedules, fares, and trip planning for the Resort Municipality of Whistler.",
+    "url": "https://www.bctransit.com/whistler/",
+    "tags": [
+      "transit",
+      "bus",
+      "Whistler",
+      "BC Transit",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
+  },
+  {
+    "name": "Whitehorse Transit",
+    "level": "Municipal",
+    "jurisdiction": "Whitehorse",
+    "category": "transit",
+    "type": "Transit",
+    "description": "Whitehorse Transit in Yukon: bus routes and schedules, fares and passes, and service alerts for the City of Whitehorse.",
+    "url": "https://www.whitehorse.ca/living-in-whitehorse/transit/",
+    "tags": [
+      "transit",
+      "bus",
+      "Whitehorse",
+      "Yukon",
+      "schedules"
+    ],
+    "dateAdded": "2026-10-16"
   },
   {
     "name": "Transit Windsor — GTFS",
@@ -36392,1847 +38234,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Richmond Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Metro Vancouver",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Richmond's public library system in British Columbia: catalogue search, ebooks and streaming, branch locations and hours for the Brighouse, Ironwood, Cambie, Steveston and Hamilton branches, and programs for all ages.",
-    "url": "https://www.yourlibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Richmond",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Barrie Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Barrie",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Barrie's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.barrielibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Barrie",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Cambridge Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Cambridge",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Cambridge's public library system in Ontario (formerly Idea Exchange): catalogue search, ebooks, library and gallery locations and hours, membership, and programs and exhibitions.",
-    "url": "https://cambridgepl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Cambridge",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Pickering Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Pickering",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Pickering's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://pickeringlibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Pickering",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Ajax Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Ajax",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Ajax's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.ajaxlibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Ajax",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Whitby Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Whitby",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Whitby's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.whitbylibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Whitby",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Richmond Hill Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Richmond Hill",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Richmond Hill's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.rhpl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Richmond Hill",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Milton Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Milton",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Milton's public library system in Ontario: catalogue search, ebooks and online resources, branch locations and hours, and programs and events.",
-    "url": "https://beinspired.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Milton",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Newmarket Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Newmarket",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Newmarket's public library in Ontario: catalogue search, ebooks and streaming services, programs for children and adults, and events.",
-    "url": "https://www.newmarketpl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Newmarket",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "St. Catharines Public Library",
-    "level": "Municipal",
-    "jurisdiction": "St. Catharines",
-    "category": "culture",
-    "type": "Public library",
-    "description": "St. Catharines' public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.myscpl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "St. Catharines",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Niagara Falls Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Niagara Falls",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Niagara Falls' public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://nflibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Niagara Falls",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Peterborough Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Peterborough",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Peterborough's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.ptbolibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Peterborough",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Brantford Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Brantford",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Brantford's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://brantfordlibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Brantford",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Lambton County Library",
-    "level": "Regional",
-    "jurisdiction": "Sarnia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Lambton County's library system in Ontario: a shared catalogue for 25 branch libraries across the county, ebooks and digital resources, and branch locations, hours and programs.",
-    "url": "https://www.lclibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Lambton County",
-      "Sarnia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Sault Ste. Marie Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Sault Ste. Marie",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Sault Ste. Marie's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://ssmpl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Sault Ste. Marie",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Belleville Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Belleville",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Belleville's public library and John M. Parrott Art Gallery in Ontario: catalogue search, library card accounts, digital resources, events, and gallery exhibitions.",
-    "url": "https://www.bellevillelibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Belleville",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Halton Hills Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Halton",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Halton Hills' public library system in Ontario (Georgetown and Acton): catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.hhpl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Halton Hills",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Orillia Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Orillia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Orillia's public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.orilliapubliclibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Orillia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Welland Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Welland",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Welland's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://wellandlibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Welland",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Woodstock Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Woodstock",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Woodstock's public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.mywpl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Woodstock",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "St. Thomas Public Library",
-    "level": "Municipal",
-    "jurisdiction": "St. Thomas",
-    "category": "culture",
-    "type": "Public library",
-    "description": "St. Thomas' public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.stthomaspubliclibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "St. Thomas",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Huron County Library",
-    "level": "Regional",
-    "jurisdiction": "Huron County",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Huron County's library system in Ontario: a shared catalogue for 12 branch libraries, ebooks and digital resources, and branch locations, hours and programs.",
-    "url": "https://www.huroncountylibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Huron County",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Oxford County Library",
-    "level": "Regional",
-    "jurisdiction": "Woodstock",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Oxford County's library system in Ontario: a shared catalogue for 14 branch libraries, ebooks and digital resources, and branch locations, hours and programs.",
-    "url": "https://www.ocl.net/",
-    "tags": [
-      "library",
-      "books",
-      "Oxford County",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Kawartha Lakes Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "culture",
-    "type": "Public library",
-    "description": "The City of Kawartha Lakes' public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours across the city, and programs and events.",
-    "url": "https://www.kawarthalakeslibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Kawartha Lakes",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Prince Edward County Public Library",
-    "level": "Regional",
-    "jurisdiction": "Ontario",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Prince Edward County's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.peclibrary.org/",
-    "tags": [
-      "library",
-      "books",
-      "Prince Edward County",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "SDG Library",
-    "level": "Regional",
-    "jurisdiction": "Cornwall",
-    "category": "culture",
-    "type": "Public library",
-    "description": "The Stormont, Dundas and Glengarry county library system in Ontario: a shared catalogue for its branch libraries, ebooks and digital resources, and branch locations, hours and programs.",
-    "url": "https://sdglibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Stormont Dundas Glengarry",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Chatham-Kent Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Chatham-Kent's public library system in Ontario: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.ckpl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Chatham-Kent",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Cornwall Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Cornwall",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Cornwall's public library in Ontario: catalogue search, ebooks and digital resources, hours, and bilingual programs and events.",
-    "url": "https://library.cornwall.on.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Cornwall",
-      "catalogue",
-      "bilingual"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Timmins Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Timmins",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Timmins' bilingual public library in Ontario: catalogue search, ebooks and digital resources, hours, and programs and events in English and French.",
-    "url": "https://www.timminspubliclibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Timmins",
-      "catalogue",
-      "bilingual"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Thompson-Nicola Regional Library",
-    "level": "Regional",
-    "jurisdiction": "Kamloops",
-    "category": "culture",
-    "type": "Public library",
-    "description": "The Thompson-Nicola regional library system in British Columbia, based in Kamloops: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the region.",
-    "url": "https://www.tnrl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Kamloops",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Prince George Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Prince George",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Prince George's public library in British Columbia: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.pgpl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Prince George",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "North Vancouver City Library",
-    "level": "Municipal",
-    "jurisdiction": "Metro Vancouver",
-    "category": "culture",
-    "type": "Public library",
-    "description": "The City of North Vancouver's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.nvcl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "North Vancouver",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Port Moody Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Metro Vancouver",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Port Moody's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.portmoodylibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Port Moody",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "New Westminster Public Library",
-    "level": "Municipal",
-    "jurisdiction": "New Westminster",
-    "category": "culture",
-    "type": "Public library",
-    "description": "New Westminster's public library in British Columbia: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.nwpl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "New Westminster",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Whistler Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Whistler",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Whistler's public library in British Columbia: catalogue search and library accounts, ebooks, hours and location, and programs and events.",
-    "url": "https://www.whistlerlibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Whistler",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Squamish Public Library",
-    "level": "Municipal",
-    "jurisdiction": "British Columbia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Squamish's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://squamishlibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Squamish",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Penticton Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Penticton",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Penticton's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.pentictonlibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Penticton",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Terrace Public Library",
-    "level": "Municipal",
-    "jurisdiction": "British Columbia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Terrace's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.terracelibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Terrace",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Cariboo Regional District Library",
-    "level": "Regional",
-    "jurisdiction": "British Columbia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "The Cariboo Regional District's library system in British Columbia (Cariboo Library Network): a shared catalogue, ebooks, and branch locations, hours and programs across the Cariboo.",
-    "url": "https://www.cln.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Cariboo",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Lethbridge Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Lethbridge",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Lethbridge's public library system in Alberta: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.lethlib.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Lethbridge",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Grande Prairie Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Grande Prairie",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Grande Prairie's public library in Alberta: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.gppl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Grande Prairie",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "St. Albert Public Library",
-    "level": "Municipal",
-    "jurisdiction": "St. Albert",
-    "category": "culture",
-    "type": "Public library",
-    "description": "St. Albert's public library in Alberta: catalogue search, ebooks and digital resources, branch locations and hours, and programs and events.",
-    "url": "https://www.sapl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "St. Albert",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Strathcona County Library",
-    "level": "Municipal",
-    "jurisdiction": "Strathcona County",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Strathcona County's library in Alberta (Sherwood Park): catalogue search, ebooks and digital resources, bookmobile stops, hours, and programs and events.",
-    "url": "https://sclibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Strathcona County",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Wood Buffalo Regional Library",
-    "level": "Regional",
-    "jurisdiction": "Alberta",
-    "category": "culture",
-    "type": "Public library",
-    "description": "The Wood Buffalo regional library in Alberta, serving Fort McMurray and rural communities: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.wbrl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Fort McMurray",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Airdrie Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Airdrie",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Airdrie's public library in Alberta: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.airdriepubliclibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Airdrie",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Spruce Grove Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Alberta",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Spruce Grove's public library in Alberta: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://sgpl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Spruce Grove",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Marigold Library System",
-    "level": "Regional",
-    "jurisdiction": "Alberta",
-    "category": "culture",
-    "type": "Library system",
-    "description": "A regional library system supporting public libraries in south-central Alberta: the shared TRAC catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations.",
-    "url": "https://marigold.ab.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Parkland Regional Library System",
-    "level": "Regional",
-    "jurisdiction": "Alberta",
-    "category": "culture",
-    "type": "Library system",
-    "description": "A regional library system supporting public libraries in central Alberta: the shared catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations.",
-    "url": "https://prl.ab.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Yellowhead Regional Library",
-    "level": "Regional",
-    "jurisdiction": "Alberta",
-    "category": "culture",
-    "type": "Library system",
-    "description": "A regional library system supporting public libraries west of Edmonton in Alberta: the shared TRAC catalogue, ebook collections, and member library locations and services.",
-    "url": "https://yrl.ab.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Chinook Arch Regional Library System",
-    "level": "Regional",
-    "jurisdiction": "Alberta",
-    "category": "culture",
-    "type": "Library system",
-    "description": "A regional library system supporting public libraries in southwestern Alberta: the shared catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations.",
-    "url": "https://chinookarch.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Shortgrass Library System",
-    "level": "Regional",
-    "jurisdiction": "Alberta",
-    "category": "culture",
-    "type": "Library system",
-    "description": "A regional library system supporting public libraries in southeastern Alberta, based in Medicine Hat: the shared catalogue, ebook collections, and member library locations and services.",
-    "url": "https://shortgrass.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Alberta",
-      "Medicine Hat",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Northern Lights Library System",
-    "level": "Regional",
-    "jurisdiction": "Alberta",
-    "category": "culture",
-    "type": "Library system",
-    "description": "A regional library system supporting public libraries in northeastern Alberta: the shared catalogue residents use to search and borrow across member libraries, ebook collections, and member library locations.",
-    "url": "https://www.nlls.ab.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Peace Library System",
-    "level": "Regional",
-    "jurisdiction": "Alberta",
-    "category": "culture",
-    "type": "Library system",
-    "description": "A regional library system supporting public libraries in northwestern Alberta: the shared TRAC catalogue, ebook collections, and member library locations and services.",
-    "url": "https://peacelibrarysystem.ab.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Alberta",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Moose Jaw Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Moose Jaw",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Moose Jaw's public library in Saskatchewan: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.mjlibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Moose Jaw",
-      "Saskatchewan",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Western Manitoba Regional Library",
-    "level": "Regional",
-    "jurisdiction": "Brandon",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Western Manitoba's regional library system, based in Brandon: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the region.",
-    "url": "https://wmrl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Brandon",
-      "Manitoba",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Parkland Regional Library",
-    "level": "Regional",
-    "jurisdiction": "Dauphin",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Manitoba's Parkland regional library system, based in Dauphin: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs.",
-    "url": "https://parklandlib.mb.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Dauphin",
-      "Manitoba",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Bibliothèque de Québec",
-    "level": "Municipal",
-    "jurisdiction": "Quebec City",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Quebec City's public library network: catalogue search, digital books and resources, branch locations and hours across the city's libraries, and activities and exhibitions. In French.",
-    "url": "https://www.bibliothequedequebec.qc.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Quebec City",
-      "catalogue",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Bibliothèque de Gatineau",
-    "level": "Municipal",
-    "jurisdiction": "Gatineau",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Gatineau's municipal library network in Quebec: membership, catalogue search, online resources, branch addresses and hours, and activities across the city's libraries. In French.",
-    "url": "https://www.gatineau.ca/bibliotheque",
-    "tags": [
-      "library",
-      "books",
-      "Gatineau",
-      "catalogue",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Bibliothèques de Saguenay",
-    "level": "Municipal",
-    "jurisdiction": "Saguenay",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Saguenay's municipal library network in Quebec: catalogue search and library accounts, digital lending, borrowing information, and library programming. In French.",
-    "url": "https://bibliotheque.saguenay.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Saguenay",
-      "catalogue",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Cape Breton Regional Library",
-    "level": "Regional",
-    "jurisdiction": "Cape Breton",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Cape Breton's regional library system in Nova Scotia: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across Cape Breton and Victoria counties.",
-    "url": "https://cbrl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Cape Breton",
-      "Nova Scotia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Western Counties Regional Library",
-    "level": "Regional",
-    "jurisdiction": "Nova Scotia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Western Nova Scotia's regional library system, based in Yarmouth: a shared catalogue, ebooks, and branch locations, hours and programs across Digby, Shelburne and Yarmouth counties.",
-    "url": "https://westerncounties.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Yarmouth",
-      "Nova Scotia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Annapolis Valley Regional Library",
-    "level": "Regional",
-    "jurisdiction": "Nova Scotia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "The Annapolis Valley regional library system in Nova Scotia: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the valley.",
-    "url": "https://valleylibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Nova Scotia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "South Shore Public Libraries",
-    "level": "Regional",
-    "jurisdiction": "Nova Scotia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Nova Scotia's South Shore library system (Lunenburg and Queens counties): a shared catalogue, ebooks and digital resources, and branch locations, hours and programs.",
-    "url": "https://www.southshorepubliclibraries.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Nova Scotia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Eastern Counties Regional Library",
-    "level": "Regional",
-    "jurisdiction": "Nova Scotia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Eastern Nova Scotia's regional library system (Richmond and Inverness counties): a shared catalogue, ebooks, and branch locations, hours and programs.",
-    "url": "https://www.ecrl.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Nova Scotia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Cumberland Public Libraries",
-    "level": "Regional",
-    "jurisdiction": "Nova Scotia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Cumberland County's library system in Nova Scotia: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs.",
-    "url": "https://www.cumberlandpubliclibraries.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Nova Scotia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Bibliothèque de Sainte-Catherine",
-    "level": "Municipal",
-    "jurisdiction": "Quebec",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Sainte-Catherine's municipal library in Quebec: catalogue and borrowing services, hours, and activities from the city's official library site. In French.",
-    "url": "https://www.ville.sainte-catherine.qc.ca/bibliotheque/",
-    "tags": [
-      "library",
-      "books",
-      "Sainte-Catherine",
-      "Quebec",
-      "catalogue",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Bibliothèque de Repentigny",
-    "level": "Municipal",
-    "jurisdiction": "Repentigny",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Repentigny's municipal library service in Quebec: catalogue, borrowing, hours and programming from the city's official site. In French.",
-    "url": "https://repentigny.ca/bibliotheque",
-    "tags": [
-      "library",
-      "books",
-      "Repentigny",
-      "Quebec",
-      "catalogue",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Bibliothèque de Saint-Eustache",
-    "level": "Municipal",
-    "jurisdiction": "Quebec",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Saint-Eustache's municipal library in Quebec: catalogue, borrowing, hours and activities from the city's official site. In French.",
-    "url": "https://www.saint-eustache.ca/bibliotheque",
-    "tags": [
-      "library",
-      "books",
-      "Saint-Eustache",
-      "Quebec",
-      "catalogue",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Pointe-Claire Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Montreal",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Pointe-Claire's public library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services.",
-    "url": "https://biblio.pointe-claire.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Pointe-Claire",
-      "Montreal",
-      "catalogue",
-      "bilingual"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Westmount Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Montreal",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Westmount's public library on the Island of Montreal: catalogue, programs, hours and services via the city's official library pages.",
-    "url": "https://westmount.org/biblio/",
-    "tags": [
-      "library",
-      "books",
-      "Westmount",
-      "Montreal",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Côte Saint-Luc Public Library",
-    "level": "Municipal",
-    "jurisdiction": "Montreal",
-    "category": "culture",
-    "type": "Public library",
-    "description": "The Eleanor London Côte Saint-Luc Public Library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services.",
-    "url": "https://csllibrary.com/",
-    "tags": [
-      "library",
-      "books",
-      "Côte Saint-Luc",
-      "Montreal",
-      "catalogue",
-      "bilingual"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Beaconsfield Library",
-    "level": "Municipal",
-    "jurisdiction": "Montreal",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Beaconsfield's municipal library on the Island of Montreal: catalogue, borrowing, hours and programs via the city's official library pages.",
-    "url": "https://beaconsfield.ca/en/library",
-    "tags": [
-      "library",
-      "books",
-      "Beaconsfield",
-      "Montreal",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Bibliothèque de Sainte-Julie",
-    "level": "Municipal",
-    "jurisdiction": "Quebec",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Sainte-Julie's municipal library in Quebec: catalogue search, borrowing, hours and activities. In French.",
-    "url": "https://biblio.saintejulie.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Sainte-Julie",
-      "Quebec",
-      "catalogue",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Bibliothèque de Vaudreuil-Dorion",
-    "level": "Municipal",
-    "jurisdiction": "Quebec",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Vaudreuil-Dorion's municipal library in Quebec: catalogue search, borrowing, hours and programming. In French.",
-    "url": "https://www.bibliotheque.vaudreuil-dorion.qc.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Vaudreuil-Dorion",
-      "Quebec",
-      "catalogue",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Greater Sudbury Transit (GOVA)",
-    "level": "Municipal",
-    "jurisdiction": "Greater Sudbury",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Greater Sudbury's municipal transit service (GOVA): routes and schedules, fares and passes, detours and service alerts, and accessible transit information.",
-    "url": "https://www.greatersudbury.ca/living/transit/",
-    "tags": [
-      "transit",
-      "bus",
-      "Greater Sudbury",
-      "schedules",
-      "fares"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Niagara Region Transit",
-    "level": "Regional",
-    "jurisdiction": "Niagara",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The regional transit system for Niagara Region, Ontario: inter-municipal routes connecting St. Catharines, Niagara Falls, Welland and neighbouring communities, with schedules, fares, and a trip planner.",
-    "url": "https://nrtransit.ca/",
-    "tags": [
-      "transit",
-      "bus",
-      "Niagara",
-      "trip planner",
-      "fares"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Collingwood Transit (COLLTRANS)",
-    "level": "Municipal",
-    "jurisdiction": "Collingwood",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Collingwood's COLLTRANS transit service in Ontario: routes and schedules, fares, the real-time bus tracker, and links to the inter-community Blue Mountains and Wasaga Beach links.",
-    "url": "https://www.collingwood.ca/transit",
-    "tags": [
-      "transit",
-      "bus",
-      "Collingwood",
-      "real-time",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Simcoe County LINX Transit",
-    "level": "Regional",
-    "jurisdiction": "Ontario",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Simcoe County's inter-community LINX transit service in Ontario: routes linking Barrie, Midland, Orillia, Collingwood, Wasaga Beach and other communities, with schedules and fares.",
-    "url": "https://www.simcoe.ca/dpt/linx-transit",
-    "tags": [
-      "transit",
-      "bus",
-      "Simcoe County",
-      "schedules",
-      "fares"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Brockville Transit",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The City of Brockville's transit service in Ontario: bus routes and schedules, fares, and accessible para-transit information.",
-    "url": "https://brockville.com/transit/",
-    "tags": [
-      "transit",
-      "bus",
-      "Brockville",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Milton Transit",
-    "level": "Municipal",
-    "jurisdiction": "Milton",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Town of Milton's transit service in Ontario: routes and schedules, fares and passes, service alerts, and access+ accessible transit information.",
-    "url": "https://www.milton.ca/en/living-in-milton/transit.aspx",
-    "tags": [
-      "transit",
-      "bus",
-      "Milton",
-      "schedules",
-      "fares"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Quinte Transit",
-    "level": "Regional",
-    "jurisdiction": "Belleville",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Quinte Transit's regional bus service in the Quinte region of Ontario, serving Belleville, Quinte West, Brighton and Prince Edward County: routes and schedules, fares, and accessible transit booking.",
-    "url": "https://quintetransit.ca/",
-    "tags": [
-      "transit",
-      "bus",
-      "Quinte",
-      "Belleville",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Chatham-Kent Transit (Ride CK)",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Chatham-Kent's Ride CK public transit service in Ontario: inter-community and Chatham routes, schedules, fares, and accessible transit information.",
-    "url": "https://www.chatham-kent.ca/transit/Pages/default.aspx",
-    "tags": [
-      "transit",
-      "bus",
-      "Chatham-Kent",
-      "schedules",
-      "fares"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "St. Albert Transit (StAT)",
-    "level": "Municipal",
-    "jurisdiction": "St. Albert",
-    "category": "transit",
-    "type": "Transit",
-    "description": "St. Albert Transit in Alberta: local and Edmonton commuter routes, schedules, fares, and Handibus accessible service information.",
-    "url": "https://stalbert.ca/city/transit/",
-    "tags": [
-      "transit",
-      "bus",
-      "St. Albert",
-      "schedules",
-      "fares"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Roam Transit (Bow Valley)",
-    "level": "Regional",
-    "jurisdiction": "Banff",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Roam Public Transit, the Bow Valley Regional Transit Services Commission system serving Banff, Canmore and Lake Louise in Alberta: routes and schedules, fares, and real-time bus tracking.",
-    "url": "https://roamtransit.com/",
-    "tags": [
-      "transit",
-      "bus",
-      "Banff",
-      "Canmore",
-      "real-time",
-      "fares"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Fort Saskatchewan Transit (FST)",
-    "level": "Municipal",
-    "jurisdiction": "Alberta",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Fort Saskatchewan Transit in Alberta: local routes and the Edmonton commuter route, schedules, fares, and service information.",
-    "url": "https://www.fortsask.ca/en/living-here/transit.aspx",
-    "tags": [
-      "transit",
-      "bus",
-      "Fort Saskatchewan",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Leduc Transit",
-    "level": "Municipal",
-    "jurisdiction": "Alberta",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Leduc Transit in Alberta: local routes, the Leduc Assisted Transportation Service, and the Route 747 airport connector, with schedules and fares.",
-    "url": "https://www.leduc.ca/transit",
-    "tags": [
-      "transit",
-      "bus",
-      "Leduc",
-      "schedules",
-      "fares"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Calgary Transit",
-    "level": "Municipal",
-    "jurisdiction": "Calgary",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Calgary Transit's main site: CTrain and bus trip planning, routes and schedules, fares, service alerts, and the Calgary Transit app.",
-    "url": "https://www.calgarytransit.com/",
-    "tags": [
-      "transit",
-      "bus",
-      "Calgary",
-      "trip planner",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Regina Transit",
-    "level": "Municipal",
-    "jurisdiction": "Regina",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Regina Transit's main page in Saskatchewan: routes and schedules, trip planning, fares, and paratransit information.",
-    "url": "https://www.regina.ca/transportation-roads-parking/transit/",
-    "tags": [
-      "transit",
-      "bus",
-      "Regina",
-      "trip planner",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Kelowna Regional Transit (BC Transit)",
-    "level": "Regional",
-    "jurisdiction": "Kelowna",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Kelowna regional transit system operated with BC Transit: routes and schedules for Kelowna, West Kelowna, Peachland and Lake Country, fares, and trip planning.",
-    "url": "https://www.bctransit.com/kelowna/",
-    "tags": [
-      "transit",
-      "bus",
-      "Kelowna",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Regional District of Nanaimo Transit (BC Transit)",
-    "level": "Regional",
-    "jurisdiction": "Nanaimo",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Regional District of Nanaimo transit system operated with BC Transit: routes and schedules for Nanaimo, Parksville, Qualicum Beach and area, fares, and trip planning.",
-    "url": "https://www.bctransit.com/nanaimo/",
-    "tags": [
-      "transit",
-      "bus",
-      "Nanaimo",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Kamloops Transit (BC Transit)",
-    "level": "Municipal",
-    "jurisdiction": "Kamloops",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Kamloops transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Kamloops.",
-    "url": "https://www.bctransit.com/kamloops/",
-    "tags": [
-      "transit",
-      "bus",
-      "Kamloops",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Comox Valley Regional Transit (BC Transit)",
-    "level": "Regional",
-    "jurisdiction": "Courtenay",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Comox Valley regional transit system operated with BC Transit: routes and schedules for Courtenay, Comox and Cumberland, fares, and trip planning.",
-    "url": "https://www.bctransit.com/comox-valley/",
-    "tags": [
-      "transit",
-      "bus",
-      "Comox Valley",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Central Fraser Valley Transit (BC Transit)",
-    "level": "Regional",
-    "jurisdiction": "Abbotsford",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Central Fraser Valley transit system operated with BC Transit: routes and schedules for Abbotsford and Mission, fares, and trip planning.",
-    "url": "https://www.bctransit.com/central-fraser-valley/",
-    "tags": [
-      "transit",
-      "bus",
-      "Abbotsford",
-      "Mission",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Chilliwack Transit (BC Transit)",
-    "level": "Municipal",
-    "jurisdiction": "Chilliwack",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Chilliwack transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Chilliwack.",
-    "url": "https://www.bctransit.com/chilliwack/",
-    "tags": [
-      "transit",
-      "bus",
-      "Chilliwack",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Prince George Transit (BC Transit)",
-    "level": "Municipal",
-    "jurisdiction": "Prince George",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Prince George transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Prince George.",
-    "url": "https://www.bctransit.com/prince-george/",
-    "tags": [
-      "transit",
-      "bus",
-      "Prince George",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Vernon Regional Transit (BC Transit)",
-    "level": "Regional",
-    "jurisdiction": "British Columbia",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Vernon regional transit system operated with BC Transit: routes and schedules for Vernon, Coldstream and the North Okanagan, fares, and trip planning.",
-    "url": "https://www.bctransit.com/vernon/",
-    "tags": [
-      "transit",
-      "bus",
-      "Vernon",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "East Kootenay Transit (BC Transit)",
-    "level": "Regional",
-    "jurisdiction": "British Columbia",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The East Kootenay transit system operated with BC Transit: routes and schedules for Cranbrook, Kimberley and area, fares, and trip planning.",
-    "url": "https://www.bctransit.com/cranbrook/",
-    "tags": [
-      "transit",
-      "bus",
-      "Cranbrook",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Campbell River Transit (BC Transit)",
-    "level": "Municipal",
-    "jurisdiction": "British Columbia",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Campbell River transit system operated with BC Transit: routes and schedules, fares, and trip planning for the City of Campbell River.",
-    "url": "https://www.bctransit.com/campbell-river/",
-    "tags": [
-      "transit",
-      "bus",
-      "Campbell River",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Sunshine Coast Transit (BC Transit)",
-    "level": "Regional",
-    "jurisdiction": "British Columbia",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Sunshine Coast transit system operated with BC Transit: routes and schedules for Gibsons, Sechelt and area, fares, and trip planning.",
-    "url": "https://www.bctransit.com/sunshine-coast/",
-    "tags": [
-      "transit",
-      "bus",
-      "Sunshine Coast",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Squamish Transit (BC Transit)",
-    "level": "Municipal",
-    "jurisdiction": "British Columbia",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Squamish transit system operated with BC Transit: routes and schedules, fares, and trip planning for the District of Squamish.",
-    "url": "https://www.bctransit.com/squamish/",
-    "tags": [
-      "transit",
-      "bus",
-      "Squamish",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Whistler Transit (BC Transit)",
-    "level": "Municipal",
-    "jurisdiction": "Whistler",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Whistler transit system operated with BC Transit: routes and schedules, fares, and trip planning for the Resort Municipality of Whistler.",
-    "url": "https://www.bctransit.com/whistler/",
-    "tags": [
-      "transit",
-      "bus",
-      "Whistler",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "South Okanagan-Similkameen Transit (BC Transit)",
-    "level": "Regional",
-    "jurisdiction": "Penticton",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The South Okanagan-Similkameen transit system operated with BC Transit: routes and schedules for Penticton and area communities, fares, and trip planning.",
-    "url": "https://www.bctransit.com/penticton/",
-    "tags": [
-      "transit",
-      "bus",
-      "Penticton",
-      "BC Transit",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Société de transport de Lévis (STLévis)",
-    "level": "Municipal",
-    "jurisdiction": "Lévis",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Lévis's public transit authority in Quebec: bus routes and schedules, fares and passes, and service alerts for the Lévis area. In French.",
-    "url": "https://www.stlevis.ca/",
-    "tags": [
-      "transit",
-      "bus",
-      "Lévis",
-      "schedules",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Société de transport du Saguenay (STS)",
-    "level": "Municipal",
-    "jurisdiction": "Saguenay",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Saguenay's public transit authority in Quebec: bus routes and schedules, fares, and accessible transit information. In French.",
-    "url": "https://www.stsaguenay.ca/",
-    "tags": [
-      "transit",
-      "bus",
-      "Saguenay",
-      "schedules",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Transport collectif de la MRC de Joliette",
-    "level": "Regional",
-    "jurisdiction": "Quebec",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Rural collective transport for the Joliette regional county municipality in Quebec: shared-transport booking, service area, and fares for area municipalities. In French.",
-    "url": "https://www.mrcjoliette.qc.ca/transport-collectif",
-    "tags": [
-      "transit",
-      "bus",
-      "Joliette",
-      "booking",
-      "French"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Metrobus (St. John's)",
-    "level": "Municipal",
-    "jurisdiction": "St. John's",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Metrobus, the public transit system for St. John's, Mount Pearl and Paradise in Newfoundland and Labrador: routes and schedules, fares, real-time bus tracking, and the m-Card.",
-    "url": "https://www.metrobus.com/",
-    "tags": [
-      "transit",
-      "bus",
-      "St. John's",
-      "real-time",
-      "fares"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "T3 Transit (PEI)",
-    "level": "Regional",
-    "jurisdiction": "Charlottetown",
-    "category": "transit",
-    "type": "Transit",
-    "description": "T3 Transit, the public transit system serving Charlottetown, Stratford and Cornwall on Prince Edward Island: routes and schedules, fares, and service alerts.",
-    "url": "https://t3transit.ca/",
-    "tags": [
-      "transit",
-      "bus",
-      "Charlottetown",
-      "PEI",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Kings Transit (Nova Scotia)",
-    "level": "Regional",
-    "jurisdiction": "Kentville",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Kings Transit, the public transit system for Kings County in Nova Scotia's Annapolis Valley: routes and schedules, fares, and service information.",
-    "url": "https://www.kingstransit.ns.ca/",
-    "tags": [
-      "transit",
-      "bus",
-      "Kings County",
-      "Nova Scotia",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Strait Area Transit (Nova Scotia)",
-    "level": "Regional",
-    "jurisdiction": "Cape Breton",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Strait Area Transit, the community transit service for the Strait of Canso area of Nova Scotia (Port Hawkesbury, Richmond and Inverness counties): routes, schedules, and booking information.",
-    "url": "https://satbus.ca/",
-    "tags": [
-      "transit",
-      "bus",
-      "Strait Area",
-      "Nova Scotia",
-      "booking"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Whitehorse Transit",
-    "level": "Municipal",
-    "jurisdiction": "Whitehorse",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Whitehorse Transit in Yukon: bus routes and schedules, fares and passes, and service alerts for the City of Whitehorse.",
-    "url": "https://www.whitehorse.ca/living-in-whitehorse/transit/",
-    "tags": [
-      "transit",
-      "bus",
-      "Whitehorse",
-      "Yukon",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-16"
   }
 ]
