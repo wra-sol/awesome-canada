@@ -38681,5 +38681,197 @@
       "fares"
     ],
     "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Accessing Health Care in New Brunswick",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "health",
+    "type": "Health portal",
+    "description": "New Brunswick's official guide to getting care: a symptom checker plus routes to Tele-Care 811, medical (walk-in) clinics, Virtual Care NB, pharmacy services, NB Health Link and the MyHealthNB record portal.",
+    "url": "https://www.gnb.ca/en/campaign/accessing-health-care-nb.html",
+    "tags": [
+      "health",
+      "clinic finder",
+      "811",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Saskatchewan Health Authority — Service Disruptions",
+    "level": "Regional",
+    "jurisdiction": "Saskatchewan",
+    "category": "health",
+    "type": "Live dashboard",
+    "description": "The Saskatchewan Health Authority's service-disruption page: twice-daily updates (9 a.m. and 4 p.m.) on current and upcoming temporary disruptions to emergency services at SHA facilities across Saskatchewan.",
+    "url": "https://www.saskhealthauthority.ca/news-events/service-disruptions",
+    "tags": [
+      "health",
+      "emergency",
+      "service disruptions",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Québec Health Booklet (Carnet santé Québec)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Health records",
+    "description": "Québec's official online health booklet: residents sign in to see pharmacy medications, lab test results, medical imaging reports, fee-for-service medical services received, and to book family-medicine appointments and register with the Québec Family Doctor Finder.",
+    "url": "https://www.quebec.ca/en/health/your-health-information/quebec-health-booklet",
+    "tags": [
+      "health",
+      "health records",
+      "digital health",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "eHealth Saskatchewan — MySaskHealthRecord",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "health",
+    "type": "Health records",
+    "description": "Saskatchewan's secure personal health record portal (eHealth Saskatchewan): residents view lab results, medical imaging reports, immunization history, prescription history, clinical visit history and surgical procedures.",
+    "url": "https://www.ehealthsask.ca/MySaskHealthRecord/MySaskHealthRecord/Pages/About.aspx",
+    "tags": [
+      "health",
+      "health records",
+      "immunization",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Health PEI — Find a Walk-in Clinic",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "health",
+    "type": "Finder",
+    "description": "Health PEI's official directory of walk-in clinics across Prince Edward Island, with locations in Charlottetown, Kensington, Montague, Morell, Stratford and other communities, plus hours and contact details.",
+    "url": "https://www.princeedwardisland.ca/en/information/health-pei/walk-in-clinics",
+    "tags": [
+      "health",
+      "walk-in clinics",
+      "clinic finder",
+      "pei"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "British Columbia — Health Gateway (Immunization Records)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Health records",
+    "description": "British Columbia's Health Gateway: the province's secure portal where residents access their health records, including immunization history and their BC Vaccine Card.",
+    "url": "https://www2.gov.bc.ca/gov/content/health/managing-your-health/health-gateway",
+    "tags": [
+      "health",
+      "immunization",
+      "health records",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Manitoba Pharmacare",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "health",
+    "type": "Drug coverage search",
+    "description": "Manitoba's official Pharmacare page: the income-based deductible drug-benefit program, with the online deductible estimator, application forms, benefit lists and the Drug Formulary lookup.",
+    "url": "https://www.gov.mb.ca/health/pharmacare/index.html",
+    "tags": [
+      "health",
+      "pharmacare",
+      "drug coverage",
+      "manitoba"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Region of Waterloo — Check It! (Public Health Inspections)",
+    "level": "Regional",
+    "jurisdiction": "Waterloo",
+    "category": "health",
+    "type": "Inspection search",
+    "description": "Region of Waterloo Public Health's Check It! disclosure site: search inspection results for food premises, beauty and body-art settings, recreational water facilities and daycares across Waterloo Region.",
+    "url": "https://checkit.regionofwaterloo.ca/",
+    "tags": [
+      "health",
+      "inspections",
+      "food safety",
+      "waterloo"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Santé Montréal — Health Portal",
+    "level": "Regional",
+    "jurisdiction": "Montreal",
+    "category": "health",
+    "type": "Health portal",
+    "description": "The official health and social services portal for the Montréal region: directories and access points for finding clinics, hospitals, CLSC services, vaccination and other front-line care in Montréal.",
+    "url": "https://santemontreal.qc.ca/en/",
+    "tags": [
+      "health",
+      "clinic finder",
+      "montreal",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "HealthLine 811 (Saskatchewan)",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "health",
+    "type": "Health service",
+    "description": "Saskatchewan's HealthLine 811: free, confidential 24/7 health advice by phone at 811 from registered nurses and other professionals, with online information on accessing health care in the province.",
+    "url": "https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline",
+    "tags": [
+      "health",
+      "811",
+      "health advice",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Bridge the gapp (Newfoundland and Labrador)",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "health",
+    "type": "Health portal",
+    "description": "Newfoundland and Labrador's provincial mental-health and addictions service directory: connects youth and adults to programs, services and supports across the province, searchable by region and need.",
+    "url": "https://nl.bridgethegapp.ca/",
+    "tags": [
+      "health",
+      "mental health",
+      "addictions",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Public Health Sudbury & Districts — Check Before You Go! (Inspections)",
+    "level": "Regional",
+    "jurisdiction": "Greater Sudbury",
+    "category": "health",
+    "type": "Inspection search",
+    "description": "Public Health Sudbury & Districts' Check Before You Go! disclosure site: search inspection reports, convictions and orders for food premises, licensed child care, personal services settings, pools and spas, recreational camps and small drinking water systems, with a map search.",
+    "url": "https://checkbeforeyougo.phsd.ca/",
+    "tags": [
+      "health",
+      "inspections",
+      "food safety",
+      "sudbury"
+    ],
+    "dateAdded": "2026-10-17"
   }
 ]

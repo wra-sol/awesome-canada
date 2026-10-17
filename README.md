@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2452 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2464 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 36
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 56
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
-- [🩺 Health & Wellness](#health-and-wellness) — 82
+- [🩺 Health & Wellness](#health-and-wellness) — 94
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
@@ -1633,6 +1633,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Health Gateway | British Columbia · Provincial | Patient health record portal | BC's official health-records portal: lab results, medication history, immunization records, and hospital and community-health visits in one timeline, with a mobile app and email/SMS notifications for new records. Logged in with the BC Services Card app. | https://www.gov.bc.ca/healthgateway |
+| British Columbia — Health Gateway (Immunization Records) | British Columbia · Provincial | Health records | British Columbia's Health Gateway: the province's secure portal where residents access their health records, including immunization history and their BC Vaccine Card. | https://www2.gov.bc.ca/gov/content/health/managing-your-health/health-gateway |
 | British Columbia — Surgery Wait Times | British Columbia · Provincial | Wait-time lookup | Compare scheduled-surgery wait times in BC by procedure, hospital and surgeon — see the wait to consult a surgeon and the wait for surgery, updated bi-monthly. | https://swt.hlth.gov.bc.ca/ |
 | First Nations Health Authority — Services and Support | British Columbia · Provincial | Services directory | Health services, benefits and support directory of the First Nations Health Authority (British Columbia) — culturally safe care, benefits navigation and wellness programs for First Nations patients and families. | https://fnha.ca/services-and-support/ |
 | HealthLink BC — 8-1-1 | British Columbia · Provincial | Health service | 24/7 non-emergency health advice, dietitian, and pharmacist services by phone and web in BC | https://www.healthlinkbc.ca/ |
@@ -1651,11 +1652,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| eHealth Saskatchewan — MySaskHealthRecord | Saskatchewan · Provincial | Health records | Saskatchewan's secure personal health record portal (eHealth Saskatchewan): residents view lab results, medical imaging reports, immunization history, prescription history, clinical visit history and surgical procedures. | https://www.ehealthsask.ca/MySaskHealthRecord/MySaskHealthRecord/Pages/About.aspx |
 | eHealth Saskatchewan — Specialist Directory | Saskatchewan · Provincial | Lookup tool | Look up ~200 Saskatchewan surgeons and 2,600 procedures with weekly-updated surgical wait times so patients can compare specialists and travel for faster surgery. | https://specialists.ehealthsask.ca/ |
+| HealthLine 811 (Saskatchewan) | Saskatchewan · Provincial | Health service | Saskatchewan's HealthLine 811: free, confidential 24/7 health advice by phone at 811 from registered nurses and other professionals, with online information on accessing health care in the province. | https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline |
 | MySaskHealthRecord | Saskatchewan · Provincial | Patient health record portal | Saskatchewan's secure personal health-information portal (eHealth Saskatchewan): lab results, medical imaging reports, clinical visit and hospital admission history, immunization and prescription history, plus a mobile app and family-access options. | https://www.ehealthsask.ca/MySaskHealthRecord/MySaskHealthRecord/ |
 | Saskatchewan — Drug Plan Formulary Search | Saskatchewan · Provincial | Drug coverage search | Search which medications the Saskatchewan Drug Plan covers, with coverage status, exception drug criteria and formulary bulletins. | https://formulary.drugplan.ehealthsask.ca/ |
 | Saskatchewan — Health Care Facilities Map | Saskatchewan · Provincial | Services directory | Government of Saskatchewan's searchable map of 207 health and social-service facilities — mental health, addictions, detox, HIV testing, STD clinics, eating disorders — each with address, phone and intake line. | https://www.saskatchewan.ca/residents/health/accessing-health-care-services/health-care-facilities |
 | Saskatchewan eHealth | Saskatchewan · Provincial | Health records | Electronic health records, patient portals, and provincial health information services for Saskatchewan residents | https://www.ehealthsask.ca/ |
+| Saskatchewan Health Authority — Service Disruptions | Saskatchewan · Regional | Live dashboard | The Saskatchewan Health Authority's service-disruption page: twice-daily updates (9 a.m. and 4 p.m.) on current and upcoming temporary disruptions to emergency services at SHA facilities across Saskatchewan. | https://www.saskhealthauthority.ca/news-events/service-disruptions |
 
 ### Manitoba
 
@@ -1664,6 +1668,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Manitoba — Health Wait Time Information | Manitoba · Provincial | Wait-time dashboard | Look up Manitoba wait times for emergency departments, MRI, CT, ultrasound and surgical and cancer services by facility and region. | https://www.gov.mb.ca/health/waittime/index.html |
 | Manitoba — Provincial Health System Performance Dashboard | Manitoba · Provincial | Monthly dashboard reports (PDF) | Monthly PDF scorecards tracking ED/urgent care wait times at sites in all five RHAs, patient experience and expenditure sustainability, with targets and trend context since 2020. | https://www.gov.mb.ca/openmb/infomb/departments/dashboard/index.html |
 | Manitoba Health Annual Statistics | Manitoba · Provincial | Statistical report | Download Manitoba Health's 13-section Annual Statistics reports (2013–2021): population, mortality, disease, mental illness, hospital/physician services, home care, and drug use, broken down by RHA. | https://www.gov.mb.ca/health/annstats/ |
+| Manitoba Pharmacare | Manitoba · Provincial | Drug coverage search | Manitoba's official Pharmacare page: the income-based deductible drug-benefit program, with the online deductible estimator, application forms, benefit lists and the Drug Formulary lookup. | https://www.gov.mb.ca/health/pharmacare/index.html |
 
 ### Ontario
 
@@ -1682,6 +1687,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Public Health Ontario — Infectious Disease Trends Tool | Ontario · Provincial | Data dashboard | Explore 10+ years of reportable disease cases in Ontario by public health unit, age, sex, hospitalizations and deaths; annual detail plus monthly preliminary snapshots, with exportable tables. | https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/Reportable-Disease-Trends-Annually |
 | Public Health Ontario — Ontario Respiratory Virus Tool | Ontario · Provincial | Interactive dashboard | Explore weekly COVID-19, influenza and RSV activity by public health unit, age group and setting; filter trends and export graph data to CSV. Updated Fridays. | https://www.publichealthontario.ca/en/Data-and-Analysis/Commonly-Used-Products/Respiratory-Virus-Tool |
 | Trillium Gift of Life Network — Organ Donation | Ontario · Provincial | Service | Register as an organ and tissue donor in Ontario | https://www.giftoflife.on.ca/en/ |
+| Public Health Sudbury & Districts — Check Before You Go! (Inspections) | Greater Sudbury · Regional | Inspection search | Public Health Sudbury & Districts' Check Before You Go! disclosure site: search inspection reports, convictions and orders for food premises, licensed child care, personal services settings, pools and spas, recreational camps and small drinking water systems, with a map search. | https://checkbeforeyougo.phsd.ca/ |
+| Region of Waterloo — Check It! (Public Health Inspections) | Waterloo · Regional | Inspection search | Region of Waterloo Public Health's Check It! disclosure site: search inspection results for food premises, beauty and body-art settings, recreational water facilities and daycares across Waterloo Region. | https://checkit.regionofwaterloo.ca/ |
 | Toronto — SwimSafe Beach Water Quality | Toronto · Municipal | Beach water quality tracker | Check daily E. coli test results and swimming advisories for Toronto's supervised beaches, plus inspection results for public pools, wading pools and splash pads. | https://www.toronto.ca/community-people/health-wellness-care/health-inspections-monitoring/swimsafe/ |
 
 ### Quebec
@@ -1696,14 +1703,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Québec — Québec Family Doctor Finder (GAMF) | Quebec · Provincial | Finder | Official instructions and eligibility rules for Québec's provincial family-doctor waiting list (GAMF), including priority scoring, how to keep your place, and the special phone route for Nunavik and James Bay residents. | https://www.quebec.ca/en/health/finding-a-resource/quebec-family-doctor-finder |
 | Québec — Répertoire des ressources en santé et services sociaux | Quebec · Provincial | Services directory | The province's official service-finder front door: ~50 searchable service categories from walk-in consultations and CLSCs to vaccination, screening, midwifery, addiction and needle exchanges, each searchable by postal code or region. | https://sante.gouv.qc.ca/en/repertoire-ressources/ |
 | Québec — Schedule an Appointment Online with a Family Doctor | Quebec · Provincial | Health appointment booking | Explains Québec's free online medical appointment scheduler: who can use it (any RAMQ card, even expired), what you can book (family doctor, specialized nurse practitioner, medical resident), and how to cancel. | https://www.quebec.ca/en/health/finding-a-resource/family-doctor-schedule-an-appointment |
+| Québec Health Booklet (Carnet santé Québec) | Quebec · Provincial | Health records | Québec's official online health booklet: residents sign in to see pharmacy medications, lab test results, medical imaging reports, fee-for-service medical services received, and to book family-medicine appointments and register with the Québec Family Doctor Finder. | https://www.quebec.ca/en/health/your-health-information/quebec-health-booklet |
+| Santé Montréal — Health Portal | Montreal · Regional | Health portal | The official health and social services portal for the Montréal region: directories and access points for finding clinics, hospitals, CLSC services, vaccination and other front-line care in Montréal. | https://santemontreal.qc.ca/en/ |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Accessing Health Care in New Brunswick | New Brunswick · Provincial | Health portal | New Brunswick's official guide to getting care: a symptom checker plus routes to Tele-Care 811, medical (walk-in) clinics, Virtual Care NB, pharmacy services, NB Health Link and the MyHealthNB record portal. | https://www.gnb.ca/en/campaign/accessing-health-care-nb.html |
 | Department of Health — NB Health Link Patient Registry | New Brunswick · Provincial | Patient registry and booking tool | Register online if you lack a family doctor or nurse practitioner; book in-person, phone or virtual appointments and find clinic locations across the province. | https://nbhealthlink.ca/ |
 | Department of Health — Surgical Wait Times | New Brunswick · Provincial | Dashboard | Look up typical wait times by surgical procedure (hip/knee, cataract, CABG and more) plus trending, target and surgeon-level reports. | https://www1.gnb.ca/0217/SurgicalWaitTimes/Index-e.aspx |
 | MyHealthNB | New Brunswick · Provincial | Patient health record portal | New Brunswick's official patient health portal (myhealth.gnb.ca) and mobile app: lab results, diagnostic imaging reports, immunization records and dispensed medications, plus a pan-Canadian Patient Summary (PS-CA) shareable QR code — first jurisdiction in North America with patient-mediated record sharing. | https://myhealth.gnb.ca/ |
+| Bridge the gapp (Newfoundland and Labrador) | Newfoundland and Labrador · Provincial | Health portal | Newfoundland and Labrador's provincial mental-health and addictions service directory: connects youth and adults to programs, services and supports across the province, searchable by region and need. | https://nl.bridgethegapp.ca/ |
 | NL Health Services — Book an Online Appointment | Newfoundland and Labrador · Provincial | Health appointment booking | Concrete booking instructions for NL Health Services: online blood-collection booking at four named clinics (no account required), flu and COVID-19 vaccine appointments by health authority region with phone lines, and hospital appointment contacts. | https://nlhealthservices.ca/find-health-care/book-an-online-appointment/ |
 | Nova Scotia — Wait Time Information | Nova Scotia · Provincial | Wait-time lookup | Compare wait times for 150+ surgical procedures, MRI/CT scans, cancer care and mental health services across Nova Scotia to find the shortest-wait locations. | https://waittimes.novascotia.ca/ |
 | Nova Scotia 811 | Nova Scotia · Provincial | Health service | Non-emergency health information and advice from registered nurses, by phone or online in Nova Scotia | https://811.novascotia.ca/ |
@@ -1711,6 +1722,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nova Scotia Health — Urgent Treatment Centres | Nova Scotia · Provincial | Health service | Explains and lists Nova Scotia's Urgent Treatment Centres — walk-in care for urgent but non-life-threatening problems — with what to bring, how the visit works, and a location map. | https://nshealth.ca/clinics-programs-and-services/urgent-treatment-centres |
 | YourHealthNS | Nova Scotia · Provincial | Patient health record portal | Nova Scotia Health's official app and portal (yourhealthns.ca): personal health records (lab results, medications, diagnostic imaging, hospital and primary-care visits) plus online booking of blood tests, X-rays and flu/COVID vaccine appointments via VirtualCareNS. | https://yourhealthns.ca/ |
 | Health PEI — Emergency Department Wait Times | PEI · Provincial | Live dashboard | Live estimated ER wait times for all four PEI hospital emergency departments (QEH, PCH, KCMH, Western), refreshed every five minutes. | https://www.princeedwardisland.ca/en/information/health-pei/emergency-department-wait-times |
+| Health PEI — Find a Walk-in Clinic | Prince Edward Island · Provincial | Finder | Health PEI's official directory of walk-in clinics across Prince Edward Island, with locations in Charlottetown, Kensington, Montague, Morell, Stratford and other communities, plus hours and contact details. | https://www.princeedwardisland.ca/en/information/health-pei/walk-in-clinics |
 | MyHealthPEI | Prince Edward Island · Provincial | Patient health record portal | Prince Edward Island's official online health service: Island residents 16+ with a verified MyPEI account can view lab results, diagnostic imaging reports and immunization records, plus self-entry health tracking tools and health education resources. | https://princeedwardisland.ca/en/topic/myhealthpei |
 
 ### Northern Canada (YT, NT, NU)
