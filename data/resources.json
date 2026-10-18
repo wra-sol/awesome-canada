@@ -39681,5 +39681,153 @@
       "radio"
     ],
     "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "OmbudsPEI — Office of the Ombudsperson",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Prince Edward Island's independent ombuds office: Islanders can file a free, confidential complaint about unfair treatment by PEI government agencies, municipalities, Health PEI or post-secondary institutions.",
+    "url": "https://ombudspei.ca/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "pei",
+      "ombudsperson"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "FCAA Saskatchewan — File a Consumer Complaint",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "consumer",
+    "type": "Complaint guide",
+    "description": "The FCAA Consumer Protection Division's complaint page: Saskatchewan consumers check whether their dispute is valid and file a complaint about goods, services, warranties, direct sellers, collection agents or motor dealers.",
+    "url": "https://fcaa.gov.sk.ca/consumers-investors-pension-plan-members/consumers/purchasing-goods-and-services/complaints",
+    "tags": [
+      "consumer protection",
+      "complaints",
+      "saskatchewan",
+      "fcaa"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "Saskatchewan — Consumer Rights Pathway",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "consumer",
+    "type": "Dispute resolution",
+    "description": "Saskatchewan's interactive consumer-rights pathway: answer guided questions about a dispute to learn your rights, get letter templates, and escalate to the Resolve My Consumer Dispute portal with FCAA mediators.",
+    "url": "https://consumerrights.saskatchewan.ca/",
+    "tags": [
+      "consumer rights",
+      "dispute resolution",
+      "saskatchewan",
+      "fcaa"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "FCNB — Online Services",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "finance",
+    "type": "Portal",
+    "description": "FCNB's online services portal: New Brunswickers submit a formal complaint about a regulated firm or person and use the commission's self-serve consumer and industry services from one hub.",
+    "url": "https://fcnb.ca/en/online-services",
+    "tags": [
+      "complaints",
+      "portal",
+      "new brunswick",
+      "fcnb"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "RECA ProCheck — Find a Licensee",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "consumer",
+    "type": "Licence search",
+    "description": "The Real Estate Council of Alberta's ProCheck search: verify in seconds whether a real estate, mortgage, property-management or condominium-management professional is licensed, and view recent disciplinary decisions.",
+    "url": "https://procheck.reca.ca/",
+    "tags": [
+      "real estate",
+      "licence search",
+      "alberta",
+      "mortgage brokers"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "RECA — Consumer Protection Fund",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "consumer",
+    "type": "Consumer protection",
+    "description": "RECA's consumer protection fund information: Albertans who lost money to a licensed real estate or mortgage professional's fraud or breach of trust learn the claim limits and how to apply for compensation.",
+    "url": "https://www.recaprotects.ca/consumer-protection-fund/",
+    "tags": [
+      "real estate",
+      "compensation fund",
+      "alberta",
+      "consumer protection"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "FSRA Ontario — Consumer Office",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "finance",
+    "type": "Consumer protection",
+    "description": "FSRA's consumer office hub: Ontario consumers find how the regulator protects them across insurance, pensions, mortgage brokering, credit unions and financial advice, including how complaints are resolved.",
+    "url": "https://www.fsrao.ca/consumers/consumer-office",
+    "tags": [
+      "insurance",
+      "pensions",
+      "mortgage brokers",
+      "ontario",
+      "consumer protection"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "BC Utilities Commission — Complaint Process",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "utilities",
+    "type": "Complaint process",
+    "description": "The BC Utilities Commission's complaint process: BC customers complain about regulated electricity or gas billing, metering, disconnection or gas-marketer conduct after first trying the utility.",
+    "url": "https://www.bcuc.com/WhatWeDo/ComplaintProcess",
+    "tags": [
+      "utilities",
+      "electricity",
+      "natural gas",
+      "complaints",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "Ontario Energy Board — We're Here to Help (Consumer Complaints)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Complaint process",
+    "description": "The Ontario Energy Board's consumer help page: electricity and natural gas customers follow the complaint steps, contacting their utility first and then filing with the OEB over billing, contracts or service.",
+    "url": "https://www.oeb.ca/consumer-information-and-protection/oebs-consumer-protection-role/were-here-help",
+    "tags": [
+      "utilities",
+      "electricity",
+      "natural gas",
+      "complaints",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-18"
   }
 ]

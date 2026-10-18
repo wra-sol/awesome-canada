@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2514 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2523 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -31,7 +31,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
 - [🪪 Government Services & ID](#government-services-and-id) — 92
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 36
-- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 38
+- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 40
 - [🏢 Business & Procurement](#business-and-procurement) — 66
 - [💼 Employment & Labour](#employment-and-labour) — 40
 - [🎓 Education & Student Aid](#education-and-student-aid) — 36
@@ -47,7 +47,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 92
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
 - [🌦️ Weather & Climate](#weather-and-climate) — 44
-- [⚡ Energy & Utilities](#energy-and-utilities) — 57
+- [⚡ Energy & Utilities](#energy-and-utilities) — 59
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 166
@@ -55,7 +55,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 92
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 70
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 68
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 73
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 31
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 98
@@ -1113,6 +1113,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| FSRA Ontario — Consumer Office | Ontario · Agency | Consumer protection | FSRA's consumer office hub: Ontario consumers find how the regulator protects them across insurance, pensions, mortgage brokering, credit unions and financial advice, including how complaints are resolved. | https://www.fsrao.ca/consumers/consumer-office |
 | FSRA Ontario — Credit Unions & Deposit Insurance | Ontario · Agency | Lookup Tool | Ontario credit union/caisse populaire deposit insurance coverage details (up to $250k non-registered, unlimited registered via DIRF) plus find-a-credit-union, supervision list, and complaint channel. | https://www.fsrao.ca/consumers/credit-unions-and-deposit-insurance |
 | Ontario Securities Commission — Investor Portal | Ontario · Provincial | Investor tools | Investor education, registration checks, and complaint filing for Ontario securities regulation | https://www.osc.ca/en/investors |
 
@@ -1127,6 +1128,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| FCNB — Online Services | New Brunswick · Provincial | Portal | FCNB's online services portal: New Brunswickers submit a formal complaint about a regulated firm or person and use the commission's self-serve consumer and industry services from one hub. | https://fcnb.ca/en/online-services |
 | Nova Scotia Municipal Finance and Statistics | Nova Scotia · Provincial | Reports collection | Hub for per-municipality financial condition indicator reports, municipal statistics annual reports and the FRAM accounting manual (PDF). | https://www.novascotia.ca/programs-and-services/municipal-finance-and-statistics |
 | Nova Scotia Public Sector Compensation Disclosure Reports | Nova Scotia · Provincial | Disclosure database | Finance and Treasury Board collection of sunshine-list reports naming public sector employees paid over $100,000; searchable by body, PDF statements. | https://www.novascotia.ca/public-sector-compensation-disclosure-reports |
 
@@ -2796,6 +2798,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Hydro — Planned Outages and Outage List | British Columbia · Provincial | Outage info | Browse list of current, planned, and recently restored power outages across BC Hydro's service territory | https://www.bchydro.com/power-outages |
 | BC Hydro — Power Outage Map | British Columbia · Provincial | Outage map | Interactive map showing current and recent power outages across BC — view affected areas, estimated restoration times, and outage cause | https://app.bchydro.com/power-outages/app/outage-map.html |
 | BC Hydro — Report an Outage | British Columbia · Provincial | Service | Report a power outage to BC Hydro online or check the outage map for your area | https://www.bchydro.com/outages/orsmapview.jsp |
+| BC Utilities Commission — Complaint Process | British Columbia · Provincial | Complaint process | The BC Utilities Commission's complaint process: BC customers complain about regulated electricity or gas billing, metering, disconnection or gas-marketer conduct after first trying the utility. | https://www.bcuc.com/WhatWeDo/ComplaintProcess |
 | BC Utilities Commission — Orders and Decisions Search | British Columbia · Provincial | Decisions database | Search BCUC orders and decisions by keyword, company, date, proceeding or document name — the rulings that set BC electricity, gas and thermal energy rates. | https://www.ordersdecisions.bcuc.com/bcuc/en/nav.do |
 | FortisBC — Gas Outage Map | British Columbia · Provincial | Outage map | Map of current gas service interruptions in FortisBC's service territory across British Columbia | https://www.fortisbc.com/outages |
 | Vancouver VanMap | Vancouver · Municipal | Interactive map | Parcel, zoning, parks, utilities, and city layers | https://maps.vancouver.ca/vanmap-viewer/ |
@@ -2841,6 +2844,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Hydro One — Outage Map | Ontario · Provincial | Outage map | Live outage map for Hydro One's rural and regional Ontario distribution network | https://www.hydroone.com/power-outages |
 | Ontario Energy Board | Ontario · Provincial | Regulator | Independent regulator of the electricity and natural gas sectors in Ontario, including utility rate decisions, consumer protection, and energy policy | https://www.oeb.ca/ |
 | Ontario Energy Board — Archived Decisions | Ontario · Provincial | Decisions archive | Filter past Ontario Energy Board applications by year, energy type and application type and open the case record — decisions and orders that set Ontario electricity and gas rates. | https://www.oeb.ca/applications/major-decisions/archived-decisions |
+| Ontario Energy Board — We're Here to Help (Consumer Complaints) | Ontario · Provincial | Complaint process | The Ontario Energy Board's consumer help page: electricity and natural gas customers follow the complaint steps, contacting their utility first and then filing with the OEB over billing, contracts or service. | https://www.oeb.ca/consumer-information-and-protection/oebs-consumer-protection-role/were-here-help |
 | Ontario Power Generation — Dam Safety and Water Management | Ontario · Provincial | Water management | OPG's dam safety monitoring, water level data, and water management information for Ontario's hydroelectric facilities | https://www.opg.com/power-safety/dams/ |
 | Ontario Power Generation — Nuclear Monitoring Dashboard | Ontario · Provincial | Dashboard | Nuclear generation data, environmental monitoring results, and safety performance information from OPG's Pickering and Darlington stations | https://www.opg.com/power-generation/nuclear/ |
 | Synergy North — Outage Map | Ontario · Regional | Outage map | Live outage map for Synergy North, the municipal electricity utility serving Thunder Bay and Kenora, with affected areas and restoration updates. | https://synergynorth.ca/outage-map/ |
@@ -3747,6 +3751,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CheckFirst — Alberta Securities Commission | Alberta · Provincial | Investor education | Alberta Securities Commission investor site: verify an investment seller's registration, learn scam red flags, and check disciplined persons before investing. | https://checkfirst.ca/ |
 | Consumer Protection Alberta — Service Alberta | Alberta · Provincial | Resources | Alberta consumer protection information, complaints, and business licensing | https://www.alberta.ca/consumer-protection |
 | OIPC Alberta | Alberta · Provincial | Regulator | Alberta's Information and Privacy Commissioner — access to information reviews and privacy breach reports | https://oipc.ab.ca/ |
+| RECA — Consumer Protection Fund | Alberta · Provincial | Consumer protection | RECA's consumer protection fund information: Albertans who lost money to a licensed real estate or mortgage professional's fraud or breach of trust learn the claim limits and how to apply for compensation. | https://www.recaprotects.ca/consumer-protection-fund/ |
+| RECA ProCheck — Find a Licensee | Alberta · Provincial | Licence search | The Real Estate Council of Alberta's ProCheck search: verify in seconds whether a real estate, mortgage, property-management or condominium-management professional is licensed, and view recent disciplinary decisions. | https://procheck.reca.ca/ |
 | Service Alberta — Search for a Licensed Business | Alberta · Provincial | Licence lookup | Search active Alberta consumer-program licences and registrations: collection agencies, payday lenders, high-cost credit, home inspectors, direct sellers, prepaid contractors, and more. Downloads available in Excel. | https://www.servicealberta.gov.ab.ca/consumer/business_search/ |
 
 ### Saskatchewan
@@ -3755,8 +3761,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | SGI — Vehicle Registration and Insurance Rate Calculator | Saskatchewan · Crown Corp | Rate calculator | Estimate vehicle registration and insurance costs by body type, make/model, year, class, use and safety rating. Includes monthly payment and short-term registration options. Rates updated June 2026. | https://sgi.sk.ca/ratecalc |
 | FCAA — FCAA411 Licence & Registration Search | Saskatchewan · Provincial | Lookup tool | Search whether payday lenders, collection agencies, mortgage brokers, vehicle dealers, direct sellers, insurers and pension plans are licensed in Saskatchewan. | https://fcaa.gov.sk.ca/fcaa411 |
+| FCAA Saskatchewan — File a Consumer Complaint | Saskatchewan · Provincial | Complaint guide | The FCAA Consumer Protection Division's complaint page: Saskatchewan consumers check whether their dispute is valid and file a complaint about goods, services, warranties, direct sellers, collection agents or motor dealers. | https://fcaa.gov.sk.ca/consumers-investors-pension-plan-members/consumers/purchasing-goods-and-services/complaints |
 | OIPC Saskatchewan | Saskatchewan · Provincial | Regulator | Saskatchewan's Information and Privacy Commissioner — reviews, reports, and privacy guidance | https://oipc.sk.ca/ |
 | Ombudsman Saskatchewan | Saskatchewan · Provincial | Ombudsman | Takes complaints about Saskatchewan government ministries, agencies, Crown corporations, and municipal councils | https://ombudsman.sk.ca/ |
+| Saskatchewan — Consumer Rights Pathway | Saskatchewan · Provincial | Dispute resolution | Saskatchewan's interactive consumer-rights pathway: answer guided questions about a dispute to learn your rights, get letter templates, and escalate to the Resolve My Consumer Dispute portal with FCAA mediators. | https://consumerrights.saskatchewan.ca/ |
 
 ### Manitoba
 
@@ -3806,6 +3814,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nova Scotia Ombudsman | Nova Scotia · Provincial | Ombudsman | Investigates complaints about Nova Scotia provincial and municipal government services and decisions when internal complaint processes have not resolved them. | https://ombudsman.novascotia.ca/ |
 | Service Nova Scotia — Consumer Protection | Nova Scotia · Provincial | Portal | Service NS hub for consumer rights under the Consumer Protection Act: direct sellers, collections, credit reports, payday loans, funerals, condominiums, and online business complaints. | https://beta.novascotia.ca/programs-and-services/consumer-protection |
 | IRAC — Current Regulated Petroleum Prices | PEI · Provincial | Regulated price schedule | IRAC's regulated minimum/maximum pump prices for gasoline, diesel, furnace oil and propane, adjusted twice weekly, with pricing orders and notices (PDF). | https://irac.pe.ca/petrol/current-petroleum-prices/ |
+| OmbudsPEI — Office of the Ombudsperson | Prince Edward Island · Provincial | Ombudsman | Prince Edward Island's independent ombuds office: Islanders can file a free, confidential complaint about unfair treatment by PEI government agencies, municipalities, Health PEI or post-secondary institutions. | https://ombudspei.ca/ |
 | PEI Consumer Services | Prince Edward Island · Provincial | Regulator | Prince Edward Island consumer protection hub: file a consumer complaint, check business and lender licences, and get help with payday loans, gift cards, contracts and collection agencies. Verified live in a real browser (sandbox curl hits a bot wall). | https://www.princeedwardisland.ca/en/topic/consumer-services |
 
 ### Northern Canada (YT, NT, NU)
