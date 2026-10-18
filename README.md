@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2492 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2514 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -31,7 +31,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
 - [🪪 Government Services & ID](#government-services-and-id) — 92
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 36
-- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 37
+- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 38
 - [🏢 Business & Procurement](#business-and-procurement) — 66
 - [💼 Employment & Labour](#employment-and-labour) — 40
 - [🎓 Education & Student Aid](#education-and-student-aid) — 36
@@ -53,13 +53,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 166
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 92
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 70
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 50
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 68
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 31
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 98
-- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 25
+- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 26
 
 ---
 
@@ -1079,6 +1079,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CDIC — Deposit Insurance Calculator | Canada · Crown Corp | Calculator | Calculate how much of your bank deposits are protected by CDIC coverage | https://www.cdic.ca/your-coverage/deposit-insurance-calculator/ |
 | Export Development Canada — Trade Intelligence | Canada · Crown Corp | Trade data | International trade data, market intelligence, and export tools | https://edc.ca/ |
 | Canadian Investor Protection Fund | Canada · Agency | Coverage tool | Check coverage of investment dealer member firms and eligible assets | https://www.cipf.ca/ |
+| CIRO — AdvisorReport Search | Canada · Agency | Lookup tool | CIRO's AdvisorReport search: look up an investment advisor at a CIRO-regulated dealer to see their approval categories, provinces, employment history and disciplinary disclosures before investing. | https://www.ciro.ca/advisor-report-search |
 | FINTRAC — Strategic Intelligence Publications | Canada · Agency | Report library | Read FINTRAC operational alerts, briefs, and assessments listing concrete indicators of money laundering, terrorist financing, and sanctions evasion. | https://fintrac-canafe.canada.ca/intel/sintel-eng |
 | SEDAR+ — Canadian Securities Filings | Canada · Agency | Filings search | Official filings portal for Canadian public companies — prospectuses, annual reports, continuous disclosure | https://sedarplus.ca/ |
 
@@ -3466,6 +3467,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Get Cyber Safe | Canada · Federal | Cyber security | The Government of Canada's national cyber-safety campaign (Canadian Centre for Cyber Security): plain-language guidance, quizzes, and alerts helping individuals and small businesses stay safe online. | https://www.getcybersafe.gc.ca/en |
 | Health Canada — Canadian Cannabis Survey | Canada · Federal | Data | Annual cannabis use, perceptions, and harms reported by Canadians | https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/research-data.html |
 | Health Canada — Recalls & Safety Alerts | Canada · Federal | Alerts database | Searchable national database of consumer product, food, and health product recalls and safety alerts, filterable by category, date, and brand. | https://healthycanadians.gc.ca/recall-alert-rappel-avis/index-eng.php |
+| Health Canada — Report a Pesticide Incident | Canada · Federal | Reporting tool | Health Canada's pesticide incident reporting page: report a pesticide's effects on a person, a pet or livestock, or the environment through the Public Engagement Portal voluntary incident form. | https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/protecting-your-health-environment/report-pesticide-incident.html |
+| Health Canada — Report an Incident Involving a Consumer Product or Cosmetic | Canada · Federal | Reporting tool | Health Canada's incident reporting hub: consumers report injuries, near misses, property damage or labelling problems from a consumer product or cosmetic so Health Canada can investigate, warn or recall. | https://www.canada.ca/en/health-canada/services/consumer-product-safety/report-incident.html |
 | National Wildland Fire Information System | Canada · Federal | Wildfire map | Wildfire status and fire information across Canada | https://cwfis.cfs.nrcan.gc.ca/ |
 | Public Safety Canada — Listed Terrorist Entities | Canada · Federal | Registry | Official registry of every entity listed under the Criminal Code as a terrorist entity, with background summaries and listing dates for each group. | https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx |
 | Public Safety Canada — National Emergency Resources | Canada · Federal | Guide | Emergency preparedness guides, 72-hour kits, and hazard-specific response info | https://www.getprepared.gc.ca/ |
@@ -3707,10 +3710,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Air Passenger Protection Portal | Canada · Federal | Consumer protection | The Canadian Transportation Agency's official one-stop shop for air travellers: know your rights on delays, cancellations, denied boarding and baggage, file a travel complaint, and get tips for hassle-free travel. | https://airpassengerprotection.ca/ |
 | Canadian Anti-Fraud Centre | Canada · Federal | Reporting | Report fraud and scams to the national CAFC and browse current scam trends | https://www.antifraudcentre-centreantifraude.ca/ |
+| Competition Bureau — Complaint Form | Canada · Federal | Complaint form | The Competition Bureau's complaint form: notify the Bureau that a company or individual may have broken the Competition Act or labelling laws, for example through deceptive marketing or drip pricing. | https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form |
 | Competition Bureau — Deceptive Marketing Cases | Canada · Federal | Lookup tool | Search every public deceptive-marketing case since 2015 by company, product, or outcome, including consent agreements and Tribunal rulings. | https://competition-bureau.canada.ca/en/deceptive-marketing-practices/cases-and-outcomes |
 | Measurement Canada — Find an Authorized Service Provider | Canada · Federal | Search tool | Find companies authorized by Measurement Canada to inspect and certify scales, gas pumps, and other measuring devices in your area, with their approved inspection scope. | https://ised-isde.canada.ca/site/measurement-canada/en/authorized-service-providers/find-authorized-service-provider |
+| Ad Standards — Consumer Complaint Procedure | Canada · Agency | Complaint process | Ad Standards' consumer complaint procedure: complain in writing that an advertisement in Canadian media breaks the Canadian Code of Advertising Standards and have it reviewed for amendment or withdrawal. | https://adstandards.ca/consumer-complaint-procedure/ |
+| Canadian Motor Vehicle Arbitration Plan (CAMVAP) | Canada · Agency | Dispute resolution | Free binding arbitration for vehicle defects and warranty disputes: owners who cannot resolve a problem with a participating manufacturer can have an arbitrator order a repair, buy-back or reimbursement. | https://www.camvap.ca/ |
+| Canadian Securities Administrators — Are They Registered? | Canada · Agency | Lookup tool | The CSA's check-before-you-invest hub: verify through the National Registration Search whether an investment adviser or firm is registered, and check disciplinary history and investor alerts first. | https://www.securities-administrators.ca/registration/are-they-registered |
+| General Insurance OmbudService (GIO) | Canada · Agency | Ombudsman | Free, impartial help for home, auto and business insurance disputes: consumers who cannot settle a claim or complaint with their insurer can bring it to the General Insurance OmbudService. | https://www.giocanada.org/ |
 | National Do Not Call List | Canada · Agency | Service | Register Canadian phone numbers to reduce unwanted telemarketing calls | https://www.lnnte-dncl.gc.ca/ |
 | Office of the Privacy Commissioner of Canada | Canada · Agency | Regulator | Privacy complaints, PIPEDA guidance, and breach reporting for Canadians | https://www.priv.gc.ca/ |
+| OmbudService for Life and Health Insurance (OLHI) | Canada · Agency | Ombudsman | Canada's life and health insurance ombuds service: consumers with an unresolved complaint about life, disability, travel or other health insurance can get a free independent review and search for a lost policy. | https://olhi.ca/ |
+| Ombudsman for Banking Services and Investments (OBSI) | Canada · Agency | Ombudsman | Canada's national banking and investment ombudsman: consumers who cannot resolve a complaint with their bank or investment firm can file for a free, independent review and a compensation recommendation. | https://www.obsi.ca/ |
 | Spam Reporting Centre — Fight Spam | Canada · Agency | Reporting | CRTC anti-spam information and guidance on reporting spam, phishing, and malicious electronic messages under CASL. | https://crtc.gc.ca/eng/internet/anti.htm |
 
 ### British Columbia
@@ -3721,7 +3731,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Residential Tenancy Branch — Search Past Decisions | British Columbia · Provincial | Decision lookup | Searchable database of RTB past decisions (direct request, participatory, special application, monetary orders and administrative penalties) to find how the tribunal ruled on similar landlord-tenant issues. | https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/solving-problems/tenancy-dispute-resolution/past-decisions |
 | BCFSA — Before You Sign, Search | British Columbia · Provincial | Lookup tool | BC Financial Services Authority verification hub: confirm that a real estate licensee, mortgage broker, credit union or other regulated financial professional is licensed before signing, and report a concern. | https://www.bcfsa.ca/home/before-you-sign-search |
 | Consumer Protection BC | British Columbia · Provincial | Regulator | BC's consumer protection regulator — complaint filing and industry information | https://www.consumerprotectionbc.ca/ |
+| Consumer Protection BC — Check a Licence | British Columbia · Provincial | Licence search | Consumer Protection BC's licence check: search whether a BC payday lender, debt collector, telemarketer, travel agent, home inspector or funeral provider is licensed, by name, licence number or city. | https://www.consumerprotectionbc.ca/check-a-licence-search/ |
 | Office of the Information and Privacy Commissioner of BC | British Columbia · Provincial | Regulator | BC's privacy regulator — complaint filing, FIPPA/PIPA decisions, and reports | https://www.oipc.bc.ca/ |
+| Technical Safety BC — Find a Licensed Contractor | British Columbia · Provincial | Licence search | Technical Safety BC's guide to its licensed-contractor search: verify a BC contractor's licence for gas, electrical, elevating or boiler work and see their authorized scope and enforcement history. | https://www.technicalsafetybc.ca/regulatory-resources/licensed-contractor-guide |
+| Vehicle Sales Authority of BC (VSA) | British Columbia · Provincial | Regulator | BC's vehicle sales regulator: buyers can check dealer and salesperson licences, file a complaint about a vehicle purchase, and learn their rights under BC motor dealer law. | https://www.vsabc.ca/ |
 
 ### Alberta
 
@@ -3729,6 +3742,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | AGLC — Cannabis Licensee Search | Alberta · Provincial | Licence search | Alberta's gaming regulator publishes every licensed retail cannabis store in the province in one searchable table. You look up a retailer by name or city, and a column flags which stores sell online; the page also links out to the federal list of licensed producers. | https://www.aglc.ca/cannabis/retail-cannabis/cannabis-licensee-search |
 | AGLC — Gaming Registrants | Alberta · Provincial | Public register | Public register of Alberta gaming registration holders — casinos, iGaming operators, gaming and terminal suppliers, and advisors. Each entry gives the licence number, expiry date, gaming stream and class of registration, so a resident or business can check whether an operator or supplier is properly registered and whether its registration has lapsed. | https://www.aglc.ca/gaming-registrants |
+| Alberta Motor Vehicle Industry Council (AMVIC) | Alberta · Provincial | Regulator | Alberta's automotive industry regulator: consumers can verify a vehicle business or salesperson licence, file a complaint about sales or repairs, and learn about its consumer compensation fund. | https://www.amvic.org/ |
 | Alberta Ombudsman | Alberta · Provincial | Ombudsman | Investigates complaints of unfair treatment by Alberta government authorities and designated professional organizations | https://www.ombudsman.ab.ca/ |
 | CheckFirst — Alberta Securities Commission | Alberta · Provincial | Investor education | Alberta Securities Commission investor site: verify an investment seller's registration, learn scam red flags, and check disciplined persons before investing. | https://checkfirst.ca/ |
 | Consumer Protection Alberta — Service Alberta | Alberta · Provincial | Resources | Alberta consumer protection information, complaints, and business licensing | https://www.alberta.ca/consumer-protection |
@@ -3757,13 +3771,16 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Consumer Protection Ontario — Tools | Ontario · Federal | Calculators | Find, compare, and understand consumer protections including car loans, leases, and contracts | https://www.ontario.ca/page/consumer-protection-ontario |
 | Condominium Authority of Ontario — Condo Registry | Ontario · Agency | Registry lookup | Free searchable database of Ontario condo corporations: address for service, voting units, board director names, management company, based on CAO filings. Search by legal/operating name, director or municipal address. | https://www.condoauthorityontario.ca/condo-registry-search/ |
+| Electrical Safety Authority — Contractor Locator Tool | Ontario · Provincial | Licence search | Ontario's Electrical Safety Authority contractor locator: find a Licensed Electrical Contractor by job type and check licence status and conviction flags before hiring for electrical work. | https://licensing.esasafe.com/contractor-locator-tool/ |
 | HCRA — Ontario Builder Directory | Ontario · Provincial | Lookup tool | Home Construction Regulatory Authority directory: search every licensed Ontario new-home builder and vendor by name, licence number or principal, with licence status, discipline history, charges and Tarion warranty data. | https://obd.hcraontario.ca/ |
 | Information and Privacy Commissioner of Ontario | Ontario · Provincial | Regulator | Ontario's privacy and FOI oversight — complaint process, decisions, and guidance | https://www.ipc.on.ca/ |
 | Ombudsman Ontario | Ontario · Provincial | Ombudsman | Independent office investigating complaints about Ontario government services, municipalities, universities, and school boards | https://www.ombudsman.on.ca/ |
 | Ontario Consumer Beware List | Ontario · Provincial | Lookup tool | Searchable Ontario record of businesses that were charged or convicted under consumer protection laws, failed to comply with ministry orders, or did not answer consumer complaints. | https://www.ontario.ca/page/search-consumer-beware-list |
 | Ontario Data Catalogue — LTB Order Catalogue | Ontario · Provincial | Order lookup | Public catalogue of final Landlord and Tenant Board orders (Jan 2026 onward, phased back to 2021) from Tribunals Ontario. Monthly CSV downloads available to search specific LTB decisions. | https://data.ontario.ca/dataset/ltb-order-catalogue |
+| Ontario Motor Vehicle Industry Council (OMVIC) | Ontario · Provincial | Regulator | Ontario's vehicle sales regulator: buyers can check whether a dealer or salesperson is registered, learn their purchase rights, and file a complaint about a vehicle sale. | https://www.omvic.ca/ |
 | OSC — Get Smarter About Money | Ontario · Provincial | Investor education | Ontario Securities Commission investor education site with calculators, fraud-spotting guides and tools to check whether an investment seller is registered before investing. | https://www.getsmarteraboutmoney.ca/ |
 | RECO — Registrant Search | Ontario · Provincial | Lookup tool | Real Estate Council of Ontario public register: confirm that an Ontario real estate salesperson, broker or brokerage is registered, and see conditions, charges and discipline from the last 60 months. The search now lives on reco.on.ca. | https://www.reco.on.ca/RegistrantSearch |
+| Tarion — New Home Warranty | Ontario · Provincial | Consumer protection | Ontario's new-home warranty administrator: buyers can check a builder's record, confirm a new home's warranty coverage, and submit claims for construction defects through Tarion. | https://www.tarion.com/ |
 | Ombudsman Toronto — City of Toronto | Toronto · Municipal | Ombudsman | Independent office that investigates complaints about City of Toronto services, fairness and decision-making, and reports publicly on systemic issues. | https://www.toronto.ca/city-government/accountability-operations-customer-service/accountability-officers/ombudsman-toronto/ |
 
 ### Quebec
@@ -3772,6 +3789,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | AMF Québec — Registers of Authorized Firms and Individuals | Quebec · Provincial | Lookup tool | Autorité des marchés financiers registers: verify that a firm or individual is authorized to sell insurance, investments or financial planning services in Quebec, and check discipline history. | https://lautorite.qc.ca/grand-public/registres |
 | Commission d'accès à l'information du Québec | Quebec · Provincial | Regulator | Quebec's access to information and privacy commission — decisions, complaints, guidance | https://www.cai.gouv.qc.ca/english/ |
+| Office de la protection du consommateur — Get Information About a Merchant | Quebec · Provincial | Lookup tool | Quebec's consumer office merchant lookup: search a merchant to see OPC enforcement interventions, consumer formal notices, and any licence or permit the merchant holds. | https://www.opc.gouv.qc.ca/en/information-merchant/ |
 | Office de la protection du consommateur (Quebec) | Quebec · Provincial | Regulator | Quebec's consumer protection office — complaint filing, contract guides, and business records | https://www.opc.gouv.qc.ca/en/ |
 | Protecteur du citoyen (Québec) | Quebec · Provincial | Ombudsman | Québec's ombudsman — handles complaints about provincial ministries, agencies, and the health network | https://protecteurducitoyen.qc.ca/ |
 | RBQ — Registre des détenteurs de licence | Quebec · Provincial | Lookup tool | Look up any Quebec construction contractor or owner-builder by name or licence number; see categories, bonding, claims and public-works restrictions. | https://www.pes.rbq.gouv.qc.ca/RegistreLicences |
@@ -3783,6 +3801,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | FCNB — Check Licence and Registration | New Brunswick · Provincial | Lookup tool | Financial and Consumer Services Commission portal to verify insurance, investment, mortgage, real estate, direct-seller, debt-collection and payday-loan licences, plus complaint filing. | https://www.fcnb.ca/en/frauds-and-scams/check-licence-and-registration |
 | Ombud NB | New Brunswick · Provincial | Ombudsman | Investigates complaints of unfair treatment by New Brunswick provincial government departments, agencies, municipalities and other public bodies. | https://ombudnb.ca/ |
 | NL Consumer Affairs Division | Newfoundland and Labrador · Provincial | Portal | Digital Government and Service NL consumer affairs hub: right to cancel, distance contracts, direct-seller licensing and complaints, identity-theft guidance, plus consumer alerts feed. | https://www.gov.nl.ca/dgsnl/consumer/consumer-affairs/ |
+| Office of the Citizens' Representative — Newfoundland and Labrador | Newfoundland and Labrador · Provincial | Ombudsman | Newfoundland and Labrador's ombudsman office: residents can complain about provincial government services and decisions and request an independent investigation. | https://www.citizensrep.nl.ca/ |
 | Public Utilities Board — Regulated Fuel Price Schedule | Newfoundland and Labrador · Provincial | Dashboard | Weekly/daily maximum prices for gas, diesel, furnace oil and propane across all 14+ PUB pricing zones, with current PDF price orders per zone, historical pricing archive and zone map. | https://www.pub.nf.ca/PP_petroleumproducts.php |
 | Nova Scotia Ombudsman | Nova Scotia · Provincial | Ombudsman | Investigates complaints about Nova Scotia provincial and municipal government services and decisions when internal complaint processes have not resolved them. | https://ombudsman.novascotia.ca/ |
 | Service Nova Scotia — Consumer Protection | Nova Scotia · Provincial | Portal | Service NS hub for consumer rights under the Consumer Protection Act: direct sellers, collections, credit reports, payday loans, funerals, condominiums, and online business complaints. | https://beta.novascotia.ca/programs-and-services/consumer-protection |
@@ -3793,8 +3812,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Northwest Territories Ombud | Northwest Territories · Provincial | Ombudsman | The Northwest Territories' independent ombud office: residents can complain about unfair treatment by territorial government departments, boards and agencies. | https://www.nwtombud.ca/ |
 | NWT MACA — Consumer Affairs | Northwest Territories · Provincial | Portal | Consumer Affairs office: free complaint process with electronic form, direct-seller/collection/real-estate/gaming licensing, product recalls and consumer information bulletins. | https://www.maca.gov.nt.ca/en/services/consumer-affairs |
 | Yukon — Complaint Against a Regulated Business Professional | Yukon · Provincial | Complaint process | Formal complaint process for collection agents, funeral directors, insurers, pawnbrokers, real estate and security professionals, with paired licence-verification pages on yukon.ca. | https://yukon.ca/en/doing-business/professional-licensing/make-complaint-against-government-regulated-business-professional |
+| Yukon Ombudsman | Yukon · Provincial | Ombudsman | Yukon's independent ombudsman: residents can complain about unfair treatment by Yukon government departments and public bodies and ask for an investigation. | https://www.yukonombudsman.ca/ |
 
 ## 🪶 Indigenous Services & Treaties
 
@@ -4063,6 +4084,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | ISED — Spectrum Management System | Canada · Federal | Licensing | Look up radio spectrum licence holders and technical info across Canada | https://sms-sgs.ic.gc.ca/ |
 | ISED Spectrum Management System | Canada · Federal | Licence database | Public access to Canada's radio spectrum licensing: search radio licences by frequency, location, or licensee, browse spectrum auction results, and download site data for every licensed transmitter in the country. | https://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/home |
 | National Broadband Map | Canada · Federal | Interactive map | ISED/CRTC interactive map of broadband internet availability by technology and speed across Canada, accurate to roughly 250 metres and updated twice yearly. | https://ised-isde.canada.ca/app/scr/sittibc/web/bbmap?lang=eng |
+| Canadian Broadcast Standards Council — Make a Complaint | Canada · Agency | Complaint form | The Canadian Broadcast Standards Council's complaint form: complain about private TV or radio content on ethics, violence, portrayal or news accuracy and request a panel ruling. | https://www.cbsc.ca/make-a-complaint/ |
 | CRTC — Decisions, Notices and Orders | Canada · Agency | Regulatory decisions index | Search and browse daily-updated indexes of CRTC broadcasting, telecom, and enforcement decisions, notices, and orders dating back to 1984. | https://crtc.gc.ca/eng/dno.htm |
 
 ### British Columbia
