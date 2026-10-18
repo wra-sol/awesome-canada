@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2494 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2492 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -50,7 +50,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚡ Energy & Utilities](#energy-and-utilities) — 57
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 168
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 166
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
@@ -3181,7 +3181,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Western Manitoba Regional Library | Brandon · Regional | Public library | Western Manitoba's regional library system, based in Brandon: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the region. | https://wmrl.ca/ |
-| Parkland Regional Library | Dauphin · Regional | Public library | Manitoba's Parkland regional library system, based in Dauphin: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs. | https://parklandlib.mb.ca/ |
 | Winnipeg Public Library | Winnipeg · Municipal | Public library | Winnipeg's public library system: catalogue search, ebooks, branch locations including Millennium Library, programs, and information services for Winnipeg residents. | https://wpl.winnipeg.ca/ |
 
 ### Ontario
@@ -3255,7 +3254,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Côte Saint-Luc Public Library | Montreal · Municipal | Public library | The Eleanor London Côte Saint-Luc Public Library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services. | https://csllibrary.com/ |
 | Montreal Open Data showcase | Montreal · Municipal | App gallery | Gallery of applications built from Montreal open data | https://donnees.montreal.ca/en/showcase |
 | Pointe-Claire Public Library | Montreal · Municipal | Public library | Pointe-Claire's public library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services. | https://biblio.pointe-claire.ca/ |
-| Westmount Public Library | Montreal · Municipal | Public library | Westmount's public library on the Island of Montreal: catalogue, programs, hours and services via the city's official library pages. | https://westmount.org/biblio/ |
 | Bibliothèque de Saint-Eustache | Quebec · Municipal | Public library | Saint-Eustache's municipal library in Quebec: catalogue, borrowing, hours and activities from the city's official site. In French. | https://www.saint-eustache.ca/bibliotheque |
 | Bibliothèque de Sainte-Catherine | Quebec · Municipal | Public library | Sainte-Catherine's municipal library in Quebec: catalogue and borrowing services, hours, and activities from the city's official library site. In French. | https://www.ville.sainte-catherine.qc.ca/bibliotheque/ |
 | Bibliothèque de Sainte-Julie | Quebec · Municipal | Public library | Sainte-Julie's municipal library in Quebec: catalogue search, borrowing, hours and activities. In French. | https://biblio.saintejulie.ca/ |
