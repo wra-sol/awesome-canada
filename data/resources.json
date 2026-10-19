@@ -39813,5 +39813,400 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "CPP Disability Benefits — Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "Apply for CPP disability benefits online through My Service Canada Account or by paper form: Service Canada's step-by-step application for workers whose severe and prolonged disability prevents them from working regularly, including the medical form step.",
+    "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp-disability-benefit/apply.html",
+    "tags": [
+      "cpp",
+      "disability",
+      "pensions",
+      "apply"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Guaranteed Income Supplement (GIS) — Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "Apply for the Guaranteed Income Supplement, the income-tested monthly top-up for low-income Old Age Security pensioners: check whether you were auto-enrolled, then apply online through My Service Canada Account or with forms ISP-3550/ISP-3025.",
+    "url": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/guaranteed-income-supplement/apply.html",
+    "tags": [
+      "gis",
+      "oas",
+      "seniors",
+      "low income",
+      "apply"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "EI Sickness Benefit — Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "Apply for Employment Insurance sickness benefits when you cannot work for medical reasons: the online application, the medical certificate and records of employment you need, and how to check your claim status afterwards.",
+    "url": "https://www.canada.ca/en/services/benefits/ei/ei-sickness/apply.html",
+    "tags": [
+      "ei",
+      "sickness",
+      "employment insurance",
+      "apply"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Canada Housing Benefit",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Benefit",
+    "description": "The Canada Housing Benefit top-up delivered through the CRA: a tax-free payment (the 2022-23 round paid a one-time $500; the page now covers the ongoing benefit of up to $250 a month for up to 10 years for eligible renters in participating provinces) — check eligibility and apply through CRA My Account, by phone or by form.",
+    "url": "https://www.canada.ca/en/services/taxes/child-and-family-benefits/top-ups/canada-housing-benefit.html",
+    "tags": [
+      "housing benefit",
+      "rent",
+      "cra",
+      "low income"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "211 Canada",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Canada's national social-services navigator: search or dial 2-1-1 for free, confidential referrals to government and community health and social services — food, housing, income assistance, seniors and newcomer supports — 24 hours a day in more than 150 languages.",
+    "url": "https://211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "community services"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Alberta Disability Income Assistance (AISH and ADAP)",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Alberta's disability income assistance hub: the Assured Income for the Severely Handicapped (AISH) and the Alberta Disability Assistance Program (ADAP) provide a monthly living allowance, child and health benefits to adults whose severe disability permanently or substantially impedes employment; apply through the single combined application and use the benefit estimator.",
+    "url": "https://www.alberta.ca/disability-income-assistance",
+    "tags": [
+      "aish",
+      "adap",
+      "disability",
+      "income assistance",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Alberta Seniors Financial Assistance",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "One application for Alberta's seniors money programs: the income-tested Alberta Seniors Benefit, Special Needs Assistance for Seniors, and seniors dental and optical assistance — apply online with an Alberta.ca account and manage payments and claims in the same portal.",
+    "url": "https://www.alberta.ca/seniors-financial-assistance",
+    "tags": [
+      "seniors",
+      "alberta seniors benefit",
+      "dental",
+      "optical"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Saskatchewan Income Support (SIS)",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Saskatchewan's main income assistance program: monthly basic and shelter benefits for adults and families with little or no income, with current rates by household and region and online application through a Saskatchewan Account.",
+    "url": "https://www.saskatchewan.ca/residents/family-and-social-support/financial-help/saskatchewan-income-support-sis",
+    "tags": [
+      "income support",
+      "sis",
+      "social assistance",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Manitoba — Employment and Income Assistance (EIA)",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Manitoba's social assistance program: money for basic needs and Rent Assist for Manitobans with no other way to support themselves or their families, with payment dates, how to apply in Winnipeg and rural/northern Manitoba, and disability and single-parent categories.",
+    "url": "https://www.gov.mb.ca/fs/eia/",
+    "tags": [
+      "eia",
+      "income assistance",
+      "rent assist",
+      "manitoba"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Nova Scotia — Income Assistance: How to Apply",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Nova Scotia's Income Assistance application page under Employment Support and Income Assistance (ESIA): who can receive it, the documents to have ready, how to apply by phone or at a local office, and faster help in an emergency.",
+    "url": "https://novascotia.ca/coms/employment/income_assistance/HowtoApply.html",
+    "tags": [
+      "income assistance",
+      "esia",
+      "social assistance",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Social Supports NB",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "New Brunswick's official social-supports portal: browse programs by need — social assistance, disability support, seniors, housing and long-term care — check eligibility, use the financial help calculator, and apply online through the province's Social Development services.",
+    "url": "https://socialsupportsnb.ca/",
+    "tags": [
+      "social assistance",
+      "disability",
+      "seniors",
+      "new brunswick",
+      "finder"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "New Brunswick — Social Assistance Program",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "New Brunswick's Social Assistance Program service page on gnb.ca: monthly help with basic needs such as food, rent, utilities and clothing for residents in financial need, plus related supports like childcare, transportation and prescription drugs, and how to start an application.",
+    "url": "https://www2.gnb.ca/content/gnb/en/services/services_renderer.10295.Social_Assistance_Program.html",
+    "tags": [
+      "social assistance",
+      "new brunswick",
+      "basic needs"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "New Brunswick — Financial Help Calculator",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "benefits",
+    "type": "Calculator",
+    "description": "Social Development New Brunswick's official financial help calculator: answer questions about your household and income to estimate the provincial financial help and social assistance you may qualify for before you apply.",
+    "url": "https://nbsocialdevelopment.my.site.com/calculator/s/?language=en_US",
+    "tags": [
+      "calculator",
+      "social assistance",
+      "eligibility",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Prince Edward Island — Social Assistance Program",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "PEI's Social Assistance Program: financial help with food, clothing, shelter, childcare, medicine and other essentials for Islanders 18 and older whose income cannot cover basic living costs, with the screening line and appointment process to apply.",
+    "url": "https://www.princeedwardisland.ca/en/information/social-assistance-program",
+    "tags": [
+      "social assistance",
+      "pei",
+      "basic needs"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Prince Edward Island — AccessAbility Supports",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "benefits",
+    "type": "Disability supports",
+    "description": "PEI's disability support program for residents under 65: financial assistance including Assured Income, plus personal, housing, community and employment supports, with a screening call and coordinator assessment to apply.",
+    "url": "https://www.princeedwardisland.ca/en/information/accessability-supports",
+    "tags": [
+      "disability",
+      "accessability",
+      "assured income",
+      "pei"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Newfoundland and Labrador — Income Support Program",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Newfoundland and Labrador's Income Support Program: last-resort financial help for basic needs for residents 18 and older, with eligibility rules, the telephone application (1-877-729-7888), required documents, and basic rates by family and living arrangement.",
+    "url": "https://www.gov.nl.ca/sswb/income-support/",
+    "tags": [
+      "income support",
+      "social assistance",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Northwest Territories — Income Assistance Program",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "The NWT's Income Assistance Program under ECE's Income Security Programs: financial assistance for basic and enhanced needs — food, shelter, utilities, clothing, childcare — assessed by community and family size, applied for through regional ECE Service Centres.",
+    "url": "https://www.ece.gov.nt.ca/en/services/income-security-programs/income-assistance-program",
+    "tags": [
+      "income assistance",
+      "nwt",
+      "basic needs"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Nunavut — Income Assistance Program",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Nunavut's Income Assistance Program: a last-resort program helping Nunavummiut 18 and older in financial need meet basic needs, with monthly financial assessments and Productive Choices worked out with a community Income Assistance Worker.",
+    "url": "https://www.gov.nu.ca/en/social-supports/income-assistance-program",
+    "tags": [
+      "income assistance",
+      "nunavut",
+      "basic needs"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Yukon — Apply for Social Assistance",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Yukon's social assistance application page: financial help for residents 19 and older who cannot meet basic living costs, booked through a pre-intake call and intake appointment with a social worker, with monthly re-application through the assistance application card.",
+    "url": "https://yukon.ca/en/legal-and-social-supports/supports-adults-and-seniors/apply-social-assistance",
+    "tags": [
+      "social assistance",
+      "yukon",
+      "basic needs"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "BC Disability Assistance",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "benefits",
+    "type": "Disability assistance",
+    "description": "BC's disability assistance hub for people with the Persons with Disabilities (PWD) designation: higher monthly support and shelter rates than regular income assistance, supplements, earnings exemptions, and how the PWD designation and application work.",
+    "url": "https://www2.gov.bc.ca/gov/content/family-social-supports/services-for-people-with-disabilities/disability-assistance",
+    "tags": [
+      "pwd",
+      "disability assistance",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Ontario — Find Benefits and Programs",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Ontario's guided benefits finder on ontario.ca: answer a short questionnaire about your situation to get a personalized list of provincial benefits and programs you may qualify for — health, housing, child care, dental, education, income and disability supports.",
+    "url": "https://www.ontario.ca/page/find-benefits-and-programs",
+    "tags": [
+      "benefits finder",
+      "ontario",
+      "eligibility"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Retraite Québec — Family Allowance",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "benefits",
+    "type": "Benefit",
+    "description": "Quebec's Family Allowance from Retraite Québec: the provincial child benefit paid to families with children under 18, including the handicapped-child supplements, with amounts by family income and the CalculAide estimator for a first application or a change in family situation.",
+    "url": "https://www.retraitequebec.gouv.qc.ca/en/citizens/children/family-allowance",
+    "tags": [
+      "family allowance",
+      "children",
+      "quebec",
+      "retraite quebec"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "211 British Columbia (bc211)",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "BC's 211 service: search the province-wide community resource database by keyword or topic — food, shelter, financial assistance, health and seniors supports — or talk to a Resource Navigator by phone, text or web chat; the database also serves Yukon.",
+    "url": "https://bc.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "211 Alberta",
+    "level": "Agency",
+    "jurisdiction": "Alberta",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Alberta's 211 service: search community, government and social services across Alberta — food, housing, income, mental health and seniors supports — or connect with a navigator by phone, text or chat, 24 hours a day.",
+    "url": "https://ab.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "211 Ontario",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Ontario's 211 service: search the provincial database of community, health, social and government services by topic and location, find your regional 211 service, or reach a navigator by phone, text, chat or email at any hour.",
+    "url": "https://211ontario.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-19"
   }
 ]

@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2522 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2547 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -39,7 +39,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
 - [🩺 Health & Wellness](#health-and-wellness) — 123
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 59
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 59
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
@@ -1864,24 +1864,31 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Dental Benefit | Canada · Federal | Benefit | Coverage details and application for the Canadian Dental Care Plan | https://www.canada.ca/en/services/benefits/dental.html |
 | Canada Dental Care Plan | Canada · Federal | Health benefit | Apply for the national dental care plan providing coverage for uninsured Canadians with household incomes under $90,000 | https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html |
 | Canada Disability Benefit — Apply | Canada · Federal | Benefit | Monthly income-tested federal benefit (up to $2,400/year) for working-age Canadians with disabilities approved for the Disability Tax Credit; apply online, by phone, in person at a Service Canada centre, or by printed form. | https://www.canada.ca/en/services/benefits/disability/canada-disability-benefit/apply.html |
+| Canada Housing Benefit | Canada · Federal | Benefit | The Canada Housing Benefit top-up delivered through the CRA: a tax-free payment (the 2022-23 round paid a one-time $500; the page now covers the ongoing benefit of up to $250 a month for up to 10 years for eligible renters in participating provinces) — check eligibility and apply through CRA My Account, by phone or by form. | https://www.canada.ca/en/services/taxes/child-and-family-benefits/top-ups/canada-housing-benefit.html |
 | Canada Pension Plan (CPP) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for CPP retirement, disability, and survivor benefits | https://www.canada.ca/en/services/benefits/publicpensions/cpp.html |
 | Canada Workers Benefit | Canada · Federal | Tax benefit | Refundable tax credit for low-income workers and families to help offset employment costs | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-workers-benefit.html |
 | Canada.ca — Benefits Payment Calendar | Canada · Federal | Calendar | Official payment dates for CPP, OAS, EI, and other Government of Canada benefits | https://www.canada.ca/en/services/benefits/calendar.html |
 | Canadian Retirement Income Calculator | Canada · Federal | Calculator | Estimates retirement income from public pensions, workplace pensions, and savings | https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html |
 | Child and Family Benefits Calculator | Canada · Federal | Calculator | Estimates child and family benefit amounts | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html |
+| CPP Disability Benefits — Apply | Canada · Federal | Benefit application | Apply for CPP disability benefits online through My Service Canada Account or by paper form: Service Canada's step-by-step application for workers whose severe and prolonged disability prevents them from working regularly, including the medical form step. | https://www.canada.ca/en/services/benefits/publicpensions/cpp-disability-benefit/apply.html |
 | Disability Tax Credit Certificate — Form T2201 | Canada · Federal | Form | Apply for the Disability Tax Credit, which unlocks RDSP, CCB disability supplement, and more | https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html |
 | EI Internet Reporting Service | Canada · Federal | Benefit reporting | Service Canada's official EI reporting hub: file biweekly eligibility reports to keep benefits flowing, with a printable reporting calendar, the launch link to the Internet Reporting Service (SIN + 4-digit access code), and telephone/paper alternatives. | https://www.canada.ca/en/services/benefits/ei/ei-internet-reporting.html |
+| EI Sickness Benefit — Apply | Canada · Federal | Benefit application | Apply for Employment Insurance sickness benefits when you cannot work for medical reasons: the online application, the medical certificate and records of employment you need, and how to check your claim status afterwards. | https://www.canada.ca/en/services/benefits/ei/ei-sickness/apply.html |
+| Guaranteed Income Supplement (GIS) — Apply | Canada · Federal | Benefit application | Apply for the Guaranteed Income Supplement, the income-tested monthly top-up for low-income Old Age Security pensioners: check whether you were auto-enrolled, then apply online through My Service Canada Account or with forms ISP-3550/ISP-3025. | https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/guaranteed-income-supplement/apply.html |
 | National School Food Program | Canada · Federal | Program | Federal $1 billion/5-year program (enshrined in the National School Food Program Act, 2026) working with provinces, territories and Indigenous partners to expand school meal programs to up to 400,000 more kids per year. | https://www.canada.ca/en/employment-social-development/programs/school-food.html |
 | Old Age Security (OAS) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for Old Age Security and Guaranteed Income Supplement | https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html |
 | Old Age Security Benefits Estimator | Canada · Federal | Calculator | Anonymous Service Canada estimator for OAS pension, Guaranteed Income Supplement, Allowance and Allowance for the Survivor amounts based on age, residency and income. | https://estimateursv-oasestimator.service.canada.ca/en/ |
 | Registered Disability Savings Plan (RDSP) | Canada · Federal | Savings plan | Overview, grants, and bonds available in the RDSP for eligible Canadians with disabilities | https://www.canada.ca/en/employment-social-development/programs/disability/savings.html |
+| 211 Canada | Canada · Agency | Service finder | Canada's national social-services navigator: search or dial 2-1-1 for free, confidential referrals to government and community health and social services — food, housing, income assistance, seniors and newcomer supports — 24 hours a day in more than 150 languages. | https://211.ca/ |
 
 ### British Columbia
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| 211 British Columbia (bc211) | British Columbia · Agency | Service finder | BC's 211 service: search the province-wide community resource database by keyword or topic — food, shelter, financial assistance, health and seniors supports — or talk to a Resource Navigator by phone, text or web chat; the database also serves Yukon. | https://bc.211.ca/ |
 | BC Housing — Shelter Aid for Elderly Renters (SAFER) | British Columbia · Agency | Program portal + estimator | Monthly rent subsidy for low-income BC seniors 60+ renting in the private market, with eligibility info and a rental assistance estimator. | https://www.bchousing.org/housing-assistance/rental-assistance-programs/SAFER |
 | BC Child Care Fee Reduction (CCFRI) Estimator | British Columbia · Provincial | Calculator | Estimate monthly child care fee savings from the Child Care Fee Reduction Initiative at participating licensed providers, by care type and age. | https://mychildcareservices.gov.bc.ca/ccfri-estimator |
+| BC Disability Assistance | British Columbia · Provincial | Disability assistance | BC's disability assistance hub for people with the Persons with Disabilities (PWD) designation: higher monthly support and shelter rates than regular income assistance, supplements, earnings exemptions, and how the PWD designation and application work. | https://www2.gov.bc.ca/gov/content/family-social-supports/services-for-people-with-disabilities/disability-assistance |
 | BC Fair PharmaCare — Financial Calculator | British Columbia · Provincial | Calculator | Estimate your Fair PharmaCare deductible and family maximum based on income, to gauge provincial help with eligible prescription drug costs. | https://my.gov.bc.ca/fpcare/financial-calculator |
 | BC Income Assistance | British Columbia · Provincial | Social assistance | Apply for BC Employment and Assistance or disability assistance | https://www2.gov.bc.ca/gov/content/family-social-supports/income-assistance |
 
@@ -1889,7 +1896,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| 211 Alberta | Alberta · Agency | Service finder | Alberta's 211 service: search community, government and social services across Alberta — food, housing, income, mental health and seniors supports — or connect with a navigator by phone, text or chat, 24 hours a day. | https://ab.211.ca/ |
+| Alberta Disability Income Assistance (AISH and ADAP) | Alberta · Provincial | Income assistance | Alberta's disability income assistance hub: the Assured Income for the Severely Handicapped (AISH) and the Alberta Disability Assistance Program (ADAP) provide a monthly living allowance, child and health benefits to adults whose severe disability permanently or substantially impedes employment; apply through the single combined application and use the benefit estimator. | https://www.alberta.ca/disability-income-assistance |
 | Alberta Income Support | Alberta · Provincial | Social assistance | Apply for Alberta income support or AISH (Assured Income for the Severely Handicapped) | https://www.alberta.ca/income-support |
+| Alberta Seniors Financial Assistance | Alberta · Provincial | Benefit application | One application for Alberta's seniors money programs: the income-tested Alberta Seniors Benefit, Special Needs Assistance for Seniors, and seniors dental and optical assistance — apply online with an Alberta.ca account and manage payments and claims in the same portal. | https://www.alberta.ca/seniors-financial-assistance |
 | Calgary Equity Index | Calgary · Municipal | Equity map / dashboard | Sophisticated GIS tool mapping equity indicators across the city | https://calgary.ca/research/calgary-equity-index.html |
 
 ### Saskatchewan
@@ -1897,18 +1907,22 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Saskatchewan — SAID Income Support for People with Disabilities | Saskatchewan · Provincial | Program portal & rates | Saskatchewan Assured Income for Disability hub: monthly rate tables by community tier, income exemptions, and online application through a Saskatchewan Account with document upload. | https://www.saskatchewan.ca/residents/family-and-social-support/people-with-disabilities/income-support-for-people-with-disabilities |
+| Saskatchewan Income Support (SIS) | Saskatchewan · Provincial | Income assistance | Saskatchewan's main income assistance program: monthly basic and shelter benefits for adults and families with little or no income, with current rates by household and region and online application through a Saskatchewan Account. | https://www.saskatchewan.ca/residents/family-and-social-support/financial-help/saskatchewan-income-support-sis |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba — Employment and Income Assistance (EIA) | Manitoba · Provincial | Income assistance | Manitoba's social assistance program: money for basic needs and Rent Assist for Manitobans with no other way to support themselves or their families, with payment dates, how to apply in Winnipeg and rural/northern Manitoba, and disability and single-parent categories. | https://www.gov.mb.ca/fs/eia/ |
 | Manitoba — Rent Assist Estimator | Manitoba · Provincial | Calculator | Estimate monthly Rent Assist shelter benefits for low-income private renters — compares 80% of median market rent against 30% of net household income by household size. | https://gov.mb.ca/fs/eia/estimator.html |
 
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| 211 Ontario | Ontario · Agency | Service finder | Ontario's 211 service: search the provincial database of community, health, social and government services by topic and location, find your regional 211 service, or reach a navigator by phone, text, chat or email at any hour. | https://211ontario.ca/ |
 | Ontario Electricity Support Program (OESP) | Ontario · Agency | Program portal + application | Monthly on-bill electricity credit for low-income Ontario households, with eligibility thresholds, credit amounts and online application. | https://www.oeb.ca/consumer-information-and-protection/bill-assistance-programs/ontario-electricity-support-program |
+| Ontario — Find Benefits and Programs | Ontario · Provincial | Service finder | Ontario's guided benefits finder on ontario.ca: answer a short questionnaire about your situation to get a personalized list of provincial benefits and programs you may qualify for — health, housing, child care, dental, education, income and disability supports. | https://www.ontario.ca/page/find-benefits-and-programs |
 | Ontario Disability Support Program (ODSP) | Ontario · Provincial | Social assistance | Apply for ODSP income and employment supports for people with disabilities in Ontario | https://www.ontario.ca/page/ontario-disability-support-program |
 | Ontario GeoHub | Ontario · Provincial | GIS / map portal | Ontario's geographic data and interactive map hub | https://geohub.lio.gov.on.ca/ |
 | Ontario Works (OW) | Ontario · Provincial | Social assistance | Apply for financial and employment assistance under Ontario Works | https://www.ontario.ca/page/ontario-works |
@@ -1922,12 +1936,28 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Québec — Childcare Cost Calculator (subsidized vs non-subsidized) | Quebec · Provincial | Calculator | Compare the net daily cost of subsidized vs non-subsidized childcare for 2026, factoring in Quebec and federal childcare tax assistance. | https://www.finances.gouv.qc.ca/department/tools_services/calculators/daily_childcare_cost/tool_childcare.asp |
 | Québec — Services en ligne, aide financière de dernier recours | Quebec · Provincial | Client portal | Mon dossier portal for Québec social assistance: verify payment amounts and dates, submit documents online, track appointments and deadlines, apply and make repayments. | https://www.quebec.ca/famille-et-soutien-aux-personnes/aide-sociale-et-solidarite-sociale/services-en-ligne |
+| Retraite Québec — Family Allowance | Quebec · Provincial | Benefit | Quebec's Family Allowance from Retraite Québec: the provincial child benefit paid to families with children under 18, including the handicapped-child supplements, with amounts by family income and the CalculAide estimator for a first application or a change in family situation. | https://www.retraitequebec.gouv.qc.ca/en/citizens/children/family-allowance |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| New Brunswick — Financial Help Calculator | New Brunswick · Provincial | Calculator | Social Development New Brunswick's official financial help calculator: answer questions about your household and income to estimate the provincial financial help and social assistance you may qualify for before you apply. | https://nbsocialdevelopment.my.site.com/calculator/s/?language=en_US |
+| New Brunswick — Social Assistance Program | New Brunswick · Provincial | Income assistance | New Brunswick's Social Assistance Program service page on gnb.ca: monthly help with basic needs such as food, rent, utilities and clothing for residents in financial need, plus related supports like childcare, transportation and prescription drugs, and how to start an application. | https://www2.gnb.ca/content/gnb/en/services/services_renderer.10295.Social_Assistance_Program.html |
+| Social Supports NB | New Brunswick · Provincial | Service finder | New Brunswick's official social-supports portal: browse programs by need — social assistance, disability support, seniors, housing and long-term care — check eligibility, use the financial help calculator, and apply online through the province's Social Development services. | https://socialsupportsnb.ca/ |
 | Newfoundland and Labrador — Accessible Vehicle Funding | Newfoundland and Labrador · Provincial | Program | Provincial funding program helping people with disabilities obtain accessible vehicles, for NL residents applying for support and researchers of disability programs. | https://www.gov.nl.ca/sswb/disabilities/accessible-vehicle-funding/ |
+| Newfoundland and Labrador — Income Support Program | Newfoundland and Labrador · Provincial | Income assistance | Newfoundland and Labrador's Income Support Program: last-resort financial help for basic needs for residents 18 and older, with eligibility rules, the telephone application (1-877-729-7888), required documents, and basic rates by family and living arrangement. | https://www.gov.nl.ca/sswb/income-support/ |
+| Nova Scotia — Income Assistance: How to Apply | Nova Scotia · Provincial | Income assistance | Nova Scotia's Income Assistance application page under Employment Support and Income Assistance (ESIA): who can receive it, the documents to have ready, how to apply by phone or at a local office, and faster help in an emergency. | https://novascotia.ca/coms/employment/income_assistance/HowtoApply.html |
+| Prince Edward Island — AccessAbility Supports | Prince Edward Island · Provincial | Disability supports | PEI's disability support program for residents under 65: financial assistance including Assured Income, plus personal, housing, community and employment supports, with a screening call and coordinator assessment to apply. | https://www.princeedwardisland.ca/en/information/accessability-supports |
+| Prince Edward Island — Social Assistance Program | Prince Edward Island · Provincial | Income assistance | PEI's Social Assistance Program: financial help with food, clothing, shelter, childcare, medicine and other essentials for Islanders 18 and older whose income cannot cover basic living costs, with the screening line and appointment process to apply. | https://www.princeedwardisland.ca/en/information/social-assistance-program |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Northwest Territories — Income Assistance Program | Northwest Territories · Provincial | Income assistance | The NWT's Income Assistance Program under ECE's Income Security Programs: financial assistance for basic and enhanced needs — food, shelter, utilities, clothing, childcare — assessed by community and family size, applied for through regional ECE Service Centres. | https://www.ece.gov.nt.ca/en/services/income-security-programs/income-assistance-program |
+| Nunavut — Income Assistance Program | Nunavut · Provincial | Income assistance | Nunavut's Income Assistance Program: a last-resort program helping Nunavummiut 18 and older in financial need meet basic needs, with monthly financial assessments and Productive Choices worked out with a community Income Assistance Worker. | https://www.gov.nu.ca/en/social-supports/income-assistance-program |
+| Yukon — Apply for Social Assistance | Yukon · Provincial | Income assistance | Yukon's social assistance application page: financial help for residents 19 and older who cannot meet basic living costs, booked through a pre-intake call and intake appointment with a social worker, with monthly re-application through the assistance application card. | https://yukon.ca/en/legal-and-social-supports/supports-adults-and-seniors/apply-social-assistance |
 
 ## 🏠 Housing & Real Estate
 
