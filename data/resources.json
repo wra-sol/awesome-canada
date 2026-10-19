@@ -40192,5 +40192,447 @@
       "ontario"
     ],
     "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "WorkBC Centres — Find a WorkBC Centre",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Employment services centre finder",
+    "description": "Find your nearest WorkBC Centre on an interactive map or regional list and get free employment services: one-on-one employment counselling, job search help, workshops, financial supports and skills-training referrals. Distinct from the WorkBC job board already catalogued.",
+    "url": "https://www.workbc.ca/get-support/workbc-centre-services",
+    "tags": [
+      "workbc",
+      "employment services",
+      "career counselling",
+      "job search help",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Nova Scotia Works",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "employment",
+    "type": "Employment services network",
+    "description": "Nova Scotia's provincial employment services network. Find a local Nova Scotia Works centre for career counselling, job search assistance, training referrals and employer services.",
+    "url": "https://novascotiaworks.ca/nsdc/",
+    "tags": [
+      "nova scotia works",
+      "employment services",
+      "career counselling",
+      "job search",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "WorkingNB",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "employment",
+    "type": "Employment services network",
+    "description": "New Brunswick's employment services network (PETL), distinct from the NBjobs job board. Connect with a WorkingNB office for career counselling, job search support, training programs and wage subsidies for job seekers and employers.",
+    "url": "https://workingnb.ca/",
+    "tags": [
+      "workingnb",
+      "employment services",
+      "career counselling",
+      "training",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Manitoba Jobs and Skills Development Centres",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "employment",
+    "type": "Employment services centres",
+    "description": "Manitoba's 13 Jobs and Skills Development Centres offer employment needs assessment, career counselling, job search assistance, computers for resumé writing and online applications, plus referrals to training and financial assistance programs.",
+    "url": "https://www.gov.mb.ca/wd/ites/tes/jobs_careers.html",
+    "tags": [
+      "manitoba",
+      "employment services",
+      "career counselling",
+      "job search",
+      "training"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Newfoundland and Labrador — Employment and Training Programs",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "employment",
+    "type": "Employment services and programs",
+    "description": "Gateway to Newfoundland and Labrador's Employment Centres and employment and training programs: get career assistance, build an employment plan, and access skills development, wage subsidy and self-employment programs through the Department of Jobs, Growth and Rural Development.",
+    "url": "https://www.gov.nl.ca/jgrd/department/branches/regional/emp-training/",
+    "tags": [
+      "employment centres",
+      "training programs",
+      "career assistance",
+      "wage subsidies",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "SkillsPEI",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "employment",
+    "type": "Employment programs portal",
+    "description": "PEI's employment and skills development division (Dept. of Workforce, Advanced Learning and Population). Browse and connect to employment programs, skills training funding and career services delivered through six Island offices. Distinct from the WorkPEI job board already catalogued.",
+    "url": "https://skillspei.com/",
+    "tags": [
+      "skillspei",
+      "employment programs",
+      "skills training",
+      "career services",
+      "prince edward island"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Health Match BC",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Health careers recruitment portal",
+    "description": "BC's provincial health recruitment service. Physicians, nurses and allied health professionals register to be matched with job opportunities at health employers across British Columbia.",
+    "url": "https://www.healthmatchbc.org/",
+    "tags": [
+      "health careers",
+      "recruitment",
+      "physicians",
+      "nurses",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Health Careers Saskatchewan",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "employment",
+    "type": "Health careers portal",
+    "description": "Saskatchewan's provincial health workforce recruitment portal. Search physician, nursing and allied health opportunities across the province and connect with recruiters about practising in Saskatchewan.",
+    "url": "https://healthcareersk.ca/",
+    "tags": [
+      "health careers",
+      "recruitment",
+      "physicians",
+      "nursing",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Make a Future — BC Education Careers",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Education job board",
+    "description": "Careers portal for BC public schools, operated by the BC Public School Employers' Association. Search and apply for teaching, educational support, and district leadership jobs in school districts across British Columbia.",
+    "url": "https://www.makeafuture.ca/",
+    "tags": [
+      "education jobs",
+      "teachers",
+      "school districts",
+      "job board",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "CivicJobs.ca",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Municipal job board",
+    "description": "BC local government job board operated by CivicInfo BC. Search and apply for jobs with municipalities, regional districts and other local governments across British Columbia.",
+    "url": "https://www.civicjobs.ca/",
+    "tags": [
+      "municipal jobs",
+      "local government",
+      "job board",
+      "civicinfo bc",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "SkilledTradesBC",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Apprenticeship portal",
+    "description": "BC's skilled trades training authority portal. Register as an apprentice or trainee, log in to manage your training record, find approved training providers and look up certification and exam information.",
+    "url": "https://skilledtradesbc.ca/",
+    "tags": [
+      "apprenticeship",
+      "skilled trades",
+      "certification",
+      "training",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Nova Scotia Apprenticeship Agency",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "employment",
+    "type": "Apprenticeship portal",
+    "description": "Register as an apprentice in Nova Scotia, manage your apprenticeship online, book certification exams and explore the province's designated trades through the Nova Scotia Apprenticeship Agency.",
+    "url": "https://www.nsapprenticeship.ca/",
+    "tags": [
+      "apprenticeship",
+      "skilled trades",
+      "certification",
+      "exams",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Apprenticeship Manitoba",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "employment",
+    "type": "Apprenticeship portal",
+    "description": "Apply for apprenticeship and register your Apprenticeship Agreement through the AccessManitoba portal, register and pay for technical training, and explore Manitoba's designated trades and trade qualifier certification.",
+    "url": "https://www.manitoba.ca/apprenticeship/",
+    "tags": [
+      "apprenticeship",
+      "skilled trades",
+      "accessmanitoba",
+      "technical training",
+      "manitoba"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Alberta — Make an Employment Standards Complaint",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "employment",
+    "type": "Complaint form",
+    "description": "File an employment standards complaint or submit an anonymous tip online if an Alberta employer is not meeting minimum standards for pay, hours of work, or job-protected leaves.",
+    "url": "https://www.alberta.ca/file-employment-standards-complaint",
+    "tags": [
+      "employment standards",
+      "complaint",
+      "workers rights",
+      "wages",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Saskatchewan — File an Employment Standards Complaint",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "employment",
+    "type": "Complaint form",
+    "description": "Submit a formal or anonymous employment standards complaint online to recover unpaid wages or report violations of The Saskatchewan Employment Act, including scheduling, leave and discriminatory-action concerns.",
+    "url": "https://www.saskatchewan.ca/business/employment-standards/complaints-investigations-enforcement-and-fines/file-an-employment-standards-complaint",
+    "tags": [
+      "employment standards",
+      "complaint",
+      "unpaid wages",
+      "workers rights",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Federal Student Work Experience Program (FSWEP)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Student employment program",
+    "description": "Full-time students apply to the year-round Ongoing Student Recruitment Inventory, used by 200+ departments and agencies, plus specialized student inventories. Matched students are notified by email for tests and interviews.",
+    "url": "https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html",
+    "tags": [
+      "students",
+      "federal jobs",
+      "student inventory",
+      "apply online",
+      "youth"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "RCMP Careers",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Recruiting portal",
+    "description": "Apply for RCMP police officer careers or civilian careers, and explore community constable, student jobs, Reserve Program and Indigenous applicant programs. Links lead to the application process for each stream.",
+    "url": "https://rcmp.ca/en/careers-rcmp",
+    "tags": [
+      "policing",
+      "rcmp",
+      "recruiting",
+      "careers",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "EI Regular Benefits — Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Benefit application",
+    "description": "Apply online for Employment Insurance regular benefits after a job loss, check what documents and pay details to prepare, and sign up for direct deposit. The online application takes about an hour and can be resumed within 72 hours.",
+    "url": "https://www.canada.ca/en/services/benefits/ei/ei-regular-benefit/apply.html",
+    "tags": [
+      "employment insurance",
+      "ei",
+      "benefits",
+      "apply online",
+      "job loss"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Job Bank — Search Jobs and Job Alerts",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Job search",
+    "description": "Search and filter tens of thousands of live job postings across Canada by province, salary, hours, employment group and job source, and create job alerts from your search criteria. This is Job Bank's actual search interface, distinct from the catalogued /findajob job-seeker resources hub.",
+    "url": "https://www.jobbank.gc.ca/jobsearch/",
+    "tags": [
+      "job search",
+      "job alerts",
+      "job bank",
+      "postings",
+      "filters"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Foreign Credential Recognition",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Career tool",
+    "description": "Internationally trained professionals use the Foreign Credential Recognition Tool to check if their occupation is regulated, find the right regulatory body, and look up salaries and outlooks. Also search for Foreign Credential Recognition Loans and local support providers.",
+    "url": "https://www.canada.ca/en/employment-social-development/programs/foreign-credential-recognition.html",
+    "tags": [
+      "newcomers",
+      "credentials",
+      "regulated professions",
+      "loans",
+      "recognition"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Skills for Success",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Career tool",
+    "description": "Find free skills assessment and training tools for the nine Skills for Success — reading, writing, numeracy, digital, problem solving, communication, creativity and innovation, collaboration and adaptability — and check how your skills measure up.",
+    "url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success.html",
+    "tags": [
+      "skills",
+      "assessment",
+      "training",
+      "career planning",
+      "esdc"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Canada Border Services Agency — Border Services Officer Recruitment",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Recruiting portal",
+    "description": "Apply to the Border Services Officer Trainee Developmental Program, check if you qualify, and follow the candidate assessment, entrance exam and Canada Border Services College training steps.",
+    "url": "https://www.cbsa-asfc.gc.ca/job-emploi/recruitment-recrutement/menu-eng.html",
+    "tags": [
+      "border services",
+      "cbsa",
+      "recruiting",
+      "officer trainee",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "CSIS Jobs",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Job portal",
+    "description": "Browse available Canadian Security Intelligence Service jobs and student opportunities and submit an online application through Canada.ca/csisjobs. Includes how to submit an application, the recruitment process, salaries and benefits.",
+    "url": "https://www.canada.ca/en/security-intelligence-service/corporate/csis-jobs.html",
+    "tags": [
+      "intelligence",
+      "csis",
+      "careers",
+      "apply online",
+      "security"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Young Canada Works in Heritage Organizations — Students",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Student employment program",
+    "description": "Students aged 16–30 create an account on the Young Canada Works portal, submit a candidate profile, browse heritage jobs in museums, archives and historic sites, and express interest in positions. Jobs typically run 6–16 weeks, full- or part-time.",
+    "url": "https://www.canada.ca/en/canadian-heritage/services/funding/young-canada-works/students-graduates/heritage-organizations-students.html",
+    "tags": [
+      "students",
+      "youth",
+      "heritage",
+      "summer jobs",
+      "museums"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Careers at the CRA",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Job portal",
+    "description": "Search Canada Revenue Agency job notices through its own candidate profile system, keep your profile up to date to apply and receive offers, and prepare for CRA candidate assessments and accommodation requests.",
+    "url": "https://www.canada.ca/en/revenue-agency/corporate/careers-cra.html",
+    "tags": [
+      "cra",
+      "tax",
+      "careers",
+      "candidate profile",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Canadian Coast Guard — Careers",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Recruiting portal",
+    "description": "Explore seagoing, shore-based and aviation careers with the Canadian Coast Guard, view current opportunities, find student training and co-op options, and subscribe to the Career Compass mailing list for new postings.",
+    "url": "https://www.canada.ca/en/canadian-coast-guard/corporate/careers.html",
+    "tags": [
+      "coast guard",
+      "marine",
+      "careers",
+      "students",
+      "recruiting"
+    ],
+    "dateAdded": "2026-10-19"
   }
 ]
