@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2523 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2522 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 36
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 56
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
-- [🩺 Health & Wellness](#health-and-wellness) — 124
+- [🩺 Health & Wellness](#health-and-wellness) — 123
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 34
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
@@ -1713,7 +1713,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Public Health Sudbury & Districts — Check Before You Go! (Inspections) | Greater Sudbury · Regional | Inspection search | Public Health Sudbury & Districts' Check Before You Go! disclosure site: search inspection reports, convictions and orders for food premises, licensed child care, personal services settings, pools and spas, recreational camps and small drinking water systems, with a map search. | https://checkbeforeyougo.phsd.ca/ |
 | Region of Waterloo — Check It! (Public Health Inspections) | Waterloo · Regional | Inspection search | Region of Waterloo Public Health's Check It! disclosure site: search inspection results for food premises, beauty and body-art settings, recreational water facilities and daycares across Waterloo Region. | https://checkit.regionofwaterloo.ca/ |
 | Windsor-Essex County Health Unit — Inspection Reports | Windsor · Regional | Inspection search | Windsor-Essex County Health Unit's inspection reports access: routine reports and enforcement information for food premises, personal service settings, licensed child care centres, pools, spas and splash pads, small drinking water systems and campgrounds, with convictions and orders published. | https://www.wechu.org/your-environment/requests-inspection-and-inspection-reports |
-| Ottawa Public Health — Beach Water Quality Results | Ottawa · Municipal | Beach water quality tracker | Ottawa Public Health's water quality and safety hub: beach water test results for Ottawa's supervised beaches, plus recreational water safety information, free well water testing, small drinking water systems and blue-green algae guidance. | https://www.ottawapublichealth.ca/en/public-health-services/water-quality-safety.aspx?_mid_=29315 |
 | Toronto — SwimSafe Beach Water Quality | Toronto · Municipal | Beach water quality tracker | Check daily E. coli test results and swimming advisories for Toronto's supervised beaches, plus inspection results for public pools, wading pools and splash pads. | https://www.toronto.ca/community-people/health-wellness-care/health-inspections-monitoring/swimsafe/ |
 
 ### Quebec

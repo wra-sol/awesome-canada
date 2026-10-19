@@ -4983,6 +4983,22 @@
     ]
   },
   {
+    "name": "Competition Bureau — Complaint Form",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Complaint form",
+    "description": "The Competition Bureau's complaint form: notify the Bureau that a company or individual may have broken the Competition Act or labelling laws, for example through deceptive marketing or drip pricing.",
+    "url": "https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form",
+    "tags": [
+      "competition",
+      "deceptive marketing",
+      "complaints",
+      "reporting"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "Competition Bureau — Deceptive Marketing Cases",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -5044,6 +5060,70 @@
     "dateAdded": "2026-08-27"
   },
   {
+    "name": "Ad Standards — Consumer Complaint Procedure",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Complaint process",
+    "description": "Ad Standards' consumer complaint procedure: complain in writing that an advertisement in Canadian media breaks the Canadian Code of Advertising Standards and have it reviewed for amendment or withdrawal.",
+    "url": "https://adstandards.ca/consumer-complaint-procedure/",
+    "tags": [
+      "advertising",
+      "complaints",
+      "misleading ads",
+      "self-regulation"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "Canadian Motor Vehicle Arbitration Plan (CAMVAP)",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Dispute resolution",
+    "description": "Free binding arbitration for vehicle defects and warranty disputes: owners who cannot resolve a problem with a participating manufacturer can have an arbitrator order a repair, buy-back or reimbursement.",
+    "url": "https://www.camvap.ca/",
+    "tags": [
+      "vehicles",
+      "warranty",
+      "arbitration",
+      "complaints"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "Canadian Securities Administrators — Are They Registered?",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "The CSA's check-before-you-invest hub: verify through the National Registration Search whether an investment adviser or firm is registered, and check disciplinary history and investor alerts first.",
+    "url": "https://www.securities-administrators.ca/registration/are-they-registered",
+    "tags": [
+      "investing",
+      "registration",
+      "fraud prevention",
+      "securities"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "General Insurance OmbudService (GIO)",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Free, impartial help for home, auto and business insurance disputes: consumers who cannot settle a claim or complaint with their insurer can bring it to the General Insurance OmbudService.",
+    "url": "https://www.giocanada.org/",
+    "tags": [
+      "insurance",
+      "complaints",
+      "ombudsman",
+      "dispute resolution"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "National Do Not Call List",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -5067,6 +5147,39 @@
     "tags": [
       "privacy"
     ]
+  },
+  {
+    "name": "OmbudService for Life and Health Insurance (OLHI)",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Canada's life and health insurance ombuds service: consumers with an unresolved complaint about life, disability, travel or other health insurance can get a free independent review and search for a lost policy.",
+    "url": "https://olhi.ca/",
+    "tags": [
+      "insurance",
+      "life insurance",
+      "health insurance",
+      "complaints",
+      "ombudsman"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "Ombudsman for Banking Services and Investments (OBSI)",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Canada's national banking and investment ombudsman: consumers who cannot resolve a complaint with their bank or investment firm can file for a free, independent review and a compensation recommendation.",
+    "url": "https://www.obsi.ca/",
+    "tags": [
+      "banking",
+      "investments",
+      "complaints",
+      "ombudsman"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "Spam Reporting Centre — Fight Spam",
@@ -5134,6 +5247,22 @@
     "dateAdded": "2026-10-08"
   },
   {
+    "name": "Alberta Motor Vehicle Industry Council (AMVIC)",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "Alberta's automotive industry regulator: consumers can verify a vehicle business or salesperson licence, file a complaint about sales or repairs, and learn about its consumer compensation fund.",
+    "url": "https://www.amvic.org/",
+    "tags": [
+      "vehicles",
+      "dealers",
+      "complaints",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "Alberta Ombudsman",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -5191,6 +5320,38 @@
       "access to information"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "RECA — Consumer Protection Fund",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "consumer",
+    "type": "Consumer protection",
+    "description": "RECA's consumer protection fund information: Albertans who lost money to a licensed real estate or mortgage professional's fraud or breach of trust learn the claim limits and how to apply for compensation.",
+    "url": "https://www.recaprotects.ca/consumer-protection-fund/",
+    "tags": [
+      "real estate",
+      "compensation fund",
+      "alberta",
+      "consumer protection"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "RECA ProCheck — Find a Licensee",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "consumer",
+    "type": "Licence search",
+    "description": "The Real Estate Council of Alberta's ProCheck search: verify in seconds whether a real estate, mortgage, property-management or condominium-management professional is licensed, and view recent disciplinary decisions.",
+    "url": "https://procheck.reca.ca/",
+    "tags": [
+      "real estate",
+      "licence search",
+      "alberta",
+      "mortgage brokers"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "Service Alberta — Search for a Licensed Business",
@@ -5272,6 +5433,22 @@
     ]
   },
   {
+    "name": "Consumer Protection BC — Check a Licence",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "consumer",
+    "type": "Licence search",
+    "description": "Consumer Protection BC's licence check: search whether a BC payday lender, debt collector, telemarketer, travel agent, home inspector or funeral provider is licensed, by name, licence number or city.",
+    "url": "https://www.consumerprotectionbc.ca/check-a-licence-search/",
+    "tags": [
+      "licence check",
+      "payday loans",
+      "debt collection",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "Office of the Information and Privacy Commissioner of BC",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -5283,6 +5460,39 @@
       "BC",
       "privacy"
     ]
+  },
+  {
+    "name": "Technical Safety BC — Find a Licensed Contractor",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "consumer",
+    "type": "Licence search",
+    "description": "Technical Safety BC's guide to its licensed-contractor search: verify a BC contractor's licence for gas, electrical, elevating or boiler work and see their authorized scope and enforcement history.",
+    "url": "https://www.technicalsafetybc.ca/regulatory-resources/licensed-contractor-guide",
+    "tags": [
+      "licensed contractor",
+      "gas",
+      "electrical",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "Vehicle Sales Authority of BC (VSA)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "BC's vehicle sales regulator: buyers can check dealer and salesperson licences, file a complaint about a vehicle purchase, and learn their rights under BC motor dealer law.",
+    "url": "https://www.vsabc.ca/",
+    "tags": [
+      "vehicles",
+      "dealers",
+      "complaints",
+      "british columbia",
+      "licensing"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "Manitoba Consumer Protection Office",
@@ -5364,6 +5574,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Office of the Citizens' Representative — Newfoundland and Labrador",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Newfoundland and Labrador's ombudsman office: residents can complain about provincial government services and decisions and request an independent investigation.",
+    "url": "https://www.citizensrep.nl.ca/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "Public Utilities Board — Regulated Fuel Price Schedule",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",
@@ -5381,6 +5607,22 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Northwest Territories Ombud",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "The Northwest Territories' independent ombud office: residents can complain about unfair treatment by territorial government departments, boards and agencies.",
+    "url": "https://www.nwtombud.ca/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "northwest territories"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "NWT MACA — Consumer Affairs",
@@ -5429,6 +5671,22 @@
       "collections"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Electrical Safety Authority — Contractor Locator Tool",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Licence search",
+    "description": "Ontario's Electrical Safety Authority contractor locator: find a Licensed Electrical Contractor by job type and check licence status and conviction flags before hiring for electrical work.",
+    "url": "https://licensing.esasafe.com/contractor-locator-tool/",
+    "tags": [
+      "electrical safety",
+      "licensed contractor",
+      "ontario",
+      "home renovation"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "HCRA — Ontario Builder Directory",
@@ -5510,6 +5768,22 @@
     "dateAdded": "2026-08-27"
   },
   {
+    "name": "Ontario Motor Vehicle Industry Council (OMVIC)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "Ontario's vehicle sales regulator: buyers can check whether a dealer or salesperson is registered, learn their purchase rights, and file a complaint about a vehicle sale.",
+    "url": "https://www.omvic.ca/",
+    "tags": [
+      "vehicles",
+      "dealers",
+      "complaints",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "OSC — Get Smarter About Money",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -5542,6 +5816,22 @@
     "dateAdded": "2026-10-13"
   },
   {
+    "name": "Tarion — New Home Warranty",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "consumer",
+    "type": "Consumer protection",
+    "description": "Ontario's new-home warranty administrator: buyers can check a builder's record, confirm a new home's warranty coverage, and submit claims for construction defects through Tarion.",
+    "url": "https://www.tarion.com/",
+    "tags": [
+      "new homes",
+      "warranty",
+      "builders",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "IRAC — Current Regulated Petroleum Prices",
     "level": "Provincial",
     "jurisdiction": "PEI",
@@ -5556,6 +5846,23 @@
       "regulation"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "OmbudsPEI — Office of the Ombudsperson",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Prince Edward Island's independent ombuds office: Islanders can file a free, confidential complaint about unfair treatment by PEI government agencies, municipalities, Health PEI or post-secondary institutions.",
+    "url": "https://ombudspei.ca/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "pei",
+      "ombudsperson"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "PEI Consumer Services",
@@ -5602,6 +5909,22 @@
       "Quebec",
       "privacy"
     ]
+  },
+  {
+    "name": "Office de la protection du consommateur — Get Information About a Merchant",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "consumer",
+    "type": "Lookup tool",
+    "description": "Quebec's consumer office merchant lookup: search a merchant to see OPC enforcement interventions, consumer formal notices, and any licence or permit the merchant holds.",
+    "url": "https://www.opc.gouv.qc.ca/en/information-merchant/",
+    "tags": [
+      "merchant check",
+      "enforcement",
+      "licences",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "Office de la protection du consommateur (Quebec)",
@@ -5666,6 +5989,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "FCAA Saskatchewan — File a Consumer Complaint",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "consumer",
+    "type": "Complaint guide",
+    "description": "The FCAA Consumer Protection Division's complaint page: Saskatchewan consumers check whether their dispute is valid and file a complaint about goods, services, warranties, direct sellers, collection agents or motor dealers.",
+    "url": "https://fcaa.gov.sk.ca/consumers-investors-pension-plan-members/consumers/purchasing-goods-and-services/complaints",
+    "tags": [
+      "consumer protection",
+      "complaints",
+      "saskatchewan",
+      "fcaa"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "OIPC Saskatchewan",
     "level": "Provincial",
     "jurisdiction": "Saskatchewan",
@@ -5696,6 +6035,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Saskatchewan — Consumer Rights Pathway",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "consumer",
+    "type": "Dispute resolution",
+    "description": "Saskatchewan's interactive consumer-rights pathway: answer guided questions about a dispute to learn your rights, get letter templates, and escalate to the Resolve My Consumer Dispute portal with FCAA mediators.",
+    "url": "https://consumerrights.saskatchewan.ca/",
+    "tags": [
+      "consumer rights",
+      "dispute resolution",
+      "saskatchewan",
+      "fcaa"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "Yukon — Complaint Against a Regulated Business Professional",
     "level": "Provincial",
     "jurisdiction": "Yukon",
@@ -5709,6 +6064,22 @@
       "yukon"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Yukon Ombudsman",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Yukon's independent ombudsman: residents can complain about unfair treatment by Yukon government departments and public bodies and ask for an investigation.",
+    "url": "https://www.yukonombudsman.ca/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "yukon"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "Ombudsman Toronto — City of Toronto",
@@ -15279,6 +15650,22 @@
     ]
   },
   {
+    "name": "CIRO — AdvisorReport Search",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Lookup tool",
+    "description": "CIRO's AdvisorReport search: look up an investment advisor at a CIRO-regulated dealer to see their approval categories, provinces, employment history and disciplinary disclosures before investing.",
+    "url": "https://www.ciro.ca/advisor-report-search",
+    "tags": [
+      "investing",
+      "advisors",
+      "disciplinary history",
+      "ciro"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "FINTRAC — Strategic Intelligence Publications",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -15306,6 +15693,23 @@
       "securities",
       "filings"
     ]
+  },
+  {
+    "name": "FSRA Ontario — Consumer Office",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "finance",
+    "type": "Consumer protection",
+    "description": "FSRA's consumer office hub: Ontario consumers find how the regulator protects them across insurance, pensions, mortgage brokering, credit unions and financial advice, including how complaints are resolved.",
+    "url": "https://www.fsrao.ca/consumers/consumer-office",
+    "tags": [
+      "insurance",
+      "pensions",
+      "mortgage brokers",
+      "ontario",
+      "consumer protection"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "FSRA Ontario — Credit Unions & Deposit Insurance",
@@ -15370,6 +15774,22 @@
       "manitoba"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "FCNB — Online Services",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "finance",
+    "type": "Portal",
+    "description": "FCNB's online services portal: New Brunswickers submit a formal complaint about a regulated firm or person and use the commission's self-serve consumer and industry services from one hub.",
+    "url": "https://fcnb.ca/en/online-services",
+    "tags": [
+      "complaints",
+      "portal",
+      "new brunswick",
+      "fcnb"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "Nova Scotia Municipal Finance and Statistics",
@@ -18851,22 +19271,6 @@
       "inspections",
       "enforcement",
       "windsor-essex"
-    ],
-    "dateAdded": "2026-10-17"
-  },
-  {
-    "name": "Ottawa Public Health — Beach Water Quality Results",
-    "level": "Municipal",
-    "jurisdiction": "Ottawa",
-    "category": "health",
-    "type": "Beach water quality tracker",
-    "description": "Ottawa Public Health's water quality and safety hub: beach water test results for Ottawa's supervised beaches, plus recreational water safety information, free well water testing, small drinking water systems and blue-green algae guidance.",
-    "url": "https://www.ottawapublichealth.ca/en/public-health-services/water-quality-safety.aspx?_mid_=29315",
-    "tags": [
-      "health",
-      "beaches",
-      "water quality",
-      "ottawa"
     ],
     "dateAdded": "2026-10-17"
   },
@@ -30093,6 +30497,38 @@
     ]
   },
   {
+    "name": "Health Canada — Report a Pesticide Incident",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Reporting tool",
+    "description": "Health Canada's pesticide incident reporting page: report a pesticide's effects on a person, a pet or livestock, or the environment through the Public Engagement Portal voluntary incident form.",
+    "url": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/protecting-your-health-environment/report-pesticide-incident.html",
+    "tags": [
+      "pesticides",
+      "incident report",
+      "environment",
+      "health canada"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
+    "name": "Health Canada — Report an Incident Involving a Consumer Product or Cosmetic",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Reporting tool",
+    "description": "Health Canada's incident reporting hub: consumers report injuries, near misses, property damage or labelling problems from a consumer product or cosmetic so Health Canada can investigate, warn or recall.",
+    "url": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/report-incident.html",
+    "tags": [
+      "product safety",
+      "incident report",
+      "cosmetics",
+      "health canada"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "National Wildland Fire Information System",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -33892,6 +34328,22 @@
       "coverage",
       "map"
     ]
+  },
+  {
+    "name": "Canadian Broadcast Standards Council — Make a Complaint",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Complaint form",
+    "description": "The Canadian Broadcast Standards Council's complaint form: complain about private TV or radio content on ethics, violence, portrayal or news accuracy and request a panel ruling.",
+    "url": "https://www.cbsc.ca/make-a-complaint/",
+    "tags": [
+      "broadcasting",
+      "complaints",
+      "television",
+      "radio"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "CRTC — Decisions, Notices and Orders",
@@ -37947,6 +38399,23 @@
     ]
   },
   {
+    "name": "BC Utilities Commission — Complaint Process",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "utilities",
+    "type": "Complaint process",
+    "description": "The BC Utilities Commission's complaint process: BC customers complain about regulated electricity or gas billing, metering, disconnection or gas-marketer conduct after first trying the utility.",
+    "url": "https://www.bcuc.com/WhatWeDo/ComplaintProcess",
+    "tags": [
+      "utilities",
+      "electricity",
+      "natural gas",
+      "complaints",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-18"
+  },
+  {
     "name": "BC Utilities Commission — Orders and Decisions Search",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -38083,6 +38552,23 @@
       "rates"
     ],
     "dateAdded": "2026-10-12"
+  },
+  {
+    "name": "Ontario Energy Board — We're Here to Help (Consumer Complaints)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "utilities",
+    "type": "Complaint process",
+    "description": "The Ontario Energy Board's consumer help page: electricity and natural gas customers follow the complaint steps, contacting their utility first and then filing with the OEB over billing, contracts or service.",
+    "url": "https://www.oeb.ca/consumer-information-and-protection/oebs-consumer-protection-role/were-here-help",
+    "tags": [
+      "utilities",
+      "electricity",
+      "natural gas",
+      "complaints",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-18"
   },
   {
     "name": "Ontario Power Generation — Dam Safety and Water Management",
@@ -39327,507 +39813,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Ombudsman for Banking Services and Investments (OBSI)",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "consumer",
-    "type": "Ombudsman",
-    "description": "Canada's national banking and investment ombudsman: consumers who cannot resolve a complaint with their bank or investment firm can file for a free, independent review and a compensation recommendation.",
-    "url": "https://www.obsi.ca/",
-    "tags": [
-      "banking",
-      "investments",
-      "complaints",
-      "ombudsman"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "General Insurance OmbudService (GIO)",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "consumer",
-    "type": "Ombudsman",
-    "description": "Free, impartial help for home, auto and business insurance disputes: consumers who cannot settle a claim or complaint with their insurer can bring it to the General Insurance OmbudService.",
-    "url": "https://www.giocanada.org/",
-    "tags": [
-      "insurance",
-      "complaints",
-      "ombudsman",
-      "dispute resolution"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "OmbudService for Life and Health Insurance (OLHI)",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "consumer",
-    "type": "Ombudsman",
-    "description": "Canada's life and health insurance ombuds service: consumers with an unresolved complaint about life, disability, travel or other health insurance can get a free independent review and search for a lost policy.",
-    "url": "https://olhi.ca/",
-    "tags": [
-      "insurance",
-      "life insurance",
-      "health insurance",
-      "complaints",
-      "ombudsman"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Canadian Motor Vehicle Arbitration Plan (CAMVAP)",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "consumer",
-    "type": "Dispute resolution",
-    "description": "Free binding arbitration for vehicle defects and warranty disputes: owners who cannot resolve a problem with a participating manufacturer can have an arbitrator order a repair, buy-back or reimbursement.",
-    "url": "https://www.camvap.ca/",
-    "tags": [
-      "vehicles",
-      "warranty",
-      "arbitration",
-      "complaints"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Ontario Motor Vehicle Industry Council (OMVIC)",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "consumer",
-    "type": "Regulator",
-    "description": "Ontario's vehicle sales regulator: buyers can check whether a dealer or salesperson is registered, learn their purchase rights, and file a complaint about a vehicle sale.",
-    "url": "https://www.omvic.ca/",
-    "tags": [
-      "vehicles",
-      "dealers",
-      "complaints",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Alberta Motor Vehicle Industry Council (AMVIC)",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "consumer",
-    "type": "Regulator",
-    "description": "Alberta's automotive industry regulator: consumers can verify a vehicle business or salesperson licence, file a complaint about sales or repairs, and learn about its consumer compensation fund.",
-    "url": "https://www.amvic.org/",
-    "tags": [
-      "vehicles",
-      "dealers",
-      "complaints",
-      "alberta"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Vehicle Sales Authority of BC (VSA)",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "consumer",
-    "type": "Regulator",
-    "description": "BC's vehicle sales regulator: buyers can check dealer and salesperson licences, file a complaint about a vehicle purchase, and learn their rights under BC motor dealer law.",
-    "url": "https://www.vsabc.ca/",
-    "tags": [
-      "vehicles",
-      "dealers",
-      "complaints",
-      "british columbia",
-      "licensing"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Tarion — New Home Warranty",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "consumer",
-    "type": "Consumer protection",
-    "description": "Ontario's new-home warranty administrator: buyers can check a builder's record, confirm a new home's warranty coverage, and submit claims for construction defects through Tarion.",
-    "url": "https://www.tarion.com/",
-    "tags": [
-      "new homes",
-      "warranty",
-      "builders",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Yukon Ombudsman",
-    "level": "Provincial",
-    "jurisdiction": "Yukon",
-    "category": "consumer",
-    "type": "Ombudsman",
-    "description": "Yukon's independent ombudsman: residents can complain about unfair treatment by Yukon government departments and public bodies and ask for an investigation.",
-    "url": "https://www.yukonombudsman.ca/",
-    "tags": [
-      "complaints",
-      "fairness",
-      "oversight",
-      "yukon"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Office of the Citizens' Representative — Newfoundland and Labrador",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "consumer",
-    "type": "Ombudsman",
-    "description": "Newfoundland and Labrador's ombudsman office: residents can complain about provincial government services and decisions and request an independent investigation.",
-    "url": "https://www.citizensrep.nl.ca/",
-    "tags": [
-      "complaints",
-      "fairness",
-      "oversight",
-      "newfoundland and labrador"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Northwest Territories Ombud",
-    "level": "Provincial",
-    "jurisdiction": "Northwest Territories",
-    "category": "consumer",
-    "type": "Ombudsman",
-    "description": "The Northwest Territories' independent ombud office: residents can complain about unfair treatment by territorial government departments, boards and agencies.",
-    "url": "https://www.nwtombud.ca/",
-    "tags": [
-      "complaints",
-      "fairness",
-      "oversight",
-      "northwest territories"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Canadian Securities Administrators — Are They Registered?",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "consumer",
-    "type": "Lookup tool",
-    "description": "The CSA's check-before-you-invest hub: verify through the National Registration Search whether an investment adviser or firm is registered, and check disciplinary history and investor alerts first.",
-    "url": "https://www.securities-administrators.ca/registration/are-they-registered",
-    "tags": [
-      "investing",
-      "registration",
-      "fraud prevention",
-      "securities"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Competition Bureau — Complaint Form",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "consumer",
-    "type": "Complaint form",
-    "description": "The Competition Bureau's complaint form: notify the Bureau that a company or individual may have broken the Competition Act or labelling laws, for example through deceptive marketing or drip pricing.",
-    "url": "https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form",
-    "tags": [
-      "competition",
-      "deceptive marketing",
-      "complaints",
-      "reporting"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Health Canada — Report an Incident Involving a Consumer Product or Cosmetic",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "safety",
-    "type": "Reporting tool",
-    "description": "Health Canada's incident reporting hub: consumers report injuries, near misses, property damage or labelling problems from a consumer product or cosmetic so Health Canada can investigate, warn or recall.",
-    "url": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/report-incident.html",
-    "tags": [
-      "product safety",
-      "incident report",
-      "cosmetics",
-      "health canada"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Health Canada — Report a Pesticide Incident",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "safety",
-    "type": "Reporting tool",
-    "description": "Health Canada's pesticide incident reporting page: report a pesticide's effects on a person, a pet or livestock, or the environment through the Public Engagement Portal voluntary incident form.",
-    "url": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/protecting-your-health-environment/report-pesticide-incident.html",
-    "tags": [
-      "pesticides",
-      "incident report",
-      "environment",
-      "health canada"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "CIRO — AdvisorReport Search",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "finance",
-    "type": "Lookup tool",
-    "description": "CIRO's AdvisorReport search: look up an investment advisor at a CIRO-regulated dealer to see their approval categories, provinces, employment history and disciplinary disclosures before investing.",
-    "url": "https://www.ciro.ca/advisor-report-search",
-    "tags": [
-      "investing",
-      "advisors",
-      "disciplinary history",
-      "ciro"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Electrical Safety Authority — Contractor Locator Tool",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "consumer",
-    "type": "Licence search",
-    "description": "Ontario's Electrical Safety Authority contractor locator: find a Licensed Electrical Contractor by job type and check licence status and conviction flags before hiring for electrical work.",
-    "url": "https://licensing.esasafe.com/contractor-locator-tool/",
-    "tags": [
-      "electrical safety",
-      "licensed contractor",
-      "ontario",
-      "home renovation"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Technical Safety BC — Find a Licensed Contractor",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "consumer",
-    "type": "Licence search",
-    "description": "Technical Safety BC's guide to its licensed-contractor search: verify a BC contractor's licence for gas, electrical, elevating or boiler work and see their authorized scope and enforcement history.",
-    "url": "https://www.technicalsafetybc.ca/regulatory-resources/licensed-contractor-guide",
-    "tags": [
-      "licensed contractor",
-      "gas",
-      "electrical",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Consumer Protection BC — Check a Licence",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "consumer",
-    "type": "Licence search",
-    "description": "Consumer Protection BC's licence check: search whether a BC payday lender, debt collector, telemarketer, travel agent, home inspector or funeral provider is licensed, by name, licence number or city.",
-    "url": "https://www.consumerprotectionbc.ca/check-a-licence-search/",
-    "tags": [
-      "licence check",
-      "payday loans",
-      "debt collection",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Office de la protection du consommateur — Get Information About a Merchant",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "consumer",
-    "type": "Lookup tool",
-    "description": "Quebec's consumer office merchant lookup: search a merchant to see OPC enforcement interventions, consumer formal notices, and any licence or permit the merchant holds.",
-    "url": "https://www.opc.gouv.qc.ca/en/information-merchant/",
-    "tags": [
-      "merchant check",
-      "enforcement",
-      "licences",
-      "quebec"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Ad Standards — Consumer Complaint Procedure",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "consumer",
-    "type": "Complaint process",
-    "description": "Ad Standards' consumer complaint procedure: complain in writing that an advertisement in Canadian media breaks the Canadian Code of Advertising Standards and have it reviewed for amendment or withdrawal.",
-    "url": "https://adstandards.ca/consumer-complaint-procedure/",
-    "tags": [
-      "advertising",
-      "complaints",
-      "misleading ads",
-      "self-regulation"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Canadian Broadcast Standards Council — Make a Complaint",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "telecom",
-    "type": "Complaint form",
-    "description": "The Canadian Broadcast Standards Council's complaint form: complain about private TV or radio content on ethics, violence, portrayal or news accuracy and request a panel ruling.",
-    "url": "https://www.cbsc.ca/make-a-complaint/",
-    "tags": [
-      "broadcasting",
-      "complaints",
-      "television",
-      "radio"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "OmbudsPEI — Office of the Ombudsperson",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "consumer",
-    "type": "Ombudsman",
-    "description": "Prince Edward Island's independent ombuds office: Islanders can file a free, confidential complaint about unfair treatment by PEI government agencies, municipalities, Health PEI or post-secondary institutions.",
-    "url": "https://ombudspei.ca/",
-    "tags": [
-      "complaints",
-      "fairness",
-      "oversight",
-      "pei",
-      "ombudsperson"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "FCAA Saskatchewan — File a Consumer Complaint",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "consumer",
-    "type": "Complaint guide",
-    "description": "The FCAA Consumer Protection Division's complaint page: Saskatchewan consumers check whether their dispute is valid and file a complaint about goods, services, warranties, direct sellers, collection agents or motor dealers.",
-    "url": "https://fcaa.gov.sk.ca/consumers-investors-pension-plan-members/consumers/purchasing-goods-and-services/complaints",
-    "tags": [
-      "consumer protection",
-      "complaints",
-      "saskatchewan",
-      "fcaa"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Saskatchewan — Consumer Rights Pathway",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "consumer",
-    "type": "Dispute resolution",
-    "description": "Saskatchewan's interactive consumer-rights pathway: answer guided questions about a dispute to learn your rights, get letter templates, and escalate to the Resolve My Consumer Dispute portal with FCAA mediators.",
-    "url": "https://consumerrights.saskatchewan.ca/",
-    "tags": [
-      "consumer rights",
-      "dispute resolution",
-      "saskatchewan",
-      "fcaa"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "FCNB — Online Services",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "finance",
-    "type": "Portal",
-    "description": "FCNB's online services portal: New Brunswickers submit a formal complaint about a regulated firm or person and use the commission's self-serve consumer and industry services from one hub.",
-    "url": "https://fcnb.ca/en/online-services",
-    "tags": [
-      "complaints",
-      "portal",
-      "new brunswick",
-      "fcnb"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "RECA ProCheck — Find a Licensee",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "consumer",
-    "type": "Licence search",
-    "description": "The Real Estate Council of Alberta's ProCheck search: verify in seconds whether a real estate, mortgage, property-management or condominium-management professional is licensed, and view recent disciplinary decisions.",
-    "url": "https://procheck.reca.ca/",
-    "tags": [
-      "real estate",
-      "licence search",
-      "alberta",
-      "mortgage brokers"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "RECA — Consumer Protection Fund",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "consumer",
-    "type": "Consumer protection",
-    "description": "RECA's consumer protection fund information: Albertans who lost money to a licensed real estate or mortgage professional's fraud or breach of trust learn the claim limits and how to apply for compensation.",
-    "url": "https://www.recaprotects.ca/consumer-protection-fund/",
-    "tags": [
-      "real estate",
-      "compensation fund",
-      "alberta",
-      "consumer protection"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "FSRA Ontario — Consumer Office",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "finance",
-    "type": "Consumer protection",
-    "description": "FSRA's consumer office hub: Ontario consumers find how the regulator protects them across insurance, pensions, mortgage brokering, credit unions and financial advice, including how complaints are resolved.",
-    "url": "https://www.fsrao.ca/consumers/consumer-office",
-    "tags": [
-      "insurance",
-      "pensions",
-      "mortgage brokers",
-      "ontario",
-      "consumer protection"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "BC Utilities Commission — Complaint Process",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "utilities",
-    "type": "Complaint process",
-    "description": "The BC Utilities Commission's complaint process: BC customers complain about regulated electricity or gas billing, metering, disconnection or gas-marketer conduct after first trying the utility.",
-    "url": "https://www.bcuc.com/WhatWeDo/ComplaintProcess",
-    "tags": [
-      "utilities",
-      "electricity",
-      "natural gas",
-      "complaints",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "Ontario Energy Board — We're Here to Help (Consumer Complaints)",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "utilities",
-    "type": "Complaint process",
-    "description": "The Ontario Energy Board's consumer help page: electricity and natural gas customers follow the complaint steps, contacting their utility first and then filing with the OEB over billing, contracts or service.",
-    "url": "https://www.oeb.ca/consumer-information-and-protection/oebs-consumer-protection-role/were-here-help",
-    "tags": [
-      "utilities",
-      "electricity",
-      "natural gas",
-      "complaints",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-18"
   }
 ]
