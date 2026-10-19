@@ -872,7 +872,7 @@
     "category": "aviation-marine",
     "type": "Flight tools",
     "description": "NOTAM search, Canadian Aviation Weather, and flight planning resources",
-    "url": "https://www.navcanada.ca/en/flight-planning/",
+    "url": "https://www.navcanada.ca/en/flight-planning.aspx",
     "tags": [
       "aviation",
       "weather"
@@ -39864,22 +39864,6 @@
     "dateAdded": "2026-10-19"
   },
   {
-    "name": "Canada Housing Benefit",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Benefit",
-    "description": "The Canada Housing Benefit top-up delivered through the CRA: a tax-free payment (the 2022-23 round paid a one-time $500; the page now covers the ongoing benefit of up to $250 a month for up to 10 years for eligible renters in participating provinces) — check eligibility and apply through CRA My Account, by phone or by form.",
-    "url": "https://www.canada.ca/en/services/taxes/child-and-family-benefits/top-ups/canada-housing-benefit.html",
-    "tags": [
-      "housing benefit",
-      "rent",
-      "cra",
-      "low income"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
     "name": "211 Canada",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -40031,7 +40015,7 @@
     "category": "benefits",
     "type": "Income assistance",
     "description": "PEI's Social Assistance Program: financial help with food, clothing, shelter, childcare, medicine and other essentials for Islanders 18 and older whose income cannot cover basic living costs, with the screening line and appointment process to apply.",
-    "url": "https://www.princeedwardisland.ca/en/information/social-assistance-program",
+    "url": "https://www.princeedwardisland.ca/en/information/social-development-and-seniors/social-assistance-program",
     "tags": [
       "social assistance",
       "pei",
@@ -40046,7 +40030,7 @@
     "category": "benefits",
     "type": "Disability supports",
     "description": "PEI's disability support program for residents under 65: financial assistance including Assured Income, plus personal, housing, community and employment supports, with a screening call and coordinator assessment to apply.",
-    "url": "https://www.princeedwardisland.ca/en/information/accessability-supports",
+    "url": "https://www.princeedwardisland.ca/en/information/social-development-and-seniors/accessability-supports",
     "tags": [
       "disability",
       "accessability",

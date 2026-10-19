@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2547 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2546 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -39,7 +39,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
 - [🩺 Health & Wellness](#health-and-wellness) — 123
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 59
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 58
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 59
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
@@ -1864,7 +1864,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Dental Benefit | Canada · Federal | Benefit | Coverage details and application for the Canadian Dental Care Plan | https://www.canada.ca/en/services/benefits/dental.html |
 | Canada Dental Care Plan | Canada · Federal | Health benefit | Apply for the national dental care plan providing coverage for uninsured Canadians with household incomes under $90,000 | https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html |
 | Canada Disability Benefit — Apply | Canada · Federal | Benefit | Monthly income-tested federal benefit (up to $2,400/year) for working-age Canadians with disabilities approved for the Disability Tax Credit; apply online, by phone, in person at a Service Canada centre, or by printed form. | https://www.canada.ca/en/services/benefits/disability/canada-disability-benefit/apply.html |
-| Canada Housing Benefit | Canada · Federal | Benefit | The Canada Housing Benefit top-up delivered through the CRA: a tax-free payment (the 2022-23 round paid a one-time $500; the page now covers the ongoing benefit of up to $250 a month for up to 10 years for eligible renters in participating provinces) — check eligibility and apply through CRA My Account, by phone or by form. | https://www.canada.ca/en/services/taxes/child-and-family-benefits/top-ups/canada-housing-benefit.html |
 | Canada Pension Plan (CPP) — Overview and Apply | Canada · Federal | Benefit | Eligibility, amounts, and application for CPP retirement, disability, and survivor benefits | https://www.canada.ca/en/services/benefits/publicpensions/cpp.html |
 | Canada Workers Benefit | Canada · Federal | Tax benefit | Refundable tax credit for low-income workers and families to help offset employment costs | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-workers-benefit.html |
 | Canada.ca — Benefits Payment Calendar | Canada · Federal | Calendar | Official payment dates for CPP, OAS, EI, and other Government of Canada benefits | https://www.canada.ca/en/services/benefits/calendar.html |
@@ -1948,8 +1947,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Newfoundland and Labrador — Accessible Vehicle Funding | Newfoundland and Labrador · Provincial | Program | Provincial funding program helping people with disabilities obtain accessible vehicles, for NL residents applying for support and researchers of disability programs. | https://www.gov.nl.ca/sswb/disabilities/accessible-vehicle-funding/ |
 | Newfoundland and Labrador — Income Support Program | Newfoundland and Labrador · Provincial | Income assistance | Newfoundland and Labrador's Income Support Program: last-resort financial help for basic needs for residents 18 and older, with eligibility rules, the telephone application (1-877-729-7888), required documents, and basic rates by family and living arrangement. | https://www.gov.nl.ca/sswb/income-support/ |
 | Nova Scotia — Income Assistance: How to Apply | Nova Scotia · Provincial | Income assistance | Nova Scotia's Income Assistance application page under Employment Support and Income Assistance (ESIA): who can receive it, the documents to have ready, how to apply by phone or at a local office, and faster help in an emergency. | https://novascotia.ca/coms/employment/income_assistance/HowtoApply.html |
-| Prince Edward Island — AccessAbility Supports | Prince Edward Island · Provincial | Disability supports | PEI's disability support program for residents under 65: financial assistance including Assured Income, plus personal, housing, community and employment supports, with a screening call and coordinator assessment to apply. | https://www.princeedwardisland.ca/en/information/accessability-supports |
-| Prince Edward Island — Social Assistance Program | Prince Edward Island · Provincial | Income assistance | PEI's Social Assistance Program: financial help with food, clothing, shelter, childcare, medicine and other essentials for Islanders 18 and older whose income cannot cover basic living costs, with the screening line and appointment process to apply. | https://www.princeedwardisland.ca/en/information/social-assistance-program |
+| Prince Edward Island — AccessAbility Supports | Prince Edward Island · Provincial | Disability supports | PEI's disability support program for residents under 65: financial assistance including Assured Income, plus personal, housing, community and employment supports, with a screening call and coordinator assessment to apply. | https://www.princeedwardisland.ca/en/information/social-development-and-seniors/accessability-supports |
+| Prince Edward Island — Social Assistance Program | Prince Edward Island · Provincial | Income assistance | PEI's Social Assistance Program: financial help with food, clothing, shelter, childcare, medicine and other essentials for Islanders 18 and older whose income cannot cover basic living costs, with the screening line and appointment process to apply. | https://www.princeedwardisland.ca/en/information/social-development-and-seniors/social-assistance-program |
 
 ### Northern Canada (YT, NT, NU)
 
@@ -2364,7 +2363,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Drone Site Selection Tool | Canada · Federal | Interactive map | Find where drone flight is prohibited, restricted or requires permission: interactive airspace/aerodrome map with basic-to-BVLOS operation layers, refreshed on the 56-day aeronautical cycle. | https://nrc.canada.ca/en/drone-tool/ |
 | Marine Atlantic — Ferry Booking and Schedules | Canada · Federal | Ferry booking | Book and plan crossings between Nova Scotia and Newfoundland | https://www.marineatlantic.ca/ |
 | NAV CANADA — Aeronautical Publications | Canada · Federal | Aviation maps | Airspace maps, aeronautical information, and flight planning tools | https://www.navcanada.ca/en/aeronautical-information/ |
-| NAV CANADA — Flight Planning | Canada · Federal | Flight tools | NOTAM search, Canadian Aviation Weather, and flight planning resources | https://www.navcanada.ca/en/flight-planning/ |
+| NAV CANADA — Flight Planning | Canada · Federal | Flight tools | NOTAM search, Canadian Aviation Weather, and flight planning resources | https://www.navcanada.ca/en/flight-planning.aspx |
 | NAV CANADA — Live NOTAM Map | Canada · Federal | Aviation tool | Live Canadian airspace NOTAM visualization and search | https://plan.navcanada.ca/wxrecall/ |
 | Transport Canada — Airworthiness Directives Search (CAWIS) | Canada · Federal | Searchable regulatory database | Search airworthiness directives and service difficulty reports applicable to Canadian aircraft, engines, and propellers in the Continuing Airworthiness Web Information System. | https://wwwapps.tc.gc.ca/saf-sec-sur/2/cawis-swimn/ |
 | Transport Canada — CADORS Aviation Occurrence Search | Canada · Federal | Searchable incident database | Search 300,000+ daily aviation occurrence reports (incidents, laser strikes, near misses) by date, aerodrome, aircraft, or occurrence type since 1985. | https://wwwapps.tc.gc.ca/saf-sec-sur/2/cadors-screaq/qs.aspx?lang=eng |
