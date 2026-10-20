@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2592 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2611 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -40,7 +40,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🩺 Health & Wellness](#health-and-wellness) — 123
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 58
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 44
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 63
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 59
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 45
@@ -2012,6 +2012,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Build Canada Homes | Canada · Federal | Federal housing agency | New federal agency (launched September 2025, $13B capitalized) building and financing affordable housing at scale on federal lands; national proposal submission portal for developers and non-profits. | https://www.bch-mc.ca/ |
+| Canada Greener Homes Affordability Program (CGHAP) | Canada · Federal | Home retrofit program | Federal program giving low-to-median-income homeowners and tenants no-cost home energy retrofits (insulation, heat pumps, air sealing) delivered through provincial and territorial partners; find how to participate in your province. | https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-affordability-program |
 | CMHC — Household Characteristics and Core Housing Need Tables | Canada · Federal | Data tables | Download Excel tables on core housing need, tenure, income and household type for Canada, provinces, territories and CMAs. | https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables/household-characteristics |
 | CMHC — Housing Accelerator Fund Progress Report | Canada · Federal | Dashboard | See HAF funding, permit targets and incented units by province and community in an interactive progress report (through March 2026). | https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/funding-programs/all-funding-programs/housing-accelerator-fund/housing-accelerator-fund-rounds-data |
 | CMHC — Housing Market Information Portal | Canada · Federal | Data portal | Free CMHC housing data for any geography from national to neighbourhood: starts, completions, under construction, vacancy rates and rents as tables, maps and comparisons. | https://www.cmhc-schl.gc.ca/hmiportal |
@@ -2024,12 +2025,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CMHC — Mortgage Calculator | Canada · Crown Corp | Calculator | Official mortgage payment, amortization, and affordability calculator from CMHC | https://www.cmhc-schl.gc.ca/consumers/home-buying/calculators |
 | CMHC Housing Affordability Tracker | Canada · Crown Corp | Housing tool | Monitor housing affordability across Canadian markets | https://www.cmhc-schl.gc.ca/ |
 | Canadian Real Estate Association — Stats | Canada · Agency | Market data | Monthly national home sales, prices, and MLS benchmarks by market | https://www.crea.ca/housing-market-stats/ |
+| CMHC — Housing Data, Statistics and Sources | Canada · Agency | Housing data hub | CMHC's central hub for housing data, statistics, sources and datasets: rental market, starts and completions, mortgage and affordability data tables and downloads in one place. | https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data-statistics-sources-datasets |
 
 ### British Columbia
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Housing — Housing Listings | British Columbia · Agency | Housing unit finder | Searchable tool listing 1200+ subsidized, affordable and market rental buildings across BC, filterable by location, housing type and unit size, showing how to apply to each. | https://housingsearch.bchousing.org/ |
+| BC Housing — Subsidized Housing and Housing Registry | British Columbia · Agency | Subsidized housing application portal | Apply for subsidized housing in B.C. through The Housing Registry's single application used by BC Housing and partner non-profit and co-op providers, check eligibility, and update an existing application. | https://www.bchousing.org/housing-assistance/rental-housing/subsidized-housing |
 | British Columbia — ParcelMap BC Search (LTSA) | British Columbia · Agency | Parcel map search | Search LTSA's authoritative map of all titled and surveyed Crown parcels in BC by address, PID or map click to view parcel boundaries and legal descriptions. | https://maps.ltsa.ca/ |
 | BC Assessment — Property Assessment Search | British Columbia · Provincial | Property assessment search | Official BC Assessment e-valueBC lookup: search any British Columbia property's assessed value and property details. | https://www.bcassessment.ca/Property/AssessmentSearch |
 | BC Assessment — Property Search | British Columbia · Provincial | Property | Look up assessed property values, property class, sales data, and ownership information for any property in BC | https://www.bcassessment.ca/ |
@@ -2053,6 +2056,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Saskatchewan — Local Housing Authorities (SHC) | Saskatchewan · Crown Corp | Social housing lookup | Directory of 230+ local housing authorities managing affordable rental housing in 260+ communities, with a 'Search Communities with Housing' tool for contact info and applying for social housing. | https://www.saskatchewan.ca/government/government-structure/crown-corporations/treasury-board-crowns/saskatchewan-housing-corporation/local-housing-authorities |
 | Saskatchewan — ISC Land Titles Search | Saskatchewan · Agency | Land registry search | Find any Saskatchewan land title by parcel number, title number, land description or owner name, with a free map search tool and historical title lookups. | https://www.saskregistries.ca/landtitles/findtitle |
 | SAMAView — Saskatchewan Assessments Online | Saskatchewan · Provincial | Property | Free search, view and comparison of individual property assessments across all SAMA client municipalities in Saskatchewan. | https://www.sama.sk.ca/property-owner-services/assessments-online-samaview |
+| Saskatchewan — Office of Residential Tenancies (ORT) | Saskatchewan · Provincial | Residential tenancies tribunal | Saskatchewan's tenancy tribunal: landlords and tenants file claims and applications for hearings on rent arrears, evictions, security deposits and repairs, and look up decisions and forms. | https://www.saskatchewan.ca/government/government-structure/boards-commissions-and-agencies/office-of-residential-tenancies |
 
 ### Manitoba
 
@@ -2060,16 +2064,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Manitoba — Title Check (Teranet Manitoba Land Titles) | Manitoba · Provincial | Land title search | Online public search of Manitoba's Land Titles Registry for titles, instruments and survey plans by number, payable by credit card. Completes western-province land-title coverage. | https://teranetmanitoba.ca/land-titles/check-your-title/ |
 | Manitoba Assessment Online | Manitoba · Provincial | Property | Search property assessment values and details for all Manitoba properties outside Winnipeg. | https://www.gov.mb.ca/mao/public/default.aspx |
+| Manitoba Housing | Manitoba · Provincial | Provincial housing authority | Manitoba's housing department (Housing, Addictions and Homelessness): apply for social and affordable rental housing, find rent supplements including the Canada-Manitoba Housing Benefit, and access home repair programs. | https://www.gov.mb.ca/housing/ |
 | Manitoba Residential Tenancies Branch | Manitoba · Provincial | Tribunal | Manitoba's branch for residential tenancy disputes, rent regulation, and guidance | https://www.gov.mb.ca/cca/rtb/ |
 
 ### Ontario
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Home Efficiency Rebate Plus (HER+) — Enbridge Gas Ontario | Ontario · Agency | Home retrofit rebate program | Ontario delivery of the Greener Homes rebates through Enbridge Gas: check eligibility and claim rebates for insulation, heat pumps, windows and other home-efficiency upgrades, with or without Enbridge gas service. | https://www.enbridgegas.com/ontario/rebates-energy-conservation/home-efficiency-rebate-plus |
+| Ottawa Community Housing (OCH) | Ottawa · Agency | Community housing provider | Canada's second-largest community housing provider: Ottawa's social and affordable housing landlord for about 32,000 tenants — tenant services, maintenance requests, and links to the Social Housing Registry waitlist. | https://www.och-lco.ca/ |
+| AccessHousing — Peel Region Centralized Waiting List | Peel · Agency | Housing waitlist portal | The centralized waiting list for subsidized housing in Peel Region (Mississauga, Brampton, Caledon): apply for rent-geared-to-income housing, check eligibility, and update your application and unit-size selections. | https://www.myaccesshousing.org/ |
 | Toronto Community Housing — Directory | Toronto · Agency | Housing | Directory of Toronto Community Housing units and application info | https://www.toronto.ca/city-government/data-research-maps/open-data |
 | Landlord and Tenant Board (LTB) Ontario | Ontario · Provincial | Tribunal | File applications, download forms, and read LTB rules for Ontario residential tenancy disputes | https://tribunalsontario.ca/ltb/ |
 | Ontario — OnLand Property Records | Ontario · Provincial | Land registry | Ontario's official electronic land registration system: title searches, parcel registers, and property imagery for land titles and registry act properties across the province. | https://www.onland.ca/ |
 | Ontario Property Assessment — MPAC | Ontario · Provincial | Property | Municipal Property Assessment Corporation — look up your property's assessed value, class, and assessment details | https://www.mpac.ca/ |
+| City of Toronto — Housing and Shelter Services | Toronto · Municipal | Municipal housing services hub | Toronto's housing and shelter hub: apply for rent-geared-to-income housing (MyAccesstoHousingTO), find housing help centres, rent banks, eviction prevention and shelter and homelessness services. | https://www.toronto.ca/community-people/housing-shelter/ |
 | RentSafeTO — Apartment Inspection Lookup | Toronto · Municipal | Lookup tool | Look up any Toronto apartment building's City inspection history, safety scores, and red flags (pests, elevators, orders) before signing a lease. Independent Next.js app built on City of Toronto RentSafeTO open data. | https://www.rentsafeto.com/ |
 | Toronto — Housing Data Hub | Toronto · Municipal | Housing dashboard | City of Toronto's central housing data hub: affordable rental housing map, housing data book, and the HousingTO 2020–2030 Action Plan progress dashboard. | https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/ |
 | Toronto Multiplex Tracker | Toronto · Municipal | Interactive permit map | Live map and trends of every Toronto building permit creating 1–6 dwelling units since 2022, refreshed daily from Toronto Open Data with raw data available as GeoJSON. By Malcolm Kennedy; featured in the City of Toronto open-data gallery. | https://malcolmkennedy.com/to-multiplex-map/ |
@@ -2086,10 +2095,25 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Newfoundland and Labrador Housing Corporation — Housing Programs | Newfoundland and Labrador · Agency | Provincial housing corporation programs | NLHC's program hub: apply for rental housing and the Canada-NL Housing Benefit, and find home repair, down-payment and other provincial housing programs. | https://www.nlhc.com/programs/housing-programs/ |
+| Housing Nova Scotia | Nova Scotia · Agency | Provincial housing authority | Nova Scotia's provincial housing department: apply for public and subsidized housing, find rent supplements and home repair/adaptation grants, and access down-payment and affordable-housing programs. | https://housingnovascotia.ca/ |
+| PEI Housing Corporation | Prince Edward Island · Agency | Provincial housing corporation | Prince Edward Island's housing corporation: apply for social housing and rent-geared-to-income units, mobile rental vouchers, emergency home repairs, and seniors housing across the province. | https://peihousingcorp.ca/ |
+| PEI Residential Tenancy Office (IRAC) | Prince Edward Island · Agency | Residential tenancy office | Prince Edward Island's Residential Tenancy Office at IRAC: file applications and appeals on rent increases, evictions and deposits, search rental increase decisions, and get landlord and tenant forms and guides. | https://irac.pe.ca/residential-tenancy/ |
 | New Brunswick — Property Assessment Online (PAOL) | New Brunswick · Provincial | Property | Search NB property assessments by address, PAN or PID, with four years of assessment history, recent sale prices and tax levy information on a provincial map. | https://paol-efel.snb.ca/ |
+| RentalsNB — New Brunswick Tenancy Services | New Brunswick · Provincial | Residential tenancy portal | Service New Brunswick's tenancy portal: lodge security deposits (required since 2024), file claims and dispute applications with the Residential Tenancies Tribunal, and use standard leases and tenancy forms. | https://www.rentalsnb.ca/ |
 | Nova Scotia — Public Housing Units (Open Data) | Nova Scotia · Provincial | Open dataset | Searchable open-data dataset of Nova Scotia public housing units: civic address, community, county, municipality, housing authority and unit count for locating provincial public housing. | https://data.novascotia.ca/Community-Services/Public-Housing-Units-Nova-Scotia-Families/nxzm-xxps |
+| Nova Scotia — Residential Tenancies Program | Nova Scotia · Provincial | Residential tenancies program | Nova Scotia's tenancy program (Service Nova Scotia / Access Nova Scotia): standard lease forms, rules on rent increases and deposits, and how to apply to the Director for dispute resolution and hearings. | https://novascotia.ca/residential-tenancies-tenants-and-landlords/ |
 | PVSC — Nova Scotia Assessment Search | Nova Scotia · Provincial | Property | Find any of Nova Scotia's 650,000+ property assessments by civic address, assessment account number, community or sale date. | https://www.pvsc.ca/find-assessment |
 | PEI Property Tax Calculator | PEI · Provincial | Calculator | Estimate annual property taxes for residential and commercial properties on Prince Edward Island | https://www.princeedwardisland.ca/en/service/property-tax |
+
+### Northern Canada (YT, NT, NU)
+
+| Name | Jurisdiction · Level | Type | Description | URL |
+|---|---|---|---|---|
+| Housing NWT | Northwest Territories · Agency | Territorial housing corporation | The Northwest Territories housing corporation: apply for public housing through community housing services offices, rent supplements, and home purchase and repair programs. | https://www.housingnwt.ca/ |
+| Nunavut Housing Corporation | Nunavut · Agency | Territorial housing corporation | Nunavut's housing corporation: public housing in all 25 communities through local housing organizations, staff housing, and homeownership and home repair programs for Nunavummiut. | https://www.nunavuthousing.ca/ |
+| Yukon Housing Corporation | Yukon · Agency | Territorial housing corporation | Yukon's housing corporation (Social Housing waitlist merged into Rent-Geared-to-Income in 2025): apply for RGI housing, senior and staff housing, and home repair and rental supplements. | https://www.yukonhousing.ca/ |
+| Office of the Rentals Officer — Northwest Territories | Northwest Territories · Provincial | Residential tenancies office | The NWT Rentals Officer (GNWT Justice): apply for orders on rent arrears, evictions, repairs and security deposits, get mediation, and download tenancy forms and fact sheets. | https://www.justice.gov.nt.ca/rentals-offices/ |
 
 ## 🛣️ Transportation & Roads
 

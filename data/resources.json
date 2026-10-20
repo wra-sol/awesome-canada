@@ -40978,5 +40978,328 @@
       "postsecondary"
     ],
     "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Housing Nova Scotia",
+    "level": "Agency",
+    "jurisdiction": "Nova Scotia",
+    "category": "housing",
+    "type": "Provincial housing authority",
+    "description": "Nova Scotia's provincial housing department: apply for public and subsidized housing, find rent supplements and home repair/adaptation grants, and access down-payment and affordable-housing programs.",
+    "url": "https://housingnovascotia.ca/",
+    "tags": [
+      "nova scotia",
+      "public housing",
+      "rent supplement",
+      "subsidized housing",
+      "apply"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "BC Housing — Subsidized Housing and Housing Registry",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "housing",
+    "type": "Subsidized housing application portal",
+    "description": "Apply for subsidized housing in B.C. through The Housing Registry's single application used by BC Housing and partner non-profit and co-op providers, check eligibility, and update an existing application.",
+    "url": "https://www.bchousing.org/housing-assistance/rental-housing/subsidized-housing",
+    "tags": [
+      "british columbia",
+      "bc housing",
+      "subsidized housing",
+      "housing registry",
+      "apply"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Manitoba Housing",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "housing",
+    "type": "Provincial housing authority",
+    "description": "Manitoba's housing department (Housing, Addictions and Homelessness): apply for social and affordable rental housing, find rent supplements including the Canada-Manitoba Housing Benefit, and access home repair programs.",
+    "url": "https://www.gov.mb.ca/housing/",
+    "tags": [
+      "manitoba",
+      "social housing",
+      "rent supplement",
+      "housing benefit",
+      "apply"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "PEI Housing Corporation",
+    "level": "Agency",
+    "jurisdiction": "Prince Edward Island",
+    "category": "housing",
+    "type": "Provincial housing corporation",
+    "description": "Prince Edward Island's housing corporation: apply for social housing and rent-geared-to-income units, mobile rental vouchers, emergency home repairs, and seniors housing across the province.",
+    "url": "https://peihousingcorp.ca/",
+    "tags": [
+      "prince edward island",
+      "social housing",
+      "rent-geared-to-income",
+      "apply",
+      "seniors housing"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Nunavut Housing Corporation",
+    "level": "Agency",
+    "jurisdiction": "Nunavut",
+    "category": "housing",
+    "type": "Territorial housing corporation",
+    "description": "Nunavut's housing corporation: public housing in all 25 communities through local housing organizations, staff housing, and homeownership and home repair programs for Nunavummiut.",
+    "url": "https://www.nunavuthousing.ca/",
+    "tags": [
+      "nunavut",
+      "public housing",
+      "homeownership",
+      "arctic",
+      "apply"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Housing NWT",
+    "level": "Agency",
+    "jurisdiction": "Northwest Territories",
+    "category": "housing",
+    "type": "Territorial housing corporation",
+    "description": "The Northwest Territories housing corporation: apply for public housing through community housing services offices, rent supplements, and home purchase and repair programs.",
+    "url": "https://www.housingnwt.ca/",
+    "tags": [
+      "northwest territories",
+      "public housing",
+      "rent supplement",
+      "apply",
+      "northern housing"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Yukon Housing Corporation",
+    "level": "Agency",
+    "jurisdiction": "Yukon",
+    "category": "housing",
+    "type": "Territorial housing corporation",
+    "description": "Yukon's housing corporation (Social Housing waitlist merged into Rent-Geared-to-Income in 2025): apply for RGI housing, senior and staff housing, and home repair and rental supplements.",
+    "url": "https://www.yukonhousing.ca/",
+    "tags": [
+      "yukon",
+      "rent-geared-to-income",
+      "social housing",
+      "apply",
+      "waitlist"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Saskatchewan — Office of Residential Tenancies (ORT)",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "housing",
+    "type": "Residential tenancies tribunal",
+    "description": "Saskatchewan's tenancy tribunal: landlords and tenants file claims and applications for hearings on rent arrears, evictions, security deposits and repairs, and look up decisions and forms.",
+    "url": "https://www.saskatchewan.ca/government/government-structure/boards-commissions-and-agencies/office-of-residential-tenancies",
+    "tags": [
+      "saskatchewan",
+      "residential tenancies",
+      "landlord tenant",
+      "hearings",
+      "eviction"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Office of the Rentals Officer — Northwest Territories",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "housing",
+    "type": "Residential tenancies office",
+    "description": "The NWT Rentals Officer (GNWT Justice): apply for orders on rent arrears, evictions, repairs and security deposits, get mediation, and download tenancy forms and fact sheets.",
+    "url": "https://www.justice.gov.nt.ca/rentals-offices/",
+    "tags": [
+      "northwest territories",
+      "rentals officer",
+      "residential tenancies",
+      "mediation",
+      "forms"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Nova Scotia — Residential Tenancies Program",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "housing",
+    "type": "Residential tenancies program",
+    "description": "Nova Scotia's tenancy program (Service Nova Scotia / Access Nova Scotia): standard lease forms, rules on rent increases and deposits, and how to apply to the Director for dispute resolution and hearings.",
+    "url": "https://novascotia.ca/residential-tenancies-tenants-and-landlords/",
+    "tags": [
+      "nova scotia",
+      "residential tenancies",
+      "lease",
+      "dispute resolution",
+      "access nova scotia"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "RentalsNB — New Brunswick Tenancy Services",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "housing",
+    "type": "Residential tenancy portal",
+    "description": "Service New Brunswick's tenancy portal: lodge security deposits (required since 2024), file claims and dispute applications with the Residential Tenancies Tribunal, and use standard leases and tenancy forms.",
+    "url": "https://www.rentalsnb.ca/",
+    "tags": [
+      "new brunswick",
+      "security deposit",
+      "residential tenancies tribunal",
+      "landlord tenant",
+      "service new brunswick"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "PEI Residential Tenancy Office (IRAC)",
+    "level": "Agency",
+    "jurisdiction": "Prince Edward Island",
+    "category": "housing",
+    "type": "Residential tenancy office",
+    "description": "Prince Edward Island's Residential Tenancy Office at IRAC: file applications and appeals on rent increases, evictions and deposits, search rental increase decisions, and get landlord and tenant forms and guides.",
+    "url": "https://irac.pe.ca/residential-tenancy/",
+    "tags": [
+      "prince edward island",
+      "irac",
+      "residential tenancy",
+      "rent increase",
+      "appeals"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Newfoundland and Labrador Housing Corporation — Housing Programs",
+    "level": "Agency",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "housing",
+    "type": "Provincial housing corporation programs",
+    "description": "NLHC's program hub: apply for rental housing and the Canada-NL Housing Benefit, and find home repair, down-payment and other provincial housing programs.",
+    "url": "https://www.nlhc.com/programs/housing-programs/",
+    "tags": [
+      "newfoundland and labrador",
+      "nlhc",
+      "rental housing",
+      "housing benefit",
+      "apply"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "CMHC — Housing Data, Statistics and Sources",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Housing data hub",
+    "description": "CMHC's central hub for housing data, statistics, sources and datasets: rental market, starts and completions, mortgage and affordability data tables and downloads in one place.",
+    "url": "https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data-statistics-sources-datasets",
+    "tags": [
+      "cmhc",
+      "housing data",
+      "statistics",
+      "datasets",
+      "federal"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Canada Greener Homes Affordability Program (CGHAP)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Home retrofit program",
+    "description": "Federal program giving low-to-median-income homeowners and tenants no-cost home energy retrofits (insulation, heat pumps, air sealing) delivered through provincial and territorial partners; find how to participate in your province.",
+    "url": "https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-affordability-program",
+    "tags": [
+      "federal",
+      "retrofits",
+      "heat pumps",
+      "low-income",
+      "energy efficiency"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Home Efficiency Rebate Plus (HER+) — Enbridge Gas Ontario",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "housing",
+    "type": "Home retrofit rebate program",
+    "description": "Ontario delivery of the Greener Homes rebates through Enbridge Gas: check eligibility and claim rebates for insulation, heat pumps, windows and other home-efficiency upgrades, with or without Enbridge gas service.",
+    "url": "https://www.enbridgegas.com/ontario/rebates-energy-conservation/home-efficiency-rebate-plus",
+    "tags": [
+      "ontario",
+      "enbridge",
+      "rebates",
+      "retrofits",
+      "greener homes"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "City of Toronto — Housing and Shelter Services",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "housing",
+    "type": "Municipal housing services hub",
+    "description": "Toronto's housing and shelter hub: apply for rent-geared-to-income housing (MyAccesstoHousingTO), find housing help centres, rent banks, eviction prevention and shelter and homelessness services.",
+    "url": "https://www.toronto.ca/community-people/housing-shelter/",
+    "tags": [
+      "toronto",
+      "rent-geared-to-income",
+      "housing help",
+      "rent bank",
+      "shelter"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Ottawa Community Housing (OCH)",
+    "level": "Agency",
+    "jurisdiction": "Ottawa",
+    "category": "housing",
+    "type": "Community housing provider",
+    "description": "Canada's second-largest community housing provider: Ottawa's social and affordable housing landlord for about 32,000 tenants — tenant services, maintenance requests, and links to the Social Housing Registry waitlist.",
+    "url": "https://www.och-lco.ca/",
+    "tags": [
+      "ottawa",
+      "community housing",
+      "social housing",
+      "tenants",
+      "affordable housing"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "AccessHousing — Peel Region Centralized Waiting List",
+    "level": "Agency",
+    "jurisdiction": "Peel",
+    "category": "housing",
+    "type": "Housing waitlist portal",
+    "description": "The centralized waiting list for subsidized housing in Peel Region (Mississauga, Brampton, Caledon): apply for rent-geared-to-income housing, check eligibility, and update your application and unit-size selections.",
+    "url": "https://www.myaccesshousing.org/",
+    "tags": [
+      "peel region",
+      "waiting list",
+      "subsidized housing",
+      "rent-geared-to-income",
+      "apply"
+    ],
+    "dateAdded": "2026-10-20"
   }
 ]
