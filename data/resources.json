@@ -41122,7 +41122,7 @@
     "category": "housing",
     "type": "Residential tenancies office",
     "description": "The NWT Rentals Officer (GNWT Justice): apply for orders on rent arrears, evictions, repairs and security deposits, get mediation, and download tenancy forms and fact sheets.",
-    "url": "https://www.justice.gov.nt.ca/rentals-offices/",
+    "url": "https://www.justice.gov.nt.ca/en/boards-agencies/rental-office/",
     "tags": [
       "northwest territories",
       "rentals officer",
@@ -41167,19 +41167,19 @@
     "dateAdded": "2026-10-20"
   },
   {
-    "name": "PEI Residential Tenancy Office (IRAC)",
+    "name": "PEI Residential Tenancy Office",
     "level": "Agency",
     "jurisdiction": "Prince Edward Island",
     "category": "housing",
     "type": "Residential tenancy office",
-    "description": "Prince Edward Island's Residential Tenancy Office at IRAC: file applications and appeals on rent increases, evictions and deposits, search rental increase decisions, and get landlord and tenant forms and guides.",
-    "url": "https://irac.pe.ca/residential-tenancy/",
+    "description": "Prince Edward Island's Residential Tenancy Office, led by the Director of Residential Tenancy: process landlord and tenant applications, resolve and hear rental disputes, issue orders, and set the annual allowable rent increase, with forms and guides for both sides.",
+    "url": "https://peirentaloffice.ca/",
     "tags": [
       "prince edward island",
-      "irac",
       "residential tenancy",
+      "rental office",
       "rent increase",
-      "appeals"
+      "disputes"
     ],
     "dateAdded": "2026-10-20"
   },
