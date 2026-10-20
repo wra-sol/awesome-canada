@@ -1598,6 +1598,22 @@
     ]
   },
   {
+    "name": "CPP Disability Benefits — Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "Apply for CPP disability benefits online through My Service Canada Account or by paper form: Service Canada's step-by-step application for workers whose severe and prolonged disability prevents them from working regularly, including the medical form step.",
+    "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp-disability-benefit/apply.html",
+    "tags": [
+      "cpp",
+      "disability",
+      "pensions",
+      "apply"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "Disability Tax Credit Certificate — Form T2201",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -1626,6 +1642,39 @@
       "service canada"
     ],
     "dateAdded": "2026-09-28"
+  },
+  {
+    "name": "EI Sickness Benefit — Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "Apply for Employment Insurance sickness benefits when you cannot work for medical reasons: the online application, the medical certificate and records of employment you need, and how to check your claim status afterwards.",
+    "url": "https://www.canada.ca/en/services/benefits/ei/ei-sickness/apply.html",
+    "tags": [
+      "ei",
+      "sickness",
+      "employment insurance",
+      "apply"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Guaranteed Income Supplement (GIS) — Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "Apply for the Guaranteed Income Supplement, the income-tested monthly top-up for low-income Old Age Security pensioners: check whether you were auto-enrolled, then apply online through My Service Canada Account or with forms ISP-3550/ISP-3025.",
+    "url": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/guaranteed-income-supplement/apply.html",
+    "tags": [
+      "gis",
+      "oas",
+      "seniors",
+      "low income",
+      "apply"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "National School Food Program",
@@ -1686,6 +1735,38 @@
     ]
   },
   {
+    "name": "211 Alberta",
+    "level": "Agency",
+    "jurisdiction": "Alberta",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Alberta's 211 service: search community, government and social services across Alberta — food, housing, income, mental health and seniors supports — or connect with a navigator by phone, text or chat, 24 hours a day.",
+    "url": "https://ab.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "211 British Columbia (bc211)",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "BC's 211 service: search the province-wide community resource database by keyword or topic — food, shelter, financial assistance, health and seniors supports — or talk to a Resource Navigator by phone, text or web chat; the database also serves Yukon.",
+    "url": "https://bc.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "BC Housing — Shelter Aid for Elderly Renters (SAFER)",
     "level": "Agency",
     "jurisdiction": "British Columbia",
@@ -1701,6 +1782,38 @@
       "safer"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "211 Canada",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Canada's national social-services navigator: search or dial 2-1-1 for free, confidential referrals to government and community health and social services — food, housing, income assistance, seniors and newcomer supports — 24 hours a day in more than 150 languages.",
+    "url": "https://211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "community services"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "211 Ontario",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Ontario's 211 service: search the provincial database of community, health, social and government services by topic and location, find your regional 211 service, or reach a navigator by phone, text, chat or email at any hour.",
+    "url": "https://211ontario.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Ontario Electricity Support Program (OESP)",
@@ -1720,6 +1833,23 @@
     "dateAdded": "2026-08-27"
   },
   {
+    "name": "Alberta Disability Income Assistance (AISH and ADAP)",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Alberta's disability income assistance hub: the Assured Income for the Severely Handicapped (AISH) and the Alberta Disability Assistance Program (ADAP) provide a monthly living allowance, child and health benefits to adults whose severe disability permanently or substantially impedes employment; apply through the single combined application and use the benefit estimator.",
+    "url": "https://www.alberta.ca/disability-income-assistance",
+    "tags": [
+      "aish",
+      "adap",
+      "disability",
+      "income assistance",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "Alberta Income Support",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -1731,6 +1861,22 @@
       "Alberta",
       "assistance"
     ]
+  },
+  {
+    "name": "Alberta Seniors Financial Assistance",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "One application for Alberta's seniors money programs: the income-tested Alberta Seniors Benefit, Special Needs Assistance for Seniors, and seniors dental and optical assistance — apply online with an Alberta.ca account and manage payments and claims in the same portal.",
+    "url": "https://www.alberta.ca/seniors-financial-assistance",
+    "tags": [
+      "seniors",
+      "alberta seniors benefit",
+      "dental",
+      "optical"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "BC Child Care Fee Reduction (CCFRI) Estimator",
@@ -1748,6 +1894,21 @@
       "families"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "BC Disability Assistance",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "benefits",
+    "type": "Disability assistance",
+    "description": "BC's disability assistance hub for people with the Persons with Disabilities (PWD) designation: higher monthly support and shelter rates than regular income assistance, supplements, earnings exemptions, and how the PWD designation and application work.",
+    "url": "https://www2.gov.bc.ca/gov/content/family-social-supports/services-for-people-with-disabilities/disability-assistance",
+    "tags": [
+      "pwd",
+      "disability assistance",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "BC Fair PharmaCare — Financial Calculator",
@@ -1780,6 +1941,22 @@
     ]
   },
   {
+    "name": "Manitoba — Employment and Income Assistance (EIA)",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Manitoba's social assistance program: money for basic needs and Rent Assist for Manitobans with no other way to support themselves or their families, with payment dates, how to apply in Winnipeg and rural/northern Manitoba, and disability and single-parent categories.",
+    "url": "https://www.gov.mb.ca/fs/eia/",
+    "tags": [
+      "eia",
+      "income assistance",
+      "rent assist",
+      "manitoba"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "Manitoba — Rent Assist Estimator",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -1794,6 +1971,54 @@
       "manitoba"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "New Brunswick — Financial Help Calculator",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "benefits",
+    "type": "Calculator",
+    "description": "Social Development New Brunswick's official financial help calculator: answer questions about your household and income to estimate the provincial financial help and social assistance you may qualify for before you apply.",
+    "url": "https://nbsocialdevelopment.my.site.com/calculator/s/?language=en_US",
+    "tags": [
+      "calculator",
+      "social assistance",
+      "eligibility",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "New Brunswick — Social Assistance Program",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "New Brunswick's Social Assistance Program service page on gnb.ca: monthly help with basic needs such as food, rent, utilities and clothing for residents in financial need, plus related supports like childcare, transportation and prescription drugs, and how to start an application.",
+    "url": "https://www2.gnb.ca/content/gnb/en/services/services_renderer.10295.Social_Assistance_Program.html",
+    "tags": [
+      "social assistance",
+      "new brunswick",
+      "basic needs"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Social Supports NB",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "New Brunswick's official social-supports portal: browse programs by need — social assistance, disability support, seniors, housing and long-term care — check eligibility, use the financial help calculator, and apply online through the province's Social Development services.",
+    "url": "https://socialsupportsnb.ca/",
+    "tags": [
+      "social assistance",
+      "disability",
+      "seniors",
+      "new brunswick",
+      "finder"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Newfoundland and Labrador — Accessible Vehicle Funding",
@@ -1811,6 +2036,82 @@
       "newfoundland and labrador"
     ],
     "dateAdded": "2026-10-03"
+  },
+  {
+    "name": "Newfoundland and Labrador — Income Support Program",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Newfoundland and Labrador's Income Support Program: last-resort financial help for basic needs for residents 18 and older, with eligibility rules, the telephone application (1-877-729-7888), required documents, and basic rates by family and living arrangement.",
+    "url": "https://www.gov.nl.ca/sswb/income-support/",
+    "tags": [
+      "income support",
+      "social assistance",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Northwest Territories — Income Assistance Program",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "The NWT's Income Assistance Program under ECE's Income Security Programs: financial assistance for basic and enhanced needs — food, shelter, utilities, clothing, childcare — assessed by community and family size, applied for through regional ECE Service Centres.",
+    "url": "https://www.ece.gov.nt.ca/en/services/income-security-programs/income-assistance-program",
+    "tags": [
+      "income assistance",
+      "nwt",
+      "basic needs"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Nova Scotia — Income Assistance: How to Apply",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Nova Scotia's Income Assistance application page under Employment Support and Income Assistance (ESIA): who can receive it, the documents to have ready, how to apply by phone or at a local office, and faster help in an emergency.",
+    "url": "https://novascotia.ca/coms/employment/income_assistance/HowtoApply.html",
+    "tags": [
+      "income assistance",
+      "esia",
+      "social assistance",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Nunavut — Income Assistance Program",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Nunavut's Income Assistance Program: a last-resort program helping Nunavummiut 18 and older in financial need meet basic needs, with monthly financial assessments and Productive Choices worked out with a community Income Assistance Worker.",
+    "url": "https://www.gov.nu.ca/en/social-supports/income-assistance-program",
+    "tags": [
+      "income assistance",
+      "nunavut",
+      "basic needs"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Ontario — Find Benefits and Programs",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Ontario's guided benefits finder on ontario.ca: answer a short questionnaire about your situation to get a personalized list of provincial benefits and programs you may qualify for — health, housing, child care, dental, education, income and disability supports.",
+    "url": "https://www.ontario.ca/page/find-benefits-and-programs",
+    "tags": [
+      "benefits finder",
+      "ontario",
+      "eligibility"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Ontario Disability Support Program (ODSP)",
@@ -1852,6 +2153,37 @@
     ]
   },
   {
+    "name": "Prince Edward Island — AccessAbility Supports",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "benefits",
+    "type": "Disability supports",
+    "description": "PEI's disability support program for residents under 65: financial assistance including Assured Income, plus personal, housing, community and employment supports, with a screening call and coordinator assessment to apply.",
+    "url": "https://www.princeedwardisland.ca/en/information/social-development-and-seniors/accessability-supports",
+    "tags": [
+      "disability",
+      "accessability",
+      "assured income",
+      "pei"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Prince Edward Island — Social Assistance Program",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "PEI's Social Assistance Program: financial help with food, clothing, shelter, childcare, medicine and other essentials for Islanders 18 and older whose income cannot cover basic living costs, with the screening line and appointment process to apply.",
+    "url": "https://www.princeedwardisland.ca/en/information/social-development-and-seniors/social-assistance-program",
+    "tags": [
+      "social assistance",
+      "pei",
+      "basic needs"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "Québec — Childcare Cost Calculator (subsidized vs non-subsidized)",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -1885,6 +2217,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Retraite Québec — Family Allowance",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "benefits",
+    "type": "Benefit",
+    "description": "Quebec's Family Allowance from Retraite Québec: the provincial child benefit paid to families with children under 18, including the handicapped-child supplements, with amounts by family income and the CalculAide estimator for a first application or a change in family situation.",
+    "url": "https://www.retraitequebec.gouv.qc.ca/en/citizens/children/family-allowance",
+    "tags": [
+      "family allowance",
+      "children",
+      "quebec",
+      "retraite quebec"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "Saskatchewan — SAID Income Support for People with Disabilities",
     "level": "Provincial",
     "jurisdiction": "Saskatchewan",
@@ -1900,6 +2248,37 @@
       "saskatchewan"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Saskatchewan Income Support (SIS)",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Saskatchewan's main income assistance program: monthly basic and shelter benefits for adults and families with little or no income, with current rates by household and region and online application through a Saskatchewan Account.",
+    "url": "https://www.saskatchewan.ca/residents/family-and-social-support/financial-help/saskatchewan-income-support-sis",
+    "tags": [
+      "income support",
+      "sis",
+      "social assistance",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Yukon — Apply for Social Assistance",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "benefits",
+    "type": "Income assistance",
+    "description": "Yukon's social assistance application page: financial help for residents 19 and older who cannot meet basic living costs, booked through a pre-intake call and intake appointment with a social worker, with monthly re-application through the assistance application card.",
+    "url": "https://yukon.ca/en/legal-and-social-supports/supports-adults-and-seniors/apply-social-assistance",
+    "tags": [
+      "social assistance",
+      "yukon",
+      "basic needs"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Calgary Equity Index",
@@ -10302,23 +10681,6 @@
     "dateAdded": "2026-10-15"
   },
   {
-    "name": "Beaconsfield Library",
-    "level": "Municipal",
-    "jurisdiction": "Montreal",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Beaconsfield's municipal library on the Island of Montreal: catalogue, borrowing, hours and programs via the city's official library pages.",
-    "url": "https://beaconsfield.ca/en/library",
-    "tags": [
-      "library",
-      "books",
-      "Beaconsfield",
-      "Montreal",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
     "name": "Côte Saint-Luc Public Library",
     "level": "Municipal",
     "jurisdiction": "Montreal",
@@ -13250,6 +13612,23 @@
     ]
   },
   {
+    "name": "Canada Border Services Agency — Border Services Officer Recruitment",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Recruiting portal",
+    "description": "Apply to the Border Services Officer Trainee Developmental Program, check if you qualify, and follow the candidate assessment, entrance exam and Canada Border Services College training steps.",
+    "url": "https://www.cbsa-asfc.gc.ca/job-emploi/recruitment-recrutement/menu-eng.html",
+    "tags": [
+      "border services",
+      "cbsa",
+      "recruiting",
+      "officer trainee",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "Canada Industrial Relations Board — Decisions Database",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -13268,6 +13647,23 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Canadian Coast Guard — Careers",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Recruiting portal",
+    "description": "Explore seagoing, shore-based and aviation careers with the Canadian Coast Guard, view current opportunities, find student training and co-op options, and subscribe to the Career Compass mailing list for new postings.",
+    "url": "https://www.canada.ca/en/canadian-coast-guard/corporate/careers.html",
+    "tags": [
+      "coast guard",
+      "marine",
+      "careers",
+      "students",
+      "recruiting"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "Canadian Occupational Projection System (COPS)",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -13279,6 +13675,57 @@
       "labour",
       "forecast"
     ]
+  },
+  {
+    "name": "Careers at the CRA",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Job portal",
+    "description": "Search Canada Revenue Agency job notices through its own candidate profile system, keep your profile up to date to apply and receive offers, and prepare for CRA candidate assessments and accommodation requests.",
+    "url": "https://www.canada.ca/en/revenue-agency/corporate/careers-cra.html",
+    "tags": [
+      "cra",
+      "tax",
+      "careers",
+      "candidate profile",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "CSIS Jobs",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Job portal",
+    "description": "Browse available Canadian Security Intelligence Service jobs and student opportunities and submit an online application through Canada.ca/csisjobs. Includes how to submit an application, the recruitment process, salaries and benefits.",
+    "url": "https://www.canada.ca/en/security-intelligence-service/corporate/csis-jobs.html",
+    "tags": [
+      "intelligence",
+      "csis",
+      "careers",
+      "apply online",
+      "security"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "EI Regular Benefits — Apply",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Benefit application",
+    "description": "Apply online for Employment Insurance regular benefits after a job loss, check what documents and pay details to prepare, and sign up for direct deposit. The online application takes about an hour and can be resumed within 72 hours.",
+    "url": "https://www.canada.ca/en/services/benefits/ei/ei-regular-benefit/apply.html",
+    "tags": [
+      "employment insurance",
+      "ei",
+      "benefits",
+      "apply online",
+      "job loss"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Employment and Social Development Canada — Labour Program",
@@ -13374,6 +13821,40 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Federal Student Work Experience Program (FSWEP)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Student employment program",
+    "description": "Full-time students apply to the year-round Ongoing Student Recruitment Inventory, used by 200+ departments and agencies, plus specialized student inventories. Matched students are notified by email for tests and interviews.",
+    "url": "https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html",
+    "tags": [
+      "students",
+      "federal jobs",
+      "student inventory",
+      "apply online",
+      "youth"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Foreign Credential Recognition",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Career tool",
+    "description": "Internationally trained professionals use the Foreign Credential Recognition Tool to check if their occupation is regulated, find the right regulatory body, and look up salaries and outlooks. Also search for Foreign Credential Recognition Loans and local support providers.",
+    "url": "https://www.canada.ca/en/employment-social-development/programs/foreign-credential-recognition.html",
+    "tags": [
+      "newcomers",
+      "credentials",
+      "regulated professions",
+      "loans",
+      "recognition"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "GC Jobs — Government of Canada Jobs",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -13387,6 +13868,23 @@
       "federal",
       "careers"
     ]
+  },
+  {
+    "name": "Job Bank — Search Jobs and Job Alerts",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Job search",
+    "description": "Search and filter tens of thousands of live job postings across Canada by province, salary, hours, employment group and job source, and create job alerts from your search criteria. This is Job Bank's actual search interface, distinct from the catalogued /findajob job-seeker resources hub.",
+    "url": "https://www.jobbank.gc.ca/jobsearch/",
+    "tags": [
+      "job search",
+      "job alerts",
+      "job bank",
+      "postings",
+      "filters"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Job Bank Canada — Job Search",
@@ -13426,6 +13924,23 @@
       "wages",
       "labour"
     ]
+  },
+  {
+    "name": "RCMP Careers",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Recruiting portal",
+    "description": "Apply for RCMP police officer careers or civilian careers, and explore community constable, student jobs, Reserve Program and Indigenous applicant programs. Links lead to the application process for each stream.",
+    "url": "https://rcmp.ca/en/careers-rcmp",
+    "tags": [
+      "policing",
+      "rcmp",
+      "recruiting",
+      "careers",
+      "apply online"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Red Seal Program — Skilled Trades",
@@ -13476,6 +13991,40 @@
     "dateAdded": "2026-09-26"
   },
   {
+    "name": "Skills for Success",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Career tool",
+    "description": "Find free skills assessment and training tools for the nine Skills for Success — reading, writing, numeracy, digital, problem solving, communication, creativity and innovation, collaboration and adaptability — and check how your skills measure up.",
+    "url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success.html",
+    "tags": [
+      "skills",
+      "assessment",
+      "training",
+      "career planning",
+      "esdc"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Young Canada Works in Heritage Organizations — Students",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "employment",
+    "type": "Student employment program",
+    "description": "Students aged 16–30 create an account on the Young Canada Works portal, submit a candidate profile, browse heritage jobs in museums, archives and historic sites, and express interest in positions. Jobs typically run 6–16 weeks, full- or part-time.",
+    "url": "https://www.canada.ca/en/canadian-heritage/services/funding/young-canada-works/students-graduates/heritage-organizations-students.html",
+    "tags": [
+      "students",
+      "youth",
+      "heritage",
+      "summer jobs",
+      "museums"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "Employment Standards Act Ontario — Tools",
     "level": "Federal",
     "jurisdiction": "Ontario",
@@ -13487,6 +14036,23 @@
       "labour",
       "Ontario"
     ]
+  },
+  {
+    "name": "CivicJobs.ca",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Municipal job board",
+    "description": "BC local government job board operated by CivicInfo BC. Search and apply for jobs with municipalities, regional districts and other local governments across British Columbia.",
+    "url": "https://www.civicjobs.ca/",
+    "tags": [
+      "municipal jobs",
+      "local government",
+      "job board",
+      "civicinfo bc",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Ontario — WSIB eClearance",
@@ -13503,6 +14069,23 @@
       "workers compensation",
       "ontario"
     ]
+  },
+  {
+    "name": "Alberta — Make an Employment Standards Complaint",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "employment",
+    "type": "Complaint form",
+    "description": "File an employment standards complaint or submit an anonymous tip online if an Alberta employer is not meeting minimum standards for pay, hours of work, or job-protected leaves.",
+    "url": "https://www.alberta.ca/file-employment-standards-complaint",
+    "tags": [
+      "employment standards",
+      "complaint",
+      "workers rights",
+      "wages",
+      "alberta"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Alberta Labour Statistics",
@@ -13551,6 +14134,74 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Health Match BC",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Health careers recruitment portal",
+    "description": "BC's provincial health recruitment service. Physicians, nurses and allied health professionals register to be matched with job opportunities at health employers across British Columbia.",
+    "url": "https://www.healthmatchbc.org/",
+    "tags": [
+      "health careers",
+      "recruitment",
+      "physicians",
+      "nurses",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Make a Future — BC Education Careers",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Education job board",
+    "description": "Careers portal for BC public schools, operated by the BC Public School Employers' Association. Search and apply for teaching, educational support, and district leadership jobs in school districts across British Columbia.",
+    "url": "https://www.makeafuture.ca/",
+    "tags": [
+      "education jobs",
+      "teachers",
+      "school districts",
+      "job board",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "SkilledTradesBC",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Apprenticeship portal",
+    "description": "BC's skilled trades training authority portal. Register as an apprentice or trainee, log in to manage your training record, find approved training providers and look up certification and exam information.",
+    "url": "https://skilledtradesbc.ca/",
+    "tags": [
+      "apprenticeship",
+      "skilled trades",
+      "certification",
+      "training",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "WorkBC Centres — Find a WorkBC Centre",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Employment services centre finder",
+    "description": "Find your nearest WorkBC Centre on an interactive map or regional list and get free employment services: one-on-one employment counselling, job search help, workshops, financial supports and skills-training referrals. Distinct from the WorkBC job board already catalogued.",
+    "url": "https://www.workbc.ca/get-support/workbc-centre-services",
+    "tags": [
+      "workbc",
+      "employment services",
+      "career counselling",
+      "job search help",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "WorkBC Job Board — Search Jobs",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -13595,6 +14246,40 @@
       "dashboard"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Apprenticeship Manitoba",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "employment",
+    "type": "Apprenticeship portal",
+    "description": "Apply for apprenticeship and register your Apprenticeship Agreement through the AccessManitoba portal, register and pay for technical training, and explore Manitoba's designated trades and trade qualifier certification.",
+    "url": "https://www.manitoba.ca/apprenticeship/",
+    "tags": [
+      "apprenticeship",
+      "skilled trades",
+      "accessmanitoba",
+      "technical training",
+      "manitoba"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Manitoba Jobs and Skills Development Centres",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "employment",
+    "type": "Employment services centres",
+    "description": "Manitoba's 13 Jobs and Skills Development Centres offer employment needs assessment, career counselling, job search assistance, computers for resumé writing and online applications, plus referrals to training and financial assistance programs.",
+    "url": "https://www.gov.mb.ca/wd/ites/tes/jobs_careers.html",
+    "tags": [
+      "manitoba",
+      "employment services",
+      "career counselling",
+      "job search",
+      "training"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Manitoba Workplace Safety and Health — Stop Work Orders, Penalties & Convictions",
@@ -13648,6 +14333,23 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "WorkingNB",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "employment",
+    "type": "Employment services network",
+    "description": "New Brunswick's employment services network (PETL), distinct from the NBjobs job board. Connect with a WorkingNB office for career counselling, job search support, training programs and wage subsidies for job seekers and employers.",
+    "url": "https://workingnb.ca/",
+    "tags": [
+      "workingnb",
+      "employment services",
+      "career counselling",
+      "training",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "WorkSafeNB",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -13661,6 +14363,23 @@
       "workplace safety"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Newfoundland and Labrador — Employment and Training Programs",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "employment",
+    "type": "Employment services and programs",
+    "description": "Gateway to Newfoundland and Labrador's Employment Centres and employment and training programs: get career assistance, build an employment plan, and access skills development, wage subsidy and self-employment programs through the Department of Jobs, Growth and Rural Development.",
+    "url": "https://www.gov.nl.ca/jgrd/department/branches/regional/emp-training/",
+    "tags": [
+      "employment centres",
+      "training programs",
+      "career assistance",
+      "wage subsidies",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Department of Labour, Skills and Immigration — Licensed Foreign Worker Recruiter Registry",
@@ -13678,6 +14397,40 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Nova Scotia Apprenticeship Agency",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "employment",
+    "type": "Apprenticeship portal",
+    "description": "Register as an apprentice in Nova Scotia, manage your apprenticeship online, book certification exams and explore the province's designated trades through the Nova Scotia Apprenticeship Agency.",
+    "url": "https://www.nsapprenticeship.ca/",
+    "tags": [
+      "apprenticeship",
+      "skilled trades",
+      "certification",
+      "exams",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Nova Scotia Works",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "employment",
+    "type": "Employment services network",
+    "description": "Nova Scotia's provincial employment services network. Find a local Nova Scotia Works centre for career counselling, job search assistance, training referrals and employer services.",
+    "url": "https://novascotiaworks.ca/nsdc/",
+    "tags": [
+      "nova scotia works",
+      "employment services",
+      "career counselling",
+      "job search",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "WCB Nova Scotia",
@@ -13754,6 +14507,23 @@
     ]
   },
   {
+    "name": "SkillsPEI",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "employment",
+    "type": "Employment programs portal",
+    "description": "PEI's employment and skills development division (Dept. of Workforce, Advanced Learning and Population). Browse and connect to employment programs, skills training funding and career services delivered through six Island offices. Distinct from the WorkPEI job board already catalogued.",
+    "url": "https://skillspei.com/",
+    "tags": [
+      "skillspei",
+      "employment programs",
+      "skills training",
+      "career services",
+      "prince edward island"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
     "name": "CNESST — Online Complaint Filing (Dépôt d'une plainte)",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -13804,6 +14574,40 @@
       "CSV",
       "workplace safety"
     ]
+  },
+  {
+    "name": "Health Careers Saskatchewan",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "employment",
+    "type": "Health careers portal",
+    "description": "Saskatchewan's provincial health workforce recruitment portal. Search physician, nursing and allied health opportunities across the province and connect with recruiters about practising in Saskatchewan.",
+    "url": "https://healthcareersk.ca/",
+    "tags": [
+      "health careers",
+      "recruitment",
+      "physicians",
+      "nursing",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-19"
+  },
+  {
+    "name": "Saskatchewan — File an Employment Standards Complaint",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "employment",
+    "type": "Complaint form",
+    "description": "Submit a formal or anonymous employment standards complaint online to recover unpaid wages or report violations of The Saskatchewan Employment Act, including scheduling, leave and discriminatory-action concerns.",
+    "url": "https://www.saskatchewan.ca/business/employment-standards/complaints-investigations-enforcement-and-fines/file-an-employment-standards-complaint",
+    "tags": [
+      "employment standards",
+      "complaint",
+      "unpaid wages",
+      "workers rights",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-10-19"
   },
   {
     "name": "Saskatchewan — OH&S Prosecution Outcomes and Statistics",
@@ -39813,826 +40617,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "CPP Disability Benefits — Apply",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Benefit application",
-    "description": "Apply for CPP disability benefits online through My Service Canada Account or by paper form: Service Canada's step-by-step application for workers whose severe and prolonged disability prevents them from working regularly, including the medical form step.",
-    "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp-disability-benefit/apply.html",
-    "tags": [
-      "cpp",
-      "disability",
-      "pensions",
-      "apply"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Guaranteed Income Supplement (GIS) — Apply",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Benefit application",
-    "description": "Apply for the Guaranteed Income Supplement, the income-tested monthly top-up for low-income Old Age Security pensioners: check whether you were auto-enrolled, then apply online through My Service Canada Account or with forms ISP-3550/ISP-3025.",
-    "url": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/guaranteed-income-supplement/apply.html",
-    "tags": [
-      "gis",
-      "oas",
-      "seniors",
-      "low income",
-      "apply"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "EI Sickness Benefit — Apply",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Benefit application",
-    "description": "Apply for Employment Insurance sickness benefits when you cannot work for medical reasons: the online application, the medical certificate and records of employment you need, and how to check your claim status afterwards.",
-    "url": "https://www.canada.ca/en/services/benefits/ei/ei-sickness/apply.html",
-    "tags": [
-      "ei",
-      "sickness",
-      "employment insurance",
-      "apply"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "211 Canada",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Canada's national social-services navigator: search or dial 2-1-1 for free, confidential referrals to government and community health and social services — food, housing, income assistance, seniors and newcomer supports — 24 hours a day in more than 150 languages.",
-    "url": "https://211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "community services"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Alberta Disability Income Assistance (AISH and ADAP)",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "benefits",
-    "type": "Income assistance",
-    "description": "Alberta's disability income assistance hub: the Assured Income for the Severely Handicapped (AISH) and the Alberta Disability Assistance Program (ADAP) provide a monthly living allowance, child and health benefits to adults whose severe disability permanently or substantially impedes employment; apply through the single combined application and use the benefit estimator.",
-    "url": "https://www.alberta.ca/disability-income-assistance",
-    "tags": [
-      "aish",
-      "adap",
-      "disability",
-      "income assistance",
-      "alberta"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Alberta Seniors Financial Assistance",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "benefits",
-    "type": "Benefit application",
-    "description": "One application for Alberta's seniors money programs: the income-tested Alberta Seniors Benefit, Special Needs Assistance for Seniors, and seniors dental and optical assistance — apply online with an Alberta.ca account and manage payments and claims in the same portal.",
-    "url": "https://www.alberta.ca/seniors-financial-assistance",
-    "tags": [
-      "seniors",
-      "alberta seniors benefit",
-      "dental",
-      "optical"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Saskatchewan Income Support (SIS)",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "benefits",
-    "type": "Income assistance",
-    "description": "Saskatchewan's main income assistance program: monthly basic and shelter benefits for adults and families with little or no income, with current rates by household and region and online application through a Saskatchewan Account.",
-    "url": "https://www.saskatchewan.ca/residents/family-and-social-support/financial-help/saskatchewan-income-support-sis",
-    "tags": [
-      "income support",
-      "sis",
-      "social assistance",
-      "saskatchewan"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Manitoba — Employment and Income Assistance (EIA)",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "benefits",
-    "type": "Income assistance",
-    "description": "Manitoba's social assistance program: money for basic needs and Rent Assist for Manitobans with no other way to support themselves or their families, with payment dates, how to apply in Winnipeg and rural/northern Manitoba, and disability and single-parent categories.",
-    "url": "https://www.gov.mb.ca/fs/eia/",
-    "tags": [
-      "eia",
-      "income assistance",
-      "rent assist",
-      "manitoba"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Nova Scotia — Income Assistance: How to Apply",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "benefits",
-    "type": "Income assistance",
-    "description": "Nova Scotia's Income Assistance application page under Employment Support and Income Assistance (ESIA): who can receive it, the documents to have ready, how to apply by phone or at a local office, and faster help in an emergency.",
-    "url": "https://novascotia.ca/coms/employment/income_assistance/HowtoApply.html",
-    "tags": [
-      "income assistance",
-      "esia",
-      "social assistance",
-      "nova scotia"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Social Supports NB",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "New Brunswick's official social-supports portal: browse programs by need — social assistance, disability support, seniors, housing and long-term care — check eligibility, use the financial help calculator, and apply online through the province's Social Development services.",
-    "url": "https://socialsupportsnb.ca/",
-    "tags": [
-      "social assistance",
-      "disability",
-      "seniors",
-      "new brunswick",
-      "finder"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "New Brunswick — Social Assistance Program",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "benefits",
-    "type": "Income assistance",
-    "description": "New Brunswick's Social Assistance Program service page on gnb.ca: monthly help with basic needs such as food, rent, utilities and clothing for residents in financial need, plus related supports like childcare, transportation and prescription drugs, and how to start an application.",
-    "url": "https://www2.gnb.ca/content/gnb/en/services/services_renderer.10295.Social_Assistance_Program.html",
-    "tags": [
-      "social assistance",
-      "new brunswick",
-      "basic needs"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "New Brunswick — Financial Help Calculator",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "benefits",
-    "type": "Calculator",
-    "description": "Social Development New Brunswick's official financial help calculator: answer questions about your household and income to estimate the provincial financial help and social assistance you may qualify for before you apply.",
-    "url": "https://nbsocialdevelopment.my.site.com/calculator/s/?language=en_US",
-    "tags": [
-      "calculator",
-      "social assistance",
-      "eligibility",
-      "new brunswick"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Prince Edward Island — Social Assistance Program",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "benefits",
-    "type": "Income assistance",
-    "description": "PEI's Social Assistance Program: financial help with food, clothing, shelter, childcare, medicine and other essentials for Islanders 18 and older whose income cannot cover basic living costs, with the screening line and appointment process to apply.",
-    "url": "https://www.princeedwardisland.ca/en/information/social-development-and-seniors/social-assistance-program",
-    "tags": [
-      "social assistance",
-      "pei",
-      "basic needs"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Prince Edward Island — AccessAbility Supports",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "benefits",
-    "type": "Disability supports",
-    "description": "PEI's disability support program for residents under 65: financial assistance including Assured Income, plus personal, housing, community and employment supports, with a screening call and coordinator assessment to apply.",
-    "url": "https://www.princeedwardisland.ca/en/information/social-development-and-seniors/accessability-supports",
-    "tags": [
-      "disability",
-      "accessability",
-      "assured income",
-      "pei"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Newfoundland and Labrador — Income Support Program",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "benefits",
-    "type": "Income assistance",
-    "description": "Newfoundland and Labrador's Income Support Program: last-resort financial help for basic needs for residents 18 and older, with eligibility rules, the telephone application (1-877-729-7888), required documents, and basic rates by family and living arrangement.",
-    "url": "https://www.gov.nl.ca/sswb/income-support/",
-    "tags": [
-      "income support",
-      "social assistance",
-      "newfoundland and labrador"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Northwest Territories — Income Assistance Program",
-    "level": "Provincial",
-    "jurisdiction": "Northwest Territories",
-    "category": "benefits",
-    "type": "Income assistance",
-    "description": "The NWT's Income Assistance Program under ECE's Income Security Programs: financial assistance for basic and enhanced needs — food, shelter, utilities, clothing, childcare — assessed by community and family size, applied for through regional ECE Service Centres.",
-    "url": "https://www.ece.gov.nt.ca/en/services/income-security-programs/income-assistance-program",
-    "tags": [
-      "income assistance",
-      "nwt",
-      "basic needs"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Nunavut — Income Assistance Program",
-    "level": "Provincial",
-    "jurisdiction": "Nunavut",
-    "category": "benefits",
-    "type": "Income assistance",
-    "description": "Nunavut's Income Assistance Program: a last-resort program helping Nunavummiut 18 and older in financial need meet basic needs, with monthly financial assessments and Productive Choices worked out with a community Income Assistance Worker.",
-    "url": "https://www.gov.nu.ca/en/social-supports/income-assistance-program",
-    "tags": [
-      "income assistance",
-      "nunavut",
-      "basic needs"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Yukon — Apply for Social Assistance",
-    "level": "Provincial",
-    "jurisdiction": "Yukon",
-    "category": "benefits",
-    "type": "Income assistance",
-    "description": "Yukon's social assistance application page: financial help for residents 19 and older who cannot meet basic living costs, booked through a pre-intake call and intake appointment with a social worker, with monthly re-application through the assistance application card.",
-    "url": "https://yukon.ca/en/legal-and-social-supports/supports-adults-and-seniors/apply-social-assistance",
-    "tags": [
-      "social assistance",
-      "yukon",
-      "basic needs"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "BC Disability Assistance",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "benefits",
-    "type": "Disability assistance",
-    "description": "BC's disability assistance hub for people with the Persons with Disabilities (PWD) designation: higher monthly support and shelter rates than regular income assistance, supplements, earnings exemptions, and how the PWD designation and application work.",
-    "url": "https://www2.gov.bc.ca/gov/content/family-social-supports/services-for-people-with-disabilities/disability-assistance",
-    "tags": [
-      "pwd",
-      "disability assistance",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Ontario — Find Benefits and Programs",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Ontario's guided benefits finder on ontario.ca: answer a short questionnaire about your situation to get a personalized list of provincial benefits and programs you may qualify for — health, housing, child care, dental, education, income and disability supports.",
-    "url": "https://www.ontario.ca/page/find-benefits-and-programs",
-    "tags": [
-      "benefits finder",
-      "ontario",
-      "eligibility"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Retraite Québec — Family Allowance",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "benefits",
-    "type": "Benefit",
-    "description": "Quebec's Family Allowance from Retraite Québec: the provincial child benefit paid to families with children under 18, including the handicapped-child supplements, with amounts by family income and the CalculAide estimator for a first application or a change in family situation.",
-    "url": "https://www.retraitequebec.gouv.qc.ca/en/citizens/children/family-allowance",
-    "tags": [
-      "family allowance",
-      "children",
-      "quebec",
-      "retraite quebec"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "211 British Columbia (bc211)",
-    "level": "Agency",
-    "jurisdiction": "British Columbia",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "BC's 211 service: search the province-wide community resource database by keyword or topic — food, shelter, financial assistance, health and seniors supports — or talk to a Resource Navigator by phone, text or web chat; the database also serves Yukon.",
-    "url": "https://bc.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "211 Alberta",
-    "level": "Agency",
-    "jurisdiction": "Alberta",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Alberta's 211 service: search community, government and social services across Alberta — food, housing, income, mental health and seniors supports — or connect with a navigator by phone, text or chat, 24 hours a day.",
-    "url": "https://ab.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "alberta"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "211 Ontario",
-    "level": "Agency",
-    "jurisdiction": "Ontario",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Ontario's 211 service: search the provincial database of community, health, social and government services by topic and location, find your regional 211 service, or reach a navigator by phone, text, chat or email at any hour.",
-    "url": "https://211ontario.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "WorkBC Centres — Find a WorkBC Centre",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "employment",
-    "type": "Employment services centre finder",
-    "description": "Find your nearest WorkBC Centre on an interactive map or regional list and get free employment services: one-on-one employment counselling, job search help, workshops, financial supports and skills-training referrals. Distinct from the WorkBC job board already catalogued.",
-    "url": "https://www.workbc.ca/get-support/workbc-centre-services",
-    "tags": [
-      "workbc",
-      "employment services",
-      "career counselling",
-      "job search help",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Nova Scotia Works",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "employment",
-    "type": "Employment services network",
-    "description": "Nova Scotia's provincial employment services network. Find a local Nova Scotia Works centre for career counselling, job search assistance, training referrals and employer services.",
-    "url": "https://novascotiaworks.ca/nsdc/",
-    "tags": [
-      "nova scotia works",
-      "employment services",
-      "career counselling",
-      "job search",
-      "nova scotia"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "WorkingNB",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "employment",
-    "type": "Employment services network",
-    "description": "New Brunswick's employment services network (PETL), distinct from the NBjobs job board. Connect with a WorkingNB office for career counselling, job search support, training programs and wage subsidies for job seekers and employers.",
-    "url": "https://workingnb.ca/",
-    "tags": [
-      "workingnb",
-      "employment services",
-      "career counselling",
-      "training",
-      "new brunswick"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Manitoba Jobs and Skills Development Centres",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "employment",
-    "type": "Employment services centres",
-    "description": "Manitoba's 13 Jobs and Skills Development Centres offer employment needs assessment, career counselling, job search assistance, computers for resumé writing and online applications, plus referrals to training and financial assistance programs.",
-    "url": "https://www.gov.mb.ca/wd/ites/tes/jobs_careers.html",
-    "tags": [
-      "manitoba",
-      "employment services",
-      "career counselling",
-      "job search",
-      "training"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Newfoundland and Labrador — Employment and Training Programs",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "employment",
-    "type": "Employment services and programs",
-    "description": "Gateway to Newfoundland and Labrador's Employment Centres and employment and training programs: get career assistance, build an employment plan, and access skills development, wage subsidy and self-employment programs through the Department of Jobs, Growth and Rural Development.",
-    "url": "https://www.gov.nl.ca/jgrd/department/branches/regional/emp-training/",
-    "tags": [
-      "employment centres",
-      "training programs",
-      "career assistance",
-      "wage subsidies",
-      "newfoundland and labrador"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "SkillsPEI",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "employment",
-    "type": "Employment programs portal",
-    "description": "PEI's employment and skills development division (Dept. of Workforce, Advanced Learning and Population). Browse and connect to employment programs, skills training funding and career services delivered through six Island offices. Distinct from the WorkPEI job board already catalogued.",
-    "url": "https://skillspei.com/",
-    "tags": [
-      "skillspei",
-      "employment programs",
-      "skills training",
-      "career services",
-      "prince edward island"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Health Match BC",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "employment",
-    "type": "Health careers recruitment portal",
-    "description": "BC's provincial health recruitment service. Physicians, nurses and allied health professionals register to be matched with job opportunities at health employers across British Columbia.",
-    "url": "https://www.healthmatchbc.org/",
-    "tags": [
-      "health careers",
-      "recruitment",
-      "physicians",
-      "nurses",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Health Careers Saskatchewan",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "employment",
-    "type": "Health careers portal",
-    "description": "Saskatchewan's provincial health workforce recruitment portal. Search physician, nursing and allied health opportunities across the province and connect with recruiters about practising in Saskatchewan.",
-    "url": "https://healthcareersk.ca/",
-    "tags": [
-      "health careers",
-      "recruitment",
-      "physicians",
-      "nursing",
-      "saskatchewan"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Make a Future — BC Education Careers",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "employment",
-    "type": "Education job board",
-    "description": "Careers portal for BC public schools, operated by the BC Public School Employers' Association. Search and apply for teaching, educational support, and district leadership jobs in school districts across British Columbia.",
-    "url": "https://www.makeafuture.ca/",
-    "tags": [
-      "education jobs",
-      "teachers",
-      "school districts",
-      "job board",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "CivicJobs.ca",
-    "level": "Agency",
-    "jurisdiction": "British Columbia",
-    "category": "employment",
-    "type": "Municipal job board",
-    "description": "BC local government job board operated by CivicInfo BC. Search and apply for jobs with municipalities, regional districts and other local governments across British Columbia.",
-    "url": "https://www.civicjobs.ca/",
-    "tags": [
-      "municipal jobs",
-      "local government",
-      "job board",
-      "civicinfo bc",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "SkilledTradesBC",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "employment",
-    "type": "Apprenticeship portal",
-    "description": "BC's skilled trades training authority portal. Register as an apprentice or trainee, log in to manage your training record, find approved training providers and look up certification and exam information.",
-    "url": "https://skilledtradesbc.ca/",
-    "tags": [
-      "apprenticeship",
-      "skilled trades",
-      "certification",
-      "training",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Nova Scotia Apprenticeship Agency",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "employment",
-    "type": "Apprenticeship portal",
-    "description": "Register as an apprentice in Nova Scotia, manage your apprenticeship online, book certification exams and explore the province's designated trades through the Nova Scotia Apprenticeship Agency.",
-    "url": "https://www.nsapprenticeship.ca/",
-    "tags": [
-      "apprenticeship",
-      "skilled trades",
-      "certification",
-      "exams",
-      "nova scotia"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Apprenticeship Manitoba",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "employment",
-    "type": "Apprenticeship portal",
-    "description": "Apply for apprenticeship and register your Apprenticeship Agreement through the AccessManitoba portal, register and pay for technical training, and explore Manitoba's designated trades and trade qualifier certification.",
-    "url": "https://www.manitoba.ca/apprenticeship/",
-    "tags": [
-      "apprenticeship",
-      "skilled trades",
-      "accessmanitoba",
-      "technical training",
-      "manitoba"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Alberta — Make an Employment Standards Complaint",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "employment",
-    "type": "Complaint form",
-    "description": "File an employment standards complaint or submit an anonymous tip online if an Alberta employer is not meeting minimum standards for pay, hours of work, or job-protected leaves.",
-    "url": "https://www.alberta.ca/file-employment-standards-complaint",
-    "tags": [
-      "employment standards",
-      "complaint",
-      "workers rights",
-      "wages",
-      "alberta"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Saskatchewan — File an Employment Standards Complaint",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "employment",
-    "type": "Complaint form",
-    "description": "Submit a formal or anonymous employment standards complaint online to recover unpaid wages or report violations of The Saskatchewan Employment Act, including scheduling, leave and discriminatory-action concerns.",
-    "url": "https://www.saskatchewan.ca/business/employment-standards/complaints-investigations-enforcement-and-fines/file-an-employment-standards-complaint",
-    "tags": [
-      "employment standards",
-      "complaint",
-      "unpaid wages",
-      "workers rights",
-      "saskatchewan"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Federal Student Work Experience Program (FSWEP)",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Student employment program",
-    "description": "Full-time students apply to the year-round Ongoing Student Recruitment Inventory, used by 200+ departments and agencies, plus specialized student inventories. Matched students are notified by email for tests and interviews.",
-    "url": "https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html",
-    "tags": [
-      "students",
-      "federal jobs",
-      "student inventory",
-      "apply online",
-      "youth"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "RCMP Careers",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Recruiting portal",
-    "description": "Apply for RCMP police officer careers or civilian careers, and explore community constable, student jobs, Reserve Program and Indigenous applicant programs. Links lead to the application process for each stream.",
-    "url": "https://rcmp.ca/en/careers-rcmp",
-    "tags": [
-      "policing",
-      "rcmp",
-      "recruiting",
-      "careers",
-      "apply online"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "EI Regular Benefits — Apply",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Benefit application",
-    "description": "Apply online for Employment Insurance regular benefits after a job loss, check what documents and pay details to prepare, and sign up for direct deposit. The online application takes about an hour and can be resumed within 72 hours.",
-    "url": "https://www.canada.ca/en/services/benefits/ei/ei-regular-benefit/apply.html",
-    "tags": [
-      "employment insurance",
-      "ei",
-      "benefits",
-      "apply online",
-      "job loss"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Job Bank — Search Jobs and Job Alerts",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Job search",
-    "description": "Search and filter tens of thousands of live job postings across Canada by province, salary, hours, employment group and job source, and create job alerts from your search criteria. This is Job Bank's actual search interface, distinct from the catalogued /findajob job-seeker resources hub.",
-    "url": "https://www.jobbank.gc.ca/jobsearch/",
-    "tags": [
-      "job search",
-      "job alerts",
-      "job bank",
-      "postings",
-      "filters"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Foreign Credential Recognition",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Career tool",
-    "description": "Internationally trained professionals use the Foreign Credential Recognition Tool to check if their occupation is regulated, find the right regulatory body, and look up salaries and outlooks. Also search for Foreign Credential Recognition Loans and local support providers.",
-    "url": "https://www.canada.ca/en/employment-social-development/programs/foreign-credential-recognition.html",
-    "tags": [
-      "newcomers",
-      "credentials",
-      "regulated professions",
-      "loans",
-      "recognition"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Skills for Success",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Career tool",
-    "description": "Find free skills assessment and training tools for the nine Skills for Success — reading, writing, numeracy, digital, problem solving, communication, creativity and innovation, collaboration and adaptability — and check how your skills measure up.",
-    "url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success.html",
-    "tags": [
-      "skills",
-      "assessment",
-      "training",
-      "career planning",
-      "esdc"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Canada Border Services Agency — Border Services Officer Recruitment",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Recruiting portal",
-    "description": "Apply to the Border Services Officer Trainee Developmental Program, check if you qualify, and follow the candidate assessment, entrance exam and Canada Border Services College training steps.",
-    "url": "https://www.cbsa-asfc.gc.ca/job-emploi/recruitment-recrutement/menu-eng.html",
-    "tags": [
-      "border services",
-      "cbsa",
-      "recruiting",
-      "officer trainee",
-      "apply online"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "CSIS Jobs",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Job portal",
-    "description": "Browse available Canadian Security Intelligence Service jobs and student opportunities and submit an online application through Canada.ca/csisjobs. Includes how to submit an application, the recruitment process, salaries and benefits.",
-    "url": "https://www.canada.ca/en/security-intelligence-service/corporate/csis-jobs.html",
-    "tags": [
-      "intelligence",
-      "csis",
-      "careers",
-      "apply online",
-      "security"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Young Canada Works in Heritage Organizations — Students",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Student employment program",
-    "description": "Students aged 16–30 create an account on the Young Canada Works portal, submit a candidate profile, browse heritage jobs in museums, archives and historic sites, and express interest in positions. Jobs typically run 6–16 weeks, full- or part-time.",
-    "url": "https://www.canada.ca/en/canadian-heritage/services/funding/young-canada-works/students-graduates/heritage-organizations-students.html",
-    "tags": [
-      "students",
-      "youth",
-      "heritage",
-      "summer jobs",
-      "museums"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Careers at the CRA",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Job portal",
-    "description": "Search Canada Revenue Agency job notices through its own candidate profile system, keep your profile up to date to apply and receive offers, and prepare for CRA candidate assessments and accommodation requests.",
-    "url": "https://www.canada.ca/en/revenue-agency/corporate/careers-cra.html",
-    "tags": [
-      "cra",
-      "tax",
-      "careers",
-      "candidate profile",
-      "apply online"
-    ],
-    "dateAdded": "2026-10-19"
-  },
-  {
-    "name": "Canadian Coast Guard — Careers",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "employment",
-    "type": "Recruiting portal",
-    "description": "Explore seagoing, shore-based and aviation careers with the Canadian Coast Guard, view current opportunities, find student training and co-op options, and subscribe to the Career Compass mailing list for new postings.",
-    "url": "https://www.canada.ca/en/canadian-coast-guard/corporate/careers.html",
-    "tags": [
-      "coast guard",
-      "marine",
-      "careers",
-      "students",
-      "recruiting"
-    ],
-    "dateAdded": "2026-10-19"
   }
 ]

@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2572 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2571 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -50,7 +50,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚡ Energy & Utilities](#energy-and-utilities) — 59
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 166
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 92
@@ -3309,7 +3309,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BAnQ numérique | Quebec · Provincial | Digital heritage portal | Browse and download Quebec's digitized heritage — newspapers, maps, photos, civil registers and notarial archives — including 100,000+ freely reusable public-domain documents. | https://numerique.banq.qc.ca/ |
 | BAnQ Pistard | Quebec · Provincial | Archive search | Bibliothèque et Archives nationales du Québec's archival-records search tool (Pistard): search descriptions and digitized documents across Quebec's national archival holdings — civil registers, notarial archives, photographs, maps — searchable by keyword, name, place and date. | https://pistard.banq.qc.ca |
 | Bibliothèque de Gatineau | Gatineau · Municipal | Public library | Gatineau's municipal library network in Quebec: membership, catalogue search, online resources, branch addresses and hours, and activities across the city's libraries. In French. | https://www.gatineau.ca/bibliotheque |
-| Beaconsfield Library | Montreal · Municipal | Public library | Beaconsfield's municipal library on the Island of Montreal: catalogue, borrowing, hours and programs via the city's official library pages. | https://beaconsfield.ca/en/library |
 | Côte Saint-Luc Public Library | Montreal · Municipal | Public library | The Eleanor London Côte Saint-Luc Public Library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services. | https://csllibrary.com/ |
 | Montreal Open Data showcase | Montreal · Municipal | App gallery | Gallery of applications built from Montreal open data | https://donnees.montreal.ca/en/showcase |
 | Pointe-Claire Public Library | Montreal · Municipal | Public library | Pointe-Claire's public library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services. | https://biblio.pointe-claire.ca/ |
