@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2571 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2592 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -34,8 +34,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 40
 - [🏢 Business & Procurement](#business-and-procurement) — 66
 - [💼 Employment & Labour](#employment-and-labour) — 66
-- [🎓 Education & Student Aid](#education-and-student-aid) — 36
-- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 56
+- [🎓 Education & Student Aid](#education-and-student-aid) — 56
+- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 57
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
 - [🩺 Health & Wellness](#health-and-wellness) — 123
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
@@ -1359,16 +1359,22 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canada Apprentice Loan | Canada · Federal | Apprenticeship loan | Interest-free federal loans of up to $4,000 per period of technical training for apprentices in designated Red Seal trades, to cover tuition, tools, equipment and living expenses; links to the online application service. | https://www.canada.ca/en/employment-social-development/services/apprentices/loan.html |
+| Canada Student Loans — Repayment Assistance Plan | Canada · Federal | Repayment assistance | Explains and routes applications for the Repayment Assistance Plan and Repayment Assistance Plan for Borrowers with Disabilities, which can reduce or pause Canada Student Loan payments, plus the Severe Permanent Disability Benefit and Canada Student Loan Forgiveness. | https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans/repay/assistance.html |
 | Canada Student Loans and Grants | Canada · Federal | Financial aid | Apply for federal student loans and grants, manage your loan, and explore repayment assistance options | https://www.canada.ca/en/services/benefits/education/student-aid.html |
 | National Student Loans Service Centre | Canada · Federal | Student aid | Federal portal for Canada Student Loans: manage your loan account, apply for repayment assistance, and make payments. | https://www.csnpe-nslsc.canada.ca/ |
 | PoliTalks — CIVIX Case Studies | Canada · Federal | Civic education resource | Free bilingual (EN/FR) library of case studies on Canadian political and social issues — voting age, pipelines, social media regulation, healthcare privatization — for classroom discussion, with protocols from CIVIX's non-partisan Constructive Discussions guide. Run by CIVIX, a non-partisan registered charity. | https://politalks.ca/case-studies/ |
+| Post-Secondary Student Support Program (PSSSP) | Canada · Federal | Indigenous student funding | Indigenous Services Canada program that funds First Nations students' post-secondary tuition, books, travel and living allowances through their First Nation or a First Nations-designated organization; explains eligibility, maximums and how to apply locally. | https://sac-isc.gc.ca/eng/1100100033682/1531933580211 |
 | The Civics Project | Canada · Federal | Political database | Plain-language summaries of federal and provincial bills, votes, and representatives - the largest political database in Canada, built for citizens, journalists, and researchers. Non-partisan civic education. | https://civicsproject.org |
 
 ### British Columbia
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC Transfer Guide | British Columbia · Agency | Transfer credit tool | BCCAT's official guide to how courses and programs transfer between B.C. post-secondary institutions: look up course equivalencies and block-transfer agreements before you enrol or change institutions. | https://www.bctransferguide.ca/ |
+| EducationPlannerBC | British Columbia · Agency | Application portal | British Columbia's central post-secondary planning and application service: search programs and institutions, compare tuition and length, and apply to any of B.C.'s 25 public post-secondary institutions from one account. | https://educationplannerbc.ca/ |
 | B.C. Education System Performance (Student Success) | British Columbia · Provincial | Data dashboard | Ministry of Education and Child Care tool to look up K-12 data by school district or city: enrolment, completion rates, FSA and graduation assessments, Indigenous student outcomes, child care. | https://studentsuccess.gov.bc.ca/ |
+| BC StudentTranscripts Service — Order Transcripts and Certificates | British Columbia · Provincial | Transcript service | The StudentTranscripts Service (STS) lets current and former B.C. and Yukon K-12 students view marks, provincial exam and graduation assessment results and scholarships, and order or send high school transcripts and graduation certificates to post-secondary institutions and employers. | https://www2.gov.bc.ca/gov/content/education-training/k-12/support/transcripts-and-certificates |
 | FNESC — How Are We Doing? Report | British Columbia · Provincial | Annual report | The First Nations Education Steering Committee's (British Columbia) public performance and accountability report on First Nations student outcomes — for educators, parents, researchers and education policymakers. | https://www.fnesc.ca/how-are-we-doing-report/ |
 | StudentAid BC | British Columbia · Provincial | Student aid | Apply for BC loans, grants, and scholarships; calculate eligibility; repay student debt | https://studentaidbc.ca/ |
 
@@ -1379,6 +1385,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta Student Aid | Alberta · Provincial | Student aid | Apply for Alberta loans, grants, and scholarships with an account dashboard | https://studentaid.alberta.ca/ |
 | ApplyAlberta | Alberta · Provincial | Service | Central application service for Alberta post-secondary institutions | https://www.applyalberta.ca/ |
 | Education & Childcare — Childcare Search | Alberta · Provincial | Lookup tool | Search licensed daycares, preschools and family day-home agencies by city, postal code, age and type; map view plus 18 months of non-compliance history. | https://childcare.alberta.ca/childcaresearch |
+| myPass — Alberta Student Records and Diploma Services | Alberta · Provincial | Student records portal | Alberta Education's secure self-service portal for high school students: order official transcripts, view diploma exam marks and PAT results, register to write or rewrite diploma exams, view a Detailed Academic Report and track progress toward a diploma or certificate. | https://public.education.alberta.ca/PASI/mypass/welcome |
+| Transfer Alberta — ACAT Search Tool | Alberta · Provincial | Transfer credit tool | Alberta Council on Admissions and Transfer (ACAT) search tool for the Alberta Transfer System: find thousands of by-course and by-program transfer decisions between Alberta post-secondary institutions, plus high school transitions, IB/AP and dual-credit information. | https://transferalberta.alberta.ca/ |
 
 ### Saskatchewan
 
@@ -1386,12 +1394,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ministry of Education — Regulated Child Care Finder | Saskatchewan · Provincial | Lookup tool | Search 1,380 regulated child-care centres and homes on an interactive map; filter by infants, extended/24-hour hours, francophone and teen-parent programs. | https://www.saskatchewan.ca/residents/family-and-social-support/child-care/find-a-child-care-provider-in-my-community |
 | Saskatchewan Apprenticeship & Trade Certification Commission — Trade Certification Verification | Saskatchewan · Provincial | Credential lookup | Online registry to verify whether someone is a registered Saskatchewan apprentice or holds a journeyperson/Red Seal certificate, searchable by name and certification number. | https://saskapprenticeship.ca/check-credentials/ |
+| Saskatchewan High School and Adult 12 Transcripts (MyCreds) | Saskatchewan · Provincial | Transcript service | Request a Saskatchewan high school or Adult 12 transcript through the Ministry of Education; the verified record is delivered to the MyCreds learner portal, where you can view it and purchase share credits to send it to employers and post-secondary institutions. | https://www.saskatchewan.ca/residents/education-and-learning/credits-degrees-and-transcripts/requesting-transcripts-for-high-school |
 | Saskatchewan Student Aid | Saskatchewan · Provincial | Student aid hub | Official hub for Saskatchewan student aid: apply online once and be assessed for provincial and federal loans, grants, scholarships, bursaries, disability grants and loan forgiveness. | https://www.saskatchewan.ca/studentloans |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| eCourses Manitoba (Campus Manitoba) | Manitoba · Agency | Online course catalogue | Campus Manitoba's catalogue of online courses from Manitoba universities and colleges: browse certificate, diploma, degree and professional-learning courses and check which credits transfer between Manitoba institutions. | https://ecoursesmb.ca/ |
 | Manitoba Student Aid | Manitoba · Provincial | Student assistance | Manitoba's provincial student financial assistance program: apply for loans and grants, estimate awards, and manage repayment. | https://www.edu.gov.mb.ca/msa/ |
 
 ### Ontario
@@ -1400,7 +1410,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | OCAS — Ontario College Application | Ontario · Agency | Service | Central application portal for Ontario's public colleges | https://www.ontariocolleges.ca/ |
 | Ontario — OCT Find a Teacher Register | Ontario · Agency | Licence registry search | Search the public register of every certified Ontario teacher by name or OCT number to see qualifications, certification status and any disciplinary findings. | https://apps.oct.ca/findateacher/members |
+| ONTransfer — Ontario Transfer Pathways and Credit Transfer | Ontario · Agency | Transfer credit tool | Ontario's official transfer website from ONCAT: search transfer pathways and course-to-course credit agreements among publicly assisted colleges, universities and Indigenous Institutes, and check each institution's admission, transfer credit and PLAR policies. | https://ontransfer.ca/i/ontransfer+home |
 | OUAC — Ontario Universities' Application Centre | Ontario · Agency | Service | Apply online to Ontario universities using a single OUAC application | https://www.ouac.on.ca/ |
+| OUInfo — Ontario Universities Program Finder | Ontario · Agency | Program finder | Search and compare programs at all Ontario universities by program, university or keyword, with admission requirements, prerequisites, deadlines and residence information. The research companion to the OUAC application centre, which is catalogued separately. | https://ouinfo.ca/ |
+| TVO ILC — Ontario Online High School | Ontario · Agency | Online school | TVO's Independent Learning Centre, Ontario's designated provider of distance high school education: enrol in online Grade 9-12 courses to earn an Ontario Secondary School Diploma, upgrade marks for post-secondary admission, or prepare for the CAEC high school equivalency. | https://www.ilc.org/ |
 | EQAO — Standardized Assessment Results | Ontario · Provincial | Test results | Education Quality and Accountability Office: provincial test results for Grades 3, 6, 9, and OSSLT literacy, with school- and board-level reports downloadable as datasets. | https://www.eqao.com/ |
 | OSAP — Ontario Student Assistance Program | Ontario · Provincial | Student aid | Apply for Ontario student loans and grants, estimate aid, and track your application status | https://www.ontario.ca/page/osap-ontario-student-assistance-program |
 | Skilled Trades Ontario — Apprenticeship Registry | Ontario · Provincial | Trades certification | Official body for Ontario apprenticeship and trade certification: apprentice registration, trade exam schedules, certified rosters, and apprenticeship completion data. | https://www.skilledtradesontario.ca/ |
@@ -1409,8 +1422,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| SRACQ — Service régional d'admission au collégial de Québec | Quebec · Agency | Application service | Regional admission service for public colleges in the Quebec City and eastern Quebec region: submit one online application to member CEGEPs, consult programs and available places, and follow admission deadlines and decisions. | https://www.sracq.qc.ca/ |
+| SRAM — Quebec CEGEP Admission Service (Montreal Region) | Quebec · Agency | Application portal | Service régional d'admission du Montréal métropolitain: the single admission service for 32 public CEGEPs in Quebec. Browse more than 100 programs and available places, check round deadlines, and submit one application at admission.sram.qc.ca. | https://sram.qc.ca/ |
 | Aide financière aux études (Quebec) | Quebec · Provincial | Student aid | Quebec's loans and bursaries program for full- and part-time post-secondary students | https://www.quebec.ca/education/aide-financiere-aux-etudes |
+| Inforoute FPT — Quebec Vocational and Technical Training Finder | Quebec · Provincial | Program finder | Quebec's official finder for vocational training (DEP) and technical training programs: search programs by trade, region and training centre, compare duration and conditions, and find where each program is offered across the province. | https://www.inforoutefpt.org/ |
+| Mozaïk Portail Parents — Quebec Parent Portal | Quebec · Provincial | Parent portal | GRICS Mozaïk parent portal used across Quebec's public school service centres: view report cards and student results, schedules, homework, and report or explain absences and lates for all of your children in one place. | https://portailparents.ca/accueil/ |
 | Québec — Student Financial Assistance (AFE) | Quebec · Provincial | Student aid | Québec's loans and bursaries program — eligibility simulators and online application | https://www.quebec.ca/en/education/student-financial-assistance |
+| Quebec Childcare Services Registration Portal (formerly La Place 0-5) | Quebec · Provincial | Childcare registration portal | Quebec's single registration portal that replaced La Place 0-5 in 2025: register a child for subsidized CPE and daycare spaces under one uniform admissions policy, track the waiting-list rank indicator, and receive a referral when a space opens. | https://www.quebec.ca/en/family-and-support-for-individuals/childhood/childcare-centres/registration-portal |
 | Tableau de bord de l'éducation (MEQ) | Quebec · Provincial | Statistics dashboard | MEQ indicators for preschool-to-secondary education: enrolment, graduation/qualification rates, ministerial exam results, dropouts, teacher vacancies; charts by region and school organization. | https://www.quebec.ca/education/indicateurs-statistiques/prescolaire-primaire-secondaire/tableau-de-bord |
 
 ### Atlantic Canada (NB, NS, PE, NL)
@@ -1420,9 +1438,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Department of Education and Early Childhood Development — Child Care Finder | New Brunswick · Provincial | Lookup tool | Map-search licensed early-learning and childcare sites by community or name; filter by age, open spaces, designation, language and district. | https://www.nbed.nb.ca/parentportal/en/Search/Elc/ |
 | NB Student Aid Portal | New Brunswick · Provincial | Student aid portal | Secure NB Student Aid account: apply for full-time student aid online, upload supporting documents and receive electronic correspondence; one application is assessed for the Canada-New Brunswick Integrated Student Loan, grants and bursaries. | https://studentaid.gnb.ca/ |
 | New Brunswick Student Financial Services | New Brunswick · Provincial | Student assistance | NB student loans and grants portal: eligibility, application, and repayment for provincial and Canada-New Brunswick integrated loans. | https://www2.gnb.ca/content/gnb/en/services/services_renderer.201437.html |
+| CDLI — Centre for Distance Learning and Innovation (Newfoundland and Labrador) | Newfoundland and Labrador · Provincial | Online school | Newfoundland and Labrador's provincial distance-learning centre, a division of NLSchools: delivers 43 senior high school e-courses to students in rural, remote and small schools, plus free course review materials and live online tutoring province-wide. | https://www.cdli.ca/ |
 | Ministry of Education and Early Childhood Development — Early Learning and Child Care Directory | Newfoundland and Labrador · Provincial | Search Directory | Map-based database of all regulated child care in NL — centres, family providers and agencies — searchable by community, route or child's age, with recent violation orders. | https://www.childcare.gov.nl.ca/public/ccr/search |
 | StudentAidNL | Newfoundland and Labrador · Provincial | Student aid hub | Newfoundland and Labrador's official student-aid hub: one application assessed for both federal and provincial loans and grants, with an online StudentAidNL account, weekly provincial maximums and the Debt Reduction Grant program. | https://www.gov.nl.ca/studentaid |
 | Department of Education and Early Childhood Development — Child Care Directory | Nova Scotia · Provincial | Dataset + lookup | Search all ~338 active licensed daycares by county, city or program type; filter licence details, capacity, inspections and age ranges. CSV/GeoJSON/Socrata API downloads. | https://data.novascotia.ca/Education-Early-Childhood/Child-Care-Directory/3j9v-yimg |
+| Nova Scotia Office of Teacher Certification | Nova Scotia · Provincial | Teacher certification portal | Nova Scotia's Office of Teacher Certification with the Department of Education and Early Childhood Development: apply for initial teacher certification, certificate renewal or an increase in classification, record teaching service, and track application status in the Teacher Certification System online portal. | https://certification.ednet.ns.ca/ |
 | Nova Scotia Student Assistance | Nova Scotia · Provincial | Student aid | Student loans, grants, and repayment assistance for Nova Scotia post-secondary students | https://novascotia.ca/studentassistance/ |
 | PEI — Student Financial Services | Prince Edward Island · Provincial | Apply online | PEI's official student-aid application via MyPATH: one online full-time application assessed for both federal and provincial loans and grants, with document uploads, application action items and funding assessment. | https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/applying-for-student-aid-full-time |
 
@@ -1483,6 +1503,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Manitoba Education — K-12 Education Data Dashboard | Manitoba · Provincial | Dashboard | View provincial and divisional dashboards for enrolment, EDI, Grade 3–12 assessments, credit attainment and high school graduation rates. | https://www.edu.gov.mb.ca/k12/grad_rates/index.html |
 | Manitoba K-12 School Enrolment Reports | Manitoba · Provincial | Enrolment statistics | Download annual October 1 headcount enrolment reports (2000–2025) by school, division, grade, and province in PDF and Excel formats, compiled from public, independent, and home schools. | https://www.edu.gov.mb.ca/k12/finance/sch_enrol/index.html |
 | Manitoba School Divisions — Interactive Map | Manitoba · Provincial | School division boundary map | Manitoba Education and Early Childhood Learning's map of school division and district boundaries; search by division, home address or roll number, with direct links to each division website. | https://experience.arcgis.com/experience/76cc45fadad348f9a4a7c225d40a9029 |
+| Schools in Manitoba — Provincial School Directory | Manitoba · Provincial | School directory | Manitoba's comprehensive provincial directory of all schools, school divisions and districts: find a school near your residence, with contact information, grade levels, programs and languages of instruction including French immersion. | https://www.edu.gov.mb.ca/k12/schools/ |
 | Hanover School Division — Catchment Maps | Manitoba · Regional | Dataset | Downloadable PDF maps showing school catchment boundaries for the Hanover School Division in southeastern Manitoba. Includes division-wide catchment map and individual maps for Steinbach Early Years (K–4), Grades 5–8, and rural areas. Useful for parents, real estate research, and enrollment planning. | https://hsd.ca/schools/catchment-areas/ |
 | Louis Riel School Division — School Finder | Winnipeg · Municipal | School boundary lookup | Address-based lookup to find designated English and French Immersion elementary and high schools within the Louis Riel School Division catchment area. | https://www.lrsd.net/locate-a-school |
 | Pembina Trails School Division — School Locator | Winnipeg · Municipal | School boundary lookup | Interactive tool to find catchment schools by street name or address within Pembina Trails School Division. Covers English and French Immersion programming with grade-by-grade visual maps. | https://www.pembinatrails.ca/school-locator |

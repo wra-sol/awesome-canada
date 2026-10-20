@@ -40617,5 +40617,366 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "EducationPlannerBC",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "education",
+    "type": "Application portal",
+    "description": "British Columbia's central post-secondary planning and application service: search programs and institutions, compare tuition and length, and apply to any of B.C.'s 25 public post-secondary institutions from one account.",
+    "url": "https://educationplannerbc.ca/",
+    "tags": [
+      "british columbia",
+      "post-secondary",
+      "applications",
+      "program search",
+      "education planner"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "BC Transfer Guide",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "education",
+    "type": "Transfer credit tool",
+    "description": "BCCAT's official guide to how courses and programs transfer between B.C. post-secondary institutions: look up course equivalencies and block-transfer agreements before you enrol or change institutions.",
+    "url": "https://www.bctransferguide.ca/",
+    "tags": [
+      "british columbia",
+      "transfer credit",
+      "bccat",
+      "post-secondary",
+      "course equivalency"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "BC StudentTranscripts Service — Order Transcripts and Certificates",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "education",
+    "type": "Transcript service",
+    "description": "The StudentTranscripts Service (STS) lets current and former B.C. and Yukon K-12 students view marks, provincial exam and graduation assessment results and scholarships, and order or send high school transcripts and graduation certificates to post-secondary institutions and employers.",
+    "url": "https://www2.gov.bc.ca/gov/content/education-training/k-12/support/transcripts-and-certificates",
+    "tags": [
+      "british columbia",
+      "transcripts",
+      "graduation certificate",
+      "exam results",
+      "k-12"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Transfer Alberta — ACAT Search Tool",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "education",
+    "type": "Transfer credit tool",
+    "description": "Alberta Council on Admissions and Transfer (ACAT) search tool for the Alberta Transfer System: find thousands of by-course and by-program transfer decisions between Alberta post-secondary institutions, plus high school transitions, IB/AP and dual-credit information.",
+    "url": "https://transferalberta.alberta.ca/",
+    "tags": [
+      "alberta",
+      "transfer credit",
+      "acat",
+      "post-secondary",
+      "learner pathways"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "myPass — Alberta Student Records and Diploma Services",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "education",
+    "type": "Student records portal",
+    "description": "Alberta Education's secure self-service portal for high school students: order official transcripts, view diploma exam marks and PAT results, register to write or rewrite diploma exams, view a Detailed Academic Report and track progress toward a diploma or certificate.",
+    "url": "https://public.education.alberta.ca/PASI/mypass/welcome",
+    "tags": [
+      "alberta",
+      "transcripts",
+      "diploma exams",
+      "student records",
+      "high school"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Saskatchewan High School and Adult 12 Transcripts (MyCreds)",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "education",
+    "type": "Transcript service",
+    "description": "Request a Saskatchewan high school or Adult 12 transcript through the Ministry of Education; the verified record is delivered to the MyCreds learner portal, where you can view it and purchase share credits to send it to employers and post-secondary institutions.",
+    "url": "https://www.saskatchewan.ca/residents/education-and-learning/credits-degrees-and-transcripts/requesting-transcripts-for-high-school",
+    "tags": [
+      "saskatchewan",
+      "transcripts",
+      "mycreds",
+      "high school",
+      "adult 12"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Schools in Manitoba — Provincial School Directory",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "school-board",
+    "type": "School directory",
+    "description": "Manitoba's comprehensive provincial directory of all schools, school divisions and districts: find a school near your residence, with contact information, grade levels, programs and languages of instruction including French immersion.",
+    "url": "https://www.edu.gov.mb.ca/k12/schools/",
+    "tags": [
+      "manitoba",
+      "schools",
+      "directory",
+      "school divisions",
+      "k-12"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "ONTransfer — Ontario Transfer Pathways and Credit Transfer",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "Transfer credit tool",
+    "description": "Ontario's official transfer website from ONCAT: search transfer pathways and course-to-course credit agreements among publicly assisted colleges, universities and Indigenous Institutes, and check each institution's admission, transfer credit and PLAR policies.",
+    "url": "https://ontransfer.ca/i/ontransfer+home",
+    "tags": [
+      "ontario",
+      "transfer credit",
+      "oncat",
+      "post-secondary",
+      "pathways"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "OUInfo — Ontario Universities Program Finder",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "Program finder",
+    "description": "Search and compare programs at all Ontario universities by program, university or keyword, with admission requirements, prerequisites, deadlines and residence information. The research companion to the OUAC application centre, which is catalogued separately.",
+    "url": "https://ouinfo.ca/",
+    "tags": [
+      "ontario",
+      "universities",
+      "program search",
+      "admissions",
+      "ouac"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "TVO ILC — Ontario Online High School",
+    "level": "Agency",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "Online school",
+    "description": "TVO's Independent Learning Centre, Ontario's designated provider of distance high school education: enrol in online Grade 9-12 courses to earn an Ontario Secondary School Diploma, upgrade marks for post-secondary admission, or prepare for the CAEC high school equivalency.",
+    "url": "https://www.ilc.org/",
+    "tags": [
+      "ontario",
+      "online learning",
+      "high school",
+      "adult learning",
+      "caec",
+      "tvo"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "SRAM — Quebec CEGEP Admission Service (Montreal Region)",
+    "level": "Agency",
+    "jurisdiction": "Quebec",
+    "category": "education",
+    "type": "Application portal",
+    "description": "Service régional d'admission du Montréal métropolitain: the single admission service for 32 public CEGEPs in Quebec. Browse more than 100 programs and available places, check round deadlines, and submit one application at admission.sram.qc.ca.",
+    "url": "https://sram.qc.ca/",
+    "tags": [
+      "quebec",
+      "cegep",
+      "admissions",
+      "applications",
+      "francophone"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Mozaïk Portail Parents — Quebec Parent Portal",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "education",
+    "type": "Parent portal",
+    "description": "GRICS Mozaïk parent portal used across Quebec's public school service centres: view report cards and student results, schedules, homework, and report or explain absences and lates for all of your children in one place.",
+    "url": "https://portailparents.ca/accueil/",
+    "tags": [
+      "quebec",
+      "parents",
+      "report cards",
+      "student results",
+      "francophone",
+      "grics"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Inforoute FPT — Quebec Vocational and Technical Training Finder",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "education",
+    "type": "Program finder",
+    "description": "Quebec's official finder for vocational training (DEP) and technical training programs: search programs by trade, region and training centre, compare duration and conditions, and find where each program is offered across the province.",
+    "url": "https://www.inforoutefpt.org/",
+    "tags": [
+      "quebec",
+      "vocational training",
+      "technical training",
+      "trades",
+      "francophone"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Quebec Childcare Services Registration Portal (formerly La Place 0-5)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "education",
+    "type": "Childcare registration portal",
+    "description": "Quebec's single registration portal that replaced La Place 0-5 in 2025: register a child for subsidized CPE and daycare spaces under one uniform admissions policy, track the waiting-list rank indicator, and receive a referral when a space opens.",
+    "url": "https://www.quebec.ca/en/family-and-support-for-individuals/childhood/childcare-centres/registration-portal",
+    "tags": [
+      "quebec",
+      "child care",
+      "early years",
+      "registration",
+      "cpe"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Nova Scotia Office of Teacher Certification",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "education",
+    "type": "Teacher certification portal",
+    "description": "Nova Scotia's Office of Teacher Certification with the Department of Education and Early Childhood Development: apply for initial teacher certification, certificate renewal or an increase in classification, record teaching service, and track application status in the Teacher Certification System online portal.",
+    "url": "https://certification.ednet.ns.ca/",
+    "tags": [
+      "nova scotia",
+      "teachers",
+      "certification",
+      "registry",
+      "education"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "CDLI — Centre for Distance Learning and Innovation (Newfoundland and Labrador)",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "education",
+    "type": "Online school",
+    "description": "Newfoundland and Labrador's provincial distance-learning centre, a division of NLSchools: delivers 43 senior high school e-courses to students in rural, remote and small schools, plus free course review materials and live online tutoring province-wide.",
+    "url": "https://www.cdli.ca/",
+    "tags": [
+      "newfoundland and labrador",
+      "distance learning",
+      "online courses",
+      "high school",
+      "rural"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Canada Student Loans — Repayment Assistance Plan",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Repayment assistance",
+    "description": "Explains and routes applications for the Repayment Assistance Plan and Repayment Assistance Plan for Borrowers with Disabilities, which can reduce or pause Canada Student Loan payments, plus the Severe Permanent Disability Benefit and Canada Student Loan Forgiveness.",
+    "url": "https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans/repay/assistance.html",
+    "tags": [
+      "federal",
+      "student loans",
+      "repayment",
+      "disability",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Canada Apprentice Loan",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Apprenticeship loan",
+    "description": "Interest-free federal loans of up to $4,000 per period of technical training for apprentices in designated Red Seal trades, to cover tuition, tools, equipment and living expenses; links to the online application service.",
+    "url": "https://www.canada.ca/en/employment-social-development/services/apprentices/loan.html",
+    "tags": [
+      "federal",
+      "apprenticeship",
+      "Red Seal",
+      "loans",
+      "trades",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Post-Secondary Student Support Program (PSSSP)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Indigenous student funding",
+    "description": "Indigenous Services Canada program that funds First Nations students' post-secondary tuition, books, travel and living allowances through their First Nation or a First Nations-designated organization; explains eligibility, maximums and how to apply locally.",
+    "url": "https://sac-isc.gc.ca/eng/1100100033682/1531933580211",
+    "tags": [
+      "federal",
+      "Indigenous",
+      "First Nations",
+      "student funding",
+      "postsecondary",
+      "Canada"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "SRACQ — Service régional d'admission au collégial de Québec",
+    "level": "Agency",
+    "jurisdiction": "Quebec",
+    "category": "education",
+    "type": "Application service",
+    "description": "Regional admission service for public colleges in the Quebec City and eastern Quebec region: submit one online application to member CEGEPs, consult programs and available places, and follow admission deadlines and decisions.",
+    "url": "https://www.sracq.qc.ca/",
+    "tags": [
+      "Quebec",
+      "CEGEP",
+      "admission",
+      "apply",
+      "Quebec City"
+    ],
+    "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "eCourses Manitoba (Campus Manitoba)",
+    "level": "Agency",
+    "jurisdiction": "Manitoba",
+    "category": "education",
+    "type": "Online course catalogue",
+    "description": "Campus Manitoba's catalogue of online courses from Manitoba universities and colleges: browse certificate, diploma, degree and professional-learning courses and check which credits transfer between Manitoba institutions.",
+    "url": "https://ecoursesmb.ca/",
+    "tags": [
+      "Manitoba",
+      "online learning",
+      "courses",
+      "transfer credit",
+      "postsecondary"
+    ],
+    "dateAdded": "2026-10-20"
   }
 ]
