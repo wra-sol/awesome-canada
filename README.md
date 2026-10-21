@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2612 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2625 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -56,7 +56,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 92
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 70
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 73
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 31
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 44
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 99
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 26
@@ -3933,17 +3933,23 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | ATRIS — Aboriginal and Treaty Rights Information System | Canada · Federal | Interactive map | CIRNAC's map-based system locating Indigenous communities and their potential or established Aboriginal and treaty rights, treaties, claims and court decisions — searchable by place, postal code or drawn area. | https://sidait-atris.rcaanc-cirnac.gc.ca/SIDAIT-GEO-ATRIS/index-eng.html |
 | Crown-Indigenous Relations — Specific Claims | Canada · Federal | Database | Search specific claim status, agreements, and modern treaty progress | https://www.rcaanc-cirnac.gc.ca/eng/1100100030291/1539609517566 |
 | First Nation Profiles Interactive Map | Canada · Federal | Interactive map | Indigenous Services Canada's map of First Nations communities across Canada, linked to profiles of governance, reserves, registered population and census statistics. | https://geo.sac-isc.gc.ca/cippn-fnpim/index-eng.html |
+| Indian Lands Registry System — Public Registry | Canada · Federal | Land registry search | Public search gateway for the Indian Lands Registry System, the First Nation Land Registry System and the Self-Governing First Nation Land Registry. Users can search land records, parcels, instruments and evidence of title for reserve and First Nation lands and retrieve registry reports. | https://services.aadnc-aandc.gc.ca/ILRS_Public/Home/Notice.aspx |
 | Indigenous Services Canada — Drinking Water Advisories Map | Canada · Federal | Interactive map | Map and table of lifted and active long-term drinking water advisories on public water systems on reserve, browsable by community, region and status. | https://www.sac-isc.gc.ca/eng/1620925418298/1620925434679 |
 | Indigenous Services Canada — First Nations Financial Transparency Act Search | Canada · Federal | Searchable database | Search audited consolidated financial statements and schedules of remuneration filed by First Nations governments under the First Nations Financial Transparency Act. | https://services.sac-isc.gc.ca/fnp/main/Search/SearchFF.aspx?lang=eng |
 | Indigenous Services Canada — Indian Register | Canada · Federal | Registry | Apply for Indian status and Secure Certificate of Indian Status (SCIS) | https://www.sac-isc.gc.ca/eng/1100100032424/1572457769548 |
+| Indigenous Services Canada — Indigenous Business Directory | Canada · Federal | Business directory | Indigenous Services Canada's searchable directory of Indigenous businesses eligible for federal procurement set-asides under the Procurement Strategy for Indigenous Business. Buyers can search for Indigenous suppliers, and Indigenous businesses register here to create a public profile confirming their eligibility. | https://services.sac-isc.gc.ca/REA-IBD?lang=eng |
 | Indigenous Services Canada — Jordan's Principle | Canada · Federal | Program | Jordan's Principle substantive-equality funding for First Nations children | https://www.sac-isc.gc.ca/eng/1568396296543/1582575228610 |
 | Natural Resources Canada — Aboriginal Lands of Canada Legislative Boundaries | Canada · Federal | GIS dataset | Download GIS boundaries (SHP, KML, WMS) of Indian reserves, land claim settlement lands and Indian lands across Canada from the Canada Lands Survey System. | https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067 |
+| NIHB — Express Scripts Canada Provider and Client Portal | Canada · Federal | Claims portal | Claims portal for Indigenous Services Canada's Non-Insured Health Benefits (NIHB) program for First Nations and Inuit, operated by Express Scripts Canada. Clients and providers create a web account to submit claims, view claims history and prior approvals, check the Drug Benefit List, and access enrolment and reimbursement forms. | https://nihb-ssna.express-scripts.ca/en |
 | Specific Claims Tribunal — Decisions Database | Canada · Federal | Decisions database | Full-text search of final and binding Specific Claims Tribunal decisions on First Nations monetary claims against the Crown over lands, assets and treaty obligations. | https://decisions.sct-trp.ca/sct/en/nav.do |
 | Statistics Canada — Statistics on Indigenous Peoples | Canada · Federal | Data portal | Browse census and survey data products on First Nations people, Métis and Inuit — communities, health, education, income and the Indigenous Population Profile. | https://www.statcan.gc.ca/en/subjects-start/indigenous_peoples |
 | Assembly of First Nations | Canada · Agency | Organization | National advocacy organization of First Nations chiefs — resolutions, research, and programs | https://afn.ca/ |
 | First Nations Information Governance Centre | Canada · Agency | Data | First Nations-led data governance, surveys, and research with the OCAP principles | https://fnigc.ca/ |
+| FNIGC — Knowledge Lodge (Data Online) | Canada · Agency | Data tool | The First Nations Information Governance Centre's online data tool giving access to published data from the First Nations Regional Health Survey and the First Nations Regional Early Childhood, Education and Employment Survey. Users explore and export charts, tables and graphs for reports and research. | https://fnigc.ca/first-nations-data-centre/data-online/ |
+| Indspire — Building Brighter Futures Bursaries and Scholarships | Canada · Agency | Application program | Indspire's application program for First Nations, Inuit and Métis students in post-secondary education, skilled trades, apprenticeships and technology programs. Students complete one application to be considered for all applicable bursaries and scholarships, with deadlines on August 1, November 1 and February 1. | https://indspire.ca/programs/students/bursaries-scholarships/ |
 | Inuit Tapiriit Kanatami | Canada · Agency | Organization | National Inuit representational organization advancing Inuit rights and interests | https://www.itk.ca/ |
 | Métis National Council | Canada · Agency | Organization | National representative body for the Métis Nation — policies, programs, and registries | https://www.metisnation.ca/ |
+| NAFC — Find a Friendship Centre | Canada · Agency | Centre locator | National Association of Friendship Centres locator for its network of over 100 Friendship Centres and provincial/territorial associations. Users find their local Friendship Centre, which provides culturally based programs and services for urban Indigenous people. | https://nafc.ca/friendship-centres/find-a-friendship-centre |
 | NCTR — National Residential School Memorial Register | Canada · Agency | Searchable register | Search the National Centre for Truth and Reconciliation's memorial register by student name or school to honour children who died in the residential school system. | https://memorial.nctr.ca/ |
 | Pauktuutit Inuit Women of Canada | Canada · Agency | Organization | National voice for Inuit women — programs, research, and safety resources | https://www.pauktuutit.ca/ |
 
@@ -3960,7 +3966,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta — Metis Settlements Land Registry | Alberta · Provincial | Land registry | Alberta's Metis Settlements Land Registry records interests in land on Alberta's eight Metis Settlements, the only legislated Métis land base in Canada. The service covers land interests such as allotments and Metis title, appeals to the Metis Settlement Appeal Tribunal, and registry searches of who holds an interest in a parcel. | https://www.alberta.ca/metis-settlement-land-interests |
 | Blackfoot Confederacy — Lands and Tribes | Alberta · Provincial | Governance overview | Tribal governance and land overview for the Blackfoot Confederacy (Kainai, Siksika, Blood, Piikani, Tsuut'ina — Alberta/Saskatchewan), the treaty negotiating organization for the Blackfoot peoples — for citizens and treaty researchers. | https://blackfootconfederacy.ca/lands-and-tribes/ |
+| Otipemisiwak Métis Government — Citizenship | Alberta · Provincial | Citizenship registry | Citizenship registration service of the Otipemisiwak Métis Government, the Métis Nation within Alberta, distinct from its already-catalogued harvesting program page. Applicants register as citizens by submitting a family tree, birth certificate and identification, with help from the Registry Intake Team. | https://albertametis.com/citizenship/ |
 | Otipemisiwak Métis Government — Harvesting Program | Alberta · Provincial | Registry & program | Métis Harvester Identification Cards for Otipemisiwak citizens: hunt, fish and trap for food in designated Alberta harvesting areas, with RELM integration for free domestic fishing licences. | https://albertametis.com/harvesting/ |
 
 ### Saskatchewan
@@ -3979,6 +3987,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Métis Nation of Ontario — Registry | Ontario · Provincial | Citizenship registry | The Métis Nation of Ontario's Registry provides citizenship applications, citizenship card replacement and renewal, and change of address forms. Applicants submit a citizenship application, oath of allegiance and genealogical chart tracing ancestry to a Métis ancestor. | https://www.metisnation.org/registry/ |
 | Ontario — Map of Ontario Treaties and Reserves | Ontario · Provincial | Interactive map | Search an interactive map to find which of Ontario's 40+ treaties covers any location and click reserves to learn about First Nation communities. | https://www.ontario.ca/page/map-ontario-treaties-and-reserves |
 
 ### Quebec
@@ -3993,13 +4002,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Nunatsiavut Government — Labrador Inuit Lands | Newfoundland and Labrador · Provincial | Land administration | Lands Division hub for Labrador Inuit Lands: applications registry for private interests, access rules under the Labrador Inuit Land Claims Agreement and the Regional Land Use Plan. | https://nunatsiavut.com/department/lands-natural-resources/labrador-inuit-lands/ |
+| Nunatsiavut Government — Membership | Newfoundland and Labrador · Provincial | Enrolment registry | The Nunatsiavut Government's Registrar of Beneficiaries manages eligibility and enrolment for the Labrador Inuit Land Claims Agreement. The page provides the beneficiary enrolment form, eligibility criteria and enrolment and appeal guides, decided by regional Membership Committees. | https://nunatsiavut.com/membership/ |
+| NunatuKavut Community Council — Membership Services | Newfoundland and Labrador · Provincial | Membership registry | Membership services for NunatuKavut, the Inuit of south and central Labrador. Resident and non-resident citizens can complete membership applications and citizenship card renewals online for direct submission to the membership clerk. | https://nunatukavut.ca/citizenship/ |
 
 ### Northern Canada (YT, NT, NU)
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Inuvialuit Regional Corporation — Inuvialuit Enrolment | Northwest Territories · Provincial | Enrolment service | Inuvialuit Regional Corporation enrolment service for the Inuvialuit Settlement Region. People aged 18 and over can download the current enrolment application package to become beneficiaries under the Inuvialuit Trust. | https://irc.inuvialuit.com/services/inuvialuit-enrolment/ |
 | Inuvialuit Regional Corporation — ISR Research Portal (Climate Action Map) | Northwest Territories · Provincial | Interactive map | Search interactive ArcGIS maps of climate-change research and community projects plus an indicator dashboard of socioeconomic and environmental stats for the Inuvialuit Settlement Region. | https://research.inuvialuit.com/ |
 | Tłıchǫ Government — Tłıchǫ Mapping | Northwest Territories · Provincial | Interactive map | ArcGIS dashboards of Tłıchǫ lands: Wenek'e land-use plan zones, cabin registrations, harvesting areas and traditional place-name maps; user manual PDF. Site 403-bot-blocks fetchers. | https://www.tlicho.ca/tlicho-mapping |
+| Nunavut Tunngavik — Inuit Firm Registry | Nunavut · Provincial | Business registry | Nunavut Tunngavik Inc.'s searchable registry of certified Inuit firms under Article 24 of the Nunavut Agreement, listing each firm's region, contacts and services. Inuit firms apply here for the Inuit Firm Status certification used for Nunavut procurement preferences. | https://inuitfirm.tunngavik.com/ |
 | Qikiqtani Inuit Association — Land Use Registry | Nunavut · Provincial | Registry portal | Submit and track land-use applications for access to Inuit Owned Lands in the Qikiqtani Region — account-based portal with application status and permitting workflow. | https://apps.qia.ca/appform/ |
 
 ## 🎖️ Veterans & Military

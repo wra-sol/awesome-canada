@@ -41320,5 +41320,223 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Indigenous Services Canada — Indigenous Business Directory",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Business directory",
+    "description": "Indigenous Services Canada's searchable directory of Indigenous businesses eligible for federal procurement set-asides under the Procurement Strategy for Indigenous Business. Buyers can search for Indigenous suppliers, and Indigenous businesses register here to create a public profile confirming their eligibility.",
+    "url": "https://services.sac-isc.gc.ca/REA-IBD?lang=eng",
+    "tags": [
+      "procurement",
+      "business directory",
+      "indigenous business",
+      "registration",
+      "suppliers"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Indian Lands Registry System — Public Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Land registry search",
+    "description": "Public search gateway for the Indian Lands Registry System, the First Nation Land Registry System and the Self-Governing First Nation Land Registry. Users can search land records, parcels, instruments and evidence of title for reserve and First Nation lands and retrieve registry reports.",
+    "url": "https://services.aadnc-aandc.gc.ca/ILRS_Public/Home/Notice.aspx",
+    "tags": [
+      "land registry",
+      "reserve lands",
+      "records search",
+      "first nations"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "NAFC — Find a Friendship Centre",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Centre locator",
+    "description": "National Association of Friendship Centres locator for its network of over 100 Friendship Centres and provincial/territorial associations. Users find their local Friendship Centre, which provides culturally based programs and services for urban Indigenous people.",
+    "url": "https://nafc.ca/friendship-centres/find-a-friendship-centre",
+    "tags": [
+      "friendship centres",
+      "urban indigenous",
+      "locator",
+      "community services"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Nunavut Tunngavik — Inuit Firm Registry",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "indigenous",
+    "type": "Business registry",
+    "description": "Nunavut Tunngavik Inc.'s searchable registry of certified Inuit firms under Article 24 of the Nunavut Agreement, listing each firm's region, contacts and services. Inuit firms apply here for the Inuit Firm Status certification used for Nunavut procurement preferences.",
+    "url": "https://inuitfirm.tunngavik.com/",
+    "tags": [
+      "inuit firms",
+      "nunavut",
+      "business registry",
+      "procurement"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "NIHB — Express Scripts Canada Provider and Client Portal",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Claims portal",
+    "description": "Claims portal for Indigenous Services Canada's Non-Insured Health Benefits (NIHB) program for First Nations and Inuit, operated by Express Scripts Canada. Clients and providers create a web account to submit claims, view claims history and prior approvals, check the Drug Benefit List, and access enrolment and reimbursement forms.",
+    "url": "https://nihb-ssna.express-scripts.ca/en",
+    "tags": [
+      "nihb",
+      "health benefits",
+      "claims",
+      "first nations",
+      "inuit"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "FNIGC — Knowledge Lodge (Data Online)",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Data tool",
+    "description": "The First Nations Information Governance Centre's online data tool giving access to published data from the First Nations Regional Health Survey and the First Nations Regional Early Childhood, Education and Employment Survey. Users explore and export charts, tables and graphs for reports and research.",
+    "url": "https://fnigc.ca/first-nations-data-centre/data-online/",
+    "tags": [
+      "first nations data",
+      "statistics",
+      "ocap",
+      "health survey",
+      "data tool"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Indspire — Building Brighter Futures Bursaries and Scholarships",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Application program",
+    "description": "Indspire's application program for First Nations, Inuit and Métis students in post-secondary education, skilled trades, apprenticeships and technology programs. Students complete one application to be considered for all applicable bursaries and scholarships, with deadlines on August 1, November 1 and February 1.",
+    "url": "https://indspire.ca/programs/students/bursaries-scholarships/",
+    "tags": [
+      "bursaries",
+      "scholarships",
+      "post-secondary",
+      "students",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Métis Nation of Ontario — Registry",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "indigenous",
+    "type": "Citizenship registry",
+    "description": "The Métis Nation of Ontario's Registry provides citizenship applications, citizenship card replacement and renewal, and change of address forms. Applicants submit a citizenship application, oath of allegiance and genealogical chart tracing ancestry to a Métis ancestor.",
+    "url": "https://www.metisnation.org/registry/",
+    "tags": [
+      "metis",
+      "citizenship",
+      "registry",
+      "ontario",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Otipemisiwak Métis Government — Citizenship",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "indigenous",
+    "type": "Citizenship registry",
+    "description": "Citizenship registration service of the Otipemisiwak Métis Government, the Métis Nation within Alberta, distinct from its already-catalogued harvesting program page. Applicants register as citizens by submitting a family tree, birth certificate and identification, with help from the Registry Intake Team.",
+    "url": "https://albertametis.com/citizenship/",
+    "tags": [
+      "metis",
+      "citizenship",
+      "registry",
+      "alberta",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "NunatuKavut Community Council — Membership Services",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "indigenous",
+    "type": "Membership registry",
+    "description": "Membership services for NunatuKavut, the Inuit of south and central Labrador. Resident and non-resident citizens can complete membership applications and citizenship card renewals online for direct submission to the membership clerk.",
+    "url": "https://nunatukavut.ca/citizenship/",
+    "tags": [
+      "inuit",
+      "membership",
+      "citizenship",
+      "labrador",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Inuvialuit Regional Corporation — Inuvialuit Enrolment",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "indigenous",
+    "type": "Enrolment service",
+    "description": "Inuvialuit Regional Corporation enrolment service for the Inuvialuit Settlement Region. People aged 18 and over can download the current enrolment application package to become beneficiaries under the Inuvialuit Trust.",
+    "url": "https://irc.inuvialuit.com/services/inuvialuit-enrolment/",
+    "tags": [
+      "inuit",
+      "enrolment",
+      "inuvialuit",
+      "land claims",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Nunatsiavut Government — Membership",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "indigenous",
+    "type": "Enrolment registry",
+    "description": "The Nunatsiavut Government's Registrar of Beneficiaries manages eligibility and enrolment for the Labrador Inuit Land Claims Agreement. The page provides the beneficiary enrolment form, eligibility criteria and enrolment and appeal guides, decided by regional Membership Committees.",
+    "url": "https://nunatsiavut.com/membership/",
+    "tags": [
+      "inuit",
+      "enrolment",
+      "nunatsiavut",
+      "land claims",
+      "registry"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Alberta — Metis Settlements Land Registry",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "indigenous",
+    "type": "Land registry",
+    "description": "Alberta's Metis Settlements Land Registry records interests in land on Alberta's eight Metis Settlements, the only legislated Métis land base in Canada. The service covers land interests such as allotments and Metis title, appeals to the Metis Settlement Appeal Tribunal, and registry searches of who holds an interest in a parcel.",
+    "url": "https://www.alberta.ca/metis-settlement-land-interests",
+    "tags": [
+      "metis",
+      "land registry",
+      "settlements",
+      "alberta",
+      "search"
+    ],
+    "dateAdded": "2026-10-21"
   }
 ]
