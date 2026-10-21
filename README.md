@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2611 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2612 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 73
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 31
 - [🎖️ Veterans & Military](#veterans-and-military) — 17
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 98
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 99
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 26
 
 ---
@@ -4112,6 +4112,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Ontario — Official Results Data Explorer | Ontario · Provincial | Results database | Filter official Ontario election and referendum results by year, electoral district, party or candidate, with interactive charts and CSV/PDF downloads. | https://results.elections.on.ca/en/ |
 | Ontario — Municipal Election Results Dataset | Ontario · Provincial | Open dataset | Download post-election data for every Ontario municipality — eligible voters, turnout, voting methods and election statistics — from the provincial data catalogue. | https://data.ontario.ca/dataset/municipal-election-results |
 | Ontario — Political Contributions Search | Ontario · Provincial | Contributions database | Searchable register of provincial political contributions (414,000+ records) — donors to Ontario parties, candidates, and associations with downloadable results. | https://finances.elections.on.ca/en/contributions |
+| The Civics Project — Ontario Seat History | Ontario · Provincial | Election history visualization | Interactive seat history for the Ontario Legislature: stacked-bar seats by party for all 44 general elections from 1867 to 2025, with per-election detail covering vote shares, government and opposition leaders, every riding result and 10,329 candidate records. Sourced from the Legislative Assembly of Ontario's official members list and election pages. By The Civics Project; non-partisan civic education. | https://civicsproject.org/regions/ontario/seat-history |
 | City of Barrie — 2026 Certified Candidates List | Barrie · Municipal | Candidate directory | The City Clerk's certified list of candidates and registered third-party advertisers for Barrie's October 2026 municipal election. | https://www.barrie.ca/government-news/2026-municipal-election/certified-candidates-list |
 | Brampton Open Data | Brampton · Municipal | Open data portal | Civic data portal with mapping and city datasets | https://geohub.brampton.ca/ |
 | City of Brampton — Candidate Listing | Brampton · Municipal | Candidate directory | Brampton's official register of candidates for the municipal election, organised by office. | https://www.brampton.ca/EN/City-Hall/Election/Candidates/Pages/candidateListing.aspx |

@@ -41301,5 +41301,24 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "The Civics Project — Ontario Seat History",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "elections",
+    "type": "Election history visualization",
+    "description": "Interactive seat history for the Ontario Legislature: stacked-bar seats by party for all 44 general elections from 1867 to 2025, with per-election detail covering vote shares, government and opposition leaders, every riding result and 10,329 candidate records. Sourced from the Legislative Assembly of Ontario's official members list and election pages. By The Civics Project; non-partisan civic education.",
+    "url": "https://civicsproject.org/regions/ontario/seat-history",
+    "tags": [
+      "ontario",
+      "elections",
+      "legislature",
+      "history",
+      "results",
+      "visualization",
+      "civic tech"
+    ],
+    "dateAdded": "2026-10-21"
   }
 ]
