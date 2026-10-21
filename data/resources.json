@@ -41538,5 +41538,272 @@
       "search"
     ],
     "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "HICC — Funding Portal (Applicant Portal)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Funding portal",
+    "description": "Housing, Infrastructure and Communities Canada's applicant portal for federal infrastructure and housing funding programs, including the Canada Housing Infrastructure Fund, the Short-Term Rental Enforcement Fund and the Build Communities Strong Fund. Municipalities, provinces, Indigenous communities and other eligible recipients select a program, register or sign in, and submit and manage funding applications.",
+    "url": "https://infrastructure-applicant.canada.ca/en/",
+    "tags": [
+      "funding",
+      "apply",
+      "infrastructure",
+      "municipalities",
+      "housing programs"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "CMHC — Housing Design Catalogue",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Design catalogue",
+    "description": "CMHC's Housing Design Catalogue tool: 50 standardized, ready-to-use low-rise housing designs (accessory dwelling units, rowhouses, fourplexes and sixplexes) tailored to each region of Canada. Homeowners, builders and municipalities browse the designs, view floor plans and renderings, and download the full technical design packages, user guide and regional construction cost summaries to fast-track gentle-density builds.",
+    "url": "https://www.housingcatalogue.cmhc-schl.gc.ca/",
+    "tags": [
+      "design catalogue",
+      "standardized designs",
+      "gentle density",
+      "builders",
+      "download"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "CMHC — All Funding Opportunities",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Funding finder",
+    "description": "CMHC's searchable index of all its funding programs for housing providers, developers and partners, including the Apartment Construction Loan Program, the Affordable Housing Fund, the Housing Accelerator Fund and seed funding. Users browse or filter the full program list and open each program's eligibility, deadlines and application channel.",
+    "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/funding-programs/all-funding-programs",
+    "tags": [
+      "funding",
+      "programs finder",
+      "developers",
+      "housing providers",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "CMHC — emili (Online Mortgage Loan Insurance Application System)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Application system",
+    "description": "CMHC's emili is the online decision system approved lenders use to submit and adjudicate mortgage loan insurance applications for residential properties of up to four units. It returns insurance decisions in seconds using a consistent risk analysis of the borrower, the property and the market.",
+    "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/emili",
+    "tags": [
+      "mortgage insurance",
+      "lenders",
+      "application system",
+      "emili"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Civida — Online Housing Application Portal",
+    "level": "Agency",
+    "jurisdiction": "Edmonton",
+    "category": "housing",
+    "type": "Application portal",
+    "description": "Civida's online application portal for community and affordable housing in the Edmonton region, run by the region's largest community housing provider (home for over 15,000 people). Applicants create an account, apply for housing and rent assistance, and existing tenants manage their application and tenancy online.",
+    "url": "https://apply.civida.ca/",
+    "tags": [
+      "apply",
+      "community housing",
+      "edmonton",
+      "rent assistance",
+      "application portal"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Calgary Housing — MyHousing Applicant Portal",
+    "level": "Agency",
+    "jurisdiction": "Calgary",
+    "category": "housing",
+    "type": "Application portal",
+    "description": "Calgary Housing's MyHousing online portal, the application channel behind its Apply for Housing service. Applicants create an account to apply for subsidized and near-market rental housing in Calgary, and existing applicants and tenants sign in to update their file, provide documents and manage their tenancy.",
+    "url": "https://myhousing.calgaryhousingcompany.org/",
+    "tags": [
+      "apply",
+      "subsidized housing",
+      "calgary",
+      "applicant portal",
+      "rent"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Manitoba Housing — Social Housing Rental Program",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "housing",
+    "type": "Social housing program",
+    "description": "Manitoba Housing's Social Housing Rental Program page: rent-geared-to-income housing owned and managed by Manitoba Housing for low- and moderate-income families, seniors and people with special needs. The page explains eligibility and income limits, portfolio locations, and how to apply for placement in a Manitoba Housing property. Distinct from the Manitoba Housing homepage already catalogued.",
+    "url": "https://www.gov.mb.ca/housing/progs/mha.html",
+    "tags": [
+      "social housing",
+      "rent-geared-to-income",
+      "apply",
+      "manitoba housing"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Manitoba — Rent Assist",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "housing",
+    "type": "Rent benefit",
+    "description": "Manitoba's Rent Assist program page: a monthly rent benefit for eligible low-income renters in private housing, including people receiving Employment and Income Assistance and other low-income households. The page sets out eligibility, how the benefit is calculated, and how to apply or report changes.",
+    "url": "https://www.manitoba.ca/housing/renters/rent-assist.html",
+    "tags": [
+      "rent assist",
+      "rent benefit",
+      "renters",
+      "low income",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Manitoba — Housing Affordability Supply Partnership (HASP) Intake",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "housing",
+    "type": "Funding intake",
+    "description": "Manitoba's Housing Affordability Supply Partnership application page: the intake channel for provincial funding that supports non-profit and community partners to create and preserve affordable rental housing supply. Organizations review program parameters and submit funding proposals through this page. Distinct from the Manitoba Housing homepage already catalogued.",
+    "url": "https://manitoba.ca/housing/apply.html",
+    "tags": [
+      "funding",
+      "affordable housing supply",
+      "non-profit",
+      "apply",
+      "developers"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Yukon — Apply for Housing",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "housing",
+    "type": "Application page",
+    "description": "The Government of Yukon's application page for Yukon Housing Corporation social and staff housing. Applicants check eligibility, complete the housing application form, provide income and household documentation, and learn how applications are assessed and waitlists managed; seniors and priority-needs streams are covered.",
+    "url": "https://yukon.ca/en/apply-housing",
+    "tags": [
+      "apply",
+      "social housing",
+      "yukon housing corporation",
+      "waitlist"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Yukon Housing Corporation — Rent-Geared-to-Income Housing",
+    "level": "Agency",
+    "jurisdiction": "Yukon",
+    "category": "housing",
+    "type": "Housing program portal",
+    "description": "Yukon Housing Corporation's rent-geared-to-income housing page for its community housing portfolio across Yukon communities. Residents review RGI eligibility and rent calculation, community availability, and application and transfer processes, and access tenant forms and resources. Distinct from the Yukon Housing Corporation homepage already catalogued.",
+    "url": "https://www.yukonhousing.ca/our-housing",
+    "tags": [
+      "rent-geared-to-income",
+      "community housing",
+      "apply",
+      "yukon"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "BC Rent Bank — Find Help",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "housing",
+    "type": "Rent bank locator",
+    "description": "BC Rent Bank's Find Help entry point: renters in a temporary financial crisis locate their local rent bank anywhere in British Columbia and start the online pre-assessment for an interest-free loan covering rent or essential utility arrears, a security deposit or first month's rent, to prevent eviction and homelessness.",
+    "url": "https://bcrentbank.ca/find-help/",
+    "tags": [
+      "rent bank",
+      "locator",
+      "pre-assessment",
+      "eviction prevention",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "BC Housing — Tools & Portals",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "housing",
+    "type": "Tools directory",
+    "description": "BC Housing's directory of all its tools and portals: the Program Finder, the online subsidized housing application, the Citizen Portal for SAFER / Rental Assistance clients, Housing Listings, the BC RAHA eligibility calculator, the RAP/SAFER calculator, the Secondary Suite Incentive Program portal and the Shelter Map. Distinct from BC Housing's subsidized housing application page already catalogued.",
+    "url": "https://www.bchousing.org/tools-portals",
+    "tags": [
+      "tools",
+      "portals",
+      "program finder",
+      "calculators",
+      "bc housing"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Social Housing Registry of Ottawa — Application Forms",
+    "level": "Agency",
+    "jurisdiction": "Ottawa",
+    "category": "housing",
+    "type": "Application forms",
+    "description": "The Social Housing Registry of Ottawa's application forms page for the city's centralized waiting list: fillable applications for rent-geared-to-income housing and for Affordable Housing (including Below Market Rent), with document checklists for proof of residency and income, submission instructions, and forms for updates and special priority. Distinct from Ottawa Community Housing, the provider entry already catalogued.",
+    "url": "https://housingregistry.ca/the-forms/",
+    "tags": [
+      "apply",
+      "rent-geared-to-income",
+      "waiting list",
+      "ottawa",
+      "forms"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Nova Scotia Provincial Housing Agency — Apply for Public Housing",
+    "level": "Agency",
+    "jurisdiction": "Nova Scotia",
+    "category": "housing",
+    "type": "Application portal",
+    "description": "The Nova Scotia Provincial Housing Agency's public housing application page: households apply online for rent-geared-to-income public housing across Nova Scotia, or download the PDF application for mail, email or in-person submission. The page covers eligibility, required documents and regional office contacts. The agency's previous applicant portal failed verification in the Oct 20 run; this is its own application path on housingnovascotia.ca.",
+    "url": "https://housingnovascotia.ca/public-housing-application",
+    "tags": [
+      "apply",
+      "public housing",
+      "rent-geared-to-income",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Newfoundland and Labrador — Residential Tenancies",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "housing",
+    "type": "Tenancy forms and disputes portal",
+    "description": "Newfoundland and Labrador's Residential Tenancies hub for tenants and landlords: statutory forms and notices, security deposit rules, termination and eviction processes, and the application channel for tenancy dispute resolution and hearings under the Residential Tenancies Act. Distinct from the NL Housing Corporation programs page already catalogued.",
+    "url": "https://www.gov.nl.ca/dgsnl/landlords/residential-tenancies/",
+    "tags": [
+      "residential tenancies",
+      "forms",
+      "disputes",
+      "tenants",
+      "landlords"
+    ],
+    "dateAdded": "2026-10-21"
   }
 ]
