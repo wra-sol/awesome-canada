@@ -13284,6 +13284,25 @@
     ]
   },
   {
+    "name": "The Civics Project — Ontario Seat History",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "elections",
+    "type": "Election history visualization",
+    "description": "Seat history for the Ontario Legislature since 1867: 'Placing by election' and 'Seats over time' charts covering the general elections from 1867 to 2025, tracking party seat counts plus by-elections, vacancies and party switches (latest change Sep 22, 2025). Built from the Legislative Assembly of Ontario's official member pages. By The Civics Project; non-partisan civic education.",
+    "url": "https://civicsproject.org/regions/ontario/seat-history",
+    "tags": [
+      "ontario",
+      "elections",
+      "legislature",
+      "history",
+      "results",
+      "visualization",
+      "civic tech"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "Elections PEI",
     "level": "Provincial",
     "jurisdiction": "PEI",
@@ -41301,24 +41320,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "The Civics Project — Ontario Seat History",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "elections",
-    "type": "Election history visualization",
-    "description": "Seat history for the Ontario Legislature since 1867: 'Placing by election' and 'Seats over time' charts covering the general elections from 1867 to 2025, tracking party seat counts plus by-elections, vacancies and party switches (latest change Sep 22, 2025). Built from the Legislative Assembly of Ontario's official member pages. By The Civics Project; non-partisan civic education.",
-    "url": "https://civicsproject.org/regions/ontario/seat-history",
-    "tags": [
-      "ontario",
-      "elections",
-      "legislature",
-      "history",
-      "results",
-      "visualization",
-      "civic tech"
-    ],
-    "dateAdded": "2026-10-21"
   }
 ]
