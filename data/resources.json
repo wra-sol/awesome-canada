@@ -12794,7 +12794,7 @@
     "category": "elections",
     "type": "Legislative",
     "description": "Bills, Hansard, and member information from the NWT's consensus government legislature",
-    "url": "https://www.ntassembly.ca/",
+    "url": "https://www.ntlegislativeassembly.ca/",
     "tags": [
       "bills",
       "legislature",
@@ -41978,6 +41978,192 @@
       "journalism",
       "cbc",
       "media accountability"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Office of the Veterans Ombud",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Ombudsman office",
+    "description": "The independent Office of the Veterans Ombud: veterans, serving CAF and RCMP members and their families who believe Veterans Affairs Canada treated them unfairly submit a complaint online (or by phone, fax or mail), get information and referrals to the right service provider, and can ask the office to review whether a VAC process or outcome was fair. The Ombud cannot change a VAC decision but advocates for fairness, investigates complaints and publishes systemic reviews and recommendations to the Minister and Parliament.",
+    "url": "https://ombudsman-veterans.gc.ca/en",
+    "tags": [
+      "ombudsman",
+      "complaints",
+      "fairness",
+      "vac",
+      "veterans"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Veterans Review and Appeal Board — How to Apply",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Appeals tribunal",
+    "description": "How to apply to the Veterans Review and Appeal Board, the independent federal tribunal that reviews Veterans Affairs Canada disability-benefit decisions: anyone dissatisfied with a VAC disability decision can request a Review hearing and then an Appeal hearing, with no time limit. The page walks applicants through choosing representation — free legal representation from the Bureau of Pensions Advocates, free help from Royal Canadian Legion service officers, a private representative, or self-representation — and how the application is registered.",
+    "url": "https://vrab-tacra.gc.ca/index.php/en/apply-board",
+    "tags": [
+      "appeals",
+      "tribunal",
+      "disability benefits",
+      "review hearing",
+      "vrab"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Soldier On",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Support program",
+    "description": "Soldier On, the Canadian Armed Forces program (delivered through CFMWS Personnel Support Programs) that supports serving members and veterans who are ill or injured — and their recovery — through sport, recreation and creative activities: members register to join local and national events and camps, and apply for grants toward sports and recreation equipment and activities that help them adapt and overcome permanent illness or injury.",
+    "url": "https://www.soldieron.ca/",
+    "tags": [
+      "soldier on",
+      "ill and injured",
+      "sport",
+      "recovery",
+      "caf"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "DND/VAC — Operational Stress Injury Social Support (OSISS)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Peer support service",
+    "description": "The Canada.ca service page for Operational Stress Injury Social Support (OSISS), the joint National Defence and Veterans Affairs Canada peer-support program: CAF members, veterans and their families affected by an operational stress injury such as anxiety, depression or PTSD connect with trained Peer Support Coordinators for confidential, non-clinical support, help accessing OSI programs and community resources, and referrals to VAC and CAF staff on release, pension or treatment questions. Contact is by the Canada-wide toll-free line through the CAF Transition Group.",
+    "url": "https://www.canada.ca/en/department-national-defence/services/benefits-military/health-support/casualty-support/peer-support/osiss.html",
+    "tags": [
+      "osiss",
+      "peer support",
+      "operational stress injury",
+      "ptsd",
+      "mental health"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Veterans Affairs Canada — Forms",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Forms library",
+    "description": "Veterans Affairs Canada's forms library: the central index of VAC application and service forms across its benefit and service programs — the forms veterans, survivors and dependants download or complete to apply for disability benefits, health care, financial programs and other VAC services, each linked from the program pages and My VAC Account journeys.",
+    "url": "https://www.veterans.gc.ca/en/about-vac/resources/forms",
+    "tags": [
+      "forms",
+      "applications",
+      "vac",
+      "apply"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Veterans Affairs Canada — Office Locator & Contact",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Office locator",
+    "description": "Veterans Affairs Canada's contact and location directory: find the VAC area office or service location nearest you — every office listed by province with its address, hours and language offered — request an in-person appointment, find CAF Transition Centres, and reach VAC by toll-free phone, secure My VAC Account message, email, or the 24/7 VAC Assistance Service for confidential psychological support.",
+    "url": "https://www.veterans.gc.ca/en/contact-us",
+    "tags": [
+      "office locator",
+      "contact",
+      "area offices",
+      "appointments",
+      "vac"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Veterans Affairs Canada — Veterans Emergency Fund",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Emergency fund",
+    "description": "Veterans Affairs Canada's Veterans Emergency Fund program page: the fund provides emergency financial assistance to veterans, their families and survivors facing an urgent situation that threatens their well-being — essentials such as food, shelter, clothing and medical needs — accessed through VAC case managers and area offices and through partner organizations, as a bridge while longer-term supports are put in place.",
+    "url": "https://www.veterans.gc.ca/en/financial-programs-and-services/emergency-funds/veterans-emergency-fund",
+    "tags": [
+      "emergency fund",
+      "financial assistance",
+      "crisis",
+      "vac",
+      "veterans"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Ontario — Soldiers' Aid Commission (Financial Assistance)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "veterans",
+    "type": "Financial assistance",
+    "description": "Ontario's Soldiers' Aid Commission financial assistance page: the Commission provides financial assistance to eligible Ontario veterans who served in the Canadian Armed Forces or as allied veterans, and to their spouses/partners and dependants, who are in financial difficulty — grants toward health-related and essential needs such as medical and dental care, hearing and vision aids, home repairs and accessibility, and other necessities, applied for through the Commission.",
+    "url": "https://www.ontario.ca/page/soldiers-aid-commission",
+    "tags": [
+      "soldiers aid commission",
+      "financial assistance",
+      "ontario",
+      "grants",
+      "veterans"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Last Post Fund — Funeral & Burial Program",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Funeral and burial program",
+    "description": "The Last Post Fund, the non-profit that delivers Veterans Affairs Canada's Funeral and Burial Program: families and estates arrange financial assistance toward a dignified funeral, burial or cremation and a military grave marker for eligible veterans who died in financial need, check eligibility and start the application through the Fund, which also provides grave markers for unmarked veterans' graves and maintains the National Field of Honour.",
+    "url": "https://www.lastpostfund.ca/",
+    "tags": [
+      "last post fund",
+      "funeral",
+      "burial",
+      "grave markers",
+      "vac program"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Royal Canadian Legion — Find a Branch",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Branch locator",
+    "description": "The Royal Canadian Legion's branch locator: search the Legion's national network of local branches to find the branch nearest you — the front door to Legion membership, remembrance activities and its free Service Bureau help, where Command and branch Service Officers assist veterans and their families with Veterans Affairs Canada claims and benefits at no cost, whether or not they are Legion members.",
+    "url": "https://www.legion.ca/find-a-branch",
+    "tags": [
+      "legion",
+      "branch locator",
+      "service officers",
+      "remembrance",
+      "veterans"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Support Our Troops",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Charitable support fund",
+    "description": "Support Our Troops, the official charitable cause of the Canadian Armed Forces community, operated under CFMWS: serving members, veterans and military families apply for emergency financial assistance and grants, scholarships, support for ill and injured members, and programs such as holiday and summer-camp support for military children, funded by donations from Canadians.",
+    "url": "https://www.supportourtroops.ca/",
+    "tags": [
+      "support our troops",
+      "emergency grants",
+      "scholarships",
+      "military families",
+      "cfmws"
     ],
     "dateAdded": "2026-10-22"
   }
