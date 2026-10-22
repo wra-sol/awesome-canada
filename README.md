@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2641 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2642 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,7 +26,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 ## Table of Contents
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 218
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 104
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 105
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
 - [🪪 Government Services & ID](#government-services-and-id) — 92
@@ -439,6 +439,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| CAMMM Atlas Web Application | Quebec · Agency | Interactive map | Bilingual interactive atlas from the IDEAS-BE lab at Université de Montréal and Concordia that scores accessibility and spatial equity for neighbourhoods, transit hubs and access points in five Quebec city regions: Montreal Island, the Montreal Metropolitan Region, Gatineau, Sherbrooke and Quebec City. It measures access to transit, green spaces, grocery stores, healthcare and schools, plus features for people with reduced mobility. | https://ideas-be.github.io/CAMMM-Web-Tool/ |
 | Gatineau — Statistiques sur les permis de construction | Gatineau · Municipal | Building permit statistics | Annual and monthly building permit statistics published by Gatineau — counts and values for construction activity tracking. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fstatistiques_permis_construction |
 | Laval — Info-règlements (Grilles de zonage) | Laval · Municipal | Outil de consultation | Look up zoning type, permitted uses, and exception grids for any address or cadastral lot in Laval's urban planning code. | https://info-reglements.laval.ca/consultation/grilles/ |
 | Lévis Zonage — Données Québec | Lévis · Municipal | Zoning dataset | Municipal zoning boundaries for Lévis — download GeoJSON, shapefile, or FGDB; updated on Données Québec with CC-BY licence. | https://www.donneesquebec.ca/recherche/fr/dataset/6cd041e3-902c-469e-a863-e54f4df966f2 |
