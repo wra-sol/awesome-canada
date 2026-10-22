@@ -41970,8 +41970,8 @@
     "jurisdiction": "Canada",
     "category": "consumer",
     "type": "Ombudsman office",
-    "description": "The Office of the CBC Ombudsman's official site: the independent office that evaluates whether CBC/Radio-Canada news, current affairs and public affairs content (radio, TV, web and social) complies with the CBC's Journalistic Standards and Practices. Members of the public file complaints about CBC journalism with the Ombudsman (after first raising them with CBC management), and the site publishes the Ombudsman's reviews and annual reports. Listed by the CRTC as the online contact for CBC journalism complaints.",
-    "url": "https://ombudsman.cbc.radio-canada.ca/",
+    "description": "The Office of the CBC Ombudsman's official site on the CBC/Radio-Canada corporate site: the independent office that evaluates whether CBC/Radio-Canada news, current affairs and public affairs content (radio, TV, web and social) complies with the CBC's Journalistic Standards and Practices. Members of the public submit complaints about CBC journalism to the Ombudsman, and the site publishes the Ombudsman's complaint reviews, inbox posts, annual reports and the complaint review process. The office's former standalone host (ombudsman.cbc.radio-canada.ca) no longer loads — it returns a certificate error in browsers — so this corporate-site page is the live location.",
+    "url": "https://cbc.radio-canada.ca/en/ombudsman",
     "tags": [
       "ombudsman",
       "complaints",
