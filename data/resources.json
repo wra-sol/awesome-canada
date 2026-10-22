@@ -22657,13 +22657,13 @@
     "dateAdded": "2026-09-26"
   },
   {
-    "name": "BC Rent Bank — Find Help",
+    "name": "BC Rent Bank — Locations & Contact",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
     "category": "housing",
     "type": "Rent bank locator",
-    "description": "BC Rent Bank's Find Help entry point: renters in a temporary financial crisis locate their local rent bank anywhere in British Columbia and start the online pre-assessment for an interest-free loan covering rent or essential utility arrears, a security deposit or first month's rent, to prevent eviction and homelessness.",
-    "url": "https://bcrentbank.ca/find-help/",
+    "description": "BC Rent Bank's locations and contact page: renters in a temporary financial crisis find their local rent bank anywhere in British Columbia — each listing shows the communities served, phone and email contacts, and an Apply for Assistance link to start the application for an interest-free loan covering rent or essential utility arrears, a security deposit or first month's rent, to prevent eviction and homelessness. The former /find-help/ locator URL now returns a 404; /locations/ redirects here.",
+    "url": "https://bcrentbank.ca/contact/",
     "tags": [
       "rent bank",
       "locator",
@@ -41825,6 +41825,159 @@
       "montreal",
       "gatineau",
       "sherbrooke"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Government of Canada — Student Aid Estimator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Estimator",
+    "description": "The Government of Canada's federal Student Aid Estimator: students enter their province of residence, study period and program, dependants, tuition and living costs, income and scholarships to estimate the Canada Student Grants and Loans they could receive before applying through their province or territory. The estimator covers federal aid only, not provincial or territorial grants and loans.",
+    "url": "https://www.canada.ca/en/services/benefits/education/student-aid/estimator.html",
+    "tags": [
+      "student aid",
+      "estimator",
+      "grants",
+      "loans",
+      "post-secondary"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Retraite Québec — SimulR (Retirement Income Simulator)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "finance",
+    "type": "Retirement simulator",
+    "description": "Retraite Québec's simplified retirement income simulator. Users enter their personal and savings information to see a picture of their retirement income, compare scenarios for applying for their pension earlier or later, check whether they are on track to reach their retirement income goal, and calculate how much more they need to save each month if there is a gap.",
+    "url": "https://www.retraitequebec.gouv.qc.ca/en/services-en-ligne-outils/simulr/Pages/simulr.aspx",
+    "tags": [
+      "retirement",
+      "simulator",
+      "pension",
+      "savings",
+      "quebec pension plan"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Ontario — File an Employment Standards Claim",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "employment",
+    "type": "Claim filing guide",
+    "description": "The Ontario Ministry of Labour's guide chapter on filing an employment standards claim: employees who believe their employer violated the Employment Standards Act or the Employment Protection for Foreign Nationals Act file a claim for free online through the ministry's eClaim form (or by PDF), typically within two years of the violation. The page explains what to file, the deadlines, and that filing is legally protected from reprisal. Distinct chapter of the ESA guide; the catalogued guide entry covers the ESA calculators and general guide.",
+    "url": "https://www.ontario.ca/document/your-guide-employment-standards-act-0/filing-claim",
+    "tags": [
+      "employment standards",
+      "claim",
+      "workers",
+      "ontario",
+      "eclaim"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Alberta — MyTradeSecrets (Apprenticeship Portal)",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "employment",
+    "type": "Apprenticeship portal",
+    "description": "Alberta Apprenticeship and Industry Training's secure online portal for apprentices and trainees. Clients sign in with an Alberta.ca Account to manage their apprenticeship profile, view class and exam schedules and marks, submit applications for AIT programs and services, upload documents and record book updates, and pay fees online.",
+    "url": "https://tradesecrets.alberta.ca/mytradesecrets/sign-in-to-mytradesecrets/",
+    "tags": [
+      "apprenticeship",
+      "trades",
+      "alberta",
+      "portal",
+      "exams"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "British Columbia — Employment Standards Online Complaint",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Complaint portal",
+    "description": "British Columbia's official online complaint portal for the Employment Standards Branch. Workers fill out and submit a complaint online (about 15 minutes) about wages, hours, leave, termination or other Employment Standards Act concerns; submissions are confirmed by email and investigated by the Branch. Complaints generally must be filed within six months of the issue.",
+    "url": "https://services.labour.gov.bc.ca/Complaints",
+    "tags": [
+      "employment standards",
+      "complaint",
+      "workers",
+      "british columbia",
+      "wages"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Prince Edward Island — Apply for Family Housing Online",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "housing",
+    "type": "Online application service",
+    "description": "Prince Edward Island's online application service for the Family Housing Program: low-income Island families and individuals complete the online form to apply for government-owned family housing units (rent at 25% of household income) or landlord-owned housing vouchers, assessed by local housing boards against published income thresholds. Distinct from the Family Housing Program information page, which Jev scored 1.72 on Oct 21 as mostly static information; this is the actual application channel.",
+    "url": "https://www.princeedwardisland.ca/en/service/apply-family-housing-online",
+    "tags": [
+      "apply online",
+      "family housing",
+      "pei housing",
+      "low income",
+      "application form"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "New Brunswick — Solve a Problem (Tenant and Landlord Help)",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "housing",
+    "type": "Tenancy help and forms",
+    "description": "Housing NB's problem-resolution page for tenants and landlords: the route to the Tenant/Landlord Application for Assistance forms and help when a tenancy problem (repairs, deposits, notices, arrears) cannot be resolved directly. Distinct from RentalsNB, the province's tenancy services homepage already catalogued; an older rentalsnb.ca version of this page is a soft-404, and this gnb.ca topic page is the live one.",
+    "url": "https://www.gnb.ca/en/topic/family-home-community/housing-property/solve-problem.html",
+    "tags": [
+      "tenancy",
+      "disputes",
+      "forms",
+      "tenants",
+      "landlords"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "IRAC — Rental Appeals (Prince Edward Island)",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "housing",
+    "type": "Appeals portal",
+    "description": "The Island Regulatory and Appeals Commission's Rental Appeals page: anyone dissatisfied with an order from PEI's Residential Tenancy Office (Rental Office) appeals to the Commission by completing the Notice of Appeal form and filing it with the Commission and every other party within the Residential Tenancy Act timeline. The page carries the fillable form, filing instructions, FAQ and the Commission's hearing scheduling policy.",
+    "url": "https://irac.pe.ca/rental_section/rental/",
+    "tags": [
+      "rental appeals",
+      "residential tenancy",
+      "appeal form",
+      "pei",
+      "irac"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "CBC/Radio-Canada — Office of the Ombudsman",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Ombudsman office",
+    "description": "The Office of the CBC Ombudsman's official site: the independent office that evaluates whether CBC/Radio-Canada news, current affairs and public affairs content (radio, TV, web and social) complies with the CBC's Journalistic Standards and Practices. Members of the public file complaints about CBC journalism with the Ombudsman (after first raising them with CBC management), and the site publishes the Ombudsman's reviews and annual reports. Listed by the CRTC as the online contact for CBC journalism complaints.",
+    "url": "https://ombudsman.cbc.radio-canada.ca/",
+    "tags": [
+      "ombudsman",
+      "complaints",
+      "journalism",
+      "cbc",
+      "media accountability"
     ],
     "dateAdded": "2026-10-22"
   }
