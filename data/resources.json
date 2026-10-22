@@ -21918,6 +21918,39 @@
     "dateAdded": "2026-10-20"
   },
   {
+    "name": "CMHC — All Funding Opportunities",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Funding finder",
+    "description": "CMHC's searchable index of all its funding programs for housing providers, developers and partners, including the Apartment Construction Loan Program, the Affordable Housing Fund, the Housing Accelerator Fund and seed funding. Users browse or filter the full program list and open each program's eligibility, deadlines and application channel.",
+    "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/funding-programs/all-funding-programs",
+    "tags": [
+      "funding",
+      "programs finder",
+      "developers",
+      "housing providers",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "CMHC — emili (Online Mortgage Loan Insurance Application System)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Application system",
+    "description": "CMHC's emili is the online decision system approved lenders use to submit and adjudicate mortgage loan insurance applications for residential properties of up to four units. It returns insurance decisions in seconds using a consistent risk analysis of the borrower, the property and the market.",
+    "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/emili",
+    "tags": [
+      "mortgage insurance",
+      "lenders",
+      "application system",
+      "emili"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "CMHC — Household Characteristics and Core Housing Need Tables",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -21952,6 +21985,23 @@
       "dashboard"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "CMHC — Housing Design Catalogue",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Design catalogue",
+    "description": "CMHC's Housing Design Catalogue tool: 50 standardized, ready-to-use low-rise housing designs (accessory dwelling units, rowhouses, fourplexes and sixplexes) tailored to each region of Canada. Homeowners, builders and municipalities browse the designs, view floor plans and renderings, and download the full technical design packages, user guide and regional construction cost summaries to fast-track gentle-density builds.",
+    "url": "https://www.housingcatalogue.cmhc-schl.gc.ca/",
+    "tags": [
+      "design catalogue",
+      "standardized designs",
+      "gentle density",
+      "builders",
+      "download"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "CMHC — Housing Market Information Portal",
@@ -22016,6 +22066,23 @@
       "mortgage",
       "retirement"
     ]
+  },
+  {
+    "name": "HICC — Funding Portal (Applicant Portal)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "housing",
+    "type": "Funding portal",
+    "description": "Housing, Infrastructure and Communities Canada's applicant portal for federal infrastructure and housing funding programs, including the Canada Housing Infrastructure Fund, the Short-Term Rental Enforcement Fund and the Build Communities Strong Fund. Municipalities, provinces, Indigenous communities and other eligible recipients select a program, register or sign in, and submit and manage funding applications.",
+    "url": "https://infrastructure-applicant.canada.ca/en/",
+    "tags": [
+      "funding",
+      "apply",
+      "infrastructure",
+      "municipalities",
+      "housing programs"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "Home Buyers' Plan (HBP) — RRSP Withdrawal",
@@ -22137,6 +22204,23 @@
     "dateAdded": "2026-10-20"
   },
   {
+    "name": "BC Housing — Tools & Portals",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "housing",
+    "type": "Tools directory",
+    "description": "BC Housing's directory of all its tools and portals: the Program Finder, the online subsidized housing application, the Citizen Portal for SAFER / Rental Assistance clients, Housing Listings, the BC RAHA eligibility calculator, the RAP/SAFER calculator, the Secondary Suite Incentive Program portal and the Shelter Map. Distinct from BC Housing's subsidized housing application page already catalogued.",
+    "url": "https://www.bchousing.org/tools-portals",
+    "tags": [
+      "tools",
+      "portals",
+      "program finder",
+      "calculators",
+      "bc housing"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "British Columbia — ParcelMap BC Search (LTSA)",
     "level": "Agency",
     "jurisdiction": "British Columbia",
@@ -22151,6 +22235,23 @@
       "map",
       "bc"
     ]
+  },
+  {
+    "name": "Calgary Housing — MyHousing Applicant Portal",
+    "level": "Agency",
+    "jurisdiction": "Calgary",
+    "category": "housing",
+    "type": "Application portal",
+    "description": "Calgary Housing's MyHousing online portal, the application channel behind its Apply for Housing service. Applicants create an account to apply for subsidized and near-market rental housing in Calgary, and existing applicants and tenants sign in to update their file, provide documents and manage their tenancy.",
+    "url": "https://myhousing.calgaryhousingcompany.org/",
+    "tags": [
+      "apply",
+      "subsidized housing",
+      "calgary",
+      "applicant portal",
+      "rent"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "Canadian Real Estate Association — Stats",
@@ -22181,6 +22282,23 @@
       "federal"
     ],
     "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Civida — Online Housing Application Portal",
+    "level": "Agency",
+    "jurisdiction": "Edmonton",
+    "category": "housing",
+    "type": "Application portal",
+    "description": "Civida's online application portal for community and affordable housing in the Edmonton region, run by the region's largest community housing provider (home for over 15,000 people). Applicants create an account, apply for housing and rent assistance, and existing tenants manage their application and tenancy online.",
+    "url": "https://apply.civida.ca/",
+    "tags": [
+      "apply",
+      "community housing",
+      "edmonton",
+      "rent assistance",
+      "application portal"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "Newfoundland and Labrador Housing Corporation — Housing Programs",
@@ -22234,6 +22352,22 @@
     "dateAdded": "2026-10-20"
   },
   {
+    "name": "Nova Scotia Provincial Housing Agency — Apply for Public Housing",
+    "level": "Agency",
+    "jurisdiction": "Nova Scotia",
+    "category": "housing",
+    "type": "Application portal",
+    "description": "The Nova Scotia Provincial Housing Agency's public housing application page: households apply online for rent-geared-to-income public housing across Nova Scotia, or download the PDF application for mail, email or in-person submission. The page covers eligibility, required documents and regional office contacts. The agency's previous applicant portal failed verification in the Oct 20 run; this is its own application path on housingnovascotia.ca.",
+    "url": "https://housingnovascotia.ca/public-housing-application",
+    "tags": [
+      "apply",
+      "public housing",
+      "rent-geared-to-income",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "Nunavut Housing Corporation",
     "level": "Agency",
     "jurisdiction": "Nunavut",
@@ -22283,6 +22417,23 @@
       "affordable housing"
     ],
     "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Social Housing Registry of Ottawa — Application Forms",
+    "level": "Agency",
+    "jurisdiction": "Ottawa",
+    "category": "housing",
+    "type": "Application forms",
+    "description": "The Social Housing Registry of Ottawa's application forms page for the city's centralized waiting list: fillable applications for rent-geared-to-income housing and for Affordable Housing (including Below Market Rent), with document checklists for proof of residency and income, submission instructions, and forms for updates and special priority. Distinct from Ottawa Community Housing, the provider entry already catalogued.",
+    "url": "https://housingregistry.ca/the-forms/",
+    "tags": [
+      "apply",
+      "rent-geared-to-income",
+      "waiting list",
+      "ottawa",
+      "forms"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "AccessHousing — Peel Region Centralized Waiting List",
@@ -22379,6 +22530,22 @@
       "waitlist"
     ],
     "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Yukon Housing Corporation — Rent-Geared-to-Income Housing",
+    "level": "Agency",
+    "jurisdiction": "Yukon",
+    "category": "housing",
+    "type": "Housing program portal",
+    "description": "Yukon Housing Corporation's rent-geared-to-income housing page for its community housing portfolio across Yukon communities. Residents review RGI eligibility and rent calculation, community availability, and application and transfer processes, and access tenant forms and resources. Distinct from the Yukon Housing Corporation homepage already catalogued.",
+    "url": "https://www.yukonhousing.ca/our-housing",
+    "tags": [
+      "rent-geared-to-income",
+      "community housing",
+      "apply",
+      "yukon"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "Alberta — Find Housing Digital Service",
@@ -22490,6 +22657,23 @@
     "dateAdded": "2026-09-26"
   },
   {
+    "name": "BC Rent Bank — Find Help",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "housing",
+    "type": "Rent bank locator",
+    "description": "BC Rent Bank's Find Help entry point: renters in a temporary financial crisis locate their local rent bank anywhere in British Columbia and start the online pre-assessment for an interest-free loan covering rent or essential utility arrears, a security deposit or first month's rent, to prevent eviction and homelessness.",
+    "url": "https://bcrentbank.ca/find-help/",
+    "tags": [
+      "rent bank",
+      "locator",
+      "pre-assessment",
+      "eviction prevention",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "BC Residential Tenancy Branch",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -22501,6 +22685,40 @@
       "BC",
       "tenant"
     ]
+  },
+  {
+    "name": "Manitoba — Housing Affordability Supply Partnership (HASP) Intake",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "housing",
+    "type": "Funding intake",
+    "description": "Manitoba's Housing Affordability Supply Partnership application page: the intake channel for provincial funding that supports non-profit and community partners to create and preserve affordable rental housing supply. Organizations review program parameters and submit funding proposals through this page. Distinct from the Manitoba Housing homepage already catalogued.",
+    "url": "https://manitoba.ca/housing/apply.html",
+    "tags": [
+      "funding",
+      "affordable housing supply",
+      "non-profit",
+      "apply",
+      "developers"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Manitoba — Rent Assist",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "housing",
+    "type": "Rent benefit",
+    "description": "Manitoba's Rent Assist program page: a monthly rent benefit for eligible low-income renters in private housing, including people receiving Employment and Income Assistance and other low-income households. The page sets out eligibility, how the benefit is calculated, and how to apply or report changes.",
+    "url": "https://www.manitoba.ca/housing/renters/rent-assist.html",
+    "tags": [
+      "rent assist",
+      "rent benefit",
+      "renters",
+      "low income",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "Manitoba — Title Check (Teranet Manitoba Land Titles)",
@@ -22551,6 +22769,22 @@
     "dateAdded": "2026-10-20"
   },
   {
+    "name": "Manitoba Housing — Social Housing Rental Program",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "housing",
+    "type": "Social housing program",
+    "description": "Manitoba Housing's Social Housing Rental Program page: rent-geared-to-income housing owned and managed by Manitoba Housing for low- and moderate-income families, seniors and people with special needs. The page explains eligibility and income limits, portfolio locations, and how to apply for placement in a Manitoba Housing property. Distinct from the Manitoba Housing homepage already catalogued.",
+    "url": "https://www.gov.mb.ca/housing/progs/mha.html",
+    "tags": [
+      "social housing",
+      "rent-geared-to-income",
+      "apply",
+      "manitoba housing"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "Manitoba Residential Tenancies Branch",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -22593,6 +22827,23 @@
       "service new brunswick"
     ],
     "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Newfoundland and Labrador — Residential Tenancies",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "housing",
+    "type": "Tenancy forms and disputes portal",
+    "description": "Newfoundland and Labrador's Residential Tenancies hub for tenants and landlords: statutory forms and notices, security deposit rules, termination and eviction processes, and the application channel for tenancy dispute resolution and hearings under the Residential Tenancies Act. Distinct from the NL Housing Corporation programs page already catalogued.",
+    "url": "https://www.gov.nl.ca/dgsnl/landlords/residential-tenancies/",
+    "tags": [
+      "residential tenancies",
+      "forms",
+      "disputes",
+      "tenants",
+      "landlords"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "Office of the Rentals Officer — Northwest Territories",
@@ -22773,6 +23024,22 @@
       "eviction"
     ],
     "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Yukon — Apply for Housing",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "housing",
+    "type": "Application page",
+    "description": "The Government of Yukon's application page for Yukon Housing Corporation social and staff housing. Applicants check eligibility, complete the housing application form, provide income and household documentation, and learn how applications are assessed and waitlists managed; seniors and priority-needs streams are covered.",
+    "url": "https://yukon.ca/en/apply-housing",
+    "tags": [
+      "apply",
+      "social housing",
+      "yukon housing corporation",
+      "waitlist"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "City of Toronto — Housing and Shelter Services",
@@ -23526,6 +23793,22 @@
     ]
   },
   {
+    "name": "Indian Lands Registry System — Public Registry",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Land registry search",
+    "description": "Public search gateway for the Indian Lands Registry System, the First Nation Land Registry System and the Self-Governing First Nation Land Registry. Users can search land records, parcels, instruments and evidence of title for reserve and First Nation lands and retrieve registry reports.",
+    "url": "https://services.aadnc-aandc.gc.ca/ILRS_Public/Home/Notice.aspx",
+    "tags": [
+      "land registry",
+      "reserve lands",
+      "records search",
+      "first nations"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "Indigenous Services Canada — Drinking Water Advisories Map",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -23570,6 +23853,23 @@
     ]
   },
   {
+    "name": "Indigenous Services Canada — Indigenous Business Directory",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Business directory",
+    "description": "Indigenous Services Canada's searchable directory of Indigenous businesses eligible for federal procurement set-asides under the Procurement Strategy for Indigenous Business. Buyers can search for Indigenous suppliers, and Indigenous businesses register here to create a public profile confirming their eligibility.",
+    "url": "https://services.sac-isc.gc.ca/REA-IBD?lang=eng",
+    "tags": [
+      "procurement",
+      "business directory",
+      "indigenous business",
+      "registration",
+      "suppliers"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "Indigenous Services Canada — Jordan's Principle",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -23597,6 +23897,23 @@
       "boundaries",
       "open data"
     ]
+  },
+  {
+    "name": "NIHB — Express Scripts Canada Provider and Client Portal",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Claims portal",
+    "description": "Claims portal for Indigenous Services Canada's Non-Insured Health Benefits (NIHB) program for First Nations and Inuit, operated by Express Scripts Canada. Clients and providers create a web account to submit claims, view claims history and prior approvals, check the Drug Benefit List, and access enrolment and reimbursement forms.",
+    "url": "https://nihb-ssna.express-scripts.ca/en",
+    "tags": [
+      "nihb",
+      "health benefits",
+      "claims",
+      "first nations",
+      "inuit"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "Specific Claims Tribunal — Decisions Database",
@@ -23672,6 +23989,40 @@
     ]
   },
   {
+    "name": "FNIGC — Knowledge Lodge (Data Online)",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Data tool",
+    "description": "The First Nations Information Governance Centre's online data tool giving access to published data from the First Nations Regional Health Survey and the First Nations Regional Early Childhood, Education and Employment Survey. Users explore and export charts, tables and graphs for reports and research.",
+    "url": "https://fnigc.ca/first-nations-data-centre/data-online/",
+    "tags": [
+      "first nations data",
+      "statistics",
+      "ocap",
+      "health survey",
+      "data tool"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Indspire — Building Brighter Futures Bursaries and Scholarships",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Application program",
+    "description": "Indspire's application program for First Nations, Inuit and Métis students in post-secondary education, skilled trades, apprenticeships and technology programs. Students complete one application to be considered for all applicable bursaries and scholarships, with deadlines on August 1, November 1 and February 1.",
+    "url": "https://indspire.ca/programs/students/bursaries-scholarships/",
+    "tags": [
+      "bursaries",
+      "scholarships",
+      "post-secondary",
+      "students",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "Inuit Tapiriit Kanatami",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -23694,6 +24045,22 @@
     "tags": [
       "Métis"
     ]
+  },
+  {
+    "name": "NAFC — Find a Friendship Centre",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Centre locator",
+    "description": "National Association of Friendship Centres locator for its network of over 100 Friendship Centres and provincial/territorial associations. Users find their local Friendship Centre, which provides culturally based programs and services for urban Indigenous people.",
+    "url": "https://nafc.ca/friendship-centres/find-a-friendship-centre",
+    "tags": [
+      "friendship centres",
+      "urban indigenous",
+      "locator",
+      "community services"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "NCTR — National Residential School Memorial Register",
@@ -23724,6 +24091,23 @@
     ]
   },
   {
+    "name": "Alberta — Metis Settlements Land Registry",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "indigenous",
+    "type": "Land registry",
+    "description": "Alberta's Metis Settlements Land Registry records interests in land on Alberta's eight Metis Settlements, the only legislated Métis land base in Canada. The service covers land interests such as allotments and Metis title, appeals to the Metis Settlement Appeal Tribunal, and registry searches of who holds an interest in a parcel.",
+    "url": "https://www.alberta.ca/metis-settlement-land-interests",
+    "tags": [
+      "metis",
+      "land registry",
+      "settlements",
+      "alberta",
+      "search"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "Blackfoot Confederacy — Lands and Tribes",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -23738,6 +24122,23 @@
       "lands"
     ],
     "dateAdded": "2026-10-04"
+  },
+  {
+    "name": "Otipemisiwak Métis Government — Citizenship",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "indigenous",
+    "type": "Citizenship registry",
+    "description": "Citizenship registration service of the Otipemisiwak Métis Government, the Métis Nation within Alberta, distinct from its already-catalogued harvesting program page. Applicants register as citizens by submitting a family tree, birth certificate and identification, with help from the Registry Intake Team.",
+    "url": "https://albertametis.com/citizenship/",
+    "tags": [
+      "metis",
+      "citizenship",
+      "registry",
+      "alberta",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "Otipemisiwak Métis Government — Harvesting Program",
@@ -23842,6 +24243,57 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Nunatsiavut Government — Membership",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "indigenous",
+    "type": "Enrolment registry",
+    "description": "The Nunatsiavut Government's Registrar of Beneficiaries manages eligibility and enrolment for the Labrador Inuit Land Claims Agreement. The page provides the beneficiary enrolment form, eligibility criteria and enrolment and appeal guides, decided by regional Membership Committees.",
+    "url": "https://nunatsiavut.com/membership/",
+    "tags": [
+      "inuit",
+      "enrolment",
+      "nunatsiavut",
+      "land claims",
+      "registry"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "NunatuKavut Community Council — Membership Services",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "indigenous",
+    "type": "Membership registry",
+    "description": "Membership services for NunatuKavut, the Inuit of south and central Labrador. Resident and non-resident citizens can complete membership applications and citizenship card renewals online for direct submission to the membership clerk.",
+    "url": "https://nunatukavut.ca/citizenship/",
+    "tags": [
+      "inuit",
+      "membership",
+      "citizenship",
+      "labrador",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Inuvialuit Regional Corporation — Inuvialuit Enrolment",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "indigenous",
+    "type": "Enrolment service",
+    "description": "Inuvialuit Regional Corporation enrolment service for the Inuvialuit Settlement Region. People aged 18 and over can download the current enrolment application package to become beneficiaries under the Inuvialuit Trust.",
+    "url": "https://irc.inuvialuit.com/services/inuvialuit-enrolment/",
+    "tags": [
+      "inuit",
+      "enrolment",
+      "inuvialuit",
+      "land claims",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "Inuvialuit Regional Corporation — ISR Research Portal (Climate Action Map)",
     "level": "Provincial",
     "jurisdiction": "Northwest Territories",
@@ -23879,6 +24331,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Nunavut Tunngavik — Inuit Firm Registry",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "indigenous",
+    "type": "Business registry",
+    "description": "Nunavut Tunngavik Inc.'s searchable registry of certified Inuit firms under Article 24 of the Nunavut Agreement, listing each firm's region, contacts and services. Inuit firms apply here for the Inuit Firm Status certification used for Nunavut procurement preferences.",
+    "url": "https://inuitfirm.tunngavik.com/",
+    "tags": [
+      "inuit firms",
+      "nunavut",
+      "business registry",
+      "procurement"
+    ],
+    "dateAdded": "2026-10-21"
+  },
+  {
     "name": "Qikiqtani Inuit Association — Land Use Registry",
     "level": "Provincial",
     "jurisdiction": "Nunavut",
@@ -23894,6 +24362,23 @@
       "nunavut"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Métis Nation of Ontario — Registry",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "indigenous",
+    "type": "Citizenship registry",
+    "description": "The Métis Nation of Ontario's Registry provides citizenship applications, citizenship card replacement and renewal, and change of address forms. Applicants submit a citizenship application, oath of allegiance and genealogical chart tracing ancestry to a Métis ancestor.",
+    "url": "https://www.metisnation.org/registry/",
+    "tags": [
+      "metis",
+      "citizenship",
+      "registry",
+      "ontario",
+      "apply"
+    ],
+    "dateAdded": "2026-10-21"
   },
   {
     "name": "Ontario — Map of Ontario Treaties and Reserves",
@@ -41320,490 +41805,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Indigenous Services Canada — Indigenous Business Directory",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Business directory",
-    "description": "Indigenous Services Canada's searchable directory of Indigenous businesses eligible for federal procurement set-asides under the Procurement Strategy for Indigenous Business. Buyers can search for Indigenous suppliers, and Indigenous businesses register here to create a public profile confirming their eligibility.",
-    "url": "https://services.sac-isc.gc.ca/REA-IBD?lang=eng",
-    "tags": [
-      "procurement",
-      "business directory",
-      "indigenous business",
-      "registration",
-      "suppliers"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Indian Lands Registry System — Public Registry",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Land registry search",
-    "description": "Public search gateway for the Indian Lands Registry System, the First Nation Land Registry System and the Self-Governing First Nation Land Registry. Users can search land records, parcels, instruments and evidence of title for reserve and First Nation lands and retrieve registry reports.",
-    "url": "https://services.aadnc-aandc.gc.ca/ILRS_Public/Home/Notice.aspx",
-    "tags": [
-      "land registry",
-      "reserve lands",
-      "records search",
-      "first nations"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "NAFC — Find a Friendship Centre",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Centre locator",
-    "description": "National Association of Friendship Centres locator for its network of over 100 Friendship Centres and provincial/territorial associations. Users find their local Friendship Centre, which provides culturally based programs and services for urban Indigenous people.",
-    "url": "https://nafc.ca/friendship-centres/find-a-friendship-centre",
-    "tags": [
-      "friendship centres",
-      "urban indigenous",
-      "locator",
-      "community services"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Nunavut Tunngavik — Inuit Firm Registry",
-    "level": "Provincial",
-    "jurisdiction": "Nunavut",
-    "category": "indigenous",
-    "type": "Business registry",
-    "description": "Nunavut Tunngavik Inc.'s searchable registry of certified Inuit firms under Article 24 of the Nunavut Agreement, listing each firm's region, contacts and services. Inuit firms apply here for the Inuit Firm Status certification used for Nunavut procurement preferences.",
-    "url": "https://inuitfirm.tunngavik.com/",
-    "tags": [
-      "inuit firms",
-      "nunavut",
-      "business registry",
-      "procurement"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "NIHB — Express Scripts Canada Provider and Client Portal",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Claims portal",
-    "description": "Claims portal for Indigenous Services Canada's Non-Insured Health Benefits (NIHB) program for First Nations and Inuit, operated by Express Scripts Canada. Clients and providers create a web account to submit claims, view claims history and prior approvals, check the Drug Benefit List, and access enrolment and reimbursement forms.",
-    "url": "https://nihb-ssna.express-scripts.ca/en",
-    "tags": [
-      "nihb",
-      "health benefits",
-      "claims",
-      "first nations",
-      "inuit"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "FNIGC — Knowledge Lodge (Data Online)",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Data tool",
-    "description": "The First Nations Information Governance Centre's online data tool giving access to published data from the First Nations Regional Health Survey and the First Nations Regional Early Childhood, Education and Employment Survey. Users explore and export charts, tables and graphs for reports and research.",
-    "url": "https://fnigc.ca/first-nations-data-centre/data-online/",
-    "tags": [
-      "first nations data",
-      "statistics",
-      "ocap",
-      "health survey",
-      "data tool"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Indspire — Building Brighter Futures Bursaries and Scholarships",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Application program",
-    "description": "Indspire's application program for First Nations, Inuit and Métis students in post-secondary education, skilled trades, apprenticeships and technology programs. Students complete one application to be considered for all applicable bursaries and scholarships, with deadlines on August 1, November 1 and February 1.",
-    "url": "https://indspire.ca/programs/students/bursaries-scholarships/",
-    "tags": [
-      "bursaries",
-      "scholarships",
-      "post-secondary",
-      "students",
-      "apply"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Métis Nation of Ontario — Registry",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "indigenous",
-    "type": "Citizenship registry",
-    "description": "The Métis Nation of Ontario's Registry provides citizenship applications, citizenship card replacement and renewal, and change of address forms. Applicants submit a citizenship application, oath of allegiance and genealogical chart tracing ancestry to a Métis ancestor.",
-    "url": "https://www.metisnation.org/registry/",
-    "tags": [
-      "metis",
-      "citizenship",
-      "registry",
-      "ontario",
-      "apply"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Otipemisiwak Métis Government — Citizenship",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "indigenous",
-    "type": "Citizenship registry",
-    "description": "Citizenship registration service of the Otipemisiwak Métis Government, the Métis Nation within Alberta, distinct from its already-catalogued harvesting program page. Applicants register as citizens by submitting a family tree, birth certificate and identification, with help from the Registry Intake Team.",
-    "url": "https://albertametis.com/citizenship/",
-    "tags": [
-      "metis",
-      "citizenship",
-      "registry",
-      "alberta",
-      "apply"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "NunatuKavut Community Council — Membership Services",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "indigenous",
-    "type": "Membership registry",
-    "description": "Membership services for NunatuKavut, the Inuit of south and central Labrador. Resident and non-resident citizens can complete membership applications and citizenship card renewals online for direct submission to the membership clerk.",
-    "url": "https://nunatukavut.ca/citizenship/",
-    "tags": [
-      "inuit",
-      "membership",
-      "citizenship",
-      "labrador",
-      "apply"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Inuvialuit Regional Corporation — Inuvialuit Enrolment",
-    "level": "Provincial",
-    "jurisdiction": "Northwest Territories",
-    "category": "indigenous",
-    "type": "Enrolment service",
-    "description": "Inuvialuit Regional Corporation enrolment service for the Inuvialuit Settlement Region. People aged 18 and over can download the current enrolment application package to become beneficiaries under the Inuvialuit Trust.",
-    "url": "https://irc.inuvialuit.com/services/inuvialuit-enrolment/",
-    "tags": [
-      "inuit",
-      "enrolment",
-      "inuvialuit",
-      "land claims",
-      "apply"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Nunatsiavut Government — Membership",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "indigenous",
-    "type": "Enrolment registry",
-    "description": "The Nunatsiavut Government's Registrar of Beneficiaries manages eligibility and enrolment for the Labrador Inuit Land Claims Agreement. The page provides the beneficiary enrolment form, eligibility criteria and enrolment and appeal guides, decided by regional Membership Committees.",
-    "url": "https://nunatsiavut.com/membership/",
-    "tags": [
-      "inuit",
-      "enrolment",
-      "nunatsiavut",
-      "land claims",
-      "registry"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Alberta — Metis Settlements Land Registry",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "indigenous",
-    "type": "Land registry",
-    "description": "Alberta's Metis Settlements Land Registry records interests in land on Alberta's eight Metis Settlements, the only legislated Métis land base in Canada. The service covers land interests such as allotments and Metis title, appeals to the Metis Settlement Appeal Tribunal, and registry searches of who holds an interest in a parcel.",
-    "url": "https://www.alberta.ca/metis-settlement-land-interests",
-    "tags": [
-      "metis",
-      "land registry",
-      "settlements",
-      "alberta",
-      "search"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "HICC — Funding Portal (Applicant Portal)",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "housing",
-    "type": "Funding portal",
-    "description": "Housing, Infrastructure and Communities Canada's applicant portal for federal infrastructure and housing funding programs, including the Canada Housing Infrastructure Fund, the Short-Term Rental Enforcement Fund and the Build Communities Strong Fund. Municipalities, provinces, Indigenous communities and other eligible recipients select a program, register or sign in, and submit and manage funding applications.",
-    "url": "https://infrastructure-applicant.canada.ca/en/",
-    "tags": [
-      "funding",
-      "apply",
-      "infrastructure",
-      "municipalities",
-      "housing programs"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "CMHC — Housing Design Catalogue",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "housing",
-    "type": "Design catalogue",
-    "description": "CMHC's Housing Design Catalogue tool: 50 standardized, ready-to-use low-rise housing designs (accessory dwelling units, rowhouses, fourplexes and sixplexes) tailored to each region of Canada. Homeowners, builders and municipalities browse the designs, view floor plans and renderings, and download the full technical design packages, user guide and regional construction cost summaries to fast-track gentle-density builds.",
-    "url": "https://www.housingcatalogue.cmhc-schl.gc.ca/",
-    "tags": [
-      "design catalogue",
-      "standardized designs",
-      "gentle density",
-      "builders",
-      "download"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "CMHC — All Funding Opportunities",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "housing",
-    "type": "Funding finder",
-    "description": "CMHC's searchable index of all its funding programs for housing providers, developers and partners, including the Apartment Construction Loan Program, the Affordable Housing Fund, the Housing Accelerator Fund and seed funding. Users browse or filter the full program list and open each program's eligibility, deadlines and application channel.",
-    "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/funding-programs/all-funding-programs",
-    "tags": [
-      "funding",
-      "programs finder",
-      "developers",
-      "housing providers",
-      "apply"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "CMHC — emili (Online Mortgage Loan Insurance Application System)",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "housing",
-    "type": "Application system",
-    "description": "CMHC's emili is the online decision system approved lenders use to submit and adjudicate mortgage loan insurance applications for residential properties of up to four units. It returns insurance decisions in seconds using a consistent risk analysis of the borrower, the property and the market.",
-    "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/emili",
-    "tags": [
-      "mortgage insurance",
-      "lenders",
-      "application system",
-      "emili"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Civida — Online Housing Application Portal",
-    "level": "Agency",
-    "jurisdiction": "Edmonton",
-    "category": "housing",
-    "type": "Application portal",
-    "description": "Civida's online application portal for community and affordable housing in the Edmonton region, run by the region's largest community housing provider (home for over 15,000 people). Applicants create an account, apply for housing and rent assistance, and existing tenants manage their application and tenancy online.",
-    "url": "https://apply.civida.ca/",
-    "tags": [
-      "apply",
-      "community housing",
-      "edmonton",
-      "rent assistance",
-      "application portal"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Calgary Housing — MyHousing Applicant Portal",
-    "level": "Agency",
-    "jurisdiction": "Calgary",
-    "category": "housing",
-    "type": "Application portal",
-    "description": "Calgary Housing's MyHousing online portal, the application channel behind its Apply for Housing service. Applicants create an account to apply for subsidized and near-market rental housing in Calgary, and existing applicants and tenants sign in to update their file, provide documents and manage their tenancy.",
-    "url": "https://myhousing.calgaryhousingcompany.org/",
-    "tags": [
-      "apply",
-      "subsidized housing",
-      "calgary",
-      "applicant portal",
-      "rent"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Manitoba Housing — Social Housing Rental Program",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "housing",
-    "type": "Social housing program",
-    "description": "Manitoba Housing's Social Housing Rental Program page: rent-geared-to-income housing owned and managed by Manitoba Housing for low- and moderate-income families, seniors and people with special needs. The page explains eligibility and income limits, portfolio locations, and how to apply for placement in a Manitoba Housing property. Distinct from the Manitoba Housing homepage already catalogued.",
-    "url": "https://www.gov.mb.ca/housing/progs/mha.html",
-    "tags": [
-      "social housing",
-      "rent-geared-to-income",
-      "apply",
-      "manitoba housing"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Manitoba — Rent Assist",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "housing",
-    "type": "Rent benefit",
-    "description": "Manitoba's Rent Assist program page: a monthly rent benefit for eligible low-income renters in private housing, including people receiving Employment and Income Assistance and other low-income households. The page sets out eligibility, how the benefit is calculated, and how to apply or report changes.",
-    "url": "https://www.manitoba.ca/housing/renters/rent-assist.html",
-    "tags": [
-      "rent assist",
-      "rent benefit",
-      "renters",
-      "low income",
-      "apply"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Manitoba — Housing Affordability Supply Partnership (HASP) Intake",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "housing",
-    "type": "Funding intake",
-    "description": "Manitoba's Housing Affordability Supply Partnership application page: the intake channel for provincial funding that supports non-profit and community partners to create and preserve affordable rental housing supply. Organizations review program parameters and submit funding proposals through this page. Distinct from the Manitoba Housing homepage already catalogued.",
-    "url": "https://manitoba.ca/housing/apply.html",
-    "tags": [
-      "funding",
-      "affordable housing supply",
-      "non-profit",
-      "apply",
-      "developers"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Yukon — Apply for Housing",
-    "level": "Provincial",
-    "jurisdiction": "Yukon",
-    "category": "housing",
-    "type": "Application page",
-    "description": "The Government of Yukon's application page for Yukon Housing Corporation social and staff housing. Applicants check eligibility, complete the housing application form, provide income and household documentation, and learn how applications are assessed and waitlists managed; seniors and priority-needs streams are covered.",
-    "url": "https://yukon.ca/en/apply-housing",
-    "tags": [
-      "apply",
-      "social housing",
-      "yukon housing corporation",
-      "waitlist"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Yukon Housing Corporation — Rent-Geared-to-Income Housing",
-    "level": "Agency",
-    "jurisdiction": "Yukon",
-    "category": "housing",
-    "type": "Housing program portal",
-    "description": "Yukon Housing Corporation's rent-geared-to-income housing page for its community housing portfolio across Yukon communities. Residents review RGI eligibility and rent calculation, community availability, and application and transfer processes, and access tenant forms and resources. Distinct from the Yukon Housing Corporation homepage already catalogued.",
-    "url": "https://www.yukonhousing.ca/our-housing",
-    "tags": [
-      "rent-geared-to-income",
-      "community housing",
-      "apply",
-      "yukon"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "BC Rent Bank — Find Help",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "housing",
-    "type": "Rent bank locator",
-    "description": "BC Rent Bank's Find Help entry point: renters in a temporary financial crisis locate their local rent bank anywhere in British Columbia and start the online pre-assessment for an interest-free loan covering rent or essential utility arrears, a security deposit or first month's rent, to prevent eviction and homelessness.",
-    "url": "https://bcrentbank.ca/find-help/",
-    "tags": [
-      "rent bank",
-      "locator",
-      "pre-assessment",
-      "eviction prevention",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "BC Housing — Tools & Portals",
-    "level": "Agency",
-    "jurisdiction": "British Columbia",
-    "category": "housing",
-    "type": "Tools directory",
-    "description": "BC Housing's directory of all its tools and portals: the Program Finder, the online subsidized housing application, the Citizen Portal for SAFER / Rental Assistance clients, Housing Listings, the BC RAHA eligibility calculator, the RAP/SAFER calculator, the Secondary Suite Incentive Program portal and the Shelter Map. Distinct from BC Housing's subsidized housing application page already catalogued.",
-    "url": "https://www.bchousing.org/tools-portals",
-    "tags": [
-      "tools",
-      "portals",
-      "program finder",
-      "calculators",
-      "bc housing"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Social Housing Registry of Ottawa — Application Forms",
-    "level": "Agency",
-    "jurisdiction": "Ottawa",
-    "category": "housing",
-    "type": "Application forms",
-    "description": "The Social Housing Registry of Ottawa's application forms page for the city's centralized waiting list: fillable applications for rent-geared-to-income housing and for Affordable Housing (including Below Market Rent), with document checklists for proof of residency and income, submission instructions, and forms for updates and special priority. Distinct from Ottawa Community Housing, the provider entry already catalogued.",
-    "url": "https://housingregistry.ca/the-forms/",
-    "tags": [
-      "apply",
-      "rent-geared-to-income",
-      "waiting list",
-      "ottawa",
-      "forms"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Nova Scotia Provincial Housing Agency — Apply for Public Housing",
-    "level": "Agency",
-    "jurisdiction": "Nova Scotia",
-    "category": "housing",
-    "type": "Application portal",
-    "description": "The Nova Scotia Provincial Housing Agency's public housing application page: households apply online for rent-geared-to-income public housing across Nova Scotia, or download the PDF application for mail, email or in-person submission. The page covers eligibility, required documents and regional office contacts. The agency's previous applicant portal failed verification in the Oct 20 run; this is its own application path on housingnovascotia.ca.",
-    "url": "https://housingnovascotia.ca/public-housing-application",
-    "tags": [
-      "apply",
-      "public housing",
-      "rent-geared-to-income",
-      "nova scotia"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Newfoundland and Labrador — Residential Tenancies",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "housing",
-    "type": "Tenancy forms and disputes portal",
-    "description": "Newfoundland and Labrador's Residential Tenancies hub for tenants and landlords: statutory forms and notices, security deposit rules, termination and eviction processes, and the application channel for tenancy dispute resolution and hearings under the Residential Tenancies Act. Distinct from the NL Housing Corporation programs page already catalogued.",
-    "url": "https://www.gov.nl.ca/dgsnl/landlords/residential-tenancies/",
-    "tags": [
-      "residential tenancies",
-      "forms",
-      "disputes",
-      "tenants",
-      "landlords"
-    ],
-    "dateAdded": "2026-10-21"
   }
 ]
