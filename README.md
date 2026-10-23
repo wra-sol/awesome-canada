@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2662 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2659 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -26,7 +26,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 ## Table of Contents
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 218
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 105
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 104
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
 - [🪪 Government Services & ID](#government-services-and-id) — 92
@@ -40,7 +40,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🩺 Health & Wellness](#health-and-wellness) — 123
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 58
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 82
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 81
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 59
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 45
@@ -54,7 +54,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 92
-- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 70
+- [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 74
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 44
 - [🎖️ Veterans & Military](#veterans-and-military) — 28
@@ -478,7 +478,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Nunavut Planning Commission — Public Registry | Nunavut · Provincial | Land-use registry | Search Nunavut land-use project proposals on a map or by keyword and region — proposal notices, documents, schedules and comment periods, with new-document email alerts. | https://lupit.nunavut.ca/portal/registry/ |
-| WhitehorseMap | Whitehorse · Municipal | GIS | Interactive web-based GIS mapping tool for the City of Whitehorse with layers for planning, engineering, transportation, parks, utilities, and administration. Explore property boundaries, zoning, infrastructure, and public facilities. | https://gisext.whitehorse.ca/gis.php |
 
 ## 🏛️ Council, Democracy & Transparency
 
@@ -2137,7 +2136,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nunavut Housing Corporation | Nunavut · Agency | Territorial housing corporation | Nunavut's housing corporation: public housing in all 25 communities through local housing organizations, staff housing, and homeownership and home repair programs for Nunavummiut. | https://www.nunavuthousing.ca/ |
 | Yukon Housing Corporation | Yukon · Agency | Territorial housing corporation | Yukon's housing corporation (Social Housing waitlist merged into Rent-Geared-to-Income in 2025): apply for RGI housing, senior and staff housing, and home repair and rental supplements. | https://www.yukonhousing.ca/ |
 | Yukon Housing Corporation — Rent-Geared-to-Income Housing | Yukon · Agency | Housing program portal | Yukon Housing Corporation's rent-geared-to-income housing page for its community housing portfolio across Yukon communities. Residents review RGI eligibility and rent calculation, community availability, and application and transfer processes, and access tenant forms and resources. Distinct from the Yukon Housing Corporation homepage already catalogued. | https://www.yukonhousing.ca/our-housing |
-| Office of the Rentals Officer — Northwest Territories | Northwest Territories · Provincial | Residential tenancies office | The NWT Rentals Officer (GNWT Justice): apply for orders on rent arrears, evictions, repairs and security deposits, get mediation, and download tenancy forms and fact sheets. | https://www.justice.gov.nt.ca/en/boards-agencies/rental-office/ |
 | Yukon — Apply for Housing | Yukon · Provincial | Application page | The Government of Yukon's application page for Yukon Housing Corporation social and staff housing. Applicants check eligibility, complete the housing application form, provide income and household documentation, and learn how applications are assessed and waitlists managed; seniors and priority-needs streams are covered. | https://yukon.ca/en/apply-housing |
 
 ## 🛣️ Transportation & Roads
@@ -3825,7 +3823,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Courts of the NWT — Scheduled Matters & Docket PDFs | Northwest Territories · Provincial | Lookup tool | Filter scheduled court matters by court, community and date range across all NWT regions; download daily Territorial/Supreme Court docket PDFs refreshed several times a day. | https://www.nwtcourts.ca/en/schedule/matters/ |
 | Nunavut Courts — Daily Docket & Court File Search | Nunavut · Provincial | Lookup tool | Search daily criminal/civil court dockets by community, court type and date across all Nunavut communities; also concluded dockets and party lookup by name or court file number. | https://dockets.nunavutcourts.ca/ |
 | Yukon Courts — Judgment Database | Yukon · Provincial | Lookup tool | Search written reasons for judgment and sentencing from Yukon's Court of Appeal, Supreme Court and Territorial Court — most decisions since 2006, backfilled toward 2001, all as PDFs. | https://www.yukoncourts.ca/en/court-appeal/judgments |
 

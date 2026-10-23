@@ -5487,6 +5487,23 @@
     "dateAdded": "2026-10-18"
   },
   {
+    "name": "CBC/Radio-Canada — Office of the Ombudsman",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Ombudsman office",
+    "description": "The Office of the CBC Ombudsman's official site on the CBC/Radio-Canada corporate site: the independent office that evaluates whether CBC/Radio-Canada news, current affairs and public affairs content (radio, TV, web and social) complies with the CBC's Journalistic Standards and Practices. Members of the public submit complaints about CBC journalism to the Ombudsman, and the site publishes the Ombudsman's complaint reviews, inbox posts, annual reports and the complaint review process. The office's former standalone host (ombudsman.cbc.radio-canada.ca) no longer loads — it returns a certificate error in browsers — so this corporate-site page is the live location.",
+    "url": "https://cbc.radio-canada.ca/en/ombudsman",
+    "tags": [
+      "ombudsman",
+      "complaints",
+      "journalism",
+      "cbc",
+      "media accountability"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
     "name": "General Insurance OmbudService (GIO)",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -6659,7 +6676,8 @@
       "pdf",
       "bilingual",
       "archive"
-    ]
+    ],
+    "dateAdded": "2026-09-09"
   },
   {
     "name": "PEI — The Royal Gazette",
@@ -11564,6 +11582,23 @@
     ]
   },
   {
+    "name": "Government of Canada — Student Aid Estimator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Estimator",
+    "description": "The Government of Canada's federal Student Aid Estimator: students enter their province of residence, study period and program, dependants, tuition and living costs, income and scholarships to estimate the Canada Student Grants and Loans they could receive before applying through their province or territory. The estimator covers federal aid only, not provincial or territorial grants and loans.",
+    "url": "https://www.canada.ca/en/services/benefits/education/student-aid/estimator.html",
+    "tags": [
+      "student aid",
+      "estimator",
+      "grants",
+      "loans",
+      "post-secondary"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
     "name": "National Student Loans Service Centre",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -14451,6 +14486,23 @@
     "dateAdded": "2026-10-19"
   },
   {
+    "name": "Alberta — MyTradeSecrets (Apprenticeship Portal)",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "employment",
+    "type": "Apprenticeship portal",
+    "description": "Alberta Apprenticeship and Industry Training's secure online portal for apprentices and trainees. Clients sign in with an Alberta.ca Account to manage their apprenticeship profile, view class and exam schedules and marks, submit applications for AIT programs and services, upload documents and record book updates, and pay fees online.",
+    "url": "https://tradesecrets.alberta.ca/mytradesecrets/sign-in-to-mytradesecrets/",
+    "tags": [
+      "apprenticeship",
+      "trades",
+      "alberta",
+      "portal",
+      "exams"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
     "name": "Alberta Labour Statistics",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -14495,6 +14547,23 @@
       "lookup tool"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "British Columbia — Employment Standards Online Complaint",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "employment",
+    "type": "Complaint portal",
+    "description": "British Columbia's official online complaint portal for the Employment Standards Branch. Workers fill out and submit a complaint online (about 15 minutes) about wages, hours, leave, termination or other Employment Standards Act concerns; submissions are confirmed by email and investigated by the Branch. Complaints generally must be filed within six months of the issue.",
+    "url": "https://services.labour.gov.bc.ca/Complaints",
+    "tags": [
+      "employment standards",
+      "complaint",
+      "workers",
+      "british columbia",
+      "wages"
+    ],
+    "dateAdded": "2026-10-22"
   },
   {
     "name": "Health Match BC",
@@ -14809,6 +14878,23 @@
       "workplace safety"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Ontario — File an Employment Standards Claim",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "employment",
+    "type": "Claim filing guide",
+    "description": "The Ontario Ministry of Labour's guide chapter on filing an employment standards claim: employees who believe their employer violated the Employment Standards Act or the Employment Protection for Foreign Nationals Act file a claim for free online through the ministry's eClaim form (or by PDF), typically within two years of the violation. The page explains what to file, the deadlines, and that filing is legally protected from reprisal. Distinct chapter of the ESA guide; the catalogued guide entry covers the ESA calculators and general guide.",
+    "url": "https://www.ontario.ca/document/your-guide-employment-standards-act-0/filing-claim",
+    "tags": [
+      "employment standards",
+      "claim",
+      "workers",
+      "ontario",
+      "eclaim"
+    ],
+    "dateAdded": "2026-10-22"
   },
   {
     "name": "Ontario Minimum Wage",
@@ -17028,6 +17114,23 @@
       "search",
       "quebec"
     ]
+  },
+  {
+    "name": "Retraite Québec — SimulR (Retirement Income Simulator)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "finance",
+    "type": "Retirement simulator",
+    "description": "Retraite Québec's simplified retirement income simulator. Users enter their personal and savings information to see a picture of their retirement income, compare scenarios for applying for their pension earlier or later, check whether they are on track to reach their retirement income goal, and calculate how much more they need to save each month if there is a gap.",
+    "url": "https://www.retraitequebec.gouv.qc.ca/en/services-en-ligne-outils/simulr/Pages/simulr.aspx",
+    "tags": [
+      "retirement",
+      "simulator",
+      "pension",
+      "savings",
+      "quebec pension plan"
+    ],
+    "dateAdded": "2026-10-22"
   },
   {
     "name": "Saskatchewan's Dashboard — Economic Indicators",
@@ -22812,6 +22915,23 @@
     ]
   },
   {
+    "name": "New Brunswick — Solve a Problem (Tenant and Landlord Help)",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "housing",
+    "type": "Tenancy help and forms",
+    "description": "Housing NB's problem-resolution page for tenants and landlords: the route to the Tenant/Landlord Application for Assistance forms and help when a tenancy problem (repairs, deposits, notices, arrears) cannot be resolved directly. Distinct from RentalsNB, the province's tenancy services homepage already catalogued; an older rentalsnb.ca version of this page is a soft-404, and this gnb.ca topic page is the live one.",
+    "url": "https://www.gnb.ca/en/topic/family-home-community/housing-property/solve-problem.html",
+    "tags": [
+      "tenancy",
+      "disputes",
+      "forms",
+      "tenants",
+      "landlords"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
     "name": "RentalsNB — New Brunswick Tenancy Services",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -22844,23 +22964,6 @@
       "landlords"
     ],
     "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Office of the Rentals Officer — Northwest Territories",
-    "level": "Provincial",
-    "jurisdiction": "Northwest Territories",
-    "category": "housing",
-    "type": "Residential tenancies office",
-    "description": "The NWT Rentals Officer (GNWT Justice): apply for orders on rent arrears, evictions, repairs and security deposits, get mediation, and download tenancy forms and fact sheets.",
-    "url": "https://www.justice.gov.nt.ca/en/boards-agencies/rental-office/",
-    "tags": [
-      "northwest territories",
-      "rentals officer",
-      "residential tenancies",
-      "mediation",
-      "forms"
-    ],
-    "dateAdded": "2026-10-20"
   },
   {
     "name": "Nova Scotia — Public Housing Units (Open Data)",
@@ -22965,6 +23068,40 @@
       "property",
       "calculator"
     ]
+  },
+  {
+    "name": "IRAC — Rental Appeals (Prince Edward Island)",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "housing",
+    "type": "Appeals portal",
+    "description": "The Island Regulatory and Appeals Commission's Rental Appeals page: anyone dissatisfied with an order from PEI's Residential Tenancy Office (Rental Office) appeals to the Commission by completing the Notice of Appeal form and filing it with the Commission and every other party within the Residential Tenancy Act timeline. The page carries the fillable form, filing instructions, FAQ and the Commission's hearing scheduling policy.",
+    "url": "https://irac.pe.ca/rental_section/rental/",
+    "tags": [
+      "rental appeals",
+      "residential tenancy",
+      "appeal form",
+      "pei",
+      "irac"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Prince Edward Island — Apply for Family Housing Online",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "housing",
+    "type": "Online application service",
+    "description": "Prince Edward Island's online application service for the Family Housing Program: low-income Island families and individuals complete the online form to apply for government-owned family housing units (rent at 25% of household income) or landlord-owned housing vouchers, assessed by local housing boards against published income thresholds. Distinct from the Family Housing Program information page, which Jev scored 1.72 on Oct 21 as mostly static information; this is the actual application channel.",
+    "url": "https://www.princeedwardisland.ca/en/service/apply-family-housing-online",
+    "tags": [
+      "apply online",
+      "family housing",
+      "pei housing",
+      "low income",
+      "application form"
+    ],
+    "dateAdded": "2026-10-22"
   },
   {
     "name": "Quebec — Registre foncier du Québec en ligne",
@@ -25120,23 +25257,6 @@
       "justice",
       "search",
       "supreme court"
-    ],
-    "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "Courts of the NWT — Scheduled Matters & Docket PDFs",
-    "level": "Provincial",
-    "jurisdiction": "Northwest Territories",
-    "category": "justice",
-    "type": "Lookup tool",
-    "description": "Filter scheduled court matters by court, community and date range across all NWT regions; download daily Territorial/Supreme Court docket PDFs refreshed several times a day.",
-    "url": "https://www.nwtcourts.ca/en/schedule/matters/",
-    "tags": [
-      "court dockets",
-      "justice",
-      "northwest territories",
-      "search",
-      "pdf"
     ],
     "dateAdded": "2026-08-25"
   },
@@ -30531,6 +30651,28 @@
     ]
   },
   {
+    "name": "CAMMM Atlas Web Application",
+    "level": "Agency",
+    "jurisdiction": "Quebec",
+    "category": "planning-zoning",
+    "type": "Interactive map",
+    "description": "Bilingual interactive atlas from the IDEAS-BE lab at Université de Montréal and Concordia that scores accessibility and spatial equity for neighbourhoods, transit hubs and access points in five Quebec city regions: Montreal Island, the Montreal Metropolitan Region, Gatineau, Sherbrooke and Quebec City. It measures access to transit, green spaces, grocery stores, healthcare and schools, plus features for people with reduced mobility.",
+    "url": "https://ideas-be.github.io/CAMMM-Web-Tool/",
+    "tags": [
+      "quebec",
+      "accessibility",
+      "transit",
+      "spatial equity",
+      "interactive map",
+      "neighbourhoods",
+      "reduced mobility",
+      "montreal",
+      "gatineau",
+      "sherbrooke"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
     "name": "Municipal and Community Affairs — Land Use Planning Registry",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",
@@ -32174,24 +32316,6 @@
       "property lookup",
       "planning",
       "ArcGIS"
-    ]
-  },
-  {
-    "name": "WhitehorseMap",
-    "level": "Municipal",
-    "jurisdiction": "Whitehorse",
-    "category": "planning-zoning",
-    "type": "GIS",
-    "description": "Interactive web-based GIS mapping tool for the City of Whitehorse with layers for planning, engineering, transportation, parks, utilities, and administration. Explore property boundaries, zoning, infrastructure, and public facilities.",
-    "url": "https://gisext.whitehorse.ca/gis.php",
-    "tags": [
-      "GIS",
-      "interactive",
-      "map",
-      "layers",
-      "planning",
-      "Whitehorse",
-      "Yukon"
     ]
   },
   {
@@ -40918,6 +41042,23 @@
     "dateAdded": "2026-09-29"
   },
   {
+    "name": "DND/VAC — Operational Stress Injury Social Support (OSISS)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Peer support service",
+    "description": "The Canada.ca service page for Operational Stress Injury Social Support (OSISS), the joint National Defence and Veterans Affairs Canada peer-support program: CAF members, veterans and their families affected by an operational stress injury such as anxiety, depression or PTSD connect with trained Peer Support Coordinators for confidential, non-clinical support, help accessing OSI programs and community resources, and referrals to VAC and CAF staff on release, pension or treatment questions. Contact is by the Canada-wide toll-free line through the CAF Transition Group.",
+    "url": "https://www.canada.ca/en/department-national-defence/services/benefits-military/health-support/casualty-support/peer-support/osiss.html",
+    "tags": [
+      "osiss",
+      "peer support",
+      "operational stress injury",
+      "ptsd",
+      "mental health"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
     "name": "Library and Archives Canada — First World War Personnel Records",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -40968,6 +41109,23 @@
       "war dead"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "Soldier On",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Support program",
+    "description": "Soldier On, the Canadian Armed Forces program (delivered through CFMWS Personnel Support Programs) that supports serving members and veterans who are ill or injured — and their recovery — through sport, recreation and creative activities: members register to join local and national events and camps, and apply for grants toward sports and recreation equipment and activities that help them adapt and overcome permanent illness or injury.",
+    "url": "https://www.soldieron.ca/",
+    "tags": [
+      "soldier on",
+      "ill and injured",
+      "sport",
+      "recovery",
+      "caf"
+    ],
+    "dateAdded": "2026-10-22"
   },
   {
     "name": "VAC — Prescription Drug Formulary Search (POC 10)",
@@ -41035,6 +41193,22 @@
     ]
   },
   {
+    "name": "Veterans Affairs Canada — Forms",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Forms library",
+    "description": "Veterans Affairs Canada's forms library: the central index of VAC application and service forms across its benefit and service programs — the forms veterans, survivors and dependants download or complete to apply for disability benefits, health care, financial programs and other VAC services, each linked from the program pages and My VAC Account journeys.",
+    "url": "https://www.veterans.gc.ca/en/about-vac/resources/forms",
+    "tags": [
+      "forms",
+      "applications",
+      "vac",
+      "apply"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
     "name": "Veterans Affairs Canada — My VAC Account",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -41048,6 +41222,40 @@
     ]
   },
   {
+    "name": "Veterans Affairs Canada — Office Locator & Contact",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Office locator",
+    "description": "Veterans Affairs Canada's contact and location directory: find the VAC area office or service location nearest you — every office listed by province with its address, hours and language offered — request an in-person appointment, find CAF Transition Centres, and reach VAC by toll-free phone, secure My VAC Account message, email, or the 24/7 VAC Assistance Service for confidential psychological support.",
+    "url": "https://www.veterans.gc.ca/en/contact-us",
+    "tags": [
+      "office locator",
+      "contact",
+      "area offices",
+      "appointments",
+      "vac"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Veterans Affairs Canada — Veterans Emergency Fund",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Emergency fund",
+    "description": "Veterans Affairs Canada's Veterans Emergency Fund program page: the fund provides emergency financial assistance to veterans, their families and survivors facing an urgent situation that threatens their well-being — essentials such as food, shelter, clothing and medical needs — accessed through VAC case managers and area offices and through partner organizations, as a bridge while longer-term supports are put in place.",
+    "url": "https://www.veterans.gc.ca/en/financial-programs-and-services/emergency-funds/veterans-emergency-fund",
+    "tags": [
+      "emergency fund",
+      "financial assistance",
+      "crisis",
+      "vac",
+      "veterans"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
     "name": "War Memorials in Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -41059,6 +41267,40 @@
       "veterans",
       "heritage"
     ]
+  },
+  {
+    "name": "Last Post Fund — Funeral & Burial Program",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Funeral and burial program",
+    "description": "The Last Post Fund, the non-profit that delivers Veterans Affairs Canada's Funeral and Burial Program: families and estates arrange financial assistance toward a dignified funeral, burial or cremation and a military grave marker for eligible veterans who died in financial need, check eligibility and start the application through the Fund, which also provides grave markers for unmarked veterans' graves and maintains the National Field of Honour.",
+    "url": "https://www.lastpostfund.ca/",
+    "tags": [
+      "last post fund",
+      "funeral",
+      "burial",
+      "grave markers",
+      "vac program"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Office of the Veterans Ombud",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Ombudsman office",
+    "description": "The independent Office of the Veterans Ombud: veterans, serving CAF and RCMP members and their families who believe Veterans Affairs Canada treated them unfairly submit a complaint online (or by phone, fax or mail), get information and referrals to the right service provider, and can ask the office to review whether a VAC process or outcome was fair. The Ombud cannot change a VAC decision but advocates for fairness, investigates complaints and publishes systemic reviews and recommendations to the Minister and Parliament.",
+    "url": "https://ombudsman-veterans.gc.ca/en",
+    "tags": [
+      "ombudsman",
+      "complaints",
+      "fairness",
+      "vac",
+      "veterans"
+    ],
+    "dateAdded": "2026-10-22"
   },
   {
     "name": "Project '44 — WWII Interactive Map",
@@ -41075,6 +41317,74 @@
       "war diaries",
       "remembrance"
     ]
+  },
+  {
+    "name": "Royal Canadian Legion — Find a Branch",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Branch locator",
+    "description": "The Royal Canadian Legion's branch locator: search the Legion's national network of local branches to find the branch nearest you — the front door to Legion membership, remembrance activities and its free Service Bureau help, where Command and branch Service Officers assist veterans and their families with Veterans Affairs Canada claims and benefits at no cost, whether or not they are Legion members.",
+    "url": "https://www.legion.ca/find-a-branch",
+    "tags": [
+      "legion",
+      "branch locator",
+      "service officers",
+      "remembrance",
+      "veterans"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Support Our Troops",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Charitable support fund",
+    "description": "Support Our Troops, the official charitable cause of the Canadian Armed Forces community, operated under CFMWS: serving members, veterans and military families apply for emergency financial assistance and grants, scholarships, support for ill and injured members, and programs such as holiday and summer-camp support for military children, funded by donations from Canadians.",
+    "url": "https://www.supportourtroops.ca/",
+    "tags": [
+      "support our troops",
+      "emergency grants",
+      "scholarships",
+      "military families",
+      "cfmws"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Veterans Review and Appeal Board — How to Apply",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Appeals tribunal",
+    "description": "How to apply to the Veterans Review and Appeal Board, the independent federal tribunal that reviews Veterans Affairs Canada disability-benefit decisions: anyone dissatisfied with a VAC disability decision can request a Review hearing and then an Appeal hearing, with no time limit. The page walks applicants through choosing representation — free legal representation from the Bureau of Pensions Advocates, free help from Royal Canadian Legion service officers, a private representative, or self-representation — and how the application is registered.",
+    "url": "https://vrab-tacra.gc.ca/index.php/en/apply-board",
+    "tags": [
+      "appeals",
+      "tribunal",
+      "disability benefits",
+      "review hearing",
+      "vrab"
+    ],
+    "dateAdded": "2026-10-22"
+  },
+  {
+    "name": "Ontario — Soldiers' Aid Commission (Financial Assistance)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "veterans",
+    "type": "Financial assistance",
+    "description": "Ontario's Soldiers' Aid Commission financial assistance page: the Commission provides financial assistance to eligible Ontario veterans who served in the Canadian Armed Forces or as allied veterans, and to their spouses/partners and dependants, who are in financial difficulty — grants toward health-related and essential needs such as medical and dental care, hearing and vision aids, home repairs and accessibility, and other necessities, applied for through the Commission.",
+    "url": "https://www.ontario.ca/page/soldiers-aid-commission",
+    "tags": [
+      "soldiers aid commission",
+      "financial assistance",
+      "ontario",
+      "grants",
+      "veterans"
+    ],
+    "dateAdded": "2026-10-22"
   },
   {
     "name": "Air Quality Health Index (AQHI) — Observations Map",
@@ -41805,366 +42115,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "CAMMM Atlas Web Application",
-    "level": "Agency",
-    "jurisdiction": "Quebec",
-    "category": "planning-zoning",
-    "type": "Interactive map",
-    "description": "Bilingual interactive atlas from the IDEAS-BE lab at Université de Montréal and Concordia that scores accessibility and spatial equity for neighbourhoods, transit hubs and access points in five Quebec city regions: Montreal Island, the Montreal Metropolitan Region, Gatineau, Sherbrooke and Quebec City. It measures access to transit, green spaces, grocery stores, healthcare and schools, plus features for people with reduced mobility.",
-    "url": "https://ideas-be.github.io/CAMMM-Web-Tool/",
-    "tags": [
-      "quebec",
-      "accessibility",
-      "transit",
-      "spatial equity",
-      "interactive map",
-      "neighbourhoods",
-      "reduced mobility",
-      "montreal",
-      "gatineau",
-      "sherbrooke"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Government of Canada — Student Aid Estimator",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "education",
-    "type": "Estimator",
-    "description": "The Government of Canada's federal Student Aid Estimator: students enter their province of residence, study period and program, dependants, tuition and living costs, income and scholarships to estimate the Canada Student Grants and Loans they could receive before applying through their province or territory. The estimator covers federal aid only, not provincial or territorial grants and loans.",
-    "url": "https://www.canada.ca/en/services/benefits/education/student-aid/estimator.html",
-    "tags": [
-      "student aid",
-      "estimator",
-      "grants",
-      "loans",
-      "post-secondary"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Retraite Québec — SimulR (Retirement Income Simulator)",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "finance",
-    "type": "Retirement simulator",
-    "description": "Retraite Québec's simplified retirement income simulator. Users enter their personal and savings information to see a picture of their retirement income, compare scenarios for applying for their pension earlier or later, check whether they are on track to reach their retirement income goal, and calculate how much more they need to save each month if there is a gap.",
-    "url": "https://www.retraitequebec.gouv.qc.ca/en/services-en-ligne-outils/simulr/Pages/simulr.aspx",
-    "tags": [
-      "retirement",
-      "simulator",
-      "pension",
-      "savings",
-      "quebec pension plan"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Ontario — File an Employment Standards Claim",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "employment",
-    "type": "Claim filing guide",
-    "description": "The Ontario Ministry of Labour's guide chapter on filing an employment standards claim: employees who believe their employer violated the Employment Standards Act or the Employment Protection for Foreign Nationals Act file a claim for free online through the ministry's eClaim form (or by PDF), typically within two years of the violation. The page explains what to file, the deadlines, and that filing is legally protected from reprisal. Distinct chapter of the ESA guide; the catalogued guide entry covers the ESA calculators and general guide.",
-    "url": "https://www.ontario.ca/document/your-guide-employment-standards-act-0/filing-claim",
-    "tags": [
-      "employment standards",
-      "claim",
-      "workers",
-      "ontario",
-      "eclaim"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Alberta — MyTradeSecrets (Apprenticeship Portal)",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "employment",
-    "type": "Apprenticeship portal",
-    "description": "Alberta Apprenticeship and Industry Training's secure online portal for apprentices and trainees. Clients sign in with an Alberta.ca Account to manage their apprenticeship profile, view class and exam schedules and marks, submit applications for AIT programs and services, upload documents and record book updates, and pay fees online.",
-    "url": "https://tradesecrets.alberta.ca/mytradesecrets/sign-in-to-mytradesecrets/",
-    "tags": [
-      "apprenticeship",
-      "trades",
-      "alberta",
-      "portal",
-      "exams"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "British Columbia — Employment Standards Online Complaint",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "employment",
-    "type": "Complaint portal",
-    "description": "British Columbia's official online complaint portal for the Employment Standards Branch. Workers fill out and submit a complaint online (about 15 minutes) about wages, hours, leave, termination or other Employment Standards Act concerns; submissions are confirmed by email and investigated by the Branch. Complaints generally must be filed within six months of the issue.",
-    "url": "https://services.labour.gov.bc.ca/Complaints",
-    "tags": [
-      "employment standards",
-      "complaint",
-      "workers",
-      "british columbia",
-      "wages"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Prince Edward Island — Apply for Family Housing Online",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "housing",
-    "type": "Online application service",
-    "description": "Prince Edward Island's online application service for the Family Housing Program: low-income Island families and individuals complete the online form to apply for government-owned family housing units (rent at 25% of household income) or landlord-owned housing vouchers, assessed by local housing boards against published income thresholds. Distinct from the Family Housing Program information page, which Jev scored 1.72 on Oct 21 as mostly static information; this is the actual application channel.",
-    "url": "https://www.princeedwardisland.ca/en/service/apply-family-housing-online",
-    "tags": [
-      "apply online",
-      "family housing",
-      "pei housing",
-      "low income",
-      "application form"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "New Brunswick — Solve a Problem (Tenant and Landlord Help)",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "housing",
-    "type": "Tenancy help and forms",
-    "description": "Housing NB's problem-resolution page for tenants and landlords: the route to the Tenant/Landlord Application for Assistance forms and help when a tenancy problem (repairs, deposits, notices, arrears) cannot be resolved directly. Distinct from RentalsNB, the province's tenancy services homepage already catalogued; an older rentalsnb.ca version of this page is a soft-404, and this gnb.ca topic page is the live one.",
-    "url": "https://www.gnb.ca/en/topic/family-home-community/housing-property/solve-problem.html",
-    "tags": [
-      "tenancy",
-      "disputes",
-      "forms",
-      "tenants",
-      "landlords"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "IRAC — Rental Appeals (Prince Edward Island)",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "housing",
-    "type": "Appeals portal",
-    "description": "The Island Regulatory and Appeals Commission's Rental Appeals page: anyone dissatisfied with an order from PEI's Residential Tenancy Office (Rental Office) appeals to the Commission by completing the Notice of Appeal form and filing it with the Commission and every other party within the Residential Tenancy Act timeline. The page carries the fillable form, filing instructions, FAQ and the Commission's hearing scheduling policy.",
-    "url": "https://irac.pe.ca/rental_section/rental/",
-    "tags": [
-      "rental appeals",
-      "residential tenancy",
-      "appeal form",
-      "pei",
-      "irac"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "CBC/Radio-Canada — Office of the Ombudsman",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "consumer",
-    "type": "Ombudsman office",
-    "description": "The Office of the CBC Ombudsman's official site on the CBC/Radio-Canada corporate site: the independent office that evaluates whether CBC/Radio-Canada news, current affairs and public affairs content (radio, TV, web and social) complies with the CBC's Journalistic Standards and Practices. Members of the public submit complaints about CBC journalism to the Ombudsman, and the site publishes the Ombudsman's complaint reviews, inbox posts, annual reports and the complaint review process. The office's former standalone host (ombudsman.cbc.radio-canada.ca) no longer loads — it returns a certificate error in browsers — so this corporate-site page is the live location.",
-    "url": "https://cbc.radio-canada.ca/en/ombudsman",
-    "tags": [
-      "ombudsman",
-      "complaints",
-      "journalism",
-      "cbc",
-      "media accountability"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Office of the Veterans Ombud",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Ombudsman office",
-    "description": "The independent Office of the Veterans Ombud: veterans, serving CAF and RCMP members and their families who believe Veterans Affairs Canada treated them unfairly submit a complaint online (or by phone, fax or mail), get information and referrals to the right service provider, and can ask the office to review whether a VAC process or outcome was fair. The Ombud cannot change a VAC decision but advocates for fairness, investigates complaints and publishes systemic reviews and recommendations to the Minister and Parliament.",
-    "url": "https://ombudsman-veterans.gc.ca/en",
-    "tags": [
-      "ombudsman",
-      "complaints",
-      "fairness",
-      "vac",
-      "veterans"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Veterans Review and Appeal Board — How to Apply",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Appeals tribunal",
-    "description": "How to apply to the Veterans Review and Appeal Board, the independent federal tribunal that reviews Veterans Affairs Canada disability-benefit decisions: anyone dissatisfied with a VAC disability decision can request a Review hearing and then an Appeal hearing, with no time limit. The page walks applicants through choosing representation — free legal representation from the Bureau of Pensions Advocates, free help from Royal Canadian Legion service officers, a private representative, or self-representation — and how the application is registered.",
-    "url": "https://vrab-tacra.gc.ca/index.php/en/apply-board",
-    "tags": [
-      "appeals",
-      "tribunal",
-      "disability benefits",
-      "review hearing",
-      "vrab"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Soldier On",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Support program",
-    "description": "Soldier On, the Canadian Armed Forces program (delivered through CFMWS Personnel Support Programs) that supports serving members and veterans who are ill or injured — and their recovery — through sport, recreation and creative activities: members register to join local and national events and camps, and apply for grants toward sports and recreation equipment and activities that help them adapt and overcome permanent illness or injury.",
-    "url": "https://www.soldieron.ca/",
-    "tags": [
-      "soldier on",
-      "ill and injured",
-      "sport",
-      "recovery",
-      "caf"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "DND/VAC — Operational Stress Injury Social Support (OSISS)",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Peer support service",
-    "description": "The Canada.ca service page for Operational Stress Injury Social Support (OSISS), the joint National Defence and Veterans Affairs Canada peer-support program: CAF members, veterans and their families affected by an operational stress injury such as anxiety, depression or PTSD connect with trained Peer Support Coordinators for confidential, non-clinical support, help accessing OSI programs and community resources, and referrals to VAC and CAF staff on release, pension or treatment questions. Contact is by the Canada-wide toll-free line through the CAF Transition Group.",
-    "url": "https://www.canada.ca/en/department-national-defence/services/benefits-military/health-support/casualty-support/peer-support/osiss.html",
-    "tags": [
-      "osiss",
-      "peer support",
-      "operational stress injury",
-      "ptsd",
-      "mental health"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Veterans Affairs Canada — Forms",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Forms library",
-    "description": "Veterans Affairs Canada's forms library: the central index of VAC application and service forms across its benefit and service programs — the forms veterans, survivors and dependants download or complete to apply for disability benefits, health care, financial programs and other VAC services, each linked from the program pages and My VAC Account journeys.",
-    "url": "https://www.veterans.gc.ca/en/about-vac/resources/forms",
-    "tags": [
-      "forms",
-      "applications",
-      "vac",
-      "apply"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Veterans Affairs Canada — Office Locator & Contact",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Office locator",
-    "description": "Veterans Affairs Canada's contact and location directory: find the VAC area office or service location nearest you — every office listed by province with its address, hours and language offered — request an in-person appointment, find CAF Transition Centres, and reach VAC by toll-free phone, secure My VAC Account message, email, or the 24/7 VAC Assistance Service for confidential psychological support.",
-    "url": "https://www.veterans.gc.ca/en/contact-us",
-    "tags": [
-      "office locator",
-      "contact",
-      "area offices",
-      "appointments",
-      "vac"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Veterans Affairs Canada — Veterans Emergency Fund",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Emergency fund",
-    "description": "Veterans Affairs Canada's Veterans Emergency Fund program page: the fund provides emergency financial assistance to veterans, their families and survivors facing an urgent situation that threatens their well-being — essentials such as food, shelter, clothing and medical needs — accessed through VAC case managers and area offices and through partner organizations, as a bridge while longer-term supports are put in place.",
-    "url": "https://www.veterans.gc.ca/en/financial-programs-and-services/emergency-funds/veterans-emergency-fund",
-    "tags": [
-      "emergency fund",
-      "financial assistance",
-      "crisis",
-      "vac",
-      "veterans"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Ontario — Soldiers' Aid Commission (Financial Assistance)",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "veterans",
-    "type": "Financial assistance",
-    "description": "Ontario's Soldiers' Aid Commission financial assistance page: the Commission provides financial assistance to eligible Ontario veterans who served in the Canadian Armed Forces or as allied veterans, and to their spouses/partners and dependants, who are in financial difficulty — grants toward health-related and essential needs such as medical and dental care, hearing and vision aids, home repairs and accessibility, and other necessities, applied for through the Commission.",
-    "url": "https://www.ontario.ca/page/soldiers-aid-commission",
-    "tags": [
-      "soldiers aid commission",
-      "financial assistance",
-      "ontario",
-      "grants",
-      "veterans"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Last Post Fund — Funeral & Burial Program",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Funeral and burial program",
-    "description": "The Last Post Fund, the non-profit that delivers Veterans Affairs Canada's Funeral and Burial Program: families and estates arrange financial assistance toward a dignified funeral, burial or cremation and a military grave marker for eligible veterans who died in financial need, check eligibility and start the application through the Fund, which also provides grave markers for unmarked veterans' graves and maintains the National Field of Honour.",
-    "url": "https://www.lastpostfund.ca/",
-    "tags": [
-      "last post fund",
-      "funeral",
-      "burial",
-      "grave markers",
-      "vac program"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Royal Canadian Legion — Find a Branch",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Branch locator",
-    "description": "The Royal Canadian Legion's branch locator: search the Legion's national network of local branches to find the branch nearest you — the front door to Legion membership, remembrance activities and its free Service Bureau help, where Command and branch Service Officers assist veterans and their families with Veterans Affairs Canada claims and benefits at no cost, whether or not they are Legion members.",
-    "url": "https://www.legion.ca/find-a-branch",
-    "tags": [
-      "legion",
-      "branch locator",
-      "service officers",
-      "remembrance",
-      "veterans"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
-    "name": "Support Our Troops",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Charitable support fund",
-    "description": "Support Our Troops, the official charitable cause of the Canadian Armed Forces community, operated under CFMWS: serving members, veterans and military families apply for emergency financial assistance and grants, scholarships, support for ill and injured members, and programs such as holiday and summer-camp support for military children, funded by donations from Canadians.",
-    "url": "https://www.supportourtroops.ca/",
-    "tags": [
-      "support our troops",
-      "emergency grants",
-      "scholarships",
-      "military families",
-      "cfmws"
-    ],
-    "dateAdded": "2026-10-22"
   }
 ]
