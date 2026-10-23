@@ -42115,5 +42115,86 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "My Hunting and Fishing Account (Québec)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Québec's official online account to buy fishing, hunting and trapping licences, link hunter/trapper certificates and download licences to a phone. It is the 'Buy my licence online' destination linked directly from quebec.ca's fishing licence page.",
+    "url": "https://mondossierchassepeche.gouv.qc.ca/en",
+    "tags": [
+      "hunting",
+      "fishing",
+      "licences",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
+    "name": "Manitoba e-licensing",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Manitoba's official online portal to buy and pay for hunting and fishing licences, park vehicle permits, timber permits and other permits; the government's documented 'public access to an online system' per gov.mb.ca/elicensing.",
+    "url": "https://www.manitobaelicensing.ca/",
+    "tags": [
+      "hunting",
+      "fishing",
+      "licences",
+      "permits",
+      "manitoba"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
+    "name": "Sportfishing licensing — Government of Nova Scotia",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Nova Scotia's official online service to buy general and salmon sportfishing licences; announced by the province as the electronic licensing system for anglers.",
+    "url": "https://www.novascotia.ca/programs-and-services/sportfishing-licensing",
+    "tags": [
+      "fishing",
+      "licences",
+      "sportfishing",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
+    "name": "Wildlife Information Management System (Newfoundland and Labrador)",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Newfoundland and Labrador's official online system to register and apply for the big game (moose/caribou) licence draw, process spring/fall black bear licence applications and payments, and renew guide licences.",
+    "url": "https://www.wildlife.gov.nl.ca/",
+    "tags": [
+      "hunting",
+      "licences",
+      "draws",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
+    "name": "PEI Provincial Parks — Camping Reservations",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "parks",
+    "type": "Reservation system",
+    "description": "The official PEI Parks online reservation portal: book campsites, cabins and lodgings, tent, trailer and RV sites across PEI's provincial parks, with a campsite search panel and availability calendar.",
+    "url": "https://www.peiprovincialparks.ca/",
+    "tags": [
+      "camping",
+      "reservations",
+      "parks",
+      "prince edward island"
+    ],
+    "dateAdded": "2026-10-23"
   }
 ]

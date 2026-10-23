@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2659 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2664 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -44,7 +44,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 59
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 45
-- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 92
+- [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 97
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
 - [🌦️ Weather & Climate](#weather-and-climate) — 44
 - [⚡ Energy & Utilities](#energy-and-utilities) — 59
@@ -2614,6 +2614,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba e-licensing | Manitoba · Provincial | Licence service | Manitoba's official online portal to buy and pay for hunting and fishing licences, park vehicle permits, timber permits and other permits; the government's documented 'public access to an online system' per gov.mb.ca/elicensing. | https://www.manitobaelicensing.ca/ |
 | Manitoba Parks — Parks Reservation Service | Manitoba · Provincial | Reservation tool | Reserve campsites, cabins, yurts and group-use areas at 46 provincial-park locations online via manitoba.goingtocamp.com, or by phone. | https://www.manitoba.ca/sd/parks/prs/index.html |
 
 ### Ontario
@@ -2636,6 +2637,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| My Hunting and Fishing Account (Québec) | Quebec · Provincial | Licence service | Québec's official online account to buy fishing, hunting and trapping licences, link hunter/trapper certificates and download licences to a phone. It is the 'Buy my licence online' destination linked directly from quebec.ca's fishing licence page. | https://mondossierchassepeche.gouv.qc.ca/en |
 | Sépaq | Quebec · Provincial | Outdoor network portal | Huge outdoor destination network with parks, lodging, and activity discovery | https://www.sepaq.com/ |
 | Sépaq — Quebec Parks Online Reservations | Quebec · Provincial | Booking | Reserve camping, lodging, and activities across Quebec's Sépaq parks and wildlife reserves | https://www.sepaq.com/reservation/index.dot?language_id=1 |
 | Lévis — Inscription au camp de jour | Lévis · Municipal | Registration portal | French-language day-camp registration page stating two dated registration periods and routing residents to the city's online signup platform, with a phone option flagged as slow. | https://levis.ca/fr/loisirs-et-communaute/camp-de-jour/inscription |
@@ -2648,9 +2650,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Parks New Brunswick | New Brunswick · Provincial | Park finder & reservations | Explore NB provincial parks — Mactaquac, Hopewell Rocks, Fundy Trail, Parlee Beach — check activities and events, and book campsites, cabins and rustic shelters online. | https://www.nbparks.ca/en/parks |
 | NL Parks — Provincial Parks Directory | Newfoundland and Labrador · Provincial | Park finder | Search Newfoundland and Labrador provincial parks and outdoor destinations | https://www.parksnl.ca/ |
 | ParksNL — Campsite Reservation Service | Newfoundland and Labrador · Provincial | Reservation tool | Book serviced and unserviced sites at 13 NL provincial parks online or by phone; lists 2026 fees, seasons and vehicle-pass rates, with a link to ParksNL booking. | https://www.parksnl.ca/reservations/ |
+| Wildlife Information Management System (Newfoundland and Labrador) | Newfoundland and Labrador · Provincial | Licence service | Newfoundland and Labrador's official online system to register and apply for the big game (moose/caribou) licence draw, process spring/fall black bear licence applications and payments, and renew guide licences. | https://www.wildlife.gov.nl.ca/ |
 | Department of Natural Resources and Renewables — Find a Provincial Park | Nova Scotia · Provincial | Lookup/filterable directory | Browse every provincial park filtered by region, activity (camping, beaches, hiking trails) and amenities (showers, electrical hookups, accessibility), with descriptions and maps. | https://parks.novascotia.ca/parks/all/all |
 | Nova Scotia Provincial Parks | Nova Scotia · Provincial | Parks portal | Find and book Nova Scotia's provincial parks, campgrounds, and beaches | https://parks.novascotia.ca/ |
+| Sportfishing licensing — Government of Nova Scotia | Nova Scotia · Provincial | Licence service | Nova Scotia's official online service to buy general and salmon sportfishing licences; announced by the province as the electronic licensing system for anglers. | https://www.novascotia.ca/programs-and-services/sportfishing-licensing |
 | PEI Parks | PEI · Provincial | Park finder | PEI provincial parks and beaches, camping and booking info | https://www.princeedwardisland.ca/en/topics/parks-and-environment |
+| PEI Provincial Parks — Camping Reservations | Prince Edward Island · Provincial | Reservation system | The official PEI Parks online reservation portal: book campsites, cabins and lodgings, tent, trailer and RV sites across PEI's provincial parks, with a campsite search panel and availability calendar. | https://www.peiprovincialparks.ca/ |
 | Charlottetown Online Program Registration | Charlottetown · Municipal | Registration portal | Charlottetown's UniVersus Rec portal: view facility availability, request or book facilities, and browse programs and calendars by client account. | https://www.charlottetown.ca/leisure___recreation/programs_and_activities/online_program_registration |
 | Halifax Recreation Activities and Program Registration (myREC) | Halifax · Municipal | Registration portal | Regional Municipality signup hub: browse seasonal programs by course number, book drop-in activities, and start a facility rental booking, all through myREC. | https://www.halifax.ca/myrec |
 
