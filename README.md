@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2664 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2668 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -52,7 +52,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🔬 Science, Research & Space](#science-research-and-space) — 59
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
-- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 19
+- [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 92
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 74
@@ -3516,6 +3516,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Commissioner of Lobbying of Canada — Open Data | Canada · Federal | Lobbyist dataset | CSV downloads of all federal lobbying registrations (1996–present) and monthly communication reports (2008–present) filed with the Office of the Commissioner of Lobbying, with a data dictionary. | https://lobbycanada.gc.ca/en/open-data/ |
 | Foreign Influence Transparency Registry | Canada · Federal | Foreign influence registry | Searchable public registry under the Foreign Influence Transparency and Accountability Act (in force Aug 2026): see who has an arrangement with a foreign principal to influence Canadian political or governmental processes, what activity they registered, and enforcement actions for violations. First entries published Sep 2026. | https://www.canada.ca/en/foreign-influence-commissioner/registry.html |
 | Office of the Commissioner of Lobbying — Lobbyist Registry | Canada · Federal | Lobbyist registry | Searchable federal registry of in-house and consultant lobbyists: who is lobbying which officials, on what subject, for whom, and when. Note: site blocks automated requests; browse manually. | https://lobbycanada.gc.ca/ |
 
@@ -3549,10 +3550,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario Lobbyist Registry — Public Search | Ontario · Provincial | Lobbyist registry search | Search registered Ontario lobbyists by name, client, subject matter, ministry, and filing date — active and inactive registrations. | https://lobbyist.oico.on.ca/Pages/Public/PublicSearch/ |
+| City of Barrie — Lobbyist Registry | Barrie · Municipal | Lobbyist registry | Public lobbyist registry with a live disclosure table: search lobbying activity by subject, public office holder and date. | https://www.barrie.ca/government-news/lobbyist-registry |
 | City of Hamilton — Lobbyist Registry | Hamilton · Municipal | Lobbyist registry | Publicly search who is lobbying Hamilton's Council, committees and staff and on what subjects — registrations and activity under the Lobbyist Registry By-law, with enforcement by the Integrity Commissioner. | https://www.hamilton.ca/city-council/accountability-transparency/lobbyist-registry |
 | Ottawa Lobbyist Registry | Ottawa · Municipal | Lobbyist registry | Search lobbyist registrations and disclosed communications with City Council and staff within 15 business days of contact. | https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/lobbyist-registry |
+| Region of Peel — Lobbyist Registry | Peel · Municipal | Lobbyist registry | Upper-tier regional lobbyist registry for Peel Region (covers Brampton, Mississauga and Caledon): search lobbying registrations and communications with regional public office holders. | https://peelregion.ca/about/council/lobbyist-registry |
 | City of Pickering — Lobbyist Registry | Pickering · Municipal | Lobbyist registry | Established 2023 (By-law 8003/23): public search of registered lobbying activity with Council and city staff, including consultant, in-house and voluntary lobbyist profiles and subject matters. | https://www.pickering.ca/council-city-administration/accountability-and-transparency/lobbyist-registry |
 | Toronto Lobbyist Registry — Open Data | Toronto · Municipal | Lobbyist dataset | Municipal lobbyist registration and communication disclosures synced to Open Toronto — analyze lobbying activity by subject and public office holder. | https://open.toronto.ca/dataset/lobbyist-registry-disclosure/ |
+| City of Vaughan — Lobbyist Registry | Vaughan · Municipal | Lobbyist registry | Lobbyist registry under By-law 165-2017 with an independent lobbyist registrar: public record of lobbying communications with City of Vaughan public office holders. | https://www.vaughan.ca/council/lobbyist-registry |
 | Region of Waterloo — Lobbyist Registry | Waterloo · Municipal | Lobbyist registry | Launched January 1, 2025 under By-law #24-043: search consultant, in-house and voluntary lobbying of Region public office holders by subject and date through the public registry portal. | https://www.regionofwaterloo.ca/government-and-council/transparency-and-accountability/lobbyist-registry |
 
 ### Quebec

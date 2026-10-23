@@ -42196,5 +42196,72 @@
       "prince edward island"
     ],
     "dateAdded": "2026-10-23"
+  },
+  {
+    "name": "Region of Peel — Lobbyist Registry",
+    "level": "Municipal",
+    "jurisdiction": "Peel",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Upper-tier regional lobbyist registry for Peel Region (covers Brampton, Mississauga and Caledon): search lobbying registrations and communications with regional public office holders.",
+    "url": "https://peelregion.ca/about/council/lobbyist-registry",
+    "tags": [
+      "peel region",
+      "lobbyists",
+      "registry",
+      "search",
+      "transparency"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
+    "name": "City of Vaughan — Lobbyist Registry",
+    "level": "Municipal",
+    "jurisdiction": "Vaughan",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Lobbyist registry under By-law 165-2017 with an independent lobbyist registrar: public record of lobbying communications with City of Vaughan public office holders.",
+    "url": "https://www.vaughan.ca/council/lobbyist-registry",
+    "tags": [
+      "vaughan",
+      "lobbyists",
+      "registry",
+      "transparency"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
+    "name": "City of Barrie — Lobbyist Registry",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Public lobbyist registry with a live disclosure table: search lobbying activity by subject, public office holder and date.",
+    "url": "https://www.barrie.ca/government-news/lobbyist-registry",
+    "tags": [
+      "barrie",
+      "lobbyists",
+      "registry",
+      "search",
+      "transparency"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
+    "name": "Commissioner of Lobbying of Canada — Open Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "lobbyist",
+    "type": "Lobbyist dataset",
+    "description": "CSV downloads of all federal lobbying registrations (1996–present) and monthly communication reports (2008–present) filed with the Office of the Commissioner of Lobbying, with a data dictionary.",
+    "url": "https://lobbycanada.gc.ca/en/open-data/",
+    "tags": [
+      "federal",
+      "lobbyists",
+      "open data",
+      "csv",
+      "transparency"
+    ],
+    "dateAdded": "2026-10-23"
   }
 ]
