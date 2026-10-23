@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2668 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2669 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,13 +19,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 218
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 219
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 104
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
@@ -147,6 +147,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta — Municipal Data and Statistics | Alberta · Provincial | Data portal & dashboards | Municipal Affairs hub: explore and compare every municipality's revenues, expenses, tax rates, infrastructure stats and profiles via interactive dashboards and downloadable FIR/SIR data back to 1994. | https://www.alberta.ca/municipal-data-and-statistics |
 | Alberta Open Government Portal | Alberta · Provincial | Open data portal | Alberta's open government portal providing open data, publications, and reports for researchers, developers, and citizens | https://open.alberta.ca/ |
 | Airdrie Open Data | Airdrie · Municipal | Open data hub | City of Airdrie ArcGIS open data including parcels, addressing, and municipal boundaries with GTFS transit data. | https://data-airdrie.opendata.arcgis.com/ |
+| City of Leduc — Open Data Portal | Alberta · Municipal | Open data portal | Self-service open data portal from the City of Leduc, launched October 2026: 52 public datasets and map services covering storm, water and sanitary utilities, streets, addresses, parks and hydrants, with a searchable catalog, downloads and API access via ArcGIS Hub. | https://data.leduc.ca/ |
 | Banff Open Data | Banff · Municipal | Open data portal | Town of Banff open data including trails, zoning, and municipal spatial datasets. | https://maps.banff.ca/opendata/ |
 | Calgary Open Data overview | Calgary · Municipal | Portal landing page | Nice overview of categories, uses, and mapping assets | https://www.calgary.ca/research/open-data-portal.html |
 | Open Calgary | Calgary · Municipal | Open data portal | Well-stocked municipal open data portal with lots of map assets | https://data.calgary.ca/ |

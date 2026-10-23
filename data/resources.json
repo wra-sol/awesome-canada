@@ -42263,5 +42263,24 @@
       "transparency"
     ],
     "dateAdded": "2026-10-23"
+  },
+  {
+    "name": "City of Leduc — Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Self-service open data portal from the City of Leduc, launched October 2026: 52 public datasets and map services covering storm, water and sanitary utilities, streets, addresses, parks and hydrants, with a searchable catalog, downloads and API access via ArcGIS Hub.",
+    "url": "https://data.leduc.ca/",
+    "tags": [
+      "alberta",
+      "leduc",
+      "open data",
+      "municipal",
+      "utilities",
+      "infrastructure",
+      "arcgis hub"
+    ],
+    "dateAdded": "2026-10-23"
   }
 ]
