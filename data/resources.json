@@ -42285,5 +42285,178 @@
       "funding"
     ],
     "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Income Replacement Benefit",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Income support",
+    "description": "Veterans Affairs Canada's Income Replacement Benefit program page: a taxable monthly benefit keeping a veteran's total income at at least 90% of pre-release military salary while they take part in the VAC Rehabilitation Program or have a diminished earning capacity, with eligibility and how to apply.",
+    "url": "https://veterans.gc.ca/en/financial-programs-and-services/income-support/income-replacement-benefit",
+    "tags": [
+      "veterans",
+      "income support",
+      "rehabilitation",
+      "vac",
+      "benefits"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Caregiver Recognition Benefit",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Caregiver benefit",
+    "description": "Veterans Affairs Canada's Caregiver Recognition Benefit program page: a tax-free monthly payment to the unpaid informal caregiver of a veteran who needs ongoing care for a service-related disability, with eligibility criteria and how to apply.",
+    "url": "https://veterans.gc.ca/en/mental-and-physical-health/physical-health-and-wellness/compensation-illness-or-injury/caregiver-recognition-benefit",
+    "tags": [
+      "veterans",
+      "caregivers",
+      "vac",
+      "benefits",
+      "disability"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Vocational Assistance",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Career support",
+    "description": "Veterans Affairs Canada's vocational assistance program page: skills development, education, training, career counselling and job-search help for the spouse or survivor of a veteran who cannot take part in vocational rehabilitation, building a plan with VAC's service provider.",
+    "url": "https://veterans.gc.ca/en/families-and-caregivers/education-and-jobs/vocational-assistance",
+    "tags": [
+      "veterans",
+      "careers",
+      "training",
+      "spouses",
+      "survivors",
+      "vac"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Educational Assistance for Children",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Education funding",
+    "description": "Veterans Affairs Canada's educational assistance program page: tax-free funding for the children of deceased veterans or CAF members to attend full-time post-secondary education, covering tuition and fees plus a monthly allowance for up to four years.",
+    "url": "https://veterans.gc.ca/en/financial-programs-and-services/death-and-bereavement/death-and-bereavement-programs/educational-assistance-children",
+    "tags": [
+      "veterans",
+      "education",
+      "children",
+      "survivors",
+      "vac",
+      "funding"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Veterans Independence Program for Survivors",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Home care funding",
+    "description": "Veterans Affairs Canada's Veterans Independence Program page for survivors: annual tax-free funding toward grounds maintenance and housekeeping so the survivor of a Second World War or Korean War veteran can remain independent at home.",
+    "url": "https://www.veterans.gc.ca/en/mental-and-physical-health/physical-health-and-wellness/help-home/veterans-independence-program-survivors",
+    "tags": [
+      "veterans",
+      "home care",
+      "survivors",
+      "vac",
+      "housekeeping"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Veterans Independence Program for Primary Caregivers",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Home care funding",
+    "description": "Veterans Affairs Canada's Veterans Independence Program page for primary caregivers: annual tax-free funding toward grounds maintenance and housekeeping for the unpaid primary caregiver of a veteran who received VIP services and has moved to long-term care or died.",
+    "url": "https://www.veterans.gc.ca/en/families-and-caregivers/housing-and-home-life/veterans-independence-program-primary-caregivers",
+    "tags": [
+      "veterans",
+      "home care",
+      "caregivers",
+      "vac",
+      "housekeeping"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Rehabilitation Services",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Rehabilitation program",
+    "description": "Veterans Affairs Canada's rehabilitation services program page: medical, psycho-social and vocational rehabilitation for veterans whose service-related health problem is a barrier to re-establishment in civilian life, delivered with a VAC case manager.",
+    "url": "https://www.veterans.gc.ca/en/mental-and-physical-health/mental-health-and-wellness/rehabilitation-services",
+    "tags": [
+      "veterans",
+      "rehabilitation",
+      "vac",
+      "health",
+      "transition"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — VAC Assistance Service (Talk to a Professional Now)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Counselling service",
+    "description": "Veterans Affairs Canada's VAC Assistance Service page: free, confidential 24/7 telephone psychological support for CAF veterans, former RCMP members, their families and caregivers, including bereavement and pastoral outreach, with phone and online-chat access.",
+    "url": "https://veterans.gc.ca/en/families-and-caregivers/death-and-bereavement/talk-professional-now",
+    "tags": [
+      "veterans",
+      "mental health",
+      "counselling",
+      "crisis",
+      "vac",
+      "families"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "CFMWS — Veteran Family Program",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Family support program",
+    "description": "Canadian Forces Morale and Welfare Services' Veteran Family Program page: transition services, referrals, workshops and community supports for medically released CAF veterans and their families, delivered through Military Family Resource Centres and the 24/7 Family Information Line.",
+    "url": "https://cfmws.ca/support-services/releasing/veteran-family-program",
+    "tags": [
+      "veterans",
+      "families",
+      "transition",
+      "military family",
+      "cfmws"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "DND — Transition Families and Caregivers",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Transition hub",
+    "description": "National Defence and Veterans Affairs Canada's transition hub for families and caregivers of CAF members and veterans: links to family support services, CAF Connection, and finding a Military Family Resource Centre on a base or wing.",
+    "url": "https://www.canada.ca/en/department-national-defence/services/benefits-military/transition/families-caregivers.html",
+    "tags": [
+      "veterans",
+      "families",
+      "caregivers",
+      "transition",
+      "military family"
+    ],
+    "dateAdded": "2026-10-24"
   }
 ]
