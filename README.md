@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2669 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2666 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -34,13 +34,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 41
 - [🏢 Business & Procurement](#business-and-procurement) — 66
 - [💼 Employment & Labour](#employment-and-labour) — 69
-- [🎓 Education & Student Aid](#education-and-student-aid) — 57
+- [🎓 Education & Student Aid](#education-and-student-aid) — 56
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 57
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 39
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 38
 - [🩺 Health & Wellness](#health-and-wellness) — 123
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 58
-- [🏠 Housing & Real Estate](#housing-and-real-estate) — 81
+- [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 59
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 45
@@ -1367,7 +1367,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada Apprentice Loan | Canada · Federal | Apprenticeship loan | Interest-free federal loans of up to $4,000 per period of technical training for apprentices in designated Red Seal trades, to cover tuition, tools, equipment and living expenses; links to the online application service. | https://www.canada.ca/en/employment-social-development/services/apprentices/loan.html |
 | Canada Student Loans — Repayment Assistance Plan | Canada · Federal | Repayment assistance | Explains and routes applications for the Repayment Assistance Plan and Repayment Assistance Plan for Borrowers with Disabilities, which can reduce or pause Canada Student Loan payments, plus the Severe Permanent Disability Benefit and Canada Student Loan Forgiveness. | https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans/repay/assistance.html |
 | Canada Student Loans and Grants | Canada · Federal | Financial aid | Apply for federal student loans and grants, manage your loan, and explore repayment assistance options | https://www.canada.ca/en/services/benefits/education/student-aid.html |
-| Government of Canada — Student Aid Estimator | Canada · Federal | Estimator | The Government of Canada's federal Student Aid Estimator: students enter their province of residence, study period and program, dependants, tuition and living costs, income and scholarships to estimate the Canada Student Grants and Loans they could receive before applying through their province or territory. The estimator covers federal aid only, not provincial or territorial grants and loans. | https://www.canada.ca/en/services/benefits/education/student-aid/estimator.html |
 | National Student Loans Service Centre | Canada · Federal | Student aid | Federal portal for Canada Student Loans: manage your loan account, apply for repayment assistance, and make payments. | https://www.csnpe-nslsc.canada.ca/ |
 | PoliTalks — CIVIX Case Studies | Canada · Federal | Civic education resource | Free bilingual (EN/FR) library of case studies on Canadian political and social issues — voting age, pipelines, social media regulation, healthcare privatization — for classroom discussion, with protocols from CIVIX's non-partisan Constructive Discussions guide. Run by CIVIX, a non-partisan registered charity. | https://politalks.ca/case-studies/ |
 | Post-Secondary Student Support Program (PSSSP) | Canada · Federal | Indigenous student funding | Indigenous Services Canada program that funds First Nations students' post-secondary tuition, books, travel and living allowances through their First Nation or a First Nations-designated organization; explains eligibility, maximums and how to apply locally. | https://sac-isc.gc.ca/eng/1100100033682/1531933580211 |
@@ -1636,7 +1635,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | INB — Immigration New Brunswick Online Portal | New Brunswick · Provincial | Apply online | New Brunswick's official immigration portal: create an account, submit an expression of interest, and upload documents for the provincial nominee program | https://www.inb.gnb.ca/ |
 | New Brunswick Provincial Nominee Program | New Brunswick · Provincial | Program portal | Immigration NB's NBPNP page: streams, EOI via INB portal, scheduled invitation-draw rounds listing, nomination application steps and post-nomination guidance. | https://www.gnb.ca/en/topic/family-home-community/immigration/provincial-nominee-program.html |
-| Office of Immigration and Multiculturalism — AIP Designated Employers List | Newfoundland and Labrador · Provincial | Public Register | Official register of employers designated for the Atlantic Immigration Program, listing each employer's communities, designation date and eligible NOC occupation codes. | https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/atlantic-immigration-program/designated-employers/ |
 | Nova Scotia Nominee Program — Live in NS | Nova Scotia · Provincial | Program portal | Official NS government NSNP hub: stream eligibility (Skilled Worker, Graduate, Entrepreneur, Express Entry), EOI submission, draw selection rules, and fee updates. | https://liveinnovascotia.com/nova-scotia-nominee-program |
 | PEI PNP Expression of Interest Draws | PEI · Provincial | Draw results publication | PEI Office of Immigration's official publication of EOI invitation-to-apply draw dates, sectors prioritized, and selection criteria for the PEI PNP. | https://www.princeedwardisland.ca/en/information/office-of-immigration/expression-of-interest-draws |
 
@@ -2121,7 +2119,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | New Brunswick — Property Assessment Online (PAOL) | New Brunswick · Provincial | Property | Search NB property assessments by address, PAN or PID, with four years of assessment history, recent sale prices and tax levy information on a provincial map. | https://paol-efel.snb.ca/ |
 | New Brunswick — Solve a Problem (Tenant and Landlord Help) | New Brunswick · Provincial | Tenancy help and forms | Housing NB's problem-resolution page for tenants and landlords: the route to the Tenant/Landlord Application for Assistance forms and help when a tenancy problem (repairs, deposits, notices, arrears) cannot be resolved directly. Distinct from RentalsNB, the province's tenancy services homepage already catalogued; an older rentalsnb.ca version of this page is a soft-404, and this gnb.ca topic page is the live one. | https://www.gnb.ca/en/topic/family-home-community/housing-property/solve-problem.html |
 | RentalsNB — New Brunswick Tenancy Services | New Brunswick · Provincial | Residential tenancy portal | Service New Brunswick's tenancy portal: lodge security deposits (required since 2024), file claims and dispute applications with the Residential Tenancies Tribunal, and use standard leases and tenancy forms. | https://www.rentalsnb.ca/ |
-| Newfoundland and Labrador — Residential Tenancies | Newfoundland and Labrador · Provincial | Tenancy forms and disputes portal | Newfoundland and Labrador's Residential Tenancies hub for tenants and landlords: statutory forms and notices, security deposit rules, termination and eviction processes, and the application channel for tenancy dispute resolution and hearings under the Residential Tenancies Act. Distinct from the NL Housing Corporation programs page already catalogued. | https://www.gov.nl.ca/dgsnl/landlords/residential-tenancies/ |
 | Nova Scotia — Public Housing Units (Open Data) | Nova Scotia · Provincial | Open dataset | Searchable open-data dataset of Nova Scotia public housing units: civic address, community, county, municipality, housing authority and unit count for locating provincial public housing. | https://data.novascotia.ca/Community-Services/Public-Housing-Units-Nova-Scotia-Families/nxzm-xxps |
 | Nova Scotia — Residential Tenancies Program | Nova Scotia · Provincial | Residential tenancies program | Nova Scotia's tenancy program (Service Nova Scotia / Access Nova Scotia): standard lease forms, rules on rent increases and deposits, and how to apply to the Director for dispute resolution and hearings. | https://novascotia.ca/residential-tenancies-tenants-and-landlords/ |
 | PVSC — Nova Scotia Assessment Search | Nova Scotia · Provincial | Property | Find any of Nova Scotia's 650,000+ property assessments by civic address, assessment account number, community or sale date. | https://www.pvsc.ca/find-assessment |

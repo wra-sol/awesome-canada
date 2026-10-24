@@ -11582,23 +11582,6 @@
     ]
   },
   {
-    "name": "Government of Canada — Student Aid Estimator",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "education",
-    "type": "Estimator",
-    "description": "The Government of Canada's federal Student Aid Estimator: students enter their province of residence, study period and program, dependants, tuition and living costs, income and scholarships to estimate the Canada Student Grants and Loans they could receive before applying through their province or territory. The estimator covers federal aid only, not provincial or territorial grants and loans.",
-    "url": "https://www.canada.ca/en/services/benefits/education/student-aid/estimator.html",
-    "tags": [
-      "student aid",
-      "estimator",
-      "grants",
-      "loans",
-      "post-secondary"
-    ],
-    "dateAdded": "2026-10-22"
-  },
-  {
     "name": "National Student Loans Service Centre",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -22949,23 +22932,6 @@
     "dateAdded": "2026-10-20"
   },
   {
-    "name": "Newfoundland and Labrador — Residential Tenancies",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "housing",
-    "type": "Tenancy forms and disputes portal",
-    "description": "Newfoundland and Labrador's Residential Tenancies hub for tenants and landlords: statutory forms and notices, security deposit rules, termination and eviction processes, and the application channel for tenancy dispute resolution and hearings under the Residential Tenancies Act. Distinct from the NL Housing Corporation programs page already catalogued.",
-    "url": "https://www.gov.nl.ca/dgsnl/landlords/residential-tenancies/",
-    "tags": [
-      "residential tenancies",
-      "forms",
-      "disputes",
-      "tenants",
-      "landlords"
-    ],
-    "dateAdded": "2026-10-21"
-  },
-  {
     "name": "Nova Scotia — Public Housing Units (Open Data)",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -23708,22 +23674,6 @@
       "draws"
     ],
     "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "Office of Immigration and Multiculturalism — AIP Designated Employers List",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "immigration",
-    "type": "Public Register",
-    "description": "Official register of employers designated for the Atlantic Immigration Program, listing each employer's communities, designation date and eligible NOC occupation codes.",
-    "url": "https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/atlantic-immigration-program/designated-employers/",
-    "tags": [
-      "immigration",
-      "employers",
-      "atlantic-immigration-program",
-      "jobs"
-    ],
-    "dateAdded": "2026-08-24"
   },
   {
     "name": "Northwest Territories Nominee Program",
@@ -25629,6 +25579,23 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Commissioner of Lobbying of Canada — Open Data",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "lobbyist",
+    "type": "Lobbyist dataset",
+    "description": "CSV downloads of all federal lobbying registrations (1996–present) and monthly communication reports (2008–present) filed with the Office of the Commissioner of Lobbying, with a data dictionary.",
+    "url": "https://lobbycanada.gc.ca/en/open-data/",
+    "tags": [
+      "federal",
+      "lobbyists",
+      "open data",
+      "csv",
+      "transparency"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
     "name": "Foreign Influence Transparency Registry",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -25830,6 +25797,23 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "City of Barrie — Lobbyist Registry",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Public lobbyist registry with a live disclosure table: search lobbying activity by subject, public office holder and date.",
+    "url": "https://www.barrie.ca/government-news/lobbyist-registry",
+    "tags": [
+      "barrie",
+      "lobbyists",
+      "registry",
+      "search",
+      "transparency"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
     "name": "Calgary Lobbyist Information",
     "level": "Municipal",
     "jurisdiction": "Calgary",
@@ -25877,6 +25861,23 @@
     ]
   },
   {
+    "name": "Region of Peel — Lobbyist Registry",
+    "level": "Municipal",
+    "jurisdiction": "Peel",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Upper-tier regional lobbyist registry for Peel Region (covers Brampton, Mississauga and Caledon): search lobbying registrations and communications with regional public office holders.",
+    "url": "https://peelregion.ca/about/council/lobbyist-registry",
+    "tags": [
+      "peel region",
+      "lobbyists",
+      "registry",
+      "search",
+      "transparency"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
     "name": "City of Pickering — Lobbyist Registry",
     "level": "Municipal",
     "jurisdiction": "Pickering",
@@ -25907,6 +25908,22 @@
       "open data",
       "csv"
     ]
+  },
+  {
+    "name": "City of Vaughan — Lobbyist Registry",
+    "level": "Municipal",
+    "jurisdiction": "Vaughan",
+    "category": "lobbyist",
+    "type": "Lobbyist registry",
+    "description": "Lobbyist registry under By-law 165-2017 with an independent lobbyist registrar: public record of lobbying communications with City of Vaughan public office holders.",
+    "url": "https://www.vaughan.ca/council/lobbyist-registry",
+    "tags": [
+      "vaughan",
+      "lobbyists",
+      "registry",
+      "transparency"
+    ],
+    "dateAdded": "2026-10-23"
   },
   {
     "name": "Region of Waterloo — Lobbyist Registry",
@@ -27408,6 +27425,25 @@
       "ontario",
       "open data"
     ]
+  },
+  {
+    "name": "City of Leduc — Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Self-service open data portal from the City of Leduc, launched October 2026: 52 public datasets and map services covering storm, water and sanitary utilities, streets, addresses, parks and hydrants, with a searchable catalog, downloads and API access via ArcGIS Hub.",
+    "url": "https://data.leduc.ca/",
+    "tags": [
+      "alberta",
+      "leduc",
+      "open data",
+      "municipal",
+      "utilities",
+      "infrastructure",
+      "arcgis hub"
+    ],
+    "dateAdded": "2026-10-23"
   },
   {
     "name": "Banff Open Data",
@@ -30014,6 +30050,23 @@
     ]
   },
   {
+    "name": "Manitoba e-licensing",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Manitoba's official online portal to buy and pay for hunting and fishing licences, park vehicle permits, timber permits and other permits; the government's documented 'public access to an online system' per gov.mb.ca/elicensing.",
+    "url": "https://www.manitobaelicensing.ca/",
+    "tags": [
+      "hunting",
+      "fishing",
+      "licences",
+      "permits",
+      "manitoba"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
     "name": "Manitoba Parks — Parks Reservation Service",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -30093,6 +30146,22 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Wildlife Information Management System (Newfoundland and Labrador)",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Newfoundland and Labrador's official online system to register and apply for the big game (moose/caribou) licence draw, process spring/fall black bear licence applications and payments, and renew guide licences.",
+    "url": "https://www.wildlife.gov.nl.ca/",
+    "tags": [
+      "hunting",
+      "licences",
+      "draws",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
     "name": "NWT Parks — Find a Park",
     "level": "Provincial",
     "jurisdiction": "Northwest Territories",
@@ -30157,6 +30226,22 @@
       "reservations"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Sportfishing licensing — Government of Nova Scotia",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Nova Scotia's official online service to buy general and salmon sportfishing licences; announced by the province as the electronic licensing system for anglers.",
+    "url": "https://www.novascotia.ca/programs-and-services/sportfishing-licensing",
+    "tags": [
+      "fishing",
+      "licences",
+      "sportfishing",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-23"
   },
   {
     "name": "Nunavut Parks and Special Places",
@@ -30258,6 +30343,38 @@
       "parks",
       "PEI"
     ]
+  },
+  {
+    "name": "PEI Provincial Parks — Camping Reservations",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "parks",
+    "type": "Reservation system",
+    "description": "The official PEI Parks online reservation portal: book campsites, cabins and lodgings, tent, trailer and RV sites across PEI's provincial parks, with a campsite search panel and availability calendar.",
+    "url": "https://www.peiprovincialparks.ca/",
+    "tags": [
+      "camping",
+      "reservations",
+      "parks",
+      "prince edward island"
+    ],
+    "dateAdded": "2026-10-23"
+  },
+  {
+    "name": "My Hunting and Fishing Account (Québec)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "parks",
+    "type": "Licence service",
+    "description": "Québec's official online account to buy fishing, hunting and trapping licences, link hunter/trapper certificates and download licences to a phone. It is the 'Buy my licence online' destination linked directly from quebec.ca's fishing licence page.",
+    "url": "https://mondossierchassepeche.gouv.qc.ca/en",
+    "tags": [
+      "hunting",
+      "fishing",
+      "licences",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-23"
   },
   {
     "name": "Sépaq",
@@ -42115,172 +42232,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "My Hunting and Fishing Account (Québec)",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "parks",
-    "type": "Licence service",
-    "description": "Québec's official online account to buy fishing, hunting and trapping licences, link hunter/trapper certificates and download licences to a phone. It is the 'Buy my licence online' destination linked directly from quebec.ca's fishing licence page.",
-    "url": "https://mondossierchassepeche.gouv.qc.ca/en",
-    "tags": [
-      "hunting",
-      "fishing",
-      "licences",
-      "quebec"
-    ],
-    "dateAdded": "2026-10-23"
-  },
-  {
-    "name": "Manitoba e-licensing",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "parks",
-    "type": "Licence service",
-    "description": "Manitoba's official online portal to buy and pay for hunting and fishing licences, park vehicle permits, timber permits and other permits; the government's documented 'public access to an online system' per gov.mb.ca/elicensing.",
-    "url": "https://www.manitobaelicensing.ca/",
-    "tags": [
-      "hunting",
-      "fishing",
-      "licences",
-      "permits",
-      "manitoba"
-    ],
-    "dateAdded": "2026-10-23"
-  },
-  {
-    "name": "Sportfishing licensing — Government of Nova Scotia",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "parks",
-    "type": "Licence service",
-    "description": "Nova Scotia's official online service to buy general and salmon sportfishing licences; announced by the province as the electronic licensing system for anglers.",
-    "url": "https://www.novascotia.ca/programs-and-services/sportfishing-licensing",
-    "tags": [
-      "fishing",
-      "licences",
-      "sportfishing",
-      "nova scotia"
-    ],
-    "dateAdded": "2026-10-23"
-  },
-  {
-    "name": "Wildlife Information Management System (Newfoundland and Labrador)",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "parks",
-    "type": "Licence service",
-    "description": "Newfoundland and Labrador's official online system to register and apply for the big game (moose/caribou) licence draw, process spring/fall black bear licence applications and payments, and renew guide licences.",
-    "url": "https://www.wildlife.gov.nl.ca/",
-    "tags": [
-      "hunting",
-      "licences",
-      "draws",
-      "newfoundland and labrador"
-    ],
-    "dateAdded": "2026-10-23"
-  },
-  {
-    "name": "PEI Provincial Parks — Camping Reservations",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "parks",
-    "type": "Reservation system",
-    "description": "The official PEI Parks online reservation portal: book campsites, cabins and lodgings, tent, trailer and RV sites across PEI's provincial parks, with a campsite search panel and availability calendar.",
-    "url": "https://www.peiprovincialparks.ca/",
-    "tags": [
-      "camping",
-      "reservations",
-      "parks",
-      "prince edward island"
-    ],
-    "dateAdded": "2026-10-23"
-  },
-  {
-    "name": "Region of Peel — Lobbyist Registry",
-    "level": "Municipal",
-    "jurisdiction": "Peel",
-    "category": "lobbyist",
-    "type": "Lobbyist registry",
-    "description": "Upper-tier regional lobbyist registry for Peel Region (covers Brampton, Mississauga and Caledon): search lobbying registrations and communications with regional public office holders.",
-    "url": "https://peelregion.ca/about/council/lobbyist-registry",
-    "tags": [
-      "peel region",
-      "lobbyists",
-      "registry",
-      "search",
-      "transparency"
-    ],
-    "dateAdded": "2026-10-23"
-  },
-  {
-    "name": "City of Vaughan — Lobbyist Registry",
-    "level": "Municipal",
-    "jurisdiction": "Vaughan",
-    "category": "lobbyist",
-    "type": "Lobbyist registry",
-    "description": "Lobbyist registry under By-law 165-2017 with an independent lobbyist registrar: public record of lobbying communications with City of Vaughan public office holders.",
-    "url": "https://www.vaughan.ca/council/lobbyist-registry",
-    "tags": [
-      "vaughan",
-      "lobbyists",
-      "registry",
-      "transparency"
-    ],
-    "dateAdded": "2026-10-23"
-  },
-  {
-    "name": "City of Barrie — Lobbyist Registry",
-    "level": "Municipal",
-    "jurisdiction": "Barrie",
-    "category": "lobbyist",
-    "type": "Lobbyist registry",
-    "description": "Public lobbyist registry with a live disclosure table: search lobbying activity by subject, public office holder and date.",
-    "url": "https://www.barrie.ca/government-news/lobbyist-registry",
-    "tags": [
-      "barrie",
-      "lobbyists",
-      "registry",
-      "search",
-      "transparency"
-    ],
-    "dateAdded": "2026-10-23"
-  },
-  {
-    "name": "Commissioner of Lobbying of Canada — Open Data",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "lobbyist",
-    "type": "Lobbyist dataset",
-    "description": "CSV downloads of all federal lobbying registrations (1996–present) and monthly communication reports (2008–present) filed with the Office of the Commissioner of Lobbying, with a data dictionary.",
-    "url": "https://lobbycanada.gc.ca/en/open-data/",
-    "tags": [
-      "federal",
-      "lobbyists",
-      "open data",
-      "csv",
-      "transparency"
-    ],
-    "dateAdded": "2026-10-23"
-  },
-  {
-    "name": "City of Leduc — Open Data Portal",
-    "level": "Municipal",
-    "jurisdiction": "Alberta",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Self-service open data portal from the City of Leduc, launched October 2026: 52 public datasets and map services covering storm, water and sanitary utilities, streets, addresses, parks and hydrants, with a searchable catalog, downloads and API access via ArcGIS Hub.",
-    "url": "https://data.leduc.ca/",
-    "tags": [
-      "alberta",
-      "leduc",
-      "open data",
-      "municipal",
-      "utilities",
-      "infrastructure",
-      "arcgis hub"
-    ],
-    "dateAdded": "2026-10-23"
   }
 ]
