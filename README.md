@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2666 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2667 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -28,7 +28,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 219
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 104
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
-- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 119
+- [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
 - [🪪 Government Services & ID](#government-services-and-id) — 92
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 36
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 41
@@ -778,6 +778,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | St. Catharines — Budgets & Financial Statements | St. Catharines · Municipal | Budget documents | Direct PDF downloads of St. Catharines capital and operating budgets, multi-year budgets, and water/wastewater financial plans from 2017 to present. Track municipal spending, infrastructure investments, and fiscal forecasts year-over-year. | https://www.stcatharines.ca/council-and-administration/budget-and-finances/budgets-and-financial-statements/ |
 | Timmins — Budget Documents | Timmins · Municipal | Budget package | City of Timmins direct PDF downloads of Council Budget Packages, Water & Wastewater Budget Packages, and Other Funds budgets for 2024–2026. | https://www.timmins.ca/our_services/finance/budget_documents |
 | City of Toronto Vendor Payments (Open Data) | Toronto · Municipal | Vendor payments | Quarterly open data releases of City of Toronto payments to vendors over reporting thresholds. | https://open.toronto.ca/dataset/payments-to-vendors/ |
+| Democracy Distributed — Trace Government Spending | Toronto · Municipal | Spending tracker | Open civic database tracing government spending from the vote that authorized it to the invoice that paid it: Toronto's 2024 budget as an interactive Sankey diagram, crowdsourced with a reputation system. Open-source (MIT), actively maintained. | https://www.democracydistributed.com/ |
 
 ### Quebec
 

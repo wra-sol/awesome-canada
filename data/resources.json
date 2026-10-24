@@ -42232,5 +42232,24 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Democracy Distributed — Trace Government Spending",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "budget",
+    "type": "Spending tracker",
+    "description": "Open civic database tracing government spending from the vote that authorized it to the invoice that paid it: Toronto's 2024 budget as an interactive Sankey diagram, crowdsourced with a reputation system. Open-source (MIT), actively maintained.",
+    "url": "https://www.democracydistributed.com/",
+    "tags": [
+      "toronto",
+      "budget",
+      "spending",
+      "transparency",
+      "civic tech",
+      "open data",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-24"
   }
 ]
