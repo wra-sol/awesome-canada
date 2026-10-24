@@ -27446,6 +27446,23 @@
     "dateAdded": "2026-10-23"
   },
   {
+    "name": "Prince Edward County — Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Self-service open data portal from Prince Edward County, launched October 2026: initial datasets covering administrative boundaries, property and land, and planning and development, with a searchable catalog, metadata, map previews and downloads via ArcGIS Hub, plus a public GIS viewer.",
+    "url": "https://open-data-pec.hub.arcgis.com/",
+    "tags": [
+      "ontario",
+      "prince edward county",
+      "open data",
+      "municipal",
+      "arcgis hub"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
     "name": "Banff Open Data",
     "level": "Municipal",
     "jurisdiction": "Banff",

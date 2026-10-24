@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2679 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2680 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 219
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 220
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 104
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -233,6 +233,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Explore North Bay GIS Portal | North Bay · Municipal | GIS Open Data Portal | City of North Bay ArcGIS Hub — zoning, transportation, public art, and community statistics with downloadable map layers and REST API access. | https://data-northbaygis.hub.arcgis.com/ |
 | North Bay — Municipal Dashboard | North Bay · Municipal | Dashboard | Public KPIs and community statistics tracking city services, growth, infrastructure and finances, with targets and progress indicators for municipal transparency. | https://northbay.ca/city-government/municipal-dashboard/ |
 | Oakville Explore Open Data | Oakville · Municipal | Open data hub | Town of Oakville ArcGIS open data portal with zoning, property, and municipal infrastructure layers. | https://portal-exploreoakville.opendata.arcgis.com/ |
+| Prince Edward County — Open Data Portal | Ontario · Municipal | Open data portal | Self-service open data portal from Prince Edward County, launched October 2026: initial datasets covering administrative boundaries, property and land, and planning and development, with a searchable catalog, metadata, map previews and downloads via ArcGIS Hub, plus a public GIS viewer. | https://open-data-pec.hub.arcgis.com/ |
 | City of Orillia Open Data | Orillia · Municipal | Open Data Portal | Orillia municipal open data portal — addresses, zoning, and planning schedules with dataset download and map services. | https://orillia.opendata.arcgis.com/ |
 | Oshawa Open Data | Oshawa · Municipal | Open data hub | City of Oshawa ArcGIS open data catalogue with civic, transportation, and planning layers. | https://city-oshawa.opendata.arcgis.com/ |
 | Ottawa Budget Explorer | Ottawa · Municipal | Budget explorer | Interactive budget explainer with graphs, charts, and downloadable data | https://ottawa.ca/en/city-hall/city-news/newsroom/discover-draft-budget-2026-budget-explorer |
