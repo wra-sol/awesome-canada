@@ -1,0 +1,55 @@
+name: Report Broken Link
+
+description: A resource URL is broken, redirecting, or the content has changed
+
+title: "[Broken] "
+
+labels:
+  - broken-link
+  - needs-triage
+
+body:
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource Name
+      description: Which resource is broken?
+      placeholder: e.g., Guelph Open Data — Building Permits
+    validations:
+      required: true
+
+  - type: input
+    id: current_url
+    attributes:
+      label: Current URL in Directory
+      description: The URL that's broken
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: What happened?
+      options:
+        - Page not found (404)
+        - Redirects to a different page
+        - Site down / timeout
+        - Content changed / no longer the right resource
+        - Requires login now
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: new_url
+    attributes:
+      label: New URL (if known)
+      description: If the resource moved, what's the new URL?
+      placeholder: https://...
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional Details
+      description: Any other context? When did you last see it working?

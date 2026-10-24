@@ -1,0 +1,121 @@
+name: "✨ Suggest a New Resource"
+description: "Propose a new official Canadian government digital resource to add to the list"
+title: "[New Resource] "
+labels: ["new-resource"]
+assignees: []
+body:
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      description: "Name of the resource or tool"
+      placeholder: "e.g. Canadian Climate Atlas"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: "Direct link to the resource"
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "1–2 sentence description of what it does"
+      placeholder: "e.g. Explore maps and data showing how Canada's climate is projected to change..."
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: "Which functional category does this resource fit under?"
+      multiple: false
+      options:
+        - open-data
+        - gov-services
+        - taxes
+        - finance
+        - business
+        - employment
+        - education
+        - immigration
+        - health
+        - benefits
+        - housing
+        - transport-roads
+        - transit
+        - aviation-marine
+        - parks
+        - environment
+        - utilities
+        - agriculture
+        - science
+        - culture
+        - safety
+        - justice
+        - consumer
+        - indigenous
+        - veterans
+        - elections
+        - telecom
+    validations:
+      required: true
+  - type: dropdown
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction
+      description: "Which jurisdiction does this cover?"
+      multiple: false
+      options:
+        - Canada
+        - Alberta
+        - British Columbia
+        - Manitoba
+        - New Brunswick
+        - Newfoundland and Labrador
+        - Northwest Territories
+        - Nova Scotia
+        - Nunavut
+        - Ontario
+        - Prince Edward Island
+        - Quebec
+        - Saskatchewan
+        - Yukon
+        - Multiple / Other
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Government Level
+      description: "Which level of government provides this resource?"
+      multiple: false
+      options:
+        - Federal
+        - Provincial
+        - Municipal
+        - Regional
+        - Agency
+        - Crown Corp
+    validations:
+      required: true
+  - type: input
+    id: type
+    attributes:
+      label: Type
+      description: "Short human-readable type (e.g. Calculator, Map, Open data portal)"
+      placeholder: "e.g. Interactive Map"
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: "Comma-separated lowercase tags (e.g. ontario, tenant, climate)"
+      placeholder: "e.g. ontario, climate, data"
+    validations:
+      required: false

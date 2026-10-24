@@ -1,0 +1,15 @@
+# Cloudflare Pages custom headers.
+# Brand assets get short caches so rebrands propagate quickly; scrapers and
+# browsers still cache between checks.
+
+/og-image.png
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/favicon.svg
+  Cache-Control: public, max-age=86400
+
+/apple-touch-icon.png
+  Cache-Control: public, max-age=86400
+
+/data/*
+  Cache-Control: public, max-age=3600

@@ -1,0 +1,165 @@
+{
+  "description": "Shared conformance scenarios pinning worker/src/health.js (JS) and scripts/daily-clean.py update_state/is_hard_failure (Python) to identical link-health semantics. Checks carry either an 'httpStatus' (each implementation classifies it natively) or an 'errorKind' from the shared vocabulary: timeout, ssl_error, connection_refused, connection_reset, dns_failure, network_error.",
+  "scenarios": [
+    {
+      "name": "healthy-resets-counter-and-clears-first-failure",
+      "today": "2026-08-26",
+      "prev": {
+        "https://example.gov.ca/a": { "failures": 2, "first_failure": "2026-08-20" }
+      },
+      "checks": [{ "url": "https://example.gov.ca/a", "httpStatus": 200 }],
+      "expected": {
+        "https://example.gov.ca/a": { "failures": 0 }
+      }
+    },
+    {
+      "name": "redirect-counts-as-healthy",
+      "today": "2026-08-26",
+      "prev": {
+        "https://example.gov.ca/b": { "failures": 1, "first_failure": "2026-08-24" }
+      },
+      "checks": [{ "url": "https://example.gov.ca/b", "httpStatus": 301 }],
+      "expected": {
+        "https://example.gov.ca/b": { "failures": 0 }
+      }
+    },
+    {
+      "name": "broken-404-increments-from-zero",
+      "today": "2026-08-26",
+      "prev": {},
+      "checks": [{ "url": "https://example.gov.ca/c", "httpStatus": 404 }],
+      "expected": {
+        "https://example.gov.ca/c": { "failures": 1, "first_failure": "2026-08-26" }
+      }
+    },
+    {
+      "name": "broken-404-increments-preserving-first-failure",
+      "today": "2026-08-26",
+      "prev": {
+        "https://example.gov.ca/d": { "failures": 1, "first_failure": "2026-08-20" }
+      },
+      "checks": [{ "url": "https://example.gov.ca/d", "httpStatus": 404 }],
+      "expected": {
+        "https://example.gov.ca/d": { "failures": 2, "first_failure": "2026-08-20" }
+      }
+    },
+    {
+      "name": "bot-blocked-403-freezes-counter",
+      "today": "2026-08-26",
+      "prev": {
+        "https://example.gov.ca/e": { "failures": 1, "first_failure": "2026-08-22" }
+      },
+      "checks": [{ "url": "https://example.gov.ca/e", "httpStatus": 403 }],
+      "expected": {
+        "https://example.gov.ca/e": { "failures": 1, "first_failure": "2026-08-22" }
+      }
+    },
+    {
+      "name": "rate-limited-429-freezes-at-zero-without-first-failure",
+      "today": "2026-08-26",
+      "prev": {},
+      "checks": [{ "url": "https://example.gov.ca/f", "httpStatus": 429 }],
+      "expected": {
+        "https://example.gov.ca/f": { "failures": 0 }
+      }
+    },
+    {
+      "name": "auth-walled-401-freezes-existing-count",
+      "today": "2026-08-26",
+      "prev": {
+        "https://example.gov.ca/g": { "failures": 2, "first_failure": "2026-08-18" }
+      },
+      "checks": [{ "url": "https://example.gov.ca/g", "httpStatus": 401 }],
+      "expected": {
+        "https://example.gov.ca/g": { "failures": 2, "first_failure": "2026-08-18" }
+      }
+    },
+    {
+      "name": "server-error-freezes-counter",
+      "today": "2026-08-26",
+      "prev": {
+        "https://example.gov.ca/h": { "failures": 1, "first_failure": "2026-08-25" }
+      },
+      "checks": [{ "url": "https://example.gov.ca/h", "httpStatus": 503 }],
+      "expected": {
+        "https://example.gov.ca/h": { "failures": 1, "first_failure": "2026-08-25" }
+      }
+    },
+    {
+      "name": "timeout-freezes-counter",
+      "today": "2026-08-26",
+      "prev": {
+        "https://example.gov.ca/i": { "failures": 1, "first_failure": "2026-08-23" }
+      },
+      "checks": [{ "url": "https://example.gov.ca/i", "errorKind": "timeout" }],
+      "expected": {
+        "https://example.gov.ca/i": { "failures": 1, "first_failure": "2026-08-23" }
+      }
+    },
+    {
+      "name": "unknown-network-error-freezes-counter",
+      "today": "2026-08-26",
+      "prev": {},
+      "checks": [{ "url": "https://example.gov.ca/j", "errorKind": "network_error" }],
+      "expected": {
+        "https://example.gov.ca/j": { "failures": 0 }
+      }
+    },
+    {
+      "name": "dns-failure-increments",
+      "today": "2026-08-26",
+      "prev": {},
+      "checks": [{ "url": "https://gone.example/", "errorKind": "dns_failure" }],
+      "expected": {
+        "https://gone.example/": { "failures": 1, "first_failure": "2026-08-26" }
+      }
+    },
+    {
+      "name": "connection-refused-and-reset-increment",
+      "today": "2026-08-26",
+      "prev": {
+        "https://down.example/": { "failures": 1, "first_failure": "2026-08-21" }
+      },
+      "checks": [
+        { "url": "https://down.example/", "errorKind": "connection_reset" },
+        { "url": "https://dark.example/", "errorKind": "connection_refused" }
+      ],
+      "expected": {
+        "https://down.example/": { "failures": 2, "first_failure": "2026-08-21" },
+        "https://dark.example/": { "failures": 1, "first_failure": "2026-08-26" }
+      }
+    },
+    {
+      "name": "ssl-error-increments",
+      "today": "2026-08-26",
+      "prev": {
+        "https://expired.example/": { "failures": 1, "first_failure": "2026-08-19" }
+      },
+      "checks": [{ "url": "https://expired.example/", "errorKind": "ssl_error" }],
+      "expected": {
+        "https://expired.example/": { "failures": 2, "first_failure": "2026-08-19" }
+      }
+    },
+    {
+      "name": "mixed-run-hard-soft-healthy-together",
+      "today": "2026-08-26",
+      "prev": {
+        "https://recovered.example/": { "failures": 2, "first_failure": "2026-08-15" },
+        "https://dying.example/": { "failures": 1, "first_failure": "2026-08-24" },
+        "https://flaky.example/": { "failures": 1, "first_failure": "2026-08-25" }
+      },
+      "checks": [
+        { "url": "https://recovered.example/", "httpStatus": 200 },
+        { "url": "https://dying.example/", "errorKind": "dns_failure" },
+        { "url": "https://flaky.example/", "httpStatus": 500 },
+        { "url": "https://fresh.example/", "httpStatus": 404 }
+      ],
+      "expected": {
+        "https://recovered.example/": { "failures": 0 },
+        "https://dying.example/": { "failures": 2, "first_failure": "2026-08-24" },
+        "https://flaky.example/": { "failures": 1, "first_failure": "2026-08-25" },
+        "https://fresh.example/": { "failures": 1, "first_failure": "2026-08-26" }
+      }
+    }
+  ]
+}
