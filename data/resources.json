@@ -42251,5 +42251,39 @@
       "municipal"
     ],
     "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "CCTS — Online Complaint Form",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Complaint tool",
+    "description": "File a free complaint with the Commission for Complaints for Telecom-television Services about phone, internet, or TV service after trying the provider first.",
+    "url": "https://www.ccts-cprst.ca/for-consumers/telecom-complaints/online-complaint-form/",
+    "tags": [
+      "complaints",
+      "ccts",
+      "telecom",
+      "television",
+      "consumer"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "ISED — High-Speed Internet Access Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Dashboard",
+    "description": "Track national high-speed internet progress and government funding by province and territory, including when your area gets connected.",
+    "url": "https://ised-isde.canada.ca/site/high-speed-internet-canada/en/universal-access/broadband-dashboard",
+    "tags": [
+      "broadband",
+      "dashboard",
+      "ised",
+      "connectivity",
+      "funding"
+    ],
+    "dateAdded": "2026-10-24"
   }
 ]

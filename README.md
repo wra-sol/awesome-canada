@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2667 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2669 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -59,7 +59,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 44
 - [🎖️ Veterans & Military](#veterans-and-military) — 28
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 99
-- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 26
+- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 28
 
 ---
 
@@ -4242,12 +4242,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada's Connectivity Strategy — Project Map & Reports | Canada · Federal | Program data | Federal broadband program transparency: funded connectivity projects, target speeds, households connected, and progress reporting toward universal rural internet. | https://ised-isde.canada.ca/site/canada-connectivity-strategy/en |
 | Canadian Digital Service | Canada · Federal | Agency | CDS — builds and supports digital government services across federal departments | https://digital.canada.ca/ |
 | Canadian Digital Service — GitHub Organization | Canada · Federal | Open source code | Nearly 300 open-source repositories behind GC Notify, GC Forms and GC Design System components — read, fork and reuse real production government service code. | https://github.com/cds-snc |
+| CCTS — Online Complaint Form | Canada · Federal | Complaint tool | File a free complaint with the Commission for Complaints for Telecom-television Services about phone, internet, or TV service after trying the provider first. | https://www.ccts-cprst.ca/for-consumers/telecom-complaints/online-complaint-form/ |
 | CRTC — Broadband Internet Service Complaints | Canada · Federal | Complaint | Submit complaints about broadband, wireless, or TV providers via the CCTS | https://www.ccts-cprst.ca/ |
 | CRTC — Communications Monitoring Report | Canada · Federal | Report | Annual data on Canadian broadcasting, wireless, and internet markets | https://crtc.gc.ca/eng/publications/reports/policymonitoring/2023/index.htm |
 | CRTC — National Broadband Map | Canada · Federal | Map | Interactive map showing internet speeds and coverage across Canada | https://crtc.gc.ca/eng/internet/internet.htm |
 | CRTC — Registered Telecommunications Providers List | Canada · Federal | Registration list | Look up companies registered with the CRTC to provide telecom services in Canada, including carriers, resellers, and high-speed internet resellers. | https://applications.crtc.gc.ca/portail-portal/eng/listes-lists/registration/5 |
 | CRTC Broadband Fund — Projects Selected for Funding | Canada · Federal | Broadband rollout tracker | Filterable registry and interactive map of all 73 Broadband Fund projects bringing high-speed internet and cellphone service to rural, remote, and Indigenous communities, with recipient, funding amount, project status, and linked CRTC decisions. | https://crtc.gc.ca/eng/Internet/select.htm |
 | Government of Canada — GitHub Organization | Canada · Federal | Open source code | Browse, fork and reuse 70+ official open-source repositories — the Canada.ca design system, the domain-security Tracker, and the Open Resource Exchange. | https://github.com/canada-ca |
+| ISED — High-Speed Internet Access Dashboard | Canada · Federal | Dashboard | Track national high-speed internet progress and government funding by province and territory, including when your area gets connected. | https://ised-isde.canada.ca/site/high-speed-internet-canada/en/universal-access/broadband-dashboard |
 | ISED — Radio Equipment List (REL) | Canada · Federal | Certification database | Search all radio equipment certified for sale and use in Canada by certification number, company, or model to confirm a device meets ISED radio standards. | https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?lang=en |
 | ISED — Spectrum Management System | Canada · Federal | Licensing | Look up radio spectrum licence holders and technical info across Canada | https://sms-sgs.ic.gc.ca/ |
 | ISED Spectrum Management System | Canada · Federal | Licence database | Public access to Canada's radio spectrum licensing: search radio licences by frequency, location, or licensee, browse spectrum auction results, and download site data for every licensed transmitter in the country. | https://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/home |
