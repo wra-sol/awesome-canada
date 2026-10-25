@@ -42349,5 +42349,110 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "CRA — My Payment",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "taxes",
+    "type": "Payment service",
+    "description": "Pay the CRA online: income tax, instalments, benefits repayments, GST/HST, payroll and more by debit, Apple Pay, Google Pay or Konek, 21 hours a day.",
+    "url": "https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html",
+    "tags": [
+      "CRA",
+      "payment",
+      "tax"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "Ontario — Ontario Trillium Benefit",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "taxes",
+    "type": "Benefit",
+    "description": "Ontario Trillium Benefit: combined energy/property tax credit, Northern Ontario energy credit and sales tax credit for eligible low- to moderate-income residents.",
+    "url": "https://www.ontario.ca/page/ontario-trillium-benefit",
+    "tags": [
+      "Ontario",
+      "trillium",
+      "tax credit"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "BC — Home Owner Grant",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "BC Home Owner Grant: reduces property taxes for eligible homeowners, with grant amounts, eligibility rules and how to apply.",
+    "url": "https://www2.gov.bc.ca/gov/content/taxes/property-taxes/annual-property-tax/home-owner-grant",
+    "tags": [
+      "BC",
+      "property",
+      "grant"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "BC — Personal income taxes",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "BC personal income tax hub: provincial rates and credits, including the BC family benefit and climate action tax credit, and filing information.",
+    "url": "https://www2.gov.bc.ca/gov/content/taxes/income-taxes/personal",
+    "tags": [
+      "BC",
+      "income tax",
+      "credits"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "BC — Provincial Sales Tax (PST)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "BC PST hub: what PST applies to, exemptions, business registration, and how to charge, collect and remit.",
+    "url": "https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/pst",
+    "tags": [
+      "BC",
+      "PST",
+      "sales tax"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "Revenu Québec — Income tax return",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "Revenu Québec income tax return hub: filing, credits, deductions and refunds for Quebec residents filing a provincial return.",
+    "url": "https://www.revenuquebec.ca/en/citizens/income-tax-return/",
+    "tags": [
+      "Quebec",
+      "income tax",
+      "filing"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "Revenu Québec — Consumption taxes",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "Revenu Québec consumption taxes hub: QST/GST rules, registration and filing for businesses and consumers in Quebec.",
+    "url": "https://www.revenuquebec.ca/en/citizens/consumption-taxes/",
+    "tags": [
+      "Quebec",
+      "QST",
+      "GST"
+    ],
+    "dateAdded": "2026-10-25"
   }
 ]

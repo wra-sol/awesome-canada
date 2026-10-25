@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2672 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2679 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -30,7 +30,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
 - [🪪 Government Services & ID](#government-services-and-id) — 92
-- [💰 Taxes & Revenue](#taxes-and-revenue) — 36
+- [💰 Taxes & Revenue](#taxes-and-revenue) — 43
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 41
 - [🏢 Business & Procurement](#business-and-procurement) — 66
 - [💼 Employment & Labour](#employment-and-labour) — 69
@@ -994,6 +994,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CRA — GST/HST Registry Search | Canada · Federal | Lookup tool | Confirm a supplier's GST/HST number was registered on the invoice date by entering the 9-digit BN, legal name, and transaction date. | https://www.businessregistration-inscriptionentreprise.gc.ca/ebci/brom/registry/pub/reg_01_Ld.action |
 | CRA — List of Charities and Giving | Canada · Federal | Search | Search registered Canadian charities, view revocation notices, and browse T3010 filings | https://apps.cra-arc.gc.ca/ebci/hacc/srch/pub/dsplyBscSrch |
 | CRA — My Account for Individuals | Canada · Federal | Secure portal | View tax returns, refunds, RRSP/TFSA room, CCB payments, and direct-deposit settings | https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/account-individuals.html |
+| CRA — My Payment | Canada · Federal | Payment service | Pay the CRA online: income tax, instalments, benefits repayments, GST/HST, payroll and more by debit, Apple Pay, Google Pay or Konek, 21 hours a day. | https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html |
 | CRA — NETFILE Certified Software List | Canada · Federal | Finder | Annual list of CRA-certified software (including free options) for filing personal taxes online | https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/netfile-overview/certified-software-netfile-program.html |
 | CRA — Payroll Deductions Online Calculator (PDOC) | Canada · Federal | Calculator | Official calculator for payroll CPP, EI, and federal/provincial income tax deductions | https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html |
 | CRA SimpleFile Digital | Canada · Federal | Free filing service | CRA's free online filing service where lower-income Canadians with simple tax situations answer a few questions and the CRA completes the return; deemed-filing pilot launching fall 2026. | https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/how-file/simplefile/digital.html |
@@ -1004,6 +1005,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| BC — Home Owner Grant | British Columbia · Provincial | Tax portal | BC Home Owner Grant: reduces property taxes for eligible homeowners, with grant amounts, eligibility rules and how to apply. | https://www2.gov.bc.ca/gov/content/taxes/property-taxes/annual-property-tax/home-owner-grant |
+| BC — Personal income taxes | British Columbia · Provincial | Tax portal | BC personal income tax hub: provincial rates and credits, including the BC family benefit and climate action tax credit, and filing information. | https://www2.gov.bc.ca/gov/content/taxes/income-taxes/personal |
+| BC — Provincial Sales Tax (PST) | British Columbia · Provincial | Tax portal | BC PST hub: what PST applies to, exemptions, business registration, and how to charge, collect and remit. | https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/pst |
 | BC Property Transfer Tax Calculator | British Columbia · Provincial | Calculator | Calculate the provincial property transfer tax due when buying property or acquiring land in British Columbia | https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax |
 | British Columbia — Speculation and Vacancy Tax | British Columbia · Provincial | Tax portal | Annual speculation and vacancy tax for residential property owners in designated BC taxable areas: declare online, check taxable areas with an interactive map, exemptions and tax credits. | https://www2.gov.bc.ca/gov/content/taxes/speculation-vacancy-tax |
 | Burnaby — Residential Property Tax Estimator | Burnaby · Municipal | Calculator | Class 1 estimator that multiplies an entered assessed value by the combined Burnaby mill rate (including the Infrastructure Growth Levy) and the rates of other taxing authorities, projected for 2026. Directs assessment queries to BC Assessment. | https://www.burnaby.ca/services-and-payments/property-taxes/tax-estimator-residential |
@@ -1035,6 +1039,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Ontario — Ontario Trillium Benefit | Ontario · Provincial | Benefit | Ontario Trillium Benefit: combined energy/property tax credit, Northern Ontario energy credit and sales tax credit for eligible low- to moderate-income residents. | https://www.ontario.ca/page/ontario-trillium-benefit |
 | Cambridge — Property Tax & Assessment Lookup | Cambridge · Municipal | Lookup tool | Look up a property's five-year tax and assessment history, current installment amounts, request a tax certificate or check account status online. | https://online.cambridge.ca/taxservice/TaxInfo.aspx |
 | Hamilton — Tax Calculator | Hamilton · Municipal | Calculator | Takes an address or tax roll number, or an MPAC assessment value, and returns how that property's tax charge is allocated across City services. Ontario's system is a revenue-funding model rather than a per-service fee, so the split is illustrative. | https://www.hamilton.ca/home-neighbourhood/property-taxes/understanding-property-tax/tax-calculator |
 | Hamilton — Tax Impact Mapping | Hamilton · Municipal | Mapping tool | Free mapping service, address-searchable, showing where citywide property taxes have risen and fallen, with per-property assessment values, total property taxes, any capping amount, and the dollar and percentage change over time. | https://www.hamilton.ca/home-neighbourhood/property-taxes/understanding-property-tax/tax-impact-mapping |
@@ -1048,6 +1053,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Revenu Québec — Consumption taxes | Quebec · Provincial | Tax portal | Revenu Québec consumption taxes hub: QST/GST rules, registration and filing for businesses and consumers in Quebec. | https://www.revenuquebec.ca/en/citizens/consumption-taxes/ |
+| Revenu Québec — Income tax return | Quebec · Provincial | Tax portal | Revenu Québec income tax return hub: filing, credits, deductions and refunds for Quebec residents filing a provincial return. | https://www.revenuquebec.ca/en/citizens/income-tax-return/ |
 | Revenu Québec — Mon dossier | Quebec · Provincial | Secure portal | Quebec's tax portal for personal and business returns, refunds, and notices | https://www.revenuquebec.ca/en/online-services/online-services |
 | Montréal — Evalweb property assessment rolls | Montreal · Municipal | Property assessment search | Look up any property's assessment roll in the Montreal agglomeration by address, lot number or registration number: owner, lot surface, and assessed value of building, lot and property. | https://montreal.ca/en/how-to/check-property-assessment-rolls |
 | Montréal — Municipal tax account (Compte de taxes) | Montreal · Municipal | Property tax account tool | View copies of your Montreal municipal tax account statements (current and past 2 years) by tax account number or address, and check your tax account balance online. | https://montreal.ca/en/how-to/view-copy-your-tax-account |
