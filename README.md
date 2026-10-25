@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2680 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2672 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -41,9 +41,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 58
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 59
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 58
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
-- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 45
+- [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 40
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 97
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
 - [🌦️ Weather & Climate](#weather-and-climate) — 44
@@ -53,7 +53,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
-- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 92
+- [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 74
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 44
@@ -2147,7 +2147,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CBSA Border Wait Times | Canada · Federal | Live wait times | Live estimated wait times at the 30 busiest US-to-Canada land border crossings, updated at least hourly. | https://www.cbsa-asfc.gc.ca/bwt-taf/menu-eng.html |
 | NRCan — Fuel Consumption Ratings Search Tool | Canada · Federal | Search tool | Compare fuel consumption and CO2 emissions of new light-duty vehicles sold in Canada, including hybrids and electric vehicles, with data back to 1995. | https://fcr-ccc.nrcan-rncan.gc.ca/en/Search |
 | Transport Canada — Key Transportation Indicators | Canada · Federal | Dashboard | Interactive dashboard of air, marine, road and trade stats (passengers, crossings, commodities) with downloadable ZIP tables by mode. | https://tdih-cdit.tc.canada.ca/en/dashboard/key-transportation-indicators |
-| Transport Canada — National Collision Database Online | Canada · Federal | Query tool | Build custom cross-tabulations of police-reported motor vehicle collisions on Canadian public roads from 1999 onward; download resulting tables as CSV, XLS or PDF. | https://wwwapps2.tc.gc.ca/Saf-Sec-Sur/7/NCDB-BNDC/p.aspx?l=en |
 
 ### British Columbia
 
@@ -2450,7 +2449,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| CADORS — Civil Aviation Occurrence Reports | Canada · Federal | Incident database | Transport Canada's Civil Aviation Daily Occurrence Reporting System — query aviation incident and accident reports by date, aerodrome, aircraft, or event type, with TXT export. | https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/CADORS-SCREAQ/q.aspx?lang=eng |
 | Canadian Coast Guard — e-Navigation Data Catalogue | Canada · Federal | Open data portal | Search 41 official marine datasets—AIS aids to navigation, List of Lights, ice, weather XML and notices—and download by coast or Great Lakes region. | https://e-navigation.canada.ca/gn/index-en |
 | Canadian Coast Guard — Marine Communications | Canada · Federal | Marine safety | Search and rescue info, nautical charts, and marine safety | https://www.canada.ca/coast-guard |
 | Canadian Coast Guard — Notices to Mariners | Canada · Federal | Marine safety | Official Notices to Mariners with corrections to nautical charts and publications | https://www.notmar.gc.ca/ |
@@ -2459,14 +2457,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NAV CANADA — Aeronautical Publications | Canada · Federal | Aviation maps | Airspace maps, aeronautical information, and flight planning tools | https://www.navcanada.ca/en/aeronautical-information/ |
 | NAV CANADA — Flight Planning | Canada · Federal | Flight tools | NOTAM search, Canadian Aviation Weather, and flight planning resources | https://www.navcanada.ca/en/flight-planning.aspx |
 | NAV CANADA — Live NOTAM Map | Canada · Federal | Aviation tool | Live Canadian airspace NOTAM visualization and search | https://plan.navcanada.ca/wxrecall/ |
-| Transport Canada — Airworthiness Directives Search (CAWIS) | Canada · Federal | Searchable regulatory database | Search airworthiness directives and service difficulty reports applicable to Canadian aircraft, engines, and propellers in the Continuing Airworthiness Web Information System. | https://wwwapps.tc.gc.ca/saf-sec-sur/2/cawis-swimn/ |
-| Transport Canada — CADORS Aviation Occurrence Search | Canada · Federal | Searchable incident database | Search 300,000+ daily aviation occurrence reports (incidents, laser strikes, near misses) by date, aerodrome, aircraft, or occurrence type since 1985. | https://wwwapps.tc.gc.ca/saf-sec-sur/2/cadors-screaq/qs.aspx?lang=eng |
-| Transport Canada — Canadian Civil Aircraft Register Search | Canada · Federal | Searchable registry | Look up any Canadian-registered aircraft by mark, owner, manufacturer, or model, and download the full civil aircraft register as a data file. | https://wwwapps.tc.gc.ca/saf-sec-sur/2/ccarcs-riacc/RchSimp.aspx |
 | Transport Canada — Drone Registration | Canada · Federal | Service | Register your drone, take the pilot certificate exam, and review Canadian drone rules | https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing |
 | Transport Canada — Grade Crossings Inventory | Canada · Federal | Open dataset | Download the location and safety characteristics of every railway grade crossing in Canada, the dataset used by the Railway Safety Oversight Program, updated annually. | https://open.canada.ca/data/en/dataset/d0f54727-6c0b-4e5a-aa04-ea1463cf9f4c |
 | Transport Canada — Navigation Protection Program Registry | Canada · Federal | Lookup tool | Search proposed and approved works on Canadian navigable waters by map or waterway; view project records and public comment notices. | https://nwar-rlen.tc.canada.ca/about-apropos |
 | Transport Canada — Pleasure Craft Licence: How to Apply | Canada · Federal | Licence service | Transport Canada's how-to for a Pleasure Craft Licence: apply for a new licence, transfer or renew an existing one, replace a lost document or cancel a licence, including required ID, proof of ownership and vessel photo. | https://tc.canada.ca/en/marine-transportation/vessel-licensing-registration/licensing-pleasure-craft/apply-manage-pleasure-craft-licence-pcl/how-apply |
-| Transport Canada — Vessel Registration Query System | Canada · Federal | Searchable registry | Look up any vessel on the Canadian Register of Vessels by name, official number, or owner, including tonnage, dimensions, and registration status. | https://wwwapps.tc.gc.ca/Saf-Sec-Sur/4/vrqs-srib/eng/vessel-registrations |
 | Transportation Safety Board — Investigation reports | Canada · Federal | Investigation report database | Search TSB rail, marine, pipeline and aviation investigation reports (EN/FR): findings, causes, safety actions, PDF downloads back to 1990. | https://tsb.gc.ca/eng/rapports-reports/rail/index.html |
 | VIA Rail — Trip Planner and Booking | Canada · Federal | Trip planner | Train schedules, booking, and trip planning across Canada | https://www.viarail.ca/en/plan |
 | CATSA — Canadian Air Transport Security Authority | Canada · Crown Corp | Aviation tool | Federal Crown corporation responsible for airport security screening: screening wait times, what you can bring on board, and program information. | https://www.catsa-acsta.gc.ca/ |
@@ -3609,8 +3603,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | RCMP — Canada's Missing | Canada · Federal | Case database | Search police-published profiles of missing persons and unidentified remains cases across Canada, with photos, descriptions, and tip submission. | https://canadasmissing.ca/index-eng.htm |
 | RCMP — Crime Mapping and Statistics | Canada · Federal | Data | RCMP crime data, police reported statistics, and operational updates | https://www.rcmp-grc.gc.ca/en/crime-statistics |
 | Recalls and Safety Alerts | Canada · Federal | Alert database | Useful public alert tool for recalls and safety notices | https://recalls-rappels.canada.ca/ |
-| Transport Canada — Motor Vehicle Safety Recalls Database | Canada · Federal | Recall search | Search safety recalls by make, model and year for Canadian-market vehicles, motorcycles, snowmobiles, trailers and child car seats. | https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/menu.aspx?lang=eng |
-| Transport Canada — Vehicle Recalls Database API | Canada · Federal | Data API | First-party REST API for safety-related recall records on vehicles, tires and child restraints — query by recall number, make, model or model-year range in JSON or XML, no key required. | https://data.tc.gc.ca/v1.3/api/eng/vehicle-recall-database/?format=json |
 | Avalanche Canada — Forecasts | Canada · Agency | Forecast map | Daily avalanche danger forecasts on an interactive map with dynamic region boundaries set by forecasters, covering Canada's backcountry mountain regions. | https://avalanche.ca/forecasts |
 | Canadian Centre for Occupational Health and Safety (CCOHS) | Canada · Agency | Resources | Workplace safety guides, OSH Answers fact sheets, and e-learning | https://www.ccohs.ca/ |
 | NSICOP — Committee Reports | Canada · Agency | Report library | Download annual and special reports from Parliament's security-cleared committee, including reviews of foreign interference, lawful access, and defence intelligence. | https://www.nsicop-cpsnr.ca/reports-rapports-en.html |

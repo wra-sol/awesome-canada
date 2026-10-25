@@ -763,23 +763,6 @@
     "dateAdded": "2026-10-14"
   },
   {
-    "name": "CADORS — Civil Aviation Occurrence Reports",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "aviation-marine",
-    "type": "Incident database",
-    "description": "Transport Canada's Civil Aviation Daily Occurrence Reporting System — query aviation incident and accident reports by date, aerodrome, aircraft, or event type, with TXT export.",
-    "url": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/CADORS-SCREAQ/q.aspx?lang=eng",
-    "tags": [
-      "aviation",
-      "safety",
-      "incidents",
-      "transport canada",
-      "database"
-    ],
-    "dateAdded": "2026-08-25"
-  },
-  {
     "name": "Canadian Coast Guard — e-Navigation Data Catalogue",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -892,53 +875,6 @@
     ]
   },
   {
-    "name": "Transport Canada — Airworthiness Directives Search (CAWIS)",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "aviation-marine",
-    "type": "Searchable regulatory database",
-    "description": "Search airworthiness directives and service difficulty reports applicable to Canadian aircraft, engines, and propellers in the Continuing Airworthiness Web Information System.",
-    "url": "https://wwwapps.tc.gc.ca/saf-sec-sur/2/cawis-swimn/",
-    "tags": [
-      "aviation",
-      "airworthiness",
-      "safety",
-      "regulation",
-      "search"
-    ]
-  },
-  {
-    "name": "Transport Canada — CADORS Aviation Occurrence Search",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "aviation-marine",
-    "type": "Searchable incident database",
-    "description": "Search 300,000+ daily aviation occurrence reports (incidents, laser strikes, near misses) by date, aerodrome, aircraft, or occurrence type since 1985.",
-    "url": "https://wwwapps.tc.gc.ca/saf-sec-sur/2/cadors-screaq/qs.aspx?lang=eng",
-    "tags": [
-      "aviation",
-      "safety",
-      "incidents",
-      "search",
-      "transport-canada"
-    ]
-  },
-  {
-    "name": "Transport Canada — Canadian Civil Aircraft Register Search",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "aviation-marine",
-    "type": "Searchable registry",
-    "description": "Look up any Canadian-registered aircraft by mark, owner, manufacturer, or model, and download the full civil aircraft register as a data file.",
-    "url": "https://wwwapps.tc.gc.ca/saf-sec-sur/2/ccarcs-riacc/RchSimp.aspx",
-    "tags": [
-      "aviation",
-      "aircraft",
-      "registry",
-      "search"
-    ]
-  },
-  {
     "name": "Transport Canada — Drone Registration",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -999,21 +935,6 @@
       "federal"
     ],
     "dateAdded": "2026-10-11"
-  },
-  {
-    "name": "Transport Canada — Vessel Registration Query System",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "aviation-marine",
-    "type": "Searchable registry",
-    "description": "Look up any vessel on the Canadian Register of Vessels by name, official number, or owner, including tonnage, dimensions, and registration status.",
-    "url": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/4/vrqs-srib/eng/vessel-registrations",
-    "tags": [
-      "marine",
-      "vessels",
-      "registry",
-      "search"
-    ]
   },
   {
     "name": "Transportation Safety Board — Investigation reports",
@@ -4197,6 +4118,25 @@
       "csv",
       "transparency"
     ]
+  },
+  {
+    "name": "Democracy Distributed — Trace Government Spending",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "budget",
+    "type": "Spending tracker",
+    "description": "Open civic database tracing government spending from the vote that authorized it to the invoice that paid it: Toronto's 2024 budget as an interactive Sankey diagram, crowdsourced with a reputation system. Open-source (MIT), actively maintained.",
+    "url": "https://www.democracydistributed.com/",
+    "tags": [
+      "toronto",
+      "budget",
+      "spending",
+      "transparency",
+      "civic tech",
+      "open data",
+      "municipal"
+    ],
+    "dateAdded": "2026-10-24"
   },
   {
     "name": "Truro — Financial Statements & Budget",
@@ -27446,23 +27386,6 @@
     "dateAdded": "2026-10-23"
   },
   {
-    "name": "Prince Edward County — Open Data Portal",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Self-service open data portal from Prince Edward County, launched October 2026: initial datasets covering administrative boundaries, property and land, and planning and development, with a searchable catalog, metadata, map previews and downloads via ArcGIS Hub, plus a public GIS viewer.",
-    "url": "https://open-data-pec.hub.arcgis.com/",
-    "tags": [
-      "ontario",
-      "prince edward county",
-      "open data",
-      "municipal",
-      "arcgis hub"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
     "name": "Banff Open Data",
     "level": "Municipal",
     "jurisdiction": "Banff",
@@ -28496,6 +28419,23 @@
       "open data",
       "verified"
     ]
+  },
+  {
+    "name": "Prince Edward County — Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Self-service open data portal from Prince Edward County, launched October 2026: initial datasets covering administrative boundaries, property and land, and planning and development, with a searchable catalog, metadata, map previews and downloads via ArcGIS Hub, plus a public GIS viewer.",
+    "url": "https://open-data-pec.hub.arcgis.com/",
+    "tags": [
+      "ontario",
+      "prince edward county",
+      "open data",
+      "municipal",
+      "arcgis hub"
+    ],
+    "dateAdded": "2026-10-24"
   },
   {
     "name": "City of Orillia Open Data",
@@ -32845,37 +32785,6 @@
     ]
   },
   {
-    "name": "Transport Canada — Motor Vehicle Safety Recalls Database",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "safety",
-    "type": "Recall search",
-    "description": "Search safety recalls by make, model and year for Canadian-market vehicles, motorcycles, snowmobiles, trailers and child car seats.",
-    "url": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/menu.aspx?lang=eng",
-    "tags": [
-      "recalls",
-      "vehicles",
-      "safety",
-      "search"
-    ]
-  },
-  {
-    "name": "Transport Canada — Vehicle Recalls Database API",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "safety",
-    "type": "Data API",
-    "description": "First-party REST API for safety-related recall records on vehicles, tires and child restraints — query by recall number, make, model or model-year range in JSON or XML, no key required.",
-    "url": "https://data.tc.gc.ca/v1.3/api/eng/vehicle-recall-database/?format=json",
-    "tags": [
-      "vehicle recalls",
-      "defects",
-      "api",
-      "transport canada"
-    ],
-    "dateAdded": "2026-08-26"
-  },
-  {
     "name": "Avalanche Canada — Forecasts",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -36432,6 +36341,23 @@
     ]
   },
   {
+    "name": "CCTS — Online Complaint Form",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Complaint tool",
+    "description": "File a free complaint with the Commission for Complaints for Telecom-television Services about phone, internet, or TV service after trying the provider first.",
+    "url": "https://www.ccts-cprst.ca/for-consumers/telecom-complaints/online-complaint-form/",
+    "tags": [
+      "complaints",
+      "ccts",
+      "telecom",
+      "television",
+      "consumer"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
     "name": "CRTC — Broadband Internet Service Complaints",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -36519,6 +36445,23 @@
       "code",
       "digital government"
     ]
+  },
+  {
+    "name": "ISED — High-Speed Internet Access Dashboard",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Dashboard",
+    "description": "Track national high-speed internet progress and government funding by province and territory, including when your area gets connected.",
+    "url": "https://ised-isde.canada.ca/site/high-speed-internet-canada/en/universal-access/broadband-dashboard",
+    "tags": [
+      "broadband",
+      "dashboard",
+      "ised",
+      "connectivity",
+      "funding"
+    ],
+    "dateAdded": "2026-10-24"
   },
   {
     "name": "ISED — Radio Equipment List (REL)",
@@ -39299,22 +39242,6 @@
     "dateAdded": "2026-08-26"
   },
   {
-    "name": "Transport Canada — National Collision Database Online",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "transport-roads",
-    "type": "Query tool",
-    "description": "Build custom cross-tabulations of police-reported motor vehicle collisions on Canadian public roads from 1999 onward; download resulting tables as CSV, XLS or PDF.",
-    "url": "https://wwwapps2.tc.gc.ca/Saf-Sec-Sur/7/NCDB-BNDC/p.aspx?l=en",
-    "tags": [
-      "road-safety",
-      "collisions",
-      "statistics",
-      "traffic",
-      "fatalities"
-    ]
-  },
-  {
     "name": "511 Alberta",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -41125,6 +41052,23 @@
     ]
   },
   {
+    "name": "CFMWS — Veteran Family Program",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Family support program",
+    "description": "Canadian Forces Morale and Welfare Services' Veteran Family Program page: transition services, referrals, workshops and community supports for medically released CAF veterans and their families, delivered through Military Family Resource Centres and the 24/7 Family Information Line.",
+    "url": "https://cfmws.ca/support-services/releasing/veteran-family-program",
+    "tags": [
+      "veterans",
+      "families",
+      "transition",
+      "military family",
+      "cfmws"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
     "name": "DND — Official Military Lineages",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -41139,6 +41083,23 @@
       "battle honours",
       "heritage"
     ]
+  },
+  {
+    "name": "DND — Transition Families and Caregivers",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Transition hub",
+    "description": "National Defence and Veterans Affairs Canada's transition hub for families and caregivers of CAF members and veterans: links to family support services, CAF Connection, and finding a Military Family Resource Centre on a base or wing.",
+    "url": "https://www.canada.ca/en/department-national-defence/services/benefits-military/transition/families-caregivers.html",
+    "tags": [
+      "veterans",
+      "families",
+      "caregivers",
+      "transition",
+      "military family"
+    ],
+    "dateAdded": "2026-10-24"
   },
   {
     "name": "DND/CAF — Current Operations List",
@@ -41262,6 +41223,58 @@
     "dateAdded": "2026-10-22"
   },
   {
+    "name": "VAC — Caregiver Recognition Benefit",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Caregiver benefit",
+    "description": "Veterans Affairs Canada's Caregiver Recognition Benefit program page: a tax-free monthly payment to the unpaid informal caregiver of a veteran who needs ongoing care for a service-related disability, with eligibility criteria and how to apply.",
+    "url": "https://veterans.gc.ca/en/mental-and-physical-health/physical-health-and-wellness/compensation-illness-or-injury/caregiver-recognition-benefit",
+    "tags": [
+      "veterans",
+      "caregivers",
+      "vac",
+      "benefits",
+      "disability"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Educational Assistance for Children",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Education funding",
+    "description": "Veterans Affairs Canada's educational assistance program page: tax-free funding for the children of deceased veterans or CAF members to attend full-time post-secondary education, covering tuition and fees plus a monthly allowance for up to four years.",
+    "url": "https://veterans.gc.ca/en/financial-programs-and-services/death-and-bereavement/death-and-bereavement-programs/educational-assistance-children",
+    "tags": [
+      "veterans",
+      "education",
+      "children",
+      "survivors",
+      "vac",
+      "funding"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Income Replacement Benefit",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Income support",
+    "description": "Veterans Affairs Canada's Income Replacement Benefit program page: a taxable monthly benefit keeping a veteran's total income at at least 90% of pre-release military salary while they take part in the VAC Rehabilitation Program or have a diminished earning capacity, with eligibility and how to apply.",
+    "url": "https://veterans.gc.ca/en/financial-programs-and-services/income-support/income-replacement-benefit",
+    "tags": [
+      "veterans",
+      "income support",
+      "rehabilitation",
+      "vac",
+      "benefits"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
     "name": "VAC — Prescription Drug Formulary Search (POC 10)",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -41280,6 +41293,23 @@
     "dateAdded": "2026-09-29"
   },
   {
+    "name": "VAC — Rehabilitation Services",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Rehabilitation program",
+    "description": "Veterans Affairs Canada's rehabilitation services program page: medical, psycho-social and vocational rehabilitation for veterans whose service-related health problem is a barrier to re-establishment in civilian life, delivered with a VAC case manager.",
+    "url": "https://www.veterans.gc.ca/en/mental-and-physical-health/mental-health-and-wellness/rehabilitation-services",
+    "tags": [
+      "veterans",
+      "rehabilitation",
+      "vac",
+      "health",
+      "transition"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
     "name": "VAC — Search Treatment Benefits (Benefit Grid)",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -41296,6 +41326,76 @@
       "health benefits"
     ],
     "dateAdded": "2026-09-29"
+  },
+  {
+    "name": "VAC — VAC Assistance Service (Talk to a Professional Now)",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Counselling service",
+    "description": "Veterans Affairs Canada's VAC Assistance Service page: free, confidential 24/7 telephone psychological support for CAF veterans, former RCMP members, their families and caregivers, including bereavement and pastoral outreach, with phone and online-chat access.",
+    "url": "https://veterans.gc.ca/en/families-and-caregivers/death-and-bereavement/talk-professional-now",
+    "tags": [
+      "veterans",
+      "mental health",
+      "counselling",
+      "crisis",
+      "vac",
+      "families"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Veterans Independence Program for Primary Caregivers",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Home care funding",
+    "description": "Veterans Affairs Canada's Veterans Independence Program page for primary caregivers: annual tax-free funding toward grounds maintenance and housekeeping for the unpaid primary caregiver of a veteran who received VIP services and has moved to long-term care or died.",
+    "url": "https://www.veterans.gc.ca/en/families-and-caregivers/housing-and-home-life/veterans-independence-program-primary-caregivers",
+    "tags": [
+      "veterans",
+      "home care",
+      "caregivers",
+      "vac",
+      "housekeeping"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Veterans Independence Program for Survivors",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Home care funding",
+    "description": "Veterans Affairs Canada's Veterans Independence Program page for survivors: annual tax-free funding toward grounds maintenance and housekeeping so the survivor of a Second World War or Korean War veteran can remain independent at home.",
+    "url": "https://www.veterans.gc.ca/en/mental-and-physical-health/physical-health-and-wellness/help-home/veterans-independence-program-survivors",
+    "tags": [
+      "veterans",
+      "home care",
+      "survivors",
+      "vac",
+      "housekeeping"
+    ],
+    "dateAdded": "2026-10-24"
+  },
+  {
+    "name": "VAC — Vocational Assistance",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "veterans",
+    "type": "Career support",
+    "description": "Veterans Affairs Canada's vocational assistance program page: skills development, education, training, career counselling and job-search help for the spouse or survivor of a veteran who cannot take part in vocational rehabilitation, building a plan with VAC's service provider.",
+    "url": "https://veterans.gc.ca/en/families-and-caregivers/education-and-jobs/vocational-assistance",
+    "tags": [
+      "veterans",
+      "careers",
+      "training",
+      "spouses",
+      "survivors",
+      "vac"
+    ],
+    "dateAdded": "2026-10-24"
   },
   {
     "name": "Veterans Affairs Canada — Benefits Navigator",
@@ -42249,231 +42349,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Democracy Distributed — Trace Government Spending",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "budget",
-    "type": "Spending tracker",
-    "description": "Open civic database tracing government spending from the vote that authorized it to the invoice that paid it: Toronto's 2024 budget as an interactive Sankey diagram, crowdsourced with a reputation system. Open-source (MIT), actively maintained.",
-    "url": "https://www.democracydistributed.com/",
-    "tags": [
-      "toronto",
-      "budget",
-      "spending",
-      "transparency",
-      "civic tech",
-      "open data",
-      "municipal"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "CCTS — Online Complaint Form",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "telecom",
-    "type": "Complaint tool",
-    "description": "File a free complaint with the Commission for Complaints for Telecom-television Services about phone, internet, or TV service after trying the provider first.",
-    "url": "https://www.ccts-cprst.ca/for-consumers/telecom-complaints/online-complaint-form/",
-    "tags": [
-      "complaints",
-      "ccts",
-      "telecom",
-      "television",
-      "consumer"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "ISED — High-Speed Internet Access Dashboard",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "telecom",
-    "type": "Dashboard",
-    "description": "Track national high-speed internet progress and government funding by province and territory, including when your area gets connected.",
-    "url": "https://ised-isde.canada.ca/site/high-speed-internet-canada/en/universal-access/broadband-dashboard",
-    "tags": [
-      "broadband",
-      "dashboard",
-      "ised",
-      "connectivity",
-      "funding"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "VAC — Income Replacement Benefit",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Income support",
-    "description": "Veterans Affairs Canada's Income Replacement Benefit program page: a taxable monthly benefit keeping a veteran's total income at at least 90% of pre-release military salary while they take part in the VAC Rehabilitation Program or have a diminished earning capacity, with eligibility and how to apply.",
-    "url": "https://veterans.gc.ca/en/financial-programs-and-services/income-support/income-replacement-benefit",
-    "tags": [
-      "veterans",
-      "income support",
-      "rehabilitation",
-      "vac",
-      "benefits"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "VAC — Caregiver Recognition Benefit",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Caregiver benefit",
-    "description": "Veterans Affairs Canada's Caregiver Recognition Benefit program page: a tax-free monthly payment to the unpaid informal caregiver of a veteran who needs ongoing care for a service-related disability, with eligibility criteria and how to apply.",
-    "url": "https://veterans.gc.ca/en/mental-and-physical-health/physical-health-and-wellness/compensation-illness-or-injury/caregiver-recognition-benefit",
-    "tags": [
-      "veterans",
-      "caregivers",
-      "vac",
-      "benefits",
-      "disability"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "VAC — Vocational Assistance",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Career support",
-    "description": "Veterans Affairs Canada's vocational assistance program page: skills development, education, training, career counselling and job-search help for the spouse or survivor of a veteran who cannot take part in vocational rehabilitation, building a plan with VAC's service provider.",
-    "url": "https://veterans.gc.ca/en/families-and-caregivers/education-and-jobs/vocational-assistance",
-    "tags": [
-      "veterans",
-      "careers",
-      "training",
-      "spouses",
-      "survivors",
-      "vac"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "VAC — Educational Assistance for Children",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Education funding",
-    "description": "Veterans Affairs Canada's educational assistance program page: tax-free funding for the children of deceased veterans or CAF members to attend full-time post-secondary education, covering tuition and fees plus a monthly allowance for up to four years.",
-    "url": "https://veterans.gc.ca/en/financial-programs-and-services/death-and-bereavement/death-and-bereavement-programs/educational-assistance-children",
-    "tags": [
-      "veterans",
-      "education",
-      "children",
-      "survivors",
-      "vac",
-      "funding"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "VAC — Veterans Independence Program for Survivors",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Home care funding",
-    "description": "Veterans Affairs Canada's Veterans Independence Program page for survivors: annual tax-free funding toward grounds maintenance and housekeeping so the survivor of a Second World War or Korean War veteran can remain independent at home.",
-    "url": "https://www.veterans.gc.ca/en/mental-and-physical-health/physical-health-and-wellness/help-home/veterans-independence-program-survivors",
-    "tags": [
-      "veterans",
-      "home care",
-      "survivors",
-      "vac",
-      "housekeeping"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "VAC — Veterans Independence Program for Primary Caregivers",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Home care funding",
-    "description": "Veterans Affairs Canada's Veterans Independence Program page for primary caregivers: annual tax-free funding toward grounds maintenance and housekeeping for the unpaid primary caregiver of a veteran who received VIP services and has moved to long-term care or died.",
-    "url": "https://www.veterans.gc.ca/en/families-and-caregivers/housing-and-home-life/veterans-independence-program-primary-caregivers",
-    "tags": [
-      "veterans",
-      "home care",
-      "caregivers",
-      "vac",
-      "housekeeping"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "VAC — Rehabilitation Services",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Rehabilitation program",
-    "description": "Veterans Affairs Canada's rehabilitation services program page: medical, psycho-social and vocational rehabilitation for veterans whose service-related health problem is a barrier to re-establishment in civilian life, delivered with a VAC case manager.",
-    "url": "https://www.veterans.gc.ca/en/mental-and-physical-health/mental-health-and-wellness/rehabilitation-services",
-    "tags": [
-      "veterans",
-      "rehabilitation",
-      "vac",
-      "health",
-      "transition"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "VAC — VAC Assistance Service (Talk to a Professional Now)",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Counselling service",
-    "description": "Veterans Affairs Canada's VAC Assistance Service page: free, confidential 24/7 telephone psychological support for CAF veterans, former RCMP members, their families and caregivers, including bereavement and pastoral outreach, with phone and online-chat access.",
-    "url": "https://veterans.gc.ca/en/families-and-caregivers/death-and-bereavement/talk-professional-now",
-    "tags": [
-      "veterans",
-      "mental health",
-      "counselling",
-      "crisis",
-      "vac",
-      "families"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "CFMWS — Veteran Family Program",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Family support program",
-    "description": "Canadian Forces Morale and Welfare Services' Veteran Family Program page: transition services, referrals, workshops and community supports for medically released CAF veterans and their families, delivered through Military Family Resource Centres and the 24/7 Family Information Line.",
-    "url": "https://cfmws.ca/support-services/releasing/veteran-family-program",
-    "tags": [
-      "veterans",
-      "families",
-      "transition",
-      "military family",
-      "cfmws"
-    ],
-    "dateAdded": "2026-10-24"
-  },
-  {
-    "name": "DND — Transition Families and Caregivers",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Transition hub",
-    "description": "National Defence and Veterans Affairs Canada's transition hub for families and caregivers of CAF members and veterans: links to family support services, CAF Connection, and finding a Military Family Resource Centre on a base or wing.",
-    "url": "https://www.canada.ca/en/department-national-defence/services/benefits-military/transition/families-caregivers.html",
-    "tags": [
-      "veterans",
-      "families",
-      "caregivers",
-      "transition",
-      "military family"
-    ],
-    "dateAdded": "2026-10-24"
   }
 ]
