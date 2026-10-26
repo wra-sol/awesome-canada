@@ -18877,6 +18877,23 @@
     "dateAdded": "2026-10-17"
   },
   {
+    "name": "Kids Help Phone",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Crisis helpline",
+    "description": "Canada's only 24/7 e-mental-health service for young people: free confidential phone, text and online chat support with trained counsellors, in English and French.",
+    "url": "https://kidshelpphone.ca/",
+    "tags": [
+      "youth",
+      "mental health",
+      "crisis",
+      "helpline",
+      "24/7"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
     "name": "Licensed Natural Health Products Database (LNHPD)",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -19338,6 +19355,37 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "BC — Crisis Centre",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Crisis helpline",
+    "description": "BC Crisis Centre: the 310-6789 crisis line and online chat support for British Columbians in distress, plus crisis resources.",
+    "url": "https://www.crisiscentre.bc.ca/",
+    "tags": [
+      "crisis",
+      "helpline",
+      "mental health",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "BC — Organ Donor Registry",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Organ donor registry",
+    "description": "BC Transplant's Organ Donor Registry: register your organ donation decision online with a BC Personal Health Number.",
+    "url": "https://register.transplant.bc.ca/",
+    "tags": [
+      "organ donation",
+      "donor registry",
+      "british columbia"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
     "name": "BC Health Gateway",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -19672,6 +19720,22 @@
     "dateAdded": "2026-10-17"
   },
   {
+    "name": "Newfoundland and Labrador — Prescription Drug Program (NLPDP)",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "health",
+    "type": "Drug coverage search",
+    "description": "The Newfoundland and Labrador Prescription Drug Program hub: five prescription drug plans, plan overviews, how to apply, and the drug coverage search.",
+    "url": "https://www.gov.nl.ca/hcs/prescription/",
+    "tags": [
+      "health",
+      "pharmacare",
+      "drug coverage",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
     "name": "NL Health Services — Book an Online Appointment",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",
@@ -19721,6 +19785,22 @@
       "nova scotia"
     ],
     "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Nova Scotia — Pharmacare",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Drug coverage search",
+    "description": "Nova Scotia Pharmacare hub: provincial drug coverage programs, eligibility, and how to apply for prescription drug benefits.",
+    "url": "https://novascotia.ca/dhw/pharmacare/",
+    "tags": [
+      "health",
+      "pharmacare",
+      "drug coverage",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-10-25"
   },
   {
     "name": "Nova Scotia — Wait Time Information",
@@ -19868,6 +19948,21 @@
     "dateAdded": "2026-08-24"
   },
   {
+    "name": "Ontario — Be a Donor",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "health",
+    "type": "Organ donor registry",
+    "description": "Ontario's organ and tissue donor registration service (Trillium Gift of Life Network): register or check your donor registration online.",
+    "url": "https://beadonor.ca/",
+    "tags": [
+      "organ donation",
+      "donor registry",
+      "ontario"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
     "name": "Ontario — Drug Benefit Formulary Search",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -20009,6 +20104,22 @@
     "dateAdded": "2026-10-01"
   },
   {
+    "name": "PEI — Pharmacare",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "health",
+    "type": "Drug coverage search",
+    "description": "PEI Pharmacare hub: provincial drug coverage programs, eligibility, and how residents apply for prescription drug benefits.",
+    "url": "https://www.princeedwardisland.ca/en/topic/health-and-wellness/pharmacare",
+    "tags": [
+      "health",
+      "pharmacare",
+      "drug coverage",
+      "prince edward island"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
     "name": "Prince Edward Island — 811 Telehealth",
     "level": "Provincial",
     "jurisdiction": "Prince Edward Island",
@@ -20089,6 +20200,22 @@
       "real-time"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Quebec — Association québécoise de prévention du suicide (AQPS)",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Crisis helpline",
+    "description": "Quebec's suicide-prevention network (AQPS): the 1-866-APPELLE line and resources for people in crisis and their families.",
+    "url": "https://aqps.info/",
+    "tags": [
+      "crisis",
+      "suicide prevention",
+      "helpline",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-25"
   },
   {
     "name": "Québec — Performance du réseau de la santé et des services sociaux",
@@ -35855,6 +35982,21 @@
     ]
   },
   {
+    "name": "CRA — My Payment",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "taxes",
+    "type": "Payment service",
+    "description": "Pay the CRA online: income tax, instalments, benefits repayments, GST/HST, payroll and more by debit, Apple Pay, Google Pay or Konek, 21 hours a day.",
+    "url": "https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html",
+    "tags": [
+      "CRA",
+      "payment",
+      "tax"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
     "name": "CRA — NETFILE Certified Software List",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -35929,6 +36071,51 @@
     ]
   },
   {
+    "name": "BC — Home Owner Grant",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "BC Home Owner Grant: reduces property taxes for eligible homeowners, with grant amounts, eligibility rules and how to apply.",
+    "url": "https://www2.gov.bc.ca/gov/content/taxes/property-taxes/annual-property-tax/home-owner-grant",
+    "tags": [
+      "BC",
+      "property",
+      "grant"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "BC — Personal income taxes",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "BC personal income tax hub: provincial rates and credits, including the BC family benefit and climate action tax credit, and filing information.",
+    "url": "https://www2.gov.bc.ca/gov/content/taxes/income-taxes/personal",
+    "tags": [
+      "BC",
+      "income tax",
+      "credits"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "BC — Provincial Sales Tax (PST)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "BC PST hub: what PST applies to, exemptions, business registration, and how to charge, collect and remit.",
+    "url": "https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/pst",
+    "tags": [
+      "BC",
+      "PST",
+      "sales tax"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
     "name": "BC Property Transfer Tax Calculator",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -35972,6 +36159,51 @@
       "filing"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Ontario — Ontario Trillium Benefit",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "taxes",
+    "type": "Benefit",
+    "description": "Ontario Trillium Benefit: combined energy/property tax credit, Northern Ontario energy credit and sales tax credit for eligible low- to moderate-income residents.",
+    "url": "https://www.ontario.ca/page/ontario-trillium-benefit",
+    "tags": [
+      "Ontario",
+      "trillium",
+      "tax credit"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "Revenu Québec — Consumption taxes",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "Revenu Québec consumption taxes hub: QST/GST rules, registration and filing for businesses and consumers in Quebec.",
+    "url": "https://www.revenuquebec.ca/en/citizens/consumption-taxes/",
+    "tags": [
+      "Quebec",
+      "QST",
+      "GST"
+    ],
+    "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "Revenu Québec — Income tax return",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "taxes",
+    "type": "Tax portal",
+    "description": "Revenu Québec income tax return hub: filing, credits, deductions and refunds for Quebec residents filing a provincial return.",
+    "url": "https://www.revenuquebec.ca/en/citizens/income-tax-return/",
+    "tags": [
+      "Quebec",
+      "income tax",
+      "filing"
+    ],
+    "dateAdded": "2026-10-25"
   },
   {
     "name": "Revenu Québec — Mon dossier",
@@ -42349,237 +42581,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "CRA — My Payment",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "taxes",
-    "type": "Payment service",
-    "description": "Pay the CRA online: income tax, instalments, benefits repayments, GST/HST, payroll and more by debit, Apple Pay, Google Pay or Konek, 21 hours a day.",
-    "url": "https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html",
-    "tags": [
-      "CRA",
-      "payment",
-      "tax"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "Ontario — Ontario Trillium Benefit",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "taxes",
-    "type": "Benefit",
-    "description": "Ontario Trillium Benefit: combined energy/property tax credit, Northern Ontario energy credit and sales tax credit for eligible low- to moderate-income residents.",
-    "url": "https://www.ontario.ca/page/ontario-trillium-benefit",
-    "tags": [
-      "Ontario",
-      "trillium",
-      "tax credit"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "BC — Home Owner Grant",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "taxes",
-    "type": "Tax portal",
-    "description": "BC Home Owner Grant: reduces property taxes for eligible homeowners, with grant amounts, eligibility rules and how to apply.",
-    "url": "https://www2.gov.bc.ca/gov/content/taxes/property-taxes/annual-property-tax/home-owner-grant",
-    "tags": [
-      "BC",
-      "property",
-      "grant"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "BC — Personal income taxes",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "taxes",
-    "type": "Tax portal",
-    "description": "BC personal income tax hub: provincial rates and credits, including the BC family benefit and climate action tax credit, and filing information.",
-    "url": "https://www2.gov.bc.ca/gov/content/taxes/income-taxes/personal",
-    "tags": [
-      "BC",
-      "income tax",
-      "credits"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "BC — Provincial Sales Tax (PST)",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "taxes",
-    "type": "Tax portal",
-    "description": "BC PST hub: what PST applies to, exemptions, business registration, and how to charge, collect and remit.",
-    "url": "https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/pst",
-    "tags": [
-      "BC",
-      "PST",
-      "sales tax"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "Revenu Québec — Income tax return",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "taxes",
-    "type": "Tax portal",
-    "description": "Revenu Québec income tax return hub: filing, credits, deductions and refunds for Quebec residents filing a provincial return.",
-    "url": "https://www.revenuquebec.ca/en/citizens/income-tax-return/",
-    "tags": [
-      "Quebec",
-      "income tax",
-      "filing"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "Revenu Québec — Consumption taxes",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "taxes",
-    "type": "Tax portal",
-    "description": "Revenu Québec consumption taxes hub: QST/GST rules, registration and filing for businesses and consumers in Quebec.",
-    "url": "https://www.revenuquebec.ca/en/citizens/consumption-taxes/",
-    "tags": [
-      "Quebec",
-      "QST",
-      "GST"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "Kids Help Phone",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "health",
-    "type": "Crisis helpline",
-    "description": "Canada's only 24/7 e-mental-health service for young people: free confidential phone, text and online chat support with trained counsellors, in English and French.",
-    "url": "https://kidshelpphone.ca/",
-    "tags": [
-      "youth",
-      "mental health",
-      "crisis",
-      "helpline",
-      "24/7"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "Ontario — Be a Donor",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "health",
-    "type": "Organ donor registry",
-    "description": "Ontario's organ and tissue donor registration service (Trillium Gift of Life Network): register or check your donor registration online.",
-    "url": "https://beadonor.ca/",
-    "tags": [
-      "organ donation",
-      "donor registry",
-      "ontario"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "BC — Organ Donor Registry",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "health",
-    "type": "Organ donor registry",
-    "description": "BC Transplant's Organ Donor Registry: register your organ donation decision online with a BC Personal Health Number.",
-    "url": "https://register.transplant.bc.ca/",
-    "tags": [
-      "organ donation",
-      "donor registry",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "Nova Scotia — Pharmacare",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "health",
-    "type": "Drug coverage search",
-    "description": "Nova Scotia Pharmacare hub: provincial drug coverage programs, eligibility, and how to apply for prescription drug benefits.",
-    "url": "https://novascotia.ca/dhw/pharmacare/",
-    "tags": [
-      "health",
-      "pharmacare",
-      "drug coverage",
-      "nova scotia"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "PEI — Pharmacare",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "health",
-    "type": "Drug coverage search",
-    "description": "PEI Pharmacare hub: provincial drug coverage programs, eligibility, and how residents apply for prescription drug benefits.",
-    "url": "https://www.princeedwardisland.ca/en/topic/health-and-wellness/pharmacare",
-    "tags": [
-      "health",
-      "pharmacare",
-      "drug coverage",
-      "prince edward island"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "Newfoundland and Labrador — Prescription Drug Program (NLPDP)",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "health",
-    "type": "Drug coverage search",
-    "description": "The Newfoundland and Labrador Prescription Drug Program hub: five prescription drug plans, plan overviews, how to apply, and the drug coverage search.",
-    "url": "https://www.gov.nl.ca/hcs/prescription/",
-    "tags": [
-      "health",
-      "pharmacare",
-      "drug coverage",
-      "newfoundland and labrador"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "BC — Crisis Centre",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "health",
-    "type": "Crisis helpline",
-    "description": "BC Crisis Centre: the 310-6789 crisis line and online chat support for British Columbians in distress, plus crisis resources.",
-    "url": "https://www.crisiscentre.bc.ca/",
-    "tags": [
-      "crisis",
-      "helpline",
-      "mental health",
-      "british columbia"
-    ],
-    "dateAdded": "2026-10-25"
-  },
-  {
-    "name": "Quebec — Association québécoise de prévention du suicide (AQPS)",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "health",
-    "type": "Crisis helpline",
-    "description": "Quebec's suicide-prevention network (AQPS): the 1-866-APPELLE line and resources for people in crisis and their families.",
-    "url": "https://aqps.info/",
-    "tags": [
-      "crisis",
-      "suicide prevention",
-      "helpline",
-      "quebec"
-    ],
-    "dateAdded": "2026-10-25"
   }
 ]
