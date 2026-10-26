@@ -19286,7 +19286,7 @@
     "category": "health",
     "type": "Drug coverage search",
     "description": "RAMQ's search tool for checking whether a prescription drug is covered under Québec's Public Prescription Drug Insurance Plan, whose regularly updated list covers over 9,000 prescription drugs, with coverage status, manufacturer, strength, dosage form and DIN.",
-    "url": "https://www.ramq.gouv.qc.ca/en/citoyens/assurance-medicaments/savoir-si-medicament-est-couvert",
+    "url": "https://www.ramq.gouv.qc.ca/en/citizens/prescription-drug-insurance/find-out-whether-a-drug-covered",
     "tags": [
       "health",
       "formulary",
@@ -20505,7 +20505,7 @@
     "category": "health",
     "type": "Inspection search",
     "description": "Durham Region Health Department's Check&GO! disclosure program: online inspection results, confirmed IPAC lapses, legal action and complaints for restaurants and food stores, spas and personal service settings, pools and splash pads, child care centres, beaches, recreational camps and small drinking water systems.",
-    "url": "https://www.durham.ca/en/health-and-wellness/CheckAndGoDurham.aspx",
+    "url": "https://www.durham.ca/health-and-wellness/public-health-inspections-and-investigations/checkgo-durham/",
     "tags": [
       "health",
       "inspections",
@@ -31138,21 +31138,6 @@
       "open data",
       "api",
       "csv"
-    ]
-  },
-  {
-    "name": "CBRM Parcel Finder",
-    "level": "Municipal",
-    "jurisdiction": "Cape Breton",
-    "category": "planning-zoning",
-    "type": "Parcel map service",
-    "description": "Cape Breton Regional Municipality parcel and property lookup via municipal GIS ParcelFinder map services.",
-    "url": "https://gis2.cbrm.ns.ca/server/rest/services/ParcelFinder",
-    "tags": [
-      "cape breton",
-      "parcels",
-      "property",
-      "gis"
     ]
   },
   {
@@ -42692,6 +42677,116 @@
       "panel physician",
       "finder",
       "IRCC"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
+    "name": "Ontario — Find a School",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "School finder",
+    "description": "Ontario's Find a School tool: search every publicly funded elementary and secondary school by name or location on a map, with contact info, grades, EQAO achievement statistics and demographics.",
+    "url": "https://www.ontario.ca/page/find-elementary-or-secondary-school",
+    "tags": [
+      "ontario",
+      "schools",
+      "k-12",
+      "EQAO"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
+    "name": "Ontario — School Information Finder",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "School profiles",
+    "description": "Ontario's School Information Finder: per-school profiles with enrolment, grades, board, and Grade 3/6/9/10 student achievement data for every public elementary and secondary school.",
+    "url": "https://www.app.edu.gov.on.ca/eng/sift/",
+    "tags": [
+      "ontario",
+      "schools",
+      "achievement",
+      "k-12"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
+    "name": "Ontario — Find a School Board or School Authority",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "School board finder",
+    "description": "Ontario's school board finder: locate the district school board or school authority serving an address across the four publicly funded systems (English/French, public/Catholic).",
+    "url": "https://www.ontario.ca/page/find-school-board-or-school-authority",
+    "tags": [
+      "ontario",
+      "school boards",
+      "k-12"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
+    "name": "Red Seal Program",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Trades certification",
+    "description": "The national Red Seal Program site: the 54 designated Red Seal trades, occupational standards, exam preparation tools and credential verification for interprovincial trades certification.",
+    "url": "https://red-seal.ca/eng/welcome.shtml",
+    "tags": [
+      "red seal",
+      "trades",
+      "certification",
+      "apprenticeship"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
+    "name": "Saskatchewan — K-12 School Divisions",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "education",
+    "type": "School division directory",
+    "description": "Saskatchewan's K-12 school divisions directory: find your local school division among the province's 27 public, separate and francophone divisions.",
+    "url": "https://www.saskatchewan.ca/residents/education-and-learning/prek-12-education-early-learning-and-schools/k-12-school-divisions-in-saskatchewan",
+    "tags": [
+      "saskatchewan",
+      "school divisions",
+      "k-12"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
+    "name": "New Brunswick — Apprenticeship and Occupational Certification",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "education",
+    "type": "Apprenticeship portal",
+    "description": "New Brunswick's apprenticeship and occupational certification program: register as an apprentice, trade qualification and equivalency routes across 44 apprenticeship occupations, 12 compulsory.",
+    "url": "https://www.gnb.ca/en/topic/education-training/apprenticeship-trades/apprenticeship-certification.html",
+    "tags": [
+      "new brunswick",
+      "apprenticeship",
+      "skilled trades",
+      "certification"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
+    "name": "CanLearn — Loan Repayment Estimator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Repayment estimator",
+    "description": "CanLearn's Loan Repayment Estimator: estimate monthly payments for a Canada Student Loan from the loan total and repayment period, including extended terms up to 174 months.",
+    "url": "https://tools.canlearn.ca/cslgs-scpse/cln-cln/crp-lrc/calculer-calculate-eng.do",
+    "tags": [
+      "student loans",
+      "repayment",
+      "estimator",
+      "canlearn"
     ],
     "dateAdded": "2026-10-26"
   }
