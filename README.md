@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2687 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2694 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -36,7 +36,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [💼 Employment & Labour](#employment-and-labour) — 69
 - [🎓 Education & Student Aid](#education-and-student-aid) — 56
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 57
-- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 38
+- [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
 - [🩺 Health & Wellness](#health-and-wellness) — 131
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 58
@@ -1584,16 +1584,23 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Immigration, Refugees and Citizenship Canada — Come to Canada Tool | Canada · Federal | Eligibility tool | Answer two questions to get a personalized list of immigration programs you may be eligible for, with a personal reference code | https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html |
 | IRCC — Application Processing Times | Canada · Federal | Reference | Official processing times for PR, citizenship, visas, work/study permits updated weekly | https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html |
 | IRCC — Apply for an eTA | Canada · Federal | Apply online | Apply online for an Electronic Travel Authorization to fly to or transit through Canada | https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html |
+| IRCC — Apply for Canadian Citizenship | Canada · Federal | Apply online | Apply to become a Canadian citizen online, including eligibility, required documents and fees, and how to track the application after submission. | https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/apply.html |
 | IRCC — Asylum Claimants Monthly Open Data | Canada · Federal | Open data | Monthly IRCC open data on asylum claimants by claim office type, province/territory of claim, age, gender and top countries of citizenship — updated monthly in CSV/XLSX tables. | https://open.canada.ca/data/en/dataset/b6cbcf4d-f763-4924-a2fb-8cc4a06e3de4 |
 | IRCC — Check Application Status | Canada · Federal | Status tracker | Check the status of citizenship, permanent residence, and temporary visa applications online | https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html |
+| IRCC — Designated Learning Institutions List | Canada · Federal | Lookup tool | Searchable list of designated learning institutions by province and territory, with DLI numbers and eligible programs, for study permit applicants. | https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html |
 | IRCC — Express Entry Rounds of Invitations | Canada · Federal | Reference | Historical CRS cut-off scores and candidate counts for every Express Entry draw | https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html |
+| IRCC — Family Sponsorship | Canada · Federal | Program portal | Sponsor a spouse, partner, dependent child, adopted child, parent, grandparent or other eligible relative to come to Canada as a permanent resident, with separate streams and guidance for each relationship. | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship.html |
+| IRCC — Find a Panel Physician | Canada · Federal | Finder | Search IRCC-approved panel physicians by country, province or city to book the immigration medical exam required for many applications. | https://secure.cic.gc.ca/PanelPhysicianMedecinDesigne/en/Home |
 | IRCC — Find Free Newcomer Services Near You | Canada · Federal | Service finder | Official settlement service search: enter a postal code or city to find free federally funded newcomer services, filterable by language, online/in-person format, and service type (employment help, language training, settlement plans). | https://ircc.canada.ca/english/newcomers/services/index.asp |
+| IRCC — Interim Federal Health Program | Canada · Federal | Coverage portal | Limited, temporary health care coverage for refugees, refugee claimants and other eligible newcomers until they qualify for provincial or territorial insurance, with a Medavie Blue Cross portal to check eligibility and find providers. | https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/help-within-canada/health-care/interim-federal-health-program.html |
 | IRCC — Medical Requirements and Panel Physicians | Canada · Federal | Finder | Find IRCC panel physicians and review medical exam requirements by country | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/medical-exams.html |
 | IRCC — Permanent Residents Monthly Open Data | Canada · Federal | Open data | Download monthly PR admissions by province, CMA, citizenship, category, age and gender as CSV or XLSX; updated monthly through June 2026. | https://open.canada.ca/data/en/dataset/f7e5498e-0ad8-4417-85c9-9b8aff9b9eda |
 | IRCC — Post-Graduation Work Permit | Canada · Federal | Service | Apply for a PGWP after graduating from a designated Canadian learning institution | https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation.html |
 | IRCC — Provincial Nominee Program (PNP) Directory | Canada · Federal | Finder | Links to every provincial and territorial nominee program and its streams | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html |
 | IRCC — Study Permit Application | Canada · Federal | Service | Apply for a Canadian study permit and access designated-learning institution list | https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html |
+| IRCC — Super Visa for Parents and Grandparents | Canada · Federal | Apply online | Apply for a super visa letting parents and grandparents visit family in Canada for up to 5 years per entry, with processing-time and biometrics guidance. | https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa.html |
 | IRCC — TFWP & IMP Work Permit Holders Monthly Open Data | Canada · Federal | Open data | Monthly IRCC open data on Temporary Foreign Worker Program and International Mobility Program work permit holders by province/territory, occupation, gender, and country of citizenship — updated monthly. | https://open.canada.ca/data/en/dataset/360024f2-17e9-4558-bfc1-3616485d65b9 |
+| IRCC — Web Form | Canada · Federal | Contact form | IRCC's case-specific web form to ask about or update an application, report technical issues, or request extra time for biometrics or medical exams, with guidance on application numbers and UCIs. | https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html |
 | Pier 21 — Passenger List Database | Canada · Federal | Lookup tool | Searchable, sortable index of 100,000+ passenger arrivals at Pier 21 (1928–1971 gateway era): name, honourific, departure date and ship, for genealogy and immigration-history research. | https://pier21.ca/immigration-records/passenger-list-database |
 | Rural Community Immigration Pilot | Canada · Federal | Immigration pilot | IRCC five-year pilot (2025) offering a path to permanent residence for skilled workers with job offers from designated employers in participating rural communities. | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility.html |
 
