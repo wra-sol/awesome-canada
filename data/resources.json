@@ -11978,7 +11978,7 @@
     "category": "education",
     "type": "Student aid portal",
     "description": "Secure NB Student Aid account: apply for full-time student aid online, upload supporting documents and receive electronic correspondence; one application is assessed for the Canada-New Brunswick Integrated Student Loan, grants and bursaries.",
-    "url": "https://studentaid.gnb.ca/",
+    "url": "https://www.gnb.ca/en/topic/education-training/post-secondary/student-aid.html",
     "tags": [
       "student aid",
       "new brunswick",
@@ -42789,5 +42789,84 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "FirstVoices",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "indigenous",
+    "type": "Language archive",
+    "description": "First Peoples' Cultural Council online space where First Nations communities document and share Indigenous languages: community dictionaries with audio, songs, stories, alphabets, language apps and keyboards, with communities retaining ownership of their content.",
+    "url": "https://www.firstvoices.com/",
+    "tags": [
+      "indigenous",
+      "languages",
+      "first nations",
+      "archive"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "CIRNAC — Modern Treaties",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Treaty list and map",
+    "description": "Crown-Indigenous Relations list and map of all finalized modern treaties and self-government agreements between Indigenous communities and the Crown, from the Inuvialuit Final Agreement to the Whitecap Dakota Nation self-government treaty.",
+    "url": "https://www.rcaanc-cirnac.gc.ca/eng/1677073191939/1677073214344",
+    "tags": [
+      "indigenous",
+      "treaties",
+      "self-government",
+      "map"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Indigenous Services Canada — Land Management",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Program hub",
+    "description": "Indigenous Services Canada hub for reserve land management: land management policies, First Nations Land Management, additions to reserve, land registration through the Indian, First Nations and Self-Governing First Nations land registries, and surveys.",
+    "url": "https://www.sac-isc.gc.ca/eng/1587563382582/1587563402582",
+    "tags": [
+      "indigenous",
+      "land",
+      "reserves",
+      "registration"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Indigenous Services Canada — First Nations On-Reserve Housing Program",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Program",
+    "description": "Federal program funding the construction, renovation and purchase of housing on reserve for First Nations communities.",
+    "url": "https://www.sac-isc.gc.ca/eng/1100100010752/1535115367287",
+    "tags": [
+      "indigenous",
+      "housing",
+      "on-reserve"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Open Government — Modern Treaties Dataset",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "GIS dataset",
+    "description": "Crown-Indigenous Relations and Indigenous Services Canada geospatial dataset of modern treaty boundaries, the departments' primary source for modern treaty geography on maps, also viewable in ATRIS.",
+    "url": "https://open.canada.ca/data/en/dataset/be54680b-ea62-46f3-aaa9-7644ed970aef",
+    "tags": [
+      "indigenous",
+      "treaties",
+      "gis",
+      "open data"
+    ],
+    "dateAdded": "2026-10-27"
   }
 ]

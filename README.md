@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2700 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2705 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -56,7 +56,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 74
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 44
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 49
 - [🎖️ Veterans & Military](#veterans-and-military) — 38
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 99
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 28
@@ -1455,7 +1455,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Department of Education and Early Childhood Development — Child Care Finder | New Brunswick · Provincial | Lookup tool | Map-search licensed early-learning and childcare sites by community or name; filter by age, open spaces, designation, language and district. | https://www.nbed.nb.ca/parentportal/en/Search/Elc/ |
-| NB Student Aid Portal | New Brunswick · Provincial | Student aid portal | Secure NB Student Aid account: apply for full-time student aid online, upload supporting documents and receive electronic correspondence; one application is assessed for the Canada-New Brunswick Integrated Student Loan, grants and bursaries. | https://studentaid.gnb.ca/ |
+| NB Student Aid Portal | New Brunswick · Provincial | Student aid portal | Secure NB Student Aid account: apply for full-time student aid online, upload supporting documents and receive electronic correspondence; one application is assessed for the Canada-New Brunswick Integrated Student Loan, grants and bursaries. | https://www.gnb.ca/en/topic/education-training/post-secondary/student-aid.html |
 | New Brunswick — Apprenticeship and Occupational Certification | New Brunswick · Provincial | Apprenticeship portal | New Brunswick's apprenticeship and occupational certification program: register as an apprentice, trade qualification and equivalency routes across 44 apprenticeship occupations, 12 compulsory. | https://www.gnb.ca/en/topic/education-training/apprenticeship-trades/apprenticeship-certification.html |
 | New Brunswick Student Financial Services | New Brunswick · Provincial | Student assistance | NB student loans and grants portal: eligibility, application, and repayment for provincial and Canada-New Brunswick integrated loans. | https://www2.gnb.ca/content/gnb/en/services/services_renderer.201437.html |
 | CDLI — Centre for Distance Learning and Innovation (Newfoundland and Labrador) | Newfoundland and Labrador · Provincial | Online school | Newfoundland and Labrador's provincial distance-learning centre, a division of NLSchools: delivers 43 senior high school e-courses to students in rural, remote and small schools, plus free course review materials and live online tutoring province-wide. | https://www.cdli.ca/ |
@@ -3983,16 +3983,20 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | ATRIS — Aboriginal and Treaty Rights Information System | Canada · Federal | Interactive map | CIRNAC's map-based system locating Indigenous communities and their potential or established Aboriginal and treaty rights, treaties, claims and court decisions — searchable by place, postal code or drawn area. | https://sidait-atris.rcaanc-cirnac.gc.ca/SIDAIT-GEO-ATRIS/index-eng.html |
+| CIRNAC — Modern Treaties | Canada · Federal | Treaty list and map | Crown-Indigenous Relations list and map of all finalized modern treaties and self-government agreements between Indigenous communities and the Crown, from the Inuvialuit Final Agreement to the Whitecap Dakota Nation self-government treaty. | https://www.rcaanc-cirnac.gc.ca/eng/1677073191939/1677073214344 |
 | Crown-Indigenous Relations — Specific Claims | Canada · Federal | Database | Search specific claim status, agreements, and modern treaty progress | https://www.rcaanc-cirnac.gc.ca/eng/1100100030291/1539609517566 |
 | First Nation Profiles Interactive Map | Canada · Federal | Interactive map | Indigenous Services Canada's map of First Nations communities across Canada, linked to profiles of governance, reserves, registered population and census statistics. | https://geo.sac-isc.gc.ca/cippn-fnpim/index-eng.html |
 | Indian Lands Registry System — Public Registry | Canada · Federal | Land registry search | Public search gateway for the Indian Lands Registry System, the First Nation Land Registry System and the Self-Governing First Nation Land Registry. Users can search land records, parcels, instruments and evidence of title for reserve and First Nation lands and retrieve registry reports. | https://services.aadnc-aandc.gc.ca/ILRS_Public/Home/Notice.aspx |
 | Indigenous Services Canada — Drinking Water Advisories Map | Canada · Federal | Interactive map | Map and table of lifted and active long-term drinking water advisories on public water systems on reserve, browsable by community, region and status. | https://www.sac-isc.gc.ca/eng/1620925418298/1620925434679 |
 | Indigenous Services Canada — First Nations Financial Transparency Act Search | Canada · Federal | Searchable database | Search audited consolidated financial statements and schedules of remuneration filed by First Nations governments under the First Nations Financial Transparency Act. | https://services.sac-isc.gc.ca/fnp/main/Search/SearchFF.aspx?lang=eng |
+| Indigenous Services Canada — First Nations On-Reserve Housing Program | Canada · Federal | Program | Federal program funding the construction, renovation and purchase of housing on reserve for First Nations communities. | https://www.sac-isc.gc.ca/eng/1100100010752/1535115367287 |
 | Indigenous Services Canada — Indian Register | Canada · Federal | Registry | Apply for Indian status and Secure Certificate of Indian Status (SCIS) | https://www.sac-isc.gc.ca/eng/1100100032424/1572457769548 |
 | Indigenous Services Canada — Indigenous Business Directory | Canada · Federal | Business directory | Indigenous Services Canada's searchable directory of Indigenous businesses eligible for federal procurement set-asides under the Procurement Strategy for Indigenous Business. Buyers can search for Indigenous suppliers, and Indigenous businesses register here to create a public profile confirming their eligibility. | https://services.sac-isc.gc.ca/REA-IBD?lang=eng |
 | Indigenous Services Canada — Jordan's Principle | Canada · Federal | Program | Jordan's Principle substantive-equality funding for First Nations children | https://www.sac-isc.gc.ca/eng/1568396296543/1582575228610 |
+| Indigenous Services Canada — Land Management | Canada · Federal | Program hub | Indigenous Services Canada hub for reserve land management: land management policies, First Nations Land Management, additions to reserve, land registration through the Indian, First Nations and Self-Governing First Nations land registries, and surveys. | https://www.sac-isc.gc.ca/eng/1587563382582/1587563402582 |
 | Natural Resources Canada — Aboriginal Lands of Canada Legislative Boundaries | Canada · Federal | GIS dataset | Download GIS boundaries (SHP, KML, WMS) of Indian reserves, land claim settlement lands and Indian lands across Canada from the Canada Lands Survey System. | https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067 |
 | NIHB — Express Scripts Canada Provider and Client Portal | Canada · Federal | Claims portal | Claims portal for Indigenous Services Canada's Non-Insured Health Benefits (NIHB) program for First Nations and Inuit, operated by Express Scripts Canada. Clients and providers create a web account to submit claims, view claims history and prior approvals, check the Drug Benefit List, and access enrolment and reimbursement forms. | https://nihb-ssna.express-scripts.ca/en |
+| Open Government — Modern Treaties Dataset | Canada · Federal | GIS dataset | Crown-Indigenous Relations and Indigenous Services Canada geospatial dataset of modern treaty boundaries, the departments' primary source for modern treaty geography on maps, also viewable in ATRIS. | https://open.canada.ca/data/en/dataset/be54680b-ea62-46f3-aaa9-7644ed970aef |
 | Specific Claims Tribunal — Decisions Database | Canada · Federal | Decisions database | Full-text search of final and binding Specific Claims Tribunal decisions on First Nations monetary claims against the Crown over lands, assets and treaty obligations. | https://decisions.sct-trp.ca/sct/en/nav.do |
 | Statistics Canada — Statistics on Indigenous Peoples | Canada · Federal | Data portal | Browse census and survey data products on First Nations people, Métis and Inuit — communities, health, education, income and the Indigenous Population Profile. | https://www.statcan.gc.ca/en/subjects-start/indigenous_peoples |
 | Assembly of First Nations | Canada · Agency | Organization | National advocacy organization of First Nations chiefs — resolutions, research, and programs | https://afn.ca/ |
@@ -4010,6 +4014,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | BC Treaty Commission — Interactive Map | British Columbia · Agency | Interactive map | Explore First Nations in BC treaty negotiations and modern treaty nations, with layers for traditional territories, shared areas and negotiation stages. | https://bctreaty.ca/map/ |
+| FirstVoices | British Columbia · Agency | Language archive | First Peoples' Cultural Council online space where First Nations communities document and share Indigenous languages: community dictionaries with audio, songs, stories, alphabets, language apps and keyboards, with communities retaining ownership of their content. | https://www.firstvoices.com/ |
 | Métis Nation British Columbia | British Columbia · Provincial | Government portal | Official site of Métis Nation British Columbia, the provincial government representing Métis citizens in BC, with citizenship, policy and rights information — for Métis citizens, policymakers and researchers. | https://www.mnbc.ca/ |
 | Nisga'a Lisims Government — Nisga'a Land Title Office | British Columbia · Provincial | Registry | Request parcel title searches in Canada's only Indigenous-run Torrens land registry, calculate fees, and download survey plans, forms and legislation (PDF). | https://nisgaalandtitle.ca/title-search-and-copy/ |
 | Tahltan Central Government — TSI Lands Projects | British Columbia · Provincial | Project register | Tahltan Central Government's (British Columbia) register of Tahltan-Settlement-Initiated land and resource projects — a public-interest record of land-use decisions on Tahltan Territory for communities and industry. | https://tahltan.org/tsi-lands-projects/ |
