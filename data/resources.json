@@ -11522,6 +11522,22 @@
     ]
   },
   {
+    "name": "CanLearn — Loan Repayment Estimator",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Repayment estimator",
+    "description": "CanLearn's Loan Repayment Estimator: estimate monthly payments for a Canada Student Loan from the loan total and repayment period, including extended terms up to 174 months.",
+    "url": "https://tools.canlearn.ca/cslgs-scpse/cln-cln/crp-lrc/calculer-calculate-eng.do",
+    "tags": [
+      "student loans",
+      "repayment",
+      "estimator",
+      "canlearn"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
     "name": "National Student Loans Service Centre",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -11572,6 +11588,22 @@
       "Canada"
     ],
     "dateAdded": "2026-10-20"
+  },
+  {
+    "name": "Red Seal Program",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "education",
+    "type": "Trades certification",
+    "description": "The national Red Seal Program site: the 54 designated Red Seal trades, occupational standards, exam preparation tools and credential verification for interprovincial trades certification.",
+    "url": "https://red-seal.ca/eng/welcome.shtml",
+    "tags": [
+      "red seal",
+      "trades",
+      "certification",
+      "apprenticeship"
+    ],
+    "dateAdded": "2026-10-26"
   },
   {
     "name": "The Civics Project",
@@ -11957,6 +11989,22 @@
     "dateAdded": "2026-10-01"
   },
   {
+    "name": "New Brunswick — Apprenticeship and Occupational Certification",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "education",
+    "type": "Apprenticeship portal",
+    "description": "New Brunswick's apprenticeship and occupational certification program: register as an apprentice, trade qualification and equivalency routes across 44 apprenticeship occupations, 12 compulsory.",
+    "url": "https://www.gnb.ca/en/topic/education-training/apprenticeship-trades/apprenticeship-certification.html",
+    "tags": [
+      "new brunswick",
+      "apprenticeship",
+      "skilled trades",
+      "certification"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
     "name": "New Brunswick Student Financial Services",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -12135,6 +12183,53 @@
     ]
   },
   {
+    "name": "Ontario — Find a School",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "School finder",
+    "description": "Ontario's Find a School tool: search every publicly funded elementary and secondary school by name or location on a map, with contact info, grades, EQAO achievement statistics and demographics.",
+    "url": "https://www.ontario.ca/page/find-elementary-or-secondary-school",
+    "tags": [
+      "ontario",
+      "schools",
+      "k-12",
+      "EQAO"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
+    "name": "Ontario — Find a School Board or School Authority",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "School board finder",
+    "description": "Ontario's school board finder: locate the district school board or school authority serving an address across the four publicly funded systems (English/French, public/Catholic).",
+    "url": "https://www.ontario.ca/page/find-school-board-or-school-authority",
+    "tags": [
+      "ontario",
+      "school boards",
+      "k-12"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
+    "name": "Ontario — School Information Finder",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "education",
+    "type": "School profiles",
+    "description": "Ontario's School Information Finder: per-school profiles with enrolment, grades, board, and Grade 3/6/9/10 student achievement data for every public elementary and secondary school.",
+    "url": "https://www.app.edu.gov.on.ca/eng/sift/",
+    "tags": [
+      "ontario",
+      "schools",
+      "achievement",
+      "k-12"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
     "name": "OSAP — Ontario Student Assistance Program",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -12291,6 +12386,21 @@
       "saskatchewan"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Saskatchewan — K-12 School Divisions",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "education",
+    "type": "School division directory",
+    "description": "Saskatchewan's K-12 school divisions directory: find your local school division among the province's 27 public, separate and francophone divisions.",
+    "url": "https://www.saskatchewan.ca/residents/education-and-learning/prek-12-education-early-learning-and-schools/k-12-school-divisions-in-saskatchewan",
+    "tags": [
+      "saskatchewan",
+      "school divisions",
+      "k-12"
+    ],
+    "dateAdded": "2026-10-26"
   },
   {
     "name": "Saskatchewan Apprenticeship & Trade Certification Commission — Trade Certification Verification",
@@ -23450,6 +23560,22 @@
     "dateAdded": "2026-09-30"
   },
   {
+    "name": "IRCC — Apply for Canadian Citizenship",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Apply online",
+    "description": "Apply to become a Canadian citizen online, including eligibility, required documents and fees, and how to track the application after submission.",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/apply.html",
+    "tags": [
+      "citizenship",
+      "apply",
+      "naturalization",
+      "IRCC"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
     "name": "IRCC — Asylum Claimants Monthly Open Data",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -23483,6 +23609,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "IRCC — Designated Learning Institutions List",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Lookup tool",
+    "description": "Searchable list of designated learning institutions by province and territory, with DLI numbers and eligible programs, for study permit applicants.",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html",
+    "tags": [
+      "study permit",
+      "DLI",
+      "schools",
+      "IRCC"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
     "name": "IRCC — Express Entry Rounds of Invitations",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -23494,6 +23636,38 @@
       "Express Entry",
       "IRCC"
     ]
+  },
+  {
+    "name": "IRCC — Family Sponsorship",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Program portal",
+    "description": "Sponsor a spouse, partner, dependent child, adopted child, parent, grandparent or other eligible relative to come to Canada as a permanent resident, with separate streams and guidance for each relationship.",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship.html",
+    "tags": [
+      "sponsorship",
+      "family",
+      "permanent residence",
+      "IRCC"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
+    "name": "IRCC — Find a Panel Physician",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Finder",
+    "description": "Search IRCC-approved panel physicians by country, province or city to book the immigration medical exam required for many applications.",
+    "url": "https://secure.cic.gc.ca/PanelPhysicianMedecinDesigne/en/Home",
+    "tags": [
+      "medical exam",
+      "panel physician",
+      "finder",
+      "IRCC"
+    ],
+    "dateAdded": "2026-10-26"
   },
   {
     "name": "IRCC — Find Free Newcomer Services Near You",
@@ -23511,6 +23685,22 @@
       "language training"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "IRCC — Interim Federal Health Program",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Coverage portal",
+    "description": "Limited, temporary health care coverage for refugees, refugee claimants and other eligible newcomers until they qualify for provincial or territorial insurance, with a Medavie Blue Cross portal to check eligibility and find providers.",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/help-within-canada/health-care/interim-federal-health-program.html",
+    "tags": [
+      "refugees",
+      "health coverage",
+      "IFHP",
+      "IRCC"
+    ],
+    "dateAdded": "2026-10-26"
   },
   {
     "name": "IRCC — Medical Requirements and Panel Physicians",
@@ -23583,6 +23773,23 @@
     ]
   },
   {
+    "name": "IRCC — Super Visa for Parents and Grandparents",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Apply online",
+    "description": "Apply for a super visa letting parents and grandparents visit family in Canada for up to 5 years per entry, with processing-time and biometrics guidance.",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa.html",
+    "tags": [
+      "super visa",
+      "parents",
+      "grandparents",
+      "visitor",
+      "IRCC"
+    ],
+    "dateAdded": "2026-10-26"
+  },
+  {
     "name": "IRCC — TFWP & IMP Work Permit Holders Monthly Open Data",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -23599,6 +23806,22 @@
       "ircc"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "IRCC — Web Form",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "immigration",
+    "type": "Contact form",
+    "description": "IRCC's case-specific web form to ask about or update an application, report technical issues, or request extra time for biometrics or medical exams, with guidance on application numbers and UCIs.",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html",
+    "tags": [
+      "contact",
+      "case enquiry",
+      "application update",
+      "IRCC"
+    ],
+    "dateAdded": "2026-10-26"
   },
   {
     "name": "Pier 21 — Passenger List Database",
@@ -42566,228 +42789,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "IRCC — Family Sponsorship",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "immigration",
-    "type": "Program portal",
-    "description": "Sponsor a spouse, partner, dependent child, adopted child, parent, grandparent or other eligible relative to come to Canada as a permanent resident, with separate streams and guidance for each relationship.",
-    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship.html",
-    "tags": [
-      "sponsorship",
-      "family",
-      "permanent residence",
-      "IRCC"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "IRCC — Super Visa for Parents and Grandparents",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "immigration",
-    "type": "Apply online",
-    "description": "Apply for a super visa letting parents and grandparents visit family in Canada for up to 5 years per entry, with processing-time and biometrics guidance.",
-    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa.html",
-    "tags": [
-      "super visa",
-      "parents",
-      "grandparents",
-      "visitor",
-      "IRCC"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "IRCC — Interim Federal Health Program",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "immigration",
-    "type": "Coverage portal",
-    "description": "Limited, temporary health care coverage for refugees, refugee claimants and other eligible newcomers until they qualify for provincial or territorial insurance, with a Medavie Blue Cross portal to check eligibility and find providers.",
-    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/help-within-canada/health-care/interim-federal-health-program.html",
-    "tags": [
-      "refugees",
-      "health coverage",
-      "IFHP",
-      "IRCC"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "IRCC — Designated Learning Institutions List",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "immigration",
-    "type": "Lookup tool",
-    "description": "Searchable list of designated learning institutions by province and territory, with DLI numbers and eligible programs, for study permit applicants.",
-    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html",
-    "tags": [
-      "study permit",
-      "DLI",
-      "schools",
-      "IRCC"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "IRCC — Web Form",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "immigration",
-    "type": "Contact form",
-    "description": "IRCC's case-specific web form to ask about or update an application, report technical issues, or request extra time for biometrics or medical exams, with guidance on application numbers and UCIs.",
-    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html",
-    "tags": [
-      "contact",
-      "case enquiry",
-      "application update",
-      "IRCC"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "IRCC — Apply for Canadian Citizenship",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "immigration",
-    "type": "Apply online",
-    "description": "Apply to become a Canadian citizen online, including eligibility, required documents and fees, and how to track the application after submission.",
-    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/apply.html",
-    "tags": [
-      "citizenship",
-      "apply",
-      "naturalization",
-      "IRCC"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "IRCC — Find a Panel Physician",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "immigration",
-    "type": "Finder",
-    "description": "Search IRCC-approved panel physicians by country, province or city to book the immigration medical exam required for many applications.",
-    "url": "https://secure.cic.gc.ca/PanelPhysicianMedecinDesigne/en/Home",
-    "tags": [
-      "medical exam",
-      "panel physician",
-      "finder",
-      "IRCC"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "Ontario — Find a School",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "education",
-    "type": "School finder",
-    "description": "Ontario's Find a School tool: search every publicly funded elementary and secondary school by name or location on a map, with contact info, grades, EQAO achievement statistics and demographics.",
-    "url": "https://www.ontario.ca/page/find-elementary-or-secondary-school",
-    "tags": [
-      "ontario",
-      "schools",
-      "k-12",
-      "EQAO"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "Ontario — School Information Finder",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "education",
-    "type": "School profiles",
-    "description": "Ontario's School Information Finder: per-school profiles with enrolment, grades, board, and Grade 3/6/9/10 student achievement data for every public elementary and secondary school.",
-    "url": "https://www.app.edu.gov.on.ca/eng/sift/",
-    "tags": [
-      "ontario",
-      "schools",
-      "achievement",
-      "k-12"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "Ontario — Find a School Board or School Authority",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "education",
-    "type": "School board finder",
-    "description": "Ontario's school board finder: locate the district school board or school authority serving an address across the four publicly funded systems (English/French, public/Catholic).",
-    "url": "https://www.ontario.ca/page/find-school-board-or-school-authority",
-    "tags": [
-      "ontario",
-      "school boards",
-      "k-12"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "Red Seal Program",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "education",
-    "type": "Trades certification",
-    "description": "The national Red Seal Program site: the 54 designated Red Seal trades, occupational standards, exam preparation tools and credential verification for interprovincial trades certification.",
-    "url": "https://red-seal.ca/eng/welcome.shtml",
-    "tags": [
-      "red seal",
-      "trades",
-      "certification",
-      "apprenticeship"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "Saskatchewan — K-12 School Divisions",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "education",
-    "type": "School division directory",
-    "description": "Saskatchewan's K-12 school divisions directory: find your local school division among the province's 27 public, separate and francophone divisions.",
-    "url": "https://www.saskatchewan.ca/residents/education-and-learning/prek-12-education-early-learning-and-schools/k-12-school-divisions-in-saskatchewan",
-    "tags": [
-      "saskatchewan",
-      "school divisions",
-      "k-12"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "New Brunswick — Apprenticeship and Occupational Certification",
-    "level": "Provincial",
-    "jurisdiction": "New Brunswick",
-    "category": "education",
-    "type": "Apprenticeship portal",
-    "description": "New Brunswick's apprenticeship and occupational certification program: register as an apprentice, trade qualification and equivalency routes across 44 apprenticeship occupations, 12 compulsory.",
-    "url": "https://www.gnb.ca/en/topic/education-training/apprenticeship-trades/apprenticeship-certification.html",
-    "tags": [
-      "new brunswick",
-      "apprenticeship",
-      "skilled trades",
-      "certification"
-    ],
-    "dateAdded": "2026-10-26"
-  },
-  {
-    "name": "CanLearn — Loan Repayment Estimator",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "education",
-    "type": "Repayment estimator",
-    "description": "CanLearn's Loan Repayment Estimator: estimate monthly payments for a Canada Student Loan from the loan total and repayment period, including extended terms up to 174 months.",
-    "url": "https://tools.canlearn.ca/cslgs-scpse/cln-cln/crp-lrc/calculer-calculate-eng.do",
-    "tags": [
-      "student loans",
-      "repayment",
-      "estimator",
-      "canlearn"
-    ],
-    "dateAdded": "2026-10-26"
   }
 ]
