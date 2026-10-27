@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2705 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2712 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -49,7 +49,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌦️ Weather & Climate](#weather-and-climate) — 44
 - [⚡ Energy & Utilities](#energy-and-utilities) — 59
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
-- [🔬 Science, Research & Space](#science-research-and-space) — 59
+- [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
@@ -1364,7 +1364,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | WCB Nova Scotia | Nova Scotia · Provincial | Regulator | Workplace injury insurance for Nova Scotia — online claim services for workers and employers | https://www.wcb.ns.ca/ |
 | WCB Prince Edward Island | PEI · Provincial | Regulator | Workers compensation services for PEI — claims, clearances, and workplace safety resources | https://www.wcb.pe.ca/ |
 | WorkPEI | PEI · Provincial | Job board | Government-run one-stop employment site: searchable job board, job seeker profiles and alerts, employer directory, labour market info dashboard, occupation profiles and economic indicators. | https://workpei.ca/ |
-| SkillsPEI | Prince Edward Island · Provincial | Employment programs portal | PEI's employment and skills development division (Dept. of Workforce, Advanced Learning and Population). Browse and connect to employment programs, skills training funding and career services delivered through six Island offices. Distinct from the WorkPEI job board already catalogued. | https://skillspei.com/ |
+| SkillsPEI | Prince Edward Island · Provincial | Employment programs portal | PEI's employment and skills development division (Dept. of Workforce, Advanced Learning and Population). Browse and connect to employment programs, skills training funding and career services delivered through six Island offices. Distinct from the WorkPEI job board already catalogued. | https://www.princeedwardisland.ca/en/topic/skillspei |
 
 ## 🎓 Education & Student Aid
 
@@ -3159,12 +3159,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | SSHRC — Awards Search Engine | Canada · Federal | Research grants database | Look up SSHRC grant and fellowship payments back to 1998 by applicant, institution, program or discipline. | https://www.sshrc-crsh.gc.ca/results-resultats/award_search-recherche_attributions/index-eng.aspx |
 | NRC — Programs and Services | Canada · Crown Corp | Research | NRC research programs, technology platforms, and business innovation support | https://nrc.canada.ca/en |
 | Borealis — Canadian Dataverse Repository | Canada · Agency | Research data repository | Discover, explore and download DOI-issued research datasets from 65+ Canadian universities and research organizations — no login needed to search. | https://borealisdata.ca/ |
+| Canadian Light Source | Canada · Agency | Research facility | Canada's national synchrotron light source at the University of Saskatchewan: beamline access, user proposals and research from materials to health sciences. | https://www.lightsource.ca/ |
+| Canadian Science Publishing | Canada · Agency | Journal publisher | Not-for-profit publisher of Canadian peer-reviewed science journals (formerly NRC Research Press), with open article search across its journal portfolio. | https://cdnsciencepub.com/ |
+| CANARIE | Canada · Agency | Research network | Canada's national research and education network: high-speed connectivity, cloud, identity and cybersecurity services for researchers, universities and colleges. | https://www.canarie.ca/ |
 | CFI — Research Facilities Navigator | Canada · Agency | Facilities directory | Search 850+ university, college, hospital and government research labs open to collaboration, filtered by capability, equipment and location. | https://navigator.innovation.ca/en |
+| Digital Research Alliance of Canada | Canada · Agency | Research infrastructure | National coordination for advanced research computing, research data management and research software, with services and funding for Canadian researchers. | https://alliancecan.ca/en |
 | FRDR — Federated Research Data Repository | Canada · Agency | Research data repository | Search and download large Canadian research datasets, or deposit your own for DOI-backed publication, in the Digital Research Alliance of Canada's curated national repository. | https://www.frdr-dfdr.ca/repo/ |
 | Genome Canada | Canada · Agency | Research | National genomics organization funding research, platforms, and innovation | https://www.genomecanada.ca/ |
 | Lunaris — Canadian Research Data Discovery | Canada · Agency | Data discovery service | Search 80,000+ Canadian research datasets held in 100+ academic and government repositories from one bilingual keyword and map interface. | https://www.lunaris.ca/ |
+| Mitacs | Canada · Agency | Innovation programs | National non-profit connecting researchers with businesses and organizations through funded internships and collaborative innovation programs. | https://www.mitacs.ca/ |
 | Ocean Networks Canada | Canada · Agency | Observatory | Live ocean observatory data from UVIC-operated cabled instruments off the Pacific and Arctic coasts | https://www.oceannetworks.ca/ |
 | Ocean Networks Canada — Oceans 2.0 Data API | Canada · Agency | Data API | Query live and archived oceanographic data from ONC's cabled observatories, coastal and mobile platforms — sensor time series, seafloor imagery and derived products via the Oceans 2.0 API. | https://data.oceannetworks.ca/ |
+| Ocean Tracking Network | Canada · Agency | Telemetry network | Global aquatic animal tracking network headquartered at Dalhousie University: acoustic telemetry data, receiver arrays and open tracking datasets. | https://oceantrackingnetwork.org/ |
 | Perimeter Institute — Public Science | Canada · Agency | Education | Perimeter's free public lectures, educator resources, and theoretical physics content | https://perimeterinstitute.ca/ |
 | Polar Data Catalogue | Canada · Agency | Research data repository | CoreTrustSeal-certified repository of Arctic and Antarctic research metadata and data, searchable by region, community or program, with a metadata API and interactive explorer. | https://polardatacatalogue.ca/ |
 | SNOLAB — Underground Physics | Canada · Agency | Research | SNOLAB Sudbury underground lab — dark-matter and neutrino physics research | https://www.snolab.ca/ |
@@ -3206,6 +3212,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Fonds de recherche du Québec | Quebec · Provincial | Research funder | Quebec's public research funding agency (Nature et technologies, Santé, Société et culture): grants, scholarships and funding programs for Quebec researchers. | https://frq.gouv.qc.ca/ |
 | MRNF — GESTIM mining titles registry | Quebec · Provincial | Lookup tool | Query Quebec's public mining-rights register by map or criteria, download title data and generate custom claim maps (PDF). | https://gestim.mines.gouv.qc.ca/ |
 | SIGEOM — Québec Geoscientific Data | Quebec · Provincial | Research database | Québec's mineral deposit, drilling, geochemistry, and geological map database — full government assessment files downloadable since the 1800s; the backbone of northern mining exploration research. | https://sigeom.mines.gouv.qc.ca/ |
 
@@ -3409,7 +3416,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Pointe-Claire Public Library | Montreal · Municipal | Public library | Pointe-Claire's public library on the Island of Montreal: catalogue search, ebooks, hours, and bilingual programs and services. | https://biblio.pointe-claire.ca/ |
 | Bibliothèque de Saint-Eustache | Quebec · Municipal | Public library | Saint-Eustache's municipal library in Quebec: catalogue, borrowing, hours and activities from the city's official site. In French. | https://www.saint-eustache.ca/bibliotheque |
 | Bibliothèque de Sainte-Catherine | Quebec · Municipal | Public library | Sainte-Catherine's municipal library in Quebec: catalogue and borrowing services, hours, and activities from the city's official library site. In French. | https://www.ville.sainte-catherine.qc.ca/bibliotheque/ |
-| Bibliothèque de Sainte-Julie | Quebec · Municipal | Public library | Sainte-Julie's municipal library in Quebec: catalogue search, borrowing, hours and activities. In French. | https://biblio.saintejulie.ca/ |
+| Bibliothèque de Sainte-Julie | Quebec · Municipal | Public library | Sainte-Julie's municipal library in Quebec: catalogue search, borrowing, hours and activities. In French. | https://biblio.ville.sainte-julie.qc.ca/client/fr_CA/default |
 | Bibliothèque de Vaudreuil-Dorion | Quebec · Municipal | Public library | Vaudreuil-Dorion's municipal library in Quebec: catalogue search, borrowing, hours and programming. In French. | https://www.bibliotheque.vaudreuil-dorion.qc.ca/ |
 | Bibliothèque de Québec | Quebec City · Municipal | Public library | Quebec City's public library network: catalogue search, digital books and resources, branch locations and hours across the city's libraries, and activities and exhibitions. In French. | https://www.bibliothequedequebec.qc.ca/ |
 | Bibliothèque de Repentigny | Repentigny · Municipal | Public library | Repentigny's municipal library service in Quebec: catalogue, borrowing, hours and programming from the city's official site. In French. | https://repentigny.ca/bibliotheque |
@@ -3469,7 +3476,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Archives — Genealogy Search | British Columbia · Provincial | Genealogy database | Royal BC Museum's searchable indexes of BC births (1854-1904), marriages (1871-1950) and deaths (1872-2005), with digitized registration images attached. | https://search-collections.royalbcmuseum.bc.ca/Genealogy |
 | Heritage Branch — BC Register of Historic Places | British Columbia · Provincial | Registry | Search 5,000+ provincially, municipally and federally recognized historic places by name, address or map; download filtered records as CSV or shapefile. | https://apps.nrs.gov.bc.ca/bcrhp/ |
-| Vancouver Heritage Sites | Vancouver · Municipal | Heritage register | Open data listing of Vancouver Heritage Register buildings, streetscapes, and landscape resources with evaluation categories. | https://opendata.vancouver.ca/explore/dataset/heritage-sites/ |
+| Vancouver Heritage Sites | Vancouver · Municipal | Heritage register | Open data listing of Vancouver Heritage Register buildings, streetscapes, and landscape resources with evaluation categories. | https://opendata.vancouver.ca/explore/assets/heritage-sites/ |
 
 ### Alberta
 

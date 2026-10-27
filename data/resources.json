@@ -10959,7 +10959,7 @@
     "category": "culture",
     "type": "Public library",
     "description": "Sainte-Julie's municipal library in Quebec: catalogue search, borrowing, hours and activities. In French.",
-    "url": "https://biblio.saintejulie.ca/",
+    "url": "https://biblio.ville.sainte-julie.qc.ca/client/fr_CA/default",
     "tags": [
       "library",
       "books",
@@ -14995,7 +14995,7 @@
     "category": "employment",
     "type": "Employment programs portal",
     "description": "PEI's employment and skills development division (Dept. of Workforce, Advanced Learning and Population). Browse and connect to employment programs, skills training funding and career services delivered through six Island offices. Distinct from the WorkPEI job board already catalogued.",
-    "url": "https://skillspei.com/",
+    "url": "https://www.princeedwardisland.ca/en/topic/skillspei",
     "tags": [
       "skillspei",
       "employment programs",
@@ -22122,7 +22122,7 @@
     "category": "heritage",
     "type": "Heritage register",
     "description": "Open data listing of Vancouver Heritage Register buildings, streetscapes, and landscape resources with evaluation categories.",
-    "url": "https://opendata.vancouver.ca/explore/dataset/heritage-sites/",
+    "url": "https://opendata.vancouver.ca/explore/assets/heritage-sites/",
     "tags": [
       "vancouver",
       "heritage",
@@ -42866,6 +42866,111 @@
       "treaties",
       "gis",
       "open data"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "CANARIE",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research network",
+    "description": "Canada's national research and education network: high-speed connectivity, cloud, identity and cybersecurity services for researchers, universities and colleges.",
+    "url": "https://www.canarie.ca/",
+    "tags": [
+      "research network",
+      "connectivity",
+      "infrastructure"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Digital Research Alliance of Canada",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research infrastructure",
+    "description": "National coordination for advanced research computing, research data management and research software, with services and funding for Canadian researchers.",
+    "url": "https://alliancecan.ca/en",
+    "tags": [
+      "research computing",
+      "data management",
+      "infrastructure"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Canadian Light Source",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research facility",
+    "description": "Canada's national synchrotron light source at the University of Saskatchewan: beamline access, user proposals and research from materials to health sciences.",
+    "url": "https://www.lightsource.ca/",
+    "tags": [
+      "synchrotron",
+      "research facility",
+      "beamlines"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Ocean Tracking Network",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Telemetry network",
+    "description": "Global aquatic animal tracking network headquartered at Dalhousie University: acoustic telemetry data, receiver arrays and open tracking datasets.",
+    "url": "https://oceantrackingnetwork.org/",
+    "tags": [
+      "ocean",
+      "telemetry",
+      "tracking data"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Canadian Science Publishing",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Journal publisher",
+    "description": "Not-for-profit publisher of Canadian peer-reviewed science journals (formerly NRC Research Press), with open article search across its journal portfolio.",
+    "url": "https://cdnsciencepub.com/",
+    "tags": [
+      "journals",
+      "publishing",
+      "research"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Mitacs",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Innovation programs",
+    "description": "National non-profit connecting researchers with businesses and organizations through funded internships and collaborative innovation programs.",
+    "url": "https://www.mitacs.ca/",
+    "tags": [
+      "internships",
+      "innovation",
+      "funding"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Fonds de recherche du Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "science",
+    "type": "Research funder",
+    "description": "Quebec's public research funding agency (Nature et technologies, Santé, Société et culture): grants, scholarships and funding programs for Quebec researchers.",
+    "url": "https://frq.gouv.qc.ca/",
+    "tags": [
+      "funding",
+      "grants",
+      "research"
     ],
     "dateAdded": "2026-10-27"
   }
