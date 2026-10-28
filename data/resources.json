@@ -43003,5 +43003,71 @@
       "regulator"
     ],
     "dateAdded": "2026-10-28"
+  },
+  {
+    "name": "Alberta — CPSA Physician Directory",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Look up any Alberta physician, physician assistant or medical student by name: practice location, type of practice, qualifications, permit status and conditions on their practice permit.",
+    "url": "https://search.cpsa.ca/",
+    "tags": [
+      "physician",
+      "directory",
+      "alberta",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-28"
+  },
+  {
+    "name": "Alberta Find a Provider",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "health",
+    "type": "Doctor finder",
+    "description": "Search for a family doctor or nurse practitioner in Alberta and follow the practice's own instructions for becoming a patient; now run by Primary Care Alberta (formerly Alberta Find a Doctor).",
+    "url": "https://albertafindaprovider.ca/",
+    "tags": [
+      "family doctor",
+      "nurse practitioner",
+      "alberta",
+      "primary care"
+    ],
+    "dateAdded": "2026-10-28"
+  },
+  {
+    "name": "British Columbia — Health Connect Registry",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Primary care registry",
+    "description": "Register to be matched with a family doctor or nurse practitioner in your BC community; registration takes under five minutes with a Personal Health Number, address and contact details, or by calling 8-1-1.",
+    "url": "https://www.healthlinkbc.ca/find-care/health-connect-registry",
+    "tags": [
+      "family doctor",
+      "nurse practitioner",
+      "bc",
+      "registry",
+      "primary care"
+    ],
+    "dateAdded": "2026-10-28"
+  },
+  {
+    "name": "Nova Scotia — Register Your Organ and Tissue Donation Decision",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Donation registry",
+    "description": "Register or change your organ and tissue donation decision online with a Nova Scotia Health Card, including opting out under the province's deemed-consent law; decision is recorded in the Health Card Registry.",
+    "url": "https://www.novascotia.ca/register-your-organ-and-tissue-donation-decision",
+    "tags": [
+      "organ donation",
+      "tissue donation",
+      "nova scotia",
+      "registry"
+    ],
+    "dateAdded": "2026-10-28"
   }
 ]

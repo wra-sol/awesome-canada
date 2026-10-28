@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2714 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2718 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 63
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 56
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
-- [🩺 Health & Wellness](#health-and-wellness) — 131
+- [🩺 Health & Wellness](#health-and-wellness) — 135
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 58
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
@@ -1727,6 +1727,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC — Organ Donor Registry | British Columbia · Provincial | Organ donor registry | BC Transplant's Organ Donor Registry: register your organ donation decision online with a BC Personal Health Number. | https://register.transplant.bc.ca/ |
 | BC Health Gateway | British Columbia · Provincial | Patient health record portal | BC's official health-records portal: lab results, medication history, immunization records, and hospital and community-health visits in one timeline, with a mobile app and email/SMS notifications for new records. Logged in with the BC Services Card app. | https://www.gov.bc.ca/healthgateway |
 | BC PharmaCare — Formulary Search | British Columbia · Provincial | Drug coverage search | British Columbia's official PharmaCare formulary search: search by drug name, DIN/PIN/NPN, PharmaCare plan, therapeutic classification or manufacturer to determine which products PharmaCare covers and how much it pays. | https://pharmacareformularysearch.gov.bc.ca/Search.xhtml |
+| British Columbia — Health Connect Registry | British Columbia · Provincial | Primary care registry | Register to be matched with a family doctor or nurse practitioner in your BC community; registration takes under five minutes with a Personal Health Number, address and contact details, or by calling 8-1-1. | https://www.healthlinkbc.ca/find-care/health-connect-registry |
 | British Columbia — Health Gateway (Immunization Records) | British Columbia · Provincial | Health records | British Columbia's Health Gateway: the province's secure portal where residents access their health records, including immunization history and their BC Vaccine Card. | https://www2.gov.bc.ca/gov/content/health/managing-your-health/health-gateway |
 | British Columbia — Surgery Wait Times | British Columbia · Provincial | Wait-time lookup | Compare scheduled-surgery wait times in BC by procedure, hospital and surgeon — see the wait to consult a surgeon and the wait for surgery, updated bi-monthly. | https://swt.hlth.gov.bc.ca/ |
 | First Nations Health Authority — Services and Support | British Columbia · Provincial | Services directory | Health services, benefits and support directory of the First Nations Health Authority (British Columbia) — culturally safe care, benefits navigation and wellness programs for First Nations patients and families. | https://fnha.ca/services-and-support/ |
@@ -1739,7 +1740,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta — AHS Emergency Department Wait Times | Alberta · Agency | Live wait-time dashboard | Check live estimated emergency department and urgent care wait times at hospitals in Calgary, Edmonton and other Alberta cities before you go. | https://www.albertahealthservices.ca/waittimes/waittimes.aspx |
+| Alberta — CPSA Physician Directory | Alberta · Provincial | Physician directory | Look up any Alberta physician, physician assistant or medical student by name: practice location, type of practice, qualifications, permit status and conditions on their practice permit. | https://search.cpsa.ca/ |
 | Alberta — Screening for Life | Alberta · Provincial | Health service | Alberta's Screening for Life: the province's population-based cancer screening programs for breast, cervical and colorectal cancer plus the lung cancer screening pilot, with an interactive guide that tells Albertans whether they should start screening, mobile Screen Test mammography and the at-home FIT test. | https://screeningforlife.ca/ |
+| Alberta Find a Provider | Alberta · Provincial | Doctor finder | Search for a family doctor or nurse practitioner in Alberta and follow the practice's own instructions for becoming a patient; now run by Primary Care Alberta (formerly Alberta Find a Doctor). | https://albertafindaprovider.ca/ |
 | Alberta Health Analytics Interactive Data | Alberta · Provincial | Dashboards | Alberta Health dashboard suite: childhood immunization coverage, substance use surveillance, PCN community profiles, surgical initiative performance and national health expenditure comparisons. | https://healthanalytics.alberta.ca/health-analytics.html |
 | Health Link Alberta — 8-1-1 | Alberta · Provincial | Health service | Alberta's 24/7 telehealth service for health advice and service navigation | https://www.albertahealthservices.ca/healthlink/ |
 | MyHealth Alberta | Alberta · Provincial | Health portal | Alberta's health information portal — symptom checker, care guides, and access to personal health records | https://myhealth.alberta.ca/ |
@@ -1827,6 +1830,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NL Health Services — Book an Online Appointment | Newfoundland and Labrador · Provincial | Health appointment booking | Concrete booking instructions for NL Health Services: online blood-collection booking at four named clinics (no account required), flu and COVID-19 vaccine appointments by health authority region with phone lines, and hospital appointment contacts. | https://nlhealthservices.ca/find-health-care/book-an-online-appointment/ |
 | Nova Scotia — Beaches: Monitoring and Sampling | Nova Scotia · Provincial | Beach water quality tracker | Nova Scotia's beach monitoring program: provincially supervised beaches are regularly sampled for bacteriological water quality (E. coli in fresh water, enterococci in salt water), and swimming advisories are issued when bacteria exceed national recreational water quality guidelines. | https://novascotia.ca/nse/environmental-health/beaches.asp |
 | Nova Scotia — Pharmacare | Nova Scotia · Provincial | Drug coverage search | Nova Scotia Pharmacare hub: provincial drug coverage programs, eligibility, and how to apply for prescription drug benefits. | https://novascotia.ca/dhw/pharmacare/ |
+| Nova Scotia — Register Your Organ and Tissue Donation Decision | Nova Scotia · Provincial | Donation registry | Register or change your organ and tissue donation decision online with a Nova Scotia Health Card, including opting out under the province's deemed-consent law; decision is recorded in the Health Card Registry. | https://www.novascotia.ca/register-your-organ-and-tissue-donation-decision |
 | Nova Scotia — Wait Time Information | Nova Scotia · Provincial | Wait-time lookup | Compare wait times for 150+ surgical procedures, MRI/CT scans, cancer care and mental health services across Nova Scotia to find the shortest-wait locations. | https://waittimes.novascotia.ca/ |
 | Nova Scotia 811 | Nova Scotia · Provincial | Health service | Non-emergency health information and advice from registered nurses, by phone or online in Nova Scotia | https://811.novascotia.ca/ |
 | Nova Scotia Health — Need a Family Practice Registry | Nova Scotia · Provincial | Finder | Landing page for Nova Scotia's official family practice registry: register online or by 811 to get a family doctor or nurse practitioner, with an honest FAQ on how the list works and how new arrivals without a health card qualify. | https://nshealth.ca/clinics-programs-and-services/need-family-practice-registry |
