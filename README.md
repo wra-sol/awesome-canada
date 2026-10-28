@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2711 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2714 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -31,7 +31,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
 - [🪪 Government Services & ID](#government-services-and-id) — 92
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 43
-- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 41
+- [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 44
 - [🏢 Business & Procurement](#business-and-procurement) — 66
 - [💼 Employment & Labour](#employment-and-labour) — 69
 - [🎓 Education & Student Aid](#education-and-student-aid) — 63
@@ -1089,7 +1089,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Export Development Canada — Trade Intelligence | Canada · Crown Corp | Trade data | International trade data, market intelligence, and export tools | https://edc.ca/ |
 | Canadian Investor Protection Fund | Canada · Agency | Coverage tool | Check coverage of investment dealer member firms and eligible assets | https://www.cipf.ca/ |
 | CIRO — AdvisorReport Search | Canada · Agency | Lookup tool | CIRO's AdvisorReport search: look up an investment advisor at a CIRO-regulated dealer to see their approval categories, provinces, employment history and disciplinary disclosures before investing. | https://www.ciro.ca/advisor-report-search |
+| CSA — Are They Registered? (National Registration Search) | Canada · Agency | Registration search | Canadian Securities Administrators tool to check whether an individual or firm selling securities or advice is registered in your province or territory, plus guides to understanding search results and investor alerts. | https://securities-administrators.ca/registration/are-they-registered |
 | FINTRAC — Strategic Intelligence Publications | Canada · Agency | Report library | Read FINTRAC operational alerts, briefs, and assessments listing concrete indicators of money laundering, terrorist financing, and sanctions evasion. | https://fintrac-canafe.canada.ca/intel/sintel-eng |
+| Payments Canada | Canada · Agency | Payment systems | Payments Canada operates Canada's payment clearing and settlement infrastructure (including Lynx); its site covers the payment systems, rules, participants and system status that banks and businesses rely on. | https://payments.ca/ |
 | SEDAR+ — Canadian Securities Filings | Canada · Agency | Filings search | Official filings portal for Canadian public companies — prospectuses, annual reports, continuous disclosure | https://sedarplus.ca/ |
 
 ### British Columbia
@@ -1141,6 +1143,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | FCNB — Online Services | New Brunswick · Provincial | Portal | FCNB's online services portal: New Brunswickers submit a formal complaint about a regulated firm or person and use the commission's self-serve consumer and industry services from one hub. | https://fcnb.ca/en/online-services |
 | Nova Scotia Municipal Finance and Statistics | Nova Scotia · Provincial | Reports collection | Hub for per-municipality financial condition indicator reports, municipal statistics annual reports and the FRAM accounting manual (PDF). | https://www.novascotia.ca/programs-and-services/municipal-finance-and-statistics |
 | Nova Scotia Public Sector Compensation Disclosure Reports | Nova Scotia · Provincial | Disclosure database | Finance and Treasury Board collection of sunshine-list reports naming public sector employees paid over $100,000; searchable by body, PDF statements. | https://www.novascotia.ca/public-sector-compensation-disclosure-reports |
+| Nova Scotia Securities Commission | Nova Scotia · Provincial | Securities regulator | Nova Scotia's securities regulator: investor alerts, registration and enforcement information, and guidance for investors and market participants in the province. | https://nssc.novascotia.ca/ |
 
 ## 🏢 Business & Procurement
 

@@ -42956,5 +42956,52 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "CSA — Are They Registered? (National Registration Search)",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Registration search",
+    "description": "Canadian Securities Administrators tool to check whether an individual or firm selling securities or advice is registered in your province or territory, plus guides to understanding search results and investor alerts.",
+    "url": "https://securities-administrators.ca/registration/are-they-registered",
+    "tags": [
+      "investing",
+      "securities",
+      "registration",
+      "fraud prevention"
+    ],
+    "dateAdded": "2026-10-28"
+  },
+  {
+    "name": "Payments Canada",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Payment systems",
+    "description": "Payments Canada operates Canada's payment clearing and settlement infrastructure (including Lynx); its site covers the payment systems, rules, participants and system status that banks and businesses rely on.",
+    "url": "https://payments.ca/",
+    "tags": [
+      "payments",
+      "banking",
+      "infrastructure"
+    ],
+    "dateAdded": "2026-10-28"
+  },
+  {
+    "name": "Nova Scotia Securities Commission",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "finance",
+    "type": "Securities regulator",
+    "description": "Nova Scotia's securities regulator: investor alerts, registration and enforcement information, and guidance for investors and market participants in the province.",
+    "url": "https://nssc.novascotia.ca/",
+    "tags": [
+      "Nova Scotia",
+      "securities",
+      "investing",
+      "regulator"
+    ],
+    "dateAdded": "2026-10-28"
   }
 ]
