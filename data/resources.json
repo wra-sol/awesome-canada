@@ -24142,6 +24142,22 @@
     ]
   },
   {
+    "name": "CIRNAC — Modern Treaties",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Treaty list and map",
+    "description": "Crown-Indigenous Relations list and map of all finalized modern treaties and self-government agreements between Indigenous communities and the Crown, from the Inuvialuit Final Agreement to the Whitecap Dakota Nation self-government treaty.",
+    "url": "https://www.rcaanc-cirnac.gc.ca/eng/1677073191939/1677073214344",
+    "tags": [
+      "indigenous",
+      "treaties",
+      "self-government",
+      "map"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
     "name": "Crown-Indigenous Relations — Specific Claims",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -24217,6 +24233,21 @@
     ]
   },
   {
+    "name": "Indigenous Services Canada — First Nations On-Reserve Housing Program",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Program",
+    "description": "Federal program funding the construction, renovation and purchase of housing on reserve for First Nations communities.",
+    "url": "https://www.sac-isc.gc.ca/eng/1100100010752/1535115367287",
+    "tags": [
+      "indigenous",
+      "housing",
+      "on-reserve"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
     "name": "Indigenous Services Canada — Indian Register",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -24260,6 +24291,22 @@
     ]
   },
   {
+    "name": "Indigenous Services Canada — Land Management",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "Program hub",
+    "description": "Indigenous Services Canada hub for reserve land management: land management policies, First Nations Land Management, additions to reserve, land registration through the Indian, First Nations and Self-Governing First Nations land registries, and surveys.",
+    "url": "https://www.sac-isc.gc.ca/eng/1587563382582/1587563402582",
+    "tags": [
+      "indigenous",
+      "land",
+      "reserves",
+      "registration"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
     "name": "Natural Resources Canada — Aboriginal Lands of Canada Legislative Boundaries",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -24291,6 +24338,22 @@
       "inuit"
     ],
     "dateAdded": "2026-10-21"
+  },
+  {
+    "name": "Open Government — Modern Treaties Dataset",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "indigenous",
+    "type": "GIS dataset",
+    "description": "Crown-Indigenous Relations and Indigenous Services Canada geospatial dataset of modern treaty boundaries, the departments' primary source for modern treaty geography on maps, also viewable in ATRIS.",
+    "url": "https://open.canada.ca/data/en/dataset/be54680b-ea62-46f3-aaa9-7644ed970aef",
+    "tags": [
+      "indigenous",
+      "treaties",
+      "gis",
+      "open data"
+    ],
+    "dateAdded": "2026-10-27"
   },
   {
     "name": "Specific Claims Tribunal — Decisions Database",
@@ -24339,6 +24402,22 @@
       "map",
       "bc"
     ]
+  },
+  {
+    "name": "FirstVoices",
+    "level": "Agency",
+    "jurisdiction": "British Columbia",
+    "category": "indigenous",
+    "type": "Language archive",
+    "description": "First Peoples' Cultural Council online space where First Nations communities document and share Indigenous languages: community dictionaries with audio, songs, stories, alphabets, language apps and keyboards, with communities retaining ownership of their content.",
+    "url": "https://www.firstvoices.com/",
+    "tags": [
+      "indigenous",
+      "languages",
+      "first nations",
+      "archive"
+    ],
+    "dateAdded": "2026-10-27"
   },
   {
     "name": "Assembly of First Nations",
@@ -34663,23 +34742,6 @@
     "dateAdded": "2026-08-25"
   },
   {
-    "name": "Wellington Catholic District School Board — School Boundary and Accommodations",
-    "level": "Regional",
-    "jurisdiction": "Guelph",
-    "category": "school-board",
-    "type": "Boundary map",
-    "description": "Wellington Catholic DSB's boundary page linking an interactive boundary map for the Catholic district covering Guelph and surrounding townships, with attendance area review documents and the board's school list.",
-    "url": "https://www.wellingtoncdsb.ca/schools/school_boundary_and_accommodations",
-    "tags": [
-      "regional",
-      "schools",
-      "boundary maps",
-      "guelph",
-      "wellington"
-    ],
-    "dateAdded": "2026-10-06"
-  },
-  {
     "name": "Halton Catholic District School Board — School Finder",
     "level": "Regional",
     "jurisdiction": "Halton",
@@ -35663,6 +35725,51 @@
     ]
   },
   {
+    "name": "Canadian Light Source",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research facility",
+    "description": "Canada's national synchrotron light source at the University of Saskatchewan: beamline access, user proposals and research from materials to health sciences.",
+    "url": "https://www.lightsource.ca/",
+    "tags": [
+      "synchrotron",
+      "research facility",
+      "beamlines"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Canadian Science Publishing",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Journal publisher",
+    "description": "Not-for-profit publisher of Canadian peer-reviewed science journals (formerly NRC Research Press), with open article search across its journal portfolio.",
+    "url": "https://cdnsciencepub.com/",
+    "tags": [
+      "journals",
+      "publishing",
+      "research"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "CANARIE",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research network",
+    "description": "Canada's national research and education network: high-speed connectivity, cloud, identity and cybersecurity services for researchers, universities and colleges.",
+    "url": "https://www.canarie.ca/",
+    "tags": [
+      "research network",
+      "connectivity",
+      "infrastructure"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
     "name": "CFI — Research Facilities Navigator",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -35676,6 +35783,21 @@
       "facilities",
       "collaboration"
     ]
+  },
+  {
+    "name": "Digital Research Alliance of Canada",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Research infrastructure",
+    "description": "National coordination for advanced research computing, research data management and research software, with services and funding for Canadian researchers.",
+    "url": "https://alliancecan.ca/en",
+    "tags": [
+      "research computing",
+      "data management",
+      "infrastructure"
+    ],
+    "dateAdded": "2026-10-27"
   },
   {
     "name": "FRDR — Federated Research Data Repository",
@@ -35721,6 +35843,21 @@
     ]
   },
   {
+    "name": "Mitacs",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Innovation programs",
+    "description": "National non-profit connecting researchers with businesses and organizations through funded internships and collaborative innovation programs.",
+    "url": "https://www.mitacs.ca/",
+    "tags": [
+      "internships",
+      "innovation",
+      "funding"
+    ],
+    "dateAdded": "2026-10-27"
+  },
+  {
     "name": "Ocean Networks Canada",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -35749,6 +35886,21 @@
       "real-time"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Ocean Tracking Network",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "science",
+    "type": "Telemetry network",
+    "description": "Global aquatic animal tracking network headquartered at Dalhousie University: acoustic telemetry data, receiver arrays and open tracking datasets.",
+    "url": "https://oceantrackingnetwork.org/",
+    "tags": [
+      "ocean",
+      "telemetry",
+      "tracking data"
+    ],
+    "dateAdded": "2026-10-27"
   },
   {
     "name": "Perimeter Institute — Public Science",
@@ -35971,6 +36123,21 @@
       "mlas"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Fonds de recherche du Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "science",
+    "type": "Research funder",
+    "description": "Quebec's public research funding agency (Nature et technologies, Santé, Société et culture): grants, scholarships and funding programs for Quebec researchers.",
+    "url": "https://frq.gouv.qc.ca/",
+    "tags": [
+      "funding",
+      "grants",
+      "research"
+    ],
+    "dateAdded": "2026-10-27"
   },
   {
     "name": "MRNF — GESTIM mining titles registry",
@@ -42789,189 +42956,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "FirstVoices",
-    "level": "Agency",
-    "jurisdiction": "British Columbia",
-    "category": "indigenous",
-    "type": "Language archive",
-    "description": "First Peoples' Cultural Council online space where First Nations communities document and share Indigenous languages: community dictionaries with audio, songs, stories, alphabets, language apps and keyboards, with communities retaining ownership of their content.",
-    "url": "https://www.firstvoices.com/",
-    "tags": [
-      "indigenous",
-      "languages",
-      "first nations",
-      "archive"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "CIRNAC — Modern Treaties",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Treaty list and map",
-    "description": "Crown-Indigenous Relations list and map of all finalized modern treaties and self-government agreements between Indigenous communities and the Crown, from the Inuvialuit Final Agreement to the Whitecap Dakota Nation self-government treaty.",
-    "url": "https://www.rcaanc-cirnac.gc.ca/eng/1677073191939/1677073214344",
-    "tags": [
-      "indigenous",
-      "treaties",
-      "self-government",
-      "map"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "Indigenous Services Canada — Land Management",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Program hub",
-    "description": "Indigenous Services Canada hub for reserve land management: land management policies, First Nations Land Management, additions to reserve, land registration through the Indian, First Nations and Self-Governing First Nations land registries, and surveys.",
-    "url": "https://www.sac-isc.gc.ca/eng/1587563382582/1587563402582",
-    "tags": [
-      "indigenous",
-      "land",
-      "reserves",
-      "registration"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "Indigenous Services Canada — First Nations On-Reserve Housing Program",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "Program",
-    "description": "Federal program funding the construction, renovation and purchase of housing on reserve for First Nations communities.",
-    "url": "https://www.sac-isc.gc.ca/eng/1100100010752/1535115367287",
-    "tags": [
-      "indigenous",
-      "housing",
-      "on-reserve"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "Open Government — Modern Treaties Dataset",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "indigenous",
-    "type": "GIS dataset",
-    "description": "Crown-Indigenous Relations and Indigenous Services Canada geospatial dataset of modern treaty boundaries, the departments' primary source for modern treaty geography on maps, also viewable in ATRIS.",
-    "url": "https://open.canada.ca/data/en/dataset/be54680b-ea62-46f3-aaa9-7644ed970aef",
-    "tags": [
-      "indigenous",
-      "treaties",
-      "gis",
-      "open data"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "CANARIE",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "science",
-    "type": "Research network",
-    "description": "Canada's national research and education network: high-speed connectivity, cloud, identity and cybersecurity services for researchers, universities and colleges.",
-    "url": "https://www.canarie.ca/",
-    "tags": [
-      "research network",
-      "connectivity",
-      "infrastructure"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "Digital Research Alliance of Canada",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "science",
-    "type": "Research infrastructure",
-    "description": "National coordination for advanced research computing, research data management and research software, with services and funding for Canadian researchers.",
-    "url": "https://alliancecan.ca/en",
-    "tags": [
-      "research computing",
-      "data management",
-      "infrastructure"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "Canadian Light Source",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "science",
-    "type": "Research facility",
-    "description": "Canada's national synchrotron light source at the University of Saskatchewan: beamline access, user proposals and research from materials to health sciences.",
-    "url": "https://www.lightsource.ca/",
-    "tags": [
-      "synchrotron",
-      "research facility",
-      "beamlines"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "Ocean Tracking Network",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "science",
-    "type": "Telemetry network",
-    "description": "Global aquatic animal tracking network headquartered at Dalhousie University: acoustic telemetry data, receiver arrays and open tracking datasets.",
-    "url": "https://oceantrackingnetwork.org/",
-    "tags": [
-      "ocean",
-      "telemetry",
-      "tracking data"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "Canadian Science Publishing",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "science",
-    "type": "Journal publisher",
-    "description": "Not-for-profit publisher of Canadian peer-reviewed science journals (formerly NRC Research Press), with open article search across its journal portfolio.",
-    "url": "https://cdnsciencepub.com/",
-    "tags": [
-      "journals",
-      "publishing",
-      "research"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "Mitacs",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "science",
-    "type": "Innovation programs",
-    "description": "National non-profit connecting researchers with businesses and organizations through funded internships and collaborative innovation programs.",
-    "url": "https://www.mitacs.ca/",
-    "tags": [
-      "internships",
-      "innovation",
-      "funding"
-    ],
-    "dateAdded": "2026-10-27"
-  },
-  {
-    "name": "Fonds de recherche du Québec",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "science",
-    "type": "Research funder",
-    "description": "Quebec's public research funding agency (Nature et technologies, Santé, Société et culture): grants, scholarships and funding programs for Quebec researchers.",
-    "url": "https://frq.gouv.qc.ca/",
-    "tags": [
-      "funding",
-      "grants",
-      "research"
-    ],
-    "dateAdded": "2026-10-27"
   }
 ]
