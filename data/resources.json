@@ -16952,6 +16952,22 @@
     "dateAdded": "2026-10-18"
   },
   {
+    "name": "CSA — Are They Registered? (National Registration Search)",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Registration search",
+    "description": "Canadian Securities Administrators tool to check whether an individual or firm selling securities or advice is registered in your province or territory, plus guides to understanding search results and investor alerts.",
+    "url": "https://securities-administrators.ca/registration/are-they-registered",
+    "tags": [
+      "investing",
+      "securities",
+      "registration",
+      "fraud prevention"
+    ],
+    "dateAdded": "2026-10-28"
+  },
+  {
     "name": "FINTRAC — Strategic Intelligence Publications",
     "level": "Agency",
     "jurisdiction": "Canada",
@@ -16966,6 +16982,21 @@
       "sanctions",
       "indicators"
     ]
+  },
+  {
+    "name": "Payments Canada",
+    "level": "Agency",
+    "jurisdiction": "Canada",
+    "category": "finance",
+    "type": "Payment systems",
+    "description": "Payments Canada operates Canada's payment clearing and settlement infrastructure (including Lynx); its site covers the payment systems, rules, participants and system status that banks and businesses rely on.",
+    "url": "https://payments.ca/",
+    "tags": [
+      "payments",
+      "banking",
+      "infrastructure"
+    ],
+    "dateAdded": "2026-10-28"
   },
   {
     "name": "SEDAR+ — Canadian Securities Filings",
@@ -17106,6 +17137,22 @@
       "transparency",
       "public-sector"
     ]
+  },
+  {
+    "name": "Nova Scotia Securities Commission",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "finance",
+    "type": "Securities regulator",
+    "description": "Nova Scotia's securities regulator: investor alerts, registration and enforcement information, and guidance for investors and market participants in the province.",
+    "url": "https://nssc.novascotia.ca/",
+    "tags": [
+      "Nova Scotia",
+      "securities",
+      "investing",
+      "regulator"
+    ],
+    "dateAdded": "2026-10-28"
   },
   {
     "name": "Ontario Securities Commission — Investor Portal",
@@ -19406,6 +19453,23 @@
     "dateAdded": "2026-10-17"
   },
   {
+    "name": "Alberta — CPSA Physician Directory",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Look up any Alberta physician, physician assistant or medical student by name: practice location, type of practice, qualifications, permit status and conditions on their practice permit.",
+    "url": "https://search.cpsa.ca/",
+    "tags": [
+      "physician",
+      "directory",
+      "alberta",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-28"
+  },
+  {
     "name": "Alberta — Screening for Life",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -19419,6 +19483,22 @@
       "alberta"
     ],
     "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Alberta Find a Provider",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "health",
+    "type": "Doctor finder",
+    "description": "Search for a family doctor or nurse practitioner in Alberta and follow the practice's own instructions for becoming a patient; now run by Primary Care Alberta (formerly Alberta Find a Doctor).",
+    "url": "https://albertafindaprovider.ca/",
+    "tags": [
+      "family doctor",
+      "nurse practitioner",
+      "alberta",
+      "primary care"
+    ],
+    "dateAdded": "2026-10-28"
   },
   {
     "name": "Alberta Health Analytics Interactive Data",
@@ -19528,6 +19608,23 @@
       "british columbia"
     ],
     "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "British Columbia — Health Connect Registry",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Primary care registry",
+    "description": "Register to be matched with a family doctor or nurse practitioner in your BC community; registration takes under five minutes with a Personal Health Number, address and contact details, or by calling 8-1-1.",
+    "url": "https://www.healthlinkbc.ca/find-care/health-connect-registry",
+    "tags": [
+      "family doctor",
+      "nurse practitioner",
+      "bc",
+      "registry",
+      "primary care"
+    ],
+    "dateAdded": "2026-10-28"
   },
   {
     "name": "British Columbia — Health Gateway (Immunization Records)",
@@ -19911,6 +20008,22 @@
       "nova scotia"
     ],
     "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "Nova Scotia — Register Your Organ and Tissue Donation Decision",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Donation registry",
+    "description": "Register or change your organ and tissue donation decision online with a Nova Scotia Health Card, including opting out under the province's deemed-consent law; decision is recorded in the Health Card Registry.",
+    "url": "https://www.novascotia.ca/register-your-organ-and-tissue-donation-decision",
+    "tags": [
+      "organ donation",
+      "tissue donation",
+      "nova scotia",
+      "registry"
+    ],
+    "dateAdded": "2026-10-28"
   },
   {
     "name": "Nova Scotia — Wait Time Information",
@@ -42956,118 +43069,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "CSA — Are They Registered? (National Registration Search)",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "finance",
-    "type": "Registration search",
-    "description": "Canadian Securities Administrators tool to check whether an individual or firm selling securities or advice is registered in your province or territory, plus guides to understanding search results and investor alerts.",
-    "url": "https://securities-administrators.ca/registration/are-they-registered",
-    "tags": [
-      "investing",
-      "securities",
-      "registration",
-      "fraud prevention"
-    ],
-    "dateAdded": "2026-10-28"
-  },
-  {
-    "name": "Payments Canada",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "finance",
-    "type": "Payment systems",
-    "description": "Payments Canada operates Canada's payment clearing and settlement infrastructure (including Lynx); its site covers the payment systems, rules, participants and system status that banks and businesses rely on.",
-    "url": "https://payments.ca/",
-    "tags": [
-      "payments",
-      "banking",
-      "infrastructure"
-    ],
-    "dateAdded": "2026-10-28"
-  },
-  {
-    "name": "Nova Scotia Securities Commission",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "finance",
-    "type": "Securities regulator",
-    "description": "Nova Scotia's securities regulator: investor alerts, registration and enforcement information, and guidance for investors and market participants in the province.",
-    "url": "https://nssc.novascotia.ca/",
-    "tags": [
-      "Nova Scotia",
-      "securities",
-      "investing",
-      "regulator"
-    ],
-    "dateAdded": "2026-10-28"
-  },
-  {
-    "name": "Alberta — CPSA Physician Directory",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "health",
-    "type": "Physician directory",
-    "description": "Look up any Alberta physician, physician assistant or medical student by name: practice location, type of practice, qualifications, permit status and conditions on their practice permit.",
-    "url": "https://search.cpsa.ca/",
-    "tags": [
-      "physician",
-      "directory",
-      "alberta",
-      "licence",
-      "register"
-    ],
-    "dateAdded": "2026-10-28"
-  },
-  {
-    "name": "Alberta Find a Provider",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "health",
-    "type": "Doctor finder",
-    "description": "Search for a family doctor or nurse practitioner in Alberta and follow the practice's own instructions for becoming a patient; now run by Primary Care Alberta (formerly Alberta Find a Doctor).",
-    "url": "https://albertafindaprovider.ca/",
-    "tags": [
-      "family doctor",
-      "nurse practitioner",
-      "alberta",
-      "primary care"
-    ],
-    "dateAdded": "2026-10-28"
-  },
-  {
-    "name": "British Columbia — Health Connect Registry",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "health",
-    "type": "Primary care registry",
-    "description": "Register to be matched with a family doctor or nurse practitioner in your BC community; registration takes under five minutes with a Personal Health Number, address and contact details, or by calling 8-1-1.",
-    "url": "https://www.healthlinkbc.ca/find-care/health-connect-registry",
-    "tags": [
-      "family doctor",
-      "nurse practitioner",
-      "bc",
-      "registry",
-      "primary care"
-    ],
-    "dateAdded": "2026-10-28"
-  },
-  {
-    "name": "Nova Scotia — Register Your Organ and Tissue Donation Decision",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "health",
-    "type": "Donation registry",
-    "description": "Register or change your organ and tissue donation decision online with a Nova Scotia Health Card, including opting out under the province's deemed-consent law; decision is recorded in the Health Card Registry.",
-    "url": "https://www.novascotia.ca/register-your-organ-and-tissue-donation-decision",
-    "tags": [
-      "organ donation",
-      "tissue donation",
-      "nova scotia",
-      "registry"
-    ],
-    "dateAdded": "2026-10-28"
   }
 ]
