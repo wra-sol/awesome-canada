@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2718 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2720 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -34,7 +34,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 44
 - [🏢 Business & Procurement](#business-and-procurement) — 66
 - [💼 Employment & Labour](#employment-and-labour) — 69
-- [🎓 Education & Student Aid](#education-and-student-aid) — 63
+- [🎓 Education & Student Aid](#education-and-student-aid) — 62
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 56
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
 - [🩺 Health & Wellness](#health-and-wellness) — 135
@@ -59,7 +59,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 49
 - [🎖️ Veterans & Military](#veterans-and-military) — 38
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 99
-- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 28
+- [📡 Telecommunications & Digital](#telecommunications-and-digital) — 31
 
 ---
 
@@ -1420,7 +1420,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| eCourses Manitoba (Campus Manitoba) | Manitoba · Agency | Online course catalogue | Campus Manitoba's catalogue of online courses from Manitoba universities and colleges: browse certificate, diploma, degree and professional-learning courses and check which credits transfer between Manitoba institutions. | https://ecoursesmb.ca/ |
 | Manitoba Student Aid | Manitoba · Provincial | Student assistance | Manitoba's provincial student financial assistance program: apply for loans and grants, estimate awards, and manage repayment. | https://www.edu.gov.mb.ca/msa/ |
 
 ### Ontario
@@ -4287,14 +4286,17 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Canada VRS — Video Relay Service | Canada · Federal | Video relay service | Canada's national video relay service: deaf, hard-of-hearing and speech-impaired Canadians make and receive phone calls through a sign-language interpreter over video, including 911 calls. | https://srvcanadavrs.ca/en/ |
 | Canada.ca Design System — Templates and Patterns | Canada · Federal | Design system | Download user-tested Canada.ca page templates, design patterns, and style specifications to build compliant Government of Canada web content. | https://design.canada.ca/ |
 | Canada's Connectivity Strategy — Project Map & Reports | Canada · Federal | Program data | Federal broadband program transparency: funded connectivity projects, target speeds, households connected, and progress reporting toward universal rural internet. | https://ised-isde.canada.ca/site/canada-connectivity-strategy/en |
 | Canadian Digital Service | Canada · Federal | Agency | CDS — builds and supports digital government services across federal departments | https://digital.canada.ca/ |
 | Canadian Digital Service — GitHub Organization | Canada · Federal | Open source code | Nearly 300 open-source repositories behind GC Notify, GC Forms and GC Design System components — read, fork and reuse real production government service code. | https://github.com/cds-snc |
 | CCTS — Online Complaint Form | Canada · Federal | Complaint tool | File a free complaint with the Commission for Complaints for Telecom-television Services about phone, internet, or TV service after trying the provider first. | https://www.ccts-cprst.ca/for-consumers/telecom-complaints/online-complaint-form/ |
+| Connecting Families — Low-Cost Internet Plans | Canada · Federal | Affordable internet program | ISED's Connecting Families initiative: eligible low-income families and seniors with an invitation letter register for $10 or $20 per month home internet plans and discounted devices through the registration portal. | https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/connecting-families-initiative/low-cost-plans |
 | CRTC — Broadband Internet Service Complaints | Canada · Federal | Complaint | Submit complaints about broadband, wireless, or TV providers via the CCTS | https://www.ccts-cprst.ca/ |
 | CRTC — Communications Monitoring Report | Canada · Federal | Report | Annual data on Canadian broadcasting, wireless, and internet markets | https://crtc.gc.ca/eng/publications/reports/policymonitoring/2023/index.htm |
 | CRTC — National Broadband Map | Canada · Federal | Map | Interactive map showing internet speeds and coverage across Canada | https://crtc.gc.ca/eng/internet/internet.htm |
+| CRTC — Participate in a Public Proceeding | Canada · Federal | Public proceeding participation | How to take part in CRTC public proceedings: find proceedings open for comment and submit an intervention through the online intervention/comment form. | https://crtc.gc.ca/ENG/INFO_SHT/G4.htm |
 | CRTC — Registered Telecommunications Providers List | Canada · Federal | Registration list | Look up companies registered with the CRTC to provide telecom services in Canada, including carriers, resellers, and high-speed internet resellers. | https://applications.crtc.gc.ca/portail-portal/eng/listes-lists/registration/5 |
 | CRTC Broadband Fund — Projects Selected for Funding | Canada · Federal | Broadband rollout tracker | Filterable registry and interactive map of all 73 Broadband Fund projects bringing high-speed internet and cellphone service to rural, remote, and Indigenous communities, with recipient, funding amount, project status, and linked CRTC decisions. | https://crtc.gc.ca/eng/Internet/select.htm |
 | Government of Canada — GitHub Organization | Canada · Federal | Open source code | Browse, fork and reuse 70+ official open-source repositories — the Canada.ca design system, the domain-security Tracker, and the Open Resource Exchange. | https://github.com/canada-ca |

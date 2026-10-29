@@ -11658,23 +11658,6 @@
     "dateAdded": "2026-10-20"
   },
   {
-    "name": "eCourses Manitoba (Campus Manitoba)",
-    "level": "Agency",
-    "jurisdiction": "Manitoba",
-    "category": "education",
-    "type": "Online course catalogue",
-    "description": "Campus Manitoba's catalogue of online courses from Manitoba universities and colleges: browse certificate, diploma, degree and professional-learning courses and check which credits transfer between Manitoba institutions.",
-    "url": "https://ecoursesmb.ca/",
-    "tags": [
-      "Manitoba",
-      "online learning",
-      "courses",
-      "transfer credit",
-      "postsecondary"
-    ],
-    "dateAdded": "2026-10-20"
-  },
-  {
     "name": "OCAS — Ontario College Application",
     "level": "Agency",
     "jurisdiction": "Ontario",
@@ -43069,5 +43052,54 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Canada VRS — Video Relay Service",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Video relay service",
+    "description": "Canada's national video relay service: deaf, hard-of-hearing and speech-impaired Canadians make and receive phone calls through a sign-language interpreter over video, including 911 calls.",
+    "url": "https://srvcanadavrs.ca/en/",
+    "tags": [
+      "vrs",
+      "video relay",
+      "accessibility",
+      "deaf",
+      "phone"
+    ],
+    "dateAdded": "2026-10-29"
+  },
+  {
+    "name": "CRTC — Participate in a Public Proceeding",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Public proceeding participation",
+    "description": "How to take part in CRTC public proceedings: find proceedings open for comment and submit an intervention through the online intervention/comment form.",
+    "url": "https://crtc.gc.ca/ENG/INFO_SHT/G4.htm",
+    "tags": [
+      "crtc",
+      "intervention",
+      "consultation",
+      "proceedings"
+    ],
+    "dateAdded": "2026-10-29"
+  },
+  {
+    "name": "Connecting Families — Low-Cost Internet Plans",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "telecom",
+    "type": "Affordable internet program",
+    "description": "ISED's Connecting Families initiative: eligible low-income families and seniors with an invitation letter register for $10 or $20 per month home internet plans and discounted devices through the registration portal.",
+    "url": "https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/connecting-families-initiative/low-cost-plans",
+    "tags": [
+      "low-cost internet",
+      "connecting families",
+      "affordability",
+      "broadband"
+    ],
+    "dateAdded": "2026-10-29"
   }
 ]
