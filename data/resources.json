@@ -43101,5 +43101,124 @@
       "broadband"
     ],
     "dateAdded": "2026-10-29"
+  },
+  {
+    "name": "British Columbia — CPSBC Directory",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Search the BC College of Physicians and Surgeons public directory for any physician's licence status, practice type, business address and any practice conditions or regulatory actions.",
+    "url": "https://www.cpsbc.ca/directory",
+    "tags": [
+      "physician",
+      "directory",
+      "british columbia",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-29"
+  },
+  {
+    "name": "Manitoba — CPSM Physician Directory",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Search the Manitoba College of Physicians and Surgeons daily-updated directory of physicians currently practising in Manitoba, by category.",
+    "url": "https://member.cpsm.mb.ca/reports/public/physiciandirectoryreport",
+    "tags": [
+      "physician",
+      "directory",
+      "manitoba",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-29"
+  },
+  {
+    "name": "New Brunswick — CPSNB Public Directory",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Search New Brunswick's public directory of physicians with active annual or temporary licences, postgraduate trainees, medical students and physician assistants, by name, region, city, specialty or licence number.",
+    "url": "https://cpsnb.alinityapp.com/Client/PublicDirectory",
+    "tags": [
+      "physician",
+      "directory",
+      "new brunswick",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-29"
+  },
+  {
+    "name": "Newfoundland and Labrador — CPSNL Public Directory",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Search the Newfoundland and Labrador College of Physicians and Surgeons public register for any licensed physician by name, licence number, location or area of practice.",
+    "url": "https://cpsnl.alinityapp.com/Client/PublicDirectory",
+    "tags": [
+      "physician",
+      "directory",
+      "newfoundland and labrador",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-29"
+  },
+  {
+    "name": "Nova Scotia — CPSNS Registrant Search",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Search the Nova Scotia College of Physicians and Surgeons registrant database by name, location, zone, specialty, licence type or language.",
+    "url": "https://cpsnsphysiciansearch.azurewebsites.net/",
+    "tags": [
+      "physician",
+      "directory",
+      "nova scotia",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-29"
+  },
+  {
+    "name": "Prince Edward Island — CPSPEI Public Directory",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Search the Prince Edward Island College of Physicians and Surgeons public directory of physicians with annual or provisional licences and medical residents.",
+    "url": "https://cpspei.alinityapp.com/client/publicdirectory",
+    "tags": [
+      "physician",
+      "directory",
+      "prince edward island",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-29"
+  },
+  {
+    "name": "Quebec — CMQ Members Directory",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Search the Collège des médecins du Québec members directory for physicians and residents practising in Quebec, by name and category.",
+    "url": "https://www.cmq.org/en/directory",
+    "tags": [
+      "physician",
+      "directory",
+      "quebec",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-29"
   }
 ]
