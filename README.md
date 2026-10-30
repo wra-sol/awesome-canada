@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2727 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2726 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -35,7 +35,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏢 Business & Procurement](#business-and-procurement) — 66
 - [💼 Employment & Labour](#employment-and-labour) — 69
 - [🎓 Education & Student Aid](#education-and-student-aid) — 62
-- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 56
+- [🎒 Schools, Education & Boards](#schools-education-and-boards) — 55
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
 - [🩺 Health & Wellness](#health-and-wellness) — 142
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
@@ -1479,12 +1479,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Yukon Student Financial Assistance Portal | Yukon · Provincial | Student aid portal | Log in to the Yukon Student Financial Assistance application portal: apply online for the Yukon Grant, Canada Student Financial Assistance, the Yukon Excellence Awards and the Yukon Health Care and Social Services Bursary; upload documents, check application status and view decision letters. | https://yukon.ca/en/education-and-schools/financial-support-students/log-student-financial-assistance-application-portal |
 
 ## 🎒 Schools, Education & Boards
-
-### Federal / National
-
-| Name | Jurisdiction · Level | Type | Description | URL |
-|---|---|---|---|---|
-| Open Database of Educational Facilities (ODEF) | Canada · Federal | National school dataset | Harmonized open data on ~19,000 Canadian educational facilities with addresses and coordinates — CSV under Open Government Licence. | https://www150.statcan.gc.ca/n1/en/type/data/lode/odef |
 
 ### British Columbia
 
