@@ -43204,5 +43204,39 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Saskatchewan — CPSS Physician Search",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Search the College of Physicians and Surgeons of Saskatchewan public physician register by last name and other criteria; the last provincial physician register missing from the catalog, completing the 10-province set.",
+    "url": "https://www.cps.sk.ca/imis/web/Public/Physician_Search/web/PhysicianSearch/CPSS_Physician_Search_Landing_.aspx?hkey=10589c35-ac43-427b-968f-117fceac1ec6",
+    "tags": [
+      "physician",
+      "directory",
+      "saskatchewan",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-30"
+  },
+  {
+    "name": "Yukon — Check if a Physician is Licensed",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Check whether a physician is licensed to practise in Yukon via the Yukon Medical Council's public lookup tool.",
+    "url": "https://www.yukonmedicalcouncil.ca/index.php/public/check-if-a-physician-is-licensed",
+    "tags": [
+      "physician",
+      "directory",
+      "yukon",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-30"
   }
 ]

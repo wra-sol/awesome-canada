@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2726 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2728 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 62
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 55
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
-- [🩺 Health & Wellness](#health-and-wellness) — 142
+- [🩺 Health & Wellness](#health-and-wellness) — 144
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 58
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
@@ -1749,6 +1749,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | eHealth Saskatchewan — Specialist Directory | Saskatchewan · Provincial | Lookup tool | Look up ~200 Saskatchewan surgeons and 2,600 procedures with weekly-updated surgical wait times so patients can compare specialists and travel for faster surgery. | https://specialists.ehealthsask.ca/ |
 | HealthLine 811 (Saskatchewan) | Saskatchewan · Provincial | Health service | Saskatchewan's HealthLine 811: free, confidential 24/7 health advice by phone at 811 from registered nurses and other professionals, with online information on accessing health care in the province. | https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline |
 | MySaskHealthRecord | Saskatchewan · Provincial | Patient health record portal | Saskatchewan's secure personal health-information portal (eHealth Saskatchewan): lab results, medical imaging reports, clinical visit and hospital admission history, immunization and prescription history, plus a mobile app and family-access options. | https://www.ehealthsask.ca/MySaskHealthRecord/MySaskHealthRecord/ |
+| Saskatchewan — CPSS Physician Search | Saskatchewan · Provincial | Physician directory | Search the College of Physicians and Surgeons of Saskatchewan public physician register by last name and other criteria; the last provincial physician register missing from the catalog, completing the 10-province set. | https://www.cps.sk.ca/imis/web/Public/Physician_Search/web/PhysicianSearch/CPSS_Physician_Search_Landing_.aspx?hkey=10589c35-ac43-427b-968f-117fceac1ec6 |
 | Saskatchewan — Drug Plan Formulary Search | Saskatchewan · Provincial | Drug coverage search | Search which medications the Saskatchewan Drug Plan covers, with coverage status, exception drug criteria and formulary bulletins. | https://formulary.drugplan.ehealthsask.ca/ |
 | Saskatchewan — Health Care Facilities Map | Saskatchewan · Provincial | Services directory | Government of Saskatchewan's searchable map of 207 health and social-service facilities — mental health, addictions, detox, HIV testing, STD clinics, eating disorders — each with address, phone and intake line. | https://www.saskatchewan.ca/residents/health/accessing-health-care-services/health-care-facilities |
 | Saskatchewan — Surgical Performance and Wait Times | Saskatchewan · Provincial | Data tool | Saskatchewan's surgical wait-time reporting, updated quarterly: surgeries performed, the share of patients receiving or offered surgery within three, six and twelve months, and how many patients are waiting, broken down by area of the province. | https://www.saskatchewan.ca/residents/health/accessing-health-care-services/surgery/surgical-performance-and-wait-times |
@@ -1848,6 +1849,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | NWT Open Data — Hospital, Health Centre & Health Station List | Northwest Territories · Provincial | Dataset | Download the list of NWT hospitals, health centres and health stations by facility name, community, level of care and contact information — XLSX on the territorial open data portal. | https://opendata.gov.nt.ca/dataset/hospital-health-centre-and-health-station-list/resource/f0160ad7-b4c0-4bf9-9378-586cf59e0783 |
+| Yukon — Check if a Physician is Licensed | Yukon · Provincial | Physician directory | Check whether a physician is licensed to practise in Yukon via the Yukon Medical Council's public lookup tool. | https://www.yukonmedicalcouncil.ca/index.php/public/check-if-a-physician-is-licensed |
 | Yukon — HealthLine 811 | Yukon · Provincial | Health service | Yukon's 24-hour HealthLine 811: registered nurses answer health questions and direct callers to help in their community, with an after-hours pharmacist connection from 5 p.m. to 9 a.m. | https://yukon.ca/en/health-and-wellness/care-services/access-24-hour-health-advice-811 |
 | Yukon HSS — Public Health Inspections Lookup | Yukon · Provincial | Lookup tool | Search inspection reports for Yukon food premises and personal services establishments by facility or community; Environmental Health Officer reports updated weekly since 2014. | https://www.healthinspections.gov.yk.ca/ |
 
