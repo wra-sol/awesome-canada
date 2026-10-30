@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2728 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2731 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -29,7 +29,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 103
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
-- [🪪 Government Services & ID](#government-services-and-id) — 92
+- [🪪 Government Services & ID](#government-services-and-id) — 95
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 43
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 44
 - [🏢 Business & Procurement](#business-and-procurement) — 66
@@ -846,6 +846,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| ATIP Online Request Service | Canada · Federal | Request portal | Submit access to information or personal information requests online to federal institutions under the Access to Information Act and Privacy Act, and pay the $5 access fee online. | https://atip-aiprp.apps.gc.ca/ |
 | Code for Canada | Canada · Federal | Civic tech organization | Canadian nonprofit that helps government and communities design and build better digital services through technology and design partnerships | https://codefor.ca/ |
 | eServiceCanada Appointment Booking | Canada · Federal | Appointment booking | Official Service Canada appointment booking tool for in-person services, including passport applications, biometrics collection, and SIN-related visits, with online passport renewal options. | https://eservices.canada.ca/reservation/ |
 | GC Design System | Canada · Federal | Design system | Official production-ready design system for Government of Canada websites and digital products — components, patterns, and guidance | https://design-system.canada.ca/en/ |
@@ -872,6 +873,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | B.C. Government DevHub | British Columbia · Provincial | Developer portal | British Columbia government developer hub with technical documentation, code samples, APIs, and community knowledge bases | https://developer.gov.bc.ca/ |
+| BC — Submit a Personal Freedom of Information Request | British Columbia · Provincial | Request portal | Submit a personal freedom of information request to a BC government ministry or agency online, with BC Services Card identity verification for electronic delivery of records. | https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information/submit-a-personal-freedom-of-information-request |
 | BC Services Card | British Columbia · Provincial | Digital ID | BC's combined health card and digital ID used to access online government services securely | https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card |
 | BC Vital Statistics Online Ordering System (eCOS) | British Columbia · Provincial | Document ordering | B.C. Vital Statistics online portal to order birth, marriage, and death certificates or certified registration copies, and register wills notices, with fully electronic applications and rush processing. | https://www2.gov.bc.ca/gov/content/life-events/order-certificates-copies |
 | Connected Services BC | British Columbia · Provincial | Digital service | British Columbia's initiative to build connected, people-centred digital government services and improve cross-government service delivery. | https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/csbc |
@@ -886,6 +888,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Alberta — Access to Information Request Service (eServices) | Alberta · Provincial | Request portal | Submit general access to information requests to Government of Alberta departments online under Alberta's Access to Information Act, with the $25 initial fee paid through eServices. | https://eservices.alberta.ca/ati-request.html |
 | Alberta Find a Registry Agent | Alberta · Provincial | Lookup tool | Searchable directory of Alberta registry agents offering government services: vehicle registration, driver licensing, vital statistics searches, land titles, health care registration, and personal property searches by city. | http://www.servicealberta.gov.ab.ca/find-a-registry-agent.cfm?faction=search |
 | Alberta.ca Account | Alberta · Provincial | Authentication | Single sign-in used to access Alberta government online services like MyAlberta Digital ID | https://account.alberta.ca/ |
 | MyAlberta Digital ID | Alberta · Provincial | Digital ID | Verified digital identity used to access Alberta government services remotely | https://account.alberta.ca/signin |
@@ -3002,7 +3005,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario Energy Board | Ontario · Provincial | Regulator | Independent regulator of the electricity and natural gas sectors in Ontario, including utility rate decisions, consumer protection, and energy policy | https://www.oeb.ca/ |
 | Ontario Energy Board — Archived Decisions | Ontario · Provincial | Decisions archive | Filter past Ontario Energy Board applications by year, energy type and application type and open the case record — decisions and orders that set Ontario electricity and gas rates. | https://www.oeb.ca/applications/major-decisions/archived-decisions |
 | Ontario Energy Board — We're Here to Help (Consumer Complaints) | Ontario · Provincial | Complaint process | The Ontario Energy Board's consumer help page: electricity and natural gas customers follow the complaint steps, contacting their utility first and then filing with the OEB over billing, contracts or service. | https://www.oeb.ca/consumer-information-and-protection/oebs-consumer-protection-role/were-here-help |
-| Ontario Power Generation — Dam Safety and Water Management | Ontario · Provincial | Water management | OPG's dam safety monitoring, water level data, and water management information for Ontario's hydroelectric facilities | https://www.opg.com/power-safety/dams/ |
+| Ontario Power Generation — Dam Safety and Water Management | Ontario · Provincial | Water management | OPG's water safety information for its dams and hydroelectric stations: danger zones, changing water levels and flows, and staying clear and safe around facilities | https://www.opg.com/power-generation/commitment-to-safety/water-safety/ |
 | Ontario Power Generation — Nuclear Monitoring Dashboard | Ontario · Provincial | Dashboard | Nuclear generation data, environmental monitoring results, and safety performance information from OPG's Pickering and Darlington stations | https://www.opg.com/power-generation/nuclear/ |
 | Synergy North — Outage Map | Ontario · Regional | Outage map | Live outage map for Synergy North, the municipal electricity utility serving Thunder Bay and Kenora, with affected areas and restoration updates. | https://synergynorth.ca/outage-map/ |
 | Alectra — Outage Map | Ontario/GTA · Regional | Outage map | Live power outage map across Alectra Utilities' Ontario service territory | https://www.alectrautilities.com/outage-map |
@@ -3885,7 +3888,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Motor Vehicle Arbitration Plan (CAMVAP) | Canada · Agency | Dispute resolution | Free binding arbitration for vehicle defects and warranty disputes: owners who cannot resolve a problem with a participating manufacturer can have an arbitrator order a repair, buy-back or reimbursement. | https://www.camvap.ca/ |
 | Canadian Securities Administrators — Are They Registered? | Canada · Agency | Lookup tool | The CSA's check-before-you-invest hub: verify through the National Registration Search whether an investment adviser or firm is registered, and check disciplinary history and investor alerts first. | https://www.securities-administrators.ca/registration/are-they-registered |
 | CBC/Radio-Canada — Office of the Ombudsman | Canada · Agency | Ombudsman office | The Office of the CBC Ombudsman's official site on the CBC/Radio-Canada corporate site: the independent office that evaluates whether CBC/Radio-Canada news, current affairs and public affairs content (radio, TV, web and social) complies with the CBC's Journalistic Standards and Practices. Members of the public submit complaints about CBC journalism to the Ombudsman, and the site publishes the Ombudsman's complaint reviews, inbox posts, annual reports and the complaint review process. The office's former standalone host (ombudsman.cbc.radio-canada.ca) no longer loads — it returns a certificate error in browsers — so this corporate-site page is the live location. | https://cbc.radio-canada.ca/en/ombudsman |
-| General Insurance OmbudService (GIO) | Canada · Agency | Ombudsman | Free, impartial help for home, auto and business insurance disputes: consumers who cannot settle a claim or complaint with their insurer can bring it to the General Insurance OmbudService. | https://www.giocanada.org/ |
+| General Insurance OmbudService (GIO) | Canada · Agency | Ombudsman | Free, impartial help for home, auto and business insurance disputes: consumers who cannot settle a claim or complaint with their insurer can bring it to the General Insurance OmbudService. | https://giocanada.org/ |
 | National Do Not Call List | Canada · Agency | Service | Register Canadian phone numbers to reduce unwanted telemarketing calls | https://www.lnnte-dncl.gc.ca/ |
 | Office of the Privacy Commissioner of Canada | Canada · Agency | Regulator | Privacy complaints, PIPEDA guidance, and breach reporting for Canadians | https://www.priv.gc.ca/ |
 | OmbudService for Life and Health Insurance (OLHI) | Canada · Agency | Ombudsman | Canada's life and health insurance ombuds service: consumers with an unresolved complaint about life, disability, travel or other health insurance can get a free independent review and search for a lost policy. | https://olhi.ca/ |
