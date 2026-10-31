@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2730 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2736 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 62
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 55
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
-- [🩺 Health & Wellness](#health-and-wellness) — 144
+- [🩺 Health & Wellness](#health-and-wellness) — 150
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 57
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
@@ -1677,6 +1677,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canada.ca — Drug Shortages Canada | Canada · Federal | Database | Search the official database of reported and resolved drug shortages and discontinuations | https://www.drugshortagescanada.ca/ |
 | Canada's Clinical Trials Search Portal | Canada · Federal | Search portal | Health Canada portal (launched July 2026, replacing the former Clinical Trials Database) to search authorized drug trials by condition, product, status, sponsor, or approval date, with links to international registries. | https://www.canada.ca/en/health-canada/services/drugs-health-products/clinical-trials/search-portal.html |
 | Canada's Food Guide | Canada · Federal | Reference | Evidence-based food guidance, recipes, and meal planning from Health Canada | https://food-guide.canada.ca/en/ |
+| Canadian Association for Poison Centres and Clinical Toxicology — Poison Centre Directory | Canada · Federal | Directory | National directory of Canada's five poison centres with contact details, plus the Canada-wide toll-free poison number 1-844-POISON-X (1-844-764-7669). | https://infopoison.ca/centres/ |
 | Canadian Drug and Substance Watch | Canada · Federal | Early-warning page | Health Canada's early-warning surveillance page tracking emerging toxic illegal drugs and substances circulating in Canada's drug supply. | https://health-infobase.canada.ca/canadian-drug-and-substance-watch/ |
 | Canadian Institute for Health Information (CIHI) | Canada · Federal | Health data | Independent, not-for-profit organization providing essential health data and information to inform policy, research, and system improvement across Canada | https://www.cihi.ca/en |
 | Drug Product Database | Canada · Federal | Search database | Search approved drug products in Canada | https://health-products.canada.ca/dpd-bdpp/ |
@@ -1721,6 +1722,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC — Crisis Centre | British Columbia · Provincial | Crisis helpline | BC Crisis Centre: the 310-6789 crisis line and online chat support for British Columbians in distress, plus crisis resources. | https://www.crisiscentre.bc.ca/ |
 | BC — Organ Donor Registry | British Columbia · Provincial | Organ donor registry | BC Transplant's Organ Donor Registry: register your organ donation decision online with a BC Personal Health Number. | https://register.transplant.bc.ca/ |
+| BC Drug and Poison Information Centre (DPIC) | British Columbia · Provincial | Poison centre | BC's 24-hour poison information line for the public, serving BC and Yukon, plus drug information for health professionals and free poison prevention materials. | https://www.dpic.org/ |
 | BC Health Gateway | British Columbia · Provincial | Patient health record portal | BC's official health-records portal: lab results, medication history, immunization records, and hospital and community-health visits in one timeline, with a mobile app and email/SMS notifications for new records. Logged in with the BC Services Card app. | https://www.gov.bc.ca/healthgateway |
 | BC PharmaCare — Formulary Search | British Columbia · Provincial | Drug coverage search | British Columbia's official PharmaCare formulary search: search by drug name, DIN/PIN/NPN, PharmaCare plan, therapeutic classification or manufacturer to determine which products PharmaCare covers and how much it pays. | https://pharmacareformularysearch.gov.bc.ca/Search.xhtml |
 | British Columbia — CPSBC Directory | British Columbia · Provincial | Physician directory | Search the BC College of Physicians and Surgeons public directory for any physician's licence status, practice type, business address and any practice conditions or regulatory actions. | https://www.cpsbc.ca/directory |
@@ -1738,6 +1740,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Alberta — AHS Emergency Department Wait Times | Alberta · Agency | Live wait-time dashboard | Check live estimated emergency department and urgent care wait times at hospitals in Calgary, Edmonton and other Alberta cities before you go. | https://www.albertahealthservices.ca/waittimes/waittimes.aspx |
 | Alberta — CPSA Physician Directory | Alberta · Provincial | Physician directory | Look up any Alberta physician, physician assistant or medical student by name: practice location, type of practice, qualifications, permit status and conditions on their practice permit. | https://search.cpsa.ca/ |
+| Alberta — Poison and Drug Information Service (PADIS) | Alberta · Provincial | Poison centre | Alberta Health Services' free, confidential 24/7 advice on poisons, chemicals, medicines and herbal products; serves Alberta, Saskatchewan and the Northwest Territories. | https://www.albertahealthservices.ca/topics/Page11975.aspx |
 | Alberta — Screening for Life | Alberta · Provincial | Health service | Alberta's Screening for Life: the province's population-based cancer screening programs for breast, cervical and colorectal cancer plus the lung cancer screening pilot, with an interactive guide that tells Albertans whether they should start screening, mobile Screen Test mammography and the at-home FIT test. | https://screeningforlife.ca/ |
 | Alberta Find a Provider | Alberta · Provincial | Doctor finder | Search for a family doctor or nurse practitioner in Alberta and follow the practice's own instructions for becoming a patient; now run by Primary Care Alberta (formerly Alberta Find a Doctor). | https://albertafindaprovider.ca/ |
 | Alberta Health Analytics Interactive Data | Alberta · Provincial | Dashboards | Alberta Health dashboard suite: childhood immunization coverage, substance use surveillance, PCN community profiles, surgical initiative performance and national health expenditure comparisons. | https://healthanalytics.alberta.ca/health-analytics.html |
@@ -1786,6 +1789,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario — Drug Benefit Formulary Search | Ontario · Provincial | Drug coverage search | Search any drug to see if it is covered by the Ontario Drug Benefit program, with interchangeable products, prices and limited-use criteria. | https://www.formulary.health.gov.on.ca/formulary/ |
 | Ontario — Find a Doctor | Ontario · Provincial | Finder | Health Care Connect — register to be matched with a family doctor or nurse practitioner | https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner |
 | Ontario — Public Health Unit Locations | Ontario · Provincial | Services directory | Official table of all 34 Ontario public health units with address, phone, toll-free number, website and health region — the place to find your local unit for vaccinations, sexual health, dental and addiction programs. | https://www.ontario.ca/page/public-health-unit-locations |
+| Ontario Poison Centre | Ontario · Provincial | Poison centre | Ontario's 24/7 poison centre, operated by SickKids: expert advice on poison exposures for people of all ages, plus poison prevention guides and a household-hazards directory. | https://www.ontariopoisoncentre.ca/ |
 | Public Health Ontario — Infectious Disease Trends Tool | Ontario · Provincial | Data dashboard | Explore 10+ years of reportable disease cases in Ontario by public health unit, age, sex, hospitalizations and deaths; annual detail plus monthly preliminary snapshots, with exportable tables. | https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/Reportable-Disease-Trends-Annually |
 | Public Health Ontario — Ontario Respiratory Virus Tool | Ontario · Provincial | Interactive dashboard | Explore weekly COVID-19, influenza and RSV activity by public health unit, age group and setting; filter trends and export graph data to CSV. Updated Fridays. | https://www.publichealthontario.ca/en/Data-and-Analysis/Commonly-Used-Products/Respiratory-Virus-Tool |
 | Trillium Gift of Life Network — Organ Donation | Ontario · Provincial | Service | Register as an organ and tissue donor in Ontario | https://www.giftoflife.on.ca/en/ |
@@ -1801,6 +1805,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | RAMQ — Prescription Drug Search | Quebec · Agency | Drug coverage search | RAMQ's search tool for checking whether a prescription drug is covered under Québec's Public Prescription Drug Insurance Plan, whose regularly updated list covers over 9,000 prescription drugs, with coverage status, manufacturer, strength, dosage form and DIN. | https://www.ramq.gouv.qc.ca/en/citizens/prescription-drug-insurance/find-out-whether-a-drug-covered |
+| Centre antipoison du Québec | Quebec · Provincial | Poison centre | Quebec's 24/7 bilingual poison control centre (CIUSSS de la Capitale-Nationale): urgent advice on poisoning, food poisoning and dangerous-substance exposures for the public and health professionals; 1-800-463-5060. | https://www.ciusss-capitalenationale.gouv.qc.ca/en/services/capq |
 | Clic Santé | Quebec · Provincial | Health appointment booking | Quebec's official online health-appointment booking portal: blood tests and specimen collection, vaccinations, screening and other public-health services, searchable by postal code across CLSCs and local points of service. | https://clicsante.ca |
 | Info-Santé 811 (Québec) | Quebec · Provincial | Health service | Québec's free 811 telephone consultation service for non-urgent health questions, staffed by nurses | https://www.quebec.ca/en/health/finding-a-resource/info-sante-811 |
 | INSPQ — Indicateurs de santé publique | Quebec · Provincial | Data portal | INSPQ surveillance portal of population-health indicators: mortality, chronic and infectious disease, mental health, life habits, social inequalities; dynamic charts filterable by age, sex and region. | https://www.inspq.qc.ca/indicateur |
@@ -1846,6 +1851,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | PEI — Pharmacare | Prince Edward Island · Provincial | Drug coverage search | PEI Pharmacare hub: provincial drug coverage programs, eligibility, and how residents apply for prescription drug benefits. | https://www.princeedwardisland.ca/en/topic/health-and-wellness/pharmacare |
 | Prince Edward Island — 811 Telehealth | Prince Edward Island · Provincial | Health service | Prince Edward Island's 8-1-1 telehealth service: a registered nurse is available 24 hours a day to answer health questions, help callers decide whether they need emergency or non-urgent care, and guide them to health services in the province. | https://www.princeedwardisland.ca/en/information/health-and-wellness/811-telehealth |
 | Prince Edward Island — CPSPEI Public Directory | Prince Edward Island · Provincial | Physician directory | Search the Prince Edward Island College of Physicians and Surgeons public directory of physicians with annual or provisional licences and medical residents. | https://cpspei.alinityapp.com/client/publicdirectory |
+| Atlantic Canada Poison Centre | Nova Scotia · Regional | Poison centre | 24-hour phone consultation service for poisonings for the public and health professionals, based at IWK Health in Halifax and serving Nova Scotia, Prince Edward Island and Newfoundland and Labrador. | https://atlanticcanadapoisoncentre.ca/ |
 
 ### Northern Canada (YT, NT, NU)
 

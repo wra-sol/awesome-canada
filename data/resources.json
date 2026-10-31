@@ -43273,5 +43273,102 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Ontario Poison Centre",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "health",
+    "type": "Poison centre",
+    "description": "Ontario's 24/7 poison centre, operated by SickKids: expert advice on poison exposures for people of all ages, plus poison prevention guides and a household-hazards directory.",
+    "url": "https://www.ontariopoisoncentre.ca/",
+    "tags": [
+      "Ontario",
+      "poison",
+      "health",
+      "emergency"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
+    "name": "BC Drug and Poison Information Centre (DPIC)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Poison centre",
+    "description": "BC's 24-hour poison information line for the public, serving BC and Yukon, plus drug information for health professionals and free poison prevention materials.",
+    "url": "https://www.dpic.org/",
+    "tags": [
+      "British Columbia",
+      "poison",
+      "health",
+      "emergency"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
+    "name": "Alberta — Poison and Drug Information Service (PADIS)",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "health",
+    "type": "Poison centre",
+    "description": "Alberta Health Services' free, confidential 24/7 advice on poisons, chemicals, medicines and herbal products; serves Alberta, Saskatchewan and the Northwest Territories.",
+    "url": "https://www.albertahealthservices.ca/topics/Page11975.aspx",
+    "tags": [
+      "Alberta",
+      "poison",
+      "health",
+      "emergency"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
+    "name": "Centre antipoison du Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Poison centre",
+    "description": "Quebec's 24/7 bilingual poison control centre (CIUSSS de la Capitale-Nationale): urgent advice on poisoning, food poisoning and dangerous-substance exposures for the public and health professionals; 1-800-463-5060.",
+    "url": "https://www.ciusss-capitalenationale.gouv.qc.ca/en/services/capq",
+    "tags": [
+      "Quebec",
+      "poison",
+      "health",
+      "emergency"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
+    "name": "Atlantic Canada Poison Centre",
+    "level": "Regional",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Poison centre",
+    "description": "24-hour phone consultation service for poisonings for the public and health professionals, based at IWK Health in Halifax and serving Nova Scotia, Prince Edward Island and Newfoundland and Labrador.",
+    "url": "https://atlanticcanadapoisoncentre.ca/",
+    "tags": [
+      "Nova Scotia",
+      "poison",
+      "health",
+      "emergency",
+      "Atlantic"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
+    "name": "Canadian Association for Poison Centres and Clinical Toxicology — Poison Centre Directory",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Directory",
+    "description": "National directory of Canada's five poison centres with contact details, plus the Canada-wide toll-free poison number 1-844-POISON-X (1-844-764-7669).",
+    "url": "https://infopoison.ca/centres/",
+    "tags": [
+      "poison",
+      "health",
+      "emergency",
+      "directory"
+    ],
+    "dateAdded": "2026-10-31"
   }
 ]
