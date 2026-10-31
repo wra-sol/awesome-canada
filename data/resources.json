@@ -1460,21 +1460,6 @@
     ]
   },
   {
-    "name": "Canada Workers Benefit",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "benefits",
-    "type": "Tax benefit",
-    "description": "Refundable tax credit for low-income workers and families to help offset employment costs",
-    "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-workers-benefit.html",
-    "tags": [
-      "workers",
-      "tax credit",
-      "low income",
-      "benefits"
-    ]
-  },
-  {
     "name": "Canada.ca — Benefits Payment Calendar",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -17214,6 +17199,23 @@
     ]
   },
   {
+    "name": "ATIP Online Request Service",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "gov-services",
+    "type": "Request portal",
+    "description": "Submit access to information or personal information requests online to federal institutions under the Access to Information Act and Privacy Act, and pay the $5 access fee online.",
+    "url": "https://atip-aiprp.apps.gc.ca/",
+    "tags": [
+      "access-to-information",
+      "atip",
+      "privacy",
+      "records",
+      "federal"
+    ],
+    "dateAdded": "2026-10-30"
+  },
+  {
     "name": "Code for Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -17498,6 +17500,23 @@
     ]
   },
   {
+    "name": "Alberta — Access to Information Request Service (eServices)",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "gov-services",
+    "type": "Request portal",
+    "description": "Submit general access to information requests to Government of Alberta departments online under Alberta's Access to Information Act, with the $25 initial fee paid through eServices.",
+    "url": "https://eservices.alberta.ca/ati-request.html",
+    "tags": [
+      "Alberta",
+      "access-to-information",
+      "ati",
+      "records",
+      "foip"
+    ],
+    "dateAdded": "2026-10-30"
+  },
+  {
     "name": "Alberta Find a Registry Agent",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -17555,6 +17574,22 @@
       "BC",
       "documentation"
     ]
+  },
+  {
+    "name": "BC — Submit a Personal Freedom of Information Request",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "gov-services",
+    "type": "Request portal",
+    "description": "Submit a personal freedom of information request to a BC government ministry or agency online, with BC Services Card identity verification for electronic delivery of records.",
+    "url": "https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information/submit-a-personal-freedom-of-information-request",
+    "tags": [
+      "British Columbia",
+      "foi",
+      "personal information",
+      "records"
+    ],
+    "dateAdded": "2026-10-30"
   },
   {
     "name": "BC Services Card",
@@ -20696,6 +20731,23 @@
     "dateAdded": "2026-09-28"
   },
   {
+    "name": "Saskatchewan — CPSS Physician Search",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Search the College of Physicians and Surgeons of Saskatchewan public physician register by last name and other criteria; the last provincial physician register missing from the catalog, completing the 10-province set.",
+    "url": "https://www.cps.sk.ca/imis/web/Public/Physician_Search/web/PhysicianSearch/CPSS_Physician_Search_Landing_.aspx?hkey=10589c35-ac43-427b-968f-117fceac1ec6",
+    "tags": [
+      "physician",
+      "directory",
+      "saskatchewan",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-30"
+  },
+  {
     "name": "Saskatchewan — Drug Plan Formulary Search",
     "level": "Provincial",
     "jurisdiction": "Saskatchewan",
@@ -20757,6 +20809,23 @@
       "eHealth",
       "digital health"
     ]
+  },
+  {
+    "name": "Yukon — Check if a Physician is Licensed",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "health",
+    "type": "Physician directory",
+    "description": "Check whether a physician is licensed to practise in Yukon via the Yukon Medical Council's public lookup tool.",
+    "url": "https://www.yukonmedicalcouncil.ca/index.php/public/check-if-a-physician-is-licensed",
+    "tags": [
+      "physician",
+      "directory",
+      "yukon",
+      "licence",
+      "register"
+    ],
+    "dateAdded": "2026-10-30"
   },
   {
     "name": "Yukon — HealthLine 811",
@@ -43204,89 +43273,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Saskatchewan — CPSS Physician Search",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "health",
-    "type": "Physician directory",
-    "description": "Search the College of Physicians and Surgeons of Saskatchewan public physician register by last name and other criteria; the last provincial physician register missing from the catalog, completing the 10-province set.",
-    "url": "https://www.cps.sk.ca/imis/web/Public/Physician_Search/web/PhysicianSearch/CPSS_Physician_Search_Landing_.aspx?hkey=10589c35-ac43-427b-968f-117fceac1ec6",
-    "tags": [
-      "physician",
-      "directory",
-      "saskatchewan",
-      "licence",
-      "register"
-    ],
-    "dateAdded": "2026-10-30"
-  },
-  {
-    "name": "Yukon — Check if a Physician is Licensed",
-    "level": "Provincial",
-    "jurisdiction": "Yukon",
-    "category": "health",
-    "type": "Physician directory",
-    "description": "Check whether a physician is licensed to practise in Yukon via the Yukon Medical Council's public lookup tool.",
-    "url": "https://www.yukonmedicalcouncil.ca/index.php/public/check-if-a-physician-is-licensed",
-    "tags": [
-      "physician",
-      "directory",
-      "yukon",
-      "licence",
-      "register"
-    ],
-    "dateAdded": "2026-10-30"
-  },
-  {
-    "name": "ATIP Online Request Service",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "gov-services",
-    "type": "Request portal",
-    "description": "Submit access to information or personal information requests online to federal institutions under the Access to Information Act and Privacy Act, and pay the $5 access fee online.",
-    "url": "https://atip-aiprp.apps.gc.ca/",
-    "tags": [
-      "access-to-information",
-      "atip",
-      "privacy",
-      "records",
-      "federal"
-    ],
-    "dateAdded": "2026-10-30"
-  },
-  {
-    "name": "BC — Submit a Personal Freedom of Information Request",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "gov-services",
-    "type": "Request portal",
-    "description": "Submit a personal freedom of information request to a BC government ministry or agency online, with BC Services Card identity verification for electronic delivery of records.",
-    "url": "https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information/submit-a-personal-freedom-of-information-request",
-    "tags": [
-      "British Columbia",
-      "foi",
-      "personal information",
-      "records"
-    ],
-    "dateAdded": "2026-10-30"
-  },
-  {
-    "name": "Alberta — Access to Information Request Service (eServices)",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "gov-services",
-    "type": "Request portal",
-    "description": "Submit general access to information requests to Government of Alberta departments online under Alberta's Access to Information Act, with the $25 initial fee paid through eServices.",
-    "url": "https://eservices.alberta.ca/ati-request.html",
-    "tags": [
-      "Alberta",
-      "access-to-information",
-      "ati",
-      "records",
-      "foip"
-    ],
-    "dateAdded": "2026-10-30"
   }
 ]
