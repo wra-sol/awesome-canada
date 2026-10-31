@@ -27615,20 +27615,6 @@
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Nunavut Open Data Portal",
-    "level": "Provincial",
-    "jurisdiction": "Nunavut",
-    "category": "open-data",
-    "type": "Territorial open data",
-    "description": "Government of Nunavut open data portal for territorial datasets and spatial information.",
-    "url": "https://www.gov.nu.ca/information/open-data",
-    "tags": [
-      "nunavut",
-      "open data",
-      "territorial"
-    ]
-  },
-  {
     "name": "Ministry of Finance — Ontario Population Projections",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -43368,6 +43354,53 @@
       "health",
       "emergency",
       "directory"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
+    "name": "Health Canada — Radon: Is It in Your Home?",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Factsheet",
+    "description": "Health Canada factsheet on radon, the leading cause of lung cancer for non-smokers: the 200 Bq/m3 Canadian guideline, how to test a home with a long-term (3+ month) kit, and how mitigation cuts levels.",
+    "url": "https://www.canada.ca/en/health-canada/services/environmental-workplace-health/reports-publications/radiation/radon-is-it-in-you-home-information-health-professionals.html",
+    "tags": [
+      "radon",
+      "lung cancer",
+      "home safety",
+      "environmental health"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
+    "name": "Héma-Québec — Donate Blood",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Service",
+    "description": "Québec's blood agency (separate from Canadian Blood Services): check eligibility, find blood drives and donor centres, and book a blood, plasma or platelet donation — 1,000 donations needed daily for Québec hospitals.",
+    "url": "https://www.hemaquebec.ca/",
+    "tags": [
+      "blood",
+      "donation",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
+    "name": "Nova Scotia — Organ and Tissue Donation",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Organ donor registry",
+    "description": "Register your organ and tissue donation decision — or opt out — under Nova Scotia's deemed-consent law (in effect since January 2021, the first in North America); decisions are recorded on the health card.",
+    "url": "https://www.novascotia.ca/organ-and-tissue-donation",
+    "tags": [
+      "organ donation",
+      "donor registry",
+      "nova scotia",
+      "deemed consent"
     ],
     "dateAdded": "2026-10-31"
   }

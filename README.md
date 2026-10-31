@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2736 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2738 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 220
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 219
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 103
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 62
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 55
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
-- [🩺 Health & Wellness](#health-and-wellness) — 150
+- [🩺 Health & Wellness](#health-and-wellness) — 153
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 57
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
@@ -324,7 +324,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Northwest Territories Open Data | Northwest Territories · Provincial | Territorial open data | GNWT open data catalogue with territorial datasets on infrastructure, environment, and community services. | https://opendata.gov.nt.ca/ |
 | NWT Bureau of Statistics | Northwest Territories · Provincial | Statistics portal | Official GNWT statistics: population estimates by community, CPI, labour force surveys, GDP, health, education and justice indicators, plus time-series retrieval and quarterly publications. | https://www.statsnwt.ca/ |
 | Government of Nunavut — Bureau of Statistics | Nunavut · Provincial | Statistics portal | Nunavummit Kiglisiniartiit publications: statistical fact sheets for every community plus population, labour force, income, health, education and housing-survey tables. | https://www.gov.nu.ca/en/nunavut-statistics |
-| Nunavut Open Data Portal | Nunavut · Provincial | Territorial open data | Government of Nunavut open data portal for territorial datasets and spatial information. | https://www.gov.nu.ca/information/open-data |
 | Government of Yukon — GeoYukon Map Viewer | Yukon · Provincial | Interactive GIS map & data downloads | Explore, measure, print and download the Yukon government's authoritative spatial layers — mining claims, land tenure, forestry, wildlife, air photos and more — free in a browser viewer. | https://mapservices.gov.yk.ca/GeoYukon/ |
 | Yukon Open Data | Yukon · Provincial | Open data portal | Yukon government open data catalogue with datasets on environment, infrastructure, health, and demographics | https://open.yukon.ca/ |
 | Whitehorse Open Data | Whitehorse · Municipal | Open data portal | Spatial datasets for Whitehorse including contours, parcels, roads, and aerial imagery in SHP, DWG, and KML formats. | https://data.whitehorse.ca/ |
@@ -1693,6 +1692,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Health Canada — Medical Devices Establishment Licence (MDEL) Listing | Canada · Federal | Licence registry search | Health Canada's searchable listing of active Medical Device Establishment Licences, issued to Class I manufacturers and to importers or distributors of all device classes; search by licence number, company, activity, country and province to see authorized activities and device classes. | https://health-products.canada.ca/mdel-leim/index-eng.jsp |
 | Health Canada — Notice of Compliance (NOC) API | Canada · Federal | Data API | Query the Notice of Compliance database for drugs authorized for sale in Canada — NOC numbers, dates, manufacturers and product details in JSON or XML, updated nightly. | https://health-products.canada.ca/api/notice-of-compliance/ |
 | Health Canada — Pesticide Product and Label Search | Canada · Federal | Searchable product registry | Search all pesticide products registered in Canada by name, registrant, or active ingredient, including full label text and reported incident data. | https://pest-control.canada.ca/pesticide-registry/en/product-search.html |
+| Health Canada — Radon: Is It in Your Home? | Canada · Federal | Factsheet | Health Canada factsheet on radon, the leading cause of lung cancer for non-smokers: the 200 Bq/m3 Canadian guideline, how to test a home with a long-term (3+ month) kit, and how mitigation cuts levels. | https://www.canada.ca/en/health-canada/services/environmental-workplace-health/reports-publications/radiation/radon-is-it-in-you-home-information-health-professionals.html |
 | Health Canada — Supervised Consumption Sites Dashboard | Canada · Federal | Dashboard | Health Canada dashboard summarizing data reported by every federally exempted supervised consumption site in Canada, including a site map, visits and unique clients, drugs used, non-fatal overdoses and naloxone use, and services and referrals provided. | https://health-infobase.canada.ca/supervised-consumption-sites/ |
 | Hope for Wellness Helpline | Canada · Federal | Crisis helpline | The Hope for Wellness Helpline offers immediate mental-health counselling and crisis intervention to all Indigenous people across Canada, 24/7, by phone at 1-855-242-3310 or online chat, in English and French and on request in Cree, Ojibway and Inuktitut. | https://www.hopeforwellness.ca/ |
 | Kids Help Phone | Canada · Federal | Crisis helpline | Canada's only 24/7 e-mental-health service for young people: free confidential phone, text and online chat support with trained counsellors, in English and French. | https://kidshelpphone.ca/ |
@@ -1807,6 +1807,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | RAMQ — Prescription Drug Search | Quebec · Agency | Drug coverage search | RAMQ's search tool for checking whether a prescription drug is covered under Québec's Public Prescription Drug Insurance Plan, whose regularly updated list covers over 9,000 prescription drugs, with coverage status, manufacturer, strength, dosage form and DIN. | https://www.ramq.gouv.qc.ca/en/citizens/prescription-drug-insurance/find-out-whether-a-drug-covered |
 | Centre antipoison du Québec | Quebec · Provincial | Poison centre | Quebec's 24/7 bilingual poison control centre (CIUSSS de la Capitale-Nationale): urgent advice on poisoning, food poisoning and dangerous-substance exposures for the public and health professionals; 1-800-463-5060. | https://www.ciusss-capitalenationale.gouv.qc.ca/en/services/capq |
 | Clic Santé | Quebec · Provincial | Health appointment booking | Quebec's official online health-appointment booking portal: blood tests and specimen collection, vaccinations, screening and other public-health services, searchable by postal code across CLSCs and local points of service. | https://clicsante.ca |
+| Héma-Québec — Donate Blood | Quebec · Provincial | Service | Québec's blood agency (separate from Canadian Blood Services): check eligibility, find blood drives and donor centres, and book a blood, plasma or platelet donation — 1,000 donations needed daily for Québec hospitals. | https://www.hemaquebec.ca/ |
 | Info-Santé 811 (Québec) | Quebec · Provincial | Health service | Québec's free 811 telephone consultation service for non-urgent health questions, staffed by nurses | https://www.quebec.ca/en/health/finding-a-resource/info-sante-811 |
 | INSPQ — Indicateurs de santé publique | Quebec · Provincial | Data portal | INSPQ surveillance portal of population-health indicators: mortality, chronic and infectious disease, mental health, life habits, social inequalities; dynamic charts filterable by age, sex and region. | https://www.inspq.qc.ca/indicateur |
 | MSSS — Emergency Room Hourly Occupancy Data | Quebec · Provincial | Open data feed | Hourly CSV from the provincial ER console: stretcher patients per facility, plus counts waiting 24h/48h+ across every Quebec hospital; refreshed continuously as part of open government. | https://msss.gouv.qc.ca/professionnels/statistiques-donnees-services-sante-services-sociaux/donnees-urgences/ |
@@ -1837,6 +1838,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NL Health Services — Book an Online Appointment | Newfoundland and Labrador · Provincial | Health appointment booking | Concrete booking instructions for NL Health Services: online blood-collection booking at four named clinics (no account required), flu and COVID-19 vaccine appointments by health authority region with phone lines, and hospital appointment contacts. | https://nlhealthservices.ca/find-health-care/book-an-online-appointment/ |
 | Nova Scotia — Beaches: Monitoring and Sampling | Nova Scotia · Provincial | Beach water quality tracker | Nova Scotia's beach monitoring program: provincially supervised beaches are regularly sampled for bacteriological water quality (E. coli in fresh water, enterococci in salt water), and swimming advisories are issued when bacteria exceed national recreational water quality guidelines. | https://novascotia.ca/nse/environmental-health/beaches.asp |
 | Nova Scotia — CPSNS Registrant Search | Nova Scotia · Provincial | Physician directory | Search the Nova Scotia College of Physicians and Surgeons registrant database by name, location, zone, specialty, licence type or language. | https://cpsnsphysiciansearch.azurewebsites.net/ |
+| Nova Scotia — Organ and Tissue Donation | Nova Scotia · Provincial | Organ donor registry | Register your organ and tissue donation decision — or opt out — under Nova Scotia's deemed-consent law (in effect since January 2021, the first in North America); decisions are recorded on the health card. | https://www.novascotia.ca/organ-and-tissue-donation |
 | Nova Scotia — Pharmacare | Nova Scotia · Provincial | Drug coverage search | Nova Scotia Pharmacare hub: provincial drug coverage programs, eligibility, and how to apply for prescription drug benefits. | https://novascotia.ca/dhw/pharmacare/ |
 | Nova Scotia — Register Your Organ and Tissue Donation Decision | Nova Scotia · Provincial | Donation registry | Register or change your organ and tissue donation decision online with a Nova Scotia Health Card, including opting out under the province's deemed-consent law; decision is recorded in the Health Card Registry. | https://www.novascotia.ca/register-your-organ-and-tissue-donation-decision |
 | Nova Scotia — Wait Time Information | Nova Scotia · Provincial | Wait-time lookup | Compare wait times for 150+ surgical procedures, MRI/CT scans, cancer care and mental health services across Nova Scotia to find the shortest-wait locations. | https://waittimes.novascotia.ca/ |
