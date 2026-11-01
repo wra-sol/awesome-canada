@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2732 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2736 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -39,7 +39,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
 - [🩺 Health & Wellness](#health-and-wellness) — 153
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 57
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 61
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 58
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
@@ -2006,6 +2006,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Manitoba — 55 PLUS Program | Manitoba · Provincial | Benefit application | Manitoba income supplement paying quarterly benefits (up to $161.80/quarter single) to lower-income Manitobans 55+; eligibility from the previous year's tax return. Those not on OAS apply with a downloadable application form (junior component for 55-64 non-OAS recipients); OAS recipients are assessed automatically. | https://www.manitoba.ca/fs/cfs/print,55-plus.html |
 | Manitoba — Employment and Income Assistance (EIA) | Manitoba · Provincial | Income assistance | Manitoba's social assistance program: money for basic needs and Rent Assist for Manitobans with no other way to support themselves or their families, with payment dates, how to apply in Winnipeg and rural/northern Manitoba, and disability and single-parent categories. | https://www.gov.mb.ca/fs/eia/ |
 | Manitoba — Rent Assist Estimator | Manitoba · Provincial | Calculator | Estimate monthly Rent Assist shelter benefits for low-income private renters — compares 80% of median market rent against 30% of net household income by household size. | https://gov.mb.ca/fs/eia/estimator.html |
 
@@ -2016,6 +2017,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | 211 Ontario | Ontario · Agency | Service finder | Ontario's 211 service: search the provincial database of community, health, social and government services by topic and location, find your regional 211 service, or reach a navigator by phone, text, chat or email at any hour. | https://211ontario.ca/ |
 | Ontario Electricity Support Program (OESP) | Ontario · Agency | Program portal + application | Monthly on-bill electricity credit for low-income Ontario households, with eligibility thresholds, credit amounts and online application. | https://www.oeb.ca/consumer-information-and-protection/bill-assistance-programs/ontario-electricity-support-program |
 | Ontario — Find Benefits and Programs | Ontario · Provincial | Service finder | Ontario's guided benefits finder on ontario.ca: answer a short questionnaire about your situation to get a personalized list of provincial benefits and programs you may qualify for — health, housing, child care, dental, education, income and disability supports. | https://www.ontario.ca/page/find-benefits-and-programs |
+| Ontario — Seniors Dental Care Program (OSDCP) | Ontario · Provincial | Benefit application | Ontario's publicly funded dental care program for low-income seniors 65+: free routine dental care (check-ups, fillings, X-rays, dentures). Seniors apply online at ontario.ca/SeniorsDental, or by mail via a public health unit; eligibility is 65+, Ontario resident, net income $25,480 or less single / $42,290 or less couple, no other dental benefits apart from CDCP. | https://www.ontario.ca/page/dental-care-seniors |
 | Ontario Disability Support Program (ODSP) | Ontario · Provincial | Social assistance | Apply for ODSP income and employment supports for people with disabilities in Ontario | https://www.ontario.ca/page/ontario-disability-support-program |
 | Ontario GeoHub | Ontario · Provincial | GIS / map portal | Ontario's geographic data and interactive map hub | https://geohub.lio.gov.on.ca/ |
 | Ontario Works (OW) | Ontario · Provincial | Social assistance | Apply for financial and employment assistance under Ontario Works | https://www.ontario.ca/page/ontario-works |
@@ -2036,11 +2038,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | New Brunswick — Financial Help Calculator | New Brunswick · Provincial | Calculator | Social Development New Brunswick's official financial help calculator: answer questions about your household and income to estimate the provincial financial help and social assistance you may qualify for before you apply. | https://nbsocialdevelopment.my.site.com/calculator/s/?language=en_US |
+| New Brunswick — Low-Income Seniors' Benefit | New Brunswick · Provincial | Benefit application | Annual $629 benefit (2026) for low-income New Brunswick seniors: must be 60+, a NB resident on Dec 31 of the prior year, and a recipient of GIS, the Allowance, or the Allowance for the Survivor. Applications are submitted online (or by mail to Service New Brunswick) with a Dec 31, 2026 deadline. | https://www2.gnb.ca/content/gnb/en/corporate/promo/new-brunswick-low-income-seniors-benefit.html |
 | New Brunswick — Social Assistance Program | New Brunswick · Provincial | Income assistance | New Brunswick's Social Assistance Program service page on gnb.ca: monthly help with basic needs such as food, rent, utilities and clothing for residents in financial need, plus related supports like childcare, transportation and prescription drugs, and how to start an application. | https://www2.gnb.ca/content/gnb/en/services/services_renderer.10295.Social_Assistance_Program.html |
 | Social Supports NB | New Brunswick · Provincial | Service finder | New Brunswick's official social-supports portal: browse programs by need — social assistance, disability support, seniors, housing and long-term care — check eligibility, use the financial help calculator, and apply online through the province's Social Development services. | https://socialsupportsnb.ca/ |
 | Newfoundland and Labrador — Accessible Vehicle Funding | Newfoundland and Labrador · Provincial | Program | Provincial funding program helping people with disabilities obtain accessible vehicles, for NL residents applying for support and researchers of disability programs. | https://www.gov.nl.ca/sswb/disabilities/accessible-vehicle-funding/ |
 | Newfoundland and Labrador — Income Support Program | Newfoundland and Labrador · Provincial | Income assistance | Newfoundland and Labrador's Income Support Program: last-resort financial help for basic needs for residents 18 and older, with eligibility rules, the telephone application (1-877-729-7888), required documents, and basic rates by family and living arrangement. | https://www.gov.nl.ca/sswb/income-support/ |
 | Nova Scotia — Income Assistance: How to Apply | Nova Scotia · Provincial | Income assistance | Nova Scotia's Income Assistance application page under Employment Support and Income Assistance (ESIA): who can receive it, the documents to have ready, how to apply by phone or at a local office, and faster help in an emergency. | https://novascotia.ca/coms/employment/income_assistance/HowtoApply.html |
+| Nova Scotia — Property Tax Rebate for Seniors | Nova Scotia · Provincial | Rebate application | Rebate of 50% of the previous year's municipal residential property taxes, up to $800, for low-income senior homeowners who receive or are eligible for GIS or the Allowance. Apply with the rebate application (by mail or Access Nova Scotia drop-off) by December 31, 2026. | https://www.novascotia.ca/apply-property-tax-rebate-property-tax-rebate-seniors |
 | Prince Edward Island — AccessAbility Supports | Prince Edward Island · Provincial | Disability supports | PEI's disability support program for residents under 65: financial assistance including Assured Income, plus personal, housing, community and employment supports, with a screening call and coordinator assessment to apply. | https://www.princeedwardisland.ca/en/information/social-development-and-seniors/accessability-supports |
 | Prince Edward Island — Social Assistance Program | Prince Edward Island · Provincial | Income assistance | PEI's Social Assistance Program: financial help with food, clothing, shelter, childcare, medicine and other essentials for Islanders 18 and older whose income cannot cover basic living costs, with the screening line and appointment process to apply. | https://www.princeedwardisland.ca/en/information/social-development-and-seniors/social-assistance-program |
 

@@ -43311,5 +43311,69 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Ontario — Seniors Dental Care Program (OSDCP)",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "Ontario's publicly funded dental care program for low-income seniors 65+: free routine dental care (check-ups, fillings, X-rays, dentures). Seniors apply online at ontario.ca/SeniorsDental, or by mail via a public health unit; eligibility is 65+, Ontario resident, net income $25,480 or less single / $42,290 or less couple, no other dental benefits apart from CDCP.",
+    "url": "https://www.ontario.ca/page/dental-care-seniors",
+    "tags": [
+      "seniors",
+      "dental",
+      "benefits",
+      "Ontario"
+    ],
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "name": "New Brunswick — Low-Income Seniors' Benefit",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "Annual $629 benefit (2026) for low-income New Brunswick seniors: must be 60+, a NB resident on Dec 31 of the prior year, and a recipient of GIS, the Allowance, or the Allowance for the Survivor. Applications are submitted online (or by mail to Service New Brunswick) with a Dec 31, 2026 deadline.",
+    "url": "https://www2.gnb.ca/content/gnb/en/corporate/promo/new-brunswick-low-income-seniors-benefit.html",
+    "tags": [
+      "seniors",
+      "benefits",
+      "income supplement",
+      "New Brunswick"
+    ],
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "name": "Manitoba — 55 PLUS Program",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "benefits",
+    "type": "Benefit application",
+    "description": "Manitoba income supplement paying quarterly benefits (up to $161.80/quarter single) to lower-income Manitobans 55+; eligibility from the previous year's tax return. Those not on OAS apply with a downloadable application form (junior component for 55-64 non-OAS recipients); OAS recipients are assessed automatically.",
+    "url": "https://www.manitoba.ca/fs/cfs/print,55-plus.html",
+    "tags": [
+      "seniors",
+      "benefits",
+      "income supplement",
+      "Manitoba"
+    ],
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "name": "Nova Scotia — Property Tax Rebate for Seniors",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "benefits",
+    "type": "Rebate application",
+    "description": "Rebate of 50% of the previous year's municipal residential property taxes, up to $800, for low-income senior homeowners who receive or are eligible for GIS or the Allowance. Apply with the rebate application (by mail or Access Nova Scotia drop-off) by December 31, 2026.",
+    "url": "https://www.novascotia.ca/apply-property-tax-rebate-property-tax-rebate-seniors",
+    "tags": [
+      "seniors",
+      "property tax",
+      "rebate",
+      "Nova Scotia"
+    ],
+    "dateAdded": "2026-11-01"
   }
 ]
