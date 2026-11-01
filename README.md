@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2738 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2732 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,21 +19,21 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 219
-- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 103
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 216
+- [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
 - [🪪 Government Services & ID](#government-services-and-id) — 95
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 43
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 44
 - [🏢 Business & Procurement](#business-and-procurement) — 66
-- [💼 Employment & Labour](#employment-and-labour) — 69
+- [💼 Employment & Labour](#employment-and-labour) — 68
 - [🎓 Education & Student Aid](#education-and-student-aid) — 62
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 55
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
@@ -57,7 +57,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 74
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 49
-- [🎖️ Veterans & Military](#veterans-and-military) — 38
+- [🎖️ Veterans & Military](#veterans-and-military) — 37
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 99
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 31
 
@@ -276,11 +276,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Repentigny Open Data Portal (ArcGIS Hub) | Repentigny · Municipal | Open data hub | ArcGIS Hub open data portal for Repentigny with downloadable GIS datasets (CSV, GeoJSON, Shapefile) and REST/OGC API access — owner georepentigny, ~430 datasets. Verified live via the OGC items API returning HTTP 200. | https://repentigny.opendata.arcgis.com/ |
 | Rimouski Open Data Portal (ArcGIS Hub) | Rimouski · Municipal | Open data hub | ArcGIS Hub open data portal for Rimouski with downloadable GIS datasets (CSV, GeoJSON, Shapefile) and REST/OGC API access — owner Geo_Rimouski, 129 datasets incl. the five-year development plan and boil-water notices. Verified live via the OGC items API returning HTTP 200. | https://rimouski.opendata.arcgis.com/ |
 | Rouyn-Noranda Open Data Portal (ArcGIS Hub) | Rouyn-Noranda · Municipal | Open data portal | ArcGIS Hub with 19 Feature Service datasets (CC-BY-4.0) including the zoning plan (plan de zonage), property assessment units (unités d'évaluation), building footprints (empreintes de bâtiments), transit stops and bus routes, road network, bike network, hydrography, electoral districts, and water protection areas. Query datasets via the OGC API at /api/search/v1/collections/all/items or download as GeoJSON/CSV from each dataset's landing page. First open data entry for Rouyn-Noranda. | https://donnees-ouvertes-vrn.opendata.arcgis.com/ |
-| Saguenay Bâtiments — Données Québec | Saguenay · Municipal | Buildings dataset | Municipal building footprints for Saguenay — download as CSV, GeoJSON, or shapefile from the provincial open data portal. | https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay&q=b%C3%A2timent |
-| Ville de Saguenay — Données Québec | Saguenay · Municipal | Open data catalogue | Saguenay open data on Données Québec — zoning, buildings, roads, parks, addresses, and tree inventory with CSV/SHP/GeoJSON export. | https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay |
 | Shawinigan Open Data Portal (ArcGIS Hub) | Shawinigan · Municipal | Open data hub | ArcGIS Hub open data portal for Shawinigan with downloadable GIS datasets (CSV, GeoJSON, Shapefile) and REST/OGC API access — French-language municipal layers incl. waste collection routes and overnight parking bans, 12 datasets. Verified live via the OGC items API returning HTTP 200. | https://shawinigan.opendata.arcgis.com/ |
 | Sherbrooke — Buildings Open Dataset | Sherbrooke · Municipal | Dataset | GeoJSON/Shapefile download of buildings in Sherbrooke categorized by type (commercial, hospital, school, municipal building). Useful for urban planning, facility mapping, and accessibility analysis. | https://donneesouvertes-sherbrooke.opendata.arcgis.com/datasets/28f4f1b83ab243ddb48221f784378337_0/explore |
-| Ville de Trois-Rivières — Données Québec | Trois-Rivières · Municipal | Open data catalogue | Trois-Rivières datasets on Données Québec — zoning, roads, buildings, and infrastructure in CSV, SHP, and GeoJSON with weekly updates. | https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-trois-rivieres |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -446,7 +443,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Lévis Zonage — Données Québec | Lévis · Municipal | Zoning dataset | Municipal zoning boundaries for Lévis — download GeoJSON, shapefile, or FGDB; updated on Données Québec with CC-BY licence. | https://www.donneesquebec.ca/recherche/fr/dataset/6cd041e3-902c-469e-a863-e54f4df966f2 |
 | Longueuil — Industrial Zones | Longueuil · Municipal | Dataset | GeoJSON/Shapefile download mapping industrial zones across Longueuil. Useful for site selection, economic development research, and land-use planning. | https://geohub-longueuil.opendata.arcgis.com/datasets/zones-industrielles/explore |
 | Montreal Building Permits Open Data | Montreal · Municipal | Building permits dataset | Construction, transformation, and demolition permits issued by Montreal boroughs — download CSV, GeoJSON, or SHP from Données Montréal. | https://donnees.montreal.ca/dataset/permis-construction |
-| Quebec City Building Permits Open Data | Quebec City · Municipal | Building permits | Quebec City construction and renovation permits on the municipal open data portal. | https://www.donneesquebec.ca/recherche/dataset?organization=ville-de-quebec |
 | Repentigny — Plan de zonage interactif | Repentigny · Municipal | Carte interactive | Interactive zoning map of Repentigny: search by address or zone number to view applicable regulations and usage grids. | https://repentigny.maps.arcgis.com/apps/instant/sidebar/index.html?appid=e387d026f0524052bf4ebc6ff87733b2 |
 | Saguenay Zonage — Données Québec | Saguenay · Municipal | Zoning dataset | Saguenay municipal zoning polygons — weekly-updated CSV, GeoJSON, and shapefile downloads via Données Québec. | https://www.donneesquebec.ca/recherche/dataset/sag_zonage |
 | Sherbrooke — Cartes interactives (hub) | Sherbrooke · Municipal | Portail cartographique | Central hub for 10+ interactive maps: zoning, cadastre, sports fields, bike paths, power outages, public safety, and river water quality. | https://www.sherbrooke.ca/fr/services-a-la-population/cartes-interactives |
@@ -1353,7 +1349,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | CNESST — Online Complaint Filing (Dépôt d'une plainte) | Quebec · Provincial | Self-service portal | Start an official CNESST complaint online: guided eligibility questionnaire routes unpaid wages, harassment, reprisal and other labour standards recours. | https://www.cnesst.gouv.qc.ca/fr/service-clientele/plaintes-recours/depot-plainte |
 | CNESST — Premium Rate Lookup (Taux de prime) | Quebec · Provincial | Lookup tool | Look up Quebec workplace-safety insurance premium rates per $100 payroll by classification unit; official annual Table des taux PDF and rate components. | https://www.cnesst.gouv.qc.ca/fr/demarches-formulaires/employeurs/assurance-sante-securite-travail/tarification/taux-prime |
-| CNESST — Quebec Labour Standards | Quebec · Provincial | Regulator | Quebec commission on labour standards, pay equity, occupational health, and work accidents — open data portal with downloadable datasets on workplace injuries, active establishments, and accepted deaths | https://www.donneesquebec.ca/recherche/dataset?organization=cnesst |
 
 ### Atlantic Canada (NB, NS, PE, NL)
 
@@ -4105,7 +4100,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Canadian Armed Forces — Forces.ca Careers | Canada · Federal | Careers | CAF occupations, enrolment steps, and serving-member resources | https://forces.ca/ |
 | Canadian Forces Morale and Welfare Services | Canada · Federal | Services | CFMWS programs, family services, CANEX discounts, and SISIP financial services | https://www.cfmws.ca/ |
-| Canadian Military Journal — Archive | Canada · Federal | Journal archive | Read the CAF and DND's quarterly professional journal online, with a full back-issue archive of peer-reviewed articles on defence and security since 2000. | https://www.journal.forces.gc.ca/index-eng.asp |
 | Canadian Virtual War Memorial | Canada · Federal | Memorial registry | Searchable registry of Canada's war dead — over 120,000 records with photographs, service numbers, units, and burial locations, maintained by Veterans Affairs. Community photo submissions accepted. | https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial |
 | CFMWS — Veteran Family Program | Canada · Federal | Family support program | Canadian Forces Morale and Welfare Services' Veteran Family Program page: transition services, referrals, workshops and community supports for medically released CAF veterans and their families, delivered through Military Family Resource Centres and the 24/7 Family Information Line. | https://cfmws.ca/support-services/releasing/veteran-family-program |
 | DND — Official Military Lineages | Canada · Federal | Reference database | Look up the official lineage, battle honours, badge, motto, and marches of every authorized Canadian Armed Forces unit since 1855, maintained by DND historians. | https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages.html |

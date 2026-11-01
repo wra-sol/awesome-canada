@@ -15010,22 +15010,6 @@
     "dateAdded": "2026-08-25"
   },
   {
-    "name": "CNESST — Quebec Labour Standards",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "employment",
-    "type": "Regulator",
-    "description": "Quebec commission on labour standards, pay equity, occupational health, and work accidents — open data portal with downloadable datasets on workplace injuries, active establishments, and accepted deaths",
-    "url": "https://www.donneesquebec.ca/recherche/dataset?organization=cnesst",
-    "tags": [
-      "Quebec",
-      "labour",
-      "open data",
-      "CSV",
-      "workplace safety"
-    ]
-  },
-  {
     "name": "Health Careers Saskatchewan",
     "level": "Provincial",
     "jurisdiction": "Saskatchewan",
@@ -18780,6 +18764,22 @@
     ]
   },
   {
+    "name": "Canadian Association for Poison Centres and Clinical Toxicology — Poison Centre Directory",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Directory",
+    "description": "National directory of Canada's five poison centres with contact details, plus the Canada-wide toll-free poison number 1-844-POISON-X (1-844-764-7669).",
+    "url": "https://infopoison.ca/centres/",
+    "tags": [
+      "poison",
+      "health",
+      "emergency",
+      "directory"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
     "name": "Canadian Drug and Substance Watch",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -19017,6 +19017,22 @@
       "search",
       "pmra"
     ]
+  },
+  {
+    "name": "Health Canada — Radon: Is It in Your Home?",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "health",
+    "type": "Factsheet",
+    "description": "Health Canada factsheet on radon, the leading cause of lung cancer for non-smokers: the 200 Bq/m3 Canadian guideline, how to test a home with a long-term (3+ month) kit, and how mitigation cuts levels.",
+    "url": "https://www.canada.ca/en/health-canada/services/environmental-workplace-health/reports-publications/radiation/radon-is-it-in-you-home-information-health-professionals.html",
+    "tags": [
+      "radon",
+      "lung cancer",
+      "home safety",
+      "environmental health"
+    ],
+    "dateAdded": "2026-10-31"
   },
   {
     "name": "Health Canada — Supervised Consumption Sites Dashboard",
@@ -19488,6 +19504,22 @@
     "dateAdded": "2026-10-28"
   },
   {
+    "name": "Alberta — Poison and Drug Information Service (PADIS)",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "health",
+    "type": "Poison centre",
+    "description": "Alberta Health Services' free, confidential 24/7 advice on poisons, chemicals, medicines and herbal products; serves Alberta, Saskatchewan and the Northwest Territories.",
+    "url": "https://www.albertahealthservices.ca/topics/Page11975.aspx",
+    "tags": [
+      "Alberta",
+      "poison",
+      "health",
+      "emergency"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
     "name": "Alberta — Screening for Life",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -19592,6 +19624,22 @@
       "british columbia"
     ],
     "dateAdded": "2026-10-25"
+  },
+  {
+    "name": "BC Drug and Poison Information Centre (DPIC)",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "health",
+    "type": "Poison centre",
+    "description": "BC's 24-hour poison information line for the public, serving BC and Yukon, plus drug information for health professionals and free poison prevention materials.",
+    "url": "https://www.dpic.org/",
+    "tags": [
+      "British Columbia",
+      "poison",
+      "health",
+      "emergency"
+    ],
+    "dateAdded": "2026-10-31"
   },
   {
     "name": "BC Health Gateway",
@@ -20097,6 +20145,22 @@
     "dateAdded": "2026-10-29"
   },
   {
+    "name": "Nova Scotia — Organ and Tissue Donation",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Organ donor registry",
+    "description": "Register your organ and tissue donation decision — or opt out — under Nova Scotia's deemed-consent law (in effect since January 2021, the first in North America); decisions are recorded on the health card.",
+    "url": "https://www.novascotia.ca/organ-and-tissue-donation",
+    "tags": [
+      "organ donation",
+      "donor registry",
+      "nova scotia",
+      "deemed consent"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
     "name": "Nova Scotia — Pharmacare",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -20333,6 +20397,22 @@
     "dateAdded": "2026-10-08"
   },
   {
+    "name": "Ontario Poison Centre",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "health",
+    "type": "Poison centre",
+    "description": "Ontario's 24/7 poison centre, operated by SickKids: expert advice on poison exposures for people of all ages, plus poison prevention guides and a household-hazards directory.",
+    "url": "https://www.ontariopoisoncentre.ca/",
+    "tags": [
+      "Ontario",
+      "poison",
+      "health",
+      "emergency"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
     "name": "Public Health Ontario — Infectious Disease Trends Tool",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -20479,6 +20559,22 @@
     "dateAdded": "2026-10-29"
   },
   {
+    "name": "Centre antipoison du Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Poison centre",
+    "description": "Quebec's 24/7 bilingual poison control centre (CIUSSS de la Capitale-Nationale): urgent advice on poisoning, food poisoning and dangerous-substance exposures for the public and health professionals; 1-800-463-5060.",
+    "url": "https://www.ciusss-capitalenationale.gouv.qc.ca/en/services/capq",
+    "tags": [
+      "Quebec",
+      "poison",
+      "health",
+      "emergency"
+    ],
+    "dateAdded": "2026-10-31"
+  },
+  {
     "name": "Clic Santé",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -20494,6 +20590,21 @@
       "quebec"
     ],
     "dateAdded": "2026-09-28"
+  },
+  {
+    "name": "Héma-Québec — Donate Blood",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "health",
+    "type": "Service",
+    "description": "Québec's blood agency (separate from Canadian Blood Services): check eligibility, find blood drives and donor centres, and book a blood, plasma or platelet donation — 1,000 donations needed daily for Québec hospitals.",
+    "url": "https://www.hemaquebec.ca/",
+    "tags": [
+      "blood",
+      "donation",
+      "quebec"
+    ],
+    "dateAdded": "2026-10-31"
   },
   {
     "name": "Info-Santé 811 (Québec)",
@@ -20939,6 +21050,23 @@
       "quebec"
     ],
     "dateAdded": "2026-10-17"
+  },
+  {
+    "name": "Atlantic Canada Poison Centre",
+    "level": "Regional",
+    "jurisdiction": "Nova Scotia",
+    "category": "health",
+    "type": "Poison centre",
+    "description": "24-hour phone consultation service for poisonings for the public and health professionals, based at IWK Health in Halifax and serving Nova Scotia, Prince Edward Island and Newfoundland and Labrador.",
+    "url": "https://atlanticcanadapoisoncentre.ca/",
+    "tags": [
+      "Nova Scotia",
+      "poison",
+      "health",
+      "emergency",
+      "Atlantic"
+    ],
+    "dateAdded": "2026-10-31"
   },
   {
     "name": "Saskatchewan Health Authority — Service Disruptions",
@@ -29395,37 +29523,6 @@
     ]
   },
   {
-    "name": "Saguenay Bâtiments — Données Québec",
-    "level": "Municipal",
-    "jurisdiction": "Saguenay",
-    "category": "open-data",
-    "type": "Buildings dataset",
-    "description": "Municipal building footprints for Saguenay — download as CSV, GeoJSON, or shapefile from the provincial open data portal.",
-    "url": "https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay&q=b%C3%A2timent",
-    "tags": [
-      "saguenay",
-      "buildings",
-      "open data",
-      "geojson",
-      "shapefile"
-    ]
-  },
-  {
-    "name": "Ville de Saguenay — Données Québec",
-    "level": "Municipal",
-    "jurisdiction": "Saguenay",
-    "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "Saguenay open data on Données Québec — zoning, buildings, roads, parks, addresses, and tree inventory with CSV/SHP/GeoJSON export.",
-    "url": "https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-saguenay",
-    "tags": [
-      "saguenay",
-      "quebec",
-      "open data",
-      "données québec"
-    ]
-  },
-  {
     "name": "Saint John Open Data Catalogue",
     "level": "Municipal",
     "jurisdiction": "Saint John",
@@ -29772,21 +29869,6 @@
       "ckan"
     ],
     "dateAdded": "2026-09-29"
-  },
-  {
-    "name": "Ville de Trois-Rivières — Données Québec",
-    "level": "Municipal",
-    "jurisdiction": "Trois-Rivières",
-    "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "Trois-Rivières datasets on Données Québec — zoning, roads, buildings, and infrastructure in CSV, SHP, and GeoJSON with weekly updates.",
-    "url": "https://www.donneesquebec.ca/recherche/dataset/?organization=ville-de-trois-rivieres",
-    "tags": [
-      "trois-rivières",
-      "quebec",
-      "open data",
-      "données québec"
-    ]
   },
   {
     "name": "Interactive Truro — Open Data Hub",
@@ -32439,20 +32521,6 @@
       "gis"
     ],
     "dateAdded": "2026-08-28"
-  },
-  {
-    "name": "Quebec City Building Permits Open Data",
-    "level": "Municipal",
-    "jurisdiction": "Quebec City",
-    "category": "planning-zoning",
-    "type": "Building permits",
-    "description": "Quebec City construction and renovation permits on the municipal open data portal.",
-    "url": "https://www.donneesquebec.ca/recherche/dataset?organization=ville-de-quebec",
-    "tags": [
-      "quebec city",
-      "building permits",
-      "open data"
-    ]
   },
   {
     "name": "Red Deer — Interactive City Map (Web Map)",
@@ -41931,22 +41999,6 @@
     ]
   },
   {
-    "name": "Canadian Military Journal — Archive",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "veterans",
-    "type": "Journal archive",
-    "description": "Read the CAF and DND's quarterly professional journal online, with a full back-issue archive of peer-reviewed articles on defence and security since 2000.",
-    "url": "https://www.journal.forces.gc.ca/index-eng.asp",
-    "tags": [
-      "military",
-      "journal",
-      "defence",
-      "research",
-      "archive"
-    ]
-  },
-  {
     "name": "Canadian Virtual War Memorial",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -43259,149 +43311,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Ontario Poison Centre",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "health",
-    "type": "Poison centre",
-    "description": "Ontario's 24/7 poison centre, operated by SickKids: expert advice on poison exposures for people of all ages, plus poison prevention guides and a household-hazards directory.",
-    "url": "https://www.ontariopoisoncentre.ca/",
-    "tags": [
-      "Ontario",
-      "poison",
-      "health",
-      "emergency"
-    ],
-    "dateAdded": "2026-10-31"
-  },
-  {
-    "name": "BC Drug and Poison Information Centre (DPIC)",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "health",
-    "type": "Poison centre",
-    "description": "BC's 24-hour poison information line for the public, serving BC and Yukon, plus drug information for health professionals and free poison prevention materials.",
-    "url": "https://www.dpic.org/",
-    "tags": [
-      "British Columbia",
-      "poison",
-      "health",
-      "emergency"
-    ],
-    "dateAdded": "2026-10-31"
-  },
-  {
-    "name": "Alberta — Poison and Drug Information Service (PADIS)",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "health",
-    "type": "Poison centre",
-    "description": "Alberta Health Services' free, confidential 24/7 advice on poisons, chemicals, medicines and herbal products; serves Alberta, Saskatchewan and the Northwest Territories.",
-    "url": "https://www.albertahealthservices.ca/topics/Page11975.aspx",
-    "tags": [
-      "Alberta",
-      "poison",
-      "health",
-      "emergency"
-    ],
-    "dateAdded": "2026-10-31"
-  },
-  {
-    "name": "Centre antipoison du Québec",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "health",
-    "type": "Poison centre",
-    "description": "Quebec's 24/7 bilingual poison control centre (CIUSSS de la Capitale-Nationale): urgent advice on poisoning, food poisoning and dangerous-substance exposures for the public and health professionals; 1-800-463-5060.",
-    "url": "https://www.ciusss-capitalenationale.gouv.qc.ca/en/services/capq",
-    "tags": [
-      "Quebec",
-      "poison",
-      "health",
-      "emergency"
-    ],
-    "dateAdded": "2026-10-31"
-  },
-  {
-    "name": "Atlantic Canada Poison Centre",
-    "level": "Regional",
-    "jurisdiction": "Nova Scotia",
-    "category": "health",
-    "type": "Poison centre",
-    "description": "24-hour phone consultation service for poisonings for the public and health professionals, based at IWK Health in Halifax and serving Nova Scotia, Prince Edward Island and Newfoundland and Labrador.",
-    "url": "https://atlanticcanadapoisoncentre.ca/",
-    "tags": [
-      "Nova Scotia",
-      "poison",
-      "health",
-      "emergency",
-      "Atlantic"
-    ],
-    "dateAdded": "2026-10-31"
-  },
-  {
-    "name": "Canadian Association for Poison Centres and Clinical Toxicology — Poison Centre Directory",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "health",
-    "type": "Directory",
-    "description": "National directory of Canada's five poison centres with contact details, plus the Canada-wide toll-free poison number 1-844-POISON-X (1-844-764-7669).",
-    "url": "https://infopoison.ca/centres/",
-    "tags": [
-      "poison",
-      "health",
-      "emergency",
-      "directory"
-    ],
-    "dateAdded": "2026-10-31"
-  },
-  {
-    "name": "Health Canada — Radon: Is It in Your Home?",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "health",
-    "type": "Factsheet",
-    "description": "Health Canada factsheet on radon, the leading cause of lung cancer for non-smokers: the 200 Bq/m3 Canadian guideline, how to test a home with a long-term (3+ month) kit, and how mitigation cuts levels.",
-    "url": "https://www.canada.ca/en/health-canada/services/environmental-workplace-health/reports-publications/radiation/radon-is-it-in-you-home-information-health-professionals.html",
-    "tags": [
-      "radon",
-      "lung cancer",
-      "home safety",
-      "environmental health"
-    ],
-    "dateAdded": "2026-10-31"
-  },
-  {
-    "name": "Héma-Québec — Donate Blood",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "health",
-    "type": "Service",
-    "description": "Québec's blood agency (separate from Canadian Blood Services): check eligibility, find blood drives and donor centres, and book a blood, plasma or platelet donation — 1,000 donations needed daily for Québec hospitals.",
-    "url": "https://www.hemaquebec.ca/",
-    "tags": [
-      "blood",
-      "donation",
-      "quebec"
-    ],
-    "dateAdded": "2026-10-31"
-  },
-  {
-    "name": "Nova Scotia — Organ and Tissue Donation",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "health",
-    "type": "Organ donor registry",
-    "description": "Register your organ and tissue donation decision — or opt out — under Nova Scotia's deemed-consent law (in effect since January 2021, the first in North America); decisions are recorded on the health card.",
-    "url": "https://www.novascotia.ca/organ-and-tissue-donation",
-    "tags": [
-      "organ donation",
-      "donor registry",
-      "nova scotia",
-      "deemed consent"
-    ],
-    "dateAdded": "2026-10-31"
   }
 ]
