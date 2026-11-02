@@ -23046,7 +23046,7 @@
     "category": "housing",
     "type": "Provincial housing corporation programs",
     "description": "NLHC's program hub: apply for rental housing and the Canada-NL Housing Benefit, and find home repair, down-payment and other provincial housing programs.",
-    "url": "https://www.nlhc.com/programs/housing-programs/",
+    "url": "https://www.nlhc.nl.ca/housing-programs/",
     "tags": [
       "newfoundland and labrador",
       "nlhc",
@@ -43375,5 +43375,22 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "category": "consumer",
+    "description": "Neutral federal office promoting fairness, openness and transparency in federal procurement: suppliers can complain about contract awards and read procurement practice reviews.",
+    "jurisdiction": "Canada",
+    "level": "Federal",
+    "name": "Office of the Procurement Ombud",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "procurement",
+      "suppliers"
+    ],
+    "type": "Ombudsman",
+    "url": "https://opo-boa.gc.ca/",
+    "dateAdded": "2026-11-02"
   }
 ]

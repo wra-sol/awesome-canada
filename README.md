@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2736 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2737 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -55,7 +55,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 74
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 75
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 49
 - [🎖️ Veterans & Military](#veterans-and-military) — 37
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 99
@@ -2158,7 +2158,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| Newfoundland and Labrador Housing Corporation — Housing Programs | Newfoundland and Labrador · Agency | Provincial housing corporation programs | NLHC's program hub: apply for rental housing and the Canada-NL Housing Benefit, and find home repair, down-payment and other provincial housing programs. | https://www.nlhc.com/programs/housing-programs/ |
+| Newfoundland and Labrador Housing Corporation — Housing Programs | Newfoundland and Labrador · Agency | Provincial housing corporation programs | NLHC's program hub: apply for rental housing and the Canada-NL Housing Benefit, and find home repair, down-payment and other provincial housing programs. | https://www.nlhc.nl.ca/housing-programs/ |
 | Housing Nova Scotia | Nova Scotia · Agency | Provincial housing authority | Nova Scotia's provincial housing department: apply for public and subsidized housing, find rent supplements and home repair/adaptation grants, and access down-payment and affordable-housing programs. | https://housingnovascotia.ca/ |
 | Nova Scotia Provincial Housing Agency — Apply for Public Housing | Nova Scotia · Agency | Application portal | The Nova Scotia Provincial Housing Agency's public housing application page: households apply online for rent-geared-to-income public housing across Nova Scotia, or download the PDF application for mail, email or in-person submission. The page covers eligibility, required documents and regional office contacts. The agency's previous applicant portal failed verification in the Oct 20 run; this is its own application path on housingnovascotia.ca. | https://housingnovascotia.ca/public-housing-application |
 | PEI Housing Corporation | Prince Edward Island · Agency | Provincial housing corporation | Prince Edward Island's housing corporation: apply for social housing and rent-geared-to-income units, mobile rental vouchers, emergency home repairs, and seniors housing across the province. | https://peihousingcorp.ca/ |
@@ -3890,6 +3890,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Competition Bureau — Complaint Form | Canada · Federal | Complaint form | The Competition Bureau's complaint form: notify the Bureau that a company or individual may have broken the Competition Act or labelling laws, for example through deceptive marketing or drip pricing. | https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form |
 | Competition Bureau — Deceptive Marketing Cases | Canada · Federal | Lookup tool | Search every public deceptive-marketing case since 2015 by company, product, or outcome, including consent agreements and Tribunal rulings. | https://competition-bureau.canada.ca/en/deceptive-marketing-practices/cases-and-outcomes |
 | Measurement Canada — Find an Authorized Service Provider | Canada · Federal | Search tool | Find companies authorized by Measurement Canada to inspect and certify scales, gas pumps, and other measuring devices in your area, with their approved inspection scope. | https://ised-isde.canada.ca/site/measurement-canada/en/authorized-service-providers/find-authorized-service-provider |
+| Office of the Procurement Ombud | Canada · Federal | Ombudsman | Neutral federal office promoting fairness, openness and transparency in federal procurement: suppliers can complain about contract awards and read procurement practice reviews. | https://opo-boa.gc.ca/ |
 | Ad Standards — Consumer Complaint Procedure | Canada · Agency | Complaint process | Ad Standards' consumer complaint procedure: complain in writing that an advertisement in Canadian media breaks the Canadian Code of Advertising Standards and have it reviewed for amendment or withdrawal. | https://adstandards.ca/consumer-complaint-procedure/ |
 | Canadian Motor Vehicle Arbitration Plan (CAMVAP) | Canada · Agency | Dispute resolution | Free binding arbitration for vehicle defects and warranty disputes: owners who cannot resolve a problem with a participating manufacturer can have an arbitrator order a repair, buy-back or reimbursement. | https://www.camvap.ca/ |
 | Canadian Securities Administrators — Are They Registered? | Canada · Agency | Lookup tool | The CSA's check-before-you-invest hub: verify through the National Registration Search whether an investment adviser or firm is registered, and check disciplinary history and investor alerts first. | https://www.securities-administrators.ca/registration/are-they-registered |
