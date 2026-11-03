@@ -43392,5 +43392,54 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Ontario — Freedom of Information request",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "gov-services",
+    "type": "Request portal",
+    "description": "Request general records or your own personal information from Ontario ministries, agencies, colleges, universities, municipalities, school boards and police services under FIPPA/MFIPPA, with links to the directory of institutions and FOI coordinators.",
+    "url": "https://www.ontario.ca/page/freedom-information-request",
+    "tags": [
+      "Ontario",
+      "foi",
+      "fippa",
+      "records",
+      "access-to-information"
+    ],
+    "dateAdded": "2026-11-03"
+  },
+  {
+    "name": "Prince Edward Island — Make a Request for Information (FOIPP)",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "gov-services",
+    "type": "Request portal",
+    "description": "Online form to request access to Prince Edward Island government information under the FOIPP Act, with a $5 initial fee and a 30-day response window.",
+    "url": "https://www.princeedwardisland.ca/en/service/make-a-request-for-information-foipp",
+    "tags": [
+      "Prince Edward Island",
+      "foipp",
+      "records",
+      "access-to-information"
+    ],
+    "dateAdded": "2026-11-03"
+  },
+  {
+    "name": "Saskatchewan — Access to Information Requests",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "gov-services",
+    "type": "Request portal",
+    "description": "How to submit an access to information request to a Saskatchewan government institution or local authority under FOIP/LA FOIP, with the request form and the 30-day response rule.",
+    "url": "https://www.saskatchewan.ca/residents/justice-crime-and-the-law/your-rights-and-the-law/make-a-freedom-of-information-request",
+    "tags": [
+      "Saskatchewan",
+      "foip",
+      "records",
+      "access-to-information"
+    ],
+    "dateAdded": "2026-11-03"
   }
 ]

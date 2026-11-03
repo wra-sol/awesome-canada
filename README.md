@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2737 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2740 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -29,7 +29,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
-- [🪪 Government Services & ID](#government-services-and-id) — 95
+- [🪪 Government Services & ID](#government-services-and-id) — 98
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 43
 - [🏦 Finance, Banking & Economy](#finance-banking-and-economy) — 44
 - [🏢 Business & Procurement](#business-and-procurement) — 66
@@ -898,6 +898,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Saskatchewan — Access to Information Requests | Saskatchewan · Provincial | Request portal | How to submit an access to information request to a Saskatchewan government institution or local authority under FOIP/LA FOIP, with the request form and the 30-day response rule. | https://www.saskatchewan.ca/residents/justice-crime-and-the-law/your-rights-and-the-law/make-a-freedom-of-information-request |
 | Regina — Garbage, Recycling & Composting Collection Calendar | Regina · Municipal | Lookup tool | Embedded address-search calendar on Regina's waste hub: search your address to sign up for cart collection reminders by email or phone, save the schedule to Outlook, iCal or Google, download and print a personalized calendar, use the Regina Waste app, or search the Waste Wizard to learn how to dispose of a given item. | https://www.regina.ca/home-property/recycling-garbage/index.html |
 
 ### Manitoba
@@ -914,6 +915,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario — Find Licensed Child Care | Ontario · Provincial | Search tool | Ministry of Education registry: search licensed child care centres and home child care agencies by location, age group, language or name; see licence details, inspection reports and violations. | https://www.earlyyears.edu.gov.on.ca/LCCWWeb/childcare/search.xhtml?lang=en |
+| Ontario — Freedom of Information request | Ontario · Provincial | Request portal | Request general records or your own personal information from Ontario ministries, agencies, colleges, universities, municipalities, school boards and police services under FIPPA/MFIPPA, with links to the directory of institutions and FOI coordinators. | https://www.ontario.ca/page/freedom-information-request |
 | Ontario Online Certificate Application | Ontario · Provincial | Document ordering | Office of the Registrar General's online application to order Ontario birth, marriage, and death certificates, certified registration copies, and birth search letters, including replacement and sex-designation options. | https://services.ontario.ca/oca-web/main |
 | Ontario.ca Developer Hub | Ontario · Provincial | Developer portal | Ontario government developer hub with APIs, technical documentation, and code samples for building digital services | https://developer.ontario.ca/ |
 | Ontario.ca Login | Ontario · Provincial | Single sign-on | Ontario's single sign-on account and dashboard connecting citizens' government service accounts (replacing ONe-Key/ServiceOntario accounts) in one place. | https://www.ontario.ca/page/access-multiple-government-accounts-ontarioca-login |
@@ -965,6 +967,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Post-Secondary Education, Training and Labour (PETL) — Employment Standards Online Complaint Form | New Brunswick · Provincial | Self-service portal | File an Employment Standards Act complaint online without paper: unpaid wages, overtime, vacation pay, termination pay and more, routed directly to PETL investigators. | https://www.gnb.ca/en/topic/jobs-workplaces/labour-market-workforce/employment-standards/employment-standards-complaint.html |
 | Access Nova Scotia | Nova Scotia · Provincial | Service portal | Official Nova Scotia provincial services portal: find in-person Access Nova Scotia locations, online services, and program information. | https://www.novascotia.ca/access-nova-scotia |
 | Nova Scotia Vital Statistics Online Services | Nova Scotia · Provincial | Document ordering | Apply online to Nova Scotia Vital Statistics for short- or long-form birth certificates, with X gender option and no sex display, credit card payment, and alternative mail/fax/in-person options. | https://www.novascotia.ca/apply-birth-certificate |
+| Prince Edward Island — Make a Request for Information (FOIPP) | Prince Edward Island · Provincial | Request portal | Online form to request access to Prince Edward Island government information under the FOIPP Act, with a $5 initial fee and a 30-day response window. | https://www.princeedwardisland.ca/en/service/make-a-request-for-information-foipp |
 | Halifax — Collection Schedules & What Goes Where | Halifax · Municipal | Lookup tool | The Halifax Regional Municipality web app for What Goes Where search, weekly reminders and service alerts, plus printing a calendar customized for your address, alongside downloadable 2026 and 2025 collection-calendar PDFs and sorting guides. The Halifax Recycles mobile app mirrors it. | https://www.halifax.ca/home-property/garbage-recycling-green-cart/collection-schedules-what-goes-where |
 | Halifax 311 — Service Requests | Halifax · Municipal | 311 service hub | Halifax Regional Municipality's 311 service hub: submit municipal service requests online (potholes, waste, parking, transit, animal services), plus phone/email/in-person contact details and service standards. | https://www.halifax.ca/home/311 |
 
