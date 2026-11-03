@@ -5399,6 +5399,23 @@
     ]
   },
   {
+    "name": "Office of the Procurement Ombud",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "consumer",
+    "type": "Ombudsman",
+    "description": "Neutral federal office promoting fairness, openness and transparency in federal procurement: suppliers can complain about contract awards and read procurement practice reviews.",
+    "url": "https://opo-boa.gc.ca/",
+    "tags": [
+      "complaints",
+      "fairness",
+      "oversight",
+      "procurement",
+      "suppliers"
+    ],
+    "dateAdded": "2026-11-02"
+  },
+  {
     "name": "Consumer Protection Ontario — Tools",
     "level": "Federal",
     "jurisdiction": "Ontario",
@@ -43375,22 +43392,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "category": "consumer",
-    "description": "Neutral federal office promoting fairness, openness and transparency in federal procurement: suppliers can complain about contract awards and read procurement practice reviews.",
-    "jurisdiction": "Canada",
-    "level": "Federal",
-    "name": "Office of the Procurement Ombud",
-    "tags": [
-      "complaints",
-      "fairness",
-      "oversight",
-      "procurement",
-      "suppliers"
-    ],
-    "type": "Ombudsman",
-    "url": "https://opo-boa.gc.ca/",
-    "dateAdded": "2026-11-02"
   }
 ]
