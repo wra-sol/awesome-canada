@@ -43441,5 +43441,69 @@
       "access-to-information"
     ],
     "dateAdded": "2026-11-03"
+  },
+  {
+    "name": "211 Saskatchewan",
+    "level": "Agency",
+    "jurisdiction": "Saskatchewan",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Saskatchewan's 211 service: free, confidential help finding community, social, non-clinical health and government services — over 5,000 listings searchable online, or connect with a navigator by phone (2-1-1), text or web chat, 24 hours a day.",
+    "url": "https://sk.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-11-03"
+  },
+  {
+    "name": "211 Manitoba",
+    "level": "Agency",
+    "jurisdiction": "Manitoba",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Manitoba's 211 service: search the provincial directory of community, social and government services by topic and location, or dial 2-1-1 to reach a navigator.",
+    "url": "https://mb.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "manitoba"
+    ],
+    "dateAdded": "2026-11-03"
+  },
+  {
+    "name": "211 Nova Scotia",
+    "level": "Agency",
+    "jurisdiction": "Nova Scotia",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Nova Scotia's 211 service: free, confidential information and referral to programs and services from community groups, nonprofits and government departments across the province, 24 hours a day, with interpretation in over 240 languages.",
+    "url": "https://ns.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-11-03"
+  },
+  {
+    "name": "211 Prince Edward Island",
+    "level": "Agency",
+    "jurisdiction": "Prince Edward Island",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "PEI's 211 service: free, confidential help finding community and social resources across the Island — searchable online, or call or text 2-1-1, or email help@pe.211.ca, 24 hours a day, with interpretation in over 240 languages.",
+    "url": "https://pe.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "prince edward island"
+    ],
+    "dateAdded": "2026-11-03"
   }
 ]

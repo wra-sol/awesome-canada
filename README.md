@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2740 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2744 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -39,7 +39,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
 - [🩺 Health & Wellness](#health-and-wellness) — 153
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 61
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 65
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 58
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
@@ -2002,6 +2002,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| 211 Saskatchewan | Saskatchewan · Agency | Service finder | Saskatchewan's 211 service: free, confidential help finding community, social, non-clinical health and government services — over 5,000 listings searchable online, or connect with a navigator by phone (2-1-1), text or web chat, 24 hours a day. | https://sk.211.ca/ |
 | Saskatchewan — SAID Income Support for People with Disabilities | Saskatchewan · Provincial | Program portal & rates | Saskatchewan Assured Income for Disability hub: monthly rate tables by community tier, income exemptions, and online application through a Saskatchewan Account with document upload. | https://www.saskatchewan.ca/residents/family-and-social-support/people-with-disabilities/income-support-for-people-with-disabilities |
 | Saskatchewan Income Support (SIS) | Saskatchewan · Provincial | Income assistance | Saskatchewan's main income assistance program: monthly basic and shelter benefits for adults and families with little or no income, with current rates by household and region and online application through a Saskatchewan Account. | https://www.saskatchewan.ca/residents/family-and-social-support/financial-help/saskatchewan-income-support-sis |
 
@@ -2009,6 +2010,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| 211 Manitoba | Manitoba · Agency | Service finder | Manitoba's 211 service: search the provincial directory of community, social and government services by topic and location, or dial 2-1-1 to reach a navigator. | https://mb.211.ca/ |
 | Manitoba — 55 PLUS Program | Manitoba · Provincial | Benefit application | Manitoba income supplement paying quarterly benefits (up to $161.80/quarter single) to lower-income Manitobans 55+; eligibility from the previous year's tax return. Those not on OAS apply with a downloadable application form (junior component for 55-64 non-OAS recipients); OAS recipients are assessed automatically. | https://www.manitoba.ca/fs/cfs/print,55-plus.html |
 | Manitoba — Employment and Income Assistance (EIA) | Manitoba · Provincial | Income assistance | Manitoba's social assistance program: money for basic needs and Rent Assist for Manitobans with no other way to support themselves or their families, with payment dates, how to apply in Winnipeg and rural/northern Manitoba, and disability and single-parent categories. | https://www.gov.mb.ca/fs/eia/ |
 | Manitoba — Rent Assist Estimator | Manitoba · Provincial | Calculator | Estimate monthly Rent Assist shelter benefits for low-income private renters — compares 80% of median market rent against 30% of net household income by household size. | https://gov.mb.ca/fs/eia/estimator.html |
@@ -2040,6 +2042,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| 211 Nova Scotia | Nova Scotia · Agency | Service finder | Nova Scotia's 211 service: free, confidential information and referral to programs and services from community groups, nonprofits and government departments across the province, 24 hours a day, with interpretation in over 240 languages. | https://ns.211.ca/ |
+| 211 Prince Edward Island | Prince Edward Island · Agency | Service finder | PEI's 211 service: free, confidential help finding community and social resources across the Island — searchable online, or call or text 2-1-1, or email help@pe.211.ca, 24 hours a day, with interpretation in over 240 languages. | https://pe.211.ca/ |
 | New Brunswick — Financial Help Calculator | New Brunswick · Provincial | Calculator | Social Development New Brunswick's official financial help calculator: answer questions about your household and income to estimate the provincial financial help and social assistance you may qualify for before you apply. | https://nbsocialdevelopment.my.site.com/calculator/s/?language=en_US |
 | New Brunswick — Low-Income Seniors' Benefit | New Brunswick · Provincial | Benefit application | Annual $629 benefit (2026) for low-income New Brunswick seniors: must be 60+, a NB resident on Dec 31 of the prior year, and a recipient of GIS, the Allowance, or the Allowance for the Survivor. Applications are submitted online (or by mail to Service New Brunswick) with a Dec 31, 2026 deadline. | https://www2.gnb.ca/content/gnb/en/corporate/promo/new-brunswick-low-income-seniors-benefit.html |
 | New Brunswick — Social Assistance Program | New Brunswick · Provincial | Income assistance | New Brunswick's Social Assistance Program service page on gnb.ca: monthly help with basic needs such as food, rent, utilities and clothing for residents in financial need, plus related supports like childcare, transportation and prescription drugs, and how to start an application. | https://www2.gnb.ca/content/gnb/en/services/services_renderer.10295.Social_Assistance_Program.html |
