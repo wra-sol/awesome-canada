@@ -43589,5 +43589,95 @@
       "gatineau"
     ],
     "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "Elections Saskatchewan — Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote, update your registration, or check your place on Saskatchewan's permanent voters list through Elections Saskatchewan's online voter registration service.",
+    "url": "https://voterregistration.elections.sk.ca/",
+    "tags": [
+      "Saskatchewan",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "Elections Manitoba — Voter Registration Service",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Check if you are registered to vote, update your information, or register for the first time with Elections Manitoba's online voter registration service.",
+    "url": "https://electionsmanitoba.ca/en/Voting/Register_of_Voters",
+    "tags": [
+      "Manitoba",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "Elections NWT — Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote or update your registration with Elections NWT's online Voter Registration Tool (ID and proof of residence upload; processed within about two business days).",
+    "url": "https://www.electionsnwt.ca/en/voter-registration",
+    "tags": [
+      "Northwest Territories",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "Elections Nunavut — Online Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote in Nunavut or update your registration through Elections Nunavut's secure Voter Registration Portal, and check your registration status online once processed.",
+    "url": "https://www.elections.nu.ca/en/online-voter-registration",
+    "tags": [
+      "Nunavut",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "Elections PEI — Registration & Eligibility",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Check or update your registration on Prince Edward Island's Voter Registry through Elections PEI's Registration Portal, or confirm eligibility rules for provincial, municipal, school trustee and referendum votes.",
+    "url": "https://www.electionspei.ca/registration-eligibility",
+    "tags": [
+      "Prince Edward Island",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "Elections NL — Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register online to be added to Newfoundland and Labrador's Voters List, update your address, or check whether you are registered, with Elections NL's online service.",
+    "url": "https://www.elections.gov.nl.ca/voters/registration/",
+    "tags": [
+      "Newfoundland and Labrador",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
   }
 ]

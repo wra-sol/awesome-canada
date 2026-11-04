@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2749 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2755 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 75
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 49
 - [🎖️ Veterans & Military](#veterans-and-military) — 37
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 99
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 105
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 31
 
 ---
@@ -4219,6 +4219,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Saskatchewan — Election Results | Saskatchewan · Provincial | Election results portal | Results hub linking to Saskatchewan's live results service and to official general-election and by-election reports. | https://www.elections.sk.ca/reports-data/election-results/ |
 | Elections Saskatchewan — Find My Constituency | Saskatchewan · Provincial | Lookup tool | Search by address to find your Saskatchewan provincial constituency, polling division and voting information. | https://www.elections.sk.ca/voters/findmyconstituency/ |
 | Elections Saskatchewan — Maps & Polling Division Data | Saskatchewan · Provincial | Maps & shapefiles | Download provincial and constituency PDF maps for Saskatchewan elections plus constituency and polling-division shapefiles and poll-key files. | https://www.elections.sk.ca/candidates-political-parties/maps/maps-archive-ge29/ |
+| Elections Saskatchewan — Voter Registration | Saskatchewan · Provincial | Voter registration | Register to vote, update your registration, or check your place on Saskatchewan's permanent voters list through Elections Saskatchewan's online voter registration service. | https://voterregistration.elections.sk.ca/ |
 | Saskatchewan — Contribution Search Tool | Saskatchewan · Provincial | Contributions database | Elections Saskatchewan's searchable political contribution tool with per-party, per-year filtering and downloadable fiscal-period returns from 2016 onward. | https://www.elections.sk.ca/reports-data/candidate-political-party-finances/contribution-search-tool/ |
 | Regina — Election Results (Open Data) | Regina · Municipal | Datasets | City of Regina election results dating back to 1884 for mayor and councillors, plus voter-turnout statistics to 1946, bylaws and questions put to public vote — XLS downloads. | https://openregina.ca/dataset/election-results-historical |
 | Saskatoon — Election History & Results | Saskatoon · Municipal | Results archive | Results for Saskatoon civic and school board elections back to 2000, including poll-by-poll results, turnout and candidate campaign disclosure statements. | https://www.saskatoon.ca/city-hall/elections-saskatoon/history-results |
@@ -4230,6 +4231,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Manitoba | Manitoba · Provincial | Agency | Manitoba provincial elections information, candidates, and results | https://www.electionsmanitoba.ca/ |
 | Elections Manitoba — Electoral Maps | Manitoba · Provincial | Maps & shapefiles | Download PDF maps and shapefiles of Manitoba's electoral divisions and voting areas for the 2023, 2019 and earlier general elections, organized by region. | https://www.electionsmanitoba.ca/en/resources/maps |
 | Elections Manitoba — Financial Disclosure | Manitoba · Provincial | Finance portal | Browse public financial statements and returns filed under The Election Financing Act — election returns for candidates and parties, annual party and constituency-association returns, outstanding liabilities and loan agreements. | https://www.electionsmanitoba.ca/En/Finance/Financial_Disclosure |
+| Elections Manitoba — Voter Registration Service | Manitoba · Provincial | Voter registration | Check if you are registered to vote, update your information, or register for the first time with Elections Manitoba's online voter registration service. | https://electionsmanitoba.ca/en/Voting/Register_of_Voters |
 | City of Winnipeg — 2026 Election | Winnipeg · Municipal | Elections portal | Winnipeg's hub for its 2026 civic election, covering voting options, candidates, ward boundaries, identification rules and election workers. | https://winnipeg.ca/city-governance/wards-elections/2026-election |
 | Winnipeg — Election Results Dataset | Winnipeg · Municipal | Open dataset | Query and download Winnipeg mayoral, councillor and school trustee election results dating back to 1966 from the city's open data portal. | https://data.winnipeg.ca/Council-Services/Winnipeg-Election-Results/7753-3fjc |
 
@@ -4286,8 +4288,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections New Brunswick — Electoral District Maps | New Brunswick · Provincial | Maps & districts | Maps of New Brunswick's provincial electoral districts, with district information for voters and candidates. | https://www.electionsnb.ca/content/enb/en/maps.html |
 | Elections New Brunswick — Public Inspection of Financial Returns | New Brunswick · Provincial | Finance portal | View political-party, district-association and candidate financial returns filed with the Supervisor of Political Financing — contribution lists as PDF and XLSX plus annual filing-status reports. | https://www.electionsnb.ca/content/enb/en/political-financing/status-report-on-financial-returns.html |
 | Elections NL — General Election Finance Reports | Newfoundland and Labrador · Provincial | Finance reports | Candidate and party statements of income and expenses for general elections, including lists of contributors over $100, plus annual and by-election financial reports back to the 1990s. | https://www.elections.gov.nl.ca/resources/gereports/ |
+| Elections NL — Voter Registration | Newfoundland and Labrador · Provincial | Voter registration | Register online to be added to Newfoundland and Labrador's Voters List, update your address, or check whether you are registered, with Elections NL's online service. | https://www.elections.gov.nl.ca/voters/registration/ |
 | Elections PEI | PEI · Provincial | Election results & voter services | Office administering provincial, municipal and school trustee elections: official district-level results, historical result comparison maps, voter registration portal and voting information. | https://www.electionspei.ca/ |
 | Elections PEI — Election Contributions Search | PEI · Provincial | Lookup tool | Search political-party contribution lists in excess of $250 by party and year, plus download the yearly political-party contributions open-data set. | https://www.electionspei.ca/resources/feature/election-contributions |
+| Elections PEI — Registration & Eligibility | Prince Edward Island · Provincial | Voter registration | Check or update your registration on Prince Edward Island's Voter Registry through Elections PEI's Registration Portal, or confirm eligibility rules for provincial, municipal, school trustee and referendum votes. | https://www.electionspei.ca/registration-eligibility |
 | Halifax — Past Municipal Election Results | Halifax · Municipal | Results archive | Downloadable official results from past Halifax regional council, school board and plebiscite elections in PDF format. | https://www.halifax.ca/city-hall/elections/about-elections/past-election-results |
 | Civic Tech Fredericton | New Brunswick · Municipal | Civic tech | Fredericton-based civic tech community working on projects that improve government services, transparency, and democratic participation. | https://www.civictechfredericton.com/ |
 | City of St. John's — Candidates | Newfoundland and Labrador · Municipal | Candidate directory | Official candidate information for St. John's municipal, school board and plebiscite votes. | https://www.stjohns.ca/your-government/elections/candidates/ |
@@ -4303,6 +4307,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections Yukon | Yukon · Agency | Election agency portal | Yukon's independent election authority: official results including the 2025 general election, voter information and candidate guides. | https://electionsyukon.ca/ |
 | Yukon Legislative Assembly | Yukon · Agency | Legislative | Bills, Hansard, and sitting schedules from Yukon's Legislative Assembly | https://yukonassembly.ca/ |
 | Elections NWT — Electoral Districts & Maps | Northwest Territories · Provincial | Maps & districts | Northwest Territories electoral districts with interactive maps showing district boundaries and community locations. | https://www.electionsnwt.ca/en/electoral-districts |
+| Elections NWT — Voter Registration | Northwest Territories · Provincial | Voter registration | Register to vote or update your registration with Elections NWT's online Voter Registration Tool (ID and proof of residence upload; processed within about two business days). | https://www.electionsnwt.ca/en/voter-registration |
+| Elections Nunavut — Online Voter Registration | Nunavut · Provincial | Voter registration | Register to vote in Nunavut or update your registration through Elections Nunavut's secure Voter Registration Portal, and check your registration status online once processed. | https://www.elections.nu.ca/en/online-voter-registration |
 
 ## 📡 Telecommunications & Digital
 
