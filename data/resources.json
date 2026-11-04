@@ -1706,6 +1706,38 @@
     "dateAdded": "2026-10-19"
   },
   {
+    "name": "211 Manitoba",
+    "level": "Agency",
+    "jurisdiction": "Manitoba",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Manitoba's 211 service: search the provincial directory of community, social and government services by topic and location, or dial 2-1-1 to reach a navigator.",
+    "url": "https://mb.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "manitoba"
+    ],
+    "dateAdded": "2026-11-03"
+  },
+  {
+    "name": "211 Nova Scotia",
+    "level": "Agency",
+    "jurisdiction": "Nova Scotia",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Nova Scotia's 211 service: free, confidential information and referral to programs and services from community groups, nonprofits and government departments across the province, 24 hours a day, with interpretation in over 240 languages.",
+    "url": "https://ns.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-11-03"
+  },
+  {
     "name": "211 Ontario",
     "level": "Agency",
     "jurisdiction": "Ontario",
@@ -1737,6 +1769,38 @@
       "oeb"
     ],
     "dateAdded": "2026-08-27"
+  },
+  {
+    "name": "211 Prince Edward Island",
+    "level": "Agency",
+    "jurisdiction": "Prince Edward Island",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "PEI's 211 service: free, confidential help finding community and social resources across the Island — searchable online, or call or text 2-1-1, or email help@pe.211.ca, 24 hours a day, with interpretation in over 240 languages.",
+    "url": "https://pe.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "prince edward island"
+    ],
+    "dateAdded": "2026-11-03"
+  },
+  {
+    "name": "211 Saskatchewan",
+    "level": "Agency",
+    "jurisdiction": "Saskatchewan",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Saskatchewan's 211 service: free, confidential help finding community, social, non-clinical health and government services — over 5,000 listings searchable online, or connect with a navigator by phone (2-1-1), text or web chat, 24 hours a day.",
+    "url": "https://sk.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-11-03"
   },
   {
     "name": "Alberta Disability Income Assistance (AISH and ADAP)",
@@ -17886,6 +17950,23 @@
     ]
   },
   {
+    "name": "Ontario — Freedom of Information request",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "gov-services",
+    "type": "Request portal",
+    "description": "Request general records or your own personal information from Ontario ministries, agencies, colleges, universities, municipalities, school boards and police services under FIPPA/MFIPPA, with links to the directory of institutions and FOI coordinators.",
+    "url": "https://www.ontario.ca/page/freedom-information-request",
+    "tags": [
+      "Ontario",
+      "foi",
+      "fippa",
+      "records",
+      "access-to-information"
+    ],
+    "dateAdded": "2026-11-03"
+  },
+  {
     "name": "Ontario Online Certificate Application",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -17952,6 +18033,22 @@
     ]
   },
   {
+    "name": "Prince Edward Island — Make a Request for Information (FOIPP)",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "gov-services",
+    "type": "Request portal",
+    "description": "Online form to request access to Prince Edward Island government information under the FOIPP Act, with a $5 initial fee and a 30-day response window.",
+    "url": "https://www.princeedwardisland.ca/en/service/make-a-request-for-information-foipp",
+    "tags": [
+      "Prince Edward Island",
+      "foipp",
+      "records",
+      "access-to-information"
+    ],
+    "dateAdded": "2026-11-03"
+  },
+  {
     "name": "Directeur de l'état civil du Québec",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -17978,6 +18075,22 @@
       "standards"
     ],
     "dateAdded": "2026-10-03"
+  },
+  {
+    "name": "Saskatchewan — Access to Information Requests",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "gov-services",
+    "type": "Request portal",
+    "description": "How to submit an access to information request to a Saskatchewan government institution or local authority under FOIP/LA FOIP, with the request form and the 30-day response rule.",
+    "url": "https://www.saskatchewan.ca/residents/justice-crime-and-the-law/your-rights-and-the-law/make-a-freedom-of-information-request",
+    "tags": [
+      "Saskatchewan",
+      "foip",
+      "records",
+      "access-to-information"
+    ],
+    "dateAdded": "2026-11-03"
   },
   {
     "name": "Durham Region — 311 Connecting You to Our Services",
@@ -41669,20 +41782,6 @@
     "dateAdded": "2026-10-12"
   },
   {
-    "name": "FortisBC — Gas Outage Map",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "utilities",
-    "type": "Outage map",
-    "description": "Map of current gas service interruptions in FortisBC's service territory across British Columbia",
-    "url": "https://www.fortisbc.com/outages",
-    "tags": [
-      "BC",
-      "utilities",
-      "gas"
-    ]
-  },
-  {
     "name": "Manitoba Office of Drinking Water — Advisories Map",
     "level": "Provincial",
     "jurisdiction": "Manitoba",
@@ -43392,118 +43491,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Ontario — Freedom of Information request",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "gov-services",
-    "type": "Request portal",
-    "description": "Request general records or your own personal information from Ontario ministries, agencies, colleges, universities, municipalities, school boards and police services under FIPPA/MFIPPA, with links to the directory of institutions and FOI coordinators.",
-    "url": "https://www.ontario.ca/page/freedom-information-request",
-    "tags": [
-      "Ontario",
-      "foi",
-      "fippa",
-      "records",
-      "access-to-information"
-    ],
-    "dateAdded": "2026-11-03"
-  },
-  {
-    "name": "Prince Edward Island — Make a Request for Information (FOIPP)",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "gov-services",
-    "type": "Request portal",
-    "description": "Online form to request access to Prince Edward Island government information under the FOIPP Act, with a $5 initial fee and a 30-day response window.",
-    "url": "https://www.princeedwardisland.ca/en/service/make-a-request-for-information-foipp",
-    "tags": [
-      "Prince Edward Island",
-      "foipp",
-      "records",
-      "access-to-information"
-    ],
-    "dateAdded": "2026-11-03"
-  },
-  {
-    "name": "Saskatchewan — Access to Information Requests",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "gov-services",
-    "type": "Request portal",
-    "description": "How to submit an access to information request to a Saskatchewan government institution or local authority under FOIP/LA FOIP, with the request form and the 30-day response rule.",
-    "url": "https://www.saskatchewan.ca/residents/justice-crime-and-the-law/your-rights-and-the-law/make-a-freedom-of-information-request",
-    "tags": [
-      "Saskatchewan",
-      "foip",
-      "records",
-      "access-to-information"
-    ],
-    "dateAdded": "2026-11-03"
-  },
-  {
-    "name": "211 Saskatchewan",
-    "level": "Agency",
-    "jurisdiction": "Saskatchewan",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Saskatchewan's 211 service: free, confidential help finding community, social, non-clinical health and government services — over 5,000 listings searchable online, or connect with a navigator by phone (2-1-1), text or web chat, 24 hours a day.",
-    "url": "https://sk.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "saskatchewan"
-    ],
-    "dateAdded": "2026-11-03"
-  },
-  {
-    "name": "211 Manitoba",
-    "level": "Agency",
-    "jurisdiction": "Manitoba",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Manitoba's 211 service: search the provincial directory of community, social and government services by topic and location, or dial 2-1-1 to reach a navigator.",
-    "url": "https://mb.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "manitoba"
-    ],
-    "dateAdded": "2026-11-03"
-  },
-  {
-    "name": "211 Nova Scotia",
-    "level": "Agency",
-    "jurisdiction": "Nova Scotia",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Nova Scotia's 211 service: free, confidential information and referral to programs and services from community groups, nonprofits and government departments across the province, 24 hours a day, with interpretation in over 240 languages.",
-    "url": "https://ns.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "nova scotia"
-    ],
-    "dateAdded": "2026-11-03"
-  },
-  {
-    "name": "211 Prince Edward Island",
-    "level": "Agency",
-    "jurisdiction": "Prince Edward Island",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "PEI's 211 service: free, confidential help finding community and social resources across the Island — searchable online, or call or text 2-1-1, or email help@pe.211.ca, 24 hours a day, with interpretation in over 240 languages.",
-    "url": "https://pe.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "prince edward island"
-    ],
-    "dateAdded": "2026-11-03"
   }
 ]

@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2744 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2743 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -47,7 +47,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 97
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
 - [🌦️ Weather & Climate](#weather-and-climate) — 44
-- [⚡ Energy & Utilities](#energy-and-utilities) — 59
+- [⚡ Energy & Utilities](#energy-and-utilities) — 58
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
@@ -2973,7 +2973,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Hydro — Report an Outage | British Columbia · Provincial | Service | Report a power outage to BC Hydro online or check the outage map for your area | https://www.bchydro.com/outages/orsmapview.jsp |
 | BC Utilities Commission — Complaint Process | British Columbia · Provincial | Complaint process | The BC Utilities Commission's complaint process: BC customers complain about regulated electricity or gas billing, metering, disconnection or gas-marketer conduct after first trying the utility. | https://www.bcuc.com/WhatWeDo/ComplaintProcess |
 | BC Utilities Commission — Orders and Decisions Search | British Columbia · Provincial | Decisions database | Search BCUC orders and decisions by keyword, company, date, proceeding or document name — the rulings that set BC electricity, gas and thermal energy rates. | https://www.ordersdecisions.bcuc.com/bcuc/en/nav.do |
-| FortisBC — Gas Outage Map | British Columbia · Provincial | Outage map | Map of current gas service interruptions in FortisBC's service territory across British Columbia | https://www.fortisbc.com/outages |
 | Vancouver VanMap | Vancouver · Municipal | Interactive map | Parcel, zoning, parks, utilities, and city layers | https://maps.vancouver.ca/vanmap-viewer/ |
 
 ### Alberta
