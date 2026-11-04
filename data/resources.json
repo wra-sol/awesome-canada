@@ -43491,5 +43491,103 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "211 New Brunswick",
+    "level": "Agency",
+    "jurisdiction": "New Brunswick",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "New Brunswick's bilingual 211 service: free, confidential help finding community, social and government services across the province, by phone (2-1-1) or online.",
+    "url": "https://nb.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "211 Newfoundland and Labrador",
+    "level": "Agency",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Newfoundland and Labrador's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
+    "url": "https://nl.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "211 Northwest Territories",
+    "level": "Agency",
+    "jurisdiction": "Northwest Territories",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Northwest Territories' 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
+    "url": "https://nt.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "northwest territories"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "211 Yukon",
+    "level": "Agency",
+    "jurisdiction": "Yukon",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Yukon's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
+    "url": "https://yt.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "yukon"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "211 Nunavut",
+    "level": "Agency",
+    "jurisdiction": "Nunavut",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Nunavut's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
+    "url": "https://nu.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "nunavut"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "211 Grand Montréal",
+    "level": "Agency",
+    "jurisdiction": "Quebec",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Regional 211 service for Grand Montréal and Gatineau: bilingual search of community, social and government services by need and location, plus 24/7 phone and chat with navigators.",
+    "url": "https://211qc.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "quebec",
+      "montreal",
+      "gatineau"
+    ],
+    "dateAdded": "2026-11-04"
   }
 ]

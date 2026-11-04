@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2743 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2749 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -39,7 +39,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
 - [🩺 Health & Wellness](#health-and-wellness) — 153
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
-- [🤝 Benefits & Social Services](#benefits-and-social-services) — 65
+- [🤝 Benefits & Social Services](#benefits-and-social-services) — 71
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 58
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
@@ -2034,6 +2034,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| 211 Grand Montréal | Quebec · Agency | Service finder | Regional 211 service for Grand Montréal and Gatineau: bilingual search of community, social and government services by need and location, plus 24/7 phone and chat with navigators. | https://211qc.ca/ |
 | Québec — Childcare Cost Calculator (subsidized vs non-subsidized) | Quebec · Provincial | Calculator | Compare the net daily cost of subsidized vs non-subsidized childcare for 2026, factoring in Quebec and federal childcare tax assistance. | https://www.finances.gouv.qc.ca/department/tools_services/calculators/daily_childcare_cost/tool_childcare.asp |
 | Québec — Services en ligne, aide financière de dernier recours | Quebec · Provincial | Client portal | Mon dossier portal for Québec social assistance: verify payment amounts and dates, submit documents online, track appointments and deadlines, apply and make repayments. | https://www.quebec.ca/famille-et-soutien-aux-personnes/aide-sociale-et-solidarite-sociale/services-en-ligne |
 | Retraite Québec — Family Allowance | Quebec · Provincial | Benefit | Quebec's Family Allowance from Retraite Québec: the provincial child benefit paid to families with children under 18, including the handicapped-child supplements, with amounts by family income and the CalculAide estimator for a first application or a change in family situation. | https://www.retraitequebec.gouv.qc.ca/en/citizens/children/family-allowance |
@@ -2042,6 +2043,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| 211 New Brunswick | New Brunswick · Agency | Service finder | New Brunswick's bilingual 211 service: free, confidential help finding community, social and government services across the province, by phone (2-1-1) or online. | https://nb.211.ca/ |
+| 211 Newfoundland and Labrador | Newfoundland and Labrador · Agency | Service finder | Newfoundland and Labrador's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'. | https://nl.211.ca/ |
 | 211 Nova Scotia | Nova Scotia · Agency | Service finder | Nova Scotia's 211 service: free, confidential information and referral to programs and services from community groups, nonprofits and government departments across the province, 24 hours a day, with interpretation in over 240 languages. | https://ns.211.ca/ |
 | 211 Prince Edward Island | Prince Edward Island · Agency | Service finder | PEI's 211 service: free, confidential help finding community and social resources across the Island — searchable online, or call or text 2-1-1, or email help@pe.211.ca, 24 hours a day, with interpretation in over 240 languages. | https://pe.211.ca/ |
 | New Brunswick — Financial Help Calculator | New Brunswick · Provincial | Calculator | Social Development New Brunswick's official financial help calculator: answer questions about your household and income to estimate the provincial financial help and social assistance you may qualify for before you apply. | https://nbsocialdevelopment.my.site.com/calculator/s/?language=en_US |
@@ -2059,6 +2062,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| 211 Northwest Territories | Northwest Territories · Agency | Service finder | Northwest Territories' 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'. | https://nt.211.ca/ |
+| 211 Nunavut | Nunavut · Agency | Service finder | Nunavut's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'. | https://nu.211.ca/ |
+| 211 Yukon | Yukon · Agency | Service finder | Yukon's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'. | https://yt.211.ca/ |
 | Northwest Territories — Income Assistance Program | Northwest Territories · Provincial | Income assistance | The NWT's Income Assistance Program under ECE's Income Security Programs: financial assistance for basic and enhanced needs — food, shelter, utilities, clothing, childcare — assessed by community and family size, applied for through regional ECE Service Centres. | https://www.ece.gov.nt.ca/en/services/income-security-programs/income-assistance-program |
 | Nunavut — Income Assistance Program | Nunavut · Provincial | Income assistance | Nunavut's Income Assistance Program: a last-resort program helping Nunavummiut 18 and older in financial need meet basic needs, with monthly financial assessments and Productive Choices worked out with a community Income Assistance Worker. | https://www.gov.nu.ca/en/social-supports/income-assistance-program |
 | Yukon — Apply for Social Assistance | Yukon · Provincial | Income assistance | Yukon's social assistance application page: financial help for residents 19 and older who cannot meet basic living costs, booked through a pre-intake call and intake appointment with a social worker, with monthly re-application through the assistance application card. | https://yukon.ca/en/legal-and-social-supports/supports-adults-and-seniors/apply-social-assistance |
