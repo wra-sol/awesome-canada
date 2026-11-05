@@ -1722,6 +1722,54 @@
     "dateAdded": "2026-11-03"
   },
   {
+    "name": "211 New Brunswick",
+    "level": "Agency",
+    "jurisdiction": "New Brunswick",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "New Brunswick's bilingual 211 service: free, confidential help finding community, social and government services across the province, by phone (2-1-1) or online.",
+    "url": "https://nb.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "new brunswick"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "211 Newfoundland and Labrador",
+    "level": "Agency",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Newfoundland and Labrador's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
+    "url": "https://nl.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "211 Northwest Territories",
+    "level": "Agency",
+    "jurisdiction": "Northwest Territories",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Northwest Territories' 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
+    "url": "https://nt.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "northwest territories"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
     "name": "211 Nova Scotia",
     "level": "Agency",
     "jurisdiction": "Nova Scotia",
@@ -1736,6 +1784,22 @@
       "nova scotia"
     ],
     "dateAdded": "2026-11-03"
+  },
+  {
+    "name": "211 Nunavut",
+    "level": "Agency",
+    "jurisdiction": "Nunavut",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Nunavut's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
+    "url": "https://nu.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "nunavut"
+    ],
+    "dateAdded": "2026-11-04"
   },
   {
     "name": "211 Ontario",
@@ -1787,6 +1851,24 @@
     "dateAdded": "2026-11-03"
   },
   {
+    "name": "211 Grand Montréal",
+    "level": "Agency",
+    "jurisdiction": "Quebec",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Regional 211 service for Grand Montréal and Gatineau: bilingual search of community, social and government services by need and location, plus 24/7 phone and chat with navigators.",
+    "url": "https://211qc.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "quebec",
+      "montreal",
+      "gatineau"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
     "name": "211 Saskatchewan",
     "level": "Agency",
     "jurisdiction": "Saskatchewan",
@@ -1801,6 +1883,22 @@
       "saskatchewan"
     ],
     "dateAdded": "2026-11-03"
+  },
+  {
+    "name": "211 Yukon",
+    "level": "Agency",
+    "jurisdiction": "Yukon",
+    "category": "benefits",
+    "type": "Service finder",
+    "description": "Yukon's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
+    "url": "https://yt.211.ca/",
+    "tags": [
+      "211",
+      "social services",
+      "referrals",
+      "yukon"
+    ],
+    "dateAdded": "2026-11-04"
   },
   {
     "name": "Alberta Disability Income Assistance (AISH and ADAP)",
@@ -13306,6 +13404,21 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Elections Manitoba — Voter Registration Service",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Check if you are registered to vote, update your information, or register for the first time with Elections Manitoba's online voter registration service.",
+    "url": "https://electionsmanitoba.ca/en/Voting/Register_of_Voters",
+    "tags": [
+      "Manitoba",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
     "name": "Elections New Brunswick",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -13371,6 +13484,21 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Elections NL — Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register online to be added to Newfoundland and Labrador's Voters List, update your address, or check whether you are registered, with Elections NL's online service.",
+    "url": "https://www.elections.gov.nl.ca/voters/registration/",
+    "tags": [
+      "Newfoundland and Labrador",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
     "name": "Elections NWT — Electoral Districts & Maps",
     "level": "Provincial",
     "jurisdiction": "Northwest Territories",
@@ -13384,6 +13512,36 @@
       "northwest territories"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Elections NWT — Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote or update your registration with Elections NWT's online Voter Registration Tool (ID and proof of residence upload; processed within about two business days).",
+    "url": "https://www.electionsnwt.ca/en/voter-registration",
+    "tags": [
+      "Northwest Territories",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
+  },
+  {
+    "name": "Elections Nunavut — Online Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote in Nunavut or update your registration through Elections Nunavut's secure Voter Registration Portal, and check your registration status online once processed.",
+    "url": "https://www.elections.nu.ca/en/online-voter-registration",
+    "tags": [
+      "Nunavut",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
   },
   {
     "name": "Elections Ontario — eRegistration",
@@ -13515,6 +13673,21 @@
       "open data"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Elections PEI — Registration & Eligibility",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Check or update your registration on Prince Edward Island's Voter Registry through Elections PEI's Registration Portal, or confirm eligibility rules for provincial, municipal, school trustee and referendum votes.",
+    "url": "https://www.electionspei.ca/registration-eligibility",
+    "tags": [
+      "Prince Edward Island",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
   },
   {
     "name": "Élections Québec",
@@ -13718,6 +13891,21 @@
       "saskatchewan"
     ],
     "dateAdded": "2026-08-26"
+  },
+  {
+    "name": "Elections Saskatchewan — Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "Saskatchewan",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote, update your registration, or check your place on Saskatchewan's permanent voters list through Elections Saskatchewan's online voter registration service.",
+    "url": "https://voterregistration.elections.sk.ca/",
+    "tags": [
+      "Saskatchewan",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-04"
   },
   {
     "name": "Saskatchewan — Contribution Search Tool",
@@ -43491,193 +43679,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "211 New Brunswick",
-    "level": "Agency",
-    "jurisdiction": "New Brunswick",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "New Brunswick's bilingual 211 service: free, confidential help finding community, social and government services across the province, by phone (2-1-1) or online.",
-    "url": "https://nb.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "new brunswick"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "211 Newfoundland and Labrador",
-    "level": "Agency",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Newfoundland and Labrador's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
-    "url": "https://nl.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "newfoundland and labrador"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "211 Northwest Territories",
-    "level": "Agency",
-    "jurisdiction": "Northwest Territories",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Northwest Territories' 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
-    "url": "https://nt.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "northwest territories"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "211 Yukon",
-    "level": "Agency",
-    "jurisdiction": "Yukon",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Yukon's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
-    "url": "https://yt.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "yukon"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "211 Nunavut",
-    "level": "Agency",
-    "jurisdiction": "Nunavut",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Nunavut's 211 service: search community, government and social services by topic and location, or dial 2-1-1 for a navigator — 'Help starts here'.",
-    "url": "https://nu.211.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "nunavut"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "211 Grand Montréal",
-    "level": "Agency",
-    "jurisdiction": "Quebec",
-    "category": "benefits",
-    "type": "Service finder",
-    "description": "Regional 211 service for Grand Montréal and Gatineau: bilingual search of community, social and government services by need and location, plus 24/7 phone and chat with navigators.",
-    "url": "https://211qc.ca/",
-    "tags": [
-      "211",
-      "social services",
-      "referrals",
-      "quebec",
-      "montreal",
-      "gatineau"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "Elections Saskatchewan — Voter Registration",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "elections",
-    "type": "Voter registration",
-    "description": "Register to vote, update your registration, or check your place on Saskatchewan's permanent voters list through Elections Saskatchewan's online voter registration service.",
-    "url": "https://voterregistration.elections.sk.ca/",
-    "tags": [
-      "Saskatchewan",
-      "elections",
-      "voter registration"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "Elections Manitoba — Voter Registration Service",
-    "level": "Provincial",
-    "jurisdiction": "Manitoba",
-    "category": "elections",
-    "type": "Voter registration",
-    "description": "Check if you are registered to vote, update your information, or register for the first time with Elections Manitoba's online voter registration service.",
-    "url": "https://electionsmanitoba.ca/en/Voting/Register_of_Voters",
-    "tags": [
-      "Manitoba",
-      "elections",
-      "voter registration"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "Elections NWT — Voter Registration",
-    "level": "Provincial",
-    "jurisdiction": "Northwest Territories",
-    "category": "elections",
-    "type": "Voter registration",
-    "description": "Register to vote or update your registration with Elections NWT's online Voter Registration Tool (ID and proof of residence upload; processed within about two business days).",
-    "url": "https://www.electionsnwt.ca/en/voter-registration",
-    "tags": [
-      "Northwest Territories",
-      "elections",
-      "voter registration"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "Elections Nunavut — Online Voter Registration",
-    "level": "Provincial",
-    "jurisdiction": "Nunavut",
-    "category": "elections",
-    "type": "Voter registration",
-    "description": "Register to vote in Nunavut or update your registration through Elections Nunavut's secure Voter Registration Portal, and check your registration status online once processed.",
-    "url": "https://www.elections.nu.ca/en/online-voter-registration",
-    "tags": [
-      "Nunavut",
-      "elections",
-      "voter registration"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "Elections PEI — Registration & Eligibility",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "elections",
-    "type": "Voter registration",
-    "description": "Check or update your registration on Prince Edward Island's Voter Registry through Elections PEI's Registration Portal, or confirm eligibility rules for provincial, municipal, school trustee and referendum votes.",
-    "url": "https://www.electionspei.ca/registration-eligibility",
-    "tags": [
-      "Prince Edward Island",
-      "elections",
-      "voter registration"
-    ],
-    "dateAdded": "2026-11-04"
-  },
-  {
-    "name": "Elections NL — Voter Registration",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "elections",
-    "type": "Voter registration",
-    "description": "Register online to be added to Newfoundland and Labrador's Voters List, update your address, or check whether you are registered, with Elections NL's online service.",
-    "url": "https://www.elections.gov.nl.ca/voters/registration/",
-    "tags": [
-      "Newfoundland and Labrador",
-      "elections",
-      "voter registration"
-    ],
-    "dateAdded": "2026-11-04"
   }
 ]
