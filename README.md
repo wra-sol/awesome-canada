@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2756 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2761 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -55,7 +55,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 75
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 80
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 49
 - [🎖️ Veterans & Military](#veterans-and-military) — 37
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 106
@@ -3997,10 +3997,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ombud NB | New Brunswick · Provincial | Ombudsman | Investigates complaints of unfair treatment by New Brunswick provincial government departments, agencies, municipalities and other public bodies. | https://ombudnb.ca/ |
 | NL Consumer Affairs Division | Newfoundland and Labrador · Provincial | Portal | Digital Government and Service NL consumer affairs hub: right to cancel, distance contracts, direct-seller licensing and complaints, identity-theft guidance, plus consumer alerts feed. | https://www.gov.nl.ca/dgsnl/consumer/consumer-affairs/ |
 | Office of the Citizens' Representative — Newfoundland and Labrador | Newfoundland and Labrador · Provincial | Ombudsman | Newfoundland and Labrador's ombudsman office: residents can complain about provincial government services and decisions and request an independent investigation. | https://www.citizensrep.nl.ca/ |
+| Office of the Information and Privacy Commissioner — Newfoundland and Labrador | Newfoundland and Labrador · Provincial | Regulator | Newfoundland and Labrador's information and privacy commissioner — access-to-information reviews, privacy breach complaints, and guidance | https://oipc.nl.ca/ |
 | Public Utilities Board — Regulated Fuel Price Schedule | Newfoundland and Labrador · Provincial | Dashboard | Weekly/daily maximum prices for gas, diesel, furnace oil and propane across all 14+ PUB pricing zones, with current PDF price orders per zone, historical pricing archive and zone map. | https://www.pub.nf.ca/PP_petroleumproducts.php |
 | Nova Scotia Ombudsman | Nova Scotia · Provincial | Ombudsman | Investigates complaints about Nova Scotia provincial and municipal government services and decisions when internal complaint processes have not resolved them. | https://ombudsman.novascotia.ca/ |
+| Office of the Information and Privacy Commissioner — Nova Scotia | Nova Scotia · Provincial | Regulator | Nova Scotia's information and privacy commissioner (Review Officer) — reviews of FOIPOP decisions, privacy complaints, and oversight under FOIPOP, the Municipal Government Act and the Personal Health Information Act | https://oipc.novascotia.ca/ |
 | Service Nova Scotia — Consumer Protection | Nova Scotia · Provincial | Portal | Service NS hub for consumer rights under the Consumer Protection Act: direct sellers, collections, credit reports, payday loans, funerals, condominiums, and online business complaints. | https://beta.novascotia.ca/programs-and-services/consumer-protection |
 | IRAC — Current Regulated Petroleum Prices | PEI · Provincial | Regulated price schedule | IRAC's regulated minimum/maximum pump prices for gasoline, diesel, furnace oil and propane, adjusted twice weekly, with pricing orders and notices (PDF). | https://irac.pe.ca/petrol/current-petroleum-prices/ |
+| Information and Privacy Commissioner — Prince Edward Island | Prince Edward Island · Provincial | Regulator | Prince Edward Island's information and privacy commissioner — reviews complaints about access and privacy decisions under FOIPP and the Health Information Act, with power to make findings and issue orders | https://www.assembly.pe.ca/offices/information-and-privacy-commissioner |
 | OmbudsPEI — Office of the Ombudsperson | Prince Edward Island · Provincial | Ombudsman | Prince Edward Island's independent ombuds office: Islanders can file a free, confidential complaint about unfair treatment by PEI government agencies, municipalities, Health PEI or post-secondary institutions. | https://ombudspei.ca/ |
 | PEI Consumer Services | Prince Edward Island · Provincial | Regulator | Prince Edward Island consumer protection hub: file a consumer complaint, check business and lender licences, and get help with payday loans, gift cards, contracts and collection agencies. Verified live in a real browser (sandbox curl hits a bot wall). | https://www.princeedwardisland.ca/en/topic/consumer-services |
 
@@ -4008,8 +4011,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Northwest Territories Access to Information and Privacy Commission | Northwest Territories · Provincial | Regulator | The Northwest Territories' access-to-information and privacy commission — reviews of access decisions, privacy breach complaints, annual reports and guidance | https://oipc-nt.ca/ |
 | Northwest Territories Ombud | Northwest Territories · Provincial | Ombudsman | The Northwest Territories' independent ombud office: residents can complain about unfair treatment by territorial government departments, boards and agencies. | https://www.nwtombud.ca/ |
 | NWT MACA — Consumer Affairs | Northwest Territories · Provincial | Portal | Consumer Affairs office: free complaint process with electronic form, direct-seller/collection/real-estate/gaming licensing, product recalls and consumer information bulletins. | https://www.maca.gov.nt.ca/en/services/consumer-affairs |
+| Office of the Information and Privacy Commissioner of Nunavut | Nunavut · Provincial | Regulator | Nunavut's information and privacy commissioner — reviews of access decisions under ATIPPA, privacy breach investigations, and published review reports | https://atipp-nu.ca/ |
 | Yukon — Complaint Against a Regulated Business Professional | Yukon · Provincial | Complaint process | Formal complaint process for collection agents, funeral directors, insurers, pawnbrokers, real estate and security professionals, with paired licence-verification pages on yukon.ca. | https://yukon.ca/en/doing-business/professional-licensing/make-complaint-against-government-regulated-business-professional |
 | Yukon Ombudsman | Yukon · Provincial | Ombudsman | Yukon's independent ombudsman: residents can complain about unfair treatment by Yukon government departments and public bodies and ask for an investigation. | https://www.yukonombudsman.ca/ |
 
