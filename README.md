@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2755 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2756 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -58,7 +58,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 75
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 49
 - [🎖️ Veterans & Military](#veterans-and-military) — 37
-- [🗳️ Elections & Democracy](#elections-and-democracy) — 105
+- [🗳️ Elections & Democracy](#elections-and-democracy) — 106
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 31
 
 ---
@@ -4309,6 +4309,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Elections NWT — Electoral Districts & Maps | Northwest Territories · Provincial | Maps & districts | Northwest Territories electoral districts with interactive maps showing district boundaries and community locations. | https://www.electionsnwt.ca/en/electoral-districts |
 | Elections NWT — Voter Registration | Northwest Territories · Provincial | Voter registration | Register to vote or update your registration with Elections NWT's online Voter Registration Tool (ID and proof of residence upload; processed within about two business days). | https://www.electionsnwt.ca/en/voter-registration |
 | Elections Nunavut — Online Voter Registration | Nunavut · Provincial | Voter registration | Register to vote in Nunavut or update your registration through Elections Nunavut's secure Voter Registration Portal, and check your registration status online once processed. | https://www.elections.nu.ca/en/online-voter-registration |
+| Elections Yukon — Online Voter Registration | Yukon · Provincial | Voter registration | Register to vote in a Yukon territorial election, update your registration, or pre-register as a future voter (16-17) through Elections Yukon's secure online voter registration portal. | https://electionsyukon.ca/registration |
 
 ## 📡 Telecommunications & Digital
 

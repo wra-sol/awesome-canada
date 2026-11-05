@@ -43679,5 +43679,20 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
+  },
+  {
+    "name": "Elections Yukon — Online Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote in a Yukon territorial election, update your registration, or pre-register as a future voter (16-17) through Elections Yukon's secure online voter registration portal.",
+    "url": "https://electionsyukon.ca/registration",
+    "tags": [
+      "Yukon",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-05"
   }
 ]
