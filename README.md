@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2760 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2761 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 216
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 217
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -267,6 +267,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | MAMH — Répertoire des municipalités du Québec | Quebec · Provincial | Reference dataset | Daily-updated directory of every Quebec municipality and MRC: contacts, mayors and councillors, population decrees, regional affiliations and inactive organizations. Bulk XML downloads with related reference files. | https://www.donneesquebec.ca/recherche/dataset/repertoire-des-municipalites-du-quebec |
 | Gatineau — Atlas de Gatineau | Gatineau · Municipal | Interactive GIS atlas | Explore Gatineau geospatial data — toggle map layers, view aerial photography, and overlay your own Shapefile, CSV or KML data on the city's interactive atlas. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fcartes%2Fcarte_interactive_atlas_gatineau |
 | Laval — Interactive Map | Laval · Municipal | Interactive city map | Browse Ville de Laval's Geoweb interactive maps to view municipal data layers — properties, services, infrastructure and territory information — by address. | https://www.laval.ca/en/interactive-map/ |
+| Ville de Laval — Données Québec | Laval · Municipal | Open data catalogue | Laval municipal datasets on Données Québec — 130 datasets including heritage buildings, wetlands, forest cover and urban planning data with CSV, GeoJSON and SHP download. | https://www.donneesquebec.ca/recherche/organization/ville-de-laval |
 | Ville de Lévis — Données Québec | Lévis · Municipal | Open data catalogue | Lévis municipal datasets on Données Québec — zonage, adresses, infrastructures with CSV, SHP, GeoJSON, and FGDB download. | https://www.donneesquebec.ca/recherche/organization/ville-de-levis |
 | Longueuil — GéoHub Données ouvertes | Longueuil · Municipal | Portail de données | Open data portal with 12 categories of datasets (environment, transport, infrastructure) downloadable in CSV, GeoJSON, SHP with API access. | https://geohub.longueuil.quebec/pages/donnees-ouvertes |
 | Longueuil Open Data Portal (ArcGIS Hub) | Longueuil · Municipal | Open data hub | ArcGIS Hub open data portal for Longueuil with downloadable GIS datasets (CSV, GeoJSON, Shapefile) and REST/OGC API access — owner VilleLongueuil, ~890 datasets incl. 311 container tracking. Verified live via the OGC items API returning HTTP 200. | https://longueuil.opendata.arcgis.com/ |
@@ -386,7 +387,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Brandon — COBRA Reference Atlas | Brandon · Municipal | Interactive map | Brandon's GIS reference atlas for exploring zoning, back lanes, greenspaces, property boundaries, and layers of spatial city data interactively. | https://opengov.brandon.ca/reference-atlas.php |
-| Dauphin — Monthly Building Statistics | Dauphin · Municipal | Dataset | Monthly PDF downloads of Dauphin building permit statistics showing construction activity by type, value, and month. Updated regularly with current-year data. Useful for tracking local development trends, construction market analysis, and economic research. First planning-zoning depth entry for Dauphin beyond its financial plans page. | https://www.dauphin.ca/p/monthly-building-statistics |
+| Dauphin — Monthly Building Statistics | Dauphin · Municipal | Dataset | Monthly PDF downloads of Dauphin building permit statistics showing construction activity by type, value, and month. Updated regularly with current-year data. Useful for tracking local development trends, construction market analysis, and economic research. First planning-zoning depth entry for Dauphin beyond its financial plans page. | https://www.dauphin.ca/building-statistics |
 | Steinbach — Property & Development Info Map (Zoning) | Steinbach · Municipal | Interactive map | ArcGIS Experience interactive map for property and zoning lookup in Steinbach. Search by address or parcel to view zoning classification, development regulations, and property information. Useful for real estate research, development planning, and community organizing. First planning-zoning depth entry for Steinbach beyond its council video archive. | https://www.steinbach.ca/zoning-map/ |
 | Winnipeg Building Permits Open Data | Winnipeg · Municipal | Building permits | Building permit datasets on Winnipeg Open Data — issued permits with addresses, values, and permit categories for download. | https://data.winnipeg.ca/browse?category=Planning%2C+Property+%26+Development |
 
@@ -735,7 +736,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Manitoba Finance — Budget 2026 | Manitoba · Provincial | Budget documents | Download Manitoba Budget 2026 documents — full budget book, budget speech, Estimates of Expenditure and Budget in Brief (PDF) — with archives of prior provincial budgets. | https://www.gov.mb.ca/budget2026/index.html |
 | Brandon — Compensation Disclosure | Brandon · Municipal | Compensation disclosure | Annual PDF reports disclosing compensation paid to City of Brandon council members and employees earning over $75,000 (now $85,000). Useful for salary research, transparency analysis, and tracking municipal compensation trends. | https://www.brandon.ca/city-hall/compensation-disclosure/ |
 | Brandon Budget and Finance | Brandon · Municipal | Budget documents | Download City of Brandon annual approved budgets (incl. 2026), audited financial statements, and multi-year financial plans. Includes operating and capital breakdowns by department — useful for fiscal accountability in Manitoba's second-largest municipality. | https://www.brandon.ca/city-hall/budget-and-finance |
-| Dauphin Financial Plans and Audited Statements | Dauphin · Municipal | Financial documents | Download City of Dauphin financial plans (2015–2026) and audited consolidated financial statements (2010–2024). Also includes fees, charges, and tax levy bylaws. | https://www.dauphin.ca/p/finance |
+| Dauphin Financial Plans and Audited Statements | Dauphin · Municipal | Financial documents | Download City of Dauphin financial plans (2015–2026) and audited consolidated financial statements (2010–2024). Also includes fees, charges, and tax levy bylaws. | https://www.dauphin.ca/financials |
 | Portage la Prairie Finance Reports & Plans | Portage la Prairie · Municipal | Dataset | Annual budget speeches, multi-year financial plans, audited financial statements, and public sector compensation disclosures as PDFs. Covers 2020-2026 budget cycles. | https://www.city-plap.com/council-administration/plans-reports-and-studies/finance-reports-plans/ |
 | Selkirk Financial Plan & Audited Statements | Selkirk · Municipal | Budget documents | Download City of Selkirk annual financial plans (2024–2026) and audited consolidated financial statements (2020–2024) as direct PDFs, plus financial plan presentations. Covers operating and capital budgets — useful for fiscal accountability and tracking spending in this Manitoba city. First budget/finance data source for Selkirk. | https://www.myselkirk.ca/city-government/city-administration/financialplan/ |
 | Thompson Financial Reports and Plans | Thompson · Municipal | Financial transparency | Downloadable PDFs of Thompson's annual financial plans, financial plan presentations, and Bill 57 public sector compensation disclosures. Track municipal spending, tax rates, and senior staff compensation. | https://www.thompson.ca/p/financial-reports-and-plans |

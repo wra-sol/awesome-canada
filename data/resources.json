@@ -3252,7 +3252,7 @@
     "category": "budget",
     "type": "Financial documents",
     "description": "Download City of Dauphin financial plans (2015–2026) and audited consolidated financial statements (2010–2024). Also includes fees, charges, and tax levy bylaws.",
-    "url": "https://www.dauphin.ca/p/finance",
+    "url": "https://www.dauphin.ca/financials",
     "tags": [
       "budget",
       "Dauphin",
@@ -29321,6 +29321,22 @@
     ]
   },
   {
+    "name": "Ville de Laval — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Laval",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Laval municipal datasets on Données Québec — 130 datasets including heritage buildings, wetlands, forest cover and urban planning data with CSV, GeoJSON and SHP download.",
+    "url": "https://www.donneesquebec.ca/recherche/organization/ville-de-laval",
+    "tags": [
+      "laval",
+      "quebec",
+      "open data",
+      "données québec"
+    ],
+    "dateAdded": "2026-11-06"
+  },
+  {
     "name": "Ville de Lévis — Données Québec",
     "level": "Municipal",
     "jurisdiction": "Lévis",
@@ -32404,7 +32420,7 @@
     "category": "planning-zoning",
     "type": "Dataset",
     "description": "Monthly PDF downloads of Dauphin building permit statistics showing construction activity by type, value, and month. Updated regularly with current-year data. Useful for tracking local development trends, construction market analysis, and economic research. First planning-zoning depth entry for Dauphin beyond its financial plans page.",
-    "url": "https://www.dauphin.ca/p/monthly-building-statistics",
+    "url": "https://www.dauphin.ca/building-statistics",
     "tags": [
       "Dauphin",
       "building permits",
