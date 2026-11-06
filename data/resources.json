@@ -29355,7 +29355,7 @@
   {
     "name": "Ville de Saint-Hyacinthe — Données Québec",
     "level": "Municipal",
-    "jurisdiction": "Saint-Hyacinthe",
+    "jurisdiction": "Quebec",
     "category": "open-data",
     "type": "Open data catalogue",
     "description": "Saint-Hyacinthe municipal datasets on Données Québec — 27 datasets including zoning, electoral districts, civic addresses, the cycling network and fire hydrants, with downloadable open data.",
@@ -29371,7 +29371,7 @@
   {
     "name": "Ville de Saint-Jean-sur-Richelieu — Données Québec",
     "level": "Municipal",
-    "jurisdiction": "Saint-Jean-sur-Richelieu",
+    "jurisdiction": "Quebec",
     "category": "open-data",
     "type": "Open data catalogue",
     "description": "Saint-Jean-sur-Richelieu municipal datasets on Données Québec — zoning and electoral districts, with downloadable open data.",
