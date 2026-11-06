@@ -200,6 +200,8 @@ const JURISDICTION_TO_REGION = {
   'Drummondville':             'qc',
   'Granby':                    'qc',
   'Saint-Jérôme':              'qc',
+  'Saint-Hyacinthe':            'qc',
+  'Saint-Jean-sur-Richelieu':   'qc',
   'Beloeil':                   'qc',
   'Mascouche':                 'qc',
 
