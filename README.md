@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2761 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2760 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -41,7 +41,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 71
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
-- [🛣️ Transportation & Roads](#transportation-and-roads) — 58
+- [🛣️ Transportation & Roads](#transportation-and-roads) — 57
 - [🚌 Transit & Mobility](#transit-and-mobility) — 153
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 40
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 97
@@ -2291,7 +2291,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | PEI 511 — Road Conditions | PEI · Provincial | Road conditions map | Official provincial traveller service: interactive map and text report of highway conditions, closures, incidents, construction, road cameras, ferries and parks, plus saved routes with email/SMS alerts. | https://511.gov.pe.ca/ |
 | Fredericton — Web Cameras | Fredericton · Municipal | Web cameras | Embeds five live municipal camera views on the City's own ArcGIS platform for residents to check current conditions around town. | https://www.fredericton.ca/about-fredericton/web-cameras |
 | Halifax — Winter Street and Sidewalk Information Maps | Halifax · Municipal | Winter operations maps | Three interactive maps: winter street information (snow priority level, street ownership, maintenance responsibility), winter sidewalk information, and the overnight winter parking ban zone map. Supports address search and per-street pop-ups. | https://www.halifax.ca/transportation/winter-operations/winter-street-information |
-| St. John's — Traffic Advisories | St. John's · Municipal | Traffic advisories | Live advisory list covering current and scheduled closures for construction, road work, special events and street rehab, each with location and date range, updated as advisories are issued. | https://www.stjohns.ca/resident-services/transportation/traffic-advisories/ |
 
 ### Northern Canada (YT, NT, NU)
 

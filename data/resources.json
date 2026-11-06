@@ -6154,6 +6154,21 @@
     "dateAdded": "2026-10-18"
   },
   {
+    "name": "Office of the Information and Privacy Commissioner — Newfoundland and Labrador",
+    "level": "Provincial",
+    "jurisdiction": "Newfoundland and Labrador",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "Newfoundland and Labrador's information and privacy commissioner — access-to-information reviews, privacy breach complaints, and guidance",
+    "url": "https://oipc.nl.ca/",
+    "tags": [
+      "privacy",
+      "access to information",
+      "oversight"
+    ],
+    "dateAdded": "2026-11-05"
+  },
+  {
     "name": "Public Utilities Board — Regulated Fuel Price Schedule",
     "level": "Provincial",
     "jurisdiction": "Newfoundland and Labrador",
@@ -6171,6 +6186,21 @@
       "pdf"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Northwest Territories Access to Information and Privacy Commission",
+    "level": "Provincial",
+    "jurisdiction": "Northwest Territories",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "The Northwest Territories' access-to-information and privacy commission — reviews of access decisions, privacy breach complaints, annual reports and guidance",
+    "url": "https://oipc-nt.ca/",
+    "tags": [
+      "privacy",
+      "access to information",
+      "oversight"
+    ],
+    "dateAdded": "2026-11-05"
   },
   {
     "name": "Northwest Territories Ombud",
@@ -6221,6 +6251,21 @@
     "dateAdded": "2026-10-13"
   },
   {
+    "name": "Office of the Information and Privacy Commissioner — Nova Scotia",
+    "level": "Provincial",
+    "jurisdiction": "Nova Scotia",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "Nova Scotia's information and privacy commissioner (Review Officer) — reviews of FOIPOP decisions, privacy complaints, and oversight under FOIPOP, the Municipal Government Act and the Personal Health Information Act",
+    "url": "https://oipc.novascotia.ca/",
+    "tags": [
+      "privacy",
+      "access to information",
+      "oversight"
+    ],
+    "dateAdded": "2026-11-05"
+  },
+  {
     "name": "Service Nova Scotia — Consumer Protection",
     "level": "Provincial",
     "jurisdiction": "Nova Scotia",
@@ -6235,6 +6280,21 @@
       "collections"
     ],
     "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "Office of the Information and Privacy Commissioner of Nunavut",
+    "level": "Provincial",
+    "jurisdiction": "Nunavut",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "Nunavut's information and privacy commissioner — reviews of access decisions under ATIPPA, privacy breach investigations, and published review reports",
+    "url": "https://atipp-nu.ca/",
+    "tags": [
+      "privacy",
+      "access to information",
+      "oversight"
+    ],
+    "dateAdded": "2026-11-05"
   },
   {
     "name": "Electrical Safety Authority — Contractor Locator Tool",
@@ -6410,6 +6470,21 @@
       "regulation"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Information and Privacy Commissioner — Prince Edward Island",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "consumer",
+    "type": "Regulator",
+    "description": "Prince Edward Island's information and privacy commissioner — reviews complaints about access and privacy decisions under FOIPP and the Health Information Act, with power to make findings and issue orders",
+    "url": "https://www.assembly.pe.ca/offices/information-and-privacy-commissioner",
+    "tags": [
+      "privacy",
+      "access to information",
+      "oversight"
+    ],
+    "dateAdded": "2026-11-05"
   },
   {
     "name": "OmbudsPEI — Office of the Ombudsperson",
@@ -13921,6 +13996,21 @@
       "elections",
       "saskatchewan"
     ]
+  },
+  {
+    "name": "Elections Yukon — Online Voter Registration",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "elections",
+    "type": "Voter registration",
+    "description": "Register to vote in a Yukon territorial election, update your registration, or pre-register as a future voter (16-17) through Elections Yukon's secure online voter registration portal.",
+    "url": "https://electionsyukon.ca/registration",
+    "tags": [
+      "Yukon",
+      "elections",
+      "voter registration"
+    ],
+    "dateAdded": "2026-11-05"
   },
   {
     "name": "City of Barrie — 2026 Certified Candidates List",
@@ -41370,23 +41460,6 @@
     "dateAdded": "2026-10-10"
   },
   {
-    "name": "St. John's — Traffic Advisories",
-    "level": "Municipal",
-    "jurisdiction": "St. John's",
-    "category": "transport-roads",
-    "type": "Traffic advisories",
-    "description": "Live advisory list covering current and scheduled closures for construction, road work, special events and street rehab, each with location and date range, updated as advisories are issued.",
-    "url": "https://www.stjohns.ca/resident-services/transportation/traffic-advisories/",
-    "tags": [
-      "municipal",
-      "roads",
-      "closures",
-      "traffic",
-      "advisories"
-    ],
-    "dateAdded": "2026-10-10"
-  },
-  {
     "name": "Thunder Bay — Snowplow Status Map",
     "level": "Municipal",
     "jurisdiction": "Thunder Bay",
@@ -43679,95 +43752,5 @@
       "Yukon"
     ],
     "dateAdded": "2026-10-14"
-  },
-  {
-    "name": "Elections Yukon — Online Voter Registration",
-    "level": "Provincial",
-    "jurisdiction": "Yukon",
-    "category": "elections",
-    "type": "Voter registration",
-    "description": "Register to vote in a Yukon territorial election, update your registration, or pre-register as a future voter (16-17) through Elections Yukon's secure online voter registration portal.",
-    "url": "https://electionsyukon.ca/registration",
-    "tags": [
-      "Yukon",
-      "elections",
-      "voter registration"
-    ],
-    "dateAdded": "2026-11-05"
-  },
-  {
-    "name": "Office of the Information and Privacy Commissioner — Newfoundland and Labrador",
-    "level": "Provincial",
-    "jurisdiction": "Newfoundland and Labrador",
-    "category": "consumer",
-    "type": "Regulator",
-    "description": "Newfoundland and Labrador's information and privacy commissioner — access-to-information reviews, privacy breach complaints, and guidance",
-    "url": "https://oipc.nl.ca/",
-    "tags": [
-      "privacy",
-      "access to information",
-      "oversight"
-    ],
-    "dateAdded": "2026-11-05"
-  },
-  {
-    "name": "Northwest Territories Access to Information and Privacy Commission",
-    "level": "Provincial",
-    "jurisdiction": "Northwest Territories",
-    "category": "consumer",
-    "type": "Regulator",
-    "description": "The Northwest Territories' access-to-information and privacy commission — reviews of access decisions, privacy breach complaints, annual reports and guidance",
-    "url": "https://oipc-nt.ca/",
-    "tags": [
-      "privacy",
-      "access to information",
-      "oversight"
-    ],
-    "dateAdded": "2026-11-05"
-  },
-  {
-    "name": "Office of the Information and Privacy Commissioner of Nunavut",
-    "level": "Provincial",
-    "jurisdiction": "Nunavut",
-    "category": "consumer",
-    "type": "Regulator",
-    "description": "Nunavut's information and privacy commissioner — reviews of access decisions under ATIPPA, privacy breach investigations, and published review reports",
-    "url": "https://atipp-nu.ca/",
-    "tags": [
-      "privacy",
-      "access to information",
-      "oversight"
-    ],
-    "dateAdded": "2026-11-05"
-  },
-  {
-    "name": "Office of the Information and Privacy Commissioner — Nova Scotia",
-    "level": "Provincial",
-    "jurisdiction": "Nova Scotia",
-    "category": "consumer",
-    "type": "Regulator",
-    "description": "Nova Scotia's information and privacy commissioner (Review Officer) — reviews of FOIPOP decisions, privacy complaints, and oversight under FOIPOP, the Municipal Government Act and the Personal Health Information Act",
-    "url": "https://oipc.novascotia.ca/",
-    "tags": [
-      "privacy",
-      "access to information",
-      "oversight"
-    ],
-    "dateAdded": "2026-11-05"
-  },
-  {
-    "name": "Information and Privacy Commissioner — Prince Edward Island",
-    "level": "Provincial",
-    "jurisdiction": "Prince Edward Island",
-    "category": "consumer",
-    "type": "Regulator",
-    "description": "Prince Edward Island's information and privacy commissioner — reviews complaints about access and privacy decisions under FOIPP and the Health Information Act, with power to make findings and issue orders",
-    "url": "https://www.assembly.pe.ca/offices/information-and-privacy-commissioner",
-    "tags": [
-      "privacy",
-      "access to information",
-      "oversight"
-    ],
-    "dateAdded": "2026-11-05"
   }
 ]
