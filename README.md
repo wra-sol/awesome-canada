@@ -2588,46 +2588,46 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Canada Strong Pass | Canada · Federal | National pass program | Federal pass (no signup needed) giving free or discounted admission to national parks, national historic sites, national museums and VIA Rail for youth and young adults; renewed for summer 2026 after its 2025 launch. | https://www.canada.ca/en/canadian-heritage/campaigns/canada-pass/about.html |
-| Aulavik National Park | Parks Canada · Federal | National park | Northwest Territories, Banks Island, Muskoxen, world's lowest elevation point in Arctic | https://parks.canada.ca/aulavik |
-| Auyuittuq National Park | Parks Canada · Federal | National park | Baffin Island granite spires and glaciers — Arctic Circle wilderness | https://parks.canada.ca/auyuittuq |
-| Banff National Park | Parks Canada · Federal | National park | Canada's first national park, Rocky Mountain gateway with maps, trails, wildlife info | https://parks.canada.ca/banff |
-| Bruce Peninsula National Park | Parks Canada · Federal | National park | Georgian Bay coastline, Fathom Five marine park, crystal-clear Grotto | https://parks.canada.ca/brucepeninsula |
-| Cape Breton Highlands National Park | Parks Canada · Federal | National park | Nova Scotia's highland plateau, Cabot Trail scenery, coastal hiking | https://parks.canada.ca/capebreton |
-| Elk Island National Park | Parks Canada · Federal | National park | Alberta plains bison sanctuary and dark-sky preserve east of Edmonton | https://parks.canada.ca/elkisland |
-| Fathom Five National Marine Reserve | Parks Canada · Federal | Marine reserve | Lake Huron/Georgian Bay, shipwrecks, underwater preserves | https://parks.canada.ca/fathomfive |
-| Georgian Bay Islands National Park | Parks Canada · Federal | National park | Archipelago in eastern Georgian Bay, accessible by boat | https://parks.canada.ca/gbi |
-| Glacier National Park | Parks Canada · Federal | National park | BC park in the Selkirk Mountains — glaciers, alpine meadows, and Rogers Pass | https://parks.canada.ca/glacier |
-| Grasslands National Park | Parks Canada · Federal | National park | Saskatchewan's mixed-grass prairie park — bison, black-tailed prairie dogs, dark skies | https://parks.canada.ca/grasslands |
-| Gulf Islands National Park Reserve | Parks Canada · Federal | National park reserve | Island-hopping, kayaking, and beaches in the Salish Sea (BC) | https://parks.canada.ca/gulfislands |
-| Gwaii Haanas National Marine Conservation Area | Parks Canada · Federal | Marine conservation | Remote Haida Gwaii archipelago, kayaking, ancient rainforest | https://parks.canada.ca/gwaiihaanas |
-| Ivvavik National Park | Parks Canada · Federal | National park | Northwest Territories, Yukon's Richardson Mountains, wildlife migration | https://parks.canada.ca/ivvavik |
-| Jasper National Park | Parks Canada · Federal | National park | Largest national park in the Canadian Rockies, dark sky preserve | https://parks.canada.ca/jasper |
-| Kejimkujik National Park | Parks Canada · Federal | National park | Nova Scotia inland and seaside park — canoeing, Mi'kmaq cultural landscape, dark skies | https://parks.canada.ca/kejimkujik |
-| Kootenay National Park | Parks Canada · Federal | National park | BC Rockies park with hot springs, painted canyons, and scenic drives | https://parks.canada.ca/kootenay |
-| Kouchibouguac National Park | Parks Canada · Federal | National park | New Brunswick's warm-water beaches, salt marshes, and Acadian forest | https://parks.canada.ca/kouchibouguac |
-| La Mauricie National Park | Parks Canada · Federal | National park | Quebec's Laurentian wilderness, canoe routes, fall colours | https://parks.canada.ca/mauricie |
-| Mingan Archipelago National Park Reserve | Parks Canada · Federal | National park reserve | Quebec's North Shore limestone monoliths, sea caves, and boreal wildlife | https://parks.canada.ca/mingan |
-| Mount Revelstoke National Park | Parks Canada · Federal | National park | Inland temperate rainforest, wildflower meadows, and summit vistas in BC | https://parks.canada.ca/revelstoke |
-| Pacific Rim National Park Reserve | Parks Canada · Federal | National park reserve | Vancouver Island's rugged Pacific coast, Long Beach, rainforests, and West Coast Trail | https://parks.canada.ca/pacificrim |
-| Parks Canada — National Parks System Map | Parks Canada · Federal | Interactive map | Map of all 39 national park and national marine conservation area regions across Canada | https://parks.canada.ca/pn-np/cnpn-cnnp/carte-map |
+| Aulavik National Park | Parks Canada · Federal | National park | Northwest Territories, Banks Island, Muskoxen, world's lowest elevation point in Arctic | https://parks.canada.ca/pn-np/nt/aulavik |
+| Auyuittuq National Park | Parks Canada · Federal | National park | Baffin Island granite spires and glaciers — Arctic Circle wilderness | https://parks.canada.ca/pn-np/nu/auyuittuq |
+| Banff National Park | Parks Canada · Federal | National park | Canada's first national park, Rocky Mountain gateway with maps, trails, wildlife info | https://parks.canada.ca/pn-np/ab/banff |
+| Bruce Peninsula National Park | Parks Canada · Federal | National park | Georgian Bay coastline, Fathom Five marine park, crystal-clear Grotto | https://parks.canada.ca/pn-np/on/bruce |
+| Cape Breton Highlands National Park | Parks Canada · Federal | National park | Nova Scotia's highland plateau, Cabot Trail scenery, coastal hiking | https://parks.canada.ca/pn-np/ns/cbreton |
+| Elk Island National Park | Parks Canada · Federal | National park | Alberta plains bison sanctuary and dark-sky preserve east of Edmonton | https://parks.canada.ca/pn-np/ab/elkisland |
+| Fathom Five National Marine Reserve | Parks Canada · Federal | Marine reserve | Lake Huron/Georgian Bay, shipwrecks, underwater preserves | https://parks.canada.ca/amnc-nmca/on/fathomfive |
+| Georgian Bay Islands National Park | Parks Canada · Federal | National park | Archipelago in eastern Georgian Bay, accessible by boat | https://parks.canada.ca/pn-np/on/georg |
+| Glacier National Park | Parks Canada · Federal | National park | BC park in the Selkirk Mountains — glaciers, alpine meadows, and Rogers Pass | https://parks.canada.ca/pn-np/bc/glacier |
+| Grasslands National Park | Parks Canada · Federal | National park | Saskatchewan's mixed-grass prairie park — bison, black-tailed prairie dogs, dark skies | https://parks.canada.ca/pn-np/sk/grasslands |
+| Gulf Islands National Park Reserve | Parks Canada · Federal | National park reserve | Island-hopping, kayaking, and beaches in the Salish Sea (BC) | https://parks.canada.ca/pn-np/bc/gulf |
+| Gwaii Haanas National Marine Conservation Area | Parks Canada · Federal | Marine conservation | Remote Haida Gwaii archipelago, kayaking, ancient rainforest | https://parks.canada.ca/pn-np/bc/gwaiihaanas |
+| Ivvavik National Park | Parks Canada · Federal | National park | Northwest Territories, Yukon's Richardson Mountains, wildlife migration | https://parks.canada.ca/pn-np/yt/ivvavik |
+| Jasper National Park | Parks Canada · Federal | National park | Largest national park in the Canadian Rockies, dark sky preserve | https://parks.canada.ca/pn-np/ab/jasper |
+| Kejimkujik National Park | Parks Canada · Federal | National park | Nova Scotia inland and seaside park — canoeing, Mi'kmaq cultural landscape, dark skies | https://parks.canada.ca/pn-np/ns/kejimkujik |
+| Kootenay National Park | Parks Canada · Federal | National park | BC Rockies park with hot springs, painted canyons, and scenic drives | https://parks.canada.ca/pn-np/bc/kootenay |
+| Kouchibouguac National Park | Parks Canada · Federal | National park | New Brunswick's warm-water beaches, salt marshes, and Acadian forest | https://parks.canada.ca/pn-np/nb/kouchibouguac |
+| La Mauricie National Park | Parks Canada · Federal | National park | Quebec's Laurentian wilderness, canoe routes, fall colours | https://parks.canada.ca/pn-np/qc/mauricie |
+| Mingan Archipelago National Park Reserve | Parks Canada · Federal | National park reserve | Quebec's North Shore limestone monoliths, sea caves, and boreal wildlife | https://parks.canada.ca/pn-np/qc/mingan |
+| Mount Revelstoke National Park | Parks Canada · Federal | National park | Inland temperate rainforest, wildflower meadows, and summit vistas in BC | https://parks.canada.ca/pn-np/bc/revelstoke |
+| Pacific Rim National Park Reserve | Parks Canada · Federal | National park reserve | Vancouver Island's rugged Pacific coast, Long Beach, rainforests, and West Coast Trail | https://parks.canada.ca/pn-np/bc/pacificrim |
+| Parks Canada — National Parks System Map | Parks Canada · Federal | Interactive map | Map of all 39 national park and national marine conservation area regions across Canada | https://parks.canada.ca/pn-np/plan#map |
 | Parks Canada — Reservations | Parks Canada · Federal | Booking portal | Book camping, roofed accommodations, and permits across all national parks | https://parks.canada.ca/voyage-travel/reserve |
 | Parks Canada Reservation Service | Parks Canada · Federal | Booking service | Official reservations for campsites, backcountry zones, oTENTik tents, the West Coast Trail, Chilkoot Trail and shuttle services across national parks. | https://reservation.pc.gc.ca/ |
-| Point Pelee National Park | Parks Canada · Federal | National park | Southernmost mainland Canada — birding hotspot and monarch butterfly migration | https://parks.canada.ca/pelee |
-| Prince Albert National Park | Parks Canada · Federal | National park | Saskatchewan boreal forest park — lakes, wildlife, canoeing, and Grey Owl's cabin | https://parks.canada.ca/princealbert |
-| Pukaskwa National Park | Parks Canada · Federal | National park | Rugged Lake Superior wilderness, coastal hiking, and Indigenous heritage in Ontario | https://parks.canada.ca/pukaskwa |
-| Qausuittuq National Park | Parks Canada · Federal | National park | Nunavut's Bathurst Island, polar bear migration route, Arctic landscapes | https://parks.canada.ca/qausuittuq |
-| Quttinirpaaq National Park | Parks Canada · Federal | National park | Nunavut's Ellesmere Island, polar desert, extreme Arctic landscape | https://parks.canada.ca/quttinirpaaq |
-| Riding Mountain National Park | Parks Canada · Federal | National park | Prairies, aspen parkland, and boreal forest — bison and dark sky preserve | https://parks.canada.ca/riding |
-| Rouge National Urban Park | Parks Canada · Federal | National urban park | Canada's first national urban park, connecting Toronto to nature | https://parks.canada.ca/rouge |
-| Sirmilik National Park | Parks Canada · Federal | National park | Nunavut's Place of the Glacier, bowhead whales, narwhals, Inuit homeland | https://parks.canada.ca/sirmilik |
-| Terra Nova National Park | Parks Canada · Federal | National park | Newfoundland's Atlantic fjords, boreal forest, and iceberg viewing | https://parks.canada.ca/terranova |
-| Thousand Islands National Park | Parks Canada · Federal | National park | St. Lawrence River islands, kayak-accessible camping, near Kingston | https://parks.canada.ca/thousandislands |
-| Tuktut Nogait National Park | Parks Canada · Federal | National park | Western Arctic Bluenose-West caribou calving grounds — Inuvialuit homeland | https://parks.canada.ca/tuktutnogait |
-| Ukkusiksalik National Park | Parks Canada · Federal | National park | Nunavut's Hudson Bay coast, Inuit cultural landscape, polar bears | https://parks.canada.ca/ukkusiksalik |
-| Vuntut National Park | Parks Canada · Federal | National park | Yukon's northernmost park, Yukon's first national park, Inuit homeland | https://parks.canada.ca/vuntut |
-| Waterton Lakes National Park | Parks Canada · Federal | National park | Canada's portion of the Waterton-Glacier International Peace Park | https://parks.canada.ca/waterton |
-| Wood Buffalo National Park | Parks Canada · Federal | National park | Largest national park in Canada, UNESCO Dark Sky Preserve, world's largest beaver dam | https://parks.canada.ca/woodbuffalo |
-| Yoho National Park | Parks Canada · Federal | National park | BC Rockies park of waterfalls, Burgess Shale fossils, and Emerald Lake | https://parks.canada.ca/yoho |
+| Point Pelee National Park | Parks Canada · Federal | National park | Southernmost mainland Canada — birding hotspot and monarch butterfly migration | https://parks.canada.ca/pn-np/on/pelee |
+| Prince Albert National Park | Parks Canada · Federal | National park | Saskatchewan boreal forest park — lakes, wildlife, canoeing, and Grey Owl's cabin | https://parks.canada.ca/pn-np/sk/princealbert |
+| Pukaskwa National Park | Parks Canada · Federal | National park | Rugged Lake Superior wilderness, coastal hiking, and Indigenous heritage in Ontario | https://parks.canada.ca/pn-np/on/pukaskwa |
+| Qausuittuq National Park | Parks Canada · Federal | National park | Nunavut's Bathurst Island, polar bear migration route, Arctic landscapes | https://parks.canada.ca/pn-np/nu/qausuittuq |
+| Quttinirpaaq National Park | Parks Canada · Federal | National park | Nunavut's Ellesmere Island, polar desert, extreme Arctic landscape | https://parks.canada.ca/pn-np/nu/quttinirpaaq |
+| Riding Mountain National Park | Parks Canada · Federal | National park | Prairies, aspen parkland, and boreal forest — bison and dark sky preserve | https://parks.canada.ca/pn-np/mb/riding |
+| Rouge National Urban Park | Parks Canada · Federal | National urban park | Canada's first national urban park, connecting Toronto to nature | https://parks.canada.ca/pn-np/on/rouge |
+| Sirmilik National Park | Parks Canada · Federal | National park | Nunavut's Place of the Glacier, bowhead whales, narwhals, Inuit homeland | https://parks.canada.ca/pn-np/nu/sirmilik |
+| Terra Nova National Park | Parks Canada · Federal | National park | Newfoundland's Atlantic fjords, boreal forest, and iceberg viewing | https://parks.canada.ca/pn-np/nl/terranova |
+| Thousand Islands National Park | Parks Canada · Federal | National park | St. Lawrence River islands, kayak-accessible camping, near Kingston | https://parks.canada.ca/pn-np/on/1000 |
+| Tuktut Nogait National Park | Parks Canada · Federal | National park | Western Arctic Bluenose-West caribou calving grounds — Inuvialuit homeland | https://parks.canada.ca/pn-np/nt/tuktutnogait |
+| Ukkusiksalik National Park | Parks Canada · Federal | National park | Nunavut's Hudson Bay coast, Inuit cultural landscape, polar bears | https://parks.canada.ca/pn-np/nu/ukkusiksalik |
+| Vuntut National Park | Parks Canada · Federal | National park | Yukon's northernmost park, Yukon's first national park, Inuit homeland | https://parks.canada.ca/pn-np/yt/vuntut |
+| Waterton Lakes National Park | Parks Canada · Federal | National park | Canada's portion of the Waterton-Glacier International Peace Park | https://parks.canada.ca/pn-np/ab/waterton |
+| Wood Buffalo National Park | Parks Canada · Federal | National park | Largest national park in Canada, UNESCO Dark Sky Preserve, world's largest beaver dam | https://parks.canada.ca/pn-np/nt/woodbuffalo |
+| Yoho National Park | Parks Canada · Federal | National park | BC Rockies park of waterfalls, Burgess Shale fossils, and Emerald Lake | https://parks.canada.ca/pn-np/bc/yoho |
 
 ### British Columbia
 
@@ -3289,14 +3289,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | National Gallery of Canada — Collection Search | Canada · Federal | Art collection | Explore the national art collection online with high-resolution images | https://www.gallery.ca/ |
 | Telefilm Canada — Funded Projects Directory | Canada · Federal | Funding registry | Searchable directory of every Canadian feature film financed by Telefilm since FY2013-14 across development, production, marketing and Talent to Watch programs, filterable by fiscal year. | https://telefilm.ca/en/who-we-are/directories/funded-projects-directory |
 | TERMIUM Plus | Canada · Federal | Language database | The Government of Canada's terminology bank — millions of terms in English, French, Spanish and Portuguese from the Translation Bureau, one of the largest in the world. | https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng |
-| Forillon National Park | Parks Canada · Federal | National park | Gaspé Peninsula tip, marine life, historic buildings, hiking | https://parks.canada.ca/forillon |
-| Fundy National Park | Parks Canada · Federal | National park | World's highest tides, bay of Fundy coastline, historic covered bridges | https://parks.canada.ca/fundy |
-| Gros Morne National Park | Parks Canada · Federal | National park | UNESCO World Heritage Site, dramatic fjords and tablelands, Newfoundland geology | https://parks.canada.ca/grosmorne |
-| Kluane National Park | Parks Canada · Federal | National park | UNESCO World Heritage Site, Canada's highest peaks, glaciers, home of the Kluane National Park Reserve | https://parks.canada.ca/kluane |
-| Lachine Canal National Historic Site | Parks Canada · Federal | Historic site | Montreal's historic canal, cycling path, urban heritage | https://parks.canada.ca/lachine |
-| Nahanni National Park Reserve | Parks Canada · Federal | National park reserve | Spectacular river canyons, waterfalls, UNESCO World Heritage Site, remote wilderness | https://parks.canada.ca/nahanni |
+| Forillon National Park | Parks Canada · Federal | National park | Gaspé Peninsula tip, marine life, historic buildings, hiking | https://parks.canada.ca/pn-np/qc/forillon |
+| Fundy National Park | Parks Canada · Federal | National park | World's highest tides, bay of Fundy coastline, historic covered bridges | https://parks.canada.ca/pn-np/nb/fundy |
+| Gros Morne National Park | Parks Canada · Federal | National park | UNESCO World Heritage Site, dramatic fjords and tablelands, Newfoundland geology | https://parks.canada.ca/pn-np/nl/grosmorne |
+| Kluane National Park | Parks Canada · Federal | National park | UNESCO World Heritage Site, Canada's highest peaks, glaciers, home of the Kluane National Park Reserve | https://parks.canada.ca/pn-np/yt/kluane |
+| Lachine Canal National Historic Site | Parks Canada · Federal | Historic site | Montreal's historic canal, cycling path, urban heritage | https://parks.canada.ca/lhn-nhs/qc/lachine |
+| Nahanni National Park Reserve | Parks Canada · Federal | National park reserve | Spectacular river canyons, waterfalls, UNESCO World Heritage Site, remote wilderness | https://parks.canada.ca/pn-np/nt/nahanni |
 | Old Port of Montreal | Parks Canada · Federal | Historic/cultural | Montreal's waterfront heritage zone with science centre and events | https://www.oldportofmontreal.com/ |
-| Rideau Canal National Historic Site | Parks Canada · Federal | Historic site | UNESCO World Heritage Site, Ottawa's Rideau Canal — winter skating, summer boating | https://parks.canada.ca/rideau |
+| Rideau Canal National Historic Site | Parks Canada · Federal | Historic site | UNESCO World Heritage Site, Ottawa's Rideau Canal — winter skating, summer boating | https://parks.canada.ca/lhn-nhs/on/rideau |
 | Writing-on-Stone National Historic Site | Parks Canada · Federal | Historic site | Sacred Blackfoot landscape, Alberta, petroglyphs and pictographs | https://parks.canada.ca/culture/spm-whs/sites-canada/sec02t |
 | CBC Radio-Canada — Archives | Canada · Crown Corp | Archive | Digitized Canadian news, radio, and TV archives from CBC/Radio-Canada | https://www.cbc.ca/archives |
 | Ingenium — Collection Online | Canada · Crown Corp | Museum collections database | Search digital records and images from Canada's national science and technology collection — 150,000+ artifacts across the science, aviation and agriculture museums. | https://collection.ingenium.ca/en/ |
@@ -3748,7 +3748,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Québec en Alerte | Quebec · Provincial | Emergency alerts | Québec's official provincial public alerting system — a single page showing the current alert level by region, and where residents register to receive SMS, email and voice messages from the province during an emergency. | https://alerte.gouv.qc.ca/fr |
 | SOPFEU — Interactive Wildfire Map | Quebec · Provincial | Interactive map | Real-time map of active forest fires (size, status, cause), fire danger index by zone, and current burn restrictions across Quebec, with saved locations and email alerts; updated daily at 9am. | https://www.sopfeu.qc.ca/carte/ |
-| Vigilance — Surveillance de la crue des eaux | Quebec · Provincial | Monitoring portal | Sécurité publique real-time flood watch: river gauges, flood-extent surveillance maps and civil-security updates during spring freshet; complements regulatory flood-zone cartography. | https://vigilance.geo.msp.gouv.qc.ca/ |
+| Vigilance — Surveillance de la crue des eaux | Quebec · Provincial | Monitoring portal | Sécurité publique real-time flood watch: river gauges, flood-extent surveillance maps and civil-security updates during spring freshet; complements regulatory flood-zone cartography. | https://vigilance.geo.securite.gouv.qc.ca/ |
 | Gatineau — Avis importants, alertes et urgences | Gatineau · Municipal | Notices and alerts | Ville de Gatineau's official important-notices, alerts and emergencies hub, with a direct path to subscribing to municipal emergency notifications. | https://www.gatineau.ca/portail/default.aspx?p=avis_importants_alertes_urgences |
 | Montreal — Avis et alertes | Montreal · Municipal | Notices and alerts | Ville de Montréal's official notices-and-alerts board, the municipal channel residents check for city-issued advisories and emergency notices. | https://montreal.ca/avis-et-alertes |
 | Montréal — Vue sur la sécurité publique | Montreal · Municipal | Crime data visualization | Visualize SPVM police data on Montreal crime since 2015 through an interactive map and charts, by borough, category and time period. | https://ville.montreal.qc.ca/vuesurlasecuritepublique/ |

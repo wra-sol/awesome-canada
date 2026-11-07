@@ -9452,7 +9452,7 @@
     "category": "culture",
     "type": "National park",
     "description": "Gaspé Peninsula tip, marine life, historic buildings, hiking",
-    "url": "https://parks.canada.ca/forillon",
+    "url": "https://parks.canada.ca/pn-np/qc/forillon",
     "tags": [
       "parks",
       "Quebec"
@@ -9465,7 +9465,7 @@
     "category": "culture",
     "type": "National park",
     "description": "World's highest tides, bay of Fundy coastline, historic covered bridges",
-    "url": "https://parks.canada.ca/fundy",
+    "url": "https://parks.canada.ca/pn-np/nb/fundy",
     "tags": [
       "parks",
       "outdoors"
@@ -9478,7 +9478,7 @@
     "category": "culture",
     "type": "National park",
     "description": "UNESCO World Heritage Site, dramatic fjords and tablelands, Newfoundland geology",
-    "url": "https://parks.canada.ca/grosmorne",
+    "url": "https://parks.canada.ca/pn-np/nl/grosmorne",
     "tags": [
       "parks",
       "outdoors"
@@ -9491,7 +9491,7 @@
     "category": "culture",
     "type": "National park",
     "description": "UNESCO World Heritage Site, Canada's highest peaks, glaciers, home of the Kluane National Park Reserve",
-    "url": "https://parks.canada.ca/kluane",
+    "url": "https://parks.canada.ca/pn-np/yt/kluane",
     "tags": [
       "parks",
       "outdoors"
@@ -9504,7 +9504,7 @@
     "category": "culture",
     "type": "Historic site",
     "description": "Montreal's historic canal, cycling path, urban heritage",
-    "url": "https://parks.canada.ca/lachine",
+    "url": "https://parks.canada.ca/lhn-nhs/qc/lachine",
     "tags": [
       "history",
       "Montreal"
@@ -9517,7 +9517,7 @@
     "category": "culture",
     "type": "National park reserve",
     "description": "Spectacular river canyons, waterfalls, UNESCO World Heritage Site, remote wilderness",
-    "url": "https://parks.canada.ca/nahanni",
+    "url": "https://parks.canada.ca/pn-np/nt/nahanni",
     "tags": [
       "parks",
       "outdoors"
@@ -9543,7 +9543,7 @@
     "category": "culture",
     "type": "Historic site",
     "description": "UNESCO World Heritage Site, Ottawa's Rideau Canal — winter skating, summer boating",
-    "url": "https://parks.canada.ca/rideau",
+    "url": "https://parks.canada.ca/lhn-nhs/on/rideau",
     "tags": [
       "history",
       "Ottawa"
@@ -30689,7 +30689,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Northwest Territories, Banks Island, Muskoxen, world's lowest elevation point in Arctic",
-    "url": "https://parks.canada.ca/aulavik",
+    "url": "https://parks.canada.ca/pn-np/nt/aulavik",
     "tags": [
       "parks",
       "remote"
@@ -30702,7 +30702,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Baffin Island granite spires and glaciers — Arctic Circle wilderness",
-    "url": "https://parks.canada.ca/auyuittuq",
+    "url": "https://parks.canada.ca/pn-np/nu/auyuittuq",
     "tags": [
       "parks",
       "Nunavut"
@@ -30715,7 +30715,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Canada's first national park, Rocky Mountain gateway with maps, trails, wildlife info",
-    "url": "https://parks.canada.ca/banff",
+    "url": "https://parks.canada.ca/pn-np/ab/banff",
     "tags": [
       "parks",
       "outdoors"
@@ -30728,7 +30728,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Georgian Bay coastline, Fathom Five marine park, crystal-clear Grotto",
-    "url": "https://parks.canada.ca/brucepeninsula",
+    "url": "https://parks.canada.ca/pn-np/on/bruce",
     "tags": [
       "parks",
       "outdoors"
@@ -30741,7 +30741,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Nova Scotia's highland plateau, Cabot Trail scenery, coastal hiking",
-    "url": "https://parks.canada.ca/capebreton",
+    "url": "https://parks.canada.ca/pn-np/ns/cbreton",
     "tags": [
       "parks",
       "outdoors"
@@ -30754,7 +30754,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Alberta plains bison sanctuary and dark-sky preserve east of Edmonton",
-    "url": "https://parks.canada.ca/elkisland",
+    "url": "https://parks.canada.ca/pn-np/ab/elkisland",
     "tags": [
       "parks",
       "Alberta"
@@ -30767,7 +30767,7 @@
     "category": "parks",
     "type": "Marine reserve",
     "description": "Lake Huron/Georgian Bay, shipwrecks, underwater preserves",
-    "url": "https://parks.canada.ca/fathomfive",
+    "url": "https://parks.canada.ca/amnc-nmca/on/fathomfive",
     "tags": [
       "marine",
       "conservation"
@@ -30780,7 +30780,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Archipelago in eastern Georgian Bay, accessible by boat",
-    "url": "https://parks.canada.ca/gbi",
+    "url": "https://parks.canada.ca/pn-np/on/georg",
     "tags": [
       "parks",
       "Ontario"
@@ -30793,7 +30793,7 @@
     "category": "parks",
     "type": "National park",
     "description": "BC park in the Selkirk Mountains — glaciers, alpine meadows, and Rogers Pass",
-    "url": "https://parks.canada.ca/glacier",
+    "url": "https://parks.canada.ca/pn-np/bc/glacier",
     "tags": [
       "parks",
       "BC"
@@ -30806,7 +30806,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Saskatchewan's mixed-grass prairie park — bison, black-tailed prairie dogs, dark skies",
-    "url": "https://parks.canada.ca/grasslands",
+    "url": "https://parks.canada.ca/pn-np/sk/grasslands",
     "tags": [
       "parks",
       "Saskatchewan"
@@ -30819,7 +30819,7 @@
     "category": "parks",
     "type": "National park reserve",
     "description": "Island-hopping, kayaking, and beaches in the Salish Sea (BC)",
-    "url": "https://parks.canada.ca/gulfislands",
+    "url": "https://parks.canada.ca/pn-np/bc/gulf",
     "tags": [
       "parks",
       "outdoors",
@@ -30833,7 +30833,7 @@
     "category": "parks",
     "type": "Marine conservation",
     "description": "Remote Haida Gwaii archipelago, kayaking, ancient rainforest",
-    "url": "https://parks.canada.ca/gwaiihaanas",
+    "url": "https://parks.canada.ca/pn-np/bc/gwaiihaanas",
     "tags": [
       "parks",
       "marine"
@@ -30846,7 +30846,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Northwest Territories, Yukon's Richardson Mountains, wildlife migration",
-    "url": "https://parks.canada.ca/ivvavik",
+    "url": "https://parks.canada.ca/pn-np/yt/ivvavik",
     "tags": [
       "parks",
       "remote"
@@ -30859,7 +30859,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Largest national park in the Canadian Rockies, dark sky preserve",
-    "url": "https://parks.canada.ca/jasper",
+    "url": "https://parks.canada.ca/pn-np/ab/jasper",
     "tags": [
       "parks",
       "outdoors"
@@ -30872,7 +30872,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Nova Scotia inland and seaside park — canoeing, Mi'kmaq cultural landscape, dark skies",
-    "url": "https://parks.canada.ca/kejimkujik",
+    "url": "https://parks.canada.ca/pn-np/ns/kejimkujik",
     "tags": [
       "parks",
       "Nova Scotia"
@@ -30885,7 +30885,7 @@
     "category": "parks",
     "type": "National park",
     "description": "BC Rockies park with hot springs, painted canyons, and scenic drives",
-    "url": "https://parks.canada.ca/kootenay",
+    "url": "https://parks.canada.ca/pn-np/bc/kootenay",
     "tags": [
       "parks",
       "BC"
@@ -30898,7 +30898,7 @@
     "category": "parks",
     "type": "National park",
     "description": "New Brunswick's warm-water beaches, salt marshes, and Acadian forest",
-    "url": "https://parks.canada.ca/kouchibouguac",
+    "url": "https://parks.canada.ca/pn-np/nb/kouchibouguac",
     "tags": [
       "parks",
       "New Brunswick"
@@ -30911,7 +30911,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Quebec's Laurentian wilderness, canoe routes, fall colours",
-    "url": "https://parks.canada.ca/mauricie",
+    "url": "https://parks.canada.ca/pn-np/qc/mauricie",
     "tags": [
       "parks",
       "Quebec"
@@ -30924,7 +30924,7 @@
     "category": "parks",
     "type": "National park reserve",
     "description": "Quebec's North Shore limestone monoliths, sea caves, and boreal wildlife",
-    "url": "https://parks.canada.ca/mingan",
+    "url": "https://parks.canada.ca/pn-np/qc/mingan",
     "tags": [
       "parks",
       "Quebec"
@@ -30937,7 +30937,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Inland temperate rainforest, wildflower meadows, and summit vistas in BC",
-    "url": "https://parks.canada.ca/revelstoke",
+    "url": "https://parks.canada.ca/pn-np/bc/revelstoke",
     "tags": [
       "parks",
       "BC"
@@ -30950,7 +30950,7 @@
     "category": "parks",
     "type": "National park reserve",
     "description": "Vancouver Island's rugged Pacific coast, Long Beach, rainforests, and West Coast Trail",
-    "url": "https://parks.canada.ca/pacificrim",
+    "url": "https://parks.canada.ca/pn-np/bc/pacificrim",
     "tags": [
       "parks",
       "BC"
@@ -30963,7 +30963,7 @@
     "category": "parks",
     "type": "Interactive map",
     "description": "Map of all 39 national park and national marine conservation area regions across Canada",
-    "url": "https://parks.canada.ca/pn-np/cnpn-cnnp/carte-map",
+    "url": "https://parks.canada.ca/pn-np/plan#map",
     "tags": [
       "maps",
       "parks"
@@ -31004,7 +31004,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Southernmost mainland Canada — birding hotspot and monarch butterfly migration",
-    "url": "https://parks.canada.ca/pelee",
+    "url": "https://parks.canada.ca/pn-np/on/pelee",
     "tags": [
       "parks",
       "Ontario"
@@ -31017,7 +31017,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Saskatchewan boreal forest park — lakes, wildlife, canoeing, and Grey Owl's cabin",
-    "url": "https://parks.canada.ca/princealbert",
+    "url": "https://parks.canada.ca/pn-np/sk/princealbert",
     "tags": [
       "parks",
       "Saskatchewan"
@@ -31030,7 +31030,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Rugged Lake Superior wilderness, coastal hiking, and Indigenous heritage in Ontario",
-    "url": "https://parks.canada.ca/pukaskwa",
+    "url": "https://parks.canada.ca/pn-np/on/pukaskwa",
     "tags": [
       "parks",
       "Ontario"
@@ -31043,7 +31043,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Nunavut's Bathurst Island, polar bear migration route, Arctic landscapes",
-    "url": "https://parks.canada.ca/qausuittuq",
+    "url": "https://parks.canada.ca/pn-np/nu/qausuittuq",
     "tags": [
       "parks",
       "remote"
@@ -31056,7 +31056,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Nunavut's Ellesmere Island, polar desert, extreme Arctic landscape",
-    "url": "https://parks.canada.ca/quttinirpaaq",
+    "url": "https://parks.canada.ca/pn-np/nu/quttinirpaaq",
     "tags": [
       "parks",
       "remote"
@@ -31069,7 +31069,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Prairies, aspen parkland, and boreal forest — bison and dark sky preserve",
-    "url": "https://parks.canada.ca/riding",
+    "url": "https://parks.canada.ca/pn-np/mb/riding",
     "tags": [
       "parks",
       "outdoors"
@@ -31082,7 +31082,7 @@
     "category": "parks",
     "type": "National urban park",
     "description": "Canada's first national urban park, connecting Toronto to nature",
-    "url": "https://parks.canada.ca/rouge",
+    "url": "https://parks.canada.ca/pn-np/on/rouge",
     "tags": [
       "parks",
       "Toronto"
@@ -31095,7 +31095,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Nunavut's Place of the Glacier, bowhead whales, narwhals, Inuit homeland",
-    "url": "https://parks.canada.ca/sirmilik",
+    "url": "https://parks.canada.ca/pn-np/nu/sirmilik",
     "tags": [
       "parks",
       "Nunavut"
@@ -31108,7 +31108,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Newfoundland's Atlantic fjords, boreal forest, and iceberg viewing",
-    "url": "https://parks.canada.ca/terranova",
+    "url": "https://parks.canada.ca/pn-np/nl/terranova",
     "tags": [
       "parks",
       "Newfoundland and Labrador"
@@ -31121,7 +31121,7 @@
     "category": "parks",
     "type": "National park",
     "description": "St. Lawrence River islands, kayak-accessible camping, near Kingston",
-    "url": "https://parks.canada.ca/thousandislands",
+    "url": "https://parks.canada.ca/pn-np/on/1000",
     "tags": [
       "parks",
       "Ontario"
@@ -31134,7 +31134,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Western Arctic Bluenose-West caribou calving grounds — Inuvialuit homeland",
-    "url": "https://parks.canada.ca/tuktutnogait",
+    "url": "https://parks.canada.ca/pn-np/nt/tuktutnogait",
     "tags": [
       "parks",
       "Northwest Territories"
@@ -31147,7 +31147,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Nunavut's Hudson Bay coast, Inuit cultural landscape, polar bears",
-    "url": "https://parks.canada.ca/ukkusiksalik",
+    "url": "https://parks.canada.ca/pn-np/nu/ukkusiksalik",
     "tags": [
       "parks",
       "Nunavut"
@@ -31160,7 +31160,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Yukon's northernmost park, Yukon's first national park, Inuit homeland",
-    "url": "https://parks.canada.ca/vuntut",
+    "url": "https://parks.canada.ca/pn-np/yt/vuntut",
     "tags": [
       "parks",
       "Yukon"
@@ -31173,7 +31173,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Canada's portion of the Waterton-Glacier International Peace Park",
-    "url": "https://parks.canada.ca/waterton",
+    "url": "https://parks.canada.ca/pn-np/ab/waterton",
     "tags": [
       "parks",
       "outdoors"
@@ -31186,7 +31186,7 @@
     "category": "parks",
     "type": "National park",
     "description": "Largest national park in Canada, UNESCO Dark Sky Preserve, world's largest beaver dam",
-    "url": "https://parks.canada.ca/woodbuffalo",
+    "url": "https://parks.canada.ca/pn-np/nt/woodbuffalo",
     "tags": [
       "parks",
       "outdoors"
@@ -31199,7 +31199,7 @@
     "category": "parks",
     "type": "National park",
     "description": "BC Rockies park of waterfalls, Burgess Shale fossils, and Emerald Lake",
-    "url": "https://parks.canada.ca/yoho",
+    "url": "https://parks.canada.ca/pn-np/bc/yoho",
     "tags": [
       "parks",
       "BC"
@@ -34642,7 +34642,7 @@
     "category": "safety",
     "type": "Monitoring portal",
     "description": "Sécurité publique real-time flood watch: river gauges, flood-extent surveillance maps and civil-security updates during spring freshet; complements regulatory flood-zone cartography.",
-    "url": "https://vigilance.geo.msp.gouv.qc.ca/",
+    "url": "https://vigilance.geo.securite.gouv.qc.ca/",
     "tags": [
       "alerts",
       "emergency",
