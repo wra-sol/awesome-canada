@@ -22849,6 +22849,23 @@
     ]
   },
   {
+    "name": "Search Yukon Archives",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "heritage",
+    "type": "Archives database",
+    "description": "New searchable database of close to 400,000 Yukon Archives records: photographs, maps, sound recordings, films, government documents and private records, searchable by keyword, creator or date.",
+    "url": "https://search-archives.service.yukon.ca/",
+    "tags": [
+      "archives",
+      "Yukon",
+      "genealogy",
+      "history",
+      "photographs"
+    ],
+    "dateAdded": "2026-11-07"
+  },
+  {
     "name": "Yukon Archives",
     "level": "Provincial",
     "jurisdiction": "Yukon",

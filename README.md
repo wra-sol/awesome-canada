@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2768 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2769 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 51
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 52
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -3573,6 +3573,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | NWT Archives | Northwest Territories · Provincial | Archives | The Northwest Territories Archives at the Prince of Wales Northern Heritage Centre: territorial government and private records, photographs, and research services for Northern history. | https://www.nwtarchives.ca/ |
+| Search Yukon Archives | Yukon · Provincial | Archives database | New searchable database of close to 400,000 Yukon Archives records: photographs, maps, sound recordings, films, government documents and private records, searchable by keyword, creator or date. | https://search-archives.service.yukon.ca/ |
 | Yukon Archives | Yukon · Provincial | Archives | The Yukon Archives in Whitehorse: the territory's documentary heritage, with archival records, photographs, and research services for Yukon history and genealogy. | https://yukon.ca/en/yukon-archives |
 
 ## 📋 Lobbyists, Ethics & Disclosure
