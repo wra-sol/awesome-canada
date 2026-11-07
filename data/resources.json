@@ -28355,6 +28355,24 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "Hydro-Québec — Données Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Hydro-Québec datasets on Données Québec — 10 datasets including electricity production sources, provincial demand and consumption history by sector, river flows and greenhouse-gas emission factors.",
+    "url": "https://www.donneesquebec.ca/recherche/organization/hydro-quebec",
+    "tags": [
+      "hydro-québec",
+      "quebec",
+      "open data",
+      "données québec",
+      "energy",
+      "electricity"
+    ],
+    "dateAdded": "2026-11-06"
+  },
+  {
     "name": "MAMH — Répertoire des municipalités du Québec",
     "level": "Provincial",
     "jurisdiction": "Quebec",
@@ -29306,21 +29324,6 @@
     ]
   },
   {
-    "name": "Lethbridge Open Data Portal",
-    "level": "Municipal",
-    "jurisdiction": "Lethbridge",
-    "category": "open-data",
-    "type": "Open data hub",
-    "description": "Municipal open data for Lethbridge with property parcels, building footprints, transit routes, parks, and infrastructure datasets",
-    "url": "https://data-lethbridge.opendata.arcgis.com",
-    "tags": [
-      "open-data",
-      "municipal",
-      "gis",
-      "ab"
-    ]
-  },
-  {
     "name": "Ville de Laval — Données Québec",
     "level": "Municipal",
     "jurisdiction": "Laval",
@@ -29337,6 +29340,21 @@
     "dateAdded": "2026-11-06"
   },
   {
+    "name": "Lethbridge Open Data Portal",
+    "level": "Municipal",
+    "jurisdiction": "Lethbridge",
+    "category": "open-data",
+    "type": "Open data hub",
+    "description": "Municipal open data for Lethbridge with property parcels, building footprints, transit routes, parks, and infrastructure datasets",
+    "url": "https://data-lethbridge.opendata.arcgis.com",
+    "tags": [
+      "open-data",
+      "municipal",
+      "gis",
+      "ab"
+    ]
+  },
+  {
     "name": "Ville de Lévis — Données Québec",
     "level": "Municipal",
     "jurisdiction": "Lévis",
@@ -29351,56 +29369,6 @@
       "données québec",
       "geojson"
     ]
-  },
-  {
-    "name": "Ville de Saint-Hyacinthe — Données Québec",
-    "level": "Municipal",
-    "jurisdiction": "Quebec",
-    "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "Saint-Hyacinthe municipal datasets on Données Québec — 27 datasets including zoning, electoral districts, civic addresses, the cycling network and fire hydrants, with downloadable open data.",
-    "url": "https://www.donneesquebec.ca/recherche/organization/ville-de-saint-hyacinthe",
-    "tags": [
-      "saint-hyacinthe",
-      "quebec",
-      "open data",
-      "données québec"
-    ],
-    "dateAdded": "2026-11-06"
-  },
-  {
-    "name": "Ville de Saint-Jean-sur-Richelieu — Données Québec",
-    "level": "Municipal",
-    "jurisdiction": "Quebec",
-    "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "Saint-Jean-sur-Richelieu municipal datasets on Données Québec — zoning and electoral districts, with downloadable open data.",
-    "url": "https://www.donneesquebec.ca/recherche/organization/ville-de-saint-jean-sur-richelieu",
-    "tags": [
-      "saint-jean-sur-richelieu",
-      "quebec",
-      "open data",
-      "données québec"
-    ],
-    "dateAdded": "2026-11-06"
-  },
-  {
-    "name": "Hydro-Québec — Données Québec",
-    "level": "Provincial",
-    "jurisdiction": "Quebec",
-    "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "Hydro-Québec datasets on Données Québec — 10 datasets including electricity production sources, provincial demand and consumption history by sector, river flows and greenhouse-gas emission factors.",
-    "url": "https://www.donneesquebec.ca/recherche/organization/hydro-quebec",
-    "tags": [
-      "hydro-québec",
-      "quebec",
-      "open data",
-      "données québec",
-      "energy",
-      "electricity"
-    ],
-    "dateAdded": "2026-11-06"
   },
   {
     "name": "London Open Data Catalogue",
@@ -29930,6 +29898,38 @@
       "open data",
       "arcgis"
     ]
+  },
+  {
+    "name": "Ville de Saint-Hyacinthe — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Saint-Hyacinthe municipal datasets on Données Québec — 27 datasets including zoning, electoral districts, civic addresses, the cycling network and fire hydrants, with downloadable open data.",
+    "url": "https://www.donneesquebec.ca/recherche/organization/ville-de-saint-hyacinthe",
+    "tags": [
+      "saint-hyacinthe",
+      "quebec",
+      "open data",
+      "données québec"
+    ],
+    "dateAdded": "2026-11-06"
+  },
+  {
+    "name": "Ville de Saint-Jean-sur-Richelieu — Données Québec",
+    "level": "Municipal",
+    "jurisdiction": "Quebec",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Saint-Jean-sur-Richelieu municipal datasets on Données Québec — zoning and electoral districts, with downloadable open data.",
+    "url": "https://www.donneesquebec.ca/recherche/organization/ville-de-saint-jean-sur-richelieu",
+    "tags": [
+      "saint-jean-sur-richelieu",
+      "quebec",
+      "open data",
+      "données québec"
+    ],
+    "dateAdded": "2026-11-06"
   },
   {
     "name": "Quebec City — Carte interactive",
