@@ -22657,6 +22657,22 @@
     "dateAdded": "2026-08-25"
   },
   {
+    "name": "Manitoba — Provincial Heritage Sites (Historic Resources Branch)",
+    "level": "Provincial",
+    "jurisdiction": "Manitoba",
+    "category": "heritage",
+    "type": "Lookup tool",
+    "description": "Filterable list of Manitoba's provincially designated heritage sites from the Historic Resources Branch — sites designated under The Heritage Resources Act, with designation dates and details per site.",
+    "url": "https://www.gov.mb.ca/chc/hrb/prov/index.html",
+    "tags": [
+      "manitoba",
+      "heritage",
+      "historic places",
+      "designation"
+    ],
+    "dateAdded": "2026-11-07"
+  },
+  {
     "name": "Provincial Archives of New Brunswick",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -22750,6 +22766,40 @@
       "search",
       "ontario"
     ]
+  },
+  {
+    "name": "Ontario Heritage Trust — Ontario Heritage Act Register",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Searchable public database of all properties designated under Ontario's Heritage Act — 30,200 designated properties with designation documents, searchable by property, municipality and heritage conservation district.",
+    "url": "https://www.heritagetrust.on.ca/pages/tools/ontario-heritage-act-register",
+    "tags": [
+      "heritage",
+      "historic places",
+      "register",
+      "ontario",
+      "designation"
+    ],
+    "dateAdded": "2026-11-07"
+  },
+  {
+    "name": "Search the PEI Register of Heritage Places",
+    "level": "Provincial",
+    "jurisdiction": "Prince Edward Island",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Searchable inventory of designated heritage places in Prince Edward Island — 661 places, searchable by name, civic address, community, recognition type and authority, or construction dates.",
+    "url": "https://www.princeedwardisland.ca/en/feature/search-the-pei-register-of-heritage-places",
+    "tags": [
+      "heritage",
+      "historic places",
+      "register",
+      "pei",
+      "designation"
+    ],
+    "dateAdded": "2026-11-07"
   },
   {
     "name": "Répertoire du patrimoine culturel du Québec",
@@ -22966,6 +23016,22 @@
       "json",
       "open data"
     ]
+  },
+  {
+    "name": "Saskatoon — Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Saskatoon",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Official searchable register of Saskatoon's heritage resources — buildings, structures, monuments and landscapes — with designation status per property and an interactive Heritage Property Map.",
+    "url": "https://www.saskatoon.ca/community-culture-heritage/heritage-properties-programs/heritage-register",
+    "tags": [
+      "saskatoon",
+      "heritage",
+      "historic places",
+      "register"
+    ],
+    "dateAdded": "2026-11-07"
   },
   {
     "name": "Thunder Bay — Heritage Register CSV",

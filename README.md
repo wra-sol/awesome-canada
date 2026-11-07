@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2764 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2768 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 47
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 51
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -3525,12 +3525,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ministry of Parks, Culture and Sport — Searching Saskatchewan Places | Saskatchewan · Provincial | Lookup tool | Search 13,000+ geographic names and historic places designated under The Heritage Property Act by name, type, designation or municipality, with interactive GIS maps. | https://www.saskatchewan.ca/residents/parks-culture-heritage-and-sport/heritage-conservation-and-commemoration/search-for-a-heritage-property |
 | Saskatchewan — Provincial Archives Collection Search | Saskatchewan · Provincial | Archives database search | Search hundreds of thousands of descriptions in Saskatchewan's Permanent Collection — photos, maps, local histories, film and government records back to the Territorial era. | https://search.saskarchives.com/ |
+| Saskatoon — Heritage Register | Saskatoon · Municipal | Heritage register | Official searchable register of Saskatoon's heritage resources — buildings, structures, monuments and landscapes — with designation status per property and an interactive Heritage Property Map. | https://www.saskatoon.ca/community-culture-heritage/heritage-properties-programs/heritage-register |
 
 ### Manitoba
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Archives of Manitoba | Manitoba · Provincial | Archives | Manitoba government records and the Hudson's Bay Company Archives — keyword search and online finding aids | https://www.gov.mb.ca/chc/archives/ |
+| Manitoba — Provincial Heritage Sites (Historic Resources Branch) | Manitoba · Provincial | Lookup tool | Filterable list of Manitoba's provincially designated heritage sites from the Historic Resources Branch — sites designated under The Heritage Resources Act, with designation dates and details per site. | https://www.gov.mb.ca/chc/hrb/prov/index.html |
 | Winnipeg — Cemetery Burial Search | Winnipeg · Municipal | Search database | Search 124,000+ interment records from Winnipeg's three municipal cemeteries (Brookside, St. Vital, Transcona) with dates and exact section-lot-grave locations. | https://www.winnipeg.ca/services-programs/cemeteries/burial-search |
 
 ### Ontario
@@ -3538,6 +3540,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Ontario — Archives of Ontario Collection Search | Ontario · Provincial | Archives database search | Search descriptions of Ontario's archival, library and art collections — records, photographs and maps — then request items or order reproductions. | https://aims.archives.gov.on.ca/ |
+| Ontario Heritage Trust — Ontario Heritage Act Register | Ontario · Provincial | Heritage register | Searchable public database of all properties designated under Ontario's Heritage Act — 30,200 designated properties with designation documents, searchable by property, municipality and heritage conservation district. | https://www.heritagetrust.on.ca/pages/tools/ontario-heritage-act-register |
 | Burlington Heritage Register | Burlington · Municipal | Heritage register | Burlington municipal heritage register of designated and listed properties with conservation district information. | https://www.burlington.ca/en/planning-and-development/municipal-cultural-heritage-register.aspx |
 | Cornwall Heritage Designated Sites Open Data | Cornwall · Municipal | Heritage register dataset | GIS layer of Heritage Cornwall designated properties — map, filter, and download designated sites with by-law references via open data portal. | https://data-cornwallcity.opendata.arcgis.com/datasets/7e4d2ad84e584cceb938711fec2f9f2c_0 |
 | Hamilton Heritage Properties — Open Data | Hamilton · Municipal | Heritage register dataset | Designated and listed heritage properties in Hamilton as a downloadable GIS dataset on Open Hamilton. | https://open.hamilton.ca/datasets/heritage-properties |
@@ -3563,6 +3566,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Heritage NL — Provincial Register of Historic Places Search | Newfoundland and Labrador · Provincial | Lookup tool | Filterable register of 995 designated heritage properties province-wide: Registered Heritage Structures and Districts, municipal designations, fisheries heritage buildings and Century Farms, by type and region. | https://heritagenl.ca/discover/heritage-property-search/ |
 | Nova Scotia Archives | Nova Scotia · Provincial | Archives | The Nova Scotia Archives in Halifax: the province's archival records, digitized collections, virtual exhibits, and genealogy and research services. | https://archives.novascotia.ca/ |
 | Nova Scotia Archives — Vital Statistics Search | Nova Scotia · Provincial | Genealogy database | Free search of historical Nova Scotia births (1864-1876, 1909+), marriages (from 1763 bonds) and deaths, every name linked to the digitized original record. | https://archives.novascotia.ca/vital-statistics/ |
+| Search the PEI Register of Heritage Places | Prince Edward Island · Provincial | Heritage register | Searchable inventory of designated heritage places in Prince Edward Island — 661 places, searchable by name, civic address, community, recognition type and authority, or construction dates. | https://www.princeedwardisland.ca/en/feature/search-the-pei-register-of-heritage-places |
 
 ### Northern Canada (YT, NT, NU)
 
