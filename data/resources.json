@@ -22673,6 +22673,23 @@
     "dateAdded": "2026-11-07"
   },
   {
+    "name": "New Brunswick Register of Historic Places",
+    "level": "Provincial",
+    "jurisdiction": "New Brunswick",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Official searchable register of New Brunswick's designated historic places — provincial and municipal designations under the Heritage Conservation Act, with full records (construction dates, designation type, statements of significance, supporting-document locations) per place; replaces the legacy www1.gnb.ca search pages that now return HTTP 500.",
+    "url": "https://www.rhp-rlp.gnb.ca/",
+    "tags": [
+      "heritage",
+      "historic places",
+      "register",
+      "new brunswick",
+      "designation"
+    ],
+    "dateAdded": "2026-11-08"
+  },
+  {
     "name": "Provincial Archives of New Brunswick",
     "level": "Provincial",
     "jurisdiction": "New Brunswick",
@@ -22880,6 +22897,23 @@
       "history"
     ],
     "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Yukon Register of Historic Places",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Official register of every place in Yukon designated as historically significant under the Historic Resources Act — territorial and municipal sites, searchable with a map, with full records per site (construction period, designation level and date, management plans, source files).",
+    "url": "https://register.yukonhistoricplaces.ca/",
+    "tags": [
+      "heritage",
+      "historic places",
+      "register",
+      "yukon",
+      "designation"
+    ],
+    "dateAdded": "2026-11-08"
   },
   {
     "name": "Burlington Heritage Register",

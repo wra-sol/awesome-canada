@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2769 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2771 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 52
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 54
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -3562,6 +3562,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| New Brunswick Register of Historic Places | New Brunswick · Provincial | Heritage register | Official searchable register of New Brunswick's designated historic places — provincial and municipal designations under the Heritage Conservation Act, with full records (construction dates, designation type, statements of significance, supporting-document locations) per place; replaces the legacy www1.gnb.ca search pages that now return HTTP 500. | https://www.rhp-rlp.gnb.ca/ |
 | Provincial Archives of New Brunswick | New Brunswick · Provincial | Archives | Searchable genealogical databases, land petitions, and historical images from New Brunswick's archives | https://archives.gnb.ca/ |
 | Heritage NL — Provincial Register of Historic Places Search | Newfoundland and Labrador · Provincial | Lookup tool | Filterable register of 995 designated heritage properties province-wide: Registered Heritage Structures and Districts, municipal designations, fisheries heritage buildings and Century Farms, by type and region. | https://heritagenl.ca/discover/heritage-property-search/ |
 | Nova Scotia Archives | Nova Scotia · Provincial | Archives | The Nova Scotia Archives in Halifax: the province's archival records, digitized collections, virtual exhibits, and genealogy and research services. | https://archives.novascotia.ca/ |
@@ -3575,6 +3576,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NWT Archives | Northwest Territories · Provincial | Archives | The Northwest Territories Archives at the Prince of Wales Northern Heritage Centre: territorial government and private records, photographs, and research services for Northern history. | https://www.nwtarchives.ca/ |
 | Search Yukon Archives | Yukon · Provincial | Archives database | New searchable database of close to 400,000 Yukon Archives records: photographs, maps, sound recordings, films, government documents and private records, searchable by keyword, creator or date. | https://search-archives.service.yukon.ca/ |
 | Yukon Archives | Yukon · Provincial | Archives | The Yukon Archives in Whitehorse: the territory's documentary heritage, with archival records, photographs, and research services for Yukon history and genealogy. | https://yukon.ca/en/yukon-archives |
+| Yukon Register of Historic Places | Yukon · Provincial | Heritage register | Official register of every place in Yukon designated as historically significant under the Historic Resources Act — territorial and municipal sites, searchable with a map, with full records per site (construction period, designation level and date, management plans, source files). | https://register.yukonhistoricplaces.ca/ |
 
 ## 📋 Lobbyists, Ethics & Disclosure
 
