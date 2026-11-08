@@ -23019,22 +23019,6 @@
     ]
   },
   {
-    "name": "SooMaps Heritage Sites Data",
-    "level": "Municipal",
-    "jurisdiction": "Sault Ste. Marie",
-    "category": "heritage",
-    "type": "Heritage sites dataset",
-    "description": "Weekly-refreshed CSV/JSON extracts of Sault Ste. Marie heritage sites from official GIS — sourced from city SooMaps open data program.",
-    "url": "https://cityssm.github.io/soomaps-data/",
-    "tags": [
-      "sault ste marie",
-      "heritage",
-      "csv",
-      "json",
-      "open data"
-    ]
-  },
-  {
     "name": "Saskatoon — Heritage Register",
     "level": "Municipal",
     "jurisdiction": "Saskatoon",
@@ -23049,6 +23033,22 @@
       "register"
     ],
     "dateAdded": "2026-11-07"
+  },
+  {
+    "name": "SooMaps Heritage Sites Data",
+    "level": "Municipal",
+    "jurisdiction": "Sault Ste. Marie",
+    "category": "heritage",
+    "type": "Heritage sites dataset",
+    "description": "Weekly-refreshed CSV/JSON extracts of Sault Ste. Marie heritage sites from official GIS — sourced from city SooMaps open data program.",
+    "url": "https://cityssm.github.io/soomaps-data/",
+    "tags": [
+      "sault ste marie",
+      "heritage",
+      "csv",
+      "json",
+      "open data"
+    ]
   },
   {
     "name": "Thunder Bay — Heritage Register CSV",
