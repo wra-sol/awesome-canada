@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2771 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2772 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 220
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 221
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -266,6 +266,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Données Québec — API | Quebec · Provincial | Catalogue API | Search and download datasets from Québec's open-data catalogue programmatically via its CKAN-based API — package_search and datastore actions, bilingual metadata. | https://www.donneesquebec.ca/recherche/api |
 | Hydro-Québec — Données Québec | Quebec · Provincial | Open data catalogue | Hydro-Québec datasets on Données Québec — 10 datasets including electricity production sources, provincial demand and consumption history by sector, river flows and greenhouse-gas emission factors. | https://www.donneesquebec.ca/recherche/organization/hydro-quebec |
 | MAMH — Répertoire des municipalités du Québec | Quebec · Provincial | Reference dataset | Daily-updated directory of every Quebec municipality and MRC: contacts, mayors and councillors, population decrees, regional affiliations and inactive organizations. Bulk XML downloads with related reference files. | https://www.donneesquebec.ca/recherche/dataset/repertoire-des-municipalites-du-quebec |
+| Ministère des Transports et de la Mobilité durable — Données Québec | Quebec · Provincial | Open data catalogue | MTQ datasets on Données Québec — 31 datasets including road warnings, winter road conditions, traffic flow, weather stations and drainage, with CSV and GeoJSON download. | https://www.donneesquebec.ca/recherche/organization/mtq |
 | Gatineau — Atlas de Gatineau | Gatineau · Municipal | Interactive GIS atlas | Explore Gatineau geospatial data — toggle map layers, view aerial photography, and overlay your own Shapefile, CSV or KML data on the city's interactive atlas. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fcartes%2Fcarte_interactive_atlas_gatineau |
 | Laval — Interactive Map | Laval · Municipal | Interactive city map | Browse Ville de Laval's Geoweb interactive maps to view municipal data layers — properties, services, infrastructure and territory information — by address. | https://www.laval.ca/en/interactive-map/ |
 | Ville de Laval — Données Québec | Laval · Municipal | Open data catalogue | Laval municipal datasets on Données Québec — 130 datasets including heritage buildings, wetlands, forest cover and urban planning data with CSV, GeoJSON and SHP download. | https://www.donneesquebec.ca/recherche/organization/ville-de-laval |

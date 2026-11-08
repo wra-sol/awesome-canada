@@ -28509,6 +28509,23 @@
     "dateAdded": "2026-08-24"
   },
   {
+    "name": "Ministère des Transports et de la Mobilité durable — Données Québec",
+    "level": "Provincial",
+    "jurisdiction": "Quebec",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "MTQ datasets on Données Québec — 31 datasets including road warnings, winter road conditions, traffic flow, weather stations and drainage, with CSV and GeoJSON download.",
+    "url": "https://www.donneesquebec.ca/recherche/organization/mtq",
+    "tags": [
+      "quebec",
+      "open data",
+      "données québec",
+      "transport",
+      "roads"
+    ],
+    "dateAdded": "2026-11-08"
+  },
+  {
     "name": "Government of Saskatchewan — GeoHub Open Data",
     "level": "Provincial",
     "jurisdiction": "Saskatchewan",
