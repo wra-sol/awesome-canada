@@ -28008,6 +28008,57 @@
     "dateAdded": "2026-11-09"
   },
   {
+    "name": "BC Assessment Authority — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "BC Assessment Authority datasets on the BC Data Catalogue — 13 datasets including BC Assessment property sales, residential and non-residential inventory, legal descriptions, land characteristics and property values views.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/bc-assessment-authority",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "property assessment",
+      "property values"
+    ],
+    "dateAdded": "2026-11-09"
+  },
+  {
+    "name": "Agricultural Land Commission — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Agricultural Land Commission datasets on the BC Data Catalogue — 10 datasets including ALR applications and notices of intent (spatial views), ALC planning reviews and Agricultural Land Reserve lines and polygons.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/agricultural-land-commission",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "agricultural land reserve",
+      "land use"
+    ],
+    "dateAdded": "2026-11-09"
+  },
+  {
+    "name": "BC Timber Sales — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "BC Timber Sales datasets on the BC Data Catalogue — 8 datasets including the BCTS sales schedule (public access), planned roads, block access roads, non-developed blocks, cut/road permit blocks and operating areas.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/bc-timber-sales",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "timber",
+      "forestry"
+    ],
+    "dateAdded": "2026-11-09"
+  },
+  {
     "name": "BC Energy Regulator — Data Centre",
     "level": "Provincial",
     "jurisdiction": "British Columbia",

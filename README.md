@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2775 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2778 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 224
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 227
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -112,11 +112,14 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Agricultural Land Commission — BC Data Catalogue | British Columbia · Provincial | Open data catalogue | Agricultural Land Commission datasets on the BC Data Catalogue — 10 datasets including ALR applications and notices of intent (spatial views), ALC planning reviews and Agricultural Land Reserve lines and polygons. | https://catalogue.data.gov.bc.ca/organization/agricultural-land-commission |
 | B.C. API Gateway | British Columbia · Provincial | API portal | British Columbia government API gateway for discovering, accessing, and managing provincial APIs and data services | https://api.gov.bc.ca/ |
+| BC Assessment Authority — BC Data Catalogue | British Columbia · Provincial | Open data catalogue | BC Assessment Authority datasets on the BC Data Catalogue — 13 datasets including BC Assessment property sales, residential and non-residential inventory, legal descriptions, land characteristics and property values views. | https://catalogue.data.gov.bc.ca/organization/bc-assessment-authority |
 | BC Data Catalogue — CKAN API | British Columbia · Provincial | Catalogue API | Search and download datasets from British Columbia's open-data catalogue programmatically via its CKAN Action API — package_search, datastore_search and resource lookups, no key required. | https://catalogue.data.gov.bc.ca/api/3/action/package_search |
 | BC Energy Regulator — Data Centre | British Columbia · Provincial | Open data portal | Download 131 regulator datasets on wells, pipelines, facilities and liabilities: Well Index and Rig Activity CSVs, daily shapefile/KML/geodatabase zips, FracFocus disclosures. | https://www.bc-er.ca/data-reports/data-centre/ |
 | BC Geological Survey — BC Data Catalogue | British Columbia · Provincial | Open data catalogue | BC Geological Survey datasets on the BC Data Catalogue — 50 datasets including the ARIS assessment report index and the MINFILE mineral occurrence, inventory and production databases. | https://catalogue.data.gov.bc.ca/organization/bc-geological-survey |
 | BC Stats — BC Data Catalogue | British Columbia · Provincial | Open data catalogue | BC Stats datasets on the BC Data Catalogue — 99 datasets including the Labour Force Survey, economic indicators, international commodity exports trade data and BC economic accounts / GDP. | https://catalogue.data.gov.bc.ca/organization/bc-stats |
+| BC Timber Sales — BC Data Catalogue | British Columbia · Provincial | Open data catalogue | BC Timber Sales datasets on the BC Data Catalogue — 8 datasets including the BCTS sales schedule (public access), planned roads, block access roads, non-developed blocks, cut/road permit blocks and operating areas. | https://catalogue.data.gov.bc.ca/organization/bc-timber-sales |
 | BC Wildfire Service — BC Data Catalogue | British Columbia · Provincial | Open data catalogue | BC Wildfire Service datasets on the BC Data Catalogue — 32 datasets including active weather stations, wildfire danger ratings, bans and prohibitions and area restrictions. | https://catalogue.data.gov.bc.ca/organization/bc-wildfire-service |
 | British Columbia — BC Address Geocoder API | British Columbia · Provincial | REST API | Standardize, validate, and geocode any B.C. address in real time via a free REST API — includes reverse geocoding, intersections, and parcel lookups. | https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder |
 | DataBC | British Columbia · Provincial | Open data portal | Major open data and geospatial hub for BC | https://www2.gov.bc.ca/gov/content/data |
