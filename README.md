@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2772 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2775 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 221
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 224
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -115,6 +115,9 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | B.C. API Gateway | British Columbia · Provincial | API portal | British Columbia government API gateway for discovering, accessing, and managing provincial APIs and data services | https://api.gov.bc.ca/ |
 | BC Data Catalogue — CKAN API | British Columbia · Provincial | Catalogue API | Search and download datasets from British Columbia's open-data catalogue programmatically via its CKAN Action API — package_search, datastore_search and resource lookups, no key required. | https://catalogue.data.gov.bc.ca/api/3/action/package_search |
 | BC Energy Regulator — Data Centre | British Columbia · Provincial | Open data portal | Download 131 regulator datasets on wells, pipelines, facilities and liabilities: Well Index and Rig Activity CSVs, daily shapefile/KML/geodatabase zips, FracFocus disclosures. | https://www.bc-er.ca/data-reports/data-centre/ |
+| BC Geological Survey — BC Data Catalogue | British Columbia · Provincial | Open data catalogue | BC Geological Survey datasets on the BC Data Catalogue — 50 datasets including the ARIS assessment report index and the MINFILE mineral occurrence, inventory and production databases. | https://catalogue.data.gov.bc.ca/organization/bc-geological-survey |
+| BC Stats — BC Data Catalogue | British Columbia · Provincial | Open data catalogue | BC Stats datasets on the BC Data Catalogue — 99 datasets including the Labour Force Survey, economic indicators, international commodity exports trade data and BC economic accounts / GDP. | https://catalogue.data.gov.bc.ca/organization/bc-stats |
+| BC Wildfire Service — BC Data Catalogue | British Columbia · Provincial | Open data catalogue | BC Wildfire Service datasets on the BC Data Catalogue — 32 datasets including active weather stations, wildfire danger ratings, bans and prohibitions and area restrictions. | https://catalogue.data.gov.bc.ca/organization/bc-wildfire-service |
 | British Columbia — BC Address Geocoder API | British Columbia · Provincial | REST API | Standardize, validate, and geocode any B.C. address in real time via a free REST API — includes reverse geocoding, intersections, and parcel lookups. | https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder |
 | DataBC | British Columbia · Provincial | Open data portal | Major open data and geospatial hub for BC | https://www2.gov.bc.ca/gov/content/data |
 | iMapBC | British Columbia · Provincial | Interactive map | Layer hundreds of BC Geographic Warehouse datasets on one map — parcels, Crown tenures, the Agricultural Land Reserve, mineral titles, forest and wildlife layers — with upload, query and share tools. | https://www2.gov.bc.ca/gov/content/data/geographic-data-services/web-based-mapping/imapbc |

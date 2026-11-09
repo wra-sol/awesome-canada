@@ -27954,6 +27954,60 @@
     "dateAdded": "2026-08-26"
   },
   {
+    "name": "BC Stats — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "BC Stats datasets on the BC Data Catalogue — 99 datasets including the Labour Force Survey, economic indicators, international commodity exports trade data and BC economic accounts / GDP.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/bc-stats",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "statistics",
+      "economy",
+      "labour"
+    ],
+    "dateAdded": "2026-11-09"
+  },
+  {
+    "name": "BC Geological Survey — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "BC Geological Survey datasets on the BC Data Catalogue — 50 datasets including the ARIS assessment report index and the MINFILE mineral occurrence, inventory and production databases.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/bc-geological-survey",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "geology",
+      "minerals",
+      "mining"
+    ],
+    "dateAdded": "2026-11-09"
+  },
+  {
+    "name": "BC Wildfire Service — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "BC Wildfire Service datasets on the BC Data Catalogue — 32 datasets including active weather stations, wildfire danger ratings, bans and prohibitions and area restrictions.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/bc-wildfire-service",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "wildfire",
+      "fire bans",
+      "weather"
+    ],
+    "dateAdded": "2026-11-09"
+  },
+  {
     "name": "BC Energy Regulator — Data Centre",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
