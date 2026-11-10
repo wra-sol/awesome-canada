@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2780 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2785 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 229
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 234
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -153,7 +153,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Alberta — Municipal Data and Statistics | Alberta · Provincial | Data portal & dashboards | Municipal Affairs hub: explore and compare every municipality's revenues, expenses, tax rates, infrastructure stats and profiles via interactive dashboards and downloadable FIR/SIR data back to 1994. | https://www.alberta.ca/municipal-data-and-statistics |
 | Alberta Energy Regulator — Alberta Open Data | Alberta · Provincial | Open data catalogue | Alberta Energy Regulator datasets on Alberta Open Data — 1,342 datasets including bedrock topography of Alberta, in situ stress data, surficial geology GIS data and Alberta Geological Survey publications. | https://open.alberta.ca/organization/albertaenergyregulator |
 | Alberta Open Government Portal | Alberta · Provincial | Open data portal | Alberta's open government portal providing open data, publications, and reports for researchers, developers, and citizens | https://open.alberta.ca/ |
+| Energy — Alberta Open Data | Alberta · Provincial | Open data catalogue | Energy datasets on Alberta Open Data — 619 datasets including the energy annual report series (2001-2023), minister's office expenses and brine-hosted minerals development under the Mineral Resource Development Act. | https://open.alberta.ca/organization/energy |
 | Environment and Parks — Alberta Open Data | Alberta · Provincial | Open data catalogue | Environment and Parks datasets on Alberta Open Data — 2,303 datasets including Alberta Flood Hazard Identification Program mapping, Primary Land and Vegetation Inventory (PLVI), riparian area assessments and fish and wildlife mapping metadata. | https://open.alberta.ca/organization/environmentandparks |
+| Forestry and Parks — Alberta Open Data | Alberta · Provincial | Open data catalogue | Forestry and Parks datasets on Alberta Open Data — 435 datasets including the Canmore area trails master plan and public land use zone trail and road designations (Livingstone, Cataract Creek snow vehicle zones). | https://open.alberta.ca/organization/forestry-and-parks |
+| Justice and Solicitor General — Alberta Open Data | Alberta · Provincial | Open data catalogue | Justice and Solicitor General datasets on Alberta Open Data — 956 datasets including Alberta Serious Incident Response Team decisions, minister's office expenses, annual reports and justice publications. | https://open.alberta.ca/organization/justiceandsolicitorgeneral |
+| Service Alberta — Alberta Open Data | Alberta · Provincial | Open data catalogue | Service Alberta datasets on Alberta Open Data — 534 datasets including condominium corporation general-meeting guidance and vital-statistics tables (live births by gestation period, stillbirths by mother's age). | https://open.alberta.ca/organization/servicealberta |
+| Transportation — Alberta Open Data | Alberta · Provincial | Open data catalogue | Transportation datasets on Alberta Open Data — 767 datasets including the traffic sign catalogue (freeway guide signs, information signs) and archived sign versions. | https://open.alberta.ca/organization/transportation |
 | Airdrie Open Data | Airdrie · Municipal | Open data hub | City of Airdrie ArcGIS open data including parcels, addressing, and municipal boundaries with GTFS transit data. | https://data-airdrie.opendata.arcgis.com/ |
 | City of Leduc — Open Data Portal | Alberta · Municipal | Open data portal | Self-service open data portal from the City of Leduc, launched October 2026: 52 public datasets and map services covering storm, water and sanitary utilities, streets, addresses, parks and hydrants, with a searchable catalog, downloads and API access via ArcGIS Hub. | https://data.leduc.ca/ |
 | Banff Open Data | Banff · Municipal | Open data portal | Town of Banff open data including trails, zoning, and municipal spatial datasets. | https://maps.banff.ca/opendata/ |

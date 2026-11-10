@@ -27958,6 +27958,92 @@
     "dateAdded": "2026-11-10"
   },
   {
+    "name": "Energy — Alberta Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Energy datasets on Alberta Open Data — 619 datasets including the energy annual report series (2001-2023), minister's office expenses and brine-hosted minerals development under the Mineral Resource Development Act.",
+    "url": "https://open.alberta.ca/organization/energy",
+    "tags": [
+      "alberta",
+      "open data",
+      "alberta open data",
+      "energy",
+      "minerals"
+    ],
+    "dateAdded": "2026-11-10"
+  },
+  {
+    "name": "Forestry and Parks — Alberta Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Forestry and Parks datasets on Alberta Open Data — 435 datasets including the Canmore area trails master plan and public land use zone trail and road designations (Livingstone, Cataract Creek snow vehicle zones).",
+    "url": "https://open.alberta.ca/organization/forestry-and-parks",
+    "tags": [
+      "alberta",
+      "open data",
+      "alberta open data",
+      "forestry",
+      "parks",
+      "trails"
+    ],
+    "dateAdded": "2026-11-10"
+  },
+  {
+    "name": "Justice and Solicitor General — Alberta Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Justice and Solicitor General datasets on Alberta Open Data — 956 datasets including Alberta Serious Incident Response Team decisions, minister's office expenses, annual reports and justice publications.",
+    "url": "https://open.alberta.ca/organization/justiceandsolicitorgeneral",
+    "tags": [
+      "alberta",
+      "open data",
+      "alberta open data",
+      "justice",
+      "solicitor general"
+    ],
+    "dateAdded": "2026-11-10"
+  },
+  {
+    "name": "Service Alberta — Alberta Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Service Alberta datasets on Alberta Open Data — 534 datasets including condominium corporation general-meeting guidance and vital-statistics tables (live births by gestation period, stillbirths by mother's age).",
+    "url": "https://open.alberta.ca/organization/servicealberta",
+    "tags": [
+      "alberta",
+      "open data",
+      "alberta open data",
+      "service alberta",
+      "vital statistics"
+    ],
+    "dateAdded": "2026-11-10"
+  },
+  {
+    "name": "Transportation — Alberta Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Transportation datasets on Alberta Open Data — 767 datasets including the traffic sign catalogue (freeway guide signs, information signs) and archived sign versions.",
+    "url": "https://open.alberta.ca/organization/transportation",
+    "tags": [
+      "alberta",
+      "open data",
+      "alberta open data",
+      "transportation",
+      "traffic signs"
+    ],
+    "dateAdded": "2026-11-10"
+  },
+  {
     "name": "Agricultural Land Commission — BC Data Catalogue",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
