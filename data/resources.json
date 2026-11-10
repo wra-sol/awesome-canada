@@ -27922,6 +27922,42 @@
     ]
   },
   {
+    "name": "Alberta Energy Regulator — Alberta Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Alberta Energy Regulator datasets on Alberta Open Data — 1,342 datasets including bedrock topography of Alberta, in situ stress data, surficial geology GIS data and Alberta Geological Survey publications.",
+    "url": "https://open.alberta.ca/organization/albertaenergyregulator",
+    "tags": [
+      "alberta",
+      "open data",
+      "alberta open data",
+      "energy regulator",
+      "geology",
+      "bedrock topography"
+    ],
+    "dateAdded": "2026-11-10"
+  },
+  {
+    "name": "Environment and Parks — Alberta Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Environment and Parks datasets on Alberta Open Data — 2,303 datasets including Alberta Flood Hazard Identification Program mapping, Primary Land and Vegetation Inventory (PLVI), riparian area assessments and fish and wildlife mapping metadata.",
+    "url": "https://open.alberta.ca/organization/environmentandparks",
+    "tags": [
+      "alberta",
+      "open data",
+      "alberta open data",
+      "environment",
+      "flood hazard",
+      "land inventory"
+    ],
+    "dateAdded": "2026-11-10"
+  },
+  {
     "name": "Agricultural Land Commission — BC Data Catalogue",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
