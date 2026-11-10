@@ -27922,6 +27922,23 @@
     ]
   },
   {
+    "name": "Agricultural Land Commission — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Agricultural Land Commission datasets on the BC Data Catalogue — 10 datasets including ALR applications and notices of intent (spatial views), ALC planning reviews and Agricultural Land Reserve lines and polygons.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/agricultural-land-commission",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "agricultural land reserve",
+      "land use"
+    ],
+    "dateAdded": "2026-11-09"
+  },
+  {
     "name": "B.C. API Gateway",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
@@ -27935,77 +27952,6 @@
       "BC",
       "open data"
     ]
-  },
-  {
-    "name": "BC Data Catalogue — CKAN API",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "open-data",
-    "type": "Catalogue API",
-    "description": "Search and download datasets from British Columbia's open-data catalogue programmatically via its CKAN Action API — package_search, datastore_search and resource lookups, no key required.",
-    "url": "https://catalogue.data.gov.bc.ca/api/3/action/package_search",
-    "tags": [
-      "ckan",
-      "open data",
-      "british columbia",
-      "api",
-      "search"
-    ],
-    "dateAdded": "2026-08-26"
-  },
-  {
-    "name": "BC Stats — BC Data Catalogue",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "BC Stats datasets on the BC Data Catalogue — 99 datasets including the Labour Force Survey, economic indicators, international commodity exports trade data and BC economic accounts / GDP.",
-    "url": "https://catalogue.data.gov.bc.ca/organization/bc-stats",
-    "tags": [
-      "british columbia",
-      "open data",
-      "bc data catalogue",
-      "statistics",
-      "economy",
-      "labour"
-    ],
-    "dateAdded": "2026-11-09"
-  },
-  {
-    "name": "BC Geological Survey — BC Data Catalogue",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "BC Geological Survey datasets on the BC Data Catalogue — 50 datasets including the ARIS assessment report index and the MINFILE mineral occurrence, inventory and production databases.",
-    "url": "https://catalogue.data.gov.bc.ca/organization/bc-geological-survey",
-    "tags": [
-      "british columbia",
-      "open data",
-      "bc data catalogue",
-      "geology",
-      "minerals",
-      "mining"
-    ],
-    "dateAdded": "2026-11-09"
-  },
-  {
-    "name": "BC Wildfire Service — BC Data Catalogue",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "BC Wildfire Service datasets on the BC Data Catalogue — 32 datasets including active weather stations, wildfire danger ratings, bans and prohibitions and area restrictions.",
-    "url": "https://catalogue.data.gov.bc.ca/organization/bc-wildfire-service",
-    "tags": [
-      "british columbia",
-      "open data",
-      "bc data catalogue",
-      "wildfire",
-      "fire bans",
-      "weather"
-    ],
-    "dateAdded": "2026-11-09"
   },
   {
     "name": "BC Assessment Authority — BC Data Catalogue",
@@ -28025,38 +27971,21 @@
     "dateAdded": "2026-11-09"
   },
   {
-    "name": "Agricultural Land Commission — BC Data Catalogue",
+    "name": "BC Data Catalogue — CKAN API",
     "level": "Provincial",
     "jurisdiction": "British Columbia",
     "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "Agricultural Land Commission datasets on the BC Data Catalogue — 10 datasets including ALR applications and notices of intent (spatial views), ALC planning reviews and Agricultural Land Reserve lines and polygons.",
-    "url": "https://catalogue.data.gov.bc.ca/organization/agricultural-land-commission",
+    "type": "Catalogue API",
+    "description": "Search and download datasets from British Columbia's open-data catalogue programmatically via its CKAN Action API — package_search, datastore_search and resource lookups, no key required.",
+    "url": "https://catalogue.data.gov.bc.ca/api/3/action/package_search",
     "tags": [
-      "british columbia",
+      "ckan",
       "open data",
-      "bc data catalogue",
-      "agricultural land reserve",
-      "land use"
-    ],
-    "dateAdded": "2026-11-09"
-  },
-  {
-    "name": "BC Timber Sales — BC Data Catalogue",
-    "level": "Provincial",
-    "jurisdiction": "British Columbia",
-    "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "BC Timber Sales datasets on the BC Data Catalogue — 8 datasets including the BCTS sales schedule (public access), planned roads, block access roads, non-developed blocks, cut/road permit blocks and operating areas.",
-    "url": "https://catalogue.data.gov.bc.ca/organization/bc-timber-sales",
-    "tags": [
       "british columbia",
-      "open data",
-      "bc data catalogue",
-      "timber",
-      "forestry"
+      "api",
+      "search"
     ],
-    "dateAdded": "2026-11-09"
+    "dateAdded": "2026-08-26"
   },
   {
     "name": "BC Energy Regulator — Data Centre",
@@ -28078,6 +28007,77 @@
       "geodatabase"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "BC Geological Survey — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "BC Geological Survey datasets on the BC Data Catalogue — 50 datasets including the ARIS assessment report index and the MINFILE mineral occurrence, inventory and production databases.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/bc-geological-survey",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "geology",
+      "minerals",
+      "mining"
+    ],
+    "dateAdded": "2026-11-09"
+  },
+  {
+    "name": "BC Stats — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "BC Stats datasets on the BC Data Catalogue — 99 datasets including the Labour Force Survey, economic indicators, international commodity exports trade data and BC economic accounts / GDP.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/bc-stats",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "statistics",
+      "economy",
+      "labour"
+    ],
+    "dateAdded": "2026-11-09"
+  },
+  {
+    "name": "BC Timber Sales — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "BC Timber Sales datasets on the BC Data Catalogue — 8 datasets including the BCTS sales schedule (public access), planned roads, block access roads, non-developed blocks, cut/road permit blocks and operating areas.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/bc-timber-sales",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "timber",
+      "forestry"
+    ],
+    "dateAdded": "2026-11-09"
+  },
+  {
+    "name": "BC Wildfire Service — BC Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "British Columbia",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "BC Wildfire Service datasets on the BC Data Catalogue — 32 datasets including active weather stations, wildfire danger ratings, bans and prohibitions and area restrictions.",
+    "url": "https://catalogue.data.gov.bc.ca/organization/bc-wildfire-service",
+    "tags": [
+      "british columbia",
+      "open data",
+      "bc data catalogue",
+      "wildfire",
+      "fire bans",
+      "weather"
+    ],
+    "dateAdded": "2026-11-09"
   },
   {
     "name": "British Columbia — BC Address Geocoder API",
