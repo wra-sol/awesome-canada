@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2784 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2788 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 235
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 239
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -200,9 +200,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
+| Agriculture, Food and Rural Affairs — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Ministry of Agriculture, Food and Rural Affairs datasets on the Ontario Data Catalogue — 319 datasets including Ontario farm financial analysis data, livestock community sales facilities and queen and nucleus colony permits issued. | https://data.ontario.ca/organization/agriculture-food-and-rural-affairs |
+| Education — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Ministry of Education datasets on the Ontario Data Catalogue — 179 datasets including licensed child care facilities in Ontario, school information and student demographics and private school contact information. | https://data.ontario.ca/organization/education |
+| Health — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Ministry of Health datasets on the Ontario Data Catalogue — 387 datasets including participating fertility clinics for government-funded treatments, Integrated Community Health Services Centres (ICHSC) locations and the Health Care Experience Survey. | https://data.ontario.ca/organization/health |
 | Ministry of Finance — Ontario Population Projections | Ontario · Provincial | Statistical dashboard | Annual projections to 2051 for Ontario, 49 census divisions, health units and regions under reference/low/high scenarios; charts online plus XLSX table downloads. | https://www.ontario.ca/page/ontario-population-projections |
 | MLITSD — Employment Standards Claims Report | Ontario · Provincial | Open data | CSV downloads of Ontario ESA claims received/resolved and dollars assessed by ministry officers, fiscal 2012-2025, refreshed yearly. | https://data.ontario.ca/dataset/8d8c31d3-4ec8-4684-b817-39ce2884bb2f |
 | MLITSD — Occupational Health and Safety Inspections Report | Ontario · Provincial | Open data | CSV of MLITSD proactive OHS field-visit inspection counts by enforcement program area, fiscal 2011-2025, updated yearly. | https://data.ontario.ca/dataset/occupational-health-and-safety-inspections-report |
+| Natural Resources — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Ministry of Natural Resources datasets on the Ontario Data Catalogue — 310 datasets including recreational fishing regulations data, the Lake Ontario Joint Lake Trout Survey and Crown timber charges for forestry companies. | https://data.ontario.ca/organization/natural-resources |
 | Ontario Data Catalogue | Ontario · Provincial | Open data portal | Large and very usable provincial open data catalogue | https://data.ontario.ca/ |
 | Durham Region Open Data | Clarington · Regional | Regional open data portal | Regional Municipality of Durham open data — boundaries, infrastructure, and regional datasets covering Clarington and other lower-tier municipalities. | https://opendata.durham.ca/ |
 | Durham Region Open Data Portal | Durham · Regional | Open data portal | Open data portal for the Regional Municipality of Durham — transportation, environment, and community data | https://opendata-durham.hub.arcgis.com/ |

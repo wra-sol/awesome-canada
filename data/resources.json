@@ -28627,6 +28627,76 @@
     ]
   },
   {
+    "name": "Agriculture, Food and Rural Affairs — Ontario Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Ministry of Agriculture, Food and Rural Affairs datasets on the Ontario Data Catalogue — 319 datasets including Ontario farm financial analysis data, livestock community sales facilities and queen and nucleus colony permits issued.",
+    "url": "https://data.ontario.ca/organization/agriculture-food-and-rural-affairs",
+    "tags": [
+      "ontario",
+      "open data",
+      "ontario data catalogue",
+      "agriculture",
+      "food",
+      "rural affairs"
+    ],
+    "dateAdded": "2026-11-11"
+  },
+  {
+    "name": "Education — Ontario Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Ministry of Education datasets on the Ontario Data Catalogue — 179 datasets including licensed child care facilities in Ontario, school information and student demographics and private school contact information.",
+    "url": "https://data.ontario.ca/organization/education",
+    "tags": [
+      "ontario",
+      "open data",
+      "ontario data catalogue",
+      "education",
+      "schools",
+      "child care"
+    ],
+    "dateAdded": "2026-11-11"
+  },
+  {
+    "name": "Health — Ontario Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Ministry of Health datasets on the Ontario Data Catalogue — 387 datasets including participating fertility clinics for government-funded treatments, Integrated Community Health Services Centres (ICHSC) locations and the Health Care Experience Survey.",
+    "url": "https://data.ontario.ca/organization/health",
+    "tags": [
+      "ontario",
+      "open data",
+      "ontario data catalogue",
+      "health"
+    ],
+    "dateAdded": "2026-11-11"
+  },
+  {
+    "name": "Natural Resources — Ontario Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Ministry of Natural Resources datasets on the Ontario Data Catalogue — 310 datasets including recreational fishing regulations data, the Lake Ontario Joint Lake Trout Survey and Crown timber charges for forestry companies.",
+    "url": "https://data.ontario.ca/organization/natural-resources",
+    "tags": [
+      "ontario",
+      "open data",
+      "ontario data catalogue",
+      "natural resources",
+      "fishing",
+      "forestry"
+    ],
+    "dateAdded": "2026-11-11"
+  },
+  {
     "name": "PEI Open Data",
     "level": "Provincial",
     "jurisdiction": "PEI",
