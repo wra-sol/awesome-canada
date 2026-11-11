@@ -27996,6 +27996,24 @@
     "dateAdded": "2026-11-10"
   },
   {
+    "name": "King's Printer — Alberta Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "King's Printer datasets on Alberta Open Data — 1,449 datasets including the Oil and Gas Conservation Rules, Pest and Nuisance Control Regulation and Health Professions Restricted Activity Regulation (the official source for Alberta regulations and rules).",
+    "url": "https://open.alberta.ca/organization/kingsprinter",
+    "tags": [
+      "alberta",
+      "open data",
+      "alberta open data",
+      "king's printer",
+      "regulations",
+      "legislation"
+    ],
+    "dateAdded": "2026-11-11"
+  },
+  {
     "name": "Service Alberta — Alberta Open Data",
     "level": "Provincial",
     "jurisdiction": "Alberta",

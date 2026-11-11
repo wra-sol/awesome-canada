@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2783 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2784 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 234
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 235
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -157,6 +157,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Environment and Parks — Alberta Open Data | Alberta · Provincial | Open data catalogue | Environment and Parks datasets on Alberta Open Data — 2,303 datasets including Alberta Flood Hazard Identification Program mapping, Primary Land and Vegetation Inventory (PLVI), riparian area assessments and fish and wildlife mapping metadata. | https://open.alberta.ca/organization/environmentandparks |
 | Forestry and Parks — Alberta Open Data | Alberta · Provincial | Open data catalogue | Forestry and Parks datasets on Alberta Open Data — 435 datasets including the Canmore area trails master plan and public land use zone trail and road designations (Livingstone, Cataract Creek snow vehicle zones). | https://open.alberta.ca/organization/forestry-and-parks |
 | Justice and Solicitor General — Alberta Open Data | Alberta · Provincial | Open data catalogue | Justice and Solicitor General datasets on Alberta Open Data — 956 datasets including Alberta Serious Incident Response Team decisions, minister's office expenses, annual reports and justice publications. | https://open.alberta.ca/organization/justiceandsolicitorgeneral |
+| King's Printer — Alberta Open Data | Alberta · Provincial | Open data catalogue | King's Printer datasets on Alberta Open Data — 1,449 datasets including the Oil and Gas Conservation Rules, Pest and Nuisance Control Regulation and Health Professions Restricted Activity Regulation (the official source for Alberta regulations and rules). | https://open.alberta.ca/organization/kingsprinter |
 | Service Alberta — Alberta Open Data | Alberta · Provincial | Open data catalogue | Service Alberta datasets on Alberta Open Data — 534 datasets including condominium corporation general-meeting guidance and vital-statistics tables (live births by gestation period, stillbirths by mother's age). | https://open.alberta.ca/organization/servicealberta |
 | Transportation — Alberta Open Data | Alberta · Provincial | Open data catalogue | Transportation datasets on Alberta Open Data — 767 datasets including the traffic sign catalogue (freeway guide signs, information signs) and archived sign versions. | https://open.alberta.ca/organization/transportation |
 | Airdrie Open Data | Airdrie · Municipal | Open data hub | City of Airdrie ArcGIS open data including parcels, addressing, and municipal boundaries with GTFS transit data. | https://data-airdrie.opendata.arcgis.com/ |
