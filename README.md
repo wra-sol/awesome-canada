@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2785 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2783 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -42,7 +42,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 71
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 57
-- [🚌 Transit & Mobility](#transit-and-mobility) — 153
+- [🚌 Transit & Mobility](#transit-and-mobility) — 152
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 40
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 97
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 54
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 53
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -2405,7 +2405,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Metrolinx — GO Transit and UP Express GTFS | Ontario · Provincial | GTFS feed | Download current GO Transit and UP Express GTFS.zip schedule feeds (updated Aug 2026) for regional rail and bus apps. | https://www.gotransit.com/en/partner-with-us/software-developers |
 | Quinte Transit | Belleville · Regional | Transit | Quinte Transit's regional bus service in the Quinte region of Ontario, serving Belleville, Quinte West, Brighton and Prince Edward County: routes and schedules, fares, and accessible transit booking. | https://quintetransit.ca/ |
 | Brampton Transit | Brampton · Regional | Transit | Brampton transit routes, schedules, and Züm BRT info | https://www.brampton.ca/en/residents/transit |
-| Burlington Transit | Burlington · Regional | Transit | Burlington bus routes and schedules | https://www.burlington.ca/en/transit |
 | Guelph Transit | Guelph · Regional | Transit | Guelph bus routes and trip planning | https://guelph.ca/living/getting-around/bus/ |
 | Hamilton Street Railway (HSR) | Hamilton · Regional | Transit | Hamilton bus routes and BLine rapid transit info | https://www.hamilton.ca/hsr |
 | London Transit | London · Regional | Transit | London, Ontario bus routes and schedules | https://www.londontransit.ca/ |
@@ -3555,7 +3554,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario — Archives of Ontario Collection Search | Ontario · Provincial | Archives database search | Search descriptions of Ontario's archival, library and art collections — records, photographs and maps — then request items or order reproductions. | https://aims.archives.gov.on.ca/ |
 | Ontario Heritage Trust — Ontario Heritage Act Register | Ontario · Provincial | Heritage register | Searchable public database of all properties designated under Ontario's Heritage Act — 30,200 designated properties with designation documents, searchable by property, municipality and heritage conservation district. | https://www.heritagetrust.on.ca/pages/tools/ontario-heritage-act-register |
-| Burlington Heritage Register | Burlington · Municipal | Heritage register | Burlington municipal heritage register of designated and listed properties with conservation district information. | https://www.burlington.ca/en/planning-and-development/municipal-cultural-heritage-register.aspx |
 | Cornwall Heritage Designated Sites Open Data | Cornwall · Municipal | Heritage register dataset | GIS layer of Heritage Cornwall designated properties — map, filter, and download designated sites with by-law references via open data portal. | https://data-cornwallcity.opendata.arcgis.com/datasets/7e4d2ad84e584cceb938711fec2f9f2c_0 |
 | Hamilton Heritage Properties — Open Data | Hamilton · Municipal | Heritage register dataset | Designated and listed heritage properties in Hamilton as a downloadable GIS dataset on Open Hamilton. | https://open.hamilton.ca/datasets/heritage-properties |
 | Kingston Heritage Register | Kingston · Municipal | Heritage register | City of Kingston heritage property register under the Ontario Heritage Act — designated, listed, and conservation district properties. | https://www.cityofkingston.ca/building-and-renovating/heritage-property-conservation/heritage-register/ |

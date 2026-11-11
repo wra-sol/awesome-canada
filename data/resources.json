@@ -22916,20 +22916,6 @@
     "dateAdded": "2026-11-08"
   },
   {
-    "name": "Burlington Heritage Register",
-    "level": "Municipal",
-    "jurisdiction": "Burlington",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "Burlington municipal heritage register of designated and listed properties with conservation district information.",
-    "url": "https://www.burlington.ca/en/planning-and-development/municipal-cultural-heritage-register.aspx",
-    "tags": [
-      "burlington",
-      "heritage",
-      "register"
-    ]
-  },
-  {
     "name": "Calgary Heritage Inventory",
     "level": "Municipal",
     "jurisdiction": "Calgary",
@@ -27907,21 +27893,6 @@
     ]
   },
   {
-    "name": "Alberta Open Government Portal",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Alberta's open government portal providing open data, publications, and reports for researchers, developers, and citizens",
-    "url": "https://open.alberta.ca/",
-    "tags": [
-      "Alberta",
-      "open data",
-      "government",
-      "transparency"
-    ]
-  },
-  {
     "name": "Alberta Energy Regulator — Alberta Open Data",
     "level": "Provincial",
     "jurisdiction": "Alberta",
@@ -27940,22 +27911,19 @@
     "dateAdded": "2026-11-10"
   },
   {
-    "name": "Environment and Parks — Alberta Open Data",
+    "name": "Alberta Open Government Portal",
     "level": "Provincial",
     "jurisdiction": "Alberta",
     "category": "open-data",
-    "type": "Open data catalogue",
-    "description": "Environment and Parks datasets on Alberta Open Data — 2,303 datasets including Alberta Flood Hazard Identification Program mapping, Primary Land and Vegetation Inventory (PLVI), riparian area assessments and fish and wildlife mapping metadata.",
-    "url": "https://open.alberta.ca/organization/environmentandparks",
+    "type": "Open data portal",
+    "description": "Alberta's open government portal providing open data, publications, and reports for researchers, developers, and citizens",
+    "url": "https://open.alberta.ca/",
     "tags": [
-      "alberta",
+      "Alberta",
       "open data",
-      "alberta open data",
-      "environment",
-      "flood hazard",
-      "land inventory"
-    ],
-    "dateAdded": "2026-11-10"
+      "government",
+      "transparency"
+    ]
   },
   {
     "name": "Energy — Alberta Open Data",
@@ -27971,6 +27939,24 @@
       "alberta open data",
       "energy",
       "minerals"
+    ],
+    "dateAdded": "2026-11-10"
+  },
+  {
+    "name": "Environment and Parks — Alberta Open Data",
+    "level": "Provincial",
+    "jurisdiction": "Alberta",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Environment and Parks datasets on Alberta Open Data — 2,303 datasets including Alberta Flood Hazard Identification Program mapping, Primary Land and Vegetation Inventory (PLVI), riparian area assessments and fish and wildlife mapping metadata.",
+    "url": "https://open.alberta.ca/organization/environmentandparks",
+    "tags": [
+      "alberta",
+      "open data",
+      "alberta open data",
+      "environment",
+      "flood hazard",
+      "land inventory"
     ],
     "dateAdded": "2026-11-10"
   },
@@ -38811,19 +38797,6 @@
       "schedules"
     ],
     "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Burlington Transit",
-    "level": "Regional",
-    "jurisdiction": "Burlington",
-    "category": "transit",
-    "type": "Transit",
-    "description": "Burlington bus routes and schedules",
-    "url": "https://www.burlington.ca/en/transit",
-    "tags": [
-      "transit",
-      "Burlington"
-    ]
   },
   {
     "name": "Strait Area Transit (Nova Scotia)",
