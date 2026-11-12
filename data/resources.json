@@ -28681,6 +28681,42 @@
     ]
   },
   {
+    "name": "Energy and Mines — Ontario Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Energy and Mines datasets on the Ontario Data Catalogue — 76 datasets including Mining claims, Energy and water usage of large buildings in Ontario, Energy use and greenhouse gas emissions for the Broader Public Sector and Withdrawal and re-opening orders.",
+    "url": "https://data.ontario.ca/organization/energy-and-mines",
+    "tags": [
+      "ontario",
+      "open data",
+      "ontario data catalogue",
+      "energy",
+      "mining",
+      "emissions"
+    ],
+    "dateAdded": "2026-11-12"
+  },
+  {
+    "name": "Public and Business Service Delivery and Procurement — Ontario Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Public and Business Service Delivery and Procurement datasets on the Ontario Data Catalogue — 77 datasets including Select Licence and Registration Data, Registered marriage officiants and Death registrations in Ontario (by location and by residence).",
+    "url": "https://data.ontario.ca/organization/public-and-business-service-delivery-and-procurement",
+    "tags": [
+      "ontario",
+      "open data",
+      "ontario data catalogue",
+      "licences",
+      "registrations",
+      "vital statistics"
+    ],
+    "dateAdded": "2026-11-12"
+  },
+  {
     "name": "Attorney General — Ontario Data Catalogue",
     "level": "Provincial",
     "jurisdiction": "Ontario",

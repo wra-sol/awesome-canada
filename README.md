@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2789 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2791 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 241
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 243
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -203,6 +203,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Agriculture, Food and Rural Affairs — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Ministry of Agriculture, Food and Rural Affairs datasets on the Ontario Data Catalogue — 319 datasets including Ontario farm financial analysis data, livestock community sales facilities and queen and nucleus colony permits issued. | https://data.ontario.ca/organization/agriculture-food-and-rural-affairs |
 | Attorney General — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Attorney General datasets on the Ontario Data Catalogue — 112 datasets including the LTB Order Catalogue, the Capacity Assessor Roster and board member expenses. | https://data.ontario.ca/organization/attorney-general |
 | Education — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Ministry of Education datasets on the Ontario Data Catalogue — 179 datasets including licensed child care facilities in Ontario, school information and student demographics and private school contact information. | https://data.ontario.ca/organization/education |
+| Energy and Mines — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Energy and Mines datasets on the Ontario Data Catalogue — 76 datasets including Mining claims, Energy and water usage of large buildings in Ontario, Energy use and greenhouse gas emissions for the Broader Public Sector and Withdrawal and re-opening orders. | https://data.ontario.ca/organization/energy-and-mines |
 | Environment, Conservation and Parks — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Environment, Conservation and Parks datasets on the Ontario Data Catalogue — 126 datasets including Ring of Fire environmental monitoring, the Provincial Stream Water Quality Monitoring Network and licensed well contractors. | https://data.ontario.ca/organization/environment-conservation-and-parks |
 | Health — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Ministry of Health datasets on the Ontario Data Catalogue — 387 datasets including participating fertility clinics for government-funded treatments, Integrated Community Health Services Centres (ICHSC) locations and the Health Care Experience Survey. | https://data.ontario.ca/organization/health |
 | Ministry of Finance — Ontario Population Projections | Ontario · Provincial | Statistical dashboard | Annual projections to 2051 for Ontario, 49 census divisions, health units and regions under reference/low/high scenarios; charts online plus XLSX table downloads. | https://www.ontario.ca/page/ontario-population-projections |
@@ -210,6 +211,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | MLITSD — Occupational Health and Safety Inspections Report | Ontario · Provincial | Open data | CSV of MLITSD proactive OHS field-visit inspection counts by enforcement program area, fiscal 2011-2025, updated yearly. | https://data.ontario.ca/dataset/occupational-health-and-safety-inspections-report |
 | Natural Resources — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Ministry of Natural Resources datasets on the Ontario Data Catalogue — 310 datasets including recreational fishing regulations data, the Lake Ontario Joint Lake Trout Survey and Crown timber charges for forestry companies. | https://data.ontario.ca/organization/natural-resources |
 | Ontario Data Catalogue | Ontario · Provincial | Open data portal | Large and very usable provincial open data catalogue | https://data.ontario.ca/ |
+| Public and Business Service Delivery and Procurement — Ontario Data Catalogue | Ontario · Provincial | Open data catalogue | Public and Business Service Delivery and Procurement datasets on the Ontario Data Catalogue — 77 datasets including Select Licence and Registration Data, Registered marriage officiants and Death registrations in Ontario (by location and by residence). | https://data.ontario.ca/organization/public-and-business-service-delivery-and-procurement |
 | Durham Region Open Data | Clarington · Regional | Regional open data portal | Regional Municipality of Durham open data — boundaries, infrastructure, and regional datasets covering Clarington and other lower-tier municipalities. | https://opendata.durham.ca/ |
 | Durham Region Open Data Portal | Durham · Regional | Open data portal | Open data portal for the Regional Municipality of Durham — transportation, environment, and community data | https://opendata-durham.hub.arcgis.com/ |
 | Halton Region Open Data Portal | Halton · Regional | Open data portal | Open data portal for the Regional Municipality of Halton — planning, transportation, and public health datasets | https://opendata-halton.hub.arcgis.com/ |
