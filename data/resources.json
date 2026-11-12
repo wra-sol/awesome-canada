@@ -28681,6 +28681,40 @@
     ]
   },
   {
+    "name": "Attorney General — Ontario Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Attorney General datasets on the Ontario Data Catalogue — 112 datasets including the LTB Order Catalogue, the Capacity Assessor Roster and board member expenses.",
+    "url": "https://data.ontario.ca/organization/attorney-general",
+    "tags": [
+      "ontario",
+      "open data",
+      "ontario data catalogue",
+      "justice",
+      "tribunals"
+    ],
+    "dateAdded": "2026-11-12"
+  },
+  {
+    "name": "Environment, Conservation and Parks — Ontario Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data catalogue",
+    "description": "Environment, Conservation and Parks datasets on the Ontario Data Catalogue — 126 datasets including Ring of Fire environmental monitoring, the Provincial Stream Water Quality Monitoring Network and licensed well contractors.",
+    "url": "https://data.ontario.ca/organization/environment-conservation-and-parks",
+    "tags": [
+      "ontario",
+      "open data",
+      "ontario data catalogue",
+      "environment",
+      "water quality"
+    ],
+    "dateAdded": "2026-11-12"
+  },
+  {
     "name": "PEI Open Data",
     "level": "Provincial",
     "jurisdiction": "PEI",
