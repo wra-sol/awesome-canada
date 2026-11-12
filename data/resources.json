@@ -6674,22 +6674,6 @@
     "dateAdded": "2026-08-25"
   },
   {
-    "name": "Saskatchewan — Consumer Rights Pathway",
-    "level": "Provincial",
-    "jurisdiction": "Saskatchewan",
-    "category": "consumer",
-    "type": "Dispute resolution",
-    "description": "Saskatchewan's interactive consumer-rights pathway: answer guided questions about a dispute to learn your rights, get letter templates, and escalate to the Resolve My Consumer Dispute portal with FCAA mediators.",
-    "url": "https://consumerrights.saskatchewan.ca/",
-    "tags": [
-      "consumer rights",
-      "dispute resolution",
-      "saskatchewan",
-      "fcaa"
-    ],
-    "dateAdded": "2026-10-18"
-  },
-  {
     "name": "Yukon — Complaint Against a Regulated Business Professional",
     "level": "Provincial",
     "jurisdiction": "Yukon",
@@ -28563,70 +28547,6 @@
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Ministry of Finance — Ontario Population Projections",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "open-data",
-    "type": "Statistical dashboard",
-    "description": "Annual projections to 2051 for Ontario, 49 census divisions, health units and regions under reference/low/high scenarios; charts online plus XLSX table downloads.",
-    "url": "https://www.ontario.ca/page/ontario-population-projections",
-    "tags": [
-      "demographics",
-      "population",
-      "projections",
-      "statistics",
-      "xlsx"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "MLITSD — Employment Standards Claims Report",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "open-data",
-    "type": "Open data",
-    "description": "CSV downloads of Ontario ESA claims received/resolved and dollars assessed by ministry officers, fiscal 2012-2025, refreshed yearly.",
-    "url": "https://data.ontario.ca/dataset/8d8c31d3-4ec8-4684-b817-39ce2884bb2f",
-    "tags": [
-      "ontario",
-      "labour",
-      "employment standards",
-      "claims",
-      "csv"
-    ],
-    "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "MLITSD — Occupational Health and Safety Inspections Report",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "open-data",
-    "type": "Open data",
-    "description": "CSV of MLITSD proactive OHS field-visit inspection counts by enforcement program area, fiscal 2011-2025, updated yearly.",
-    "url": "https://data.ontario.ca/dataset/occupational-health-and-safety-inspections-report",
-    "tags": [
-      "ontario",
-      "occupational health and safety",
-      "inspections",
-      "csv",
-      "open data"
-    ],
-    "dateAdded": "2026-08-25"
-  },
-  {
-    "name": "Ontario Data Catalogue",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "open-data",
-    "type": "Open data portal",
-    "description": "Large and very usable provincial open data catalogue",
-    "url": "https://data.ontario.ca/",
-    "tags": [
-      "open data",
-      "Ontario"
-    ]
-  },
-  {
     "name": "Agriculture, Food and Rural Affairs — Ontario Data Catalogue",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -28679,6 +28599,57 @@
     "dateAdded": "2026-11-11"
   },
   {
+    "name": "Ministry of Finance — Ontario Population Projections",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Statistical dashboard",
+    "description": "Annual projections to 2051 for Ontario, 49 census divisions, health units and regions under reference/low/high scenarios; charts online plus XLSX table downloads.",
+    "url": "https://www.ontario.ca/page/ontario-population-projections",
+    "tags": [
+      "demographics",
+      "population",
+      "projections",
+      "statistics",
+      "xlsx"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "MLITSD — Employment Standards Claims Report",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data",
+    "description": "CSV downloads of Ontario ESA claims received/resolved and dollars assessed by ministry officers, fiscal 2012-2025, refreshed yearly.",
+    "url": "https://data.ontario.ca/dataset/8d8c31d3-4ec8-4684-b817-39ce2884bb2f",
+    "tags": [
+      "ontario",
+      "labour",
+      "employment standards",
+      "claims",
+      "csv"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
+    "name": "MLITSD — Occupational Health and Safety Inspections Report",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data",
+    "description": "CSV of MLITSD proactive OHS field-visit inspection counts by enforcement program area, fiscal 2011-2025, updated yearly.",
+    "url": "https://data.ontario.ca/dataset/occupational-health-and-safety-inspections-report",
+    "tags": [
+      "ontario",
+      "occupational health and safety",
+      "inspections",
+      "csv",
+      "open data"
+    ],
+    "dateAdded": "2026-08-25"
+  },
+  {
     "name": "Natural Resources — Ontario Data Catalogue",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -28695,6 +28666,19 @@
       "forestry"
     ],
     "dateAdded": "2026-11-11"
+  },
+  {
+    "name": "Ontario Data Catalogue",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "open-data",
+    "type": "Open data portal",
+    "description": "Large and very usable provincial open data catalogue",
+    "url": "https://data.ontario.ca/",
+    "tags": [
+      "open data",
+      "Ontario"
+    ]
   },
   {
     "name": "PEI Open Data",

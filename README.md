@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2788 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2787 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -55,7 +55,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
-- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 80
+- [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 79
 - [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 49
 - [🎖️ Veterans & Military](#veterans-and-military) — 37
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 106
@@ -3978,7 +3978,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | FCAA Saskatchewan — File a Consumer Complaint | Saskatchewan · Provincial | Complaint guide | The FCAA Consumer Protection Division's complaint page: Saskatchewan consumers check whether their dispute is valid and file a complaint about goods, services, warranties, direct sellers, collection agents or motor dealers. | https://fcaa.gov.sk.ca/consumers-investors-pension-plan-members/consumers/purchasing-goods-and-services/complaints |
 | OIPC Saskatchewan | Saskatchewan · Provincial | Regulator | Saskatchewan's Information and Privacy Commissioner — reviews, reports, and privacy guidance | https://oipc.sk.ca/ |
 | Ombudsman Saskatchewan | Saskatchewan · Provincial | Ombudsman | Takes complaints about Saskatchewan government ministries, agencies, Crown corporations, and municipal councils | https://ombudsman.sk.ca/ |
-| Saskatchewan — Consumer Rights Pathway | Saskatchewan · Provincial | Dispute resolution | Saskatchewan's interactive consumer-rights pathway: answer guided questions about a dispute to learn your rights, get letter templates, and escalate to the Resolve My Consumer Dispute portal with FCAA mediators. | https://consumerrights.saskatchewan.ca/ |
 
 ### Manitoba
 
