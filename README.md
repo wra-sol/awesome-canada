@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2791 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2794 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -48,7 +48,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
 - [🌦️ Weather & Climate](#weather-and-climate) — 44
 - [⚡ Energy & Utilities](#energy-and-utilities) — 58
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 48
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 51
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 53
@@ -3144,8 +3144,11 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Agricorp — Ontario Production Insurance | Ontario · Crown Corp | Production insurance programs | Ontario's delivery agent for Production Insurance: 100+ commodities with per-crop plan overviews, 2026 premium rates and deadlines, online yield reporting, and county-level insured-acreage/yield statistics and maps (PDF). | https://www.agricorp.com/en-ca/Programs/ProductionInsurance/Pages/Default.aspx |
 | LCBO — Ontario Liquor Retailer | Ontario · Crown Corp | Retail | Search LCBO product catalogue, store availability, and specialty releases | https://www.lcbo.com/ |
+| Current Ontario Field Crop Production by Crop | Ontario · Provincial | Dataset | OMAFRA open dataset: current-year estimates of seeded and harvested acres, yield, production and farm value by crop for Ontario field crops, as a downloadable XLSX file. | https://data.ontario.ca/dataset/ontario-field-crops-production-estimate |
+| Historical Ontario Field Crop Production by Crop | Ontario · Provincial | Dataset | OMAFRA open dataset: historical estimates of harvested area, yield, production, price and farm value of field crops in Ontario by crop, with 3 downloadable XLSX files. | https://data.ontario.ca/dataset/ontario-field-crops-production-estimate-by-crop |
 | Ministry of Agriculture, Food and Agribusiness — AgMaps | Ontario · Provincial | Interactive map | Build custom farm maps: assessment-parcel search, aerial imagery, soils, drainage, erosion-potential and CLI layers; annotate and export maps for farm programs. | https://www.lioapplications.lrc.gov.on.ca/AgMaps/Index.html?viewer=AgMaps.AgMaps&locale=en-CA |
 | OMAFA — Field Crops Statistics | Ontario · Provincial | Statistics | Ontario Ministry of Agriculture field crop area, yield, and production estimates by county and crop, with multi-year statistical archives. | https://www.omafra.gov.on.ca/english/stats/crops/index.html |
+| Ontario Field Crop Area and Production Estimates by County | Ontario · Provincial | Dataset | OMAFRA open dataset: estimated seeded and harvested acres, yield, production and farm value of field crops in Ontario, broken down by county, with 29 downloadable XLSX files. | https://data.ontario.ca/dataset/ontario-field-crop-area-and-production-estimates-by-county |
 
 ### Quebec
 
@@ -3696,8 +3699,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Public Safety Canada — Listed Terrorist Entities | Canada · Federal | Registry | Official registry of every entity listed under the Criminal Code as a terrorist entity, with background summaries and listing dates for each group. | https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx |
 | Public Safety Canada — National Emergency Resources | Canada · Federal | Guide | Emergency preparedness guides, 72-hour kits, and hazard-specific response info | https://www.getprepared.gc.ca/ |
 | RCMP — Canada's Missing | Canada · Federal | Case database | Search police-published profiles of missing persons and unidentified remains cases across Canada, with photos, descriptions, and tip submission. | https://canadasmissing.ca/index-eng.htm |
-| RCMP — Crime Mapping and Statistics | Canada · Federal | Data | RCMP crime data, police reported statistics, and operational updates | https://www.rcmp-grc.gc.ca/en/crime-statistics |
 | Recalls and Safety Alerts | Canada · Federal | Alert database | Useful public alert tool for recalls and safety notices | https://recalls-rappels.canada.ca/ |
+| Statistics Canada — Police-Reported Crime in Canada | Canada · Federal | Data | Statistics Canada's annual police-reported crime statistics: Crime Severity Index and crime rate by province, territory and census metropolitan area, from the Uniform Crime Reporting Survey. | https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-eng.htm |
 | Avalanche Canada — Forecasts | Canada · Agency | Forecast map | Daily avalanche danger forecasts on an interactive map with dynamic region boundaries set by forecasters, covering Canada's backcountry mountain regions. | https://avalanche.ca/forecasts |
 | Canadian Centre for Occupational Health and Safety (CCOHS) | Canada · Agency | Resources | Workplace safety guides, OSH Answers fact sheets, and e-learning | https://www.ccohs.ca/ |
 | NSICOP — Committee Reports | Canada · Agency | Report library | Download annual and special reports from Parliament's security-cleared committee, including reviews of foreign interference, lawful access, and defence intelligence. | https://www.nsicop-cpsnr.ca/reports-rapports-en.html |

@@ -639,6 +639,57 @@
     ]
   },
   {
+    "name": "Current Ontario Field Crop Production by Crop",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: current-year estimates of seeded and harvested acres, yield, production and farm value by crop for Ontario field crops, as a downloadable XLSX file.",
+    "url": "https://data.ontario.ca/dataset/ontario-field-crops-production-estimate",
+    "tags": [
+      "ontario",
+      "field crops",
+      "agriculture",
+      "open data",
+      "xlsx"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
+    "name": "Historical Ontario Field Crop Production by Crop",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: historical estimates of harvested area, yield, production, price and farm value of field crops in Ontario by crop, with 3 downloadable XLSX files.",
+    "url": "https://data.ontario.ca/dataset/ontario-field-crops-production-estimate-by-crop",
+    "tags": [
+      "ontario",
+      "field crops",
+      "agriculture",
+      "open data",
+      "xlsx"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
+    "name": "Ontario Field Crop Area and Production Estimates by County",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: estimated seeded and harvested acres, yield, production and farm value of field crops in Ontario, broken down by county, with 29 downloadable XLSX files.",
+    "url": "https://data.ontario.ca/dataset/ontario-field-crop-area-and-production-estimates-by-county",
+    "tags": [
+      "ontario",
+      "field crops",
+      "agriculture",
+      "open data",
+      "xlsx"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
     "name": "IRAC — Lands Protection Act Applications Databank",
     "level": "Provincial",
     "jurisdiction": "PEI",
@@ -34538,13 +34589,13 @@
     ]
   },
   {
-    "name": "RCMP — Crime Mapping and Statistics",
+    "name": "Statistics Canada — Police-Reported Crime in Canada",
     "level": "Federal",
     "jurisdiction": "Canada",
     "category": "safety",
     "type": "Data",
-    "description": "RCMP crime data, police reported statistics, and operational updates",
-    "url": "https://www.rcmp-grc.gc.ca/en/crime-statistics",
+    "description": "Statistics Canada's annual police-reported crime statistics: Crime Severity Index and crime rate by province, territory and census metropolitan area, from the Uniform Crime Reporting Survey.",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-eng.htm",
     "tags": [
       "policing",
       "data"
