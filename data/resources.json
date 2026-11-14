@@ -673,6 +673,78 @@
     "dateAdded": "2026-11-14"
   },
   {
+    "name": "Average Weekly Cattle Prices — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: weekly Ontario cattle prices (large and medium frame feeder and fed cattle), market price, feed cost and feeder steer margin, as downloadable XLSX files. Updated weekly; last modified 2026-11-02.",
+    "url": "https://data.ontario.ca/dataset/average-weekly-cattle-prices",
+    "tags": [
+      "ontario",
+      "cattle",
+      "agriculture",
+      "open data",
+      "xlsx",
+      "prices"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
+    "name": "Average Weekly Hog Prices — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: weekly Ontario hog/swine prices, swine margin, hog price and futures, as downloadable XLSX files. Updated weekly; last modified 2026-11-02.",
+    "url": "https://data.ontario.ca/dataset/average-weekly-hog-prices",
+    "tags": [
+      "ontario",
+      "hogs",
+      "agriculture",
+      "open data",
+      "xlsx",
+      "prices"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
+    "name": "Average Weekly Soybean Prices — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: weekly Ontario soybean spot-market and forward-contract prices, including old and new crop CBOT prices, as downloadable XLSX files. Updated weekly; last modified 2026-11-02.",
+    "url": "https://data.ontario.ca/dataset/average-weekly-soybean-prices",
+    "tags": [
+      "ontario",
+      "soybeans",
+      "agriculture",
+      "open data",
+      "xlsx",
+      "prices"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
+    "name": "Average Weekly Winter Wheat Prices — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: weekly Ontario winter wheat spot-market and forward-contract prices, including old and new crop CBOT prices, as downloadable XLSX files. Updated weekly; last modified 2026-11-02.",
+    "url": "https://data.ontario.ca/dataset/average-weekly-winter-wheat-prices",
+    "tags": [
+      "ontario",
+      "wheat",
+      "agriculture",
+      "open data",
+      "xlsx",
+      "prices"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
     "name": "Ontario Field Crop Area and Production Estimates by County",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -22460,7 +22532,7 @@
     "category": "heritage",
     "type": "Full-text archive",
     "description": "Full-text keyword search across ~95 digitized pre-1901 Canadian city, county and provincial directories (incl. Ottawa and Halifax runs); hits link directly to scanned directory pages.",
-    "url": "https://www.bac-lac.gc.ca/eng/discover/directories-collection/pages/directories-collection.aspx",
+    "url": "https://www.canada.ca/en/library-archives/collection/research-help/newspapers/canadian-directories-1790-1906.html",
     "tags": [
       "directories",
       "local history",
@@ -22478,7 +22550,7 @@
     "category": "heritage",
     "type": "Genealogy database",
     "description": "Free searchable Canadian census records from 1825 to 1931, searchable by name, province and district — the backbone of Canadian genealogy research.",
-    "url": "https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/censuses/Pages/censuses.aspx",
+    "url": "https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/censuses/general-guide.html",
     "tags": [
       "census",
       "genealogy",
@@ -22540,7 +22612,7 @@
     "category": "heritage",
     "type": "Genealogy database",
     "description": "Search 245,000+ indexed names of British Home Children by surname, given name, ship and year of arrival; entries link to passenger lists, inspection reports and Immigration Branch files.",
-    "url": "https://www.bac-lac.gc.ca/eng/discover/immigration/immigration-records/home-children-1869-1930/immigration-records/pages/immigration-records.aspx",
+    "url": "https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/home-children.html",
     "tags": [
       "genealogy",
       "home children",
@@ -22557,7 +22629,7 @@
     "category": "heritage",
     "type": "Genealogy database",
     "description": "Search 670,000+ letters patent for homestead land grants in Manitoba, Saskatchewan, Alberta and the BC railway belt (1870–1930) by name, location or keyword.",
-    "url": "https://www.bac-lac.gc.ca/eng/discover/land/land-grants-western-canada-1870-1930/Pages/land-grants-western-canada.aspx",
+    "url": "https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/land-records/western-land-grants.html",
     "tags": [
       "genealogy",
       "land grants",
@@ -22573,7 +22645,7 @@
     "category": "heritage",
     "type": "Genealogy database",
     "description": "Search 200,000+ people who became naturalized Canadians between 1915 and 1951 by name or country of origin, with digitized Canada Gazette pages and file references.",
-    "url": "https://bac-lac.gc.ca/eng/discover/immigration/citizenship-naturalization-records/naturalized-records-1915-1951/Pages/introduction.aspx",
+    "url": "https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/citizenship-naturalization.html",
     "tags": [
       "genealogy",
       "citizenship",
@@ -33312,7 +33384,7 @@
     "category": "planning-zoning",
     "type": "Zoning dataset",
     "description": "Municipal zoning boundaries for Lévis — download GeoJSON, shapefile, or FGDB; updated on Données Québec with CC-BY licence.",
-    "url": "https://www.donneesquebec.ca/recherche/fr/dataset/6cd041e3-902c-469e-a863-e54f4df966f2",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/zonage-levis",
     "tags": [
       "lévis",
       "zonage",
@@ -36869,7 +36941,7 @@
     "category": "science",
     "type": "Theses portal",
     "description": "Search 425,000+ Canadian university theses and dissertations back to 1965 and read 200,000+ of them free in full text.",
-    "url": "https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/search-theses-canada.aspx",
+    "url": "https://www.canada.ca/en/library-archives/services/heritage/theses.html",
     "tags": [
       "theses",
       "dissertations",
@@ -43156,7 +43228,7 @@
     "category": "veterans",
     "type": "Records database",
     "description": "Search roughly 622,000 digitized First World War service files of the Canadian Expeditionary Force by name, regimental number, or place of enlistment.",
-    "url": "https://library-archives.canada.ca/eng/collection/research-help/military-heritage/first-world-war/Pages/fww-personnel.aspx",
+    "url": "https://www.canada.ca/en/library-archives/collection/research-help/military-history/first-world-war/fww-personnel.html",
     "tags": [
       "military history",
       "wwi",
