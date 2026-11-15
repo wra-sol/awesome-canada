@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2801 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2806 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -48,7 +48,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
 - [🌦️ Weather & Climate](#weather-and-climate) — 44
 - [⚡ Energy & Utilities](#energy-and-utilities) — 58
-- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 60
+- [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 165
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 53
@@ -3149,13 +3149,18 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Current Ontario Field Crop Production by Crop | Ontario · Provincial | Dataset | OMAFRA open dataset: current-year estimates of seeded and harvested acres, yield, production and farm value by crop for Ontario field crops, as a downloadable XLSX file. | https://data.ontario.ca/dataset/ontario-field-crops-production-estimate |
 | Farm Implement Dealers — Ontario | Ontario · Provincial | Dataset | OMAFRA open dataset: list of registered farm implement dealers, distributors and dealer/distributors in Ontario, with locations; dealers sell farm implements or replacement parts to the public. Downloadable data plus GeoHub/ArcGIS maps. Updated 2025-08-20. | https://data.ontario.ca/dataset/farm-implement-dealers |
 | Historical Ontario Field Crop Production by Crop | Ontario · Provincial | Dataset | OMAFRA open dataset: historical estimates of harvested area, yield, production, price and farm value of field crops in Ontario by crop, with 3 downloadable XLSX files. | https://data.ontario.ca/dataset/ontario-field-crops-production-estimate-by-crop |
+| Honey Bee Pests and Pathogens in Ontario Apiaries | Ontario · Provincial | Dataset | OMAFRA open dataset: multi-year (2015-2019) monitoring of honey bee pests and pathogens in Ontario apiaries, with prevalence and load by season, as downloadable PDF reports and XLSX data (16 resources). | https://data.ontario.ca/dataset/honey-bee-pests-and-pathogens-in-ontario-apiaries |
 | Licensed Beef Dealers — Ontario | Ontario · Provincial | Dataset | OMAFRA open dataset: list of provincially licensed dealers under the Ontario Beef Cattle Financial Protection Program, permitted to purchase cattle in Ontario; the program protects cattle sellers from dealer default. Downloadable XLSX. Updated 2026-06-09. | https://data.ontario.ca/dataset/licensed-beef-dealers |
+| Livestock Medicine Outlets in Ontario | Ontario · Provincial | Dataset | OMAFRA open dataset: licensed retail outlets selling over-the-counter livestock medicines in Ontario, regulated under the Animal Health Act, 2009, as downloadable CSV files (2 resources). Updated 2026-10-22. | https://data.ontario.ca/dataset/livestock-medicine-outlets-in-ontario |
 | Ministry of Agriculture, Food and Agribusiness — AgMaps | Ontario · Provincial | Interactive map | Build custom farm maps: assessment-parcel search, aerial imagery, soils, drainage, erosion-potential and CLI layers; annotate and export maps for farm programs. | https://www.lioapplications.lrc.gov.on.ca/AgMaps/Index.html?viewer=AgMaps.AgMaps&locale=en-CA |
 | OMAFA — Field Crops Statistics | Ontario · Provincial | Statistics | Ontario Ministry of Agriculture field crop area, yield, and production estimates by county and crop, with multi-year statistical archives. | https://www.omafra.gov.on.ca/english/stats/crops/index.html |
+| Ontario Deadstock Operators and Facilities | Ontario · Provincial | Dataset | OMAFRA open dataset: provincially licensed operators that collect, transport, process and dispose of deadstock (dead farm animals) in Ontario, with facility type, name, location/region and contact information, plus a GeoHub map. Updated 2025-08-20. | https://data.ontario.ca/dataset/ontario-deadstock-operators-and-facilities |
 | Ontario Field Crop Area and Production Estimates by County | Ontario · Provincial | Dataset | OMAFRA open dataset: estimated seeded and harvested acres, yield, production and farm value of field crops in Ontario, broken down by county, with 29 downloadable XLSX files. | https://data.ontario.ca/dataset/ontario-field-crop-area-and-production-estimates-by-county |
+| Ontario's Livestock Community Sales Facilities | Ontario · Provincial | Dataset | OMAFRA open dataset: facilities selling livestock by public auction in Ontario, with name, address, county and class, as downloadable CSV files (2 resources). Updated 2026-11-09. | https://data.ontario.ca/dataset/ontarios-livestock-community-sales-facilities |
 | Provincially Licensed Dairy Plants — Ontario | Ontario · Provincial | Dataset | OMAFRA open dataset: locations of dairy plants registered by the Ontario Ministry of Agriculture, Food and Agribusiness, to help the public and ministry staff locate licensed dairy plants; downloadable data plus GeoHub map. Updated 2026-07-16. | https://data.ontario.ca/dataset/provincially-licensed-dairy-plants |
 | Provincially Licensed Fish Plants — Ontario | Ontario · Provincial | Dataset | OMAFRA open dataset: all provincially licensed fish plants in Ontario, with plant name, plant number, contact information and latitude/longitude, as a downloadable CSV. Updated 2026-11-03. | https://data.ontario.ca/dataset/provincially-licensed-fish-plants |
 | Provincially Licensed Meat Plants — Ontario | Ontario · Provincial | Dataset | OMAFRA open dataset: all provincially licensed abattoirs, freestanding meat plants and further-processing plants across Ontario, with plant name, licence and location, as downloadable CSV files (17 resources, by animal type). Updated 2026-11-04. | https://data.ontario.ca/dataset/provincially-licensed-meat-plants |
+| Queen and Nucleus Colony Permits Issued — Ontario | Ontario · Provincial | Dataset | OMAFRA open dataset: record of queen and nucleus colony permits issued to Ontario beekeepers for the sale of honey bee stock under the Bees Act, as downloadable CSV files (2 resources). Updated 2026-11-04. | https://data.ontario.ca/dataset/queen-and-nucleus-colony-permits-issued |
 
 ### Quebec
 
