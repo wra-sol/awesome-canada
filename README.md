@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2798 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2797 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -37,7 +37,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🎓 Education & Student Aid](#education-and-student-aid) — 62
 - [🎒 Schools, Education & Boards](#schools-education-and-boards) — 55
 - [🛂 Immigration & Citizenship](#immigration-and-citizenship) — 45
-- [🩺 Health & Wellness](#health-and-wellness) — 153
+- [🩺 Health & Wellness](#health-and-wellness) — 152
 - [🏥 Health Regions & Local Health](#health-regions-and-local-health) — 42
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 71
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 80
@@ -1729,7 +1729,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | PHAC — Adverse Events Following Immunization (AEFI) Dashboard | Canada · Federal | Dashboard | Public Health Agency of Canada dashboard of adverse events following immunization reported to CAEFISS for people vaccinated in Canada, filterable by year, age, sex, vaccine and seriousness, with downloadable data. | https://health-infobase.canada.ca/vaccination/adverse-events/ |
 | PHAC — Canadian Chronic Disease Surveillance System | Canada · Federal | Data tool | Chart incidence and prevalence for 20+ chronic conditions by province, age and sex from 2000 onward; download custom tables from the data tool. | https://health-infobase.canada.ca/ccdss/data-tool/ |
 | PHAC — Health of People in Canada Dashboard | Canada · Federal | Dashboard | Explore 50+ population-health indicators (life expectancy, chronic disease, substance use, social factors) with maps and trends; download the dashboard CSV. | https://health-infobase.canada.ca/health-of-people-in-canada-dashboard/ |
-| PHAC — Mental Health Support: Get Help | Canada · Federal | Service finder | The Public Health Agency of Canada's mental-health help page: support organized by province and territory and by audience, including 9-8-8, services for First Nations, Inuit and Métis peoples, youth, Veterans and families, and national organizations. | https://www.canada.ca/en/public-health/services/publications/diseases-conditions/taking-care-mental-health.html |
 | PHAC — Notifiable Diseases On-Line | Canada · Federal | Surveillance database | Explore annual counts and rates of nationally notifiable infectious diseases back to 1924; build custom charts and export results as CSV or Excel. | https://diseases.canada.ca/notifiable/ |
 | PHAC — Opioid- and Stimulant-related Harms Dashboard | Canada · Federal | Dashboard | Explore maps and charts of opioid/stimulant deaths, hospitalizations, ED visits and EMS responses by province since 2016; download the full series as ZIP/CSV. | https://health-infobase.canada.ca/substance-related-harms/opioids-stimulants/ |
 | PHAC — STARVAX Vaccination Coverage | Canada · Federal | Data tool | STARVAX (Standardized Reporting on Vaccination), operated by the Public Health Agency of Canada with provincial and territorial partners, provides vaccination coverage rates for routine childhood immunization at milestone ages and for seasonal COVID-19 and influenza vaccination, by age, sex and vaccine type. | https://health-infobase.canada.ca/vaccination-coverage/starvax/ |

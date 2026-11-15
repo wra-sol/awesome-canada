@@ -606,73 +606,6 @@
     "dateAdded": "2026-10-14"
   },
   {
-    "name": "Ministry of Agriculture, Food and Agribusiness — AgMaps",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Interactive map",
-    "description": "Build custom farm maps: assessment-parcel search, aerial imagery, soils, drainage, erosion-potential and CLI layers; annotate and export maps for farm programs.",
-    "url": "https://www.lioapplications.lrc.gov.on.ca/AgMaps/Index.html?viewer=AgMaps.AgMaps&locale=en-CA",
-    "tags": [
-      "agriculture",
-      "gis",
-      "maps",
-      "parcels",
-      "soils",
-      "imagery"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "OMAFA — Field Crops Statistics",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Statistics",
-    "description": "Ontario Ministry of Agriculture field crop area, yield, and production estimates by county and crop, with multi-year statistical archives.",
-    "url": "https://www.omafra.gov.on.ca/english/stats/crops/index.html",
-    "tags": [
-      "field crops",
-      "ontario",
-      "statistics",
-      "yields"
-    ]
-  },
-  {
-    "name": "Current Ontario Field Crop Production by Crop",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Dataset",
-    "description": "OMAFRA open dataset: current-year estimates of seeded and harvested acres, yield, production and farm value by crop for Ontario field crops, as a downloadable XLSX file.",
-    "url": "https://data.ontario.ca/dataset/ontario-field-crops-production-estimate",
-    "tags": [
-      "ontario",
-      "field crops",
-      "agriculture",
-      "open data",
-      "xlsx"
-    ],
-    "dateAdded": "2026-11-14"
-  },
-  {
-    "name": "Historical Ontario Field Crop Production by Crop",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Dataset",
-    "description": "OMAFRA open dataset: historical estimates of harvested area, yield, production, price and farm value of field crops in Ontario by crop, with 3 downloadable XLSX files.",
-    "url": "https://data.ontario.ca/dataset/ontario-field-crops-production-estimate-by-crop",
-    "tags": [
-      "ontario",
-      "field crops",
-      "agriculture",
-      "open data",
-      "xlsx"
-    ],
-    "dateAdded": "2026-11-14"
-  },
-  {
     "name": "Average Weekly Cattle Prices — Ontario",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -743,6 +676,73 @@
       "prices"
     ],
     "dateAdded": "2026-11-14"
+  },
+  {
+    "name": "Current Ontario Field Crop Production by Crop",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: current-year estimates of seeded and harvested acres, yield, production and farm value by crop for Ontario field crops, as a downloadable XLSX file.",
+    "url": "https://data.ontario.ca/dataset/ontario-field-crops-production-estimate",
+    "tags": [
+      "ontario",
+      "field crops",
+      "agriculture",
+      "open data",
+      "xlsx"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
+    "name": "Historical Ontario Field Crop Production by Crop",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: historical estimates of harvested area, yield, production, price and farm value of field crops in Ontario by crop, with 3 downloadable XLSX files.",
+    "url": "https://data.ontario.ca/dataset/ontario-field-crops-production-estimate-by-crop",
+    "tags": [
+      "ontario",
+      "field crops",
+      "agriculture",
+      "open data",
+      "xlsx"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
+    "name": "Ministry of Agriculture, Food and Agribusiness — AgMaps",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Interactive map",
+    "description": "Build custom farm maps: assessment-parcel search, aerial imagery, soils, drainage, erosion-potential and CLI layers; annotate and export maps for farm programs.",
+    "url": "https://www.lioapplications.lrc.gov.on.ca/AgMaps/Index.html?viewer=AgMaps.AgMaps&locale=en-CA",
+    "tags": [
+      "agriculture",
+      "gis",
+      "maps",
+      "parcels",
+      "soils",
+      "imagery"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "OMAFA — Field Crops Statistics",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Statistics",
+    "description": "Ontario Ministry of Agriculture field crop area, yield, and production estimates by county and crop, with multi-year statistical archives.",
+    "url": "https://www.omafra.gov.on.ca/english/stats/crops/index.html",
+    "tags": [
+      "field crops",
+      "ontario",
+      "statistics",
+      "yields"
+    ]
   },
   {
     "name": "Ontario Field Crop Area and Production Estimates by County",
@@ -19796,23 +19796,6 @@
     "dateAdded": "2026-08-26"
   },
   {
-    "name": "PHAC — Mental Health Support: Get Help",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "health",
-    "type": "Service finder",
-    "description": "The Public Health Agency of Canada's mental-health help page: support organized by province and territory and by audience, including 9-8-8, services for First Nations, Inuit and Métis peoples, youth, Veterans and families, and national organizations.",
-    "url": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/taking-care-mental-health.html",
-    "tags": [
-      "mental health",
-      "support",
-      "crisis",
-      "phac",
-      "canada"
-    ],
-    "dateAdded": "2026-10-17"
-  },
-  {
     "name": "PHAC — Notifiable Diseases On-Line",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -34661,19 +34644,6 @@
     ]
   },
   {
-    "name": "Statistics Canada — Police-Reported Crime in Canada",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "safety",
-    "type": "Data",
-    "description": "Statistics Canada's annual police-reported crime statistics: Crime Severity Index and crime rate by province, territory and census metropolitan area, from the Uniform Crime Reporting Survey.",
-    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-eng.htm",
-    "tags": [
-      "policing",
-      "data"
-    ]
-  },
-  {
     "name": "Recalls and Safety Alerts",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -34684,6 +34654,19 @@
     "tags": [
       "safety",
       "recalls"
+    ]
+  },
+  {
+    "name": "Statistics Canada — Police-Reported Crime in Canada",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "safety",
+    "type": "Data",
+    "description": "Statistics Canada's annual police-reported crime statistics: Crime Severity Index and crime rate by province, territory and census metropolitan area, from the Uniform Crime Reporting Survey.",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-eng.htm",
+    "tags": [
+      "policing",
+      "data"
     ]
   },
   {
