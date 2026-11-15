@@ -678,6 +678,94 @@
     "dateAdded": "2026-11-14"
   },
   {
+    "name": "Farm Implement Dealers — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: list of registered farm implement dealers, distributors and dealer/distributors in Ontario, with locations; dealers sell farm implements or replacement parts to the public. Downloadable data plus GeoHub/ArcGIS maps. Updated 2025-08-20.",
+    "url": "https://data.ontario.ca/dataset/farm-implement-dealers",
+    "tags": [
+      "ontario",
+      "farm equipment",
+      "agriculture",
+      "open data",
+      "licensing"
+    ],
+    "dateAdded": "2026-11-15"
+  },
+  {
+    "name": "Licensed Beef Dealers — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: list of provincially licensed dealers under the Ontario Beef Cattle Financial Protection Program, permitted to purchase cattle in Ontario; the program protects cattle sellers from dealer default. Downloadable XLSX. Updated 2026-06-09.",
+    "url": "https://data.ontario.ca/dataset/licensed-beef-dealers",
+    "tags": [
+      "ontario",
+      "beef",
+      "agriculture",
+      "open data",
+      "xlsx",
+      "licensing"
+    ],
+    "dateAdded": "2026-11-15"
+  },
+  {
+    "name": "Provincially Licensed Dairy Plants — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: locations of dairy plants registered by the Ontario Ministry of Agriculture, Food and Agribusiness, to help the public and ministry staff locate licensed dairy plants; downloadable data plus GeoHub map. Updated 2026-07-16.",
+    "url": "https://data.ontario.ca/dataset/provincially-licensed-dairy-plants",
+    "tags": [
+      "ontario",
+      "dairy plants",
+      "agriculture",
+      "open data",
+      "licensing"
+    ],
+    "dateAdded": "2026-11-15"
+  },
+  {
+    "name": "Provincially Licensed Fish Plants — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: all provincially licensed fish plants in Ontario, with plant name, plant number, contact information and latitude/longitude, as a downloadable CSV. Updated 2026-11-03.",
+    "url": "https://data.ontario.ca/dataset/provincially-licensed-fish-plants",
+    "tags": [
+      "ontario",
+      "fish plants",
+      "agriculture",
+      "open data",
+      "csv",
+      "licensing"
+    ],
+    "dateAdded": "2026-11-15"
+  },
+  {
+    "name": "Provincially Licensed Meat Plants — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: all provincially licensed abattoirs, freestanding meat plants and further-processing plants across Ontario, with plant name, licence and location, as downloadable CSV files (17 resources, by animal type). Updated 2026-11-04.",
+    "url": "https://data.ontario.ca/dataset/provincially-licensed-meat-plants",
+    "tags": [
+      "ontario",
+      "meat plants",
+      "agriculture",
+      "open data",
+      "csv",
+      "licensing"
+    ],
+    "dateAdded": "2026-11-15"
+  },
+  {
     "name": "Current Ontario Field Crop Production by Crop",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -17432,22 +17520,6 @@
       "ciro"
     ],
     "dateAdded": "2026-10-18"
-  },
-  {
-    "name": "CSA — Are They Registered? (National Registration Search)",
-    "level": "Agency",
-    "jurisdiction": "Canada",
-    "category": "finance",
-    "type": "Registration search",
-    "description": "Canadian Securities Administrators tool to check whether an individual or firm selling securities or advice is registered in your province or territory, plus guides to understanding search results and investor alerts.",
-    "url": "https://securities-administrators.ca/registration/are-they-registered",
-    "tags": [
-      "investing",
-      "securities",
-      "registration",
-      "fraud prevention"
-    ],
-    "dateAdded": "2026-10-28"
   },
   {
     "name": "FINTRAC — Strategic Intelligence Publications",
