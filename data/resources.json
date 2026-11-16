@@ -21414,6 +21414,108 @@
     "licence": "OGL-Ontario"
   },
   {
+    "name": "Drinking Water Quality and Enforcement",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: information on the drinking water systems, laboratories and facilities the ministry monitors for compliance with Ontario's drinking water laws, as downloadable PDF/ZIP files (24 resources). Updated 2026-08-12.",
+    "url": "https://data.ontario.ca/dataset/drinking-water-quality-and-enforcement",
+    "tags": [
+      "ontario",
+      "water",
+      "drinking water",
+      "environment",
+      "open data"
+    ],
+    "dateAdded": "2026-11-16",
+    "access": "dataset",
+    "licence": "OGL-Ontario"
+  },
+  {
+    "name": "Drinking Water Surveillance Program",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: water quality monitoring data from the voluntary Drinking Water Surveillance Program at selected municipal drinking water systems, covering inorganic, organic and radiological parameters by year, as downloadable PDF/ZIP files (8 resources). Updated 2026-08-14.",
+    "url": "https://data.ontario.ca/dataset/drinking-water-surveillance-program",
+    "tags": [
+      "ontario",
+      "water",
+      "drinking water",
+      "environment",
+      "open data"
+    ],
+    "dateAdded": "2026-11-16",
+    "access": "dataset",
+    "licence": "OGL-Ontario"
+  },
+  {
+    "name": "Lake Water Quality at Drinking Water Intakes",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: sampling locations, water chemistry and chlorophyll data collected at 18 Great Lakes-St. Lawrence River and 4 Lake Simcoe drinking water intake locations, as downloadable PDF/XLSX files (5 resources). Updated 2026-08-14.",
+    "url": "https://data.ontario.ca/dataset/lake-water-quality-at-drinking-water-intakes",
+    "tags": [
+      "ontario",
+      "water",
+      "drinking water",
+      "environment",
+      "open data",
+      "xlsx"
+    ],
+    "dateAdded": "2026-11-16",
+    "access": "dataset",
+    "format": [
+      "XLSX"
+    ],
+    "licence": "OGL-Ontario"
+  },
+  {
+    "name": "Ontario Landfills",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: listing of approved landfills in Ontario with Environmental Compliance Approval number, MECP region and district, client and site name, address, municipality and open/closed status, as downloadable CSV/XLSX/PDF files (4 resources), plus a landfill sites map. Updated 2025-10-17.",
+    "url": "https://data.ontario.ca/dataset/ontario-landfills",
+    "tags": [
+      "ontario",
+      "waste",
+      "environment",
+      "open data",
+      "csv"
+    ],
+    "dateAdded": "2026-11-16",
+    "access": "dataset",
+    "format": [
+      "CSV"
+    ],
+    "licence": "OGL-Ontario"
+  },
+  {
+    "name": "Permit to Take Water",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: every organization permitted to take over 50,000 litres of water per day from a lake, river, stream or groundwater source in Ontario, with purpose, location, water source and maximum daily take, as downloadable XLS/SHP/PDF files (4 resources). Updated 2026-08-10.",
+    "url": "https://data.ontario.ca/dataset/permit-to-take-water",
+    "tags": [
+      "ontario",
+      "water",
+      "environment",
+      "open data",
+      "licensing"
+    ],
+    "dateAdded": "2026-11-16",
+    "access": "dataset",
+    "licence": "OGL-Ontario"
+  },
+  {
     "name": "Department of Land and Environment — PEI Air Monitoring",
     "level": "Provincial",
     "jurisdiction": "PEI",
@@ -55366,7 +55468,7 @@
     "category": "veterans",
     "type": "Searchable database",
     "description": "Searchable database of Canadian war memorials, cenotaphs, and commemorative monuments",
-    "url": "https://www.veterans.gc.ca/eng/remembrance/memorials",
+    "url": "https://www.veterans.gc.ca/en/remembrance/memorials",
     "tags": [
       "veterans",
       "heritage"
@@ -55378,7 +55480,8 @@
       "en",
       "fr"
     ],
-    "lastVerified": "2026-11-16"
+    "lastVerified": "2026-11-16",
+    "previousUrl": "https://www.veterans.gc.ca/eng/remembrance/memorials"
   },
   {
     "name": "Last Post Fund — Funeral & Burial Program",

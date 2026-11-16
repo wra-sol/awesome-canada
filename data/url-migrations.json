@@ -522,5 +522,9 @@
   {
     "from": "https://vigilance.geo.msp.gouv.qc.ca/carte",
     "to": "https://vigilance.geo.securite.gouv.qc.ca/carte"
+  },
+  {
+    "from": "https://www.veterans.gc.ca/eng/remembrance/memorials",
+    "to": "https://www.veterans.gc.ca/en/remembrance/memorials"
   }
 ]
