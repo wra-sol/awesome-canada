@@ -163,7 +163,7 @@ ${body}
       </nav>
     </div>
   </footer>
-  <script defer src="https://chs-analytics.chester-hill-solutions.workers.dev/b.js" data-site="awesome-canada.ca"></script>
+  <script defer src="https://stats.chesterhillsolutions.ca/b.js" data-site="awesome-canada.ca"></script>
 </body>
 </html>
 `;
