@@ -1,0 +1,526 @@
+[
+  {
+    "from": "https://www.ontario.ca/foodland/",
+    "to": "https://www.ontario.ca/foodland/foodland-ontario"
+  },
+  {
+    "from": "https://www.traversiers.com/en/",
+    "to": "https://www.traversiers.com/en/home"
+  },
+  {
+    "from": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html",
+    "to": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit.html"
+  },
+  {
+    "from": "https://estimateursv-oasestimator.service.canada.ca/en/",
+    "to": "https://estimateursv-oasestimator.digital.service.canada.ca/en"
+  },
+  {
+    "from": "https://www.pbo-dpb.gc.ca/",
+    "to": "https://www.pbo-dpb.ca/"
+  },
+  {
+    "from": "https://www.bcauditor.com/",
+    "to": "https://www.oag.bc.ca/"
+  },
+  {
+    "from": "https://www.gandercanada.com/municipal-government/budget-finance/",
+    "to": "https://www.gander.ca/municipal-government/budget-finance/"
+  },
+  {
+    "from": "https://www.gandercanada.com/citizen-engagement/gander-project-portal/",
+    "to": "https://www.gander.ca/citizen-engagement/gander-project-portal/"
+  },
+  {
+    "from": "https://ville.montreal.qc.ca/vuesurlescontrats/",
+    "to": "https://donnees.montreal.ca/showcase/vue-sur-les-contrats"
+  },
+  {
+    "from": "https://ised-isde.canada.ca/",
+    "to": "https://innovation.ised-isde.canada.ca/"
+  },
+  {
+    "from": "https://seao.ca/",
+    "to": "https://seao.gouv.qc.ca/"
+  },
+  {
+    "from": "https://olhi.ca/",
+    "to": "https://olhi-oap.ca/en/"
+  },
+  {
+    "from": "https://www.pub.nf.ca/PP_petroleumproducts.php",
+    "to": "http://www.pub.nf.ca/PP_petroleumproducts.php"
+  },
+  {
+    "from": "https://beta.novascotia.ca/programs-and-services/consumer-protection",
+    "to": "https://www.novascotia.ca/programs-and-services/consumer-protection"
+  },
+  {
+    "from": "https://www.yukonombudsman.ca/",
+    "to": "https://yukonaccountability.ca/ombudsman"
+  },
+  {
+    "from": "https://www.justice.gov.nt.ca/en/northwest-territories-gazette",
+    "to": "https://gnwt.ca/resources/gazette?justice=en"
+  },
+  {
+    "from": "https://development.waterlooregionvotes.org",
+    "to": "https://waterlooregionvotes.org/"
+  },
+  {
+    "from": "https://www.gandercanada.com/municipal-government/council-meetings/",
+    "to": "https://www.gander.ca/municipal-government/council-meetings/"
+  },
+  {
+    "from": "https://www.granby.ca/fr/ville/ville/seances-du-conseil-municipal-2026",
+    "to": "https://www.granby.ca/fr/ville/ville/seances-du-conseil-municipal-2026-2027"
+  },
+  {
+    "from": "https://www.ville.levis.qc.ca/la-ville/conseil-municipal/ordres-du-jour/",
+    "to": "https://levis.ca/fr/ville/organisation-municipale/participation-citoyenne/calendrier-participation-citoyenne"
+  },
+  {
+    "from": "https://www.ville.mascouche.qc.ca/ville/vie-democratique/seances-du-conseil",
+    "to": "https://mascouche.ca/ville/vie-democratique/seances-du-conseil"
+  },
+  {
+    "from": "https://windsor.ca/city-hall/council-meetings",
+    "to": "https://www.citywindsor.ca/city-hall/city-council-meetings"
+  },
+  {
+    "from": "https://winnipeg.ca/council/VIS/",
+    "to": "https://legacy.winnipeg.ca/council/VIS/"
+  },
+  {
+    "from": "https://www.historymuseum.ca/",
+    "to": "https://www.historymuseum.ca/collections/"
+  },
+  {
+    "from": "https://royalbcmuseum.bc.ca/",
+    "to": "https://rbcm.ca/"
+  },
+  {
+    "from": "https://www.gnb.ca/publiclibraries",
+    "to": "https://www2.gnb.ca/content/gnb/en/departments/nbpl.html"
+  },
+  {
+    "from": "https://www.airdriepubliclibrary.ca/",
+    "to": "https://www.yourapl.ca/"
+  },
+  {
+    "from": "https://csllibrary.com/",
+    "to": "https://cotesaintluc.org/en/place/library/"
+  },
+  {
+    "from": "https://www.ckpl.ca/",
+    "to": "https://www.chatham-kent.ca/library/Pages/default.aspx"
+  },
+  {
+    "from": "https://biblioottawalibrary.ca/",
+    "to": "https://about.biblioottawalibrary.ca/en"
+  },
+  {
+    "from": "https://www.bibliotheque.vaudreuil-dorion.qc.ca/",
+    "to": "https://biblio.ville.vaudreuil-dorion.qc.ca/"
+  },
+  {
+    "from": "https://bibliotheque.saguenay.ca/",
+    "to": "https://ville.saguenay.ca/activites-et-loisirs/bibliotheque"
+  },
+  {
+    "from": "https://vancouver.ca/home-property-development/heritage-register.aspx",
+    "to": "https://vancouver.ca/home-property-development/vancouver-heritage-register-vhr.aspx"
+  },
+  {
+    "from": "https://www.applyalberta.ca/",
+    "to": "https://prod.applyalberta.ca/"
+  },
+  {
+    "from": "https://www.gov.nt.ca/sfa",
+    "to": "https://www.ece.gov.nt.ca/en/services/student-financial-assistance"
+  },
+  {
+    "from": "https://www.sudbury.ca/city-hall/municipal-schoolboard-elections/for-voters/am-i-on-the-voters-list/",
+    "to": "https://www.greatersudbury.ca/city-hall/municipal-schoolboard-elections/for-voters/am-i-on-the-voters-list/"
+  },
+  {
+    "from": "https://app.toronto.ca/EFD/jsf/main/home.xhtml",
+    "to": "https://secure.toronto.ca/EFD/jsf/main/home.xhtml"
+  },
+  {
+    "from": "https://equivision.services.gc.ca/",
+    "to": "https://equivision.service.canada.ca/"
+  },
+  {
+    "from": "https://waves-vagues.dfo-mpo.gc.ca/",
+    "to": "https://www.dfo-mpo.gc.ca/science/environmental-environnement/freshwater-eauxdouces/index-eng.html"
+  },
+  {
+    "from": "https://wildfire.alberta.ca/",
+    "to": "https://www.alberta.ca/alberta-wildfire"
+  },
+  {
+    "from": "https://www.gov.bc.ca/airqualitymap",
+    "to": "https://www.env.gov.bc.ca/epd/bcairquality/readings/find-stations-map.html"
+  },
+  {
+    "from": "https://www.saskatchewan.ca/residents/environment-public-health-and-safety/wildfire-in-saskatchewan",
+    "to": "https://www.saskpublicsafety.ca/active-incidents"
+  },
+  {
+    "from": "https://www.retraitequebec.gouv.qc.ca/en/services-en-ligne-outils/simulr/Pages/simulr.aspx",
+    "to": "https://simulr.svc.retraitequebec.gouv.qc.ca/en-CA"
+  },
+  {
+    "from": "https://www.canadapost.ca/",
+    "to": "https://www.canadapost-postescanada.ca/cpc/en/home.page"
+  },
+  {
+    "from": "https://www.manitoba.ca/mit/geo/",
+    "to": "https://www.gov.mb.ca/iem/geo/"
+  },
+  {
+    "from": "https://www.gnb.ca/minerals",
+    "to": "https://www2.gnb.ca/content/gnb/en/departments/erd/energy/content/minerals.html"
+  },
+  {
+    "from": "https://ottawa.ca/en/city-hall/myserviceottawa",
+    "to": "https://myservice.ottawa.ca/"
+  },
+  {
+    "from": "https://www.drugshortagescanada.ca/",
+    "to": "https://healthproductshortages.ca/"
+  },
+  {
+    "from": "https://food-guide.canada.ca/en/",
+    "to": "https://www.canada.ca/en/health-canada/services/food-guide.html"
+  },
+  {
+    "from": "https://health-infobase.canada.ca/covid-19/wastewater/",
+    "to": "https://health-infobase.canada.ca/wastewater/"
+  },
+  {
+    "from": "https://www.albertahealthservices.ca/healthlink/",
+    "to": "https://www.primarycarealberta.ca/page14176.aspx"
+  },
+  {
+    "from": "https://yourhealthns.ca/",
+    "to": "https://www.yourhealthns.ca/"
+  },
+  {
+    "from": "https://clicsante.ca",
+    "to": "https://portal3.clicsante.ca/"
+  },
+  {
+    "from": "https://www.ehealthsask.ca/MySaskHealthRecord/MySaskHealthRecord/",
+    "to": "https://www.ehealthsask.ca/residents/mysaskhealthrecord"
+  },
+  {
+    "from": "https://www.simcoemuskokahealth.org/healthunit/Services/Disclosure/FAQs",
+    "to": "https://smdhu-portal.hedgerowsoftware.com/#/home"
+  },
+  {
+    "from": "https://santemontreal.qc.ca/en/",
+    "to": "https://ciusss-centresudmtl.gouv.qc.ca/sante-montreal"
+  },
+  {
+    "from": "https://checkit.regionofwaterloo.ca/",
+    "to": "https://www.regionofwaterloo.ca/checkit"
+  },
+  {
+    "from": "https://www.albertahealthservices.ca/health-inspections/SearchServlet",
+    "to": "https://ephisahs.albertahealthservices.ca/inspections/food/"
+  },
+  {
+    "from": "https://www.albertahealthservices.ca/about/Page13218.aspx",
+    "to": "https://www.albertahealthservices.ca/news/Page13126.aspx"
+  },
+  {
+    "from": "https://www.fraserhealth.ca/health-topics-a-to-z/food-safety/restaurant-inspection-reports",
+    "to": "https://fraserhealth.ca/health-topics-a-to-z/food-safety/food-facilities-inspection-reports-and-violation-tickets"
+  },
+  {
+    "from": "https://www.hpepublichealth.ca/",
+    "to": "https://southeastph.ca/org-professional/business-owners-operators-and-vendors/inspections-and-enforcement/"
+  },
+  {
+    "from": "https://opendata-surrey.hub.arcgis.com/",
+    "to": "https://www.fraserhealth.ca/health-topics-a-to-z/food-safety/food-facilities-inspection-reports-and-violation-tickets"
+  },
+  {
+    "from": "https://www.nomenclature.info/apropos-about.app?lang=en",
+    "to": "https://page.nomenclature.info/apropos-about.app?lang=en"
+  },
+  {
+    "from": "https://www.nwtarchives.ca/",
+    "to": "https://www.ece.gov.nt.ca/en/nwt-archives"
+  },
+  {
+    "from": "https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-affordability-program",
+    "to": "https://www.canada.ca/en/environment-climate-change/services/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-affordability-program.html"
+  },
+  {
+    "from": "https://www.cmhc-schl.gc.ca/hmiportal",
+    "to": "https://www03.cmhc-schl.gc.ca/hmip-pimh/en"
+  },
+  {
+    "from": "https://myhousing.calgaryhousingcompany.org/",
+    "to": "https://calgaryhousingcompany.org/apply-for-subsidized-housing/"
+  },
+  {
+    "from": "https://www.housingnwt.ca/",
+    "to": "https://www.nwthc.gov.nt.ca/en"
+  },
+  {
+    "from": "https://housingnovascotia.ca/",
+    "to": "https://novascotia.ca/housing-programs-and-resources/"
+  },
+  {
+    "from": "https://housingnovascotia.ca/public-housing-application",
+    "to": "https://nspha.ca/applicants/apply-housing"
+  },
+  {
+    "from": "https://www.enbridgegas.com/ontario/rebates-energy-conservation/home-efficiency-rebate-plus",
+    "to": "https://www.homerenovationsavings.ca/"
+  },
+  {
+    "from": "https://www.myaccesshousing.org/",
+    "to": "https://peelregion.ca/housing-social-support/apply-housing-services"
+  },
+  {
+    "from": "https://www.yukonhousing.ca/our-housing",
+    "to": "https://yukon.ca/en/housing-and-property/social-housing-tenant-supports/apply-rent-geared-income-housing"
+  },
+  {
+    "from": "https://www.manitoba.ca/housing/renters/rent-assist.html",
+    "to": "https://www.gov.mb.ca/fs/eia/rent_assist.html"
+  },
+  {
+    "from": "https://www.gnb.ca/en/topic/family-home-community/housing-property/solve-problem.html",
+    "to": "https://www.gnb.ca/en/topic/family-home-community/renting/solve-problem.html"
+  },
+  {
+    "from": "https://www.rentalsnb.ca/",
+    "to": "https://www.gnb.ca/en/topic/family-home-community/housing-property.html"
+  },
+  {
+    "from": "https://www.rcaanc-cirnac.gc.ca/eng/1100100030291/1539609517566",
+    "to": "https://www.rcaanc-cirnac.gc.ca/eng/1100100030291/1539617582343"
+  },
+  {
+    "from": "https://www.sac-isc.gc.ca/eng/1100100032424/1572457769548",
+    "to": "https://www.sac-isc.gc.ca/eng/1100100032463/1572459644986"
+  },
+  {
+    "from": "https://www.sac-isc.gc.ca/eng/1568396296543/1582575228610",
+    "to": "https://www.sac-isc.gc.ca/eng/1568396296543/1582657596387"
+  },
+  {
+    "from": "https://memorial.nctr.ca/",
+    "to": "https://nctr.ca/missing-children-and-unmarked-burials-initiative/"
+  },
+  {
+    "from": "https://www.fct-cf.gc.ca/en/home",
+    "to": "https://www.fct-cf.ca/en/home"
+  },
+  {
+    "from": "https://www.tcc-cci.gc.ca/",
+    "to": "https://www.tcc-cci.ca/"
+  },
+  {
+    "from": "https://kings-printer.alberta.ca/",
+    "to": "https://www.alberta.ca/alberta-kings-printer"
+  },
+  {
+    "from": "https://www.wsiat.on.ca/",
+    "to": "https://wsiat.ca/"
+  },
+  {
+    "from": "https://manitoba.ca/lobbyists/",
+    "to": "https://registry.lobbyistregistrar.mb.ca/lra/reporting/public/registrySearch.do"
+  },
+  {
+    "from": "https://open.alberta.ca/",
+    "to": "https://www.alberta.ca/open-government-program"
+  },
+  {
+    "from": "https://data.fredericton.ca",
+    "to": "https://data-fredericton.opendata.arcgis.com/"
+  },
+  {
+    "from": "https://data.cityofgp.com/",
+    "to": "https://opendata-cityofgp.hub.arcgis.com/"
+  },
+  {
+    "from": "https://data.nanaimo.ca/",
+    "to": "https://gisdata.nanaimo.ca/"
+  },
+  {
+    "from": "https://data.strathcona.ca/",
+    "to": "https://opendata-strathconacounty.hub.arcgis.com/"
+  },
+  {
+    "from": "https://data.surrey.ca/",
+    "to": "https://opendata-surrey.hub.arcgis.com/"
+  },
+  {
+    "from": "https://ontariotrails.on.ca/",
+    "to": "https://www.ontariotrails.on.ca/"
+  },
+  {
+    "from": "https://reserve.albertaparks.ca/",
+    "to": "https://shop.albertaparks.ca/"
+  },
+  {
+    "from": "https://www.saskparks.com/",
+    "to": "https://saskparks.tourismsaskatchewan.com/"
+  },
+  {
+    "from": "https://www.burnaby.ca/webreg",
+    "to": "https://anc.ca.apm.activecommunities.com/burnaby/home?onlineSiteId=0&from_original_cui=true"
+  },
+  {
+    "from": "https://www.charlottetown.ca/leisure___recreation/programs_and_activities/online_program_registration",
+    "to": "https://app.univerusrec.com/charlottetownpub/"
+  },
+  {
+    "from": "https://ca.apm.activecommunities.com/regina/",
+    "to": "https://anc.ca.apm.activecommunities.com/regina/home?onlineSiteId=0&from_original_cui=true"
+  },
+  {
+    "from": "https://www.canadasmissing.ca/",
+    "to": "https://canadasmissing.ca/"
+  },
+  {
+    "from": "https://www.cpic-cipc.ca/",
+    "to": "https://cpic-cipc.ca/"
+  },
+  {
+    "from": "https://healthycanadians.gc.ca/recall-alert-rappel-avis/index-eng.php",
+    "to": "https://recalls-rappels.canada.ca/en"
+  },
+  {
+    "from": "https://www.getprepared.gc.ca/",
+    "to": "https://www.canada.ca/en/services/policing/emergencies/preparedness/get-prepared.html"
+  },
+  {
+    "from": "https://avalanche.ca/forecasts",
+    "to": "https://avalanche.ca/map"
+  },
+  {
+    "from": "https://www.nsicop-cpsnr.ca/reports-rapports-en.html",
+    "to": "https://www.canada.ca/en/national-security-intelligence-committee-parliamentarians.html"
+  },
+  {
+    "from": "https://www.gnb.ca/en/topic/laws-safety/emergency-preparedness-alerts/fire-watch.html",
+    "to": "https://www.gnb.ca/en/emergency/fire-watch.html"
+  },
+  {
+    "from": "https://www.ecc.gov.nt.ca/en/services/wildfire-update",
+    "to": "https://www.gov.nt.ca/ecc/services/wildfire-update/en/firedata"
+  },
+  {
+    "from": "https://www.saskalert.ca/",
+    "to": "https://emergencyalert.saskatchewan.ca/"
+  },
+  {
+    "from": "https://hamiltonpolice.on.ca/how-to/online-crime-mapping-tool",
+    "to": "https://hamiltonpolice.ca/hamilton-police-crime-map"
+  },
+  {
+    "from": "https://ville.montreal.qc.ca/vuesurlasecuritepublique/",
+    "to": "https://donnees.montreal.ca/fr/showcase/vue-sur-la-securite-publique"
+  },
+  {
+    "from": "https://education.alberta.ca/",
+    "to": "https://www.alberta.ca/education-and-childcare"
+  },
+  {
+    "from": "https://cbe.ab.ca/schools/find-a-school/Pages/default.aspx",
+    "to": "https://www.cbe.ab.ca/find-a-school"
+  },
+  {
+    "from": "https://www.nserc-crsng.gc.ca/ase-oro/index_eng.asp",
+    "to": "https://nserc-crsng.canada.ca/en/awards-database"
+  },
+  {
+    "from": "https://www.nserc-crsng.gc.ca/",
+    "to": "https://nserc-crsng.canada.ca/"
+  },
+  {
+    "from": "https://www.sshrc-crsh.gc.ca/results-resultats/award_search-recherche_attributions/index-eng.aspx",
+    "to": "http://www.outil.ost.uqam.ca/CRSH/RechProj.aspx?vLangue=Anglais"
+  },
+  {
+    "from": "https://www.canada.ca/en/revenue-agency/services/e-services.html",
+    "to": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html"
+  },
+  {
+    "from": "https://assessmentsearch.calgary.ca/",
+    "to": "https://mytax.calgary.ca/"
+  },
+  {
+    "from": "https://www.winnipeg.ca/city-governance/taxes/property-assessment/property-assessment-search",
+    "to": "https://assessment.winnipeg.ca/AsmtTax/English/Propertydetails/default.stm"
+  },
+  {
+    "from": "https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?lang=en",
+    "to": "https://ised-isde.canada.ca/site/certification-engineering-bureau/en/wireless-program/radio-equipment-list-rel"
+  },
+  {
+    "from": "https://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/home",
+    "to": "https://ised-isde.canada.ca/site/spectrum-management-system/en"
+  },
+  {
+    "from": "https://designsystem.gov.bc.ca/",
+    "to": "https://www2.gov.bc.ca/gov/content/digital/design-system"
+  },
+  {
+    "from": "https://www.stm.info/en",
+    "to": "https://www.stm.info/en/schedules-and-routes"
+  },
+  {
+    "from": "https://www.okotokstransit.ca/",
+    "to": "https://www.okotoks.ca/your-services/residential-services/okotoks-transit"
+  },
+  {
+    "from": "https://www.stsaguenay.ca/",
+    "to": "https://sts.saguenay.ca/"
+  },
+  {
+    "from": "https://www.ttc.ca/",
+    "to": "https://www.ttc.ca/service-advisories"
+  },
+  {
+    "from": "https://www.cer-rec.gc.ca/en/data-analysis/facilities-we-regulate/pipeline-profiles/",
+    "to": "https://apps.cer-rec.gc.ca/PPS/en/pipeline-profiles"
+  },
+  {
+    "from": "https://app.bchydro.com/power-outages/app/outage-map.html",
+    "to": "https://www.bchydro.com/power-outages/app/outage-map.html"
+  },
+  {
+    "from": "https://www.hydroone.com/power-outages",
+    "to": "https://www.hydroone.com/power-outages-and-safety"
+  },
+  {
+    "from": "https://maps.vancouver.ca/vanmap-viewer/",
+    "to": "https://maps.vancouver.ca/"
+  },
+  {
+    "from": "https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial",
+    "to": "https://www.veterans.gc.ca/en/remembrance/memorials/canadian-virtual-war-memorial"
+  },
+  {
+    "from": "https://geoportal.gov.mb.ca/api/download/v1/items/619eac487cd84953adfd1e72b78f1990/kml?layers=0",
+    "to": "https://hub.arcgis.com/api/v3/datasets/619eac487cd84953adfd1e72b78f1990_0/downloads/data?format=kml&spatialRefId=4326&where=1%3D1"
+  },
+  {
+    "from": "https://www.ontario.ca/floodforecast/",
+    "to": "https://www.lioapplications.lrc.gov.on.ca/webapps/swmc/flood-forecasting-and-warning-program/"
+  },
+  {
+    "from": "https://vigilance.geo.msp.gouv.qc.ca/carte",
+    "to": "https://vigilance.geo.securite.gouv.qc.ca/carte"
+  }
+]

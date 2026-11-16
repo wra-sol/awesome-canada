@@ -57,6 +57,20 @@ The list is organized by **function first, then region**. Every entry lives in [
 }
 ```
 
+### Optional metadata
+
+`scripts/enrich.js` derives these from the source, the type and the URL. Do not
+hand-edit them; run `node scripts/enrich.js --write` after changing the catalogue.
+
+| Field | Values | Rule |
+|---|---|---|
+| `access` | `api`, `dataset`, `portal`, `interactive`, `documents`, `service` | Inferred from `type` (e.g. "Interactive map" → `interactive`, "Open data portal" → `portal`) |
+| `format` | `API`, `CSV`, `GeoJSON`, `GTFS`, `JSON`, `KML`, `PDF`, `Shapefile`, `XLSX` | Only when the type, tags or file extension advertise it |
+| `licence` | e.g. `OGL-Canada`, `OGL-Ontario`, `CC-BY-4.0` | Domain default for federal and provincial sources; omitted where the licence is not established |
+| `language` | `["en"]`, `["fr","en"]`, `["en","fr"]` | Only where it is structural: federal, Quebec and New Brunswick sources |
+| `lastVerified` | `YYYY-MM-DD` | Last 2xx from `docs/state/link-health.json`; omitted when the health job has not seen a success |
+| `previousUrl` | URL | Set when the link sweep migrated the entry; recorded in `data/url-migrations.json` |
+
 ### `level`
 
 | Level | Examples |
@@ -101,6 +115,7 @@ If a resource would fit multiple categories, pick the one a user is most likely 
 | Command | Purpose |
 |--------|---------|
 | `node scripts/validate.js` | Validate JSON, schema, URLs, categories, and duplicate URLs |
+| `node scripts/enrich.js` | Derive `access`, `format`, `licence`, `language`, `lastVerified` (`--write`) |
 | `node scripts/generate-readme.js` | Regenerate `README.md` from JSON |
 | `node scripts/migrate.js` | One-shot helper that re-categorizes missing entries and appends curated batches from `scripts/new-resources.js` |
 | `node scripts/append-batch-sources.js` | Append verified batch to `data/resources.json` (skips duplicate URLs) |

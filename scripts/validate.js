@@ -21,6 +21,10 @@ const newResources = require('./new-resources');
 const VALID_LEVELS = ['Federal', 'Provincial', 'Municipal', 'Regional', 'Agency', 'Crown Corp'];
 const VALID_JURISDICTIONS = Object.keys(JURISDICTION_TO_REGION);
 const REQUIRED_FIELDS = ['name', 'level', 'jurisdiction', 'category', 'type', 'description', 'url', 'tags'];
+const VALID_ACCESS = ['api', 'dataset', 'portal', 'interactive', 'documents', 'service'];
+const VALID_FORMATS = ['API', 'CSV', 'GeoJSON', 'GTFS', 'JSON', 'KML', 'PDF', 'Shapefile', 'XLSX'];
+const VALID_LANGUAGES = ['en', 'fr'];
+const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/;
 
 function loadData() {
   const dataPath = path.join(__dirname, '..', 'data', 'resources.json');
@@ -65,6 +69,41 @@ function validateEntry(entry, index) {
   }
   if (entry.kind !== undefined && !KIND_IDS.has(entry.kind)) {
     errors.push(`Entry ${index}: invalid kind '${entry.kind}' (must be one of: ${Object.keys(KINDS).join(', ')}) — see scripts/kinds.js; run scripts/assign-kinds.js to auto-classify`);
+  }
+
+  if (entry.access !== undefined && !VALID_ACCESS.includes(entry.access)) {
+    errors.push(`Entry ${index}: invalid access '${entry.access}' (must be one of: ${VALID_ACCESS.join(', ')}) — see scripts/enrich.js`);
+  }
+  if (entry.format !== undefined) {
+    if (!Array.isArray(entry.format) || entry.format.length === 0) {
+      errors.push(`Entry ${index}: format must be a non-empty array when present`);
+    } else {
+      for (const format of entry.format) {
+        if (!VALID_FORMATS.includes(format)) {
+          errors.push(`Entry ${index}: invalid format '${format}' (must be one of: ${VALID_FORMATS.join(', ')}) — see scripts/enrich.js`);
+        }
+      }
+    }
+  }
+  if (entry.licence !== undefined && (typeof entry.licence !== 'string' || entry.licence.length === 0 || entry.licence.length > 80)) {
+    errors.push(`Entry ${index}: licence must be a non-empty string under 80 characters`);
+  }
+  if (entry.language !== undefined) {
+    if (!Array.isArray(entry.language) || entry.language.length === 0) {
+      errors.push(`Entry ${index}: language must be a non-empty array when present`);
+    } else {
+      for (const lang of entry.language) {
+        if (!VALID_LANGUAGES.includes(lang)) {
+          errors.push(`Entry ${index}: invalid language '${lang}' (must be one of: ${VALID_LANGUAGES.join(', ')})`);
+        }
+      }
+    }
+  }
+  if (entry.lastVerified !== undefined && !ISO_DATE.test(entry.lastVerified)) {
+    errors.push(`Entry ${index}: lastVerified must be YYYY-MM-DD (got '${entry.lastVerified}')`);
+  }
+  if (entry.previousUrl !== undefined && !isValidUrl(entry.previousUrl)) {
+    errors.push(`Entry ${index}: invalid previousUrl '${entry.previousUrl}'`);
   }
 
   return errors;
