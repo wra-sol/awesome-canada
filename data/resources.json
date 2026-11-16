@@ -678,6 +678,23 @@
     "dateAdded": "2026-11-14"
   },
   {
+    "name": "Current Ontario Field Crop Production by Crop",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: current-year estimates of seeded and harvested acres, yield, production and farm value by crop for Ontario field crops, as a downloadable XLSX file.",
+    "url": "https://data.ontario.ca/dataset/ontario-field-crops-production-estimate",
+    "tags": [
+      "ontario",
+      "field crops",
+      "agriculture",
+      "open data",
+      "xlsx"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
     "name": "Farm Implement Dealers — Ontario",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -695,6 +712,40 @@
     "dateAdded": "2026-11-15"
   },
   {
+    "name": "Historical Ontario Field Crop Production by Crop",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: historical estimates of harvested area, yield, production, price and farm value of field crops in Ontario by crop, with 3 downloadable XLSX files.",
+    "url": "https://data.ontario.ca/dataset/ontario-field-crops-production-estimate-by-crop",
+    "tags": [
+      "ontario",
+      "field crops",
+      "agriculture",
+      "open data",
+      "xlsx"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
+    "name": "Honey Bee Pests and Pathogens in Ontario Apiaries",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: multi-year (2015-2019) monitoring of honey bee pests and pathogens in Ontario apiaries, with prevalence and load by season, as downloadable PDF reports and XLSX data (16 resources).",
+    "url": "https://data.ontario.ca/dataset/honey-bee-pests-and-pathogens-in-ontario-apiaries",
+    "tags": [
+      "ontario",
+      "bees",
+      "agriculture",
+      "open data",
+      "xlsx"
+    ],
+    "dateAdded": "2026-11-15"
+  },
+  {
     "name": "Licensed Beef Dealers — Ontario",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -708,6 +759,109 @@
       "agriculture",
       "open data",
       "xlsx",
+      "licensing"
+    ],
+    "dateAdded": "2026-11-15"
+  },
+  {
+    "name": "Livestock Medicine Outlets in Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: licensed retail outlets selling over-the-counter livestock medicines in Ontario, regulated under the Animal Health Act, 2009, as downloadable CSV files (2 resources). Updated 2026-10-22.",
+    "url": "https://data.ontario.ca/dataset/livestock-medicine-outlets-in-ontario",
+    "tags": [
+      "ontario",
+      "livestock",
+      "agriculture",
+      "open data",
+      "csv",
+      "licensing"
+    ],
+    "dateAdded": "2026-11-15"
+  },
+  {
+    "name": "Ministry of Agriculture, Food and Agribusiness — AgMaps",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Interactive map",
+    "description": "Build custom farm maps: assessment-parcel search, aerial imagery, soils, drainage, erosion-potential and CLI layers; annotate and export maps for farm programs.",
+    "url": "https://www.lioapplications.lrc.gov.on.ca/AgMaps/Index.html?viewer=AgMaps.AgMaps&locale=en-CA",
+    "tags": [
+      "agriculture",
+      "gis",
+      "maps",
+      "parcels",
+      "soils",
+      "imagery"
+    ],
+    "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "OMAFA — Field Crops Statistics",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Statistics",
+    "description": "Ontario Ministry of Agriculture field crop area, yield, and production estimates by county and crop, with multi-year statistical archives.",
+    "url": "https://www.omafra.gov.on.ca/english/stats/crops/index.html",
+    "tags": [
+      "field crops",
+      "ontario",
+      "statistics",
+      "yields"
+    ]
+  },
+  {
+    "name": "Ontario Deadstock Operators and Facilities",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: provincially licensed operators that collect, transport, process and dispose of deadstock (dead farm animals) in Ontario, with facility type, name, location/region and contact information, plus a GeoHub map. Updated 2025-08-20.",
+    "url": "https://data.ontario.ca/dataset/ontario-deadstock-operators-and-facilities",
+    "tags": [
+      "ontario",
+      "deadstock",
+      "agriculture",
+      "open data",
+      "licensing"
+    ],
+    "dateAdded": "2026-11-15"
+  },
+  {
+    "name": "Ontario Field Crop Area and Production Estimates by County",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: estimated seeded and harvested acres, yield, production and farm value of field crops in Ontario, broken down by county, with 29 downloadable XLSX files.",
+    "url": "https://data.ontario.ca/dataset/ontario-field-crop-area-and-production-estimates-by-county",
+    "tags": [
+      "ontario",
+      "field crops",
+      "agriculture",
+      "open data",
+      "xlsx"
+    ],
+    "dateAdded": "2026-11-14"
+  },
+  {
+    "name": "Ontario's Livestock Community Sales Facilities",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "agriculture",
+    "type": "Dataset",
+    "description": "OMAFRA open dataset: facilities selling livestock by public auction in Ontario, with name, address, county and class, as downloadable CSV files (2 resources). Updated 2026-11-09.",
+    "url": "https://data.ontario.ca/dataset/ontarios-livestock-community-sales-facilities",
+    "tags": [
+      "ontario",
+      "livestock",
+      "agriculture",
+      "open data",
+      "csv",
       "licensing"
     ],
     "dateAdded": "2026-11-15"
@@ -766,76 +920,6 @@
     "dateAdded": "2026-11-15"
   },
   {
-    "name": "Honey Bee Pests and Pathogens in Ontario Apiaries",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Dataset",
-    "description": "OMAFRA open dataset: multi-year (2015-2019) monitoring of honey bee pests and pathogens in Ontario apiaries, with prevalence and load by season, as downloadable PDF reports and XLSX data (16 resources).",
-    "url": "https://data.ontario.ca/dataset/honey-bee-pests-and-pathogens-in-ontario-apiaries",
-    "tags": [
-      "ontario",
-      "bees",
-      "agriculture",
-      "open data",
-      "xlsx"
-    ],
-    "dateAdded": "2026-11-15"
-  },
-  {
-    "name": "Livestock Medicine Outlets in Ontario",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Dataset",
-    "description": "OMAFRA open dataset: licensed retail outlets selling over-the-counter livestock medicines in Ontario, regulated under the Animal Health Act, 2009, as downloadable CSV files (2 resources). Updated 2026-10-22.",
-    "url": "https://data.ontario.ca/dataset/livestock-medicine-outlets-in-ontario",
-    "tags": [
-      "ontario",
-      "livestock",
-      "agriculture",
-      "open data",
-      "csv",
-      "licensing"
-    ],
-    "dateAdded": "2026-11-15"
-  },
-  {
-    "name": "Ontario Deadstock Operators and Facilities",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Dataset",
-    "description": "OMAFRA open dataset: provincially licensed operators that collect, transport, process and dispose of deadstock (dead farm animals) in Ontario, with facility type, name, location/region and contact information, plus a GeoHub map. Updated 2025-08-20.",
-    "url": "https://data.ontario.ca/dataset/ontario-deadstock-operators-and-facilities",
-    "tags": [
-      "ontario",
-      "deadstock",
-      "agriculture",
-      "open data",
-      "licensing"
-    ],
-    "dateAdded": "2026-11-15"
-  },
-  {
-    "name": "Ontario's Livestock Community Sales Facilities",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Dataset",
-    "description": "OMAFRA open dataset: facilities selling livestock by public auction in Ontario, with name, address, county and class, as downloadable CSV files (2 resources). Updated 2026-11-09.",
-    "url": "https://data.ontario.ca/dataset/ontarios-livestock-community-sales-facilities",
-    "tags": [
-      "ontario",
-      "livestock",
-      "agriculture",
-      "open data",
-      "csv",
-      "licensing"
-    ],
-    "dateAdded": "2026-11-15"
-  },
-  {
     "name": "Queen and Nucleus Colony Permits Issued — Ontario",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -852,90 +936,6 @@
       "licensing"
     ],
     "dateAdded": "2026-11-15"
-  },
-  {
-    "name": "Current Ontario Field Crop Production by Crop",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Dataset",
-    "description": "OMAFRA open dataset: current-year estimates of seeded and harvested acres, yield, production and farm value by crop for Ontario field crops, as a downloadable XLSX file.",
-    "url": "https://data.ontario.ca/dataset/ontario-field-crops-production-estimate",
-    "tags": [
-      "ontario",
-      "field crops",
-      "agriculture",
-      "open data",
-      "xlsx"
-    ],
-    "dateAdded": "2026-11-14"
-  },
-  {
-    "name": "Historical Ontario Field Crop Production by Crop",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Dataset",
-    "description": "OMAFRA open dataset: historical estimates of harvested area, yield, production, price and farm value of field crops in Ontario by crop, with 3 downloadable XLSX files.",
-    "url": "https://data.ontario.ca/dataset/ontario-field-crops-production-estimate-by-crop",
-    "tags": [
-      "ontario",
-      "field crops",
-      "agriculture",
-      "open data",
-      "xlsx"
-    ],
-    "dateAdded": "2026-11-14"
-  },
-  {
-    "name": "Ministry of Agriculture, Food and Agribusiness — AgMaps",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Interactive map",
-    "description": "Build custom farm maps: assessment-parcel search, aerial imagery, soils, drainage, erosion-potential and CLI layers; annotate and export maps for farm programs.",
-    "url": "https://www.lioapplications.lrc.gov.on.ca/AgMaps/Index.html?viewer=AgMaps.AgMaps&locale=en-CA",
-    "tags": [
-      "agriculture",
-      "gis",
-      "maps",
-      "parcels",
-      "soils",
-      "imagery"
-    ],
-    "dateAdded": "2026-08-24"
-  },
-  {
-    "name": "OMAFA — Field Crops Statistics",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Statistics",
-    "description": "Ontario Ministry of Agriculture field crop area, yield, and production estimates by county and crop, with multi-year statistical archives.",
-    "url": "https://www.omafra.gov.on.ca/english/stats/crops/index.html",
-    "tags": [
-      "field crops",
-      "ontario",
-      "statistics",
-      "yields"
-    ]
-  },
-  {
-    "name": "Ontario Field Crop Area and Production Estimates by County",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "agriculture",
-    "type": "Dataset",
-    "description": "OMAFRA open dataset: estimated seeded and harvested acres, yield, production and farm value of field crops in Ontario, broken down by county, with 29 downloadable XLSX files.",
-    "url": "https://data.ontario.ca/dataset/ontario-field-crop-area-and-production-estimates-by-county",
-    "tags": [
-      "ontario",
-      "field crops",
-      "agriculture",
-      "open data",
-      "xlsx"
-    ],
-    "dateAdded": "2026-11-14"
   },
   {
     "name": "IRAC — Lands Protection Act Applications Databank",
