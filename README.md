@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2806 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2808 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -45,7 +45,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🚌 Transit & Mobility](#transit-and-mobility) — 152
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 40
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 97
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 89
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 91
 - [🌦️ Weather & Climate](#weather-and-climate) — 44
 - [⚡ Energy & Utilities](#energy-and-utilities) — 58
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
@@ -2450,7 +2450,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | MiWay — GTFS Developer Download | Mississauga · Municipal | GTFS feed | MiWay scheduled GTFS and GTFS-Realtime feeds (vehicle positions, trip updates, alerts) for third-party transit apps. | https://www.mississauga.ca/miway-transit/developer-download/ |
 | MiWay — Mississauga Transit | Mississauga · Municipal | Transit | MiWay bus routes, schedules, and real-time info for Mississauga | https://www.mississauga.ca/miway |
 | MiWay — Ways to Pay Your Fare | Mississauga · Municipal | Fare payment guide | Mississauga MiWay's guide to paying fares: PRESTO, contactless, passes and concession details. Complements the catalog's MiWay homepage entry. | https://www.mississauga.ca/miway-transit/fares/ways-to-pay-your-fare/ |
-| North Bay Transit | North Bay · Municipal | Transit | The City of North Bay's transit service in Ontario: routes and schedules, fares, the myRide NBT real-time app, and paratransit booking. | https://northbay.ca/services-payments/north-bay-transit/ |
+| North Bay Transit | North Bay · Municipal | Transit | The City of North Bay's transit service in Ontario: routes and schedules, fares, the myRide NBT real-time app, and paratransit booking. | https://northbay.ca/city-services/north-bay-transit/ |
 | North Bay Transit GTFS | North Bay · Municipal | GTFS feed | Direct GTFS.zip download of North Bay Transit bus schedules, routes, and stops. Updated regularly; archive versions with historical data available via Transitland. | https://northbay.tmix.se/gtfs/gtfs.zip |
 | Oakville Transit | Oakville · Municipal | Transit | The Town of Oakville's transit service in Ontario: routes and schedules, fares, real-time bus information, and care-A-van accessible transit. | https://www.oakvilletransit.ca/ |
 | Oakville Transit GTFS | Oakville · Municipal | GTFS feed | Direct GTFS.zip download of Oakville Transit bus schedules, routes, and stops. Updated as needed when service changes occur; archive versions available via Transitland. | https://www.arcgis.com/sharing/rest/content/items/d78a1c1ad6a940009de8b68839a8f606/data |
@@ -2832,6 +2832,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Conservation Ontario — Find Your Conservation Authority | Ontario · Agency | Finder | Find which conservation authority covers your watershed or municipality in Ontario | https://conservationontario.ca/ |
 | Toronto and Region Conservation Authority — Living Room | Toronto Region · Agency | Conservation authority | Rouge National Urban Park, conservation areas, maps, and environmental programs for the Toronto region | https://trca.ca/ |
 | Air Quality Ontario — AQHI and Real-Time Pollutant Data | Ontario · Provincial | Monitoring dashboard | Hourly Air Quality Health Index observations and forecasts across ~38 provincial stations, real-time O3, PM2.5, NO2 concentrations, alerts, and historical AQHI data search. | https://www.airqualityontario.com/ |
+| Environmental Compliance Reports — Ontario | Ontario · Provincial | Dataset | MECP open dataset: the ministry's annual Environmental Compliance Report on facilities with regulated wastewater discharge, with inspection and compliance results as downloadable CSV/XLSX files (77 resources). Updated 2025-12-19. | https://data.ontario.ca/dataset/environmental-compliance-reports |
 | Ministry of Natural Resources — Hunting Regulations Summary | Ontario · Provincial | Regulations guide | Annual hunt-and-trap guide: licences and fees, season dates and rules per game species (moose, deer, bear, turkey), WMU maps and mandatory reporting; full PDF download. | https://www.ontario.ca/document/ontario-hunting-regulations-summary |
 | Ministry of the Environment — Source Protection Information Atlas | Ontario · Provincial | Interactive map | Look up any address to see wellhead protection areas, intake zones, vulnerable aquifers and water-taking permits on the provincial source-water atlas. | https://www.lioapplications.lrc.gov.on.ca/SourceWaterProtection/index.html?viewer=SourceWaterProtection.SWPViewer&locale=en-CA |
 | Ontario — Air Quality Health Index | Ontario · Provincial | Air quality index | Ontario's provincial AQHI lookup and guidance: how the index works, current AQHI for Ontario communities, and health advice per risk level for children, seniors and people with heart or breathing conditions. | https://www.ontario.ca/page/air-quality-health-index |
@@ -2839,7 +2840,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Ontario — Forest Fires Information | Ontario · Provincial | Wildfire map | Active Ontario forest fires, fire bans, and fire-weather conditions | https://www.ontario.ca/page/forest-fires |
 | Ontario — Well Records Search | Ontario · Provincial | Search database | Interactive map of every reported water well in Ontario from the Water Well Information System — click a well for its record, plus a companion map of active water-taking permits. | https://www.ontario.ca/page/well-records |
 | Ontario Provincial Stream Water Quality Monitoring Network (PWQMN) | Ontario · Provincial | Water quality dataset | Stream water quality monitoring data across Ontario rivers and streams. Parameters include nutrients (total and dissolved), metals, and chloride. CSV downloads available by year (2023, 2024). Spatial coordinates for all monitoring stations included. | https://data.ontario.ca/dataset/provincial-stream-water-quality-monitoring-network |
-| North Bay Drinking Water Quality Reports | North Bay · Municipal | Water quality reports | Annual and summary drinking water quality test results for City of North Bay municipal water system — PDF reports by year. | https://northbay.ca/services-payments/water-wastewater/drinking-water/ |
+| Water Taking — Ontario | Ontario · Provincial | Dataset | MECP open dataset: volumes of water taken daily and annually under a Permit to Take Water, as reported to the ministry under the Water Taking and Transfer Regulation (O. Reg. 387/04), as downloadable CSV/XLSX files (9 resources). Updated 2026-08-13. | https://data.ontario.ca/dataset/water-taking |
+| North Bay Drinking Water Quality Reports | North Bay · Municipal | Water quality reports | Annual and summary drinking water quality test results for City of North Bay municipal water system — PDF reports by year. | https://northbay.ca/city-services/water-wastewater/drinking-water/ |
 
 ### Quebec
 

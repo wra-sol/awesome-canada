@@ -16960,6 +16960,40 @@
     ]
   },
   {
+    "name": "Water Taking — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: volumes of water taken daily and annually under a Permit to Take Water, as reported to the ministry under the Water Taking and Transfer Regulation (O. Reg. 387/04), as downloadable CSV/XLSX files (9 resources). Updated 2026-08-13.",
+    "url": "https://data.ontario.ca/dataset/water-taking",
+    "tags": [
+      "ontario",
+      "water taking",
+      "environment",
+      "open data",
+      "csv"
+    ],
+    "dateAdded": "2026-11-16"
+  },
+  {
+    "name": "Environmental Compliance Reports — Ontario",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: the ministry's annual Environmental Compliance Report on facilities with regulated wastewater discharge, with inspection and compliance results as downloadable CSV/XLSX files (77 resources). Updated 2025-12-19.",
+    "url": "https://data.ontario.ca/dataset/environmental-compliance-reports",
+    "tags": [
+      "ontario",
+      "environmental compliance",
+      "environment",
+      "open data",
+      "csv"
+    ],
+    "dateAdded": "2026-11-16"
+  },
+  {
     "name": "Department of Land and Environment — PEI Air Monitoring",
     "level": "Provincial",
     "jurisdiction": "PEI",
@@ -17218,7 +17252,7 @@
     "category": "environment",
     "type": "Water quality reports",
     "description": "Annual and summary drinking water quality test results for City of North Bay municipal water system — PDF reports by year.",
-    "url": "https://northbay.ca/services-payments/water-wastewater/drinking-water/",
+    "url": "https://northbay.ca/city-services/water-wastewater/drinking-water/",
     "tags": [
       "north bay",
       "water quality",
@@ -40534,7 +40568,7 @@
     "category": "transit",
     "type": "Transit",
     "description": "The City of North Bay's transit service in Ontario: routes and schedules, fares, the myRide NBT real-time app, and paratransit booking.",
-    "url": "https://northbay.ca/services-payments/north-bay-transit/",
+    "url": "https://northbay.ca/city-services/north-bay-transit/",
     "tags": [
       "transit",
       "bus",
