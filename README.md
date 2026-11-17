@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2793 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2794 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -27,7 +27,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - [📊 Open Data & Statistics](#open-data-and-statistics) — 242
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
-- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 146
+- [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 147
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
 - [🪪 Government Services & ID](#government-services-and-id) — 97
 - [💰 Taxes & Revenue](#taxes-and-revenue) — 43
@@ -690,6 +690,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Nunavut Hansard EN/Inuktitut parallel dataset | Nunavut · Agency | Hansard dataset | Download the full Nunavut Legislative Assembly debates as parallel English/Inuktitut text (roman and syllabic), CC-BY-4.0, with token alignments for NLP. | https://huggingface.co/datasets/EdinburghNLP/nunavut-hansard-plusplus |
 | Northwest Territories Gazette | Northwest Territories · Provincial | Official gazette archive | Download every NWT Gazette issue (1993-present): regulations in full text, statutory appointments, revocations and official notices. PDF, bilingual. | https://gnwt.ca/resources/gazette?justice=en |
+| Northwest Territories Gazette | Northwest Territories · Provincial | Official gazette archive | Download every NWT Gazette issue (1993-present): regulations in full text, statutory appointments, revocations and official notices. PDF, bilingual. | https://www.justice.gov.nt.ca/en/northwest-territories-gazette |
 | Iqaluit Motion Registry Results | Iqaluit · Municipal | Council motions | Searchable, downloadable list of City of Iqaluit council motions with meeting numbers, dates, and PDF downloads. Track how specific issues were voted on and follow the history of council decisions. | https://iqaluit.ca/city-hall/city-council/motions/results |
 | Whitehorse — Council Agendas & Minutes (InfoCouncil) | Whitehorse · Municipal | Agendas and minutes | Search and download PDF agendas, minutes, and attachments for City of Whitehorse council meetings from 2017 to present. Filter by year and month to track council decisions, public hearings, and bylaw approvals. | https://whitehorse.infocouncil.biz/ |
 | Yellowknife — Council Agendas & Minutes (eScribe) | Yellowknife · Municipal | Council meetings portal | Searchable City of Yellowknife council agendas, minutes, and attachments on the public eScribe portal. Includes Council Meeting and Special Council Meeting records with downloadable PDFs. | https://pub-yellowknife.escribemeetings.com/ |
