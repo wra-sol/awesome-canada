@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2794 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2797 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -45,7 +45,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🚌 Transit & Mobility](#transit-and-mobility) — 151
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 39
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 97
-- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 96
+- [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 99
 - [🌦️ Weather & Climate](#weather-and-climate) — 44
 - [⚡ Energy & Utilities](#energy-and-utilities) — 58
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
@@ -2825,7 +2825,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Drinking Water Quality and Enforcement | Ontario · Provincial | Dataset | MECP open dataset: information on the drinking water systems, laboratories and facilities the ministry monitors for compliance with Ontario's drinking water laws, as downloadable PDF/ZIP files (24 resources). Updated 2026-08-12. | https://data.ontario.ca/dataset/drinking-water-quality-and-enforcement |
 | Drinking Water Surveillance Program | Ontario · Provincial | Dataset | MECP open dataset: water quality monitoring data from the voluntary Drinking Water Surveillance Program at selected municipal drinking water systems, covering inorganic, organic and radiological parameters by year, as downloadable PDF/ZIP files (8 resources). Updated 2026-08-14. | https://data.ontario.ca/dataset/drinking-water-surveillance-program |
 | Environmental Compliance Reports — Ontario | Ontario · Provincial | Dataset | MECP open dataset: the ministry's annual Environmental Compliance Report on facilities with regulated wastewater discharge, with inspection and compliance results as downloadable CSV/XLSX files (77 resources). Updated 2025-12-19. | https://data.ontario.ca/dataset/environmental-compliance-reports |
+| Fish Contaminants | Ontario · Provincial | Dataset | MECP open dataset: contaminant measurements in Ontario fish collected across the province, as downloadable XLSX files (10 resources). Updated 2026-08-13. | https://data.ontario.ca/dataset/fish-contaminants |
+| Guide to Eating Ontario Fish: Advisory Database | Ontario · Provincial | Dataset | MECP open dataset: fish consumption advisories for Ontario lakes and rivers, as a downloadable CSV advisory database plus a GIS shapefile of advisory locations (4 resources). Updated 2026-09-18. | https://data.ontario.ca/dataset/guide-to-eating-ontario-fish-advisory-database |
 | Lake Water Quality at Drinking Water Intakes | Ontario · Provincial | Dataset | MECP open dataset: sampling locations, water chemistry and chlorophyll data collected at 18 Great Lakes-St. Lawrence River and 4 Lake Simcoe drinking water intake locations, as downloadable PDF/XLSX files (5 resources). Updated 2026-08-14. | https://data.ontario.ca/dataset/lake-water-quality-at-drinking-water-intakes |
+| List of Licensed Laboratories | Ontario · Provincial | Dataset | MECP open dataset: licensed and out-of-province eligible laboratories that can test Ontario drinking water, as downloadable CSV files (2 resources). Updated 2026-07-27. | https://data.ontario.ca/dataset/list-of-licensed-laboratories |
 | Ministry of Natural Resources — Hunting Regulations Summary | Ontario · Provincial | Regulations guide | Annual hunt-and-trap guide: licences and fees, season dates and rules per game species (moose, deer, bear, turkey), WMU maps and mandatory reporting; full PDF download. | https://www.ontario.ca/document/ontario-hunting-regulations-summary |
 | Ministry of the Environment — Source Protection Information Atlas | Ontario · Provincial | Interactive map | Look up any address to see wellhead protection areas, intake zones, vulnerable aquifers and water-taking permits on the provincial source-water atlas. | https://www.lioapplications.lrc.gov.on.ca/SourceWaterProtection/index.html?viewer=SourceWaterProtection.SWPViewer&locale=en-CA |
 | Ontario — Air Quality Health Index | Ontario · Provincial | Air quality index | Ontario's provincial AQHI lookup and guidance: how the index works, current AQHI for Ontario communities, and health advice per risk level for children, seniors and people with heart or breathing conditions. | https://www.ontario.ca/page/air-quality-health-index |

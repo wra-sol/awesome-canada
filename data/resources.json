@@ -17277,6 +17277,59 @@
     "dateAdded": "2026-11-16"
   },
   {
+    "name": "List of Licensed Laboratories",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: licensed and out-of-province eligible laboratories that can test Ontario drinking water, as downloadable CSV files (2 resources). Updated 2026-07-27.",
+    "url": "https://data.ontario.ca/dataset/list-of-licensed-laboratories",
+    "tags": [
+      "ontario",
+      "water",
+      "drinking water",
+      "environment",
+      "open data",
+      "laboratories"
+    ],
+    "dateAdded": "2026-11-17"
+  },
+  {
+    "name": "Guide to Eating Ontario Fish: Advisory Database",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: fish consumption advisories for Ontario lakes and rivers, as a downloadable CSV advisory database plus a GIS shapefile of advisory locations (4 resources). Updated 2026-09-18.",
+    "url": "https://data.ontario.ca/dataset/guide-to-eating-ontario-fish-advisory-database",
+    "tags": [
+      "ontario",
+      "water",
+      "fish",
+      "environment",
+      "open data",
+      "health"
+    ],
+    "dateAdded": "2026-11-17"
+  },
+  {
+    "name": "Fish Contaminants",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: contaminant measurements in Ontario fish collected across the province, as downloadable XLSX files (10 resources). Updated 2026-08-13.",
+    "url": "https://data.ontario.ca/dataset/fish-contaminants",
+    "tags": [
+      "ontario",
+      "water",
+      "fish",
+      "environment",
+      "open data"
+    ],
+    "dateAdded": "2026-11-17"
+  },
+  {
     "name": "Ministry of Natural Resources — Hunting Regulations Summary",
     "level": "Provincial",
     "jurisdiction": "Ontario",
