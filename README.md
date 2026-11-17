@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2797 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2800 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 242
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 243
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 147
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 162
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 53
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 55
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -348,6 +348,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | NWT Bureau of Statistics | Northwest Territories · Provincial | Statistics portal | Official GNWT statistics: population estimates by community, CPI, labour force surveys, GDP, health, education and justice indicators, plus time-series retrieval and quarterly publications. | https://www.statsnwt.ca/ |
 | Government of Nunavut — Bureau of Statistics | Nunavut · Provincial | Statistics portal | Nunavummit Kiglisiniartiit publications: statistical fact sheets for every community plus population, labour force, income, health, education and housing-survey tables. | https://www.gov.nu.ca/en/nunavummit-kiglisiniartiit-nunavut-bureau-statistics |
 | Government of Yukon — GeoYukon Map Viewer | Yukon · Provincial | Interactive GIS map & data downloads | Explore, measure, print and download the Yukon government's authoritative spatial layers — mining claims, land tenure, forestry, wildlife, air photos and more — free in a browser viewer. | https://mapservices.gov.yk.ca/GeoYukon/ |
+| Yukon Bureau of Statistics | Yukon · Provincial | Statistics portal | Yukon's official statistics hub: population estimates by community, monthly statistical review, employment, CPI, rent and fuel-price surveys, real estate and community statistics with downloadable publications. | https://yukon.ca/bureau-of-statistics |
 | Yukon Open Data | Yukon · Provincial | Open data portal | Yukon government open data catalogue with datasets on environment, infrastructure, health, and demographics | https://open.yukon.ca/ |
 | Whitehorse Open Data | Whitehorse · Municipal | Open data portal | Spatial datasets for Whitehorse including contours, parcels, roads, and aerial imagery in SHP, DWG, and KML formats. | https://data.whitehorse.ca/ |
 | Yellowknife Open Data | Yellowknife · Municipal | Open data portal | City of Yellowknife spatial open data for GIS users — zoning, infrastructure, and base map layers. | https://opendata.yellowknife.ca/ |
@@ -3559,6 +3560,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ministry of Parks, Culture and Sport — Searching Saskatchewan Places | Saskatchewan · Provincial | Lookup tool | Search 13,000+ geographic names and historic places designated under The Heritage Property Act by name, type, designation or municipality, with interactive GIS maps. | https://www.saskatchewan.ca/residents/parks-culture-heritage-and-sport/heritage-conservation-and-commemoration/search-for-a-heritage-property |
 | Saskatchewan — Provincial Archives Collection Search | Saskatchewan · Provincial | Archives database search | Search hundreds of thousands of descriptions in Saskatchewan's Permanent Collection — photos, maps, local histories, film and government records back to the Territorial era. | https://search.saskarchives.com/ |
+| Regina — Heritage Properties & Conservation | Regina · Municipal | Heritage register | City of Regina heritage program: 104 municipally designated heritage properties plus the heritage inventory, with an interactive Heritage Properties Map to check any address, and Heritage Conservation District information. | https://www.regina.ca/home-property/heritage-properties/ |
 | Saskatoon — Heritage Register | Saskatoon · Municipal | Heritage register | Official searchable register of Saskatoon's heritage resources — buildings, structures, monuments and landscapes — with designation status per property and an interactive Heritage Property Map. | https://www.saskatoon.ca/community-culture-heritage/heritage-properties-programs/heritage-register |
 
 ### Manitoba
@@ -3601,6 +3603,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nova Scotia Archives | Nova Scotia · Provincial | Archives | The Nova Scotia Archives in Halifax: the province's archival records, digitized collections, virtual exhibits, and genealogy and research services. | https://archives.novascotia.ca/ |
 | Nova Scotia Archives — Vital Statistics Search | Nova Scotia · Provincial | Genealogy database | Free search of historical Nova Scotia births (1864-1876, 1909+), marriages (from 1763 bonds) and deaths, every name linked to the digitized original record. | https://archives.novascotia.ca/vital-statistics/ |
 | Search the PEI Register of Heritage Places | Prince Edward Island · Provincial | Heritage register | Searchable inventory of designated heritage places in Prince Edward Island — 661 places, searchable by name, civic address, community, recognition type and authority, or construction dates. | https://www.princeedwardisland.ca/en/feature/search-the-pei-register-of-heritage-places |
+| Halifax — Registry of Heritage Properties | Halifax · Municipal | Heritage register | Halifax Regional Municipality's Registry of Heritage Properties: the complete list of municipally registered heritage properties, viewable as an interactive online map via HRM Open Data, plus how to register a property. | https://www.halifax.ca/home-property/heritage-properties/heritage-registrations |
 
 ### Northern Canada (YT, NT, NU)
 

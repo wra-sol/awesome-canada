@@ -23968,6 +23968,38 @@
     "dateAdded": "2026-11-07"
   },
   {
+    "name": "Regina — Heritage Properties & Conservation",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Regina heritage program: 104 municipally designated heritage properties plus the heritage inventory, with an interactive Heritage Properties Map to check any address, and Heritage Conservation District information.",
+    "url": "https://www.regina.ca/home-property/heritage-properties/",
+    "tags": [
+      "regina",
+      "heritage",
+      "register",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-11-17"
+  },
+  {
+    "name": "Halifax — Registry of Heritage Properties",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Halifax Regional Municipality's Registry of Heritage Properties: the complete list of municipally registered heritage properties, viewable as an interactive online map via HRM Open Data, plus how to register a property.",
+    "url": "https://www.halifax.ca/home-property/heritage-properties/heritage-registrations",
+    "tags": [
+      "halifax",
+      "heritage",
+      "register",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-11-17"
+  },
+  {
     "name": "SooMaps Heritage Sites Data",
     "level": "Municipal",
     "jurisdiction": "Sault Ste. Marie",
@@ -29554,6 +29586,23 @@
       "nunavut"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Yukon Bureau of Statistics",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "open-data",
+    "type": "Statistics portal",
+    "description": "Yukon's official statistics hub: population estimates by community, monthly statistical review, employment, CPI, rent and fuel-price surveys, real estate and community statistics with downloadable publications.",
+    "url": "https://yukon.ca/bureau-of-statistics",
+    "tags": [
+      "statistics",
+      "demographics",
+      "economy",
+      "labour",
+      "yukon"
+    ],
+    "dateAdded": "2026-11-17"
   },
   {
     "name": "Agriculture, Food and Rural Affairs — Ontario Data Catalogue",
