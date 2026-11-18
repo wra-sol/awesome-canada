@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2800 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2802 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 160
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 57
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 59
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -3541,6 +3541,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Archives — Genealogy Search | British Columbia · Provincial | Genealogy database | Royal BC Museum's searchable indexes of BC births (1854-1904), marriages (1871-1950) and deaths (1872-2005), with digitized registration images attached. | https://search-collections.royalbcmuseum.bc.ca/Genealogy |
 | Heritage Branch — BC Register of Historic Places | British Columbia · Provincial | Registry | Search 5,000+ provincially, municipally and federally recognized historic places by name, address or map; download filtered records as CSV or shapefile. | https://apps.nrs.gov.bc.ca/bcrhp/ |
+| Burnaby — Community Heritage Register | Burnaby · Municipal | Heritage register | Heritage Burnaby: searchable database of Burnaby's Community Heritage Register, 339 records with statements of significance, designation status, enactment bylaw and date, addresses, and archival photos, maintained by Burnaby Heritage Planning. | https://search.heritageburnaby.ca/ |
+| Richmond — Heritage Inventory | Metro Vancouver · Municipal | Heritage register | City of Richmond Heritage Inventory: searchable inventory of heritage properties and areas (Steveston Cannery Row, Terra Nova, London Farmhouse and more), each with statement of significance, construction dates, designation status, and documentation. | https://www.richmond.ca/business-development/planning/heritage/inventory/ |
 | Surrey — Heritage Register & Protected Sites | Surrey · Municipal | Heritage register | City of Surrey Community Heritage Register: more than 200 formally recognized built, natural and cultural heritage properties, listed in a table with address and protection status (designation bylaw, revitalization agreement or covenant), plus the heritage inventory. | https://www.surrey.ca/renovating-building-development/land-planning-development/heritage-conservation/heritage-register-protected-sites |
 | Vancouver Heritage Sites | Vancouver · Municipal | Heritage register | Open data listing of Vancouver Heritage Register buildings, streetscapes, and landscape resources with evaluation categories. | https://opendata.vancouver.ca/explore/assets/heritage-sites/ |
 

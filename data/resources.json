@@ -23803,6 +23803,22 @@
     "dateAdded": "2026-11-18"
   },
   {
+    "name": "Burnaby — Community Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Burnaby",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Heritage Burnaby: searchable database of Burnaby's Community Heritage Register, 339 records with statements of significance, designation status, enactment bylaw and date, addresses, and archival photos, maintained by Burnaby Heritage Planning.",
+    "url": "https://search.heritageburnaby.ca/",
+    "tags": [
+      "burnaby",
+      "heritage",
+      "register",
+      "british columbia"
+    ],
+    "dateAdded": "2026-11-18"
+  },
+  {
     "name": "Calgary Heritage Inventory",
     "level": "Municipal",
     "jurisdiction": "Calgary",
@@ -23964,6 +23980,22 @@
       "saskatchewan"
     ],
     "dateAdded": "2026-11-17"
+  },
+  {
+    "name": "Richmond — Heritage Inventory",
+    "level": "Municipal",
+    "jurisdiction": "Metro Vancouver",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Richmond Heritage Inventory: searchable inventory of heritage properties and areas (Steveston Cannery Row, Terra Nova, London Farmhouse and more), each with statement of significance, construction dates, designation status, and documentation.",
+    "url": "https://www.richmond.ca/business-development/planning/heritage/inventory/",
+    "tags": [
+      "richmond",
+      "heritage",
+      "inventory",
+      "british columbia"
+    ],
+    "dateAdded": "2026-11-18"
   },
   {
     "name": "Saskatoon — Heritage Register",
