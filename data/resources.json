@@ -10729,23 +10729,6 @@
     "dateAdded": "2026-10-16"
   },
   {
-    "name": "Cariboo Regional District Library",
-    "level": "Regional",
-    "jurisdiction": "British Columbia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "The Cariboo Regional District's library system in British Columbia (Cariboo Library Network): a shared catalogue, ebooks, and branch locations, hours and programs across the Cariboo.",
-    "url": "https://www.cln.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Cariboo",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
     "name": "Fraser Valley Regional Library",
     "level": "Regional",
     "jurisdiction": "British Columbia",
@@ -11150,23 +11133,6 @@
       "library",
       "books",
       "Squamish",
-      "British Columbia",
-      "catalogue"
-    ],
-    "dateAdded": "2026-10-16"
-  },
-  {
-    "name": "Terrace Public Library",
-    "level": "Municipal",
-    "jurisdiction": "British Columbia",
-    "category": "culture",
-    "type": "Public library",
-    "description": "Terrace's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events.",
-    "url": "https://www.terracelibrary.ca/",
-    "tags": [
-      "library",
-      "books",
-      "Terrace",
       "British Columbia",
       "catalogue"
     ],
@@ -17259,6 +17225,41 @@
     "dateAdded": "2026-11-16"
   },
   {
+    "name": "Fish Contaminants",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: contaminant measurements in Ontario fish collected across the province, as downloadable XLSX files (10 resources). Updated 2026-08-13.",
+    "url": "https://data.ontario.ca/dataset/fish-contaminants",
+    "tags": [
+      "ontario",
+      "water",
+      "fish",
+      "environment",
+      "open data"
+    ],
+    "dateAdded": "2026-11-17"
+  },
+  {
+    "name": "Guide to Eating Ontario Fish: Advisory Database",
+    "level": "Provincial",
+    "jurisdiction": "Ontario",
+    "category": "environment",
+    "type": "Dataset",
+    "description": "MECP open dataset: fish consumption advisories for Ontario lakes and rivers, as a downloadable CSV advisory database plus a GIS shapefile of advisory locations (4 resources). Updated 2026-09-18.",
+    "url": "https://data.ontario.ca/dataset/guide-to-eating-ontario-fish-advisory-database",
+    "tags": [
+      "ontario",
+      "water",
+      "fish",
+      "environment",
+      "open data",
+      "health"
+    ],
+    "dateAdded": "2026-11-17"
+  },
+  {
     "name": "Lake Water Quality at Drinking Water Intakes",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -17291,41 +17292,6 @@
       "environment",
       "open data",
       "laboratories"
-    ],
-    "dateAdded": "2026-11-17"
-  },
-  {
-    "name": "Guide to Eating Ontario Fish: Advisory Database",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "environment",
-    "type": "Dataset",
-    "description": "MECP open dataset: fish consumption advisories for Ontario lakes and rivers, as a downloadable CSV advisory database plus a GIS shapefile of advisory locations (4 resources). Updated 2026-09-18.",
-    "url": "https://data.ontario.ca/dataset/guide-to-eating-ontario-fish-advisory-database",
-    "tags": [
-      "ontario",
-      "water",
-      "fish",
-      "environment",
-      "open data",
-      "health"
-    ],
-    "dateAdded": "2026-11-17"
-  },
-  {
-    "name": "Fish Contaminants",
-    "level": "Provincial",
-    "jurisdiction": "Ontario",
-    "category": "environment",
-    "type": "Dataset",
-    "description": "MECP open dataset: contaminant measurements in Ontario fish collected across the province, as downloadable XLSX files (10 resources). Updated 2026-08-13.",
-    "url": "https://data.ontario.ca/dataset/fish-contaminants",
-    "tags": [
-      "ontario",
-      "water",
-      "fish",
-      "environment",
-      "open data"
     ],
     "dateAdded": "2026-11-17"
   },
@@ -23870,6 +23836,22 @@
     "dateAdded": "2026-06-01"
   },
   {
+    "name": "Halifax — Registry of Heritage Properties",
+    "level": "Municipal",
+    "jurisdiction": "Halifax",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Halifax Regional Municipality's Registry of Heritage Properties: the complete list of municipally registered heritage properties, viewable as an interactive online map via HRM Open Data, plus how to register a property.",
+    "url": "https://www.halifax.ca/home-property/heritage-properties/heritage-registrations",
+    "tags": [
+      "halifax",
+      "heritage",
+      "register",
+      "nova scotia"
+    ],
+    "dateAdded": "2026-11-17"
+  },
+  {
     "name": "Hamilton Heritage Properties — Open Data",
     "level": "Municipal",
     "jurisdiction": "Hamilton",
@@ -23952,22 +23934,6 @@
     "dateAdded": "2026-05-27"
   },
   {
-    "name": "Saskatoon — Heritage Register",
-    "level": "Municipal",
-    "jurisdiction": "Saskatoon",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "Official searchable register of Saskatoon's heritage resources — buildings, structures, monuments and landscapes — with designation status per property and an interactive Heritage Property Map.",
-    "url": "https://www.saskatoon.ca/community-culture-heritage/heritage-properties-programs/heritage-register",
-    "tags": [
-      "saskatoon",
-      "heritage",
-      "historic places",
-      "register"
-    ],
-    "dateAdded": "2026-11-07"
-  },
-  {
     "name": "Regina — Heritage Properties & Conservation",
     "level": "Municipal",
     "jurisdiction": "Regina",
@@ -23984,20 +23950,20 @@
     "dateAdded": "2026-11-17"
   },
   {
-    "name": "Halifax — Registry of Heritage Properties",
+    "name": "Saskatoon — Heritage Register",
     "level": "Municipal",
-    "jurisdiction": "Halifax",
+    "jurisdiction": "Saskatoon",
     "category": "heritage",
     "type": "Heritage register",
-    "description": "Halifax Regional Municipality's Registry of Heritage Properties: the complete list of municipally registered heritage properties, viewable as an interactive online map via HRM Open Data, plus how to register a property.",
-    "url": "https://www.halifax.ca/home-property/heritage-properties/heritage-registrations",
+    "description": "Official searchable register of Saskatoon's heritage resources — buildings, structures, monuments and landscapes — with designation status per property and an interactive Heritage Property Map.",
+    "url": "https://www.saskatoon.ca/community-culture-heritage/heritage-properties-programs/heritage-register",
     "tags": [
-      "halifax",
+      "saskatoon",
       "heritage",
-      "register",
-      "nova scotia"
+      "historic places",
+      "register"
     ],
-    "dateAdded": "2026-11-17"
+    "dateAdded": "2026-11-07"
   },
   {
     "name": "SooMaps Heritage Sites Data",
@@ -29588,23 +29554,6 @@
     "dateAdded": "2026-08-24"
   },
   {
-    "name": "Yukon Bureau of Statistics",
-    "level": "Provincial",
-    "jurisdiction": "Yukon",
-    "category": "open-data",
-    "type": "Statistics portal",
-    "description": "Yukon's official statistics hub: population estimates by community, monthly statistical review, employment, CPI, rent and fuel-price surveys, real estate and community statistics with downloadable publications.",
-    "url": "https://yukon.ca/bureau-of-statistics",
-    "tags": [
-      "statistics",
-      "demographics",
-      "economy",
-      "labour",
-      "yukon"
-    ],
-    "dateAdded": "2026-11-17"
-  },
-  {
     "name": "Agriculture, Food and Rural Affairs — Ontario Data Catalogue",
     "level": "Provincial",
     "jurisdiction": "Ontario",
@@ -29976,6 +29925,23 @@
       "yukon"
     ],
     "dateAdded": "2026-08-24"
+  },
+  {
+    "name": "Yukon Bureau of Statistics",
+    "level": "Provincial",
+    "jurisdiction": "Yukon",
+    "category": "open-data",
+    "type": "Statistics portal",
+    "description": "Yukon's official statistics hub: population estimates by community, monthly statistical review, employment, CPI, rent and fuel-price surveys, real estate and community statistics with downloadable publications.",
+    "url": "https://yukon.ca/bureau-of-statistics",
+    "tags": [
+      "statistics",
+      "demographics",
+      "economy",
+      "labour",
+      "yukon"
+    ],
+    "dateAdded": "2026-11-17"
   },
   {
     "name": "Yukon Open Data",

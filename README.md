@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2800 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2798 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -50,7 +50,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [⚡ Energy & Utilities](#energy-and-utilities) — 58
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
-- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 162
+- [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 160
 - [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 55
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
@@ -3351,14 +3351,12 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Royal BC Museum — Collections | British Columbia · Agency | Museum | Natural and human history collections and learning portal for BC | https://rbcm.ca/ |
-| Cariboo Regional District Library | British Columbia · Regional | Public library | The Cariboo Regional District's library system in British Columbia (Cariboo Library Network): a shared catalogue, ebooks, and branch locations, hours and programs across the Cariboo. | https://www.cln.ca/ |
 | Fraser Valley Regional Library | British Columbia · Regional | Public library | The Fraser Valley regional library system: catalogue search, ebooks, branch locations and hours for communities across BC's Fraser Valley. | https://www.fvrl.bc.ca/ |
 | Okanagan Regional Library | British Columbia · Regional | Public library | The Okanagan regional library system: catalogue search, ebooks, branch locations and hours for communities across BC's Okanagan and Similkameen. | https://www.orl.bc.ca/ |
 | Vancouver Island Regional Library | British Columbia · Regional | Public library | The regional library system for Vancouver Island, the Gulf Islands and parts of the BC coast: catalogue search, ebooks, branch locations and hours for 39 branches. | https://virl.bc.ca/ |
 | Thompson-Nicola Regional Library | Kamloops · Regional | Public library | The Thompson-Nicola regional library system in British Columbia, based in Kamloops: a shared catalogue, ebooks and digital resources, and branch locations, hours and programs across the region. | https://www.tnrl.ca/ |
 | Greater Victoria Public Library | Victoria · Regional | Public library | The Greater Victoria public library system: catalogue search, ebooks, branch locations and hours, programs and events serving Greater Victoria municipalities. | https://www.gvpl.ca/ |
 | Squamish Public Library | British Columbia · Municipal | Public library | Squamish's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events. | https://squamishlibrary.ca/ |
-| Terrace Public Library | British Columbia · Municipal | Public library | Terrace's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.terracelibrary.ca/ |
 | Burnaby Public Library | Burnaby · Municipal | Public library | Burnaby's public library system: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Burnaby, British Columbia. | https://bpl.bc.ca/ |
 | Coquitlam Public Library | Coquitlam · Municipal | Public library | Coquitlam's public library: catalogue search, ebooks and digital resources, branch locations and hours, programs and events in Coquitlam, British Columbia. | https://www.coqlibrary.ca/ |
 | North Vancouver City Library | Metro Vancouver · Municipal | Public library | The City of North Vancouver's public library in British Columbia: catalogue search, ebooks and digital resources, hours, and programs and events. | https://www.nvcl.ca/ |
