@@ -23787,6 +23787,22 @@
     "dateAdded": "2026-11-08"
   },
   {
+    "name": "Brampton — Heritage Identification",
+    "level": "Municipal",
+    "jurisdiction": "Brampton",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Brampton heritage registers under the Ontario Heritage Act: the Municipal Register of Cultural Heritage Resources Designated under the Act and the register of listed (not yet designated) properties, both as downloadable PDFs, with designation details per property.",
+    "url": "https://www1.brampton.ca/EN/Arts-Culture-Tourism/Cultural-Heritage/Pages/Identification.aspx",
+    "tags": [
+      "brampton",
+      "heritage",
+      "register",
+      "ontario heritage act"
+    ],
+    "dateAdded": "2026-11-18"
+  },
+  {
     "name": "Calgary Heritage Inventory",
     "level": "Municipal",
     "jurisdiction": "Calgary",
@@ -23981,6 +23997,22 @@
       "open data"
     ],
     "dateAdded": "2026-05-27"
+  },
+  {
+    "name": "Surrey — Heritage Register & Protected Sites",
+    "level": "Municipal",
+    "jurisdiction": "Surrey",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Surrey Community Heritage Register: more than 200 formally recognized built, natural and cultural heritage properties, listed in a table with address and protection status (designation bylaw, revitalization agreement or covenant), plus the heritage inventory.",
+    "url": "https://www.surrey.ca/renovating-building-development/land-planning-development/heritage-conservation/heritage-register-protected-sites",
+    "tags": [
+      "surrey",
+      "heritage",
+      "register",
+      "british columbia"
+    ],
+    "dateAdded": "2026-11-18"
   },
   {
     "name": "Thunder Bay — Heritage Register CSV",

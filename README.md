@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2798 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2800 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 160
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 55
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 57
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -3541,6 +3541,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | BC Archives — Genealogy Search | British Columbia · Provincial | Genealogy database | Royal BC Museum's searchable indexes of BC births (1854-1904), marriages (1871-1950) and deaths (1872-2005), with digitized registration images attached. | https://search-collections.royalbcmuseum.bc.ca/Genealogy |
 | Heritage Branch — BC Register of Historic Places | British Columbia · Provincial | Registry | Search 5,000+ provincially, municipally and federally recognized historic places by name, address or map; download filtered records as CSV or shapefile. | https://apps.nrs.gov.bc.ca/bcrhp/ |
+| Surrey — Heritage Register & Protected Sites | Surrey · Municipal | Heritage register | City of Surrey Community Heritage Register: more than 200 formally recognized built, natural and cultural heritage properties, listed in a table with address and protection status (designation bylaw, revitalization agreement or covenant), plus the heritage inventory. | https://www.surrey.ca/renovating-building-development/land-planning-development/heritage-conservation/heritage-register-protected-sites |
 | Vancouver Heritage Sites | Vancouver · Municipal | Heritage register | Open data listing of Vancouver Heritage Register buildings, streetscapes, and landscape resources with evaluation categories. | https://opendata.vancouver.ca/explore/assets/heritage-sites/ |
 
 ### Alberta
@@ -3575,6 +3576,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario — Archives of Ontario Collection Search | Ontario · Provincial | Archives database search | Search descriptions of Ontario's archival, library and art collections — records, photographs and maps — then request items or order reproductions. | https://aims.archives.gov.on.ca/ |
 | Ontario Heritage Trust — Ontario Heritage Act Register | Ontario · Provincial | Heritage register | Searchable public database of all properties designated under Ontario's Heritage Act — 30,200 designated properties with designation documents, searchable by property, municipality and heritage conservation district. | https://www.heritagetrust.on.ca/pages/tools/ontario-heritage-act-register |
+| Brampton — Heritage Identification | Brampton · Municipal | Heritage register | City of Brampton heritage registers under the Ontario Heritage Act: the Municipal Register of Cultural Heritage Resources Designated under the Act and the register of listed (not yet designated) properties, both as downloadable PDFs, with designation details per property. | https://www1.brampton.ca/EN/Arts-Culture-Tourism/Cultural-Heritage/Pages/Identification.aspx |
 | Cornwall Heritage Designated Sites Open Data | Cornwall · Municipal | Heritage register dataset | GIS layer of Heritage Cornwall designated properties — map, filter, and download designated sites with by-law references via open data portal. | https://data-cornwallcity.opendata.arcgis.com/datasets/7e4d2ad84e584cceb938711fec2f9f2c_0 |
 | Hamilton Heritage Properties — Open Data | Hamilton · Municipal | Heritage register dataset | Designated and listed heritage properties in Hamilton as a downloadable GIS dataset on Open Hamilton. | https://open.hamilton.ca/datasets/heritage-properties |
 | Kingston Heritage Register | Kingston · Municipal | Heritage register | City of Kingston heritage property register under the Ontario Heritage Act — designated, listed, and conservation district properties. | https://www.cityofkingston.ca/building-and-renovating/heritage-property-conservation/heritage-register/ |
