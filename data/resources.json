@@ -23932,6 +23932,22 @@
     "dateAdded": "2026-05-27"
   },
   {
+    "name": "Richmond — Heritage Inventory",
+    "level": "Municipal",
+    "jurisdiction": "Metro Vancouver",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Richmond Heritage Inventory: searchable inventory of heritage properties and areas (Steveston Cannery Row, Terra Nova, London Farmhouse and more), each with statement of significance, construction dates, designation status, and documentation.",
+    "url": "https://www.richmond.ca/business-development/planning/heritage/inventory/",
+    "tags": [
+      "richmond",
+      "heritage",
+      "inventory",
+      "british columbia"
+    ],
+    "dateAdded": "2026-11-18"
+  },
+  {
     "name": "Montreal Protected Heritage Sites",
     "level": "Municipal",
     "jurisdiction": "Montreal",
@@ -23980,22 +23996,6 @@
       "saskatchewan"
     ],
     "dateAdded": "2026-11-17"
-  },
-  {
-    "name": "Richmond — Heritage Inventory",
-    "level": "Municipal",
-    "jurisdiction": "Metro Vancouver",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "City of Richmond Heritage Inventory: searchable inventory of heritage properties and areas (Steveston Cannery Row, Terra Nova, London Farmhouse and more), each with statement of significance, construction dates, designation status, and documentation.",
-    "url": "https://www.richmond.ca/business-development/planning/heritage/inventory/",
-    "tags": [
-      "richmond",
-      "heritage",
-      "inventory",
-      "british columbia"
-    ],
-    "dateAdded": "2026-11-18"
   },
   {
     "name": "Saskatoon — Heritage Register",
