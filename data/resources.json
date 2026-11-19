@@ -23803,6 +23803,22 @@
     "dateAdded": "2026-11-18"
   },
   {
+    "name": "Burlington — Municipal Cultural Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Burlington",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Burlington Municipal Cultural Heritage Register: the official list of heritage properties regulated under the Ontario Heritage Act, with 70+ designated properties and 175+ non-designated properties, a map of all register properties, heritage permit guidance, and the Burlington Avenue and Ontario Street Heritage Conservation District plan approved March 2026.",
+    "url": "https://www.burlington.ca/planning-and-development/heritage-conservation-planning/municipal-cultural-heritage-register/",
+    "tags": [
+      "burlington",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-19"
+  },
+  {
     "name": "Burnaby — Community Heritage Register",
     "level": "Municipal",
     "jurisdiction": "Burnaby",
@@ -23866,6 +23882,22 @@
       "register"
     ],
     "dateAdded": "2026-06-01"
+  },
+  {
+    "name": "Guelph — Municipal Register of Cultural Heritage Properties",
+    "level": "Municipal",
+    "jurisdiction": "Guelph",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Guelph Municipal Register of Cultural Heritage Properties: the city's official list of designated (Part IV and Part V, including the Brooklyn and College Hill Heritage Conservation District) and listed properties, presented in both table and map formats, with per-property designation pages giving bylaw, legal description and heritage attributes. Register consolidated February 2025.",
+    "url": "https://guelph.ca/city-government/planning-and-development/community-plans-studies/heritage-conservation/guelph-cultural-heritage-register/",
+    "tags": [
+      "guelph",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-19"
   },
   {
     "name": "Halifax — Registry of Heritage Properties",
@@ -23957,6 +23989,22 @@
     "url": "https://www.mississauga.ca/services-and-programs/building-and-renovating/heritage-properties/",
     "tags": [
       "mississauga",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-19"
+  },
+  {
+    "name": "Oakville — Heritage Districts & Properties",
+    "level": "Municipal",
+    "jurisdiction": "Oakville",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Town of Oakville heritage hub: searchable Heritage Register map covering close to 1,000 properties (designated Part IV, listed, and heritage-easement properties), nearly 700 designated properties either standalone or within four heritage conservation districts (Old Oakville, First & Second Street, Trafalgar Road, Downtown Oakville), plus the heritage grant program for designated properties.",
+    "url": "https://www.oakville.ca/business-development/planning-development/heritage-planning/heritage-districts-properties/",
+    "tags": [
+      "oakville",
       "heritage",
       "register",
       "ontario"
@@ -41033,7 +41081,7 @@
     "category": "transit",
     "type": "Transit",
     "description": "Cochrane On-Demand Local Transit (COLT) in Alberta: book on-demand bus rides in the Town of Cochrane online or by app, with fares and service-area information.",
-    "url": "https://cochrane.ca/transit",
+    "url": "https://www.cochrane.ca/town-services/roads-transportation/transit",
     "tags": [
       "transit",
       "bus",
