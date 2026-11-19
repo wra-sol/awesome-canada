@@ -41191,6 +41191,23 @@
     "dateAdded": "2026-10-17"
   },
   {
+    "name": "BikeSpace — Toronto's Bike Parking App",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "transit",
+    "type": "Mobility map",
+    "description": "Volunteer-run bike-parking map for Toronto: find bike parking, report broken or missing racks, and view reported issues; also maps Level of Traffic Stress and reported bike thefts. Open source (github.com/bikespace/bikespace); a 2025 Toronto Open Data Award winner.",
+    "url": "https://bikespace.ca/",
+    "tags": [
+      "transit",
+      "bikes",
+      "bike parking",
+      "Toronto",
+      "open-data"
+    ],
+    "dateAdded": "2026-11-19"
+  },
+  {
     "name": "Brampton Transit — GTFS (GeoHub)",
     "level": "Municipal",
     "jurisdiction": "Brampton",

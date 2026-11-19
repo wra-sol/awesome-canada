@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2809 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2810 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -42,7 +42,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 71
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 76
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 57
-- [🚌 Transit & Mobility](#transit-and-mobility) — 151
+- [🚌 Transit & Mobility](#transit-and-mobility) — 152
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 39
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 97
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 99
@@ -2464,6 +2464,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Sault Ste. Marie Transit | Sault Ste. Marie · Municipal | Transit | City of Sault Ste. Marie transit section, including bus routes and schedules, fare information, and service updates for the Ontario city's transit system. | https://saultstemarie.ca/live/transit/ |
 | Thunder Bay Transit | Thunder Bay · Municipal | Transit | City page for Thunder Bay's transit division, the entry point to route schedules and maps, fare and pass details, and accessible transit information for the Ontario city. | https://www.thunderbay.ca/city-services/transit/ |
 | Timmins Transit | Timmins · Municipal | Transit | Timmins transit service page: route maps and schedules, fares, and Handy Transit accessible-service details for the Northern Ontario city. | https://www.timmins.ca/our_services/timmins_transit |
+| BikeSpace — Toronto's Bike Parking App | Toronto · Municipal | Mobility map | Volunteer-run bike-parking map for Toronto: find bike parking, report broken or missing racks, and view reported issues; also maps Level of Traffic Stress and reported bike thefts. Open source (github.com/bikespace/bikespace); a 2025 Toronto Open Data Award winner. | https://bikespace.ca/ |
 | Toronto Bicycle Counters | Toronto · Municipal | Mobility map | Live map of Toronto's bicycle counters showing cycling activity from City of Toronto open data. By Isaac Berman (observingthecity.ca). | https://www.observingthecity.ca/bike-counters |
 | Toronto Bike Share station map | Toronto · Municipal | Mobility map | Station finder and system map for bike share | https://bikesharetoronto.com/system-map/ |
 | Toronto TTC GTFS Feed | Toronto · Municipal | GTFS feed | Official TTC GTFS static schedule feed for routes, stops, and trips — download zip from the Open Data Portal for app development. | https://open.toronto.ca/dataset/ttc-routes-and-schedules/ |
