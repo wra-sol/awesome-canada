@@ -30775,6 +30775,24 @@
     "dateAdded": "2026-04-15"
   },
   {
+    "name": "ForThePublic.ca — Canada's Citizen Transparency Platform",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Transparency platform",
+    "description": "Independent, open-source civic transparency platform (launched 2026) aggregating government data — municipal budgets, housing, crime, permits and national statistics — into one clear interface; starting with Halifax, Nova Scotia, expanding across all 10 provinces and 3 territories; every figure sourced and dated from official portals under the Open Government Licence - Canada. In beta: some figures are marked SAMPLE placeholders and coverage is Halifax-focused today.",
+    "url": "https://www.forthepublic.ca/",
+    "tags": [
+      "transparency",
+      "open data",
+      "budgets",
+      "housing",
+      "crime",
+      "permits"
+    ],
+    "dateAdded": "2026-11-19"
+  },
+  {
     "name": "Fredericton Open Data Portal",
     "level": "Municipal",
     "jurisdiction": "Fredericton",

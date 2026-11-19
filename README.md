@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2808 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2809 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 243
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 244
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 147
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -75,6 +75,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Census Program | Canada · Federal | Census portal | StatCan Census portal: 2026 Census (collection completed September 2026, 98.4% response), profiles, maps and reference materials; 2026 reference and geographic products from November 2026, full data releases through 2027. | https://www12.statcan.gc.ca/census-recensement/index-eng.cfm |
 | EODMS — Earth Observation Data Management System | Canada · Federal | Imagery search | Search and order from NRCan's archive of satellite imagery and the National Air Photo Library — over 3 million historical aerial photos of Canada dating to the 1920s, with footprints on a map. | https://eodms-sgdot.nrcan-rncan.gc.ca/index-en.html |
 | Federal Data Strategy Tracker | Canada · Federal | Progress tracker | Open Government tracker reporting progress on the 2023–2026 Federal Data Strategy's year 1 and year 2 priority actions, organized by mission. | https://search.open.canada.ca/datastrategy/ |
+| ForThePublic.ca — Canada's Citizen Transparency Platform | Canada · Federal | Transparency platform | Independent, open-source civic transparency platform (launched 2026) aggregating government data — municipal budgets, housing, crime, permits and national statistics — into one clear interface; starting with Halifax, Nova Scotia, expanding across all 10 provinces and 3 territories; every figure sourced and dated from official portals under the Open Government Licence - Canada. In beta: some figures are marked SAMPLE placeholders and coverage is Halifax-focused today. | https://www.forthepublic.ca/ |
 | GEO.ca | Canada · Federal | Geospatial portal | Canada's federal geospatial data portal, providing open access to authoritative geospatial information, maps, and datasets from federal sources. | https://geo.ca/ |
 | Government of Canada — Open Government Portal | Canada · Federal | Open data portal | Search 40,000+ federal datasets, reports, and geospatial layers with API access | https://search.open.canada.ca/opendata/ |
 | Infrastructure Canada — Approved Projects Dataset | Canada · Federal | Open data | Downloadable register of infrastructure projects approved by Infrastructure Canada/Housing, Infrastructure and Communities Canada, with funding, location and status fields; weekly-updated CSV, XLSX and JSON. | https://open.canada.ca/data/en/dataset/beee0771-dab9-4be8-9b80-f8e8b3fdfd9d |
