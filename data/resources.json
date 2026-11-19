@@ -23932,6 +23932,38 @@
     "dateAdded": "2026-05-27"
   },
   {
+    "name": "Markham — Heritage Property Register",
+    "level": "Municipal",
+    "jurisdiction": "Markham",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Markham's Register of Property of Cultural Heritage Value or Interest: searchable by street address, ward, heritage district, date of construction or architectural style. Covers 1,730 properties (350+ individually designated under Part IV of the Ontario Heritage Act plus listed properties) across four heritage conservation districts (Thornhill, Markham Village, Unionville, Buttonville).",
+    "url": "https://www.markham.ca/economic-development-business/planning-development-services/heritage-services/heritage-property-register",
+    "tags": [
+      "markham",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-19"
+  },
+  {
+    "name": "Mississauga — Heritage Properties",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Mississauga heritage-properties hub: 270+ designated properties, listed vs designated status, heritage approval process, and the Designated Heritage Property Grant; property-level heritage status lookup via the city's property portal.",
+    "url": "https://www.mississauga.ca/services-and-programs/building-and-renovating/heritage-properties/",
+    "tags": [
+      "mississauga",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-19"
+  },
+  {
     "name": "Richmond — Heritage Inventory",
     "level": "Municipal",
     "jurisdiction": "Metro Vancouver",
@@ -24029,6 +24061,22 @@
       "open data"
     ],
     "dateAdded": "2026-05-27"
+  },
+  {
+    "name": "St. John's — Heritage Buildings",
+    "level": "Municipal",
+    "jurisdiction": "St. John's",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of St. John's heritage program: designated Heritage Buildings list (designating since 1977; list updated August 2023 with address, designation date and parcel ID per building), four downtown Heritage Areas with design standards, heritage-area map, and the process to get a property designated.",
+    "url": "https://www.stjohns.ca/business-development/heritage-buildings/",
+    "tags": [
+      "st. john's",
+      "heritage",
+      "register",
+      "newfoundland and labrador"
+    ],
+    "dateAdded": "2026-11-19"
   },
   {
     "name": "Surrey — Heritage Register & Protected Sites",

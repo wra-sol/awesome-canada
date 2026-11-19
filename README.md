@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2802 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2805 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 160
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 59
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 62
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -3583,6 +3583,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Hamilton Heritage Properties — Open Data | Hamilton · Municipal | Heritage register dataset | Designated and listed heritage properties in Hamilton as a downloadable GIS dataset on Open Hamilton. | https://open.hamilton.ca/datasets/heritage-properties |
 | Kingston Heritage Register | Kingston · Municipal | Heritage register | City of Kingston heritage property register under the Ontario Heritage Act — designated, listed, and conservation district properties. | https://www.cityofkingston.ca/building-and-renovating/heritage-property-conservation/heritage-register/ |
 | London Register of Cultural Heritage Resources — CityMap | London · Municipal | Heritage register map | Interactive map of London’s Register of Cultural Heritage Resources — designated properties, listed properties, and heritage conservation districts. | https://maps.london.ca/WebDocuments/MapGallery/MapGallery/Index |
+| Markham — Heritage Property Register | Markham · Municipal | Heritage register | Markham's Register of Property of Cultural Heritage Value or Interest: searchable by street address, ward, heritage district, date of construction or architectural style. Covers 1,730 properties (350+ individually designated under Part IV of the Ontario Heritage Act plus listed properties) across four heritage conservation districts (Thornhill, Markham Village, Unionville, Buttonville). | https://www.markham.ca/economic-development-business/planning-development-services/heritage-services/heritage-property-register |
+| Mississauga — Heritage Properties | Mississauga · Municipal | Heritage register | City of Mississauga heritage-properties hub: 270+ designated properties, listed vs designated status, heritage approval process, and the Designated Heritage Property Grant; property-level heritage status lookup via the city's property portal. | https://www.mississauga.ca/services-and-programs/building-and-renovating/heritage-properties/ |
 | Ottawa Heritage Register (Not Designated) | Ottawa · Municipal | Heritage register layer | Query heritage register properties not yet designated — includes heritage statements, recognition status, and legal descriptions via Planning GIS. | https://maps.ottawa.ca/ArcGIS/rest/services/Planning/MapServer/60 |
 | SooMaps Heritage Sites Data | Sault Ste. Marie · Municipal | Heritage sites dataset | Weekly-refreshed CSV/JSON extracts of Sault Ste. Marie heritage sites from official GIS — sourced from city SooMaps open data program. | https://cityssm.github.io/soomaps-data/ |
 | Thunder Bay — Heritage Register CSV | Thunder Bay · Municipal | Dataset | CSV download of heritage-registered properties in Thunder Bay, including addresses, designation status, and heritage attributes. Useful for preservation research, development planning, and property due diligence. | https://opendata-thunderbay.hub.arcgis.com/datasets/bd50ba0dc1534a13b4cb6f057646b049 |
@@ -3606,6 +3608,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Nova Scotia Archives — Vital Statistics Search | Nova Scotia · Provincial | Genealogy database | Free search of historical Nova Scotia births (1864-1876, 1909+), marriages (from 1763 bonds) and deaths, every name linked to the digitized original record. | https://archives.novascotia.ca/vital-statistics/ |
 | Search the PEI Register of Heritage Places | Prince Edward Island · Provincial | Heritage register | Searchable inventory of designated heritage places in Prince Edward Island — 661 places, searchable by name, civic address, community, recognition type and authority, or construction dates. | https://www.princeedwardisland.ca/en/feature/search-the-pei-register-of-heritage-places |
 | Halifax — Registry of Heritage Properties | Halifax · Municipal | Heritage register | Halifax Regional Municipality's Registry of Heritage Properties: the complete list of municipally registered heritage properties, viewable as an interactive online map via HRM Open Data, plus how to register a property. | https://www.halifax.ca/home-property/heritage-properties/heritage-registrations |
+| St. John's — Heritage Buildings | St. John's · Municipal | Heritage register | City of St. John's heritage program: designated Heritage Buildings list (designating since 1977; list updated August 2023 with address, designation date and parcel ID per building), four downtown Heritage Areas with design standards, heritage-area map, and the process to get a property designated. | https://www.stjohns.ca/business-development/heritage-buildings/ |
 
 ### Northern Canada (YT, NT, NU)
 
