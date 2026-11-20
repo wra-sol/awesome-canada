@@ -28547,6 +28547,23 @@
     "dateAdded": "2026-08-24"
   },
   {
+    "name": "Canadian Open Data Directory",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Open data directory",
+    "description": "Canada's first crowdsourced, fully bilingual index of open data publishers: 250 organizations producing open data across Canada, referencing over 100,000 datasets from the public sector, nonprofits and private industry, all freely accessible without payment. Searchable by topic and geography, with a visual data-storytelling experience. Volunteer-built by the Canadian Open Data Society; launched May 21, 2026, with updates via a public Google Sheet.",
+    "url": "https://directory.opendatasociety.ca",
+    "tags": [
+      "open data",
+      "directory",
+      "datasets",
+      "publishers",
+      "bilingual"
+    ],
+    "dateAdded": "2026-11-20"
+  },
+  {
     "name": "Census Program",
     "level": "Federal",
     "jurisdiction": "Canada",

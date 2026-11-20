@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2815 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2816 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 244
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 245
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 147
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -72,6 +72,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Canadian Database of Geochemical Surveys (CDoGS) | Canada · Federal | Survey database | Catalogue of 1,600+ regional geochemical surveys across Canada with standardized raw analytical data downloads as spreadsheets, KML maps and WMS, plus element search. | https://geochem.nrcan.gc.ca/cdogs/content/main/home_en.htm |
 | Canadian Geographical Names Database Search | Canada · Federal | Lookup tool | Query nearly 350,000 official Canadian place names by name, coordinates or area, with API access and downloadable datasets, maintained by NRCan. | https://geonames.nrcan.gc.ca/search-place-names/search |
 | Canadian Heritage — Grants and Contributions Search | Canada · Federal | Funding database | Search 138,000+ Canadian Heritage grant/contribution agreements by recipient, program, value, year and province; whole dataset also downloadable as CSV. | https://search.open.canada.ca/grants?owner_org=pch |
+| Canadian Open Data Directory | Canada · Federal | Open data directory | Canada's first crowdsourced, fully bilingual index of open data publishers: 250 organizations producing open data across Canada, referencing over 100,000 datasets from the public sector, nonprofits and private industry, all freely accessible without payment. Searchable by topic and geography, with a visual data-storytelling experience. Volunteer-built by the Canadian Open Data Society; launched May 21, 2026, with updates via a public Google Sheet. | https://directory.opendatasociety.ca |
 | Census Program | Canada · Federal | Census portal | StatCan Census portal: 2026 Census (collection completed September 2026, 98.4% response), profiles, maps and reference materials; 2026 reference and geographic products from November 2026, full data releases through 2027. | https://www12.statcan.gc.ca/census-recensement/index-eng.cfm |
 | EODMS — Earth Observation Data Management System | Canada · Federal | Imagery search | Search and order from NRCan's archive of satellite imagery and the National Air Photo Library — over 3 million historical aerial photos of Canada dating to the 1920s, with footprints on a map. | https://eodms-sgdot.nrcan-rncan.gc.ca/index-en.html |
 | Federal Data Strategy Tracker | Canada · Federal | Progress tracker | Open Government tracker reporting progress on the 2023–2026 Federal Data Strategy's year 1 and year 2 priority actions, organized by mission. | https://search.open.canada.ca/datastrategy/ |
