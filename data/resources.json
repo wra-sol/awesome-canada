@@ -23980,38 +23980,6 @@
     "dateAdded": "2026-11-19"
   },
   {
-    "name": "Mississauga — Heritage Properties",
-    "level": "Municipal",
-    "jurisdiction": "Mississauga",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "City of Mississauga heritage-properties hub: 270+ designated properties, listed vs designated status, heritage approval process, and the Designated Heritage Property Grant; property-level heritage status lookup via the city's property portal.",
-    "url": "https://www.mississauga.ca/services-and-programs/building-and-renovating/heritage-properties/",
-    "tags": [
-      "mississauga",
-      "heritage",
-      "register",
-      "ontario"
-    ],
-    "dateAdded": "2026-11-19"
-  },
-  {
-    "name": "Oakville — Heritage Districts & Properties",
-    "level": "Municipal",
-    "jurisdiction": "Oakville",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "Town of Oakville heritage hub: searchable Heritage Register map covering close to 1,000 properties (designated Part IV, listed, and heritage-easement properties), nearly 700 designated properties either standalone or within four heritage conservation districts (Old Oakville, First & Second Street, Trafalgar Road, Downtown Oakville), plus the heritage grant program for designated properties.",
-    "url": "https://www.oakville.ca/business-development/planning-development/heritage-planning/heritage-districts-properties/",
-    "tags": [
-      "oakville",
-      "heritage",
-      "register",
-      "ontario"
-    ],
-    "dateAdded": "2026-11-19"
-  },
-  {
     "name": "Richmond — Heritage Inventory",
     "level": "Municipal",
     "jurisdiction": "Metro Vancouver",
@@ -24026,6 +23994,22 @@
       "british columbia"
     ],
     "dateAdded": "2026-11-18"
+  },
+  {
+    "name": "Mississauga — Heritage Properties",
+    "level": "Municipal",
+    "jurisdiction": "Mississauga",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Mississauga heritage-properties hub: 270+ designated properties, listed vs designated status, heritage approval process, and the Designated Heritage Property Grant; property-level heritage status lookup via the city's property portal.",
+    "url": "https://www.mississauga.ca/services-and-programs/building-and-renovating/heritage-properties/",
+    "tags": [
+      "mississauga",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-19"
   },
   {
     "name": "Montreal Protected Heritage Sites",
@@ -24043,6 +24027,22 @@
       "quebec"
     ],
     "dateAdded": "2026-05-27"
+  },
+  {
+    "name": "Oakville — Heritage Districts & Properties",
+    "level": "Municipal",
+    "jurisdiction": "Oakville",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "Town of Oakville heritage hub: searchable Heritage Register map covering close to 1,000 properties (designated Part IV, listed, and heritage-easement properties), nearly 700 designated properties either standalone or within four heritage conservation districts (Old Oakville, First & Second Street, Trafalgar Road, Downtown Oakville), plus the heritage grant program for designated properties.",
+    "url": "https://www.oakville.ca/business-development/planning-development/heritage-planning/heritage-districts-properties/",
+    "tags": [
+      "oakville",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-19"
   },
   {
     "name": "Ottawa Heritage Register (Not Designated)",
@@ -28516,6 +28516,24 @@
     "dateAdded": "2026-09-27"
   },
   {
+    "name": "ForThePublic.ca — Canada's Citizen Transparency Platform",
+    "level": "Federal",
+    "jurisdiction": "Canada",
+    "category": "open-data",
+    "type": "Transparency platform",
+    "description": "Independent, open-source civic transparency platform (launched 2026) aggregating government data — municipal budgets, housing, crime, permits and national statistics — into one clear interface; starting with Halifax, Nova Scotia, expanding across all 10 provinces and 3 territories; every figure sourced and dated from official portals under the Open Government Licence - Canada. In beta: some figures are marked SAMPLE placeholders and coverage is Halifax-focused today.",
+    "url": "https://www.forthepublic.ca/",
+    "tags": [
+      "transparency",
+      "open data",
+      "budgets",
+      "housing",
+      "crime",
+      "permits"
+    ],
+    "dateAdded": "2026-11-19"
+  },
+  {
     "name": "GEO.ca",
     "level": "Federal",
     "jurisdiction": "Canada",
@@ -30773,24 +30791,6 @@
       "Edmonton"
     ],
     "dateAdded": "2026-04-15"
-  },
-  {
-    "name": "ForThePublic.ca — Canada's Citizen Transparency Platform",
-    "level": "Federal",
-    "jurisdiction": "Canada",
-    "category": "open-data",
-    "type": "Transparency platform",
-    "description": "Independent, open-source civic transparency platform (launched 2026) aggregating government data — municipal budgets, housing, crime, permits and national statistics — into one clear interface; starting with Halifax, Nova Scotia, expanding across all 10 provinces and 3 territories; every figure sourced and dated from official portals under the Open Government Licence - Canada. In beta: some figures are marked SAMPLE placeholders and coverage is Halifax-focused today.",
-    "url": "https://www.forthepublic.ca/",
-    "tags": [
-      "transparency",
-      "open data",
-      "budgets",
-      "housing",
-      "crime",
-      "permits"
-    ],
-    "dateAdded": "2026-11-19"
   },
   {
     "name": "Fredericton Open Data Portal",
@@ -41191,23 +41191,6 @@
     "dateAdded": "2026-10-17"
   },
   {
-    "name": "BikeSpace — Toronto's Bike Parking App",
-    "level": "Municipal",
-    "jurisdiction": "Toronto",
-    "category": "transit",
-    "type": "Mobility map",
-    "description": "Volunteer-run bike-parking map for Toronto: find bike parking, report broken or missing racks, and view reported issues; also maps Level of Traffic Stress and reported bike thefts. Open source (github.com/bikespace/bikespace); a 2025 Toronto Open Data Award winner.",
-    "url": "https://bikespace.ca/",
-    "tags": [
-      "transit",
-      "bikes",
-      "bike parking",
-      "Toronto",
-      "open-data"
-    ],
-    "dateAdded": "2026-11-19"
-  },
-  {
     "name": "Brampton Transit — GTFS (GeoHub)",
     "level": "Municipal",
     "jurisdiction": "Brampton",
@@ -42588,6 +42571,23 @@
       "accessible"
     ],
     "dateAdded": "2026-10-09"
+  },
+  {
+    "name": "BikeSpace — Toronto's Bike Parking App",
+    "level": "Municipal",
+    "jurisdiction": "Toronto",
+    "category": "transit",
+    "type": "Mobility map",
+    "description": "Volunteer-run bike-parking map for Toronto: find bike parking, report broken or missing racks, and view reported issues; also maps Level of Traffic Stress and reported bike thefts. Open source (github.com/bikespace/bikespace); a 2025 Toronto Open Data Award winner.",
+    "url": "https://bikespace.ca/",
+    "tags": [
+      "transit",
+      "bikes",
+      "bike parking",
+      "Toronto",
+      "open-data"
+    ],
+    "dateAdded": "2026-11-19"
   },
   {
     "name": "Toronto Bicycle Counters",
