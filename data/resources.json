@@ -23787,6 +23787,22 @@
     "dateAdded": "2026-11-08"
   },
   {
+    "name": "Barrie — Municipal Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Barrie",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Barrie Municipal Heritage Register: the official publicly accessible list of designated buildings and buildings of heritage interest under the Ontario Heritage Act, with a Municipal Heritage Register Storymap for looking properties up on a map; the register is regularly reviewed and updated, and owners can apply to add eligible properties.",
+    "url": "https://www.barrie.ca/community-recreation-environment/heritage/municipal-heritage-register",
+    "tags": [
+      "barrie",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-20"
+  },
+  {
     "name": "Brampton — Heritage Identification",
     "level": "Municipal",
     "jurisdiction": "Brampton",
@@ -23833,6 +23849,22 @@
       "british columbia"
     ],
     "dateAdded": "2026-11-18"
+  },
+  {
+    "name": "Cambridge — History & Heritage",
+    "level": "Municipal",
+    "jurisdiction": "Cambridge",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Cambridge History & Heritage hub: the Heritage Properties Register (designated Part IV/V properties across Galt, Preston, Hespeler and Blair, plus three Heritage Conservation Districts: Blair Village, Main Street, Dickson Hill), a map lookup via maps.cambridge.ca showing designated properties in red and listed properties in green, designation guidance and the Designated Heritage Property Grant Program (up to $7,500/year). Note: the full register document itself is supplied on request rather than posted as a searchable page.",
+    "url": "https://www.cambridge.ca/business-building-development/building-planning/history-heritage/",
+    "tags": [
+      "cambridge",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-20"
   },
   {
     "name": "Calgary Heritage Inventory",
@@ -24043,6 +24075,22 @@
       "ontario"
     ],
     "dateAdded": "2026-11-19"
+  },
+  {
+    "name": "Oshawa — Heritage Properties",
+    "level": "Municipal",
+    "jurisdiction": "Oshawa",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Oshawa heritage hub: the Municipal Register of Properties of Cultural Heritage Value or Interest (40+ properties designated under Parts IV/V of the Ontario Heritage Act, including the South Field Heritage Conservation District; register PDF updated June 2025), the Heritage Oshawa Inventory of potential heritage properties, heritage research reports, alteration/demolition guidance and the heritage plaque program.",
+    "url": "https://www.oshawa.ca/explore-play/history-and-heritage/heritage-properties/",
+    "tags": [
+      "oshawa",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-20"
   },
   {
     "name": "Ottawa Heritage Register (Not Designated)",

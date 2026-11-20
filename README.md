@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2810 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2813 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 160
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 65
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 68
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -3580,8 +3580,10 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 |---|---|---|---|---|
 | Ontario — Archives of Ontario Collection Search | Ontario · Provincial | Archives database search | Search descriptions of Ontario's archival, library and art collections — records, photographs and maps — then request items or order reproductions. | https://aims.archives.gov.on.ca/ |
 | Ontario Heritage Trust — Ontario Heritage Act Register | Ontario · Provincial | Heritage register | Searchable public database of all properties designated under Ontario's Heritage Act — 30,200 designated properties with designation documents, searchable by property, municipality and heritage conservation district. | https://www.heritagetrust.on.ca/pages/tools/ontario-heritage-act-register |
+| Barrie — Municipal Heritage Register | Barrie · Municipal | Heritage register | City of Barrie Municipal Heritage Register: the official publicly accessible list of designated buildings and buildings of heritage interest under the Ontario Heritage Act, with a Municipal Heritage Register Storymap for looking properties up on a map; the register is regularly reviewed and updated, and owners can apply to add eligible properties. | https://www.barrie.ca/community-recreation-environment/heritage/municipal-heritage-register |
 | Brampton — Heritage Identification | Brampton · Municipal | Heritage register | City of Brampton heritage registers under the Ontario Heritage Act: the Municipal Register of Cultural Heritage Resources Designated under the Act and the register of listed (not yet designated) properties, both as downloadable PDFs, with designation details per property. | https://www1.brampton.ca/EN/Arts-Culture-Tourism/Cultural-Heritage/Pages/Identification.aspx |
 | Burlington — Municipal Cultural Heritage Register | Burlington · Municipal | Heritage register | City of Burlington Municipal Cultural Heritage Register: the official list of heritage properties regulated under the Ontario Heritage Act, with 70+ designated properties and 175+ non-designated properties, a map of all register properties, heritage permit guidance, and the Burlington Avenue and Ontario Street Heritage Conservation District plan approved March 2026. | https://www.burlington.ca/planning-and-development/heritage-conservation-planning/municipal-cultural-heritage-register/ |
+| Cambridge — History & Heritage | Cambridge · Municipal | Heritage register | City of Cambridge History & Heritage hub: the Heritage Properties Register (designated Part IV/V properties across Galt, Preston, Hespeler and Blair, plus three Heritage Conservation Districts: Blair Village, Main Street, Dickson Hill), a map lookup via maps.cambridge.ca showing designated properties in red and listed properties in green, designation guidance and the Designated Heritage Property Grant Program (up to $7,500/year). Note: the full register document itself is supplied on request rather than posted as a searchable page. | https://www.cambridge.ca/business-building-development/building-planning/history-heritage/ |
 | Cornwall Heritage Designated Sites Open Data | Cornwall · Municipal | Heritage register dataset | GIS layer of Heritage Cornwall designated properties — map, filter, and download designated sites with by-law references via open data portal. | https://data-cornwallcity.opendata.arcgis.com/datasets/7e4d2ad84e584cceb938711fec2f9f2c_0 |
 | Guelph — Municipal Register of Cultural Heritage Properties | Guelph · Municipal | Heritage register | City of Guelph Municipal Register of Cultural Heritage Properties: the city's official list of designated (Part IV and Part V, including the Brooklyn and College Hill Heritage Conservation District) and listed properties, presented in both table and map formats, with per-property designation pages giving bylaw, legal description and heritage attributes. Register consolidated February 2025. | https://guelph.ca/city-government/planning-and-development/community-plans-studies/heritage-conservation/guelph-cultural-heritage-register/ |
 | Hamilton Heritage Properties — Open Data | Hamilton · Municipal | Heritage register dataset | Designated and listed heritage properties in Hamilton as a downloadable GIS dataset on Open Hamilton. | https://open.hamilton.ca/datasets/heritage-properties |
@@ -3590,6 +3592,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Markham — Heritage Property Register | Markham · Municipal | Heritage register | Markham's Register of Property of Cultural Heritage Value or Interest: searchable by street address, ward, heritage district, date of construction or architectural style. Covers 1,730 properties (350+ individually designated under Part IV of the Ontario Heritage Act plus listed properties) across four heritage conservation districts (Thornhill, Markham Village, Unionville, Buttonville). | https://www.markham.ca/economic-development-business/planning-development-services/heritage-services/heritage-property-register |
 | Mississauga — Heritage Properties | Mississauga · Municipal | Heritage register | City of Mississauga heritage-properties hub: 270+ designated properties, listed vs designated status, heritage approval process, and the Designated Heritage Property Grant; property-level heritage status lookup via the city's property portal. | https://www.mississauga.ca/services-and-programs/building-and-renovating/heritage-properties/ |
 | Oakville — Heritage Districts & Properties | Oakville · Municipal | Heritage register | Town of Oakville heritage hub: searchable Heritage Register map covering close to 1,000 properties (designated Part IV, listed, and heritage-easement properties), nearly 700 designated properties either standalone or within four heritage conservation districts (Old Oakville, First & Second Street, Trafalgar Road, Downtown Oakville), plus the heritage grant program for designated properties. | https://www.oakville.ca/business-development/planning-development/heritage-planning/heritage-districts-properties/ |
+| Oshawa — Heritage Properties | Oshawa · Municipal | Heritage register | City of Oshawa heritage hub: the Municipal Register of Properties of Cultural Heritage Value or Interest (40+ properties designated under Parts IV/V of the Ontario Heritage Act, including the South Field Heritage Conservation District; register PDF updated June 2025), the Heritage Oshawa Inventory of potential heritage properties, heritage research reports, alteration/demolition guidance and the heritage plaque program. | https://www.oshawa.ca/explore-play/history-and-heritage/heritage-properties/ |
 | Ottawa Heritage Register (Not Designated) | Ottawa · Municipal | Heritage register layer | Query heritage register properties not yet designated — includes heritage statements, recognition status, and legal descriptions via Planning GIS. | https://maps.ottawa.ca/ArcGIS/rest/services/Planning/MapServer/60 |
 | SooMaps Heritage Sites Data | Sault Ste. Marie · Municipal | Heritage sites dataset | Weekly-refreshed CSV/JSON extracts of Sault Ste. Marie heritage sites from official GIS — sourced from city SooMaps open data program. | https://cityssm.github.io/soomaps-data/ |
 | Thunder Bay — Heritage Register CSV | Thunder Bay · Municipal | Dataset | CSV download of heritage-registered properties in Thunder Bay, including addresses, designation status, and heritage attributes. Useful for preservation research, development planning, and property due diligence. | https://opendata-thunderbay.hub.arcgis.com/datasets/bd50ba0dc1534a13b4cb6f057646b049 |
