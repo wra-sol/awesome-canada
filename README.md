@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2813 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2815 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 160
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 68
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 70
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -3544,6 +3544,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Archives — Genealogy Search | British Columbia · Provincial | Genealogy database | Royal BC Museum's searchable indexes of BC births (1854-1904), marriages (1871-1950) and deaths (1872-2005), with digitized registration images attached. | https://search-collections.royalbcmuseum.bc.ca/Genealogy |
 | Heritage Branch — BC Register of Historic Places | British Columbia · Provincial | Registry | Search 5,000+ provincially, municipally and federally recognized historic places by name, address or map; download filtered records as CSV or shapefile. | https://apps.nrs.gov.bc.ca/bcrhp/ |
 | Burnaby — Community Heritage Register | Burnaby · Municipal | Heritage register | Heritage Burnaby: searchable database of Burnaby's Community Heritage Register, 339 records with statements of significance, designation status, enactment bylaw and date, addresses, and archival photos, maintained by Burnaby Heritage Planning. | https://search.heritageburnaby.ca/ |
+| Kelowna — Heritage Register | Kelowna · Municipal | Heritage register | City of Kelowna Heritage Register: the city's official inventory of 200+ heritage properties, adopted by Council in 2000, searchable as a map or list; each listing carries a Statement of Significance with heritage value and character-defining features, covering the Abbott Street Heritage Conservation Area and other neighbourhoods. | https://www.kelowna.ca/our-community/arts-culture-heritage/get-creative/heritage/heritage-register |
 | Richmond — Heritage Inventory | Metro Vancouver · Municipal | Heritage register | City of Richmond Heritage Inventory: searchable inventory of heritage properties and areas (Steveston Cannery Row, Terra Nova, London Farmhouse and more), each with statement of significance, construction dates, designation status, and documentation. | https://www.richmond.ca/business-development/planning/heritage/inventory/ |
 | Surrey — Heritage Register & Protected Sites | Surrey · Municipal | Heritage register | City of Surrey Community Heritage Register: more than 200 formally recognized built, natural and cultural heritage properties, listed in a table with address and protection status (designation bylaw, revitalization agreement or covenant), plus the heritage inventory. | https://www.surrey.ca/renovating-building-development/land-planning-development/heritage-conservation/heritage-register-protected-sites |
 | Vancouver Heritage Sites | Vancouver · Municipal | Heritage register | Open data listing of Vancouver Heritage Register buildings, streetscapes, and landscape resources with evaluation categories. | https://opendata.vancouver.ca/explore/assets/heritage-sites/ |
@@ -3597,6 +3598,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | SooMaps Heritage Sites Data | Sault Ste. Marie · Municipal | Heritage sites dataset | Weekly-refreshed CSV/JSON extracts of Sault Ste. Marie heritage sites from official GIS — sourced from city SooMaps open data program. | https://cityssm.github.io/soomaps-data/ |
 | Thunder Bay — Heritage Register CSV | Thunder Bay · Municipal | Dataset | CSV download of heritage-registered properties in Thunder Bay, including addresses, designation status, and heritage attributes. Useful for preservation research, development planning, and property due diligence. | https://opendata-thunderbay.hub.arcgis.com/datasets/bd50ba0dc1534a13b4cb6f057646b049 |
 | Toronto Heritage Register (Map) | Toronto · Municipal | Heritage map | Interactive map of properties on the City of Toronto Heritage Register — search by address for listed and designated sites. | https://www.toronto.ca/city-government/planning-development/heritage-preservation/heritage-register/ |
+| Waterloo — Municipal Heritage Register | Waterloo · Municipal | Heritage register | City of Waterloo Municipal Heritage Register (official PDF, updated July 3, 2025): the full register of properties designated under Part IV of the Ontario Heritage Act plus 152 listed properties of cultural heritage value, with address, name, construction date, by-law number and designated features for each; actively maintained, with five more designations passing Council in October 2026 ahead of the January 1, 2027 Bill 23 de-listing deadline. | https://media-002-ca.cdn.govstack.com/waterloo-013-ca/media/v13nmqwg/waterloo-heritage-register.pdf |
 
 ### Quebec
 

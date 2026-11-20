@@ -23964,6 +23964,22 @@
     "dateAdded": "2026-05-27"
   },
   {
+    "name": "Kelowna — Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Kelowna",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Kelowna Heritage Register: the city's official inventory of 200+ heritage properties, adopted by Council in 2000, searchable as a map or list; each listing carries a Statement of Significance with heritage value and character-defining features, covering the Abbott Street Heritage Conservation Area and other neighbourhoods.",
+    "url": "https://www.kelowna.ca/our-community/arts-culture-heritage/get-creative/heritage/heritage-register",
+    "tags": [
+      "kelowna",
+      "heritage",
+      "register",
+      "bc"
+    ],
+    "dateAdded": "2026-11-20"
+  },
+  {
     "name": "Kingston Heritage Register",
     "level": "Municipal",
     "jurisdiction": "Kingston",
@@ -24240,6 +24256,22 @@
       "csv"
     ],
     "dateAdded": "2026-10-27"
+  },
+  {
+    "name": "Waterloo — Municipal Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Waterloo",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Waterloo Municipal Heritage Register (official PDF, updated July 3, 2025): the full register of properties designated under Part IV of the Ontario Heritage Act plus 152 listed properties of cultural heritage value, with address, name, construction date, by-law number and designated features for each; actively maintained, with five more designations passing Council in October 2026 ahead of the January 1, 2027 Bill 23 de-listing deadline.",
+    "url": "https://media-002-ca.cdn.govstack.com/waterloo-013-ca/media/v13nmqwg/waterloo-heritage-register.pdf",
+    "tags": [
+      "waterloo",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-20"
   },
   {
     "name": "Winnipeg — Cemetery Burial Search",
