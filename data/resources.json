@@ -23900,6 +23900,22 @@
     "dateAdded": "2026-05-27"
   },
   {
+    "name": "Coquitlam — Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Coquitlam",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "The City of Coquitlam's official Heritage Register: the list of properties, buildings and sites recognized as significant to the city's heritage, each with a Statement of Significance. Placement on the register follows evaluation of photographs, historic records and archival research.",
+    "url": "https://www.coquitlam.ca/298/Heritage-Register",
+    "tags": [
+      "coquitlam",
+      "heritage",
+      "register",
+      "bc"
+    ],
+    "dateAdded": "2026-11-21"
+  },
+  {
     "name": "Edmonton Register of Historic Resources",
     "level": "Municipal",
     "jurisdiction": "Edmonton",
@@ -24140,6 +24156,22 @@
       "saskatchewan"
     ],
     "dateAdded": "2026-11-17"
+  },
+  {
+    "name": "Red Deer — Inventory of Heritage Sites",
+    "level": "Municipal",
+    "jurisdiction": "Red Deer",
+    "category": "heritage",
+    "type": "Heritage inventory",
+    "description": "The City of Red Deer's official Inventory of Heritage Sites, browsable as six neighbourhood galleries (Bower Ponds, Downtown, Downtown Commercial, Downtown Residential, Mountview, Parkvale). Each site page gives its history, Statement of Significance PDF, municipal/provincial designation years and land-use overlay.",
+    "url": "https://www.reddeer.ca/about-red-deer/history/heritage/community-heritage-planning/red-deers-inventory-of-heritage-sites/",
+    "tags": [
+      "red deer",
+      "heritage",
+      "inventory",
+      "alberta"
+    ],
+    "dateAdded": "2026-11-21"
   },
   {
     "name": "Saskatoon — Heritage Register",

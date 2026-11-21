@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2816 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2818 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
 
 ---
 
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 160
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 70
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 72
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -3545,6 +3545,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | BC Archives — Genealogy Search | British Columbia · Provincial | Genealogy database | Royal BC Museum's searchable indexes of BC births (1854-1904), marriages (1871-1950) and deaths (1872-2005), with digitized registration images attached. | https://search-collections.royalbcmuseum.bc.ca/Genealogy |
 | Heritage Branch — BC Register of Historic Places | British Columbia · Provincial | Registry | Search 5,000+ provincially, municipally and federally recognized historic places by name, address or map; download filtered records as CSV or shapefile. | https://apps.nrs.gov.bc.ca/bcrhp/ |
 | Burnaby — Community Heritage Register | Burnaby · Municipal | Heritage register | Heritage Burnaby: searchable database of Burnaby's Community Heritage Register, 339 records with statements of significance, designation status, enactment bylaw and date, addresses, and archival photos, maintained by Burnaby Heritage Planning. | https://search.heritageburnaby.ca/ |
+| Coquitlam — Heritage Register | Coquitlam · Municipal | Heritage register | The City of Coquitlam's official Heritage Register: the list of properties, buildings and sites recognized as significant to the city's heritage, each with a Statement of Significance. Placement on the register follows evaluation of photographs, historic records and archival research. | https://www.coquitlam.ca/298/Heritage-Register |
 | Kelowna — Heritage Register | Kelowna · Municipal | Heritage register | City of Kelowna Heritage Register: the city's official inventory of 200+ heritage properties, adopted by Council in 2000, searchable as a map or list; each listing carries a Statement of Significance with heritage value and character-defining features, covering the Abbott Street Heritage Conservation Area and other neighbourhoods. | https://www.kelowna.ca/our-community/arts-culture-heritage/get-creative/heritage/heritage-register |
 | Richmond — Heritage Inventory | Metro Vancouver · Municipal | Heritage register | City of Richmond Heritage Inventory: searchable inventory of heritage properties and areas (Steveston Cannery Row, Terra Nova, London Farmhouse and more), each with statement of significance, construction dates, designation status, and documentation. | https://www.richmond.ca/business-development/planning/heritage/inventory/ |
 | Surrey — Heritage Register & Protected Sites | Surrey · Municipal | Heritage register | City of Surrey Community Heritage Register: more than 200 formally recognized built, natural and cultural heritage properties, listed in a table with address and protection status (designation bylaw, revitalization agreement or covenant), plus the heritage inventory. | https://www.surrey.ca/renovating-building-development/land-planning-development/heritage-conservation/heritage-register-protected-sites |
@@ -3558,6 +3559,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Provincial Archives of Alberta | Alberta · Provincial | Archives | Alberta's provincial archives — search millions of photographs, films, and government and private records | https://provincialarchives.alberta.ca/ |
 | Calgary Heritage Inventory | Calgary · Municipal | Heritage inventory | Inventory of evaluated heritage resources in Calgary — search historic buildings and sites on Open Calgary. | https://data.calgary.ca/browse?category=Heritage |
 | Edmonton Register of Historic Resources | Edmonton · Municipal | Heritage register | Search Edmonton's Register of Historic Resources for municipally designated and inventoried heritage properties. | https://www.edmonton.ca/heritage |
+| Red Deer — Inventory of Heritage Sites | Red Deer · Municipal | Heritage inventory | The City of Red Deer's official Inventory of Heritage Sites, browsable as six neighbourhood galleries (Bower Ponds, Downtown, Downtown Commercial, Downtown Residential, Mountview, Parkvale). Each site page gives its history, Statement of Significance PDF, municipal/provincial designation years and land-use overlay. | https://www.reddeer.ca/about-red-deer/history/heritage/community-heritage-planning/red-deers-inventory-of-heritage-sites/ |
 
 ### Saskatchewan
 
