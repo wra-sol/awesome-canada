@@ -23932,6 +23932,22 @@
     "dateAdded": "2026-06-01"
   },
   {
+    "name": "Gatineau — Inventaire du patrimoine bâti traditionnel",
+    "level": "Municipal",
+    "jurisdiction": "Gatineau",
+    "category": "heritage",
+    "type": "Heritage inventory",
+    "description": "The City of Gatineau's official inventory of traditional built heritage, redone 2023-2024 under Quebec's Cultural Heritage Act: detailed record sheets for more than 2,800 buildings plus 26 cemeteries and 8 crosses, browsable by sector (Hull, Aylmer, Buckingham, Masson-Angers, Gatineau), each sheet with history, photos, protection status and a heritage-interest score.",
+    "url": "https://www.gatineau.ca/portail/default.aspx?p=guichet_municipal/patrimoine/patrimoine_bati/inventaire_patrimoine_traditionnel",
+    "tags": [
+      "gatineau",
+      "heritage",
+      "inventory",
+      "quebec"
+    ],
+    "dateAdded": "2026-11-21"
+  },
+  {
     "name": "Guelph — Municipal Register of Cultural Heritage Properties",
     "level": "Municipal",
     "jurisdiction": "Guelph",
@@ -24010,6 +24026,22 @@
       "ontario heritage act"
     ],
     "dateAdded": "2026-05-27"
+  },
+  {
+    "name": "Laval — Patrimoine bâti",
+    "level": "Municipal",
+    "jurisdiction": "Laval",
+    "category": "heritage",
+    "type": "Heritage inventory",
+    "description": "The City of Laval's official built-heritage page: the city adopted an inventory of buildings with heritage value under article 120 of Quebec's Cultural Heritage Act, revised periodically, and the page presents the inventoried buildings by neighbourhood with address, construction year and history (e.g. Maison Joseph-Labelle, Maison André-Benjamin-Papineau, Église Saint-Maurice-de-Duvernay). Per-sector inventory PDFs also published.",
+    "url": "https://www.laval.ca/culture/histoire-patrimoine/patrimoine-lavallois/patrimoine-bati/",
+    "tags": [
+      "laval",
+      "heritage",
+      "inventory",
+      "quebec"
+    ],
+    "dateAdded": "2026-11-21"
   },
   {
     "name": "London Register of Cultural Heritage Resources — CityMap",
@@ -43163,7 +43195,7 @@
     "category": "transport-roads",
     "type": "Road conditions",
     "description": "NWT highway conditions, closures, and cameras",
-    "url": "https://www.dot.gov.nt.ca/Highways/Highway-Conditions",
+    "url": "https://drivenwt.ca/",
     "tags": [
       "NWT",
       "road conditions"

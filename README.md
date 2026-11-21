@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2818 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2820 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -51,7 +51,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🌾 Agriculture, Food & Drink](#agriculture-food-and-drink) — 65
 - [🔬 Science, Research & Space](#science-research-and-space) — 66
 - [🎭 Heritage, Culture & Arts](#heritage-culture-and-arts) — 160
-- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 72
+- [🖼️ Heritage Registers & Public Art](#heritage-registers-and-public-art) — 74
 - [📋 Lobbyists, Ethics & Disclosure](#lobbyists-ethics-and-disclosure) — 23
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
@@ -2316,7 +2316,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
-| 511 Northwest Territories | Northwest Territories · Provincial | Road conditions | NWT highway conditions, closures, and cameras | https://www.dot.gov.nt.ca/Highways/Highway-Conditions |
+| 511 Northwest Territories | Northwest Territories · Provincial | Road conditions | NWT highway conditions, closures, and cameras | https://drivenwt.ca/ |
 | NT Drive Yukon — 511 Yukon | Yukon · Provincial | Road conditions | Yukon highway conditions, closures, and cameras | https://511yukon.ca/ |
 | Yukon — Driver Licensing | Yukon · Provincial | Service | Yukon driver's licensing, ID cards, and road tests | https://yukon.ca/en/driving-and-transportation/driver-licensing |
 
@@ -3608,6 +3608,8 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Répertoire du patrimoine culturel du Québec | Quebec · Provincial | Heritage register | Official register of Quebec's cultural heritage: classified and recognized buildings, archaeological sites, heritage districts, and intangible heritage, with legal status maps per municipality. | https://www.patrimoine-culturel.gouv.qc.ca/rpcq/ |
+| Gatineau — Inventaire du patrimoine bâti traditionnel | Gatineau · Municipal | Heritage inventory | The City of Gatineau's official inventory of traditional built heritage, redone 2023-2024 under Quebec's Cultural Heritage Act: detailed record sheets for more than 2,800 buildings plus 26 cemeteries and 8 crosses, browsable by sector (Hull, Aylmer, Buckingham, Masson-Angers, Gatineau), each sheet with history, photos, protection status and a heritage-interest score. | https://www.gatineau.ca/portail/default.aspx?p=guichet_municipal/patrimoine/patrimoine_bati/inventaire_patrimoine_traditionnel |
+| Laval — Patrimoine bâti | Laval · Municipal | Heritage inventory | The City of Laval's official built-heritage page: the city adopted an inventory of buildings with heritage value under article 120 of Quebec's Cultural Heritage Act, revised periodically, and the page presents the inventoried buildings by neighbourhood with address, construction year and history (e.g. Maison Joseph-Labelle, Maison André-Benjamin-Papineau, Église Saint-Maurice-de-Duvernay). Per-sector inventory PDFs also published. | https://www.laval.ca/culture/histoire-patrimoine/patrimoine-lavallois/patrimoine-bati/ |
 | Montreal Protected Heritage Sites | Montreal · Municipal | Heritage dataset | Geographic and descriptive data on buildings and sites under Quebec Cultural Heritage Act on Montreal territory — polygon boundaries with RPCQ links. | https://donnees.montreal.ca/dataset/sites-immeubles-proteges-lpc |
 
 ### Atlantic Canada (NB, NS, PE, NL)
