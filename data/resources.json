@@ -23851,22 +23851,6 @@
     "dateAdded": "2026-11-18"
   },
   {
-    "name": "Cambridge — History & Heritage",
-    "level": "Municipal",
-    "jurisdiction": "Cambridge",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "City of Cambridge History & Heritage hub: the Heritage Properties Register (designated Part IV/V properties across Galt, Preston, Hespeler and Blair, plus three Heritage Conservation Districts: Blair Village, Main Street, Dickson Hill), a map lookup via maps.cambridge.ca showing designated properties in red and listed properties in green, designation guidance and the Designated Heritage Property Grant Program (up to $7,500/year). Note: the full register document itself is supplied on request rather than posted as a searchable page.",
-    "url": "https://www.cambridge.ca/business-building-development/building-planning/history-heritage/",
-    "tags": [
-      "cambridge",
-      "heritage",
-      "register",
-      "ontario"
-    ],
-    "dateAdded": "2026-11-20"
-  },
-  {
     "name": "Calgary Heritage Inventory",
     "level": "Municipal",
     "jurisdiction": "Calgary",
@@ -23881,6 +23865,22 @@
       "open data"
     ],
     "dateAdded": "2026-05-27"
+  },
+  {
+    "name": "Cambridge — History & Heritage",
+    "level": "Municipal",
+    "jurisdiction": "Cambridge",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Cambridge History & Heritage hub: the Heritage Properties Register (designated Part IV/V properties across Galt, Preston, Hespeler and Blair, plus three Heritage Conservation Districts: Blair Village, Main Street, Dickson Hill), a map lookup via maps.cambridge.ca showing designated properties in red and listed properties in green, designation guidance and the Designated Heritage Property Grant Program (up to $7,500/year). Note: the full register document itself is supplied on request rather than posted as a searchable page.",
+    "url": "https://www.cambridge.ca/business-building-development/building-planning/history-heritage/",
+    "tags": [
+      "cambridge",
+      "heritage",
+      "register",
+      "ontario"
+    ],
+    "dateAdded": "2026-11-20"
   },
   {
     "name": "Cornwall Heritage Designated Sites Open Data",
