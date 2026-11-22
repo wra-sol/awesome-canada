@@ -23883,6 +23883,22 @@
     "dateAdded": "2026-11-20"
   },
   {
+    "name": "Coquitlam — Heritage Register",
+    "level": "Municipal",
+    "jurisdiction": "Coquitlam",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "The City of Coquitlam's official Heritage Register: the list of properties, buildings and sites recognized as significant to the city's heritage, each with a Statement of Significance. Placement on the register follows evaluation of photographs, historic records and archival research.",
+    "url": "https://www.coquitlam.ca/298/Heritage-Register",
+    "tags": [
+      "coquitlam",
+      "heritage",
+      "register",
+      "bc"
+    ],
+    "dateAdded": "2026-11-21"
+  },
+  {
     "name": "Cornwall Heritage Designated Sites Open Data",
     "level": "Municipal",
     "jurisdiction": "Cornwall",
@@ -23898,22 +23914,6 @@
       "geojson"
     ],
     "dateAdded": "2026-05-27"
-  },
-  {
-    "name": "Coquitlam — Heritage Register",
-    "level": "Municipal",
-    "jurisdiction": "Coquitlam",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "The City of Coquitlam's official Heritage Register: the list of properties, buildings and sites recognized as significant to the city's heritage, each with a Statement of Significance. Placement on the register follows evaluation of photographs, historic records and archival research.",
-    "url": "https://www.coquitlam.ca/298/Heritage-Register",
-    "tags": [
-      "coquitlam",
-      "heritage",
-      "register",
-      "bc"
-    ],
-    "dateAdded": "2026-11-21"
   },
   {
     "name": "Edmonton Register of Historic Resources",
@@ -24174,22 +24174,6 @@
     "dateAdded": "2026-05-27"
   },
   {
-    "name": "Regina — Heritage Properties & Conservation",
-    "level": "Municipal",
-    "jurisdiction": "Regina",
-    "category": "heritage",
-    "type": "Heritage register",
-    "description": "City of Regina heritage program: 104 municipally designated heritage properties plus the heritage inventory, with an interactive Heritage Properties Map to check any address, and Heritage Conservation District information.",
-    "url": "https://www.regina.ca/home-property/heritage-properties/",
-    "tags": [
-      "regina",
-      "heritage",
-      "register",
-      "saskatchewan"
-    ],
-    "dateAdded": "2026-11-17"
-  },
-  {
     "name": "Red Deer — Inventory of Heritage Sites",
     "level": "Municipal",
     "jurisdiction": "Red Deer",
@@ -24204,6 +24188,22 @@
       "alberta"
     ],
     "dateAdded": "2026-11-21"
+  },
+  {
+    "name": "Regina — Heritage Properties & Conservation",
+    "level": "Municipal",
+    "jurisdiction": "Regina",
+    "category": "heritage",
+    "type": "Heritage register",
+    "description": "City of Regina heritage program: 104 municipally designated heritage properties plus the heritage inventory, with an interactive Heritage Properties Map to check any address, and Heritage Conservation District information.",
+    "url": "https://www.regina.ca/home-property/heritage-properties/",
+    "tags": [
+      "regina",
+      "heritage",
+      "register",
+      "saskatchewan"
+    ],
+    "dateAdded": "2026-11-17"
   },
   {
     "name": "Saskatoon — Heritage Register",
@@ -26770,22 +26770,6 @@
       "search"
     ],
     "dateAdded": "2026-10-21"
-  },
-  {
-    "name": "Blackfoot Confederacy — Lands and Tribes",
-    "level": "Provincial",
-    "jurisdiction": "Alberta",
-    "category": "indigenous",
-    "type": "Governance overview",
-    "description": "Tribal governance and land overview for the Blackfoot Confederacy (Kainai, Siksika, Blood, Piikani, Tsuut'ina — Alberta/Saskatchewan), the treaty negotiating organization for the Blackfoot peoples — for citizens and treaty researchers.",
-    "url": "https://blackfootconfederacy.ca/lands-and-tribes/",
-    "tags": [
-      "indigenous",
-      "blackfoot",
-      "treaty",
-      "lands"
-    ],
-    "dateAdded": "2026-10-04"
   },
   {
     "name": "Otipemisiwak Métis Government — Citizenship",

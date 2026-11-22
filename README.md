@@ -3,11 +3,11 @@
 > A curated list of official Canadian government digital tools, portals, open data, maps, calculators, and public-interest resources.
 
 [![Validate](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml/badge.svg)](https://github.com/wra-sol/awesome-canada/actions/workflows/validate.yml)
-[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Deploys-Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white)](https://awesome-canada.ca/)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawesome-canada.ca&label=live)](https://awesome-canada.ca/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2820 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2819 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -19,7 +19,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 - New resources: see [CONTRIBUTING.md](CONTRIBUTING.md)
 - Schema and categories: [`scripts/categories.js`](scripts/categories.js)
-- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC, research PRs at 05:00 UTC
+- Maintenance runs on a Cloudflare Worker (`worker/`) — nightly link cleaning at 04:00 UTC and research at 05:00 UTC
 
 ---
 
@@ -56,7 +56,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🚨 Emergency, Safety & Alerts](#emergency-safety-and-alerts) — 90
 - [⚖️ Justice, Courts & Legal](#justice-courts-and-legal) — 69
 - [🛡️ Consumer Protection & Privacy](#consumer-protection-and-privacy) — 79
-- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 49
+- [🪶 Indigenous Services & Treaties](#indigenous-services-and-treaties) — 48
 - [🎖️ Veterans & Military](#veterans-and-military) — 37
 - [🗳️ Elections & Democracy](#elections-and-democracy) — 102
 - [📡 Telecommunications & Digital](#telecommunications-and-digital) — 29
@@ -4131,7 +4131,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Name | Jurisdiction · Level | Type | Description | URL |
 |---|---|---|---|---|
 | Alberta — Metis Settlements Land Registry | Alberta · Provincial | Land registry | Alberta's Metis Settlements Land Registry records interests in land on Alberta's eight Metis Settlements, the only legislated Métis land base in Canada. The service covers land interests such as allotments and Metis title, appeals to the Metis Settlement Appeal Tribunal, and registry searches of who holds an interest in a parcel. | https://www.alberta.ca/metis-settlement-land-interests |
-| Blackfoot Confederacy — Lands and Tribes | Alberta · Provincial | Governance overview | Tribal governance and land overview for the Blackfoot Confederacy (Kainai, Siksika, Blood, Piikani, Tsuut'ina — Alberta/Saskatchewan), the treaty negotiating organization for the Blackfoot peoples — for citizens and treaty researchers. | https://blackfootconfederacy.ca/lands-and-tribes/ |
 | Otipemisiwak Métis Government — Citizenship | Alberta · Provincial | Citizenship registry | Citizenship registration service of the Otipemisiwak Métis Government, the Métis Nation within Alberta, distinct from its already-catalogued harvesting program page. Applicants register as citizens by submitting a family tree, birth certificate and identification, with help from the Registry Intake Team. | https://albertametis.com/citizenship/ |
 | Otipemisiwak Métis Government — Harvesting Program | Alberta · Provincial | Registry & program | Métis Harvester Identification Cards for Otipemisiwak citizens: hunt, fish and trap for food in designated Alberta harvesting areas, with RELM integration for free domestic fishing licences. | https://albertametis.com/harvesting/ |
 
