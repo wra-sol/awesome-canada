@@ -42163,22 +42163,6 @@
     "dateAdded": "2026-10-16"
   },
   {
-    "name": "Cobourg Transit",
-    "level": "Municipal",
-    "jurisdiction": "Ontario",
-    "category": "transit",
-    "type": "Transit",
-    "description": "The Town of Cobourg's transit service in Ontario: routes and schedules, fares, the Wheels accessible transit service, and service notices.",
-    "url": "https://www.cobourg.ca/en/parks-recreation-community/public-transit.aspx",
-    "tags": [
-      "transit",
-      "bus",
-      "Cobourg",
-      "schedules"
-    ],
-    "dateAdded": "2026-10-17"
-  },
-  {
     "name": "Kawartha Lakes Transit",
     "level": "Municipal",
     "jurisdiction": "Ontario",

@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2819 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2818 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -42,7 +42,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 - [🤝 Benefits & Social Services](#benefits-and-social-services) — 71
 - [🏠 Housing & Real Estate](#housing-and-real-estate) — 76
 - [🛣️ Transportation & Roads](#transportation-and-roads) — 57
-- [🚌 Transit & Mobility](#transit-and-mobility) — 152
+- [🚌 Transit & Mobility](#transit-and-mobility) — 151
 - [✈️ Aviation, Marine & Rail](#aviation-marine-and-rail) — 39
 - [🌲 Parks, Trails & Outdoors](#parks-trails-and-outdoors) — 97
 - [🌍 Environment, Climate & Monitoring](#environment-climate-and-monitoring) — 99
@@ -2452,7 +2452,6 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | Bradford West Gwillimbury Transit | Ontario · Municipal | Transit | Bradford West Gwillimbury's BWG Transit service in Ontario: town bus routes and schedules, fares, and service information. | https://www.townofbwg.com/living-in-bwg/roads-and-transit/transit/ |
 | Brockville Transit | Ontario · Municipal | Transit | The City of Brockville's transit service in Ontario: bus routes and schedules, fares, and accessible para-transit information. | https://brockville.com/transit/ |
 | Chatham-Kent Transit (Ride CK) | Ontario · Municipal | Transit | Chatham-Kent's Ride CK public transit service in Ontario: inter-community and Chatham routes, schedules, fares, and accessible transit information. | https://www.chatham-kent.ca/transit/Pages/default.aspx |
-| Cobourg Transit | Ontario · Municipal | Transit | The Town of Cobourg's transit service in Ontario: routes and schedules, fares, the Wheels accessible transit service, and service notices. | https://www.cobourg.ca/en/parks-recreation-community/public-transit.aspx |
 | Kawartha Lakes Transit | Ontario · Municipal | Transit | The City of Kawartha Lakes' transit service in Ontario: Lindsay Transit routes and schedules, fares, and the LIMO rural on-demand service. | https://www.kawarthalakes.ca/property-environment/transportation-and-transit/lindsay-transit/ |
 | Kenora Transit | Ontario · Municipal | Transit | The City of Kenora's transit service in northwestern Ontario: 'The Wave' on-demand microtransit (which replaced fixed-route buses in 2024), with fares, service hours and booking information. | https://www.kenora.ca/living-here/transit/ |
 | Leamington Transit (LTGO) | Ontario · Municipal | Transit | The Municipality of Leamington's transit service in Ontario: LTGO on-demand transit (which replaced the fixed-route service; the LTW Leamington-to-Windsor route was discontinued in 2026), with fares, service hours and booking information. | https://www.leamington.ca/our-community/transit/ |
