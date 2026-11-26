@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](CONTRIBUTING.md)
 
-**Quick stats:** 2818 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
+**Quick stats:** 2812 resources · 35 categories · covering Federal, Provincial, Territorial, Regional and Municipal governments.
 
 ---
 
@@ -25,7 +25,7 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 
 ## Table of Contents
 
-- [📊 Open Data & Statistics](#open-data-and-statistics) — 245
+- [📊 Open Data & Statistics](#open-data-and-statistics) — 239
 - [🏗️ Planning, Zoning & Development](#planning-zoning-and-development) — 102
 - [🏛️ Council, Democracy & Transparency](#council-democracy-and-transparency) — 147
 - [💳 Budget, Finance & Procurement](#budget-finance-and-procurement) — 120
@@ -287,19 +287,13 @@ The list is generated from [`data/resources.json`](data/resources.json) — the 
 | CNESST — Lésions professionnelles Accepted Claims Dataset | Quebec · Provincial | Open data | Download annual CSV/XLSX files (2014-2023) of accepted Quebec work-injury claims by region, sector, and injury type; CKAN datastore API available. | https://www.donneesquebec.ca/recherche/dataset/0e3ba082-a963-4771-95a2-accc43ae244c |
 | Données Québec | Quebec · Provincial | Open data portal | Strong open data portal with datasets, apps, and interactive map components | https://www.donneesquebec.ca/ |
 | Données Québec — API | Quebec · Provincial | Catalogue API | Search and download datasets from Québec's open-data catalogue programmatically via its CKAN-based API — package_search and datastore actions, bilingual metadata. | https://www.donneesquebec.ca/recherche/api |
-| Hydro-Québec — Données Québec | Quebec · Provincial | Open data catalogue | Hydro-Québec datasets on Données Québec — 10 datasets including electricity production sources, provincial demand and consumption history by sector, river flows and greenhouse-gas emission factors. | https://www.donneesquebec.ca/recherche/organization/hydro-quebec |
 | MAMH — Répertoire des municipalités du Québec | Quebec · Provincial | Reference dataset | Daily-updated directory of every Quebec municipality and MRC: contacts, mayors and councillors, population decrees, regional affiliations and inactive organizations. Bulk XML downloads with related reference files. | https://www.donneesquebec.ca/recherche/dataset/repertoire-des-municipalites-du-quebec |
-| Ministère des Transports et de la Mobilité durable — Données Québec | Quebec · Provincial | Open data catalogue | MTQ datasets on Données Québec — 31 datasets including road warnings, winter road conditions, traffic flow, weather stations and drainage, with CSV and GeoJSON download. | https://www.donneesquebec.ca/recherche/organization/mtq |
 | Gatineau — Atlas de Gatineau | Gatineau · Municipal | Interactive GIS atlas | Explore Gatineau geospatial data — toggle map layers, view aerial photography, and overlay your own Shapefile, CSV or KML data on the city's interactive atlas. | https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes%2Fcartes%2Fcarte_interactive_atlas_gatineau |
 | Laval — Interactive Map | Laval · Municipal | Interactive city map | Browse Ville de Laval's Geoweb interactive maps to view municipal data layers — properties, services, infrastructure and territory information — by address. | https://www.laval.ca/en/interactive-map/ |
-| Ville de Laval — Données Québec | Laval · Municipal | Open data catalogue | Laval municipal datasets on Données Québec — 130 datasets including heritage buildings, wetlands, forest cover and urban planning data with CSV, GeoJSON and SHP download. | https://www.donneesquebec.ca/recherche/organization/ville-de-laval |
-| Ville de Lévis — Données Québec | Lévis · Municipal | Open data catalogue | Lévis municipal datasets on Données Québec — zonage, adresses, infrastructures with CSV, SHP, GeoJSON, and FGDB download. | https://www.donneesquebec.ca/recherche/organization/ville-de-levis |
 | Longueuil — GéoHub Données ouvertes | Longueuil · Municipal | Portail de données | Open data portal with 12 categories of datasets (environment, transport, infrastructure) downloadable in CSV, GeoJSON, SHP with API access. | https://geohub.longueuil.quebec/pages/donnees-ouvertes |
 | Longueuil Open Data Portal (ArcGIS Hub) | Longueuil · Municipal | Open data hub | ArcGIS Hub open data portal for Longueuil with downloadable GIS datasets (CSV, GeoJSON, Shapefile) and REST/OGC API access — owner VilleLongueuil, ~890 datasets incl. 311 container tracking. Verified live via the OGC items API returning HTTP 200. | https://longueuil.opendata.arcgis.com/ |
 | Données Montréal — CKAN API | Montreal · Municipal | Catalogue API | Search and download Ville de Montréal datasets programmatically via its CKAN Action API — city services, permits, transport and culture data in bilingual metadata, no key required. | https://donnees.montreal.ca/api/3/action/package_search |
 | Montreal Open Data Portal | Montreal · Municipal | Open data portal | Ville de Montréal open data site with hundreds of datasets — buildings, transit, elections, and civic services in CSV and API. | https://donnees.montreal.ca/ |
-| Ville de Saint-Hyacinthe — Données Québec | Quebec · Municipal | Open data catalogue | Saint-Hyacinthe municipal datasets on Données Québec — 27 datasets including zoning, electoral districts, civic addresses, the cycling network and fire hydrants, with downloadable open data. | https://www.donneesquebec.ca/recherche/organization/ville-de-saint-hyacinthe |
-| Ville de Saint-Jean-sur-Richelieu — Données Québec | Quebec · Municipal | Open data catalogue | Saint-Jean-sur-Richelieu municipal datasets on Données Québec — zoning and electoral districts, with downloadable open data. | https://www.donneesquebec.ca/recherche/organization/ville-de-saint-jean-sur-richelieu |
 | Quebec City — Carte interactive | Quebec City · Municipal | Interactive city map | Explore Quebec City's official interactive map with layers for roadwork and traffic obstructions, snow removal operations, zoning and municipal services. | https://www.ville.quebec.qc.ca/carteinteractive/ |
 | Repentigny Open Data Portal (ArcGIS Hub) | Repentigny · Municipal | Open data hub | ArcGIS Hub open data portal for Repentigny with downloadable GIS datasets (CSV, GeoJSON, Shapefile) and REST/OGC API access — owner georepentigny, ~430 datasets. Verified live via the OGC items API returning HTTP 200. | https://repentigny.opendata.arcgis.com/ |
 | Rimouski Open Data Portal (ArcGIS Hub) | Rimouski · Municipal | Open data hub | ArcGIS Hub open data portal for Rimouski with downloadable GIS datasets (CSV, GeoJSON, Shapefile) and REST/OGC API access — owner Geo_Rimouski, 129 datasets incl. the five-year development plan and boil-water notices. Verified live via the OGC items API returning HTTP 200. | https://rimouski.opendata.arcgis.com/ |
